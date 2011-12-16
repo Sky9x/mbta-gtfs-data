@@ -38,7 +38,6 @@
 "place-matt","","Mattapan Station","","42.267762","-71.092241","","",1,""
 "place-mlmnl","","Malden Center Station","","42.426632","-71.07411","","",1,""
 "place-mvbcl","","Maverick Station","","42.36911856","-71.03952958","","",1,""
-"place-nemnl","","New England Medical Center Station","","42.349662","-71.063917","","",1,""
 "place-north","","North Station","","42.365577","-71.06129","","",1,""
 "place-nqncy","","North Quincy Station","","42.275275","-71.029583","","",1,""
 "place-ogmnl","","Oak Grove Station","","42.43668","-71.071097","","",1,""
@@ -62,6 +61,7 @@
 "place-state","","State St. Station","","42.358978","-71.057598","","",1,""
 "place-sull","","Sullivan Station","","42.383975","-71.076994","","",1,""
 "place-symcl","","Symphony Station","","42.342687","-71.085056","","",1,""
+"place-tumnl","","Tufts Medical Center Station","","42.349662","-71.063917","","",1,""
 "place-welln","","Wellington Station","","42.40237","-71.077082","","",1,""
 "place-wimnl","","Wood Island Station","","42.3796403","-71.02286539","","",1,""
 "place-wlsta","","Wollaston Station","","42.2665139","-71.0203369","","",1,""
@@ -93,7 +93,7 @@
 "101","101","Massachusetts Ave @ Sidney St",,"42.362988","-71.099487",,,,
 "10100","10100","Albany St @ Melnea Cass Blvd",,"42.331299","-71.076889",,,,
 "10101","10101","Melnea Cass Blvd @ Harrison Ave",,"42.332066","-71.079147",,,,
-"10134","10134","Massachusetts Ave @ NStar",,"42.324783","-71.065216",,,,
+"10134","10134","Massachusetts Ave @ NStar",,"42.32478","-71.065216",,,,
 "102","102","Massachusetts Ave @ Prospect St",,"42.365486","-71.103802",,,,"place-cntsq"
 "1026","1026","Chestnut Hill Ave @ Veronica Smith Ctr",,"42.347694","-71.153923",,,,
 "1027","1027","Chestnut Hill Ave @ Englewood Ave",,"42.33712","-71.152077",,,,
@@ -198,7 +198,7 @@
 "1097","1097","Faneuil St @ Hobart St",,"42.35397","-71.158134",,,,
 "1098","1098","Hobart St @ Falkland St",,"42.354858","-71.158562",,,,
 "11","11","Melnea Cass Blvd @ Kerr Way",,"42.334763","-71.084457",,,,
-"110","110","Massachusetts Ave @ Holyoke St - Holyoke Gate",,"42.373362","-71.118956",,,,"place-harsq"
+"110","110","Massachusetts Ave @ Holyoke St - Holyoke Gate",,"42.37326","-71.118126",,,,
 "1100","1100","Hobart St @ Brooks St",,"42.355537","-71.16243",,,,
 "1102","1102","N Beacon St @ Parsons St",,"42.358299","-71.157997",,,,
 "1103","1103","N Beacon St @ Goodenough St",,"42.357468","-71.153824",,,,
@@ -235,8 +235,9 @@
 "1122","1122","Magazine St @ Auburn St",,"42.363869","-71.105736",,,,
 "11228","11228","Tremont St @ Lenox St",,"42.337784","-71.083038",,,,
 "1123","1123","Green St @ Magazine St",,"42.364933","-71.104408",,,,
-"11241","11241","South Bay Mall @ Target",,"42.330444","-71.063347",,,,
-"11242","11242","South Bay Mall @ Office Max",,"42.327469","-71.061806",,,,
+"11241","11241","South Bay Mall @ Target",,"42.329918","-71.061783",,,,
+"11242","11242","South Bay Mall @ Office Max",,"42.327477","-71.061821",,,,
+"11243","11243","South Bay Mall @ Stop and Shop",,"42.32642","-71.06469",,,,
 "11245","11245","Tremont St @ Berkeley St",,"42.345467","-71.069801",,,,
 "11257","11257","Malcolm X Blvd @ King St",,"42.331196","-71.09269",,,,
 "11259","11259","Malcolm X Blvd @ Shawmut Ave",,"42.329483","-71.086205",,,,
@@ -626,7 +627,7 @@
 "13828","13828","Opp 85 Columbian St",,"42.176258","-70.953552",,,,
 "13829","13829","Opp 41 Columbian St",,"42.175262","-70.952187",,,,
 "1383","1383","Dartmouth St @ Tremont St",,"42.342976","-71.073761",,,,
-"13830","13830","Pleasant St @ Wilbur St",,"42.172741","-70.95401",,,,
+"13830","13830","Pleasant St @ Main St",,"42.17186","-70.95517",,,,
 "13831","13831","Opp 861 Main St",,"42.175274","-70.955368",,,,
 "13832","13832","780 Main St",,"42.178837","-70.955269",,,,
 "13833","13833","650 Main ST",,"42.184204","-70.955322",,,,
@@ -684,13 +685,7 @@
 "1411","1411","Cambridge St @ Sixth St",,"42.371609","-71.084923",,,,
 "1412","1412","Cambridge St @ Fifth St",,"42.371395","-71.083267",,,,
 "1413","1413","Cambridge St @ Sciarappa St",,"42.371185","-71.081635",,,,
-"1415","1415","Lechmere Station - Inbound Side",,"42.370772","-71.076536",,,,"place-lech"
 "14150","14150","Lechmere Station - Outbound Side",,"42.370772","-71.076536",,,,"place-lech"
-"14151","14151","O'Brien Hwy @ Museum of Science",,"42.367832","-71.070694",,,,
-"14155","14155","Nashua St @ Science Park",,"42.367348","-71.067276",,,,
-"14156","14156","O'Brien Hwy opp Museum of Science",,"42.368832","-71.072083",,,,
-"14158","14158","North Station Shuttle Stop",,"42.365577","-71.06129",,,,"place-north"
-"14159","14159","Martha Rd @ Amy Court",,"42.36594","-71.066261",,,,
 "1416","1416","Cambridge St @ Third St",,"42.371078","-71.080025",,,,
 "1417","1417","Cambridge St @ Sciarappa St",,"42.371284","-71.081696",,,,
 "1418","1418","Cambridge St @ Fifth St",,"42.371498","-71.083321",,,,
@@ -745,6 +740,7 @@
 "1450","1450","Arsenal St opp Beachwood Ave",,"42.364445","-71.173416",,,,
 "1451","1451","Arsenal St opp  Beacon Pk",,"42.364628","-71.17543",,,,
 "1452","1452","Arsenal St @ Irving St",,"42.364857","-71.178947",,,,
+"14543","14543","435 Highland Ave",,"42.493782","-70.9338",,,,
 "14544","14544","Highland Ave opp Olde Village Dr",,"42.496067","-70.932236",,,,
 "14546","14546","331 Highland Ave",,"42.500172","-70.927231",,,,
 "14548","14548","Highland Ave @ Hawthorne Sq",,"42.50436","-70.921677",,,,
@@ -1057,6 +1053,7 @@
 "16539","16539","Milk St @ Devonshire St",,"42.356754","-71.057434",,,,
 "16540","16540","Franklin St @ Washington St",,"42.356266","-71.059364",,,,
 "16551","16551","Congress St @ Franklin St",,"42.355507","-71.055611",,,,
+"1656","1656","Mystic St @ Garden St",,"42.418301","-71.151001",,,,
 "1657","1657","Mystic St @ Rangely Rd",,"42.420437","-71.153008",,,,
 "1658","1658","Mystic St @ Farrington St",,"42.421406","-71.153763",,,,
 "1659","1659","201 Mystic St",,"42.422234","-71.153809",,,,
@@ -1295,16 +1292,17 @@
 "1847","1847","Weld St @ Church St",,"42.293003","-71.149475",,,,
 "1848","1848","Weld St @ W Roxbury Pkwy",,"42.293697","-71.146172",,,,
 "1849","1849","Weld St @ Burnside Ave",,"42.293262","-71.144646",,,,
-"185","185","Mattapan Station",,"42.267762","-71.092241",,,,"place-matt"
+"185","185","Mattapan Station - North Busway",,"42.267762","-71.092241",,,,"place-matt"
 "1850","1850","Weld St @ Ravenna Rd",,"42.293106","-71.143326",,,,
 "1851","1851","Weld St @ Cerdan Ave",,"42.293533","-71.140076",,,,
+"18511","18511","Mattapan Station - South Busway",,"42.267762","-71.092241",,,,"place-matt"
 "1852","1852","Weld St @ Colby Rd",,"42.293671","-71.138855",,,,
 "1853","1853","Weld St @ Centre St",,"42.294411","-71.135666",,,,
 "18542","18542","Dedham St opp Rosalie Rd",,"42.302032","-71.19001",,,,
 "1856","1856","170 Walter St",,"42.294727","-71.130569",,,,
 "1857","1857","144 Walter St opp Mendum St",,"42.292587","-71.130539",,,,
 "1858","1858","112 Walter St opp Cotton St",,"42.291851","-71.130753",,,,
-"18581","18581","Walter St @ Coniston Rd",,"42.291283","-71.131783",,,,
+"18581","18581","Walter St opp Ashfield St",,"42.291142","-71.132095",,,,
 "1859","1859","Walter St @ Sheffield St",,"42.289749","-71.133453",,,,
 "1860","1860","Walter St @ Hewlett St",,"42.288963","-71.134178",,,,
 "18618","18618","Washington St @ Sylvia Ln",,"42.238861","-71.181",,,,
@@ -1472,7 +1470,7 @@
 "2095","2095","Huron Ave @ Larch Rd",,"42.380241","-71.143723",,,,
 "2096","2096","Aberdeen Ave @ Huron Ave",,"42.378571","-71.14743",,,,
 "2097","2097","Opp 61 Aberdeen Ave",,"42.376938","-71.146736",,,,
-"2098","2098","Aberdeen Ave @ Mt Auburn St",,"42.375309","-71.146034",,,,
+"2098","2098","Aberdeen Ave @ Mt Auburn St",,"42.375484","-71.146111",,,,
 "2099","2099","Trapelo Rd @ Church St",,"42.387501","-71.18998",,,,
 "21","21","E Broadway @ G St",,"42.335407","-71.044395",,,,
 "210","210","Summer St @ Dry Dock Ave",,"42.344379","-71.039017",,,,
@@ -1601,7 +1599,7 @@
 "2203","2203","West Service Rd @ Florence Ave",,"42.414646","-71.191505",,,,
 "221","221","Atlantic Ave. @ Congress St.",,"42.35379","-71.053185",,,,
 "2215","2215","B St @ Seaport Blvd",,"42.3503","-71.042816",,,,
-"2217","2217","Broadway @ Ware St",,"42.373821","-71.112595",,,,
+"2217","2217","454 Broadway",,"42.373447","-71.111671",,,,
 "22173","22173","Amesbury St @ Vassar St",,"42.354816","-71.105194",,,,
 "2218","2218","Broadway @ Ellery St",,"42.372761","-71.109863",,,,
 "222","222","Atlantic Ave @ Seaport Blvd.",,"42.354897","-71.051125",,,,
@@ -1860,7 +1858,6 @@
 "24489","24489","Broadway @ Norfolk St",,"42.368618","-71.099152",,,,
 "2449","2449","Prospect St @ Gardner Rd",,"42.370758","-71.099922",,,,
 "24490","24490","Broadway @ Prospect St",,"42.369251","-71.100746",,,,
-"2450","2450","Prospect St @ Hampshire St",,"42.372074","-71.098984",,,,
 "2451","2451","Hampshire St @ Cambridge St",,"42.373436","-71.100426",,,,
 "2452","2452","Beacon St @ Dickinson St",,"42.374439","-71.10157",,,,
 "2453","2453","45 Beacon St.",,"42.376602","-71.104263",,,,
@@ -1909,7 +1906,7 @@
 "249","249","B St @ Silver St",,"42.340515","-71.054337",,,,
 "2490","2490","Appleton St @ Udine St",,"42.419262","-71.195564",,,,
 "2491","2491","Appleton St @ Lublin St",,"42.417919","-71.198265",,,,
-"2493","2493","Service Road West @ Watertown St",,"42.418556","-71.205772",,,,
+"2493","2493","Service Road West @ Watertown St",,"42.418686","-71.20488",,,,
 "2494","2494","East Service Rd @ Golden Ave",,"42.416275","-71.199097",,,,
 "24940","24940","149 Lynnfield St",,"42.516705","-70.959084",,,,
 "2495","2495","East Service Rd @ Standish Rd",,"42.415184","-71.195305",,,,
@@ -2335,9 +2332,9 @@
 "2902","2902","Mystic Ave @ Kensingston Ave",,"42.39193","-71.084984",,,,
 "2904","2904","Columbia Rd. @ Wolcott",,"42.303375","-71.083527",,,,
 "2905","2905","Boston St @ Ellery St",,"42.328461","-71.057732",,,,
-"29050","29050","Stop and Shop",,"42.325516","-71.063652",,,,
-"29051","29051","South Bay Mall @ Office Max",,"42.327427","-71.061584",,,,
-"29052","29052","South Bay Mall @ Target",,"42.330627","-71.063217",,,,
+"29050","29050","South Bay Mall @ Stop and Shop",,"42.326355","-71.064514",,,,
+"29051","29051","South Bay Mall @ Office Max",,"42.327427","-71.061577",,,,
+"29052","29052","South Bay Mall @ Target",,"42.329971","-71.061722",,,,
 "2906","2906","Boston St opp Washburn St",,"42.325806","-71.058968",,,,
 "2907","2907","Boston St @ W Howell St",,"42.325142","-71.05925",,,,
 "2908","2908","Boston St opp Harvest St",,"42.323524","-71.060356",,,,
@@ -2348,7 +2345,7 @@
 "2912","2912","Columbia Rd @ Glendale St",,"42.312641","-71.068634",,,,
 "2913","2913","Columbia Rd @ Quincy St",,"42.311272","-71.070412",,,,
 "2914","2914","Columbia Rd @ Hamilton St",,"42.310291","-71.072281",,,,
-"2915","2915","Columbia Rd @ Intervale St",,"42.309231","-71.073898",,,,
+"2915","2915","Columbia Rd opp Wyola Pl",,"42.30846","-71.075089",,,,
 "2916","2916","Columbia Rd @ Devon St",,"42.307465","-71.076248",,,,
 "2918","2918","Columbia Rd @ Geneva Ave",,"42.306217","-71.078323",,,,
 "2919","2919","Columbia Rd @ Washington St",,"42.305519","-71.080505",,,,
@@ -2378,7 +2375,7 @@
 "2941","2941","Watertown St opp Crescent Rd",,"42.419216","-71.207375",,,,
 "2942","2942","Watertown St opp Pleasant St",,"42.42215","-71.208908",,,,
 "2943","2943","48 Pleasant St",,"42.423801","-71.20816",,,,
-"2944","2944","Pleasant St opp Fern St",,"42.428078","-71.206833",,,,
+"2944","2944","Pleasant St opp Fern St",,"42.427425","-71.207024",,,,
 "295","295","P St @ E 5th St",,"42.33411","-71.027199",,,,
 "296","296","P St @ Columbia Rd",,"42.332657","-71.027168",,,,
 "29618","29618","863 Washington St @ Douglas Ave",,"42.186821","-71.203033",,,,
@@ -2531,7 +2528,7 @@
 "3137","3137","E Squantum St opp Beechwood on the Bay",,"42.289803","-71.022453",,,,
 "3139","3139","E Squantum St opp Victory Rd",,"42.292557","-71.021568",,,,
 "31391","31391","Huntington Ave @ Gainsborough St",,"42.341579","-71.086609",,,,
-"3140","3140","E Squantum St @ Heath St",,"42.296074","-71.019272",,,,
+"3140","3140","E Squantum St @ Deerfield St",,"42.296314","-71.018784",,,,
 "3141","3141","E Squantum St @ Essex St",,"42.296928","-71.017456",,,,
 "3143","3143","Huckins Ave @ E Squantum St",,"42.296871","-71.014442",,,,
 "3144","3144","Huckins Ave @ Standish Rd",,"42.297062","-71.010918",,,,
@@ -3310,7 +3307,6 @@
 "3869","3869","Washington St @ Taylor St",,"42.204872","-71.004875",,,,
 "387","387","Warren St @ Intervale St",,"42.312317","-71.082977",,,,
 "3870","3870","Washington St @ Summer St",,"42.203754","-71.005142",,,,
-"3871","3871","Washington St @ Pearl St",,"42.202316","-71.005135",,,,
 "3872","3872","Hancock St @ Hall Ave",,"42.200848","-71.005165",,,,
 "3873","3873","Hancock St @ Hancock Ave",,"42.197906","-71.005173",,,,
 "3874","3874","Hancock St @ Washington St",,"42.195717","-71.00528",,,,
@@ -3369,7 +3365,6 @@
 "3924","3924","Hancock St @ Plain St",,"42.196037","-71.005066",,,,
 "3925","3925","Hancock St opp Hancock Ave",,"42.197674","-71.005058",,,,
 "3926","3926","Hancock St opp Hall Ave",,"42.200665","-71.005035",,,,
-"3927","3927","Washington St @ Pearl St",,"42.202381","-71.005013",,,,
 "3928","3928","Washington St opp Summer St",,"42.203568","-71.005035",,,,
 "393","393","Warren St @ Woodbine St",,"42.319958","-71.081383",,,,
 "3930","3930","Washington St @ Gilbert Bean Dr",,"42.207008","-71.004166",,,,
@@ -3438,7 +3433,8 @@
 "3985","3985","1002 S Franklin St",,"42.123768","-71.012299",,,,
 "3986","3986","S Franklin St @ Hamilton Way",,"42.122471","-71.01403",,,,
 "3987","3987","S Franklin St @ Howard Ave",,"42.120991","-71.016426",,,,
-"39870","39870","Montello Commuter Rail Station",,"42.105801","-71.020966",,,,
+"39870","39870","Montello Commuter Rail Station",,"42.106804","-71.020874",,,,
+"3988","3988","Howard St @ Lisa Dr",,"42.11982","-71.016899",,,,
 "3989","3989","S Franklin St @ Howard Ave",,"42.1208","-71.01651",,,,
 "399","399","Warren St opp Kearsage Ave",,"42.327385","-71.083313",,,,
 "3990","3990","S Franklin St opp Hamilton Way",,"42.122253","-71.014076",,,,
@@ -3473,14 +3469,14 @@
 "4013","4013","Franklin St @ Elmwood Ave",,"42.207371","-71.012413",,,,
 "4014","4014","Franklin St @ Hollingsworth Ave",,"42.208572","-71.013954",,,,
 "4015","4015","Franklin St @ Reed Hill Rd",,"42.210121","-71.016068",,,,
-"4016","4016","Franklin St @ West St",,"42.211773","-71.019127",,,,
+"4016","4016","Franklin St @ West St",,"42.211777","-71.019226",,,,
 "4017","4017","Granite St @ West St",,"42.212757","-71.020195",,,,
-"4019","4019","S Shore Plaza @ Garage",,"42.218842","-71.023193",,,,
+"4019","4019","S Shore Plaza @ Garage",,"42.22049","-71.023651",,,,
 "402","402","Warren St opp Montrose St",,"42.323231","-71.082672",,,,
-"4020","4020","S Shore Mall Rd @ Travelers Ins.",,"42.216717","-71.021919",,,,
+"4020","4020","S Shore Mall Rd @ Travelers Ins.",,"42.217293","-71.022575",,,,
 "4023","4023","Granite St @ Davis Rd",,"42.215992","-71.02314",,,,
 "4024","4024","Granite St @ West St",,"42.212074","-71.019836",,,,
-"4025","4025","Franklin St @ Granite St",,"42.211662","-71.019127",,,,
+"4025","4025","Franklin St @ Granite St",,"42.211651","-71.019196",,,,
 "4026","4026","Franklin St opp Reed Hill Rd",,"42.210171","-71.016335",,,,
 "4027","4027","Franklin St opp Hollingsworth Ave",,"42.208775","-71.014389",,,,
 "4028","4028","Franklin St opp Elmwood Ave",,"42.207436","-71.012672",,,,
@@ -4359,7 +4355,7 @@
 "490","490","Washington St @ Armadine St",,"42.284588","-71.071571",,,,
 "4900","4900","Humphrey St opp Ocean Ave",,"42.474758","-70.893806",,,,
 "49001","49001","Temple Pl @ Washington St",,"42.355385","-71.06221",,,,
-"49002","49002","Washington St @ Tufts Med Ctr",,"42.349907","-71.063683",,,,
+"49002","49002","Washington St @ Tufts Med Ctr",,"42.349662","-71.063917",,,,"place-tumnl"
 "49003","49003","Washington St @ Herald St",,"42.346458","-71.064697",,,,
 "4901","4901","Humphrey St @ Orchard Circle",,"42.473976","-70.894287",,,,
 "4902","4902","Humphrey St @ Orchard Rd",,"42.472401","-70.894722",,,,
@@ -4457,7 +4453,7 @@
 "49817","49817","Lexington St @ Totman Rd",,"42.472095","-71.174744",,,,
 "49818","49818","94 Lexington St",,"42.47401","-71.17057",,,,
 "4982","4982","Bow St @ Montvale Ave",,"42.482204","-71.140686",,,,
-"49820","49820","50 Lexington St",,"42.475315","-71.167114",,,,
+"49820","49820","28 Lexington St",,"42.475254","-71.167267",,,,
 "49821","49821","20 Lexington St",,"42.476063","-71.164612",,,,
 "49822","49822","Lexington St opp Burlington St",,"42.476845","-71.162498",,,,
 "49823","49823","126 Pleasant St opp Valley Rd",,"42.476814","-71.16111",,,,
@@ -4523,6 +4519,7 @@
 "50000","50000","Mishawum Commuter Rail Station",,"42.503433","-71.138168",,,,
 "50001","50001","Ryan Rd @ New Industrial Rd",,"42.504086","-71.140312",,,,
 "5002","5002","Salem St opp River St",,"42.418552","-71.107834",,,,
+"50021","50021","Ring Rd @ Riverside Towers",,"42.416279","-71.106415",,,,
 "5003","5003","High St @ Hillside Ave",,"42.419174","-71.112907",,,,
 "5004","5004","High St @ Powder House Rd",,"42.420235","-71.114929",,,,
 "5005","5005","High St @ Rural Ave - Winthrop Circle",,"42.421295","-71.117554",,,,
@@ -4890,7 +4887,6 @@
 "5468","5468","Lebanon St @ Valley St",,"42.437393","-71.046974",,,,
 "5469","5469","Lebanon St @ Marshall Ave",,"42.44001","-71.048592",,,,
 "547","547","500 Arborway",,"42.301071","-71.10714",,,,
-"5470","5470","409 Lebanon St",,"42.440559","-71.049034",,,,
 "5471","5471","Lebanon St @ Swains Pond Ave",,"42.441559","-71.04911",,,,
 "5472","5472","Lebanon St Loop",,"42.442108","-71.048965",,,,
 "5473","5473","Eastern Ave @ Lynn St",,"42.431625","-71.026421",,,,
@@ -4910,8 +4906,7 @@
 "5488","5488","Broadway @ Ferry St",,"42.415234","-71.048187",,,,
 "5489","5489","Broadway @ Waverly Ave",,"42.413849","-71.049347",,,,
 "549","549","Geneva Ave @ Columbia Rd",,"42.305893","-71.07814",,,,
-"5490","5490","Broadway @ Chestnut St",,"42.412987","-71.050064",,,,
-"5491","5491","Broadway @ Hosmer St",,"42.412121","-71.050888",,,,
+"5490","5490","Broadway @ Raymond St",,"42.413307","-71.049835",,,,
 "5492","5492","Broadway @ Hancock St",,"42.410896","-71.05201",,,,
 "5493","5493","Broadway @ Pleasant St",,"42.40958","-71.053253",,,,
 "5494","5494","Broadway @ Webster St",,"42.408585","-71.054169",,,,
@@ -4936,14 +4931,12 @@
 "551","551","Geneva Ave opp Olney St",,"42.304874","-71.074295",,,,
 "5510","5510","Broadway @ Mansfield St",,"42.407768","-71.054756",,,,
 "5511","5511","Broadway @ Summer St",,"42.408825","-71.053787",,,,
-"5512","5512","Broadway @ Hampshire St",,"42.409637","-71.05304",,,,
 "5513","5513","Broadway @ High St",,"42.410534","-71.052193",,,,
 "5514","5514","Broadway @ Lexington St",,"42.411919","-71.050919",,,,
 "5515","5515","Broadway @ Gledhill  St",,"42.416866","-71.046684",,,,
-"5516","5516","Broadway @ Chestnut St",,"42.412804","-71.050102",,,,
 "5517","5517","Broadway @ Reed Ave",,"42.413414","-71.04953",,,,
 "5518","5518","Broadway @ Ferry St",,"42.414886","-71.048317",,,,
-"5519","5519","Broadway @ Gladstone Terr",,"42.416058","-71.047356",,,,
+"5519","5519","Broadway @ Coburn Terr",,"42.416054","-71.047356",,,,
 "552","552","Geneva Ave @ Bowdoin St",,"42.303421","-71.071564",,,,
 "5520","5520","Broadway @ Summit Ave",,"42.418194","-71.045563",,,,
 "5521","5521","Broadway @ Lynn St",,"42.419693","-71.044258",,,,
@@ -5376,7 +5369,7 @@
 "5945","5945","Lebanon St opp Naples Rd",,"42.44577","-71.057198",,,,
 "5946","5946","Lebanon St opp Hopkins St",,"42.444138","-71.056046",,,,
 "5947","5947","Lebanon St @ Forest St",,"42.443264","-71.054672",,,,
-"5948","5948","Lebanon St @ Mountain Ave",,"42.442993","-71.053505",,,,
+"5948","5948","Lebanon St @ South Mountain Ave",,"42.442993","-71.053505",,,,
 "595","595","Dorchester Ave opp Valley Rd",,"42.277935","-71.066406",,,,
 "5950","5950","Lebanon St opp Bratley St",,"42.442787","-71.051834",,,,
 "5951","5951","Lebanon St @ Swains Pond Ave",,"42.441597","-71.04924",,,,
@@ -5675,7 +5668,6 @@
 "6418","6418","Truman Hwy @ Williams Ave",,"42.251575","-71.11953",,,,
 "6419","6419","Fairmont Ave @ Truman Hwy",,"42.252728","-71.118408",,,,
 "642","642","Washington St @ Tollgate Way",,"42.296253","-71.117615",,,,
-"6420","6420","Fairmont Ave @ Pierce St",,"42.254654","-71.11998",,,,
 "6428","6428","Cummins Hwy @ Washington St",,"42.286327","-71.12809",,,,
 "6430","6430","Cummins Hwy. @ Sycamore St.",,"42.284332","-71.125038",,,,
 "6431","6431","93 Cummins Hwy opp Sherwood St",,"42.282974","-71.124107",,,,
@@ -5705,7 +5697,7 @@
 "6495","6495","Hyde Park Ave opp Walk Hill St",,"42.29623","-71.116226",,,,
 "6496","6496","Hyde Park Ave @ Cummins Hwy",,"42.280071","-71.119034",,,,
 "6497","6497","Hyde Park Ave @ Canterbury St",,"42.278515","-71.119362",,,,
-"6498","6498","691 Hyde Park Ave",,"42.276745","-71.11972",,,,
+"6498","6498","703 Hyde Park Ave",,"42.276745","-71.11972",,,,
 "6499","6499","735 Hyde Park Ave",,"42.275002","-71.119995",,,,
 "65","65","State St @ Washington Mall - State St Sta",,"42.358978","-71.057598",,,,"place-state"
 "6500","6500","807 Hyde Park Ave opp American Legion Hwy",,"42.272701","-71.1203",,,,
@@ -5756,7 +5748,7 @@
 "6555","6555","Surface Artery @ Beach St",,"42.351192","-71.059395",,,,
 "65618","65618","Washington St @ Holiday Inn",,"42.231647","-71.184753",,,,
 "6564","6564","Summer St @ South Station- Red Line entrance",,"42.352271","-71.055242",,,,"place-sstat"
-"6565","6565","Washington St @ Tufts Med Ctr",,"42.349972","-71.063416",,,,
+"6565","6565","Washington St @ Tufts Med Ctr",,"42.349662","-71.063917",,,,"place-tumnl"
 "6567","6567","Washington St @ Essex St",,"42.352463","-71.062553",,,,
 "6569","6569","Corporation Way",,"42.404686","-71.075508",,,,
 "6570","6570","S Huntington Ave @ Perkins St",,"42.321503","-71.112007",,,,
@@ -5847,7 +5839,6 @@
 "6690","6690","Boston St @ Myrtle St",,"42.463737","-70.975838",,,,
 "6691","6691","Myrtle St @ Wilfred St",,"42.465412","-70.976097",,,,
 "6692","6692","Myrtle St @ Woodbine St",,"42.466347","-70.976189",,,,
-"6693","6693","103 Myrtle St",,"42.467644","-70.976295",,,,
 "6694","6694","Myrtle St @ Holyoke St",,"42.468769","-70.976433",,,,
 "6695","6695","Holyoke St opp Gardiner St",,"42.46851","-70.977554",,,,
 "6696","6696","Holyoke St opp Farrell Rd",,"42.468121","-70.9786",,,,
@@ -5899,7 +5890,6 @@
 "6750","6750","Holyoke St @ Farrell Rd",,"42.468063","-70.97847",,,,
 "6751","6751","Holyoke St @ Gardiner St",,"42.468456","-70.977417",,,,
 "6752","6752","Holyoke St @ Myrtle St",,"42.468773","-70.976585",,,,
-"6753","6753","100 Myrtle St",,"42.467819","-70.97644",,,,
 "6754","6754","Myrtle St @ Florence St",,"42.466003","-70.97628",,,,
 "6755","6755","28 Myrtle St",,"42.464752","-70.976128",,,,
 "6756","6756","Myrtle St @ Boston St",,"42.463753","-70.976013",,,,
@@ -6029,8 +6019,8 @@
 "70013","70013","Massachusetts Ave Sta - Inbound",,"42.341512","-71.083423",,,,"place-masta"
 "70014","70014","Back Bay Station - Outbound",,"42.34735","-71.075727",,,,"place-bbsta"
 "70015","70015","Back Bay Sta - Inbound",,"42.34735","-71.075727",,,,"place-bbsta"
-"70016","70016","Tufts Medical Ctr - Outbound",,"42.349522","-71.064034",,,,
-"70017","70017","Tufts  Medical Ctr - Inbound",,"42.34951","-71.063896",,,,
+"70016","70016","Tufts Medical Ctr - Outbound",,"42.349662","-71.063917",,,,"place-tumnl"
+"70017","70017","Tufts  Medical Ctr - Inbound",,"42.349662","-71.063917",,,,"place-tumnl"
 "70018","70018","Chinatown Station - Outbound",,"42.352547","-71.062752",,,,"place-chncl"
 "70019","70019","Chinatown Station - Inbound",,"42.352547","-71.062752",,,,"place-chncl"
 "70020","70020","Downtown Crossing - to Forest Hills",,"42.355518","-71.060225",,,,"place-dwnxg"
@@ -6106,8 +6096,8 @@
 "70093","70093","Ashmont Station - Red Line",,"42.284652","-71.064489",,,,"place-asmnl"
 "70094","70094","Ashmont Station Red Line Inbound",,"42.284652","-71.064489",,,,"place-asmnl"
 "70095","70095","JFK/UMASS Braintree - Outbound",,"42.320685","-71.052391",,,,"place-jfkred"
-"70096","70096","JKF/UMASS Braintree - Inbound",,"42.320685","-71.052391",,,,"place-jfkred"
-"70097","70097","No Quincy Staion - Outbound",,"42.275275","-71.029583",,,,"place-nqncy"
+"70096","70096","JFK/UMASS Braintree - Inbound",,"42.320685","-71.052391",,,,"place-jfkred"
+"70097","70097","No Quincy Station - Outbound",,"42.275275","-71.029583",,,,"place-nqncy"
 "70098","70098","No Quincy Station - Inbound",,"42.275275","-71.029583",,,,"place-nqncy"
 "70099","70099","Wollaston Station - Outbound",,"42.2665139","-71.0203369",,,,"place-wlsta"
 "70100","70100","Wollaston Station - Inbound",,"42.2665139","-71.0203369",,,,"place-wlsta"
@@ -6172,8 +6162,8 @@
 "70167","70167","Eliot Station - Outbound",,"42.319023","-71.216713",,,,
 "70168","70168","Newton Highlands Station - Inbound",,"42.321686","-71.206062",,,,
 "70169","70169","Newton Highlands Station - Outbound",,"42.321735","-71.206116",,,,
-"70170","70170","Newton Centre Station - Inbound",,"42.329441","-71.19245",,,,
-"70171","70171","Newton Centre Station - Outbound",,"42.329441","-71.19245",,,,
+"70170","70170","Newton Centre Station - Inbound",,"42.329338","-71.19239",,,,
+"70171","70171","Newton Centre Station - Outbound",,"42.329391","-71.192429",,,,
 "70172","70172","Chestnut Hill Station - Inbound",,"42.326633","-71.165298",,,,
 "70173","70173","Chestnut Hill Station - Outbound",,"42.326653","-71.165314",,,,
 "70174","70174","Reservoir Station - Inbound",,"42.335027","-71.148952",,,,"place-rsmnl"
@@ -6197,8 +6187,8 @@
 "70202","70202","Government Center Station - Green Line Westbound",,"42.359705","-71.059215",,,,"place-gover"
 "70203","70203","Haymarket - Green Line Outbound",,"42.363021","-71.05829",,,,"place-haecl"
 "70204","70204","Haymarket - Green Line Inbound",,"42.363021","-71.05829",,,,"place-haecl"
-"70205","70205","North Station - Green Line Outbound",,"42.365665","-71.060577",,,,
-"70206","70206","North Station - Green Line Inbound",,"42.365646","-71.060623",,,,
+"70205","70205","North Station - Green Line Outbound",,"42.365577","-71.06129",,,,"place-north"
+"70206","70206","North Station - Green Line Inbound",,"42.365577","-71.06129",,,,"place-north"
 "70207","70207","Science Park - Green Line Outbound",,"42.366664","-71.067666",,,,"place-spmnl"
 "70208","70208","Science Park - Green Line Inbound",,"42.366664","-71.067666",,,,"place-spmnl"
 "70209","70209","Lechmere - Green Line",,"42.370772","-71.076536",,,,"place-lech"
@@ -6508,7 +6498,7 @@
 "7372","7372","Chestnut St @ Adams St",,"42.47361","-70.941597",,,,
 "7373","7373","Chestnut St @ Chestnut Ave",,"42.471989","-70.93985",,,,
 "7374","7374","Chestnut St @ Essex St",,"42.470413","-70.938011",,,,
-"7376","7376","Summer St opp River St",,"42.457855","-70.972633",,,,
+"7376","7376","Summer St @ Linden St",,"42.457779","-70.973236",,,,
 "7377","7377","Summer St opp Margin St",,"42.458382","-70.976181",,,,
 "7378","7378","Summer St opp Dearborn Ave",,"42.458927","-70.977173",,,,
 "7379","7379","Summer St @ Raddin Grove Ave",,"42.459625","-70.978409",,,,
@@ -6731,7 +6721,7 @@
 "7634","7634","Washington St @ Jewett St",,"42.355442","-71.191956",,,,
 "7635","7635","Washington St @ Church St",,"42.355846","-71.190193",,,,
 "76377","76377","River St @ Winthrop St",,"42.25692","-71.120262",,,,
-"76378","76378","River St @ Webster St",,"42.257553","-71.119614",,,,
+"76378","76378","River St @ Webster St",,"42.257442","-71.11982",,,,
 "764","764","85 Stimson St",,"42.260921","-71.159714",,,,
 "7640","7640","Washington St @ Hovey St",,"42.355995","-71.190033",,,,
 "7641","7641","Washington St @ Jewett St",,"42.355576","-71.19175",,,,
@@ -7618,8 +7608,8 @@
 "86459","86459","Cummins Hwy opp Pleasantview St",,"42.27504","-71.110237",,,,
 "8646","8646","Massachusetts Ave @ Gibson Rd",,"42.430725","-71.207802",,,,
 "8647","8647","Massachusetts Ave @ Pleasant St",,"42.429321","-71.207153",,,,
-"8648","8648","Pleasant St @ Fern St",,"42.427769","-71.207069",,,,
-"8649","8649","Pleasant St @ Luongo's Farm Stand",,"42.423122","-71.208542",,,,
+"8648","8648","Pleasant St @ Fern St",,"42.427372","-71.207207",,,,
+"8649","8649","Pleasant St @ Luongo's Farm Lane",,"42.423122","-71.208542",,,,
 "86491","86491","Watertown St @ Pleasant St",,"42.4221","-71.209023",,,,
 "86500","86500","American Legion Hwy @ Franklin Hill Ave",,"42.295769","-71.092216",,,,
 "8651","8651","Watertown St @ Crescent Rd",,"42.419109","-71.207367",,,,
@@ -8045,7 +8035,6 @@
 "9197","9197","Main St opp Linden Rd",,"42.464615","-71.061783",,,,
 "9198","9198","Main St @ Melrose St",,"42.463287","-71.061974",,,,
 "9199","9199","Main St @ Lebanon St",,"42.460636","-71.062317",,,,
-"92","92","Massachusetts Ave @ Belvidere St",,"42.346542","-71.087296",,,,
 "920","920","Cambridge St @ Washington St",,"42.348904","-71.150154",,,,
 "9200","9200","Main St @ Emerson St",,"42.458862","-71.063133",,,,
 "9201","9201","Main St @ Essex St",,"42.456326","-71.064621",,,,
@@ -8269,7 +8258,7 @@
 "9983","9983","Stuart St @ Charles St S",,"42.35104","-71.066795",,,,
 "99832","99832","245 Washington St",,"42.251984","-71.168846",,,,
 "99991","99991","South St @ Centre St",,"42.309196","-71.115685",,,,
-"Abington","","Abington","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.108034","-70.935296","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"Abington","","Abington",,"42.108034","-70.935296","",,"0",""
 "Anderson/ Woburn","","Anderson/ Woburn","","42.518082","-71.138650","","","0",""
 "Andover","","Andover","","42.657798","-71.144513","","","0",""
 "Ashland","","Ashland","","42.261694","-71.478813","","","0",""
@@ -8285,41 +8274,41 @@
 "Bradford","","Bradford","","42.768899","-71.085998","","","0",""
 "Braintree","","Braintree","","42.208550","-71.000850","","","0",""
 "Brandeis/ Roberts","","Brandeis/ Roberts","","42.361728","-71.260854","","","0",""
-"Bridgewater","","Bridgewater","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","41.986355","-70.966625","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
-"Brockton","","Brockton","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.085720","-71.016860","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
-"Campello","","Campello","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.060038","-71.012460","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"Bridgewater","","Bridgewater",,"41.986355","-70.966625","",,"0",""
+"Brockton","","Brockton",,"42.085720","-71.016860","",,"0",""
+"Campello","","Campello",,"42.060038","-71.012460","",,"0",""
 "Canton Center","","Canton Center","","42.156769","-71.145530","","","0",""
 "Canton Junction","","Canton Junction","","42.163423","-71.153374","","","0",""
 "Chelsea","","Chelsea","","42.395661","-71.034826","","","0",""
-"Cohasset","","Cohasset","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.242400","-70.837000","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"Cohasset","","Cohasset",,"42.242400","-70.837000","",,"0",""
 "Concord","","Concord","","42.457147","-71.358051","","","0",""
 "Dedham Corp Center","","Dedham Corp Center","","42.225896","-71.173806","","","0",""
-"East Weymouth","","East Weymouth","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.219100","-70.921400","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"East Weymouth","","East Weymouth",,"42.219100","-70.921400","",,"0",""
 "Endicott","","Endicott","","42.232881","-71.160413","","","0",""
 "Fairmount","","Fairmount","","42.253638","-71.119270","","","0",""
 "Fitchburg","","Fitchburg","","42.581739","-71.792750","","","0",""
 "Forest Hills","","Forest Hills","","42.300023","-71.113377","","","0","place-forhl"
-"Forge Park / 495","","Forge Park / 495","","42.090704","-71.430342","","","0",""
+"Forge Park / 495","","Forge Park / 495","","42.089941","-71.439020","","","0",""
 "Framingham","","Framingham","","42.276719","-71.416792","","","0",""
 "Franklin","","Franklin","","42.083591","-71.396735","","","0",""
 "Gloucester","","Gloucester","","42.616069","-70.668767","","","0",""
 "Grafton","","Grafton","","42.246291","-71.684614","","","0",""
-"Greenbush","","Greenbush","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.178100","-70.746200","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"Greenbush","","Greenbush",,"42.178100","-70.746200","",,"0",""
 "Greenwood","","Greenwood","","42.483473","-71.067233","","","0",""
-"Halifax","","Halifax","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.012867","-70.820832","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"Halifax","","Halifax",,"42.012867","-70.820832","",,"0",""
 "Hamilton/ Wenham","","Hamilton/ Wenham","","42.610756","-70.874005","","","0",""
-"Hanson","","Hanson","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.043262","-70.881553","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"Hanson","","Hanson",,"42.043262","-70.881553","",,"0",""
 "Hastings","","Hastings","","42.385755","-71.289203","","","0",""
 "Haverhill","","Haverhill","","42.772684","-71.085962","","","0",""
 "Hersey","","Hersey","","42.275842","-71.214853","","","0",""
 "Highland","","Highland","","42.284869","-71.154700","","","0",""
-"Holbrook/ Randolph","","Holbrook/ Randolph","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.155314","-71.027518","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"Holbrook/ Randolph","","Holbrook/ Randolph",,"42.155314","-71.027518","",,"0",""
 "Hyde Park","","Hyde Park","","42.255121","-71.125022","","","0",""
 "Ipswich","","Ipswich","","42.678355","-70.840024","","","0",""
 "Islington","","Islington","","42.220714","-71.183406","","","0",""
 "JFK/UMASS","","JFK/UMASS","","42.321123","-71.052555","","","0",""
 "Kendal Green","","Kendal Green","","42.378970","-71.282411","",,"0",""
-"Kingston","","Kingston","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","41.978548","-70.720315","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"Kingston","","Kingston",,"41.978548","-70.720315","",,"0",""
 "Lawrence","","Lawrence","","42.701806","-71.151980","","","0",""
 "Lincoln","","Lincoln","","42.414229","-71.325344","","","0",""
 "Littleton / Rte 495","","Littleton / Rte 495","","42.519236","-71.502643","","","0",""
@@ -8330,12 +8319,12 @@
 "Mansfield","","Mansfield","","42.032734","-71.219318","","","0",""
 "Melrose Cedar Park","","Melrose Cedar Park","","42.459128","-71.069448","","","0",""
 "Melrose Highlands","","Melrose Highlands","","42.468793","-71.068270","","","0",""
-"Middleboro/ Lakeville","","Middleboro/ Lakeville","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","41.878210","-70.918444","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"Middleboro/ Lakeville","","Middleboro/ Lakeville",,"41.878210","-70.918444","",,"0",""
 "Mishawum","","Mishawum","","42.503595","-71.137511","","","0",""
-"Montello","","Montello","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.106047","-71.021078","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"Montello","","Montello",,"42.106047","-71.021078","",,"0",""
 "Montserrat","","Montserrat","","42.561483","-70.870035","","","0",""
 "Morton Street","","Morton Street","","42.280994","-71.085475","","","0",""
-"Nantasket Junction","","Nantasket Junction","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.245200","-70.869800","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"Nantasket Junction","","Nantasket Junction",,"42.245200","-70.869800","",,"0",""
 "Natick","","Natick","","42.285239","-71.347641","","","0",""
 "Needham Center","","Needham Center","","42.280274","-71.238089","","","0",""
 "Needham Heights","","Needham Heights","","42.293139","-71.235087","","","0",""
@@ -8346,13 +8335,13 @@
 "North Beverly","","North Beverly","","42.582471","-70.884501","","","0",""
 "North Billerica","","North Billerica","","42.592881","-71.280869","","","0",""
 "North Leominster","","North Leominster","","42.540577","-71.739402","","","0",""
-"North Scituate","","North Scituate","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.219700","-70.787700","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"North Scituate","","North Scituate",,"42.219700","-70.787700","",,"0",""
 "North Station","","North Station","","42.365551","-71.061251","","","0",""
 "North Wilmington","","North Wilmington","","42.568462","-71.159724","","","0",""
 "Norwood Central","","Norwood Central","","42.190776","-71.199748","","","0",""
 "Norwood Depot","","Norwood Depot","","42.195668","-71.196784","","","0",""
 "Plimptonville","","Plimptonville","","42.159123","-71.236125","","","0",""
-"Plymouth","","Plymouth","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","41.981184","-70.692514","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"Plymouth","","Plymouth",,"41.981184","-70.692514","",,"0",""
 "Porter Square","","Porter Square","","42.388353","-71.119159","","","0",""
 "Prides Crossing","","Prides Crossing","","42.559513","-70.824813","","","0",""
 "Providence","","Providence","","41.829641","-71.413332","","","0",""
@@ -8372,7 +8361,7 @@
 "South Acton","","South Acton","","42.461575","-71.455322","","","0",""
 "South Attleboro","","South Attleboro","","41.897943","-71.354621","","","0",""
 "South Station","","South Station","","42.352614","-71.055364","","","0",""
-"South Weymouth","","South Weymouth","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.153747","-70.952490","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"South Weymouth","","South Weymouth",,"42.153747","-70.952490","",,"0",""
 "Southborough","","Southborough","","42.267518","-71.523621","","","0",""
 "Stoughton","","Stoughton","","42.123818","-71.103090","","","0",""
 "Swampscott","","Swampscott","","42.473739","-70.922036","","","0",""
@@ -8387,14 +8376,14 @@
 "Wellesley Square","","Wellesley Square","","42.296427","-71.294311","","","0",""
 "West Concord","","West Concord","","42.456372","-71.392371","","","0",""
 "West Gloucester","","West Gloucester","","42.610928","-70.706456","","","0",""
-"West Hingham","","West Hingham","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.236700","-70.903100","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"West Hingham","","West Hingham",,"42.236700","-70.903100","",,"0",""
 "West Medford","","West Medford","","42.421184","-71.132468","","","0",""
 "West Natick","","West Natick","","42.281855","-71.390548","","","0",""
 "West Newton","","West Newton","","42.348599","-71.229010","","","0",""
 "West Roxbury","","West Roxbury","","42.281600","-71.159932","","","0",""
 "Westborough","","Westborough","","42.269184","-71.652005","","","0",""
-"Weymouth Landing/ East Braintree","","Weymouth Landing/ East Braintree","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.220800","-70.968200","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
-"Whitman","","Whitman","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.083563","-70.923204","","http://www.mbta.com/about_the_mbta/t_projects/default.asp?id=19461","0",""
+"Weymouth Landing/ East Braintree","","Weymouth Landing/ East Braintree",,"42.220800","-70.968200","",,"0",""
+"Whitman","","Whitman",,"42.083563","-70.923204","",,"0",""
 "Wilmington","","Wilmington","","42.546368","-71.173569","","","0",""
 "Winchester Center","","Winchester Center","","42.452650","-71.137041","","","0",""
 "Windsor Gardens","","Windsor Gardens","","42.172192","-71.220704","","","0",""
