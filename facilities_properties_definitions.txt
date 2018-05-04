@@ -7,6 +7,7 @@
 "contact","Entity which is responsible for customer relations at a facility and can be contacted through the 'contact-phone' or 'contact-url' fields","Text"
 "contact-phone","Contact phone number from which more information about the facility can be obtained","Text"
 "contact-url","Contact website URL from which more information about the facility can be obtained","Text"
+"direction","Utilized for escalators to define whether it is used for upward or downward travel","Text"
 "enclosed","Indicates if the facility is covered and protected from the elements; for example, used for 'parking-area' to indicate parking garages, and for 'bike-storage' to indicate an enclosed bicycle cage","1 for true, 2 for false, or 0 for no information"
 "excludes-stop","Specifies a specific, non-parent stop that the facility does not service; used only if the facility does not serve all possible child stops within the stop specified in the 'stop_id' field in facilities.txt; a single facility may have multiple instances of this property, each with a different excluded stop","Single 'stop_id' corresponding to an entry in stops.txt"
 "fee-daily","Per day fee for usage of the facility, typically a 'parking-area'","Text"
