@@ -1,8 +1,8 @@
 "facility_id","property_id","value"
-"park-001","enclosed",2
-"park-001","attended",2
-"park-001","capacity",405
-"park-001","capacity-accessible",9
+"park-001","enclosed","2"
+"park-001","attended","2"
+"park-001","capacity","405"
+"park-001","capacity-accessible","9"
 "park-001","operator","Republic Parking System"
 "park-001","owner","MBTA"
 "park-001","contact","MBTA Customer Support"
@@ -17,12 +17,12 @@
 "park-001","payment-app-id","4401"
 "park-001","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-001","fee-monthly","$70"
-"park-001","weekday-typical-utilization",327
+"park-001","weekday-typical-utilization","327"
 "park-001","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-002","enclosed",1
-"park-002","attended",1
-"park-002","capacity",2627
-"park-002","capacity-accessible",31
+"park-002","enclosed","1"
+"park-002","attended","1"
+"park-002","capacity","2627"
+"park-002","capacity-accessible","31"
 "park-002","operator","Republic Parking System"
 "park-002","owner","MBTA"
 "park-002","contact","MBTA Customer Support"
@@ -35,11 +35,11 @@
 "park-002","payment-form-accepted","smartcard"
 "park-002","fee-daily","$7 for first 14 hours, $15 for 14-24 hours"
 "park-002","weekday-utilization-summary","No data"
-"ev-002","capacity",6
-"park-003","enclosed",2
-"park-003","attended",2
-"park-003","capacity",2000
-"park-003","capacity-accessible",24
+"ev-002","capacity","6"
+"park-003","enclosed","2"
+"park-003","attended","2"
+"park-003","capacity","2000"
+"park-003","capacity-accessible","24"
 "park-003","operator","Massport"
 "park-003","owner","Local transit authority"
 "park-003","contact","Massport Logan Express"
@@ -50,10 +50,10 @@
 "park-003","payment-form-accepted","credit-debit-card"
 "park-003","fee-daily","$7"
 "park-003","note","Massport is responsible for parking maintenance, payments, and snow removal. Overnight parking is available."
-"park-004","enclosed",2
-"park-004","attended",2
-"park-004","capacity",150
-"park-004","capacity-accessible",4
+"park-004","enclosed","2"
+"park-004","attended","2"
+"park-004","capacity","150"
+"park-004","capacity-accessible","4"
 "park-004","operator","Republic Parking System"
 "park-004","owner","MBTA"
 "park-004","contact","MBTA Customer Support"
@@ -68,12 +68,12 @@
 "park-004","payment-app-id","4229"
 "park-004","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-004","fee-monthly","$70"
-"park-004","weekday-typical-utilization",132
+"park-004","weekday-typical-utilization","132"
 "park-004","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-005","enclosed",2
-"park-005","attended",2
-"park-005","capacity",678
-"park-005","capacity-accessible",16
+"park-005","enclosed","2"
+"park-005","attended","2"
+"park-005","capacity","678"
+"park-005","capacity-accessible","16"
 "park-005","operator","Republic Parking System"
 "park-005","owner","MBTA"
 "park-005","contact","MBTA Customer Support"
@@ -88,12 +88,12 @@
 "park-005","payment-app-id","4281"
 "park-005","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-005","fee-monthly","$70"
-"park-005","weekday-typical-utilization",482
+"park-005","weekday-typical-utilization","482"
 "park-005","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-006","enclosed",2
-"park-006","attended",2
-"park-006","capacity",780
-"park-006","capacity-accessible",16
+"park-006","enclosed","2"
+"park-006","attended","2"
+"park-006","capacity","780"
+"park-006","capacity-accessible","16"
 "park-006","operator","Greater Attleboro/Taunton Regional Transit Authority"
 "park-006","owner","Local transit authority"
 "park-006","contact","SP Plus Corporation"
@@ -108,10 +108,10 @@
 "park-006","fee-daily","$4"
 "park-006","fee-monthly","$70"
 "park-006","note","Greater Attleboro/Taunton RTA is responsible for parking maintenance, payments, and snow removal."
-"park-007","enclosed",2
-"park-007","attended",2
-"park-007","capacity",33
-"park-007","capacity-accessible",2
+"park-007","enclosed","2"
+"park-007","attended","2"
+"park-007","capacity","33"
+"park-007","capacity-accessible","2"
 "park-007","operator","Republic Parking System"
 "park-007","owner","MassDOT"
 "park-007","contact","MBTA Customer Support"
@@ -126,12 +126,12 @@
 "park-007","payment-app-id","4249"
 "park-007","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-007","fee-monthly","$70"
-"park-007","weekday-typical-utilization",31
+"park-007","weekday-typical-utilization","31"
 "park-007","weekday-utilization-summary","Arrive before a certain time"
 "park-007","weekday-arrive-before","07:30:00"
-"park-008","enclosed",2
-"park-008","attended",2
-"park-008","capacity",90
+"park-008","enclosed","2"
+"park-008","attended","2"
+"park-008","capacity","90"
 "park-008","operator","Town of Ayer"
 "park-008","owner","City/Town"
 "park-008","contact","Ayer Town Hall"
@@ -143,10 +143,10 @@
 "park-008","weekday-utilization-summary","Arrive before a certain time"
 "park-008","weekday-arrive-before","06:30:00"
 "park-008","note","Town of Ayer is responsible for parking maintenance, payments, and snow removal."
-"park-009","enclosed",2
-"park-009","attended",2
-"park-009","capacity",115
-"park-009","capacity-accessible",2
+"park-009","enclosed","2"
+"park-009","attended","2"
+"park-009","capacity","115"
+"park-009","capacity-accessible","2"
 "park-009","operator","Republic Parking System"
 "park-009","owner","MBTA"
 "park-009","contact","MBTA Customer Support"
@@ -161,12 +161,12 @@
 "park-009","payment-app-id","4231"
 "park-009","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-009","fee-monthly","$70"
-"park-009","weekday-typical-utilization",94
+"park-009","weekday-typical-utilization","94"
 "park-009","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-010","enclosed",2
-"park-010","attended",2
-"park-010","capacity",424
-"park-010","capacity-accessible",6
+"park-010","enclosed","2"
+"park-010","attended","2"
+"park-010","capacity","424"
+"park-010","capacity-accessible","6"
 "park-010","operator","Republic Parking System"
 "park-010","owner","MBTA"
 "park-010","contact","MBTA Customer Support"
@@ -181,12 +181,12 @@
 "park-010","payment-app-id","4384"
 "park-010","fee-daily","$5 PayByPhone, $5.50 invoice"
 "park-010","fee-monthly","$105"
-"park-010","weekday-typical-utilization",268
+"park-010","weekday-typical-utilization","268"
 "park-010","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-011","enclosed",2
-"park-011","attended",2
-"park-011","capacity",37
-"park-011","capacity-accessible",2
+"park-011","enclosed","2"
+"park-011","attended","2"
+"park-011","capacity","37"
+"park-011","capacity-accessible","2"
 "park-011","operator","Republic Parking System"
 "park-011","owner","MBTA"
 "park-011","contact","MBTA Customer Support"
@@ -201,11 +201,11 @@
 "park-011","payment-app-id","4360"
 "park-011","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-011","fee-monthly","$70"
-"park-011","weekday-typical-utilization",25
+"park-011","weekday-typical-utilization","25"
 "park-011","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-012","enclosed",2
-"park-012","attended",2
-"park-012","capacity",10
+"park-012","enclosed","2"
+"park-012","attended","2"
+"park-012","capacity","10"
 "park-012","operator","Town of Belmont"
 "park-012","owner","City/Town"
 "park-012","contact","Belmont Police Department, Traffic and Records Division"
@@ -214,10 +214,10 @@
 "park-012","address","Royale Rd and Common St, Belmont, MA 02478"
 "park-012","municipality","Belmont"
 "park-012","fee-monthly","$90"
-"park-013","enclosed",2
-"park-013","attended",2
-"park-013","capacity",131
-"park-013","capacity-accessible",6
+"park-013","enclosed","2"
+"park-013","attended","2"
+"park-013","capacity","131"
+"park-013","capacity-accessible","6"
 "park-013","operator","Town of Belmont"
 "park-013","owner","City/Town"
 "park-013","contact","Belmont Police Department, Traffic and Records Division"
@@ -229,10 +229,10 @@
 "park-013","payment-form-accepted","credit-debit-card"
 "park-013","fee-daily","$5"
 "park-013","fee-monthly","$90"
-"park-014","enclosed",1
-"park-014","attended",1
-"park-014","capacity",498
-"park-014","capacity-accessible",11
+"park-014","enclosed","1"
+"park-014","attended","1"
+"park-014","capacity","498"
+"park-014","capacity-accessible","11"
 "park-014","operator","Republic Parking System"
 "park-014","owner","MBTA"
 "park-014","contact","MBTA Customer Support"
@@ -244,12 +244,12 @@
 "park-014","payment-form-accepted","credit-debit-card"
 "park-014","payment-form-accepted","smartcard"
 "park-014","fee-daily","$5 for first 14 hours, $12 for 14-24 hours"
-"park-014","weekday-typical-utilization",279
+"park-014","weekday-typical-utilization","279"
 "park-014","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-015","enclosed",2
-"park-015","attended",2
-"park-015","capacity",25
-"park-015","capacity-accessible",1
+"park-015","enclosed","2"
+"park-015","attended","2"
+"park-015","capacity","25"
+"park-015","capacity-accessible","1"
 "park-015","operator","City of Beverly"
 "park-015","owner","City/Town"
 "park-015","contact","Beverly City Hall"
@@ -259,10 +259,10 @@
 "park-015","municipality","Beverly"
 "park-015","fee-daily","free"
 "park-015","note","City of Beverly is responsible for parking maintenance, payments, and snow removal."
-"park-016","enclosed",2
-"park-016","attended",2
-"park-016","capacity",303
-"park-016","capacity-accessible",9
+"park-016","enclosed","2"
+"park-016","attended","2"
+"park-016","capacity","303"
+"park-016","capacity-accessible","9"
 "park-016","operator","Republic Parking System"
 "park-016","owner","MBTA"
 "park-016","contact","MBTA Customer Support"
@@ -277,12 +277,12 @@
 "park-016","payment-app-id","4232"
 "park-016","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-016","fee-monthly","$70"
-"park-016","weekday-typical-utilization",61
+"park-016","weekday-typical-utilization","61"
 "park-016","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-017","enclosed",1
-"park-017","attended",1
-"park-017","capacity",1321
-"park-017","capacity-accessible",22
+"park-017","enclosed","1"
+"park-017","attended","1"
+"park-017","capacity","1321"
+"park-017","capacity-accessible","22"
 "park-017","operator","Republic Parking System"
 "park-017","owner","MBTA"
 "park-017","contact","MBTA Customer Support"
@@ -301,11 +301,11 @@
 "park-017","fee-daily","$7 for first 14 hours, $15 for 14-24 hours"
 "park-017","fee-monthly","$200 Premium"
 "park-017","weekday-utilization-summary","No data"
-"ev-017","capacity",5
-"park-018","enclosed",2
-"park-018","attended",2
-"park-018","capacity",24
-"park-018","capacity-accessible",1
+"ev-017","capacity","5"
+"park-018","enclosed","2"
+"park-018","attended","2"
+"park-018","capacity","24"
+"park-018","capacity-accessible","1"
 "park-018","operator","Republic Parking System"
 "park-018","owner","MBTA"
 "park-018","contact","MBTA Customer Support"
@@ -320,12 +320,12 @@
 "park-018","payment-app-id","4250"
 "park-018","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-018","fee-monthly","$70"
-"park-018","weekday-typical-utilization",14
+"park-018","weekday-typical-utilization","14"
 "park-018","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-019","enclosed",2
-"park-019","attended",2
-"park-019","capacity",502
-"park-019","capacity-accessible",10
+"park-019","enclosed","2"
+"park-019","attended","2"
+"park-019","capacity","502"
+"park-019","capacity-accessible","10"
 "park-019","operator","Republic Parking System"
 "park-019","owner","MBTA"
 "park-019","contact","MBTA Customer Support"
@@ -340,12 +340,12 @@
 "park-019","payment-app-id","4404"
 "park-019","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-019","fee-monthly","$70"
-"park-019","weekday-typical-utilization",314
+"park-019","weekday-typical-utilization","314"
 "park-019","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-020","enclosed",2
-"park-020","attended",2
-"park-020","capacity",266
-"park-020","capacity-accessible",10
+"park-020","enclosed","2"
+"park-020","attended","2"
+"park-020","capacity","266"
+"park-020","capacity-accessible","10"
 "park-020","operator","Brockton Area Transit Authority"
 "park-020","owner","Local transit authority"
 "park-020","contact","BAT"
@@ -361,9 +361,9 @@
 "park-020","payment-app-url","http://mpay2park.com/"
 "park-020","fee-daily","$3 cash/credit, $2.35 mPay2Park, $2 Smart Card"
 "park-020","note","Brockton Area Transit Authority (BAT) is responsible for parking maintenance, payments, and snow removal."
-"park-021","enclosed",2
-"park-021","attended",2
-"park-021","capacity",44
+"park-021","enclosed","2"
+"park-021","attended","2"
+"park-021","capacity","44"
 "park-021","operator","Republic Parking System"
 "park-021","owner","MBTA"
 "park-021","contact","MBTA Customer Support"
@@ -378,12 +378,12 @@
 "park-021","payment-app-id","4405"
 "park-021","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-021","fee-monthly","$70"
-"park-021","weekday-typical-utilization",33
+"park-021","weekday-typical-utilization","33"
 "park-021","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-022","enclosed",2
-"park-022","attended",2
-"park-022","capacity",535
-"park-022","capacity-accessible",11
+"park-022","enclosed","2"
+"park-022","attended","2"
+"park-022","capacity","535"
+"park-022","capacity-accessible","11"
 "park-022","operator","Republic Parking System"
 "park-022","owner","MBTA"
 "park-022","contact","MBTA Customer Support"
@@ -398,12 +398,12 @@
 "park-022","payment-app-id","4421"
 "park-022","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-022","fee-monthly","$70"
-"park-022","weekday-typical-utilization",188
+"park-022","weekday-typical-utilization","188"
 "park-022","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-023","enclosed",2
-"park-023","attended",2
-"park-023","capacity",215
-"park-023","capacity-accessible",4
+"park-023","enclosed","2"
+"park-023","attended","2"
+"park-023","capacity","215"
+"park-023","capacity-accessible","4"
 "park-023","operator","Republic Parking System"
 "park-023","owner","MBTA"
 "park-023","contact","MBTA Customer Support"
@@ -418,12 +418,12 @@
 "park-023","payment-app-id","4361"
 "park-023","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-023","fee-monthly","$70"
-"park-023","weekday-typical-utilization",181
+"park-023","weekday-typical-utilization","181"
 "park-023","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-024","enclosed",2
-"park-024","attended",2
-"park-024","capacity",764
-"park-024","capacity-accessible",14
+"park-024","enclosed","2"
+"park-024","attended","2"
+"park-024","capacity","764"
+"park-024","capacity-accessible","14"
 "park-024","operator","Republic Parking System"
 "park-024","owner","MBTA"
 "park-024","contact","MBTA Customer Support"
@@ -438,11 +438,11 @@
 "park-024","payment-app-id","4362"
 "park-024","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-024","fee-monthly","$70"
-"park-024","weekday-typical-utilization",635
+"park-024","weekday-typical-utilization","635"
 "park-024","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-025","enclosed",2
-"park-025","attended",2
-"park-025","capacity",70
+"park-025","enclosed","2"
+"park-025","attended","2"
+"park-025","capacity","70"
 "park-025","operator","Republic Parking System"
 "park-025","owner","MBTA"
 "park-025","contact","MBTA Customer Support"
@@ -456,13 +456,13 @@
 "park-025","payment-app-url","https://www.paybyphone.com/"
 "park-025","payment-app-id","4251"
 "park-025","fee-daily","$6 PayByPhone, $6.50 invoice"
-"park-025","weekday-typical-utilization",68
+"park-025","weekday-typical-utilization","68"
 "park-025","weekday-utilization-summary","Arrive before a certain time"
 "park-025","weekday-arrive-before","06:30:00"
-"park-026","enclosed",2
-"park-026","attended",2
-"park-026","capacity",410
-"park-026","capacity-accessible",10
+"park-026","enclosed","2"
+"park-026","attended","2"
+"park-026","capacity","410"
+"park-026","capacity-accessible","10"
 "park-026","operator","Republic Parking System"
 "park-026","owner","MBTA"
 "park-026","contact","MBTA Customer Support"
@@ -477,12 +477,12 @@
 "park-026","payment-app-id","4429"
 "park-026","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-026","fee-monthly","$70"
-"park-026","weekday-typical-utilization",216
+"park-026","weekday-typical-utilization","216"
 "park-026","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-027","enclosed",2
-"park-027","attended",2
-"park-027","capacity",86
-"park-027","capacity-accessible",2
+"park-027","enclosed","2"
+"park-027","attended","2"
+"park-027","capacity","86"
+"park-027","capacity-accessible","2"
 "park-027","operator","Town of Concord"
 "park-027","owner","City/Town"
 "park-027","contact","Town of Concord, Treasurer/Collector's Office"
@@ -492,10 +492,10 @@
 "park-027","municipality","Concord"
 "park-027","fee-daily","free"
 "park-027","note","Town of Concord is responsible for parking maintenance, payments, and snow removal."
-"park-028","enclosed",2
-"park-028","attended",2
-"park-028","capacity",497
-"park-028","capacity-accessible",11
+"park-028","enclosed","2"
+"park-028","attended","2"
+"park-028","capacity","497"
+"park-028","capacity-accessible","11"
 "park-028","operator","Republic Parking System"
 "park-028","owner","MBTA"
 "park-028","contact","MBTA Customer Support"
@@ -510,12 +510,12 @@
 "park-028","payment-app-id","4363"
 "park-028","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-028","fee-monthly","$70"
-"park-028","weekday-typical-utilization",257
+"park-028","weekday-typical-utilization","257"
 "park-028","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-029","enclosed",2
-"park-029","attended",2
-"park-029","capacity",335
-"park-029","capacity-accessible",8
+"park-029","enclosed","2"
+"park-029","attended","2"
+"park-029","capacity","335"
+"park-029","capacity-accessible","8"
 "park-029","operator","Republic Parking System"
 "park-029","owner","MBTA"
 "park-029","contact","MBTA Customer Support"
@@ -530,12 +530,12 @@
 "park-029","payment-app-id","4434"
 "park-029","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-029","fee-monthly","$70"
-"park-029","weekday-typical-utilization",328
+"park-029","weekday-typical-utilization","328"
 "park-029","weekday-utilization-summary","Arrive before a certain time"
 "park-029","weekday-arrive-before","07:30:00"
-"park-030","enclosed",2
-"park-030","attended",2
-"park-030","capacity",55
+"park-030","enclosed","2"
+"park-030","attended","2"
+"park-030","capacity","55"
 "park-030","operator","Republic Parking System"
 "park-030","owner","MBTA"
 "park-030","contact","MBTA Customer Support"
@@ -549,12 +549,12 @@
 "park-030","payment-app-url","https://www.paybyphone.com/"
 "park-030","payment-app-id","4253"
 "park-030","fee-daily","$6 PayByPhone, $6.50 invoice"
-"park-030","weekday-typical-utilization",51
+"park-030","weekday-typical-utilization","51"
 "park-030","weekday-utilization-summary","Arrive before a certain time"
 "park-030","weekday-arrive-before","07:30:00"
-"park-031","enclosed",2
-"park-031","attended",2
-"park-031","capacity",45
+"park-031","enclosed","2"
+"park-031","attended","2"
+"park-031","capacity","45"
 "park-031","operator","Town of Dedham"
 "park-031","owner","City/Town"
 "park-031","contact","Dedham Town Hall"
@@ -564,10 +564,10 @@
 "park-031","municipality","Dedham"
 "park-031","fee-daily","free"
 "park-031","note","Town of Dedham is responsible for parking maintenance, payments, and snow removal."
-"park-032","enclosed",2
-"park-032","attended",2
-"park-032","capacity",51
-"park-032","capacity-accessible",2
+"park-032","enclosed","2"
+"park-032","attended","2"
+"park-032","capacity","51"
+"park-032","capacity-accessible","2"
 "park-032","operator","Republic Parking System"
 "park-032","owner","MBTA"
 "park-032","contact","MBTA Customer Support"
@@ -582,12 +582,12 @@
 "park-032","payment-app-id","4364"
 "park-032","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-032","fee-monthly","$70"
-"park-032","weekday-typical-utilization",28
+"park-032","weekday-typical-utilization","28"
 "park-032","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-033","enclosed",1
-"park-033","attended",1
-"park-033","capacity",400
-"park-033","capacity-accessible",6
+"park-033","enclosed","1"
+"park-033","attended","1"
+"park-033","capacity","400"
+"park-033","capacity-accessible","6"
 "park-033","operator","Montachusett Regional Transit Authority"
 "park-033","owner","Local transit authority"
 "park-033","contact","MART"
@@ -600,11 +600,11 @@
 "park-033","fee-daily","$3"
 "park-033","fee-monthly","$50"
 "park-033","note","Montachusett RTA is responsible for parking maintenance, payments, and snow removal."
-"ev-033","capacity",4
-"park-034","enclosed",2
-"park-034","attended",1
-"park-034","capacity",156
-"park-034","capacity-accessible",5
+"ev-033","capacity","4"
+"park-034","enclosed","2"
+"park-034","attended","1"
+"park-034","capacity","156"
+"park-034","capacity-accessible","5"
 "park-034","operator","Republic Parking System"
 "park-034","owner","MBTA"
 "park-034","contact","MBTA Customer Support"
@@ -621,13 +621,13 @@
 "park-034","payment-app-id","4396"
 "park-034","fee-daily","$6 PayByPhone, $6.50 invoice"
 "park-034","fee-monthly","$125"
-"park-034","weekday-typical-utilization",156
+"park-034","weekday-typical-utilization","156"
 "park-034","weekday-utilization-summary","Insufficient data to determine the time that utilization crosses 90% of capacity"
-"ev-034","capacity",3
-"park-035","enclosed",2
-"park-035","attended",2
-"park-035","capacity",716
-"park-035","capacity-accessible",15
+"ev-034","capacity","3"
+"park-035","enclosed","2"
+"park-035","attended","2"
+"park-035","capacity","716"
+"park-035","capacity-accessible","15"
 "park-035","operator","Republic Parking System"
 "park-035","owner","MBTA"
 "park-035","contact","MBTA Customer Support"
@@ -642,12 +642,12 @@
 "park-035","payment-app-id","4385"
 "park-035","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-035","fee-monthly","$70"
-"park-035","weekday-typical-utilization",494
+"park-035","weekday-typical-utilization","494"
 "park-035","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-036","enclosed",2
-"park-036","attended",2
-"park-036","capacity",166
-"park-036","capacity-accessible",8
+"park-036","enclosed","2"
+"park-036","attended","2"
+"park-036","capacity","166"
+"park-036","capacity-accessible","8"
 "park-036","operator","Republic Parking System"
 "park-036","owner","MBTA"
 "park-036","contact","MBTA Customer Support"
@@ -662,14 +662,14 @@
 "park-036","payment-app-id","4254"
 "park-036","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-036","fee-monthly","$70"
-"park-036","weekday-typical-utilization",166
+"park-036","weekday-typical-utilization","166"
 "park-036","weekday-utilization-summary","Arrive before a certain time"
 "park-036","weekday-arrive-before","07:00:00"
 "park-036","note","MetroWest Regional Transit Authority is responsible for parking maintenance, payments, and snow removal."
-"park-037","enclosed",2
-"park-037","attended",2
-"park-037","capacity",173
-"park-037","capacity-accessible",3
+"park-037","enclosed","2"
+"park-037","attended","2"
+"park-037","capacity","173"
+"park-037","capacity-accessible","3"
 "park-037","operator","Republic Parking System"
 "park-037","owner","MBTA"
 "park-037","contact","MBTA Customer Support"
@@ -684,13 +684,13 @@
 "park-037","payment-app-id","4367"
 "park-037","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-037","fee-monthly","$70"
-"park-037","weekday-typical-utilization",167
+"park-037","weekday-typical-utilization","167"
 "park-037","weekday-utilization-summary","Arrive before a certain time"
 "park-037","weekday-arrive-before","07:00:00"
-"park-038","enclosed",2
-"park-038","attended",2
-"park-038","capacity",100
-"park-038","capacity-accessible",2
+"park-038","enclosed","2"
+"park-038","attended","2"
+"park-038","capacity","100"
+"park-038","capacity-accessible","2"
 "park-038","operator","Republic Parking System"
 "park-038","owner","MBTA"
 "park-038","contact","MBTA Customer Support"
@@ -705,12 +705,12 @@
 "park-038","payment-app-id","4233"
 "park-038","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-038","fee-monthly","$70"
-"park-038","weekday-typical-utilization",20
+"park-038","weekday-typical-utilization","20"
 "park-038","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-039","enclosed",2
-"park-039","attended",2
-"park-039","capacity",373
-"park-039","capacity-accessible",5
+"park-039","enclosed","2"
+"park-039","attended","2"
+"park-039","capacity","373"
+"park-039","capacity-accessible","5"
 "park-039","operator","Republic Parking System"
 "park-039","owner","MBTA"
 "park-039","contact","MBTA Customer Support"
@@ -725,12 +725,12 @@
 "park-039","payment-app-id","4255"
 "park-039","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-039","fee-monthly","$70"
-"park-039","weekday-typical-utilization",283
+"park-039","weekday-typical-utilization","283"
 "park-039","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-040","enclosed",2
-"park-040","attended",2
-"park-040","capacity",995
-"park-040","capacity-accessible",22
+"park-040","enclosed","2"
+"park-040","attended","2"
+"park-040","capacity","995"
+"park-040","capacity-accessible","22"
 "park-040","operator","Republic Parking System"
 "park-040","owner","MBTA"
 "park-040","contact","MBTA Customer Support"
@@ -745,12 +745,12 @@
 "park-040","payment-app-id","4435"
 "park-040","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-040","fee-monthly","$70"
-"park-040","weekday-typical-utilization",238
+"park-040","weekday-typical-utilization","238"
 "park-040","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-041","enclosed",2
-"park-041","attended",2
-"park-041","capacity",76
-"park-041","capacity-accessible",1
+"park-041","enclosed","2"
+"park-041","attended","2"
+"park-041","capacity","76"
+"park-041","capacity-accessible","1"
 "park-041","operator","Town of Wakefield"
 "park-041","owner","City/Town"
 "park-041","contact","Town of Wakefield, Parking Clerk"
@@ -762,10 +762,10 @@
 "park-041","payment-form-accepted","coin"
 "park-041","fee-daily","$2"
 "park-041","note","Town of Wakefield is responsible for parking maintenance, payments, and snow removal."
-"park-042","enclosed",2
-"park-042","attended",2
-"park-042","capacity",402
-"park-042","capacity-accessible",10
+"park-042","enclosed","2"
+"park-042","attended","2"
+"park-042","capacity","402"
+"park-042","capacity-accessible","10"
 "park-042","operator","Republic Parking System"
 "park-042","owner","MBTA"
 "park-042","contact","MBTA Customer Support"
@@ -780,12 +780,12 @@
 "park-042","payment-app-id","4436"
 "park-042","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-042","fee-monthly","$70"
-"park-042","weekday-typical-utilization",209
+"park-042","weekday-typical-utilization","209"
 "park-042","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-043","enclosed",2
-"park-043","attended",2
-"park-043","capacity",194
-"park-043","capacity-accessible",6
+"park-043","enclosed","2"
+"park-043","attended","2"
+"park-043","capacity","194"
+"park-043","capacity-accessible","6"
 "park-043","operator","Republic Parking System"
 "park-043","owner","MBTA"
 "park-043","contact","MBTA Customer Support"
@@ -800,12 +800,12 @@
 "park-043","payment-app-id","4234"
 "park-043","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-043","fee-monthly","$70"
-"park-043","weekday-typical-utilization",116
+"park-043","weekday-typical-utilization","116"
 "park-043","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-044","enclosed",2
-"park-044","attended",2
-"park-044","capacity",482
-"park-044","capacity-accessible",8
+"park-044","enclosed","2"
+"park-044","attended","2"
+"park-044","capacity","482"
+"park-044","capacity-accessible","8"
 "park-044","operator","Republic Parking System"
 "park-044","owner","MBTA"
 "park-044","contact","MBTA Customer Support"
@@ -820,11 +820,11 @@
 "park-044","payment-app-id","4437"
 "park-044","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-044","fee-monthly","$70"
-"park-044","weekday-typical-utilization",259
+"park-044","weekday-typical-utilization","259"
 "park-044","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-045","enclosed",2
-"park-045","attended",2
-"park-045","capacity",6
+"park-045","enclosed","2"
+"park-045","attended","2"
+"park-045","capacity","6"
 "park-045","operator","Town of Weston"
 "park-045","owner","City/Town"
 "park-045","contact","Town of Weston, Parking Clerk"
@@ -834,10 +834,10 @@
 "park-045","municipality","Weston"
 "park-045","fee-daily","free"
 "park-045","note","Town of Weston is responsible for parking maintenance, payments, and snow removal."
-"park-046","enclosed",2
-"park-046","attended",2
-"park-046","capacity",159
-"park-046","capacity-accessible",6
+"park-046","enclosed","2"
+"park-046","attended","2"
+"park-046","capacity","159"
+"park-046","capacity-accessible","6"
 "park-046","operator","Republic Parking System"
 "park-046","owner","MBTA"
 "park-046","contact","MBTA Customer Support"
@@ -852,12 +852,12 @@
 "park-046","payment-app-id","4235"
 "park-046","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-046","fee-monthly","$70"
-"park-046","weekday-typical-utilization",51
+"park-046","weekday-typical-utilization","51"
 "park-046","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-047","enclosed",1
-"park-047","attended",1
-"park-047","capacity",308
-"park-047","capacity-accessible",7
+"park-047","enclosed","1"
+"park-047","attended","1"
+"park-047","capacity","308"
+"park-047","capacity-accessible","7"
 "park-047","operator","Republic Parking System"
 "park-047","owner","MassDOT"
 "park-047","contact","MBTA Customer Support"
@@ -870,10 +870,10 @@
 "park-047","fee-daily","Weekdays - 30 min or less: $6, 1 hr: $10, 1.5 hrs: $15, 2 hrs: $20, 3 hrs: $25, 4 hrs: $28, over 4 hrs until 5 AM: $33. | Nights and Weekends - 30 min or less: $6, 1 hr: $10, 1.5 hrs: $15, over 1.5 hrs until 5 AM: $16"
 "park-047","fee-monthly","Regular monthly: $340, North End resident: $150, Reverse commute (4 PM - 9 AM): $125"
 "park-047","weekday-utilization-summary","No data"
-"park-048","enclosed",2
-"park-048","attended",2
-"park-048","capacity",318
-"park-048","capacity-accessible",8
+"park-048","enclosed","2"
+"park-048","attended","2"
+"park-048","capacity","318"
+"park-048","capacity-accessible","8"
 "park-048","operator","Republic Parking System"
 "park-048","owner","MBTA"
 "park-048","contact","MBTA Customer Support"
@@ -888,13 +888,13 @@
 "park-048","payment-app-id","4371"
 "park-048","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-048","fee-monthly","$70"
-"park-048","weekday-typical-utilization",286
+"park-048","weekday-typical-utilization","286"
 "park-048","weekday-utilization-summary","Arrive before a certain time"
 "park-048","weekday-arrive-before","13:30:00"
-"park-049","enclosed",2
-"park-049","attended",2
-"park-049","capacity",175
-"park-049","capacity-accessible",6
+"park-049","enclosed","2"
+"park-049","attended","2"
+"park-049","capacity","175"
+"park-049","capacity-accessible","6"
 "park-049","operator","Republic Parking System"
 "park-049","owner","MBTA"
 "park-049","contact","MBTA Customer Support"
@@ -909,12 +909,12 @@
 "park-049","payment-app-id","4368"
 "park-049","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-049","fee-monthly","$70"
-"park-049","weekday-typical-utilization",87
+"park-049","weekday-typical-utilization","87"
 "park-049","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-050","enclosed",2
-"park-050","attended",2
-"park-050","capacity",1690
-"park-050","capacity-accessible",29
+"park-050","enclosed","2"
+"park-050","attended","2"
+"park-050","capacity","1690"
+"park-050","capacity-accessible","29"
 "park-050","operator","Republic Parking System"
 "park-050","owner","MBTA"
 "park-050","contact","MBTA Customer Support"
@@ -929,12 +929,12 @@
 "park-050","payment-app-id","4438"
 "park-050","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-050","fee-monthly","$70"
-"park-050","weekday-typical-utilization",1113
+"park-050","weekday-typical-utilization","1113"
 "park-050","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-051","enclosed",2
-"park-051","attended",2
-"park-051","capacity",369
-"park-051","capacity-accessible",14
+"park-051","enclosed","2"
+"park-051","attended","2"
+"park-051","capacity","369"
+"park-051","capacity-accessible","14"
 "park-051","operator","Republic Parking System"
 "park-051","owner","MBTA"
 "park-051","contact","MBTA Customer Support"
@@ -949,12 +949,12 @@
 "park-051","payment-app-id","4439"
 "park-051","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-051","fee-monthly","$70"
-"park-051","weekday-typical-utilization",247
+"park-051","weekday-typical-utilization","247"
 "park-051","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-052","enclosed",2
-"park-052","attended",2
-"park-052","capacity",119
-"park-052","capacity-accessible",4
+"park-052","enclosed","2"
+"park-052","attended","2"
+"park-052","capacity","119"
+"park-052","capacity-accessible","4"
 "park-052","operator","Republic Parking System"
 "park-052","owner","MBTA"
 "park-052","contact","MBTA Customer Support"
@@ -969,12 +969,12 @@
 "park-052","payment-app-id","4369"
 "park-052","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-052","fee-monthly","$70"
-"park-052","weekday-typical-utilization",80
+"park-052","weekday-typical-utilization","80"
 "park-052","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-053","enclosed",2
-"park-053","attended",2
-"park-053","capacity",170
-"park-053","capacity-accessible",4
+"park-053","enclosed","2"
+"park-053","attended","2"
+"park-053","capacity","170"
+"park-053","capacity-accessible","4"
 "park-053","operator","Town of Ipswich"
 "park-053","owner","City/Town"
 "park-053","contact","Town of Ipswich, Parking Clerk"
@@ -984,10 +984,10 @@
 "park-053","municipality","Ipswich"
 "park-053","fee-daily","free"
 "park-053","note","Town of Ipswich is responsible for parking maintenance, payments, and snow removal."
-"park-054","enclosed",2
-"park-054","attended",2
-"park-054","capacity",39
-"park-054","capacity-accessible",1
+"park-054","enclosed","2"
+"park-054","attended","2"
+"park-054","capacity","39"
+"park-054","capacity-accessible","1"
 "park-054","operator","Republic Parking System"
 "park-054","owner","MBTA"
 "park-054","contact","MBTA Customer Support"
@@ -1002,11 +1002,11 @@
 "park-054","payment-app-id","4370"
 "park-054","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-054","fee-monthly","$70"
-"park-054","weekday-typical-utilization",21
+"park-054","weekday-typical-utilization","21"
 "park-054","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-055","enclosed",2
-"park-055","attended",2
-"park-055","capacity",57
+"park-055","enclosed","2"
+"park-055","attended","2"
+"park-055","capacity","57"
 "park-055","operator","Town of Weston"
 "park-055","owner","City/Town"
 "park-055","contact","Town of Weston, Parking Clerk"
@@ -1016,10 +1016,10 @@
 "park-055","municipality","Weston"
 "park-055","fee-daily","free"
 "park-055","note","Town of Weston is responsible for parking maintenance, payments, and snow removal."
-"park-056","enclosed",2
-"park-056","attended",2
-"park-056","capacity",1039
-"park-056","capacity-accessible",22
+"park-056","enclosed","2"
+"park-056","attended","2"
+"park-056","capacity","1039"
+"park-056","capacity-accessible","22"
 "park-056","operator","Republic Parking System"
 "park-056","owner","MBTA"
 "park-056","contact","MBTA Customer Support"
@@ -1034,12 +1034,12 @@
 "park-056","payment-app-id","4440"
 "park-056","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-056","fee-monthly","$70"
-"park-056","weekday-typical-utilization",404
+"park-056","weekday-typical-utilization","404"
 "park-056","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-057","enclosed",2
-"park-057","attended",2
-"park-057","capacity",400
-"park-057","capacity-accessible",5
+"park-057","enclosed","2"
+"park-057","attended","2"
+"park-057","capacity","400"
+"park-057","capacity-accessible","5"
 "park-057","operator","Merrimack Valley Regional Transity Authority"
 "park-057","owner","Local transit authority"
 "park-057","contact","MVRTA"
@@ -1050,10 +1050,10 @@
 "park-057","fee-daily","$1 per hour, $8 daily maximum to 2 AM. $4 overnight charge after 2 AM. $4 per day for Commuter Rail customers with proof."
 "park-057","fee-monthly","$51 Commuter Rail customers with proof ($75 other parkers)"
 "park-057","note","Merrimack Valley RTA is responsible for parking maintenance, payments, and snow removal."
-"park-058","enclosed",2
-"park-058","attended",2
-"park-058","capacity",161
-"park-058","capacity-accessible",3
+"park-058","enclosed","2"
+"park-058","attended","2"
+"park-058","capacity","161"
+"park-058","capacity-accessible","3"
 "park-058","operator","Town of Lincoln"
 "park-058","owner","City/Town"
 "park-058","contact","Town of Lincoln, Public Safety"
@@ -1063,10 +1063,10 @@
 "park-058","municipality","Lincoln"
 "park-058","fee-daily","$3 (free on weekends and holidays)"
 "park-058","note","Town of Lincoln is responsible for parking maintenance, payments, and snow removal."
-"park-059","enclosed",2
-"park-059","attended",2
-"park-059","capacity",246
-"park-059","capacity-accessible",6
+"park-059","enclosed","2"
+"park-059","attended","2"
+"park-059","capacity","246"
+"park-059","capacity-accessible","6"
 "park-059","operator","Republic Parking System"
 "park-059","owner","MBTA"
 "park-059","contact","MBTA Customer Support"
@@ -1081,14 +1081,14 @@
 "park-059","payment-app-id","4256"
 "park-059","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-059","fee-monthly","$70"
-"park-059","weekday-typical-utilization",246
+"park-059","weekday-typical-utilization","246"
 "park-059","weekday-utilization-summary","Arrive before a certain time"
 "park-059","weekday-arrive-before","07:00:00"
-"ev-059","capacity",4
-"park-060","enclosed",1
-"park-060","attended",1
-"park-060","capacity",695
-"park-060","capacity-accessible",7
+"ev-059","capacity","4"
+"park-060","enclosed","1"
+"park-060","attended","1"
+"park-060","capacity","695"
+"park-060","capacity-accessible","7"
 "park-060","operator","Lowell Regional Transit Authority"
 "park-060","owner","Local transit authority"
 "park-060","contact","LRTA Parking"
@@ -1099,10 +1099,10 @@
 "park-060","payment-form-accepted","cash"
 "park-060","fee-daily","$8 daily, $16 overnight"
 "park-060","fee-monthly","$60"
-"park-061","enclosed",1
-"park-061","attended",1
-"park-061","capacity",600
-"park-061","capacity-accessible",15
+"park-061","enclosed","1"
+"park-061","attended","1"
+"park-061","capacity","600"
+"park-061","capacity-accessible","15"
 "park-061","operator","Republic Parking System"
 "park-061","owner","MBTA"
 "park-061","contact","MBTA Customer Support"
@@ -1117,12 +1117,12 @@
 "park-061","payment-app-url","https://www.paybyphone.com/"
 "park-061","payment-app-id","4237"
 "park-061","fee-daily","$4 PayByPhone, $4.50 invoice"
-"park-061","weekday-typical-utilization",127
+"park-061","weekday-typical-utilization","127"
 "park-061","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-062","enclosed",2
-"park-062","attended",1
-"park-062","capacity",186
-"park-062","capacity-accessible",6
+"park-062","enclosed","2"
+"park-062","attended","1"
+"park-062","capacity","186"
+"park-062","capacity-accessible","6"
 "park-062","operator","Republic Parking System"
 "park-062","owner","MBTA"
 "park-062","contact","MBTA Customer Support"
@@ -1139,12 +1139,12 @@
 "park-062","payment-app-id","4398"
 "park-062","fee-daily","$6 PayByPhone, $6.50 invoice"
 "park-062","fee-monthly","$125"
-"park-062","weekday-typical-utilization",186
+"park-062","weekday-typical-utilization","186"
 "park-062","weekday-utilization-summary","Insufficient data to determine the time that utilization crosses 90% of capacity"
-"park-063","enclosed",2
-"park-063","attended",2
-"park-063","capacity",71
-"park-063","capacity-accessible",6
+"park-063","enclosed","2"
+"park-063","attended","2"
+"park-063","capacity","71"
+"park-063","capacity-accessible","6"
 "park-063","operator","Town of Manchester"
 "park-063","owner","City/Town"
 "park-063","contact","Town of Manchester, Parking Clerk"
@@ -1154,9 +1154,9 @@
 "park-063","municipality","Manchester"
 "park-063","fee-daily","free"
 "park-063","note","Town of Manchester is responsible for parking maintenance, payments, and snow removal."
-"park-064","enclosed",2
-"park-064","attended",2
-"park-064","capacity",806
+"park-064","enclosed","2"
+"park-064","attended","2"
+"park-064","capacity","806"
 "park-064","operator","Town of Mansfield"
 "park-064","owner","City/Town"
 "park-064","contact","Mansfield Town Hall"
@@ -1172,9 +1172,9 @@
 "park-064","payment-app-id","380 (residents), 381 (non-residents)"
 "park-064","fee-daily","$2 residents with sticker, $4 non-residents (free on weekends)"
 "park-064","note","Town of Mansfield is responsible for parking maintenance, payments, and snow removal."
-"park-065","enclosed",2
-"park-065","attended",2
-"park-065","capacity",207
+"park-065","enclosed","2"
+"park-065","attended","2"
+"park-065","capacity","207"
 "park-065","operator","Republic Parking System"
 "park-065","owner","MBTA"
 "park-065","contact","MBTA Customer Support"
@@ -1188,12 +1188,12 @@
 "park-065","payment-app-url","https://www.paybyphone.com/"
 "park-065","payment-app-id","4443"
 "park-065","fee-daily","$4 PayByPhone, $4.50 invoice"
-"park-065","weekday-typical-utilization",44
+"park-065","weekday-typical-utilization","44"
 "park-065","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-066","enclosed",2
-"park-066","attended",2
-"park-066","capacity",77
-"park-066","capacity-accessible",2
+"park-066","enclosed","2"
+"park-066","attended","2"
+"park-066","capacity","77"
+"park-066","capacity-accessible","2"
 "park-066","operator","City of Melrose"
 "park-066","owner","City/Town"
 "park-066","contact","City of Melrose, Parking Office"
@@ -1204,10 +1204,10 @@
 "park-066","payment-form-accepted","credit-debit-card"
 "park-066","fee-daily","$2"
 "park-066","note","City of Melrose is responsible for parking maintenance, payments, and snow removal."
-"park-067","enclosed",2
-"park-067","attended",2
-"park-067","capacity",82
-"park-067","capacity-accessible",3
+"park-067","enclosed","2"
+"park-067","attended","2"
+"park-067","capacity","82"
+"park-067","capacity-accessible","3"
 "park-067","operator","City of Melrose"
 "park-067","owner","City/Town"
 "park-067","contact","City of Melrose, Parking Office"
@@ -1218,10 +1218,10 @@
 "park-067","payment-form-accepted","credit-debit-card"
 "park-067","fee-daily","$3 (free after 12 PM and on weekends)"
 "park-067","note","City of Melrose is responsible for parking maintenance, payments, and snow removal."
-"park-068","enclosed",2
-"park-068","attended",2
-"park-068","capacity",769
-"park-068","capacity-accessible",13
+"park-068","enclosed","2"
+"park-068","attended","2"
+"park-068","capacity","769"
+"park-068","capacity-accessible","13"
 "park-068","operator","Republic Parking System"
 "park-068","owner","MBTA"
 "park-068","contact","MBTA Customer Support"
@@ -1236,12 +1236,12 @@
 "park-068","payment-app-id","4459"
 "park-068","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-068","fee-monthly","$70"
-"park-068","weekday-typical-utilization",539
+"park-068","weekday-typical-utilization","539"
 "park-068","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-069","enclosed",2
-"park-069","attended",2
-"park-069","capacity",36
-"park-069","capacity-accessible",3
+"park-069","enclosed","2"
+"park-069","attended","2"
+"park-069","capacity","36"
+"park-069","capacity-accessible","3"
 "park-069","operator","Republic Parking System"
 "park-069","owner","MBTA"
 "park-069","contact","MBTA Customer Support"
@@ -1256,13 +1256,13 @@
 "park-069","payment-app-id","4461"
 "park-069","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-069","fee-monthly","$70"
-"park-069","weekday-typical-utilization",36
+"park-069","weekday-typical-utilization","36"
 "park-069","weekday-utilization-summary","Arrive before a certain time"
 "park-069","weekday-arrive-before","07:00:00"
-"park-070","enclosed",2
-"park-070","attended",2
-"park-070","capacity",347
-"park-070","capacity-accessible",11
+"park-070","enclosed","2"
+"park-070","attended","2"
+"park-070","capacity","347"
+"park-070","capacity-accessible","11"
 "park-070","operator","Republic Parking System"
 "park-070","owner","MBTA"
 "park-070","contact","MBTA Customer Support"
@@ -1277,12 +1277,12 @@
 "park-070","payment-app-id","4462"
 "park-070","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-070","fee-monthly","$70"
-"park-070","weekday-typical-utilization",165
+"park-070","weekday-typical-utilization","165"
 "park-070","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-071","enclosed",2
-"park-071","attended",2
-"park-071","capacity",117
-"park-071","capacity-accessible",4
+"park-071","enclosed","2"
+"park-071","attended","2"
+"park-071","capacity","117"
+"park-071","capacity-accessible","4"
 "park-071","operator","Republic Parking System"
 "park-071","owner","MBTA"
 "park-071","contact","MBTA Customer Support"
@@ -1297,12 +1297,12 @@
 "park-071","payment-app-id","4238"
 "park-071","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-071","fee-monthly","$70"
-"park-071","weekday-typical-utilization",63
+"park-071","weekday-typical-utilization","63"
 "park-071","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-072","enclosed",1
-"park-072","attended",1
-"park-072","capacity",541
-"park-072","capacity-accessible",13
+"park-072","enclosed","1"
+"park-072","attended","1"
+"park-072","capacity","541"
+"park-072","capacity-accessible","13"
 "park-072","operator","Lowell Regional Transit Authority"
 "park-072","owner","Local transit authority"
 "park-072","contact","LRTA Parking"
@@ -1312,10 +1312,10 @@
 "park-072","municipality","North Billerica"
 "park-072","fee-daily","$2 residents with sticker, $4 non-residents"
 "park-072","note","Lowell Regional Transit Authority is responsible for parking maintenance, payments, and snow removal."
-"park-073","enclosed",1
-"park-073","attended",1
-"park-073","capacity",436
-"park-073","capacity-accessible",7
+"park-073","enclosed","1"
+"park-073","attended","1"
+"park-073","capacity","436"
+"park-073","capacity-accessible","7"
 "park-073","operator","Montachusett Regional Transit Authority"
 "park-073","owner","Local transit authority"
 "park-073","contact","MART"
@@ -1328,10 +1328,10 @@
 "park-073","fee-daily","$3"
 "park-073","fee-monthly","$50"
 "park-073","note","Montachusett Regional Transit Authority is responsible for parking maintenance, payments, and snow removal."
-"ev-073","capacity",4
-"park-074","enclosed",2
-"park-074","attended",2
-"park-074","capacity",20
+"ev-073","capacity","4"
+"park-074","enclosed","2"
+"park-074","attended","2"
+"park-074","capacity","20"
 "park-074","operator","Town of Wilmington"
 "park-074","owner","City/Town"
 "park-074","contact","Wilmington Town Hall"
@@ -1342,10 +1342,10 @@
 "park-074","fee-daily","free"
 "park-074","fee-monthly","Free"
 "park-074","note","Town of Wilmington is responsible for parking maintenance, payments, and snow removal."
-"park-075","enclosed",2
-"park-075","attended",2
-"park-075","capacity",495
-"park-075","capacity-accessible",8
+"park-075","enclosed","2"
+"park-075","attended","2"
+"park-075","capacity","495"
+"park-075","capacity-accessible","8"
 "park-075","operator","Republic Parking System"
 "park-075","owner","MBTA"
 "park-075","contact","MBTA Customer Support"
@@ -1360,12 +1360,12 @@
 "park-075","payment-app-id","4463"
 "park-075","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-075","fee-monthly","$70"
-"park-075","weekday-typical-utilization",124
+"park-075","weekday-typical-utilization","124"
 "park-075","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-076","enclosed",2
-"park-076","attended",2
-"park-076","capacity",71
-"park-076","capacity-accessible",4
+"park-076","enclosed","2"
+"park-076","attended","2"
+"park-076","capacity","71"
+"park-076","capacity-accessible","4"
 "park-076","operator","Town of Natick"
 "park-076","owner","City/Town"
 "park-076","contact","Town of Natick, Community & Economic Development Office"
@@ -1375,9 +1375,9 @@
 "park-076","municipality","Natick"
 "park-076","fee-daily","Town permit required"
 "park-076","note","Town of Natick is responsible for parking maintenance, payments, and snow removal."
-"park-077","enclosed",2
-"park-077","attended",2
-"park-077","capacity",35
+"park-077","enclosed","2"
+"park-077","attended","2"
+"park-077","capacity","35"
 "park-077","operator","Town of Needham"
 "park-077","owner","City/Town"
 "park-077","contact","Town of Needham, Parking Clerk"
@@ -1387,10 +1387,10 @@
 "park-077","municipality","Needham"
 "park-077","fee-daily","Town permit required"
 "park-077","note","Town of Needham is responsible for parking maintenance, payments, and snow removal."
-"park-078","enclosed",2
-"park-078","attended",2
-"park-078","capacity",100
-"park-078","capacity-accessible",4
+"park-078","enclosed","2"
+"park-078","attended","2"
+"park-078","capacity","100"
+"park-078","capacity-accessible","4"
 "park-078","operator","Republic Parking System"
 "park-078","owner","MBTA"
 "park-078","contact","MBTA Customer Support"
@@ -1405,12 +1405,12 @@
 "park-078","payment-app-id","4930"
 "park-078","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-078","fee-monthly","$70"
-"park-078","weekday-typical-utilization",66
+"park-078","weekday-typical-utilization","66"
 "park-078","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-079","enclosed",2
-"park-079","attended",2
-"park-079","capacity",127
-"park-079","capacity-accessible",4
+"park-079","enclosed","2"
+"park-079","attended","2"
+"park-079","capacity","127"
+"park-079","capacity-accessible","4"
 "park-079","operator","Republic Parking System"
 "park-079","owner","MBTA"
 "park-079","contact","MBTA Customer Support"
@@ -1425,13 +1425,13 @@
 "park-079","payment-app-id","4373"
 "park-079","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-079","fee-monthly","$70"
-"park-079","weekday-typical-utilization",127
+"park-079","weekday-typical-utilization","127"
 "park-079","weekday-utilization-summary","Arrive before a certain time"
 "park-079","weekday-arrive-before","06:30:00"
-"park-080","enclosed",2
-"park-080","attended",2
-"park-080","capacity",814
-"park-080","capacity-accessible",24
+"park-080","enclosed","2"
+"park-080","attended","2"
+"park-080","capacity","814"
+"park-080","capacity-accessible","24"
 "park-080","operator","Republic Parking System"
 "park-080","owner","MBTA"
 "park-080","contact","MBTA Customer Support"
@@ -1446,12 +1446,12 @@
 "park-080","payment-app-id","4239"
 "park-080","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-080","fee-monthly","$70"
-"park-080","weekday-typical-utilization",211
+"park-080","weekday-typical-utilization","211"
 "park-080","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-081","enclosed",2
-"park-081","attended",2
-"park-081","capacity",532
-"park-081","capacity-accessible",11
+"park-081","enclosed","2"
+"park-081","attended","2"
+"park-081","capacity","532"
+"park-081","capacity-accessible","11"
 "park-081","operator","Republic Parking System"
 "park-081","owner","MBTA"
 "park-081","contact","MBTA Customer Support"
@@ -1466,12 +1466,12 @@
 "park-081","payment-app-id","4391"
 "park-081","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-081","fee-monthly","$70"
-"park-081","weekday-typical-utilization",470
+"park-081","weekday-typical-utilization","470"
 "park-081","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-082","enclosed",2
-"park-082","attended",2
-"park-082","capacity",87
-"park-082","capacity-accessible",4
+"park-082","enclosed","2"
+"park-082","attended","2"
+"park-082","capacity","87"
+"park-082","capacity-accessible","4"
 "park-082","operator","Republic Parking System"
 "park-082","owner","MBTA"
 "park-082","contact","MBTA Customer Support"
@@ -1486,12 +1486,12 @@
 "park-082","payment-app-id","4240"
 "park-082","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-082","fee-monthly","$70"
-"park-082","weekday-typical-utilization",34
+"park-082","weekday-typical-utilization","34"
 "park-082","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-083","enclosed",2
-"park-083","attended",1
-"park-083","capacity",838
-"park-083","capacity-accessible",18
+"park-083","enclosed","2"
+"park-083","attended","1"
+"park-083","capacity","838"
+"park-083","capacity-accessible","18"
 "park-083","operator","Republic Parking System"
 "park-083","owner","MBTA"
 "park-083","contact","MBTA Customer Support"
@@ -1509,10 +1509,10 @@
 "park-083","fee-daily","$5 PayByPhone, $5.50 invoice"
 "park-083","fee-monthly","$105"
 "park-083","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-084","enclosed",2
-"park-084","attended",1
-"park-084","capacity",354
-"park-084","capacity-accessible",8
+"park-084","enclosed","2"
+"park-084","attended","1"
+"park-084","capacity","354"
+"park-084","capacity-accessible","8"
 "park-084","operator","Republic Parking System"
 "park-084","owner","MBTA"
 "park-084","contact","MBTA Customer Support"
@@ -1530,10 +1530,10 @@
 "park-084","fee-daily","$5 PayByPhone, $5.50 invoice"
 "park-084","fee-monthly","$105"
 "park-084","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-085","enclosed",2
-"park-085","attended",2
-"park-085","capacity",279
-"park-085","capacity-accessible",5
+"park-085","enclosed","2"
+"park-085","attended","2"
+"park-085","capacity","279"
+"park-085","capacity-accessible","5"
 "park-085","operator","Republic Parking System"
 "park-085","owner","MBTA"
 "park-085","contact","MBTA Customer Support"
@@ -1548,12 +1548,12 @@
 "park-085","payment-app-id","4464"
 "park-085","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-085","fee-monthly","$70"
-"park-085","weekday-typical-utilization",181
+"park-085","weekday-typical-utilization","181"
 "park-085","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-086","enclosed",2
-"park-086","attended",2
-"park-086","capacity",781
-"park-086","capacity-accessible",14
+"park-086","enclosed","2"
+"park-086","attended","2"
+"park-086","capacity","781"
+"park-086","capacity-accessible","14"
 "park-086","operator","Republic Parking System"
 "park-086","owner","MBTA"
 "park-086","contact","MBTA Customer Support"
@@ -1568,12 +1568,12 @@
 "park-086","payment-app-id","4375"
 "park-086","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-086","fee-monthly","$70"
-"park-086","weekday-typical-utilization",572
+"park-086","weekday-typical-utilization","572"
 "park-086","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-087","enclosed",2
-"park-087","attended",2
-"park-087","capacity",219
-"park-087","capacity-accessible",5
+"park-087","enclosed","2"
+"park-087","attended","2"
+"park-087","capacity","219"
+"park-087","capacity-accessible","5"
 "park-087","operator","Republic Parking System"
 "park-087","owner","MBTA"
 "park-087","contact","MBTA Customer Support"
@@ -1588,12 +1588,12 @@
 "park-087","payment-app-id","4376"
 "park-087","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-087","fee-monthly","$70"
-"park-087","weekday-typical-utilization",102
+"park-087","weekday-typical-utilization","102"
 "park-087","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-088","enclosed",2
-"park-088","attended",1
-"park-088","capacity",786
-"park-088","capacity-accessible",8
+"park-088","enclosed","2"
+"park-088","attended","1"
+"park-088","capacity","786"
+"park-088","capacity-accessible","8"
 "park-088","operator","Republic Parking System"
 "park-088","owner","MBTA"
 "park-088","contact","MBTA Customer Support"
@@ -1610,12 +1610,12 @@
 "park-088","payment-app-id","4278"
 "park-088","fee-daily","$6 PayByPhone, $6.50 invoice"
 "park-088","fee-monthly","$200 Premium"
-"park-088","weekday-typical-utilization",786
+"park-088","weekday-typical-utilization","786"
 "park-088","weekday-utilization-summary","Insufficient data to determine the time that utilization crosses 90% of capacity"
-"park-089","enclosed",2
-"park-089","attended",1
-"park-089","capacity",428
-"park-089","capacity-accessible",3
+"park-089","enclosed","2"
+"park-089","attended","1"
+"park-089","capacity","428"
+"park-089","capacity-accessible","3"
 "park-089","operator","Republic Parking System"
 "park-089","owner","MBTA"
 "park-089","contact","MBTA Customer Support"
@@ -1631,12 +1631,12 @@
 "park-089","payment-app-id","4388"
 "park-089","fee-daily","$5 PayByPhone, $5.50 invoice"
 "park-089","fee-monthly","$105"
-"park-089","weekday-typical-utilization",329
+"park-089","weekday-typical-utilization","329"
 "park-089","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-090","enclosed",2
-"park-090","attended",2
-"park-090","capacity",96
-"park-090","capacity-accessible",4
+"park-090","enclosed","2"
+"park-090","attended","2"
+"park-090","capacity","96"
+"park-090","capacity-accessible","4"
 "park-090","operator","Republic Parking System"
 "park-090","owner","MBTA"
 "park-090","contact","MBTA Customer Support"
@@ -1651,12 +1651,12 @@
 "park-090","payment-app-id","4465"
 "park-090","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-090","fee-monthly","$70"
-"park-090","weekday-typical-utilization",2
+"park-090","weekday-typical-utilization","2"
 "park-090","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-091","enclosed",1
-"park-091","attended",1
-"park-091","capacity",330
-"park-091","capacity-accessible",13
+"park-091","enclosed","1"
+"park-091","attended","1"
+"park-091","capacity","330"
+"park-091","capacity-accessible","13"
 "park-091","operator","Metropark"
 "park-091","owner","Private"
 "park-091","contact","Metropark"
@@ -1669,10 +1669,10 @@
 "park-091","fee-daily","N/A"
 "park-091","fee-monthly","$170 for full book (23 coupons), $105 for half book (12 coupons)"
 "park-091","note","Metropark is responsible for parking maintenance, payments, and snow removal."
-"park-092","enclosed",1
-"park-092","attended",1
-"park-092","capacity",2513
-"park-092","capacity-accessible",34
+"park-092","enclosed","1"
+"park-092","attended","1"
+"park-092","capacity","2513"
+"park-092","capacity-accessible","34"
 "park-092","operator","Republic Parking System"
 "park-092","owner","MBTA"
 "park-092","contact","MBTA Customer Support"
@@ -1691,11 +1691,11 @@
 "park-092","fee-daily","$7 for first 14 hours, $15 for 14-24 hours"
 "park-092","fee-monthly","$200 Premium"
 "park-092","weekday-utilization-summary","No data"
-"ev-092","capacity",2
-"park-093","enclosed",2
-"park-093","attended",2
-"park-093","capacity",71
-"park-093","capacity-accessible",2
+"ev-092","capacity","2"
+"park-093","enclosed","2"
+"park-093","attended","2"
+"park-093","capacity","71"
+"park-093","capacity-accessible","2"
 "park-093","operator","Republic Parking System"
 "park-093","owner","MBTA"
 "park-093","contact","MBTA Customer Support"
@@ -1710,13 +1710,13 @@
 "park-093","payment-app-id","4279"
 "park-093","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-093","fee-monthly","$70"
-"park-093","weekday-typical-utilization",64
+"park-093","weekday-typical-utilization","64"
 "park-093","weekday-utilization-summary","Arrive before a certain time"
 "park-093","weekday-arrive-before","10:30:00"
-"park-094","enclosed",2
-"park-094","attended",2
-"park-094","capacity",354
-"park-094","capacity-accessible",15
+"park-094","enclosed","2"
+"park-094","attended","2"
+"park-094","capacity","354"
+"park-094","capacity-accessible","15"
 "park-094","operator","Republic Parking System"
 "park-094","owner","MBTA"
 "park-094","contact","MBTA Customer Support"
@@ -1731,12 +1731,12 @@
 "park-094","payment-app-id","4377"
 "park-094","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-094","fee-monthly","$70"
-"park-094","weekday-typical-utilization",130
+"park-094","weekday-typical-utilization","130"
 "park-094","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-095","enclosed",2
-"park-095","attended",1
-"park-095","capacity",731
-"park-095","capacity-accessible",22
+"park-095","enclosed","2"
+"park-095","attended","1"
+"park-095","capacity","731"
+"park-095","capacity-accessible","22"
 "park-095","operator","Republic Parking System"
 "park-095","owner","MBTA"
 "park-095","contact","MBTA Customer Support"
@@ -1753,11 +1753,11 @@
 "park-095","payment-app-id","4372"
 "park-095","fee-daily","$6 PayByPhone, $6.50 invoice"
 "park-095","fee-monthly","$125"
-"park-095","weekday-typical-utilization",624
+"park-095","weekday-typical-utilization","624"
 "park-095","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-096","enclosed",2
-"park-096","attended",2
-"park-096","capacity",88
+"park-096","enclosed","2"
+"park-096","attended","2"
+"park-096","capacity","88"
 "park-096","operator","Town of Rockport"
 "park-096","owner","City/Town"
 "park-096","contact","Town of Rockport, Parking Clerk"
@@ -1767,10 +1767,10 @@
 "park-096","municipality","Rockport"
 "park-096","fee-daily","free"
 "park-096","note","Town of Rockport is responsible for parking maintenance, payments, and snow removal."
-"park-097","enclosed",2
-"park-097","attended",2
-"park-097","capacity",152
-"park-097","capacity-accessible",4
+"park-097","enclosed","2"
+"park-097","attended","2"
+"park-097","capacity","152"
+"park-097","capacity-accessible","4"
 "park-097","operator","Republic Parking System"
 "park-097","owner","MBTA"
 "park-097","contact","MBTA Customer Support"
@@ -1785,12 +1785,12 @@
 "park-097","payment-app-id","4379"
 "park-097","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-097","fee-monthly","$70"
-"park-097","weekday-typical-utilization",88
+"park-097","weekday-typical-utilization","88"
 "park-097","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-098","enclosed",1
-"park-098","attended",1
-"park-098","capacity",2589
-"park-098","capacity-accessible",44
+"park-098","enclosed","1"
+"park-098","attended","1"
+"park-098","capacity","2589"
+"park-098","capacity-accessible","44"
 "park-098","operator","Republic Parking System"
 "park-098","owner","MBTA"
 "park-098","contact","MBTA Customer Support"
@@ -1804,11 +1804,11 @@
 "park-098","payment-form-accepted","smartcard"
 "park-098","fee-daily","$7 for first 14 hours, $14 for 14-24 hours"
 "park-098","weekday-utilization-summary","No data"
-"ev-098","capacity",4
-"park-099","enclosed",2
-"park-099","attended",2
-"park-099","capacity",282
-"park-099","capacity-accessible",7
+"ev-098","capacity","4"
+"park-099","enclosed","2"
+"park-099","attended","2"
+"park-099","capacity","282"
+"park-099","capacity-accessible","7"
 "park-099","operator","Republic Parking System"
 "park-099","owner","MBTA"
 "park-099","contact","MBTA Customer Support"
@@ -1823,12 +1823,12 @@
 "park-099","payment-app-id","4243"
 "park-099","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-099","fee-monthly","$70"
-"park-099","weekday-typical-utilization",42
+"park-099","weekday-typical-utilization","42"
 "park-099","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-100","enclosed",2
-"park-100","attended",2
-"park-100","capacity",287
-"park-100","capacity-accessible",9
+"park-100","enclosed","2"
+"park-100","attended","2"
+"park-100","capacity","287"
+"park-100","capacity-accessible","9"
 "park-100","operator","Town of Acton"
 "park-100","owner","City/Town"
 "park-100","contact","Town of Acton, Parking Clerk"
@@ -1843,10 +1843,10 @@
 "park-100","payment-app-id","1723"
 "park-100","fee-daily","$5 weekdays 6AM - 12 PM"
 "park-100","note","Town of Acton is responsible for parking maintenance, payments, and snow removal."
-"park-101","enclosed",1
-"park-101","attended",1
-"park-101","capacity",696
-"park-101","capacity-accessible",16
+"park-101","enclosed","1"
+"park-101","attended","1"
+"park-101","capacity","696"
+"park-101","capacity-accessible","16"
 "park-101","operator","Republic Parking System"
 "park-101","owner","MBTA"
 "park-101","contact","MBTA Customer Support"
@@ -1859,11 +1859,11 @@
 "park-101","payment-form-accepted","smartcard"
 "park-101","fee-daily","$5 for first 14 hours, $12 for 14-24 hours"
 "park-101","weekday-utilization-summary","No data"
-"ev-101","capacity",4
-"park-102","enclosed",2
-"park-102","attended",2
-"park-102","capacity",15
-"park-102","capacity-accessible",2
+"ev-101","capacity","4"
+"park-102","enclosed","2"
+"park-102","attended","2"
+"park-102","capacity","15"
+"park-102","capacity-accessible","2"
 "park-102","operator","Republic Parking System"
 "park-102","owner","MBTA"
 "park-102","contact","MBTA Customer Support"
@@ -1877,11 +1877,11 @@
 "park-102","payment-app-url","https://www.paybyphone.com/"
 "park-102","payment-app-id","4468"
 "park-102","fee-daily","$5 PayByPhone, $5.50 invoice"
-"park-102","weekday-typical-utilization",11
+"park-102","weekday-typical-utilization","11"
 "park-102","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-103","enclosed",2
-"park-103","attended",2
-"park-103","capacity",542
+"park-103","enclosed","2"
+"park-103","attended","2"
+"park-103","capacity","542"
 "park-103","operator","Town of Sharon"
 "park-103","owner","City/Town"
 "park-103","contact","Sharon City Hall Systems"
@@ -1896,9 +1896,9 @@
 "park-103","payment-app-id","2232"
 "park-103","fee-daily","$4"
 "park-103","note","Town of Sharon is responsible for parking maintenance, payments, and snow removal."
-"park-104","enclosed",2
-"park-104","attended",2
-"park-104","capacity",25
+"park-104","enclosed","2"
+"park-104","attended","2"
+"park-104","capacity","25"
 "park-104","operator","Town of Shirley"
 "park-104","owner","City/Town"
 "park-104","contact","Shirley Town Hall"
@@ -1908,10 +1908,10 @@
 "park-104","municipality","Shirley"
 "park-104","fee-daily","free"
 "park-104","note","Town of Shirley is responsible for parking maintenance, payments, and snow removal."
-"park-105","enclosed",2
-"park-105","attended",2
-"park-105","capacity",568
-"park-105","capacity-accessible",14
+"park-105","enclosed","2"
+"park-105","attended","2"
+"park-105","capacity","568"
+"park-105","capacity-accessible","14"
 "park-105","operator","Republic Parking System"
 "park-105","owner","MBTA"
 "park-105","contact","MBTA Customer Support"
@@ -1926,13 +1926,13 @@
 "park-105","payment-app-id","4380"
 "park-105","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-105","fee-monthly","$70"
-"park-105","weekday-typical-utilization",568
+"park-105","weekday-typical-utilization","568"
 "park-105","weekday-utilization-summary","Arrive before a certain time"
 "park-105","weekday-arrive-before","06:30:00"
-"park-106","enclosed",2
-"park-106","attended",2
-"park-106","capacity",697
-"park-106","capacity-accessible",9
+"park-106","enclosed","2"
+"park-106","attended","2"
+"park-106","capacity","697"
+"park-106","capacity-accessible","9"
 "park-106","operator","Republic Parking System"
 "park-106","owner","MBTA"
 "park-106","contact","MBTA Customer Support"
@@ -1947,12 +1947,12 @@
 "park-106","payment-app-id","4471"
 "park-106","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-106","fee-monthly","$70"
-"park-106","weekday-typical-utilization",329
+"park-106","weekday-typical-utilization","329"
 "park-106","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-107","enclosed",2
-"park-107","attended",2
-"park-107","capacity",364
-"park-107","capacity-accessible",8
+"park-107","enclosed","2"
+"park-107","attended","2"
+"park-107","capacity","364"
+"park-107","capacity-accessible","8"
 "park-107","operator","Republic Parking System"
 "park-107","owner","MBTA"
 "park-107","contact","MBTA Customer Support"
@@ -1967,13 +1967,13 @@
 "park-107","payment-app-id","4257"
 "park-107","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-107","fee-monthly","$70"
-"park-107","weekday-typical-utilization",362
+"park-107","weekday-typical-utilization","362"
 "park-107","weekday-utilization-summary","Arrive before a certain time"
 "park-107","weekday-arrive-before","07:00:00"
-"park-108","enclosed",2
-"park-108","attended",2
-"park-108","capacity",333
-"park-108","capacity-accessible",10
+"park-108","enclosed","2"
+"park-108","attended","2"
+"park-108","capacity","333"
+"park-108","capacity-accessible","10"
 "park-108","operator","Republic Parking System"
 "park-108","owner","MBTA"
 "park-108","contact","MBTA Customer Support"
@@ -1988,12 +1988,12 @@
 "park-108","payment-app-id","4381"
 "park-108","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-108","fee-monthly","$70"
-"park-108","weekday-typical-utilization",293
+"park-108","weekday-typical-utilization","293"
 "park-108","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-109","enclosed",2
-"park-109","attended",2
-"park-109","capacity",110
-"park-109","capacity-accessible",4
+"park-109","enclosed","2"
+"park-109","attended","2"
+"park-109","capacity","110"
+"park-109","capacity-accessible","4"
 "park-109","operator","Republic Parking System"
 "park-109","owner","MBTA"
 "park-109","contact","MBTA Customer Support"
@@ -2008,12 +2008,12 @@
 "park-109","payment-app-id","4374"
 "park-109","fee-daily","$5 PayByPhone, $5.50 invoice"
 "park-109","fee-monthly","$105"
-"park-109","weekday-typical-utilization",77
+"park-109","weekday-typical-utilization","77"
 "park-109","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-110","enclosed",2
-"park-110","attended",1
-"park-110","capacity",222
-"park-110","capacity-accessible",7
+"park-110","enclosed","2"
+"park-110","attended","1"
+"park-110","capacity","222"
+"park-110","capacity-accessible","7"
 "park-110","operator","Republic Parking System"
 "park-110","owner","MBTA"
 "park-110","contact","MBTA Customer Support"
@@ -2030,12 +2030,12 @@
 "park-110","payment-app-id","4397"
 "park-110","fee-daily","$6 PayByPhone, $6.50 invoice"
 "park-110","fee-monthly","$125"
-"park-110","weekday-typical-utilization",222
+"park-110","weekday-typical-utilization","222"
 "park-110","weekday-utilization-summary","Insufficient data to determine the time that utilization crosses 90% of capacity"
-"park-111","enclosed",2
-"park-111","attended",2
-"park-111","capacity",131
-"park-111","capacity-accessible",6
+"park-111","enclosed","2"
+"park-111","attended","2"
+"park-111","capacity","131"
+"park-111","capacity-accessible","6"
 "park-111","operator","Republic Parking System"
 "park-111","owner","MBTA"
 "park-111","contact","MBTA Customer Support"
@@ -2050,13 +2050,13 @@
 "park-111","payment-app-id","4244"
 "park-111","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-111","fee-monthly","$70"
-"park-111","weekday-typical-utilization",131
+"park-111","weekday-typical-utilization","131"
 "park-111","weekday-utilization-summary","Arrive before a certain time"
 "park-111","weekday-arrive-before","07:00:00"
-"park-112","enclosed",2
-"park-112","attended",2
-"park-112","capacity",650
-"park-112","capacity-accessible",24
+"park-112","enclosed","2"
+"park-112","attended","2"
+"park-112","capacity","650"
+"park-112","capacity-accessible","24"
 "park-112","operator","Standard Parking"
 "park-112","owner","Private"
 "park-112","contact","Standard Parking"
@@ -2069,17 +2069,17 @@
 "park-112","fee-daily","$5 for 24 hours, $35 for each additional consecutive 24-hour period thereafter"
 "park-112","fee-monthly","$90"
 "park-112","note","Standard Parking is responsible for parking maintenance, payments, and snow removal."
-"park-113","enclosed",2
-"park-113","attended",2
-"park-113","capacity",2
-"park-113","capacity-accessible",2
+"park-113","enclosed","2"
+"park-113","attended","2"
+"park-113","capacity","2"
+"park-113","capacity-accessible","2"
 "park-113","address","691 Dudley St, Dorchester, MA 02125"
 "park-113","municipality","Boston"
 "park-113","fee-daily","free"
-"park-114","enclosed",2
-"park-114","attended",2
-"park-114","capacity",43
-"park-114","capacity-accessible",3
+"park-114","enclosed","2"
+"park-114","attended","2"
+"park-114","capacity","43"
+"park-114","capacity-accessible","3"
 "park-114","operator","Republic Parking System"
 "park-114","owner","MassDOT"
 "park-114","contact","MBTA Customer Support"
@@ -2094,13 +2094,13 @@
 "park-114","payment-app-id","4266"
 "park-114","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-114","fee-monthly","$70"
-"park-114","weekday-typical-utilization",39
+"park-114","weekday-typical-utilization","39"
 "park-114","weekday-utilization-summary","Arrive before a certain time"
 "park-114","weekday-arrive-before","10:30:00"
-"park-115","enclosed",2
-"park-115","attended",2
-"park-115","capacity",161
-"park-115","capacity-accessible",6
+"park-115","enclosed","2"
+"park-115","attended","2"
+"park-115","capacity","161"
+"park-115","capacity-accessible","6"
 "park-115","operator","Republic Parking System"
 "park-115","owner","MassDOT"
 "park-115","contact","MBTA Customer Support"
@@ -2115,13 +2115,13 @@
 "park-115","payment-app-id","4269"
 "park-115","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-115","fee-monthly","$70"
-"park-115","weekday-typical-utilization",55
+"park-115","weekday-typical-utilization","55"
 "park-115","weekday-utilization-summary","Arrive before a certain time"
 "park-115","weekday-arrive-before","07:00:00"
-"park-116","enclosed",2
-"park-116","attended",2
-"park-116","capacity",72
-"park-116","capacity-accessible",3
+"park-116","enclosed","2"
+"park-116","attended","2"
+"park-116","capacity","72"
+"park-116","capacity-accessible","3"
 "park-116","operator","Republic Parking System"
 "park-116","owner","MBTA"
 "park-116","contact","MBTA Customer Support"
@@ -2135,13 +2135,13 @@
 "park-116","payment-app-url","https://www.paybyphone.com/"
 "park-116","payment-app-id","4258"
 "park-116","fee-daily","$6 PayByPhone, $6.50 invoice"
-"park-116","weekday-typical-utilization",68
+"park-116","weekday-typical-utilization","68"
 "park-116","weekday-utilization-summary","Arrive before a certain time"
 "park-116","weekday-arrive-before","08:00:00"
-"park-117","enclosed",1
-"park-117","attended",1
-"park-117","capacity",369
-"park-117","capacity-accessible",8
+"park-117","enclosed","1"
+"park-117","attended","1"
+"park-117","capacity","369"
+"park-117","capacity-accessible","8"
 "park-117","operator","Montachusett Regional Transit Authority"
 "park-117","owner","Local transit authority"
 "park-117","contact","MRTA MART Transit"
@@ -2154,11 +2154,11 @@
 "park-117","fee-daily","$3"
 "park-117","fee-monthly","$50"
 "park-117","note","Monthly passes can only be purchased the 1st of the month through the 7th of the month. After the 7th of the month passes can only be purchased daily. Passes are only valid for that month it was purchased. Monthly passes are only sold for that present calendar month. Holidays and weekends are free. For overnight parking, tickets must be purchased for 2 days. Montachusett RTA is responsible for parking lot snow removal, maintenance and fee collection. Please contact MBTA Customer Service regarding platform snow removal, cleanliness, and maintenance issues."
-"ev-117","capacity",4
-"park-118","enclosed",2
-"park-118","attended",2
-"park-118","capacity",117
-"park-118","capacity-accessible",6
+"ev-117","capacity","4"
+"park-118","enclosed","2"
+"park-118","attended","2"
+"park-118","capacity","117"
+"park-118","capacity-accessible","6"
 "park-118","operator","Republic Parking System"
 "park-118","owner","MBTA"
 "park-118","contact","MBTA Customer Support"
@@ -2173,13 +2173,13 @@
 "park-118","payment-app-id","4246"
 "park-118","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-118","fee-monthly","$70"
-"park-118","weekday-typical-utilization",107
+"park-118","weekday-typical-utilization","107"
 "park-118","weekday-utilization-summary","Arrive before a certain time"
 "park-118","weekday-arrive-before","07:30:00"
-"park-119","enclosed",2
-"park-119","attended",2
-"park-119","capacity",343
-"park-119","capacity-accessible",4
+"park-119","enclosed","2"
+"park-119","attended","2"
+"park-119","capacity","343"
+"park-119","capacity-accessible","4"
 "park-119","operator","Republic Parking System"
 "park-119","owner","MBTA"
 "park-119","contact","MBTA Customer Support"
@@ -2194,12 +2194,12 @@
 "park-119","payment-app-id","4382"
 "park-119","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-119","fee-monthly","$70"
-"park-119","weekday-typical-utilization",222
+"park-119","weekday-typical-utilization","222"
 "park-119","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-120","enclosed",2
-"park-120","attended",2
-"park-120","capacity",50
-"park-120","capacity-accessible",4
+"park-120","enclosed","2"
+"park-120","attended","2"
+"park-120","capacity","50"
+"park-120","capacity-accessible","4"
 "park-120","operator","City of Waltham"
 "park-120","owner","City/Town"
 "park-120","contact","Waltham City Hall"
@@ -2209,10 +2209,10 @@
 "park-120","municipality","Waltham"
 "park-120","fee-daily","$2"
 "park-120","note","City of Waltham is responsible for parking maintenance, payments, and snow removal."
-"park-121","enclosed",2
-"park-121","attended",2
-"park-121","capacity",179
-"park-121","capacity-accessible",6
+"park-121","enclosed","2"
+"park-121","attended","2"
+"park-121","capacity","179"
+"park-121","capacity-accessible","6"
 "park-121","operator","Republic Parking System"
 "park-121","owner","MBTA"
 "park-121","contact","MBTA Customer Support"
@@ -2227,12 +2227,12 @@
 "park-121","payment-app-id","4259"
 "park-121","fee-daily","$5 PayByPhone, $5.50 invoice"
 "park-121","fee-monthly","$90"
-"park-121","weekday-typical-utilization",129
+"park-121","weekday-typical-utilization","129"
 "park-121","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-122","enclosed",2
-"park-122","attended",2
-"park-122","capacity",119
-"park-122","capacity-accessible",6
+"park-122","enclosed","2"
+"park-122","attended","2"
+"park-122","capacity","119"
+"park-122","capacity-accessible","6"
 "park-122","operator","Town of Winchester"
 "park-122","owner","City/Town"
 "park-122","contact","Town of Winchester, Engineering Department"
@@ -2243,10 +2243,10 @@
 "park-122","payment-form-accepted","mobile-app"
 "park-122","fee-daily","$5 (free on weekends) "
 "park-122","note","Town of Winchester is responsible for parking maintenance, payments, and snow removal."
-"park-123","enclosed",2
-"park-123","attended",2
-"park-123","capacity",190
-"park-123","capacity-accessible",2
+"park-123","enclosed","2"
+"park-123","attended","2"
+"park-123","capacity","190"
+"park-123","capacity-accessible","2"
 "park-123","operator","Town of Wellesley"
 "park-123","owner","City/Town"
 "park-123","contact","Wellesley Town Hall"
@@ -2262,10 +2262,10 @@
 "park-123","payment-app-id","2300"
 "park-123","fee-daily","$4.50"
 "park-123","note","Town of Wellesley is responsible for parking maintenance, payments, and snow removal."
-"park-124","enclosed",2
-"park-124","attended",2
-"park-124","capacity",55
-"park-124","capacity-accessible",1
+"park-124","enclosed","2"
+"park-124","attended","2"
+"park-124","capacity","55"
+"park-124","capacity-accessible","1"
 "park-124","operator","Town of Wellesley"
 "park-124","owner","City/Town"
 "park-124","contact","Wellesley Town Hall"
@@ -2281,10 +2281,10 @@
 "park-124","payment-app-id","2307"
 "park-124","fee-daily","$4.50"
 "park-124","note","Town of Wellesley is responsible for parking maintenance, payments, and snow removal."
-"park-125","enclosed",2
-"park-125","attended",2
-"park-125","capacity",224
-"park-125","capacity-accessible",2
+"park-125","enclosed","2"
+"park-125","attended","2"
+"park-125","capacity","224"
+"park-125","capacity-accessible","2"
 "park-125","operator","Town of Wellesley"
 "park-125","owner","City/Town"
 "park-125","contact","Wellesley Town Hall"
@@ -2300,10 +2300,10 @@
 "park-125","payment-app-id","2335"
 "park-125","fee-daily","$4.50"
 "park-125","note","Town of Wellesley is responsible for parking maintenance, payments, and snow removal."
-"park-126","enclosed",2
-"park-126","attended",1
-"park-126","capacity",1316
-"park-126","capacity-accessible",22
+"park-126","enclosed","2"
+"park-126","attended","1"
+"park-126","capacity","1316"
+"park-126","capacity-accessible","22"
 "park-126","operator","Republic Parking System"
 "park-126","owner","MBTA"
 "park-126","contact","MBTA Customer Support"
@@ -2320,11 +2320,11 @@
 "park-126","payment-app-id","4392"
 "park-126","fee-daily","$6 PayByPhone, $6.50 invoice"
 "park-126","fee-monthly","$125"
-"park-126","weekday-typical-utilization",1263
+"park-126","weekday-typical-utilization","1263"
 "park-126","weekday-utilization-summary","Insufficient data to determine the time that utilization crosses 90% of capacity"
-"park-127","enclosed",2
-"park-127","attended",2
-"park-127","capacity",146
+"park-127","enclosed","2"
+"park-127","attended","2"
+"park-127","capacity","146"
 "park-127","operator","Town of Concord"
 "park-127","owner","City/Town"
 "park-127","contact","Town of Concord, Treasurer/Collector's Office"
@@ -2338,10 +2338,10 @@
 "park-127","payment-app-id","10166"
 "park-127","fee-daily","$5 PayByPhone"
 "park-127","note","Town of Concord is responsible for parking maintenance, payments, and snow removal."
-"park-128","enclosed",2
-"park-128","attended",2
-"park-128","capacity",44
-"park-128","capacity-accessible",1
+"park-128","enclosed","2"
+"park-128","attended","2"
+"park-128","capacity","44"
+"park-128","capacity-accessible","1"
 "park-128","operator","Republic Parking System"
 "park-128","owner","MBTA"
 "park-128","contact","MBTA Customer Support"
@@ -2356,12 +2356,12 @@
 "park-128","payment-app-id","4247"
 "park-128","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-128","fee-monthly","$70"
-"park-128","weekday-typical-utilization",15
+"park-128","weekday-typical-utilization","15"
 "park-128","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-129","enclosed",2
-"park-129","attended",2
-"park-129","capacity",214
-"park-129","capacity-accessible",7
+"park-129","enclosed","2"
+"park-129","attended","2"
+"park-129","capacity","214"
+"park-129","capacity-accessible","7"
 "park-129","operator","Republic Parking System"
 "park-129","owner","MBTA"
 "park-129","contact","MBTA Customer Support"
@@ -2376,12 +2376,12 @@
 "park-129","payment-app-id","4472"
 "park-129","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-129","fee-monthly","$70"
-"park-129","weekday-typical-utilization",178
+"park-129","weekday-typical-utilization","178"
 "park-129","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-130","enclosed",2
-"park-130","attended",2
-"park-130","capacity",34
-"park-130","capacity-accessible",2
+"park-130","enclosed","2"
+"park-130","attended","2"
+"park-130","capacity","34"
+"park-130","capacity-accessible","2"
 "park-130","operator","Republic Parking System"
 "park-130","owner","MBTA"
 "park-130","contact","MBTA Customer Support"
@@ -2395,12 +2395,12 @@
 "park-130","payment-app-url","https://www.paybyphone.com/"
 "park-130","payment-app-id","4248"
 "park-130","fee-daily","$5 PayByPhone, $5.50 invoice"
-"park-130","weekday-typical-utilization",29
+"park-130","weekday-typical-utilization","29"
 "park-130","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-131","enclosed",2
-"park-131","attended",2
-"park-131","capacity",178
-"park-131","capacity-accessible",6
+"park-131","enclosed","2"
+"park-131","attended","2"
+"park-131","capacity","178"
+"park-131","capacity-accessible","6"
 "park-131","operator","Republic Parking System"
 "park-131","owner","MBTA"
 "park-131","contact","MBTA Customer Support"
@@ -2414,13 +2414,13 @@
 "park-131","payment-app-url","https://www.paybyphone.com/"
 "park-131","payment-app-id","4265"
 "park-131","fee-daily","$4 PayByPhone, $4.50 invoice"
-"park-131","weekday-typical-utilization",177
+"park-131","weekday-typical-utilization","177"
 "park-131","weekday-utilization-summary","Arrive before a certain time"
 "park-131","weekday-arrive-before","06:30:00"
-"park-132","enclosed",2
-"park-132","attended",2
-"park-132","capacity",60
-"park-132","capacity-accessible",2
+"park-132","enclosed","2"
+"park-132","attended","2"
+"park-132","capacity","60"
+"park-132","capacity-accessible","2"
 "park-132","operator","Republic Parking System"
 "park-132","owner","MBTA"
 "park-132","contact","MBTA Customer Support"
@@ -2435,12 +2435,12 @@
 "park-132","payment-app-id","4383"
 "park-132","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-132","fee-monthly","$70"
-"park-132","weekday-typical-utilization",50
+"park-132","weekday-typical-utilization","50"
 "park-132","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-133","enclosed",2
-"park-133","attended",2
-"park-133","capacity",448
-"park-133","capacity-accessible",8
+"park-133","enclosed","2"
+"park-133","attended","2"
+"park-133","capacity","448"
+"park-133","capacity-accessible","8"
 "park-133","operator","Republic Parking System"
 "park-133","owner","MBTA"
 "park-133","contact","MBTA Customer Support"
@@ -2455,13 +2455,13 @@
 "park-133","payment-app-id","4270"
 "park-133","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-133","fee-monthly","$70"
-"park-133","weekday-typical-utilization",438
+"park-133","weekday-typical-utilization","438"
 "park-133","weekday-utilization-summary","Arrive before a certain time"
 "park-133","weekday-arrive-before","07:00:00"
-"park-134","enclosed",2
-"park-134","attended",2
-"park-134","capacity",290
-"park-134","capacity-accessible",13
+"park-134","enclosed","2"
+"park-134","attended","2"
+"park-134","capacity","290"
+"park-134","capacity-accessible","13"
 "park-134","operator","Republic Parking System"
 "park-134","owner","MBTA"
 "park-134","contact","MBTA Customer Support"
@@ -2477,10 +2477,10 @@
 "park-134","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-134","fee-monthly","$70"
 "park-134","weekday-utilization-summary","No data"
-"park-135","enclosed",2
-"park-135","attended",2
-"park-135","capacity",208
-"park-135","capacity-accessible",7
+"park-135","enclosed","2"
+"park-135","attended","2"
+"park-135","capacity","208"
+"park-135","capacity-accessible","7"
 "park-135","operator","Republic Parking System"
 "park-135","owner","MBTA"
 "park-135","contact","MBTA Customer Support"
@@ -2495,12 +2495,12 @@
 "park-135","payment-app-id","4474"
 "park-135","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-135","fee-monthly","$70"
-"park-135","weekday-typical-utilization",176
+"park-135","weekday-typical-utilization","176"
 "park-135","weekday-utilization-summary","Utilization never crosses 90% of capacity"
-"park-136","enclosed",2
-"park-136","attended",2
-"park-136","capacity",191
-"park-136","capacity-accessible",7
+"park-136","enclosed","2"
+"park-136","attended","2"
+"park-136","capacity","191"
+"park-136","capacity-accessible","7"
 "park-136","operator","Republic Parking System"
 "park-136","owner","MBTA"
 "park-136","contact","MBTA Customer Support"
@@ -2515,14 +2515,14 @@
 "park-136","payment-app-id","4272"
 "park-136","fee-daily","$4 PayByPhone, $4.50 invoice"
 "park-136","fee-monthly","$70"
-"park-136","weekday-typical-utilization",184
+"park-136","weekday-typical-utilization","184"
 "park-136","weekday-utilization-summary","Arrive before a certain time"
 "park-136","weekday-arrive-before","07:00:00"
-"ev-136","capacity",2
-"park-137","enclosed",2
-"park-137","attended",2
-"park-137","capacity",237
-"park-137","capacity-accessible",2
+"ev-136","capacity","2"
+"park-137","enclosed","2"
+"park-137","attended","2"
+"park-137","capacity","237"
+"park-137","capacity-accessible","2"
 "park-137","operator","Town of Winchester"
 "park-137","owner","City/Town"
 "park-137","contact","Town of Winchester, Engineering Department"
@@ -2532,10 +2532,10 @@
 "park-137","municipality","Winchester"
 "park-137","fee-daily","Town permit required"
 "park-137","note","Town of Winchester is responsible for parking maintenance, payments, and snow removal."
-"park-138","enclosed",2
-"park-138","attended",1
-"park-138","capacity",420
-"park-138","capacity-accessible",11
+"park-138","enclosed","2"
+"park-138","attended","1"
+"park-138","capacity","420"
+"park-138","capacity-accessible","11"
 "park-138","operator","Republic Parking System"
 "park-138","owner","MBTA"
 "park-138","contact","MBTA Customer Support"
@@ -2552,12 +2552,12 @@
 "park-138","payment-app-id","4564"
 "park-138","fee-daily","$5 PayByPhone, $5.50 invoice"
 "park-138","fee-monthly","$105"
-"park-138","weekday-typical-utilization",420
+"park-138","weekday-typical-utilization","420"
 "park-138","weekday-utilization-summary","Insufficient data to determine the time that utilization crosses 90% of capacity"
-"park-139","enclosed",1
-"park-139","attended",1
-"park-139","capacity",1465
-"park-139","capacity-accessible",24
+"park-139","enclosed","1"
+"park-139","attended","1"
+"park-139","capacity","1465"
+"park-139","capacity-accessible","24"
 "park-139","operator","Republic Parking System"
 "park-139","owner","MBTA"
 "park-139","contact","MBTA Customer Support"
@@ -2570,11 +2570,11 @@
 "park-139","payment-form-accepted","smartcard"
 "park-139","fee-daily","$5 for first 14 hours, $12 for 14-24 hours"
 "park-139","weekday-utilization-summary","No data"
-"ev-139","capacity",4
-"park-140","enclosed",2
-"park-140","attended",1
-"park-140","capacity",373
-"park-140","capacity-accessible",11
+"ev-139","capacity","4"
+"park-140","enclosed","2"
+"park-140","attended","1"
+"park-140","capacity","373"
+"park-140","capacity-accessible","11"
 "park-140","operator","Republic Parking System"
 "park-140","owner","MBTA"
 "park-140","contact","MBTA Customer Support"
@@ -2591,9 +2591,9 @@
 "park-140","fee-daily","$5 PayByPhone, $5.50 invoice"
 "park-140","fee-monthly","$105"
 "park-140","weekday-utilization-summary","Insufficient data to determine the time that utilization crosses 90% of capacity"
-"park-141","enclosed",2
-"park-141","attended",1
-"park-141","capacity",104
+"park-141","enclosed","2"
+"park-141","attended","1"
+"park-141","capacity","104"
 "park-141","operator","Republic Parking System"
 "park-141","owner","MBTA"
 "park-141","contact","MBTA Customer Support"
@@ -2610,10 +2610,10 @@
 "park-141","fee-daily","$5 PayByPhone, $5.50 invoice"
 "park-141","fee-monthly","$105"
 "park-141","weekday-utilization-summary","Insufficient data to determine the time that utilization crosses 90% of capacity"
-"park-142","enclosed",1
-"park-142","attended",1
-"park-142","capacity",545
-"park-142","capacity-accessible",11
+"park-142","enclosed","1"
+"park-142","attended","1"
+"park-142","capacity","545"
+"park-142","capacity-accessible","11"
 "park-142","operator","Republic Parking System"
 "park-142","owner","MBTA"
 "park-142","contact","MBTA Customer Support"
@@ -2626,11 +2626,11 @@
 "park-142","payment-form-accepted","smartcard"
 "park-142","fee-daily","$6 for first 14 hours, $12 for 14-24 hours"
 "park-142","weekday-utilization-summary","No data"
-"ev-142","capacity",4
-"park-143","enclosed",1
-"park-143","attended",1
-"park-143","capacity",500
-"park-143","capacity-accessible",9
+"ev-142","capacity","4"
+"park-143","enclosed","1"
+"park-143","attended","1"
+"park-143","capacity","500"
+"park-143","capacity-accessible","9"
 "park-143","operator","City of Worcester"
 "park-143","owner","City/Town"
 "park-143","contact","City of Worcester Customer Service"
@@ -2643,10 +2643,10 @@
 "park-143","fee-daily","$3 for the first hour, $1 for each additional hour, $12 for 6+ hours"
 "park-143","fee-monthly","$129+"
 "park-143","note","Hours of Operation: Monday - Saturday, 5 AM - 3 AM. City of Worcester is responsible for parking garage snow removal, maintenance and fee collection; and station and platform snow removal, cleanliness and maintenance issues. Garage is open 24 hours. City of Worcester offers additional parking at nearby open lots."
-"park-144","enclosed",2
-"park-144","attended",2
-"park-144","capacity",30
-"park-144","capacity-accessible",1
+"park-144","enclosed","2"
+"park-144","attended","2"
+"park-144","capacity","30"
+"park-144","capacity-accessible","1"
 "park-144","operator","City of Melrose"
 "park-144","owner","City/Town"
 "park-144","contact","City of Melrose, Office of the Parking Clerk"
@@ -2657,10 +2657,10 @@
 "park-144","payment-form-accepted","credit-debit-card"
 "park-144","fee-daily","$3 (free after 12 PM and on weekends)"
 "park-144","note","City of Melrose is responsible for parking maintenance, payments, and snow removal."
-"park-145","enclosed",1
-"park-145","attended",1
-"park-145","capacity",210
-"park-145","capacity-accessible",4
+"park-145","enclosed","1"
+"park-145","attended","1"
+"park-145","capacity","210"
+"park-145","capacity-accessible","4"
 "park-145","operator","ProPark"
 "park-145","owner","Private"
 "park-145","contact","ProPark"
@@ -2671,52 +2671,78 @@
 "park-145","payment-form-accepted","credit-debit-card"
 "park-145","fee-daily","30 min: $5, 1 hr: $10, 1.5 hrs: $15, 2 hrs: $20, 2.5 hrs: $25, 3+ hrs/daily max: $30 | Early Bird Special (in by 8:30 AM, out by 6 PM): $26 | Nights/Weekends: $10"
 "park-145","fee-monthly","$150"
+"6","direction","down"
 "50","alternate-service-text","The elevator at Framingham connecting the Inbound and Outbound platforms is out of service. Please proceed to Concord street to cross over to the outbound platform."
 "51","alternate-service-text","The elevator at Framingham connecting the Inbound and Outbound platforms is out of service. Please proceed to Concord street to cross over to the outbound platform."
 "52","alternate-service-text","The elevator at Route 128 Station connecting the inbound platform to the lobby is out of service. Please see station personnel for assistance. "
 "53","alternate-service-text","The elevator at Route 128 Station connecting the outbound platform to the lobby is out of service. Please see station personnel for assistance. "
+"54","direction","down"
+"55","direction","down"
+"102","direction","down"
 "102","excludes-stop","9326"
 "102","excludes-stop","9328"
+"103","direction","down"
 "103","excludes-stop","9326"
 "103","excludes-stop","9328"
+"104","direction","down"
 "104","excludes-stop","9326"
 "104","excludes-stop","9328"
+"105","direction","down"
 "105","excludes-stop","9326"
 "105","excludes-stop","9328"
+"112","direction","down"
 "112","excludes-stop","70020"
 "112","excludes-stop","70021"
 "112","excludes-stop","70078"
+"113","direction","down"
 "113","excludes-stop","70020"
 "113","excludes-stop","70021"
 "113","excludes-stop","70077"
+"123","direction","down"
 "123","excludes-stop","13"
 "123","excludes-stop","70084"
+"124","direction","down"
 "124","excludes-stop","13"
 "124","excludes-stop","70084"
+"125","direction","down"
+"127","direction","down"
 "127","excludes-stop","10642"
 "127","excludes-stop","70001"
 "127","excludes-stop","Forest Hills"
+"128","direction","down"
 "128","excludes-stop","10642"
 "128","excludes-stop","70001"
 "128","excludes-stop","Forest Hills"
+"129","direction","down"
 "129","excludes-stop","10642"
 "129","excludes-stop","875"
 "129","excludes-stop","Forest Hills"
+"130","direction","down"
 "130","excludes-stop","10642"
 "130","excludes-stop","875"
 "130","excludes-stop","Forest Hills"
+"131","direction","down"
+"132","direction","down"
+"133","direction","down"
+"134","direction","down"
+"135","direction","down"
 "135","excludes-stop","17861"
 "135","excludes-stop","70010"
 "135","excludes-stop","70011"
 "135","excludes-stop","Ruggles"
+"136","direction","down"
 "136","excludes-stop","17861"
 "136","excludes-stop","17862"
 "136","excludes-stop","17863"
 "136","excludes-stop","Ruggles"
+"137","direction","down"
 "137","excludes-stop","17861"
 "137","excludes-stop","17862"
 "137","excludes-stop","17863"
 "137","excludes-stop","Ruggles"
+"138","direction","down"
+"139","direction","down"
+"140","direction","down"
 "140","excludes-stop","176"
 "140","excludes-stop","23391"
 "140","excludes-stop","Back Bay"
@@ -2725,6 +2751,7 @@
 "140","excludes-stop","Back Bay-03"
 "140","excludes-stop","Back Bay-05"
 "140","excludes-stop","Back Bay-07"
+"141","direction","down"
 "141","excludes-stop","176"
 "141","excludes-stop","23391"
 "141","excludes-stop","Back Bay"
@@ -2733,6 +2760,7 @@
 "141","excludes-stop","Back Bay-03"
 "141","excludes-stop","Back Bay-05"
 "141","excludes-stop","Back Bay-07"
+"142","direction","down"
 "142","excludes-stop","176"
 "142","excludes-stop","23391"
 "142","excludes-stop","70014"
@@ -2742,6 +2770,7 @@
 "142","excludes-stop","Back Bay-03"
 "142","excludes-stop","Back Bay-05"
 "142","excludes-stop","Back Bay-07"
+"143","direction","up"
 "143","excludes-stop","176"
 "143","excludes-stop","23391"
 "143","excludes-stop","70014"
@@ -2751,6 +2780,7 @@
 "143","excludes-stop","Back Bay-03"
 "143","excludes-stop","Back Bay-05"
 "143","excludes-stop","Back Bay-07"
+"144","direction","down"
 "144","excludes-stop","176"
 "144","excludes-stop","23391"
 "144","excludes-stop","70014"
@@ -2760,22 +2790,31 @@
 "144","excludes-stop","Back Bay-03"
 "144","excludes-stop","Back Bay-05"
 "144","excludes-stop","Back Bay-07"
+"145","direction","down"
+"146","direction","down"
 "146","excludes-stop","49002"
 "146","excludes-stop","6565"
 "146","excludes-stop","70016"
+"147","direction","down"
 "147","excludes-stop","49002"
 "147","excludes-stop","6565"
 "147","excludes-stop","70017"
+"148","direction","down"
 "148","excludes-stop","49002"
 "148","excludes-stop","6565"
 "148","excludes-stop","70016"
+"149","direction","down"
 "149","excludes-stop","49002"
 "149","excludes-stop","6565"
 "149","excludes-stop","70017"
-"151","excludes-stop","70240"
-"152","excludes-stop","70239"
+"150","direction","up"
+"151","direction","down"
+"152","direction","down"
+"152","excludes-stop","70240"
+"301","direction","down"
 "301","excludes-stop","13"
 "301","excludes-stop","70083"
+"302","direction","down"
 "302","excludes-stop","113"
 "302","excludes-stop","114"
 "302","excludes-stop","70027"
@@ -2791,6 +2830,7 @@
 "302","excludes-stop","North Station-08"
 "302","excludes-stop","North Station-09"
 "302","excludes-stop","North Station-10"
+"303","direction","up"
 "303","excludes-stop","113"
 "303","excludes-stop","114"
 "303","excludes-stop","70027"
@@ -2806,6 +2846,7 @@
 "303","excludes-stop","North Station-08"
 "303","excludes-stop","North Station-09"
 "303","excludes-stop","North Station-10"
+"304","direction","down"
 "304","excludes-stop","113"
 "304","excludes-stop","114"
 "304","excludes-stop","North Station"
@@ -2819,45 +2860,61 @@
 "304","excludes-stop","North Station-08"
 "304","excludes-stop","North Station-09"
 "304","excludes-stop","North Station-10"
+"305","direction","down"
 "305","excludes-stop","70029"
+"307","direction","down"
 "307","excludes-stop","2874"
 "307","excludes-stop","28741"
+"308","direction","down"
 "308","excludes-stop","2874"
 "308","excludes-stop","28741"
+"309","direction","down"
 "309","excludes-stop","70033"
+"310","direction","down"
 "310","excludes-stop","70032"
 "310","excludes-stop","70033"
+"311","direction","down"
 "311","excludes-stop","5072"
 "311","excludes-stop","5327"
 "311","excludes-stop","53270"
 "311","excludes-stop","Malden Center"
+"312","direction","down"
 "312","excludes-stop","5072"
 "312","excludes-stop","5327"
 "312","excludes-stop","53270"
 "312","excludes-stop","70034"
 "312","excludes-stop","70035"
+"313","direction","down"
 "313","excludes-stop","8310"
+"315","direction","down"
 "315","excludes-stop","70152"
 "315","excludes-stop","79"
 "315","excludes-stop","93"
+"320","direction","down"
 "320","excludes-stop","70196"
 "320","excludes-stop","70197"
 "320","excludes-stop","70198"
 "320","excludes-stop","70199"
 "320","excludes-stop","70200"
 "320","excludes-stop","9070076"
+"322","direction","down"
 "322","excludes-stop","121"
 "322","excludes-stop","70095"
 "322","excludes-stop","70096"
 "322","excludes-stop","JFK/UMASS"
+"325","direction","down"
 "325","excludes-stop","3125"
 "325","excludes-stop","9070098"
+"326","direction","down"
 "326","excludes-stop","3125"
 "326","excludes-stop","9070098"
+"327","direction","down"
 "327","excludes-stop","3125"
 "327","excludes-stop","9070098"
+"329","direction","down"
 "329","excludes-stop","70099"
 "329","excludes-stop","70100"
+"330","direction","down"
 "330","excludes-stop","32000"
 "330","excludes-stop","32001"
 "330","excludes-stop","32002"
@@ -2865,49 +2922,86 @@
 "330","excludes-stop","32004"
 "330","excludes-stop","32005"
 "330","excludes-stop","Quincy Center"
+"331","direction","down"
 "331","excludes-stop","70020"
 "331","excludes-stop","70021"
 "331","excludes-stop","70078"
+"332","direction","down"
 "332","excludes-stop","70020"
 "332","excludes-stop","70021"
 "332","excludes-stop","70077"
+"333","direction","down"
+"334","direction","up"
 "334","excludes-stop","38671"
 "334","excludes-stop","Braintree"
+"335","direction","down"
 "335","excludes-stop","38671"
 "335","excludes-stop","Braintree"
+"336","direction","down"
 "336","excludes-stop","5104"
+"337","direction","up"
 "337","excludes-stop","5104"
+"338","direction","down"
 "338","excludes-stop","5104"
+"339","direction","up"
 "339","excludes-stop","5104"
+"340","direction","down"
 "340","excludes-stop","5104"
+"341","direction","down"
 "341","excludes-stop","5104"
+"342","direction","up"
 "342","excludes-stop","5104"
+"343","direction","down"
 "343","excludes-stop","5104"
+"344","direction","up"
 "344","excludes-stop","41031"
+"345","direction","down"
 "345","excludes-stop","41031"
+"346","direction","down"
+"347","direction","down"
+"348","direction","up"
+"349","direction","down"
 "349","excludes-stop","141"
+"350","direction","up"
 "350","excludes-stop","141"
+"351","direction","up"
 "351","excludes-stop","141"
+"352","direction","down"
 "352","excludes-stop","141"
+"353","direction","down"
+"354","direction","down"
+"355","direction","down"
+"356","direction","down"
+"357","direction","down"
+"359","direction","down"
 "359","excludes-stop","70070"
+"360","direction","down"
 "360","excludes-stop","70069"
+"361","direction","down"
 "361","excludes-stop","2231"
 "361","excludes-stop","70072"
 "361","excludes-stop","9070071"
+"362","direction","down"
 "362","excludes-stop","2231"
 "362","excludes-stop","70071"
 "362","excludes-stop","9070071"
+"364","direction","down"
 "364","excludes-stop","70020"
 "364","excludes-stop","70077"
 "364","excludes-stop","70078"
+"365","direction","down"
 "365","excludes-stop","70021"
 "365","excludes-stop","70077"
 "365","excludes-stop","70078"
+"366","direction","down"
 "366","excludes-stop","70019"
+"367","direction","down"
 "367","excludes-stop","150"
 "367","excludes-stop","151"
+"372","direction","down"
 "372","excludes-stop","150"
 "372","excludes-stop","151"
+"373","direction","down"
 "373","excludes-stop","70075"
 "373","excludes-stop","70196"
 "373","excludes-stop","70197"
@@ -2915,6 +3009,8 @@
 "373","excludes-stop","70199"
 "373","excludes-stop","70200"
 "373","excludes-stop","9070076"
+"374","direction","down"
+"375","direction","down"
 "375","excludes-stop","70076"
 "375","excludes-stop","70196"
 "375","excludes-stop","70197"
@@ -2922,15 +3018,20 @@
 "375","excludes-stop","70199"
 "375","excludes-stop","70200"
 "375","excludes-stop","9070076"
+"377","direction","down"
 "377","excludes-stop","70018"
+"378","direction","down"
 "378","excludes-stop","5810"
 "378","excludes-stop","5819"
 "378","excludes-stop","70056"
+"379","direction","up"
 "379","excludes-stop","5810"
 "379","excludes-stop","5819"
 "379","excludes-stop","70056"
+"380","direction","down"
 "380","excludes-stop","5666"
 "380","excludes-stop","70049"
+"382","direction","down"
 "382","excludes-stop","70079"
 "382","excludes-stop","South Station"
 "382","excludes-stop","South Station-01"
@@ -2946,8 +3047,10 @@
 "382","excludes-stop","South Station-11"
 "382","excludes-stop","South Station-12"
 "382","excludes-stop","South Station-13"
+"383","direction","down"
 "383","excludes-stop","3125"
 "383","excludes-stop","9070098"
+"384","direction","down"
 "384","excludes-stop","113"
 "384","excludes-stop","114"
 "384","excludes-stop","North Station"
@@ -2961,6 +3064,7 @@
 "384","excludes-stop","North Station-08"
 "384","excludes-stop","North Station-09"
 "384","excludes-stop","North Station-10"
+"385","direction","up"
 "385","excludes-stop","113"
 "385","excludes-stop","114"
 "385","excludes-stop","North Station"
@@ -2974,6 +3078,7 @@
 "385","excludes-stop","North Station-08"
 "385","excludes-stop","North Station-09"
 "385","excludes-stop","North Station-10"
+"386","direction","up"
 "386","excludes-stop","South Station"
 "386","excludes-stop","South Station-01"
 "386","excludes-stop","South Station-02"
@@ -2988,6 +3093,7 @@
 "386","excludes-stop","South Station-11"
 "386","excludes-stop","South Station-12"
 "386","excludes-stop","South Station-13"
+"387","direction","down"
 "387","excludes-stop","South Station"
 "387","excludes-stop","South Station-01"
 "387","excludes-stop","South Station-02"
@@ -3002,6 +3108,7 @@
 "387","excludes-stop","South Station-11"
 "387","excludes-stop","South Station-12"
 "387","excludes-stop","South Station-13"
+"388","direction","down"
 "388","excludes-stop","South Station"
 "388","excludes-stop","South Station-01"
 "388","excludes-stop","South Station-02"
@@ -3016,6 +3123,7 @@
 "388","excludes-stop","South Station-11"
 "388","excludes-stop","South Station-12"
 "388","excludes-stop","South Station-13"
+"389","direction","down"
 "389","excludes-stop","70080"
 "389","excludes-stop","South Station"
 "389","excludes-stop","South Station-01"
@@ -3031,6 +3139,7 @@
 "389","excludes-stop","South Station-11"
 "389","excludes-stop","South Station-12"
 "389","excludes-stop","South Station-13"
+"390","direction","down"
 "390","excludes-stop","70080"
 "390","excludes-stop","South Station"
 "390","excludes-stop","South Station-01"
@@ -3046,6 +3155,7 @@
 "390","excludes-stop","South Station-11"
 "390","excludes-stop","South Station-12"
 "390","excludes-stop","South Station-13"
+"391","direction","up"
 "391","excludes-stop","113"
 "391","excludes-stop","114"
 "391","excludes-stop","70027"
@@ -3061,6 +3171,7 @@
 "391","excludes-stop","North Station-08"
 "391","excludes-stop","North Station-09"
 "391","excludes-stop","North Station-10"
+"392","direction","down"
 "392","excludes-stop","113"
 "392","excludes-stop","114"
 "392","excludes-stop","70027"
@@ -3076,6 +3187,7 @@
 "392","excludes-stop","North Station-08"
 "392","excludes-stop","North Station-09"
 "392","excludes-stop","North Station-10"
+"393","direction","down"
 "393","excludes-stop","113"
 "393","excludes-stop","114"
 "393","excludes-stop","70026"
@@ -3092,8 +3204,13 @@
 "393","excludes-stop","North Station-08"
 "393","excludes-stop","North Station-09"
 "393","excludes-stop","North Station-10"
+"394","direction","down"
 "394","excludes-stop","70043"
+"395","direction","down"
 "395","excludes-stop","70044"
+"396","direction","up"
+"397","direction","down"
+"398","direction","down"
 "398","excludes-stop","70079"
 "398","excludes-stop","South Station"
 "398","excludes-stop","South Station-01"
@@ -3109,6 +3226,7 @@
 "398","excludes-stop","South Station-11"
 "398","excludes-stop","South Station-12"
 "398","excludes-stop","South Station-13"
+"399","direction","down"
 "399","excludes-stop","South Station"
 "399","excludes-stop","South Station-01"
 "399","excludes-stop","South Station-02"
@@ -3123,6 +3241,7 @@
 "399","excludes-stop","South Station-11"
 "399","excludes-stop","South Station-12"
 "399","excludes-stop","South Station-13"
+"400","direction","down"
 "400","excludes-stop","70080"
 "400","excludes-stop","South Station"
 "400","excludes-stop","South Station-01"
@@ -3138,18 +3257,29 @@
 "400","excludes-stop","South Station-11"
 "400","excludes-stop","South Station-12"
 "400","excludes-stop","South Station-13"
+"401","direction","down"
+"402","direction","down"
+"403","direction","down"
 "403","excludes-stop","17096"
 "403","excludes-stop","74613"
+"404","direction","down"
 "404","excludes-stop","17096"
 "404","excludes-stop","74615"
+"405","direction","down"
+"406","direction","up"
+"407","direction","up"
 "407","excludes-stop","70047"
 "407","excludes-stop","7096"
+"408","direction","down"
 "408","excludes-stop","70047"
 "408","excludes-stop","7096"
+"409","direction","down"
 "409","excludes-stop","70048"
 "409","excludes-stop","7096"
+"410","direction","up"
 "410","excludes-stop","70048"
 "410","excludes-stop","7096"
+"411","direction","down"
 "411","excludes-stop","South Station"
 "411","excludes-stop","South Station-01"
 "411","excludes-stop","South Station-02"
@@ -3164,10 +3294,18 @@
 "411","excludes-stop","South Station-11"
 "411","excludes-stop","South Station-12"
 "411","excludes-stop","South Station-13"
+"412","direction","down"
+"413","direction","down"
+"414","direction","down"
 "414","excludes-stop","74612"
+"415","direction","down"
 "415","excludes-stop","74616"
+"416","direction","down"
 "416","excludes-stop","74612"
+"417","direction","down"
 "417","excludes-stop","74616"
+"418","direction","down"
+"419","direction","up"
 "419","excludes-stop","South Station"
 "419","excludes-stop","South Station-01"
 "419","excludes-stop","South Station-02"
@@ -3182,6 +3320,7 @@
 "419","excludes-stop","South Station-11"
 "419","excludes-stop","South Station-12"
 "419","excludes-stop","South Station-13"
+"420","direction","down"
 "420","excludes-stop","70079"
 "420","excludes-stop","South Station"
 "420","excludes-stop","South Station-01"
@@ -3197,6 +3336,7 @@
 "420","excludes-stop","South Station-11"
 "420","excludes-stop","South Station-12"
 "420","excludes-stop","South Station-13"
+"421","direction","down"
 "421","excludes-stop","113"
 "421","excludes-stop","114"
 "421","excludes-stop","North Station"
@@ -3210,6 +3350,7 @@
 "421","excludes-stop","North Station-08"
 "421","excludes-stop","North Station-09"
 "421","excludes-stop","North Station-10"
+"422","direction","up"
 "422","excludes-stop","113"
 "422","excludes-stop","114"
 "422","excludes-stop","North Station"
@@ -3223,6 +3364,8 @@
 "422","excludes-stop","North Station-08"
 "422","excludes-stop","North Station-09"
 "422","excludes-stop","North Station-10"
+"423","direction","down"
+"424","direction","down"
 "424","excludes-stop","South Station"
 "424","excludes-stop","South Station-01"
 "424","excludes-stop","South Station-02"
@@ -3237,68 +3380,112 @@
 "424","excludes-stop","South Station-11"
 "424","excludes-stop","South Station-12"
 "424","excludes-stop","South Station-13"
+"425","direction","down"
 "425","excludes-stop","70073"
 "425","excludes-stop","70074"
 "425","excludes-stop","9070073"
 "425","excludes-stop","9070074"
+"426","direction","down"
 "426","excludes-stop","70073"
 "426","excludes-stop","9070073"
 "426","excludes-stop","9070074"
+"427","direction","down"
 "427","excludes-stop","323"
 "427","excludes-stop","70089"
+"428","direction","down"
 "428","excludes-stop","5740"
 "428","excludes-stop","57400"
+"429","direction","up"
 "429","excludes-stop","5740"
 "429","excludes-stop","57400"
+"430","direction","down"
 "430","excludes-stop","899"
+"430","excludes-stop","9070150"
+"430","excludes-stop","9070151"
+"431","direction","down"
 "431","excludes-stop","70150"
 "431","excludes-stop","899"
+"431","excludes-stop","9070150"
+"431","excludes-stop","9070151"
+"432","direction","down"
 "432","excludes-stop","70151"
 "432","excludes-stop","899"
+"432","excludes-stop","9070150"
+"432","excludes-stop","9070151"
+"433","direction","down"
 "433","excludes-stop","5740"
 "433","excludes-stop","57400"
+"434","direction","up"
 "434","excludes-stop","5740"
 "434","excludes-stop","57400"
+"435","direction","down"
 "435","excludes-stop","70157"
+"436","direction","down"
 "436","excludes-stop","70156"
+"437","direction","down"
 "437","excludes-stop","334"
 "437","excludes-stop","70094"
 "437","excludes-stop","70261"
+"438","direction","down"
 "438","excludes-stop","334"
 "438","excludes-stop","70094"
 "438","excludes-stop","70261"
+"439","direction","down"
 "439","excludes-stop","70154"
+"440","direction","down"
 "440","excludes-stop","15880"
 "440","excludes-stop","5879"
 "440","excludes-stop","5880"
 "440","excludes-stop","70052"
+"441","direction","down"
 "441","excludes-stop","15880"
 "441","excludes-stop","5879"
 "441","excludes-stop","5880"
 "441","excludes-stop","70051"
+"442","direction","down"
+"443","direction","down"
+"444","direction","down"
+"445","direction","down"
+"446","direction","down"
+"501","direction","down"
+"502","direction","down"
+"503","direction","down"
+"504","direction","up"
 "504","excludes-stop","23151"
 "504","excludes-stop","2430"
+"505","direction","down"
 "505","excludes-stop","23151"
 "505","excludes-stop","2430"
+"506","direction","down"
 "506","excludes-stop","23151"
 "506","excludes-stop","2430"
 "506","excludes-stop","70065"
 "506","excludes-stop","Porter Square"
+"507","direction","down"
 "507","excludes-stop","23151"
 "507","excludes-stop","2430"
 "507","excludes-stop","70065"
 "507","excludes-stop","Porter Square"
+"509","direction","up"
 "509","excludes-stop","23151"
 "509","excludes-stop","2430"
 "509","excludes-stop","Porter Square"
+"510","direction","down"
 "510","excludes-stop","23151"
 "510","excludes-stop","2430"
 "510","excludes-stop","Porter Square"
+"511","direction","down"
 "511","excludes-stop","23151"
 "511","excludes-stop","2430"
 "511","excludes-stop","Porter Square"
+"512","direction","down"
+"513","direction","up"
+"514","direction","down"
+"515","direction","up"
+"516","direction","down"
 "516","excludes-stop","2076"
 "516","excludes-stop","20761"
+"523","direction","down"
 "701","alternate-service-text","Please use elevator 702 or 703."
 "701","excludes-stop","15778"
 "701","excludes-stop","15795"
@@ -3825,6 +4012,8 @@
 "947","alternate-service-text","To access the station, please use the main entrance on Savin Hill Avenue by exiting the parking lot and turning right to go up the hill to the main entrance. Please contact a station personnel for assistance."
 "948","alternate-service-text","Use Kenmore Elevator 972 at the Kenmore busway."
 "948","excludes-stop","899"
+"948","excludes-stop","9070150"
+"948","excludes-stop","9070151"
 "949","alternate-service-text","If exiting the station, use South Station Elevator 926 on the opposite side of the lobby or go up the ramp to use the commuter rail elevator. The commuter rail elevator is located 200 feet down a hall that starts at the stairs and escalators to the commuter rail, next to the Shoe & Key shop.  \nIf entering the station, cross Atlantic Avenue to reach South Station Elevator 926 or go into the commuter rail lobby and use the elevator near the information desk."
 "949","excludes-stop","South Station"
 "949","excludes-stop","South Station-01"
@@ -3890,9 +4079,13 @@
 "971","alternate-service-text","Customers desiring to exit the station must continue to St. Mary's (C-Line), or Fenway (D-Line) and transfer to inbound service back to Kenmore. \nCustomers desiring to enter the station for outbound service must use the inbound elevator and service to Copley or Arlington. Then transfer to outbound service"
 "971","excludes-stop","70150"
 "971","excludes-stop","899"
+"971","excludes-stop","9070150"
+"971","excludes-stop","9070151"
 "972","alternate-service-text","Customers desiring elevator access to exit the station on the inbound side must continue to Copley or Arlington and transfer to outbound service back to Kenmore. Customers desiring inbound service can use the outbound elevator and take the  C- or D-Line one stop and transfer back to inbound service. Please see station personnel for assistance."
 "972","excludes-stop","70151"
 "972","excludes-stop","899"
+"972","excludes-stop","9070150"
+"972","excludes-stop","9070151"
 "973","alternate-service-text","Please use Harvard Square Elevator 821 to connect to the main lobby and the corner of JFK, Brattle, and Mount Auburn Streets."
 "973","excludes-stop","2076"
 "973","excludes-stop","70067"
@@ -4167,446 +4360,446 @@
 "portlift-045","note","Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 "portlift-046","note","Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 "portlift-047","note","Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
-"bike-001","capacity",8
-"bike-001","enclosed",2
-"bike-001","secured",2
-"bike-002","capacity",174
-"bike-002","enclosed",1
-"bike-002","secured",1
-"bike-003","capacity",6
-"bike-003","enclosed",1
-"bike-003","secured",2
-"bike-004","capacity",8
-"bike-004","enclosed",1
-"bike-004","secured",1
-"bike-005","capacity",28
-"bike-005","enclosed",2
-"bike-005","secured",2
-"bike-006","capacity",40
-"bike-006","enclosed",1
-"bike-006","secured",1
-"bike-007","capacity",9
-"bike-007","enclosed",2
-"bike-007","secured",2
-"bike-008","capacity",6
-"bike-008","enclosed",2
-"bike-008","secured",2
-"bike-009","capacity",8
-"bike-009","enclosed",2
-"bike-009","secured",2
-"bike-010","capacity",8
-"bike-010","enclosed",2
-"bike-010","secured",2
-"bike-011","capacity",8
-"bike-011","enclosed",2
-"bike-011","secured",2
-"bike-012","enclosed",1
-"bike-012","secured",1
-"bike-013","capacity",7
-"bike-013","enclosed",2
-"bike-013","secured",2
-"bike-014","capacity",12
-"bike-014","enclosed",2
-"bike-014","secured",2
-"bike-015","capacity",30
-"bike-015","enclosed",1
-"bike-015","secured",1
-"bike-016","capacity",8
-"bike-016","enclosed",2
-"bike-016","secured",2
-"bike-017","capacity",24
-"bike-017","enclosed",2
-"bike-017","secured",2
-"bike-018","capacity",8
-"bike-018","enclosed",2
-"bike-018","secured",2
-"bike-019","capacity",6
-"bike-019","enclosed",2
-"bike-019","secured",2
-"bike-020","capacity",15
-"bike-020","enclosed",1
-"bike-020","secured",2
-"bike-021","capacity",8
-"bike-021","enclosed",2
-"bike-021","secured",2
-"bike-022","capacity",10
-"bike-022","enclosed",2
-"bike-022","secured",2
-"bike-023","capacity",36
-"bike-023","enclosed",1
-"bike-023","secured",2
-"bike-024","capacity",8
-"bike-024","enclosed",1
-"bike-024","secured",2
-"bike-025","capacity",10
-"bike-025","enclosed",2
-"bike-025","secured",2
-"bike-026","capacity",5
-"bike-026","enclosed",2
-"bike-026","secured",2
-"bike-027","capacity",10
-"bike-027","enclosed",2
-"bike-027","secured",2
-"bike-028","capacity",20
-"bike-028","enclosed",2
-"bike-028","secured",2
-"bike-029","capacity",165
-"bike-029","enclosed",1
-"bike-029","secured",1
-"bike-030","enclosed",1
-"bike-030","secured",1
-"bike-031","enclosed",1
-"bike-031","secured",1
-"bike-032","capacity",2
-"bike-032","enclosed",2
-"bike-032","secured",2
-"bike-033","capacity",2
-"bike-033","enclosed",2
-"bike-033","secured",2
-"bike-034","capacity",8
-"bike-034","enclosed",1
-"bike-034","secured",2
-"bike-035","capacity",20
-"bike-035","enclosed",1
-"bike-035","secured",2
-"bike-036","capacity",18
-"bike-036","enclosed",2
-"bike-036","secured",2
-"bike-037","enclosed",1
-"bike-037","secured",2
-"bike-038","capacity",20
-"bike-038","enclosed",2
-"bike-038","secured",2
-"bike-039","capacity",32
-"bike-039","enclosed",1
-"bike-039","secured",1
-"bike-040","capacity",14
-"bike-040","enclosed",2
-"bike-040","secured",2
-"bike-041","capacity",20
-"bike-041","enclosed",2
-"bike-041","secured",2
-"bike-042","capacity",10
-"bike-042","enclosed",2
-"bike-042","secured",2
-"bike-043","capacity",7
-"bike-043","enclosed",2
-"bike-043","secured",2
-"bike-044","capacity",5
-"bike-044","enclosed",2
-"bike-044","secured",2
-"bike-045","capacity",8
-"bike-045","enclosed",2
-"bike-045","secured",2
-"bike-046","capacity",22
-"bike-046","enclosed",1
-"bike-046","secured",2
-"bike-047","capacity",6
-"bike-047","enclosed",2
-"bike-047","secured",2
-"bike-048","capacity",8
-"bike-048","enclosed",2
-"bike-048","secured",2
-"bike-049","capacity",8
-"bike-049","enclosed",2
-"bike-049","secured",2
-"bike-050","capacity",21
-"bike-050","enclosed",2
-"bike-050","secured",2
-"bike-051","enclosed",1
-"bike-051","secured",2
-"bike-052","capacity",2
-"bike-052","enclosed",2
-"bike-052","secured",2
-"bike-053","capacity",2
-"bike-053","enclosed",2
-"bike-053","secured",2
-"bike-054","capacity",11
-"bike-054","enclosed",1
-"bike-054","secured",2
-"bike-055","capacity",8
-"bike-055","enclosed",1
-"bike-055","secured",2
-"bike-056","capacity",10
-"bike-056","enclosed",2
-"bike-056","secured",2
-"bike-057","capacity",8
-"bike-057","enclosed",2
-"bike-057","secured",2
-"bike-058","capacity",8
-"bike-058","enclosed",2
-"bike-058","secured",2
-"bike-059","capacity",18
-"bike-059","enclosed",1
-"bike-059","secured",2
-"bike-060","capacity",58
-"bike-060","enclosed",2
-"bike-060","secured",2
-"bike-061","capacity",8
-"bike-061","enclosed",2
-"bike-061","secured",2
-"bike-062","capacity",2
-"bike-062","enclosed",2
-"bike-062","secured",2
-"bike-063","capacity",2
-"bike-063","enclosed",2
-"bike-063","secured",2
-"bike-064","capacity",21
-"bike-064","enclosed",2
-"bike-064","secured",2
-"bike-065","capacity",15
-"bike-065","enclosed",2
-"bike-065","secured",2
-"bike-066","capacity",18
-"bike-066","enclosed",2
-"bike-066","secured",2
-"bike-067","capacity",14
-"bike-067","enclosed",2
-"bike-067","secured",2
-"bike-068","capacity",66
-"bike-068","enclosed",1
-"bike-068","secured",1
-"bike-069","capacity",7
-"bike-069","enclosed",2
-"bike-069","secured",2
-"bike-070","capacity",12
-"bike-070","enclosed",2
-"bike-070","secured",2
-"bike-071","capacity",24
-"bike-071","enclosed",2
-"bike-071","secured",2
-"bike-072","capacity",8
-"bike-072","enclosed",2
-"bike-072","secured",2
-"bike-073","capacity",8
-"bike-073","enclosed",1
-"bike-073","secured",2
-"bike-074","capacity",2
-"bike-074","enclosed",2
-"bike-074","secured",2
-"bike-075","capacity",2
-"bike-075","enclosed",2
-"bike-075","secured",2
-"bike-076","capacity",8
-"bike-076","enclosed",2
-"bike-076","secured",2
-"bike-077","capacity",8
-"bike-077","enclosed",2
-"bike-077","secured",2
-"bike-078","capacity",16
-"bike-078","enclosed",1
-"bike-078","secured",2
-"bike-079","capacity",7
-"bike-079","enclosed",2
-"bike-079","secured",2
-"bike-080","enclosed",1
-"bike-080","secured",2
-"bike-081","capacity",6
-"bike-081","enclosed",2
-"bike-081","secured",2
-"bike-082","capacity",6
-"bike-082","enclosed",2
-"bike-082","secured",2
-"bike-083","capacity",6
-"bike-083","enclosed",2
-"bike-083","secured",2
-"bike-084","capacity",22
-"bike-084","enclosed",2
-"bike-084","secured",2
-"bike-085","capacity",20
-"bike-085","enclosed",2
-"bike-085","secured",2
-"bike-086","capacity",15
-"bike-086","enclosed",2
-"bike-086","secured",2
-"bike-087","capacity",2
-"bike-087","enclosed",2
-"bike-087","secured",2
-"bike-088","capacity",8
-"bike-088","enclosed",2
-"bike-088","secured",2
-"bike-089","capacity",14
-"bike-089","enclosed",1
-"bike-089","secured",2
-"bike-090","capacity",43
-"bike-090","enclosed",1
-"bike-090","secured",2
-"bike-091","capacity",20
-"bike-091","enclosed",2
-"bike-091","secured",2
-"bike-092","capacity",27
-"bike-092","enclosed",2
-"bike-092","secured",2
-"bike-093","capacity",42
-"bike-093","enclosed",1
-"bike-093","secured",1
-"bike-094","capacity",8
-"bike-094","enclosed",1
-"bike-094","secured",2
-"bike-095","capacity",8
-"bike-095","enclosed",2
-"bike-095","secured",2
-"bike-096","capacity",34
-"bike-096","enclosed",2
-"bike-096","secured",2
-"bike-097","capacity",64
-"bike-097","enclosed",2
-"bike-097","secured",2
-"bike-098","capacity",20
-"bike-098","enclosed",2
-"bike-098","secured",2
-"bike-099","capacity",10
-"bike-099","enclosed",2
-"bike-099","secured",2
-"bike-100","capacity",8
-"bike-100","enclosed",1
-"bike-100","secured",2
-"bike-101","capacity",13
-"bike-101","enclosed",2
-"bike-101","secured",2
-"bike-102","capacity",48
-"bike-102","enclosed",1
-"bike-102","secured",2
-"bike-103","capacity",7
-"bike-103","enclosed",2
-"bike-103","secured",2
-"bike-104","capacity",11
-"bike-104","enclosed",2
-"bike-104","secured",2
-"bike-105","capacity",16
-"bike-105","enclosed",1
-"bike-105","secured",2
-"bike-106","capacity",20
-"bike-106","enclosed",2
-"bike-106","secured",2
-"bike-107","capacity",5
-"bike-107","enclosed",1
-"bike-107","secured",1
-"bike-108","capacity",8
-"bike-108","enclosed",2
-"bike-108","secured",2
-"bike-109","capacity",44
-"bike-109","enclosed",2
-"bike-109","secured",2
-"bike-110","capacity",2
-"bike-110","enclosed",2
-"bike-110","secured",2
-"bike-111","capacity",8
-"bike-111","enclosed",1
-"bike-111","secured",1
-"bike-112","capacity",10
-"bike-112","enclosed",1
-"bike-112","secured",2
-"bike-113","capacity",10
-"bike-113","enclosed",2
-"bike-113","secured",2
-"bike-114","capacity",12
-"bike-114","enclosed",1
-"bike-114","secured",2
-"bike-115","capacity",6
-"bike-115","enclosed",2
-"bike-115","secured",2
-"bike-116","capacity",12
-"bike-116","enclosed",1
-"bike-116","secured",2
-"bike-117","capacity",16
-"bike-117","enclosed",1
-"bike-117","secured",2
-"bike-118","capacity",20
-"bike-118","enclosed",2
-"bike-118","secured",2
-"bike-119","capacity",2
-"bike-119","enclosed",2
-"bike-119","secured",2
-"bike-120","capacity",2
-"bike-120","enclosed",2
-"bike-120","secured",2
-"bike-121","capacity",12
-"bike-121","enclosed",1
-"bike-121","secured",2
-"bike-122","capacity",20
-"bike-122","enclosed",2
-"bike-122","secured",2
-"bike-123","capacity",6
-"bike-123","enclosed",2
-"bike-123","secured",2
-"bike-124","capacity",5
-"bike-124","enclosed",2
-"bike-124","secured",2
-"bike-125","capacity",8
-"bike-125","enclosed",1
-"bike-125","secured",2
-"bike-126","capacity",20
-"bike-126","enclosed",2
-"bike-126","secured",2
-"bike-127","enclosed",1
-"bike-127","secured",2
-"bike-128","capacity",16
-"bike-128","enclosed",2
-"bike-128","secured",2
-"bike-129","enclosed",1
-"bike-129","secured",2
-"bike-130","enclosed",1
-"bike-130","secured",2
-"bike-131","capacity",16
-"bike-131","enclosed",1
-"bike-131","secured",2
-"bike-132","capacity",10
-"bike-132","enclosed",2
-"bike-132","secured",2
-"bike-133","capacity",7
-"bike-133","enclosed",2
-"bike-133","secured",2
-"bike-134","capacity",5
-"bike-134","enclosed",2
-"bike-134","secured",2
-"bike-135","capacity",2
-"bike-135","enclosed",2
-"bike-135","secured",2
-"bike-136","capacity",8
-"bike-136","enclosed",1
-"bike-136","secured",2
-"bike-137","capacity",4
-"bike-137","enclosed",2
-"bike-137","secured",2
-"bike-138","capacity",8
-"bike-138","enclosed",1
-"bike-138","secured",2
-"bike-139","capacity",8
-"bike-139","enclosed",2
-"bike-139","secured",2
-"bike-140","capacity",20
-"bike-140","enclosed",2
-"bike-140","secured",2
-"bike-141","capacity",27
-"bike-141","enclosed",2
-"bike-141","secured",2
-"bike-142","capacity",88
-"bike-142","enclosed",1
-"bike-142","secured",1
-"bike-143","capacity",24
-"bike-143","enclosed",1
-"bike-143","secured",1
-"bike-144","capacity",10
-"bike-144","enclosed",1
-"bike-144","secured",2
-"bike-145","capacity",16
-"bike-145","enclosed",2
-"bike-145","secured",2
-"bike-146","capacity",2
-"bike-146","enclosed",2
-"bike-146","secured",2
-"bike-147","capacity",2
-"bike-147","enclosed",2
-"bike-147","secured",2
-"bike-148","capacity",5
-"bike-148","enclosed",1
-"bike-148","secured",2
-"bike-149","enclosed",1
-"bike-149","secured",2
-"bike-150","capacity",12
-"bike-150","enclosed",1
-"bike-150","secured",2
-"bike-151","capacity",12
-"bike-151","enclosed",1
-"bike-151","secured",2
+"bike-001","capacity","8"
+"bike-001","enclosed","2"
+"bike-001","secured","2"
+"bike-002","capacity","174"
+"bike-002","enclosed","1"
+"bike-002","secured","1"
+"bike-003","capacity","6"
+"bike-003","enclosed","1"
+"bike-003","secured","2"
+"bike-004","capacity","8"
+"bike-004","enclosed","1"
+"bike-004","secured","1"
+"bike-005","capacity","28"
+"bike-005","enclosed","2"
+"bike-005","secured","2"
+"bike-006","capacity","40"
+"bike-006","enclosed","1"
+"bike-006","secured","1"
+"bike-007","capacity","9"
+"bike-007","enclosed","2"
+"bike-007","secured","2"
+"bike-008","capacity","6"
+"bike-008","enclosed","2"
+"bike-008","secured","2"
+"bike-009","capacity","8"
+"bike-009","enclosed","2"
+"bike-009","secured","2"
+"bike-010","capacity","8"
+"bike-010","enclosed","2"
+"bike-010","secured","2"
+"bike-011","capacity","8"
+"bike-011","enclosed","2"
+"bike-011","secured","2"
+"bike-012","enclosed","1"
+"bike-012","secured","1"
+"bike-013","capacity","7"
+"bike-013","enclosed","2"
+"bike-013","secured","2"
+"bike-014","capacity","12"
+"bike-014","enclosed","2"
+"bike-014","secured","2"
+"bike-015","capacity","30"
+"bike-015","enclosed","1"
+"bike-015","secured","1"
+"bike-016","capacity","8"
+"bike-016","enclosed","2"
+"bike-016","secured","2"
+"bike-017","capacity","24"
+"bike-017","enclosed","2"
+"bike-017","secured","2"
+"bike-018","capacity","8"
+"bike-018","enclosed","2"
+"bike-018","secured","2"
+"bike-019","capacity","6"
+"bike-019","enclosed","2"
+"bike-019","secured","2"
+"bike-020","capacity","15"
+"bike-020","enclosed","1"
+"bike-020","secured","2"
+"bike-021","capacity","8"
+"bike-021","enclosed","2"
+"bike-021","secured","2"
+"bike-022","capacity","10"
+"bike-022","enclosed","2"
+"bike-022","secured","2"
+"bike-023","capacity","36"
+"bike-023","enclosed","1"
+"bike-023","secured","2"
+"bike-024","capacity","8"
+"bike-024","enclosed","1"
+"bike-024","secured","2"
+"bike-025","capacity","10"
+"bike-025","enclosed","2"
+"bike-025","secured","2"
+"bike-026","capacity","5"
+"bike-026","enclosed","2"
+"bike-026","secured","2"
+"bike-027","capacity","10"
+"bike-027","enclosed","2"
+"bike-027","secured","2"
+"bike-028","capacity","20"
+"bike-028","enclosed","2"
+"bike-028","secured","2"
+"bike-029","capacity","165"
+"bike-029","enclosed","1"
+"bike-029","secured","1"
+"bike-030","enclosed","1"
+"bike-030","secured","1"
+"bike-031","enclosed","1"
+"bike-031","secured","1"
+"bike-032","capacity","2"
+"bike-032","enclosed","2"
+"bike-032","secured","2"
+"bike-033","capacity","2"
+"bike-033","enclosed","2"
+"bike-033","secured","2"
+"bike-034","capacity","8"
+"bike-034","enclosed","1"
+"bike-034","secured","2"
+"bike-035","capacity","20"
+"bike-035","enclosed","1"
+"bike-035","secured","2"
+"bike-036","capacity","18"
+"bike-036","enclosed","2"
+"bike-036","secured","2"
+"bike-037","enclosed","1"
+"bike-037","secured","2"
+"bike-038","capacity","20"
+"bike-038","enclosed","2"
+"bike-038","secured","2"
+"bike-039","capacity","32"
+"bike-039","enclosed","1"
+"bike-039","secured","1"
+"bike-040","capacity","14"
+"bike-040","enclosed","2"
+"bike-040","secured","2"
+"bike-041","capacity","20"
+"bike-041","enclosed","2"
+"bike-041","secured","2"
+"bike-042","capacity","10"
+"bike-042","enclosed","2"
+"bike-042","secured","2"
+"bike-043","capacity","7"
+"bike-043","enclosed","2"
+"bike-043","secured","2"
+"bike-044","capacity","5"
+"bike-044","enclosed","2"
+"bike-044","secured","2"
+"bike-045","capacity","8"
+"bike-045","enclosed","2"
+"bike-045","secured","2"
+"bike-046","capacity","22"
+"bike-046","enclosed","1"
+"bike-046","secured","2"
+"bike-047","capacity","6"
+"bike-047","enclosed","2"
+"bike-047","secured","2"
+"bike-048","capacity","8"
+"bike-048","enclosed","2"
+"bike-048","secured","2"
+"bike-049","capacity","8"
+"bike-049","enclosed","2"
+"bike-049","secured","2"
+"bike-050","capacity","21"
+"bike-050","enclosed","2"
+"bike-050","secured","2"
+"bike-051","enclosed","1"
+"bike-051","secured","2"
+"bike-052","capacity","2"
+"bike-052","enclosed","2"
+"bike-052","secured","2"
+"bike-053","capacity","2"
+"bike-053","enclosed","2"
+"bike-053","secured","2"
+"bike-054","capacity","11"
+"bike-054","enclosed","1"
+"bike-054","secured","2"
+"bike-055","capacity","8"
+"bike-055","enclosed","1"
+"bike-055","secured","2"
+"bike-056","capacity","10"
+"bike-056","enclosed","2"
+"bike-056","secured","2"
+"bike-057","capacity","8"
+"bike-057","enclosed","2"
+"bike-057","secured","2"
+"bike-058","capacity","8"
+"bike-058","enclosed","2"
+"bike-058","secured","2"
+"bike-059","capacity","18"
+"bike-059","enclosed","1"
+"bike-059","secured","2"
+"bike-060","capacity","58"
+"bike-060","enclosed","2"
+"bike-060","secured","2"
+"bike-061","capacity","8"
+"bike-061","enclosed","2"
+"bike-061","secured","2"
+"bike-062","capacity","2"
+"bike-062","enclosed","2"
+"bike-062","secured","2"
+"bike-063","capacity","2"
+"bike-063","enclosed","2"
+"bike-063","secured","2"
+"bike-064","capacity","21"
+"bike-064","enclosed","2"
+"bike-064","secured","2"
+"bike-065","capacity","15"
+"bike-065","enclosed","2"
+"bike-065","secured","2"
+"bike-066","capacity","18"
+"bike-066","enclosed","2"
+"bike-066","secured","2"
+"bike-067","capacity","14"
+"bike-067","enclosed","2"
+"bike-067","secured","2"
+"bike-068","capacity","66"
+"bike-068","enclosed","1"
+"bike-068","secured","1"
+"bike-069","capacity","7"
+"bike-069","enclosed","2"
+"bike-069","secured","2"
+"bike-070","capacity","12"
+"bike-070","enclosed","2"
+"bike-070","secured","2"
+"bike-071","capacity","24"
+"bike-071","enclosed","2"
+"bike-071","secured","2"
+"bike-072","capacity","8"
+"bike-072","enclosed","2"
+"bike-072","secured","2"
+"bike-073","capacity","8"
+"bike-073","enclosed","1"
+"bike-073","secured","2"
+"bike-074","capacity","2"
+"bike-074","enclosed","2"
+"bike-074","secured","2"
+"bike-075","capacity","2"
+"bike-075","enclosed","2"
+"bike-075","secured","2"
+"bike-076","capacity","8"
+"bike-076","enclosed","2"
+"bike-076","secured","2"
+"bike-077","capacity","8"
+"bike-077","enclosed","2"
+"bike-077","secured","2"
+"bike-078","capacity","16"
+"bike-078","enclosed","1"
+"bike-078","secured","2"
+"bike-079","capacity","7"
+"bike-079","enclosed","2"
+"bike-079","secured","2"
+"bike-080","enclosed","1"
+"bike-080","secured","2"
+"bike-081","capacity","6"
+"bike-081","enclosed","2"
+"bike-081","secured","2"
+"bike-082","capacity","6"
+"bike-082","enclosed","2"
+"bike-082","secured","2"
+"bike-083","capacity","6"
+"bike-083","enclosed","2"
+"bike-083","secured","2"
+"bike-084","capacity","22"
+"bike-084","enclosed","2"
+"bike-084","secured","2"
+"bike-085","capacity","20"
+"bike-085","enclosed","2"
+"bike-085","secured","2"
+"bike-086","capacity","15"
+"bike-086","enclosed","2"
+"bike-086","secured","2"
+"bike-087","capacity","2"
+"bike-087","enclosed","2"
+"bike-087","secured","2"
+"bike-088","capacity","8"
+"bike-088","enclosed","2"
+"bike-088","secured","2"
+"bike-089","capacity","14"
+"bike-089","enclosed","1"
+"bike-089","secured","2"
+"bike-090","capacity","43"
+"bike-090","enclosed","1"
+"bike-090","secured","2"
+"bike-091","capacity","20"
+"bike-091","enclosed","2"
+"bike-091","secured","2"
+"bike-092","capacity","27"
+"bike-092","enclosed","2"
+"bike-092","secured","2"
+"bike-093","capacity","42"
+"bike-093","enclosed","1"
+"bike-093","secured","1"
+"bike-094","capacity","8"
+"bike-094","enclosed","1"
+"bike-094","secured","2"
+"bike-095","capacity","8"
+"bike-095","enclosed","2"
+"bike-095","secured","2"
+"bike-096","capacity","34"
+"bike-096","enclosed","2"
+"bike-096","secured","2"
+"bike-097","capacity","64"
+"bike-097","enclosed","2"
+"bike-097","secured","2"
+"bike-098","capacity","20"
+"bike-098","enclosed","2"
+"bike-098","secured","2"
+"bike-099","capacity","10"
+"bike-099","enclosed","2"
+"bike-099","secured","2"
+"bike-100","capacity","8"
+"bike-100","enclosed","1"
+"bike-100","secured","2"
+"bike-101","capacity","13"
+"bike-101","enclosed","2"
+"bike-101","secured","2"
+"bike-102","capacity","48"
+"bike-102","enclosed","1"
+"bike-102","secured","2"
+"bike-103","capacity","7"
+"bike-103","enclosed","2"
+"bike-103","secured","2"
+"bike-104","capacity","11"
+"bike-104","enclosed","2"
+"bike-104","secured","2"
+"bike-105","capacity","16"
+"bike-105","enclosed","1"
+"bike-105","secured","2"
+"bike-106","capacity","20"
+"bike-106","enclosed","2"
+"bike-106","secured","2"
+"bike-107","capacity","5"
+"bike-107","enclosed","1"
+"bike-107","secured","1"
+"bike-108","capacity","8"
+"bike-108","enclosed","2"
+"bike-108","secured","2"
+"bike-109","capacity","44"
+"bike-109","enclosed","2"
+"bike-109","secured","2"
+"bike-110","capacity","2"
+"bike-110","enclosed","2"
+"bike-110","secured","2"
+"bike-111","capacity","8"
+"bike-111","enclosed","1"
+"bike-111","secured","1"
+"bike-112","capacity","10"
+"bike-112","enclosed","1"
+"bike-112","secured","2"
+"bike-113","capacity","10"
+"bike-113","enclosed","2"
+"bike-113","secured","2"
+"bike-114","capacity","12"
+"bike-114","enclosed","1"
+"bike-114","secured","2"
+"bike-115","capacity","6"
+"bike-115","enclosed","2"
+"bike-115","secured","2"
+"bike-116","capacity","12"
+"bike-116","enclosed","1"
+"bike-116","secured","2"
+"bike-117","capacity","16"
+"bike-117","enclosed","1"
+"bike-117","secured","2"
+"bike-118","capacity","20"
+"bike-118","enclosed","2"
+"bike-118","secured","2"
+"bike-119","capacity","2"
+"bike-119","enclosed","2"
+"bike-119","secured","2"
+"bike-120","capacity","2"
+"bike-120","enclosed","2"
+"bike-120","secured","2"
+"bike-121","capacity","12"
+"bike-121","enclosed","1"
+"bike-121","secured","2"
+"bike-122","capacity","20"
+"bike-122","enclosed","2"
+"bike-122","secured","2"
+"bike-123","capacity","6"
+"bike-123","enclosed","2"
+"bike-123","secured","2"
+"bike-124","capacity","5"
+"bike-124","enclosed","2"
+"bike-124","secured","2"
+"bike-125","capacity","8"
+"bike-125","enclosed","1"
+"bike-125","secured","2"
+"bike-126","capacity","20"
+"bike-126","enclosed","2"
+"bike-126","secured","2"
+"bike-127","enclosed","1"
+"bike-127","secured","2"
+"bike-128","capacity","16"
+"bike-128","enclosed","2"
+"bike-128","secured","2"
+"bike-129","enclosed","1"
+"bike-129","secured","2"
+"bike-130","enclosed","1"
+"bike-130","secured","2"
+"bike-131","capacity","16"
+"bike-131","enclosed","1"
+"bike-131","secured","2"
+"bike-132","capacity","10"
+"bike-132","enclosed","2"
+"bike-132","secured","2"
+"bike-133","capacity","7"
+"bike-133","enclosed","2"
+"bike-133","secured","2"
+"bike-134","capacity","5"
+"bike-134","enclosed","2"
+"bike-134","secured","2"
+"bike-135","capacity","2"
+"bike-135","enclosed","2"
+"bike-135","secured","2"
+"bike-136","capacity","8"
+"bike-136","enclosed","1"
+"bike-136","secured","2"
+"bike-137","capacity","4"
+"bike-137","enclosed","2"
+"bike-137","secured","2"
+"bike-138","capacity","8"
+"bike-138","enclosed","1"
+"bike-138","secured","2"
+"bike-139","capacity","8"
+"bike-139","enclosed","2"
+"bike-139","secured","2"
+"bike-140","capacity","20"
+"bike-140","enclosed","2"
+"bike-140","secured","2"
+"bike-141","capacity","27"
+"bike-141","enclosed","2"
+"bike-141","secured","2"
+"bike-142","capacity","88"
+"bike-142","enclosed","1"
+"bike-142","secured","1"
+"bike-143","capacity","24"
+"bike-143","enclosed","1"
+"bike-143","secured","1"
+"bike-144","capacity","10"
+"bike-144","enclosed","1"
+"bike-144","secured","2"
+"bike-145","capacity","16"
+"bike-145","enclosed","2"
+"bike-145","secured","2"
+"bike-146","capacity","2"
+"bike-146","enclosed","2"
+"bike-146","secured","2"
+"bike-147","capacity","2"
+"bike-147","enclosed","2"
+"bike-147","secured","2"
+"bike-148","capacity","5"
+"bike-148","enclosed","1"
+"bike-148","secured","2"
+"bike-149","enclosed","1"
+"bike-149","secured","2"
+"bike-150","capacity","12"
+"bike-150","enclosed","1"
+"bike-150","secured","2"
+"bike-151","capacity","12"
+"bike-151","enclosed","1"
+"bike-151","secured","2"
