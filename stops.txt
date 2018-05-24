@@ -18,6 +18,11 @@
 "9170099","9170099","Newport Ave @ Beale St","","","",42.26502,-71.019245,"","","","",0,"",1
 "9170100","9170100","Wollaston","Newport Ave @ Wollaston Station","","North Quincy Shuttle",42.266771,-71.020771,"","","","",0,"",1
 "9270099","9270099","Beale St @ Wollaston Branch Library","","","",42.266671,-71.017924,"","","","",0,"",1
+"9070002","9070002","Green Street","Amory St @ Green St - Orange Line Forest Hills Shuttle","","Forest Hills Shuttle",42.310334,-71.107185,"","","","",0,"place-grnst",1
+"9070003","9070003","Green Street","Amory St @ Green St - Orange Line Oak Grove Shuttle","","Oak Grove Shuttle",42.310583,-71.10684,"","","","",0,"place-grnst",1
+"9070004","9070004","Stony Brook","Boylston St @ Stony Brook - Orange Line Forest Hills Shuttle","","Forest Hills Shuttle",42.31694,-71.104203,"","","","",0,"place-sbmnl",1
+"9070005","9070005","Stony Brook","Boylston St @ Stony Brook - Orange Line Oak Grove Shuttle","","Oak Grove Shuttle",42.317082,-71.104428,"","","","",0,"place-sbmnl",1
+"9070007","9070007","Jackson Square","Centre St opp Jackson Square Busway - Orange Line Oak Grove Shuttle","","Oak Grove Shuttle",42.322675,-71.099969,"","","","",0,"place-jaksn",1
 "9070160","9070160","Riverside","Riverside Station - Green Line Shuttle","","Green Line Shuttle",42.337173,-71.252877,"","","","",0,"place-river",1
 "9070162","9070162","Woodland","Woodland Station - Green Line Shuttle","","Green Line Shuttle",42.332973,-71.243286,"","","","",0,"place-woodl",1
 "9070164","9070164","Waban","Waban Station - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.326601,-71.23056,"","","","",0,"place-waban",1
@@ -1375,7 +1380,7 @@
 "15088","15088","Harrison Ave opp. East Springfield St.","","","",42.335445,-71.074414,"","","","",0,"",1
 "1509","1509","Bowdoin St @ Tovar St","","","",42.310103,-71.063141,"","","","",0,"",1
 "15094","15094","Washington St @ Savoy St","","","",42.342008,-71.067929,"","","","",0,"",0
-"15095","15095","Washington St @ Herald St","","","",42.345906,-71.064718,"","","","",0,"",1
+"15095","15095","Washington St @ Herald St","","","",42.345906,-71.064718,"Washington St and Herald St, Boston, MA","","","",0,"",1
 "151","151","W Broadway @ Broadway Station","","","",42.342664,-71.056949,"","","","",0,"place-brdwy",1
 "1510","1510","Bowdoin St @ Hendry St","","","",42.308815,-71.064326,"","","","",0,"",0
 "15100","15100","St Peters Sq @ Church","","","",42.308101,-71.064371,"","","","",0,"",1
@@ -1384,7 +1389,7 @@
 "1513","1513","Bowdoin St @ Olney St","","","",42.305292,-71.068298,"","","","",0,"",1
 "1514","1514","Bowdoin St @ Eunice St","","","",42.304293,-71.069728,"","","","",0,"",1
 "1515","1515","Bowdoin St @ Geneva Ave","","","",42.303498,-71.071427,"","","","",0,"",1
-"15176","15176","Washington St @ Worcester St","Washington St @ Worcester St - Silver Line - Dudley","","Dudley",42.337353,-71.075909,"","","","level_in_street",0,"",1
+"15176","15176","Washington St @ Worcester St","Washington St @ Worcester St - Silver Line - Dudley","","Dudley",42.337353,-71.075909,"Washington St at Worcester Sq, Boston, MA","","","level_in_street",0,"",1
 "1518","1518","Brookline Ave opp Yawkey Way","","","",42.346894,-71.098925,"","","","",0,"",1
 "1519","1519","Brookline Ave @ Fullerton St","","","",42.34496,-71.100993,"","","","",0,"",1
 "152","152","W Broadway @ A St","","","",42.341682,-71.055418,"","","","",0,"",1
@@ -1657,10 +1662,10 @@
 "1706","1706","Blue Hill Ave @ Harvard St","","","",42.294679,-71.088186,"","","","",0,"",1
 "1708","1708","Blue Hill Ave @ Paxton St","","","",42.292036,-71.089062,"","","","",0,"",1
 "1709","1709","Blue Hill Ave @ Greenock St","","","",42.289639,-71.089874,"","","","",0,"",1
-"17091","17091","Terminal A","Terminal A - Silver Line - SL1 South Station","","South Station",42.364612,-71.020862,"","","","level_logan_arrivals",0,"",0
-"17093","17093","Terminal B Stop 2 - Arrivals Level","Terminal B Stop 2 - Silver Line - SL1 South Station","","South Station",42.361657,-71.017833,"","","","level_logan_arrivals",0,"",1
-"17094","17094","Terminal C - Arrivals Level","Terminal C - Silver Line - SL1 South Station","","South Station",42.366494,-71.017289,"","","","level_logan_arrivals",0,"",1
-"17095","17095","Terminal E - Arrivals Level","Terminal E - Silver Line - SL1 South Station","","South Station",42.369344,-71.020238,"","","","level_logan_arrivals",0,"",1
+"17091","17091","Terminal A","Terminal A - Silver Line - SL1 South Station","","South Station",42.364612,-71.020862,"Terminal A Arrivals, Door A104, Boston Logan International Airport, Boston, MA, 02128","","","level_logan_arrivals",0,"",0
+"17093","17093","Terminal B Stop 2 - Arrivals Level","Terminal B Stop 2 - Silver Line - SL1 South Station","","South Station",42.361657,-71.017833,"Terminal B Arrivals, Door B110, Boston Logan International Airport, Boston, MA, 02128","","","level_logan_arrivals",0,"",1
+"17094","17094","Terminal C - Arrivals Level","Terminal C - Silver Line - SL1 South Station","","South Station",42.366494,-71.017289,"Terminal E Arrivals, Door E106, Boston Logan International Airport, Boston, MA, 02128","","","level_logan_arrivals",0,"",1
+"17095","17095","Terminal E - Arrivals Level","Terminal E - Silver Line - SL1 South Station","","South Station",42.369344,-71.020238,"Terminal C Arrivals, Door C106, Boston Logan International Airport, Boston, MA, 02128","","","level_logan_arrivals",0,"",1
 "17096","17096","Congress @ World Trade Center Sta","Congress @ World Trade Center Sta - Silver Line - South Station","","South Station",42.348769,-71.042336,"","","","level_in_street",0,"",1
 "171","171","Berkeley St @ Columbus Ave","","","",42.348569,-71.071717,"","","","",0,"",1
 "1710","1710","Blue Hill Ave @ Johnston Rd","","","",42.287168,-71.090663,"","","","",0,"",1
@@ -1765,9 +1770,9 @@
 "17861","17861","Ruggles","Ruggles - Upper Busway","","Upper Busway",42.336572,-71.089616,"","","","level_ground",0,"place-rugg",0
 "17862","17862","Ruggles","Ruggles - Lower Busway Lane 1","1","Lower Busway Lane 1",42.336489,-71.089085,"","","","level_-1_ground",0,"place-rugg",0
 "17863","17863","Ruggles","Ruggles - Lower Busway Lane 2","2","Lower Busway Lane 2",42.33639,-71.08905,"","","","level_-1_ground",0,"place-rugg",0
-"1787","1787","Washington St @ Worcester St","","","",42.337524,-71.075479,"","","","",0,"",1
+"1787","1787","Washington St @ Worcester St","","","",42.337524,-71.075479,"Washington St at Worcester Sq, Boston, MA","","","",0,"",1
 "17879","17879","Springs Rd opp Bldg 23","","","",42.502436,-71.272365,"","","","",0,"",0
-"1788","1788","Washington St @ E Newton St","","","",42.338763,-71.073677,"","","","",0,"",1
+"1788","1788","Washington St @ E Newton St","","","",42.338763,-71.073677,"Washington St and Newton St, Boston, MA, 02118","","","",0,"",1
 "1789","1789","Washington St @ Mystic St","","","",42.340389,-71.071195,"","","","",0,"",1
 "179","179","Ring Rd @ Huntington Ave","","","",42.347595,-71.079984,"","","","",0,"",1
 "1790","1790","Harrison Ave @ Worcester Sq","","","",42.335883,-71.074011,"","","","",0,"",1
@@ -1896,7 +1901,7 @@
 "1938","1938","South St @ Carolina Ave","","","",42.307801,-71.115454,"","","","",0,"",0
 "1939","1939","775 Centre St","","","",42.309949,-71.115345,"","","","",0,"",1
 "1940","1940","Centre St @ Aldworth St","","","",42.308799,-71.118664,"","","","",0,"",1
-"19402","19402","Washington St @ W Newton St","Washington St @ W Newton St - Silver Line - Dudley","","Dudley",42.338788,-71.073825,"","","","level_in_street",0,"",1
+"19402","19402","Washington St @ W Newton St","Washington St @ W Newton St - Silver Line - Dudley","","Dudley",42.338788,-71.073825,"Washington St and W Newton St, Boston, MA","","","level_in_street",0,"",1
 "1941","1941","Centre St @ Orchard St","","","",42.308976,-71.120002,"","","","",0,"",1
 "19573","19573","Pleasant St opp Frances St","","","",42.449291,-71.07053,"","","","",0,"",0
 "19618","19618","Washington St @ Harmony Hill Way","","","",42.234627,-71.183304,"","","","",0,"",0
@@ -2366,7 +2371,7 @@
 "2467","2467","Appleton St @ Homer Rd","","","",42.419167,-71.195486,"","","","",0,"",0
 "2468","2468","Appleton St @ Kipling Rd","","","",42.419394,-71.19327,"","","","",0,"",0
 "2469","2469","Appleton St opp Ely Rd","","","",42.419965,-71.188934,"","","","",0,"",0
-"247","247","Northern Ave @ Harbor St","Northern Ave @ Harbor St - Silver Line - SL2 Design Center","","Design Center",42.346634,-71.035301,"","","","level_in_street",0,"",0
+"247","247","Northern Ave @ Harbor St","Northern Ave @ Harbor St - Silver Line - SL2 Design Center","","Design Center",42.346634,-71.035301,"Northern Ave and Harbor St, Boston, MA 02210","","","level_in_street",0,"",0
 "2470","2470","Wachusett Ave @ Dow Ave","","","",42.419928,-71.18662,"","","","",0,"",0
 "2471","2471","Wachusett Ave @ Florence Ave","","","",42.418131,-71.185714,"","","","",0,"",0
 "24716","24716","VFW Pkwy opp Wonderland Market Place","","","",42.411567,-70.996415,"","","","",0,"",1
@@ -2618,7 +2623,7 @@
 "2707","2707","Broadway @ Montgomery Ave","","","",42.390497,-71.090264,"","","","",0,"",1
 "2708","2708","Broadway @ McGrath Hwy","","","",42.389745,-71.088633,"","","","",0,"",1
 "2709","2709","Broadway St @ MacArthur St","","","",42.389316,-71.087677,"","","","",0,"",1
-"27092","27092","Terminal B Stop 1 - Arrivals Level","Terminal B Stop 1 - Silver Line - SL1 South Station","","South Station",42.3621,-71.01882,"","","","level_logan_arrivals",0,"",1
+"27092","27092","Terminal B Stop 1 - Arrivals Level","Terminal B Stop 1 - Silver Line - SL1 South Station","","South Station",42.3621,-71.01882,"Terminal B Arrivals, Door B103, Boston Logan International Airport, Boston, MA, 02128","","","level_logan_arrivals",0,"",1
 "2710","2710","Broadway @ Cross St","","","",42.388616,-71.086108,"","","","",0,"",1
 "2711","2711","Broadway @ Glen St","","","",42.387798,-71.084329,"","","","",0,"",1
 "2712","2712","Broadway @ Franklin St","","","",42.387063,-71.082176,"","","","",0,"",1
@@ -2857,7 +2862,7 @@
 "29618","29618","863 Washington St @ Douglas Ave","","","",42.186822,-71.203033,"","","","",0,"",1
 "298","298","Dorchester Ave opp Kemp St","","","",42.326944,-71.056938,"","","","",0,"",0
 "299","299","Dorchester Ave @ Howell St","","","",42.324666,-71.056909,"","","","",0,"",1
-"3","3","Washington St @ Melnea Cass Blvd - Silver Line","Washington St @ Melnea Cass Blvd - Silver Line - South Station/Downtown Crossing","","South Station/Downtown Crossing",42.333021,-71.080799,"","","","level_in_street",0,"",1
+"3","3","Washington St @ Melnea Cass Blvd - Silver Line","Washington St @ Melnea Cass Blvd - Silver Line - South Station/Downtown Crossing","","South Station/Downtown Crossing",42.333021,-71.080799,"Washington St and Melnea Cass Blvd, Roxbury, MA","","","level_in_street",0,"",1
 "30","30","E Broadway @ Farragut Rd","","","",42.335738,-71.02519,"","","","",0,"",1
 "300","300","Dorchester Ave @ Dorset St","","","",42.323237,-71.056879,"","","","",0,"",0
 "30009","30009","Massachusetts Ave @ Magazine St","","","",42.328065,-71.068054,"","","","",0,"",1
@@ -2874,7 +2879,7 @@
 "3024","3024","Hancock St @ Chester St","","","",42.269708,-71.019559,"","","","",0,"",1
 "30249","30249","Northern Ave @ Tide St","Northern Ave @ Tide St - Silver Line - SL2 Design Center","","Design Center",42.34508,-71.031986,"","","","level_in_street",0,"",0
 "3025","3025","Hancock St @ Woodbine St","","","",42.26884,-71.018107,"","","","",0,"",1
-"30250","30250","23 Drydock Ave","23 Drydock Ave - Silver Line - SL2 Design Center","","Design Center",42.344654,-71.029955,"","","","level_in_street",0,"",0
+"30250","30250","23 Drydock Ave","23 Drydock Ave - Silver Line - SL2 Design Center","","Design Center",42.344654,-71.029955,"21 Dry Dock Ave, Boston, MA 02210","","","level_in_street",0,"",0
 "30256","30256","Drydock Ave @ Harbor St","","","",42.344669,-71.037379,"","","","",0,"",0
 "3026","3026","Hancock St @ Beale St","","","",42.267856,-71.016474,"","","","",0,"",1
 "3027","3027","Hancock St @ Wentworth Rd","","","",42.266379,-71.014316,"","","","",0,"",1
@@ -2884,7 +2889,7 @@
 "3028","3028","757 Hancock St","","","",42.26565,-71.01389,"","","","",0,"",1
 "30287","30287","W 6th S @ Dorchester St","","","",42.334168,-71.048924,"","","","",0,"",1
 "3029","3029","Hancock St @ Clay St","","","",42.264207999999996,-71.013047,"","","","",0,"",1
-"30294","30294","250 Dorchester Avenue","","","",42.339299,-71.057007,"","","","",0,"",0
+"30294","30294","250 Dorchester Avenue","","","",42.339299,-71.057007,"306 Northern Ave, Boston, MA 02210","","","",0,"",0
 "303","303","Dorchester Ave @ Edison Green","","","",42.319927,-71.056824,"","","","",0,"",0
 "3031","3031","Hancock St @ Saint Anns Rd","","","",42.261229,-71.011256,"","","","",0,"",1
 "3032","3032","Hancock St @ Carruth St","","","",42.259227,-71.009528,"","","","",0,"",1
@@ -2971,10 +2976,10 @@
 "3123","3123","W Squantum @ Small St","","","",42.271591,-71.032013,"","","","",0,"",0
 "3124","3124","W Squantum St @ Farrington St","","","",42.273004,-71.031092,"","","","",0,"",0
 "3125","3125","North Quincy","North Quincy - Busway","","Busway",42.275585,-71.028752,"","","","level_1_ground",0,"place-nqncy",1
-"31255","31255","Drydock Ave @ Design Center Place","Drydock Ave @ Design Center Place - Silver Line - SL2 South Station","","South Station",42.3446,-71.034476,"","","","level_in_street",0,"",1
+"31255","31255","Drydock Ave @ Design Center Place","Drydock Ave @ Design Center Place - Silver Line - SL2 South Station","","South Station",42.3446,-71.034476,"Black Falcon Ave and Design Center Pl, Boston, MA 02210","","","level_in_street",0,"",1
 "31256","31256","Northern Ave opp Harbor St","Northern Ave opp Harbor St - Silver Line - SL2 South Station","","South Station",42.346538,-71.034878,"","","","level_in_street",0,"",0
-"31257","31257","Northern Ave @ Tide St","Northern Ave @ Tide St - Silver Line - SL2 South Station","","South Station",42.345192,-71.031996,"","","","level_in_street",0,"",0
-"31258","31258","88 Black Falcon","88 Black Falcon - Silver Line - SL2 South Station","","South Station",42.343753,-71.026335,"","","","level_in_street",0,"",0
+"31257","31257","Northern Ave @ Tide St","Northern Ave @ Tide St - Silver Line - SL2 South Station","","South Station",42.345192,-71.031996,"Northern Ave and Tide St, Boston, MA 02210","","","level_in_street",0,"",0
+"31258","31258","88 Black Falcon","88 Black Falcon - Silver Line - SL2 South Station","","South Station",42.343753,-71.026335,"88 Black Falcon Ave, Boston, MA 02210","","","level_in_street",0,"",0
 "31259","31259","27 Drydock Ave","27 Drydock Ave - Silver Line - SL2 Design Center","","Design Center",42.344232,-71.027213,"","","","level_in_street",0,"",0
 "3126","3126","E Squantum St @ Hancock St","","","",42.275935,-71.027749,"","","","",0,"",0
 "3128","3128","E Squantum St @ Newbury Ave","","","",42.278137,-71.027252,"","","","",0,"",0
@@ -3847,7 +3852,7 @@
 "3997","3997","Opp 716 S Franklin St","","","",42.132436,-71.00803,"","","","",0,"",0
 "3998","3998","S Franklin St opp Laurel Pk","","","",42.133806,-71.007467,"","","","",0,"",0
 "3999","3999","S Franklin St @ Quincy St","","","",42.135546,-71.006679,"","","","",0,"",0
-"4","4","Washington St @ Lenox St","","","",42.334949,-71.078873,"","","","",0,"",1
+"4","4","Washington St @ Lenox St","","","",42.334949,-71.078873,"Washington St and Lenox St, Boston, MA 02118","","","",0,"",1
 "4000","4000","Opp 549 S Franklin St","","","",42.137807,-71.006292,"","","","",0,"",0
 "40001","40001","Warren St @ Dabney Pl","","","",42.325353,-71.083397,"","","","",0,"",1
 "40009","40009","Newmarket St @ Massachusetts Ave","","","",42.32664,-71.066418,"","","","",0,"",1
@@ -4696,8 +4701,8 @@
 "490","490","Washington St @ Armandine St","","","",42.284589,-71.071573,"","","","",0,"",1
 "4900","4900","Humphrey St opp Ocean Ave","","","",42.474759,-70.893804,"","","","",0,"",0
 "49001","49001","Temple Pl @ Washington St","Temple Pl @ Washington St - Silver Line - SL5 Dudley","","Dudley",42.355385,-71.062211,"","","","level_in_street",0,"",1
-"49002","49002","Tufts Medical Center","Tufts Medical Center - Silver Line - Dudley","","Dudley",42.349908,-71.063684,"","","","level_in_street",0,"place-tumnl",1
-"49003","49003","Washington St @ Herald St","Washington St @ Herald St - Silver Line - Dudley","","Dudley",42.346457,-71.064695,"","","","level_in_street",0,"",1
+"49002","49002","Tufts Medical Center","Tufts Medical Center - Silver Line - Dudley","","Dudley",42.349686,-71.063818,"","","","level_in_street",0,"place-tumnl",1
+"49003","49003","Washington St @ Herald St","Washington St @ Herald St - Silver Line - Dudley","","Dudley",42.346457,-71.064695,"Washington St and Herald St, Boston, MA","","","level_in_street",0,"",1
 "4901","4901","Humphrey St @ Orchard Circle","","","",42.473977,-70.89429,"","","","",0,"",0
 "4902","4902","Humphrey St @ Orchard Rd","","","",42.472399,-70.894724,"","","","",0,"",0
 "4903","4903","Humphrey St opp Puritan Rd","","","",42.470528,-70.89482,"","","","",0,"",0
@@ -4930,16 +4935,16 @@
 "5091","5091","E Newton St @ Harrison Ave","","","",42.337629,-71.072068,"","","","",0,"",1
 "50916","50916","Montvale Ave opp Prospect St","","","",42.479313,-71.149885,"","","","",0,"",0
 "50920","50920","Lexington St @ Burlington St","","","",42.476833,-71.162977,"","","","",0,"",0
-"5093","5093","Washington St @ Union Pk","Washington St @ Union Pk - Silver Line - South Station/Downtown Crossing","","South Station/Downtown Crossing",42.341308,-71.069417,"","","","level_in_street",0,"",1
+"5093","5093","Washington St @ Union Pk","Washington St @ Union Pk - Silver Line - South Station/Downtown Crossing","","South Station/Downtown Crossing",42.341308,-71.069417,"Washington St and Union Park St, Boston, MA","","","level_in_street",0,"",1
 "50939","50939","Burlington Mall Rd @ Lexington St","","","",42.485801,-71.213664,"","","","",0,"",0
 "5094","5094","Washington St @ Perry St","","","",42.342695,-71.067065,"","","","",0,"",0
 "50944","50944","23 Fourth Ave","","","",42.491153,-71.224996,"","","","",0,"",0
-"5095","5095","Washington St @ E Berkeley St","Washington St @ E Berkeley St - Silver Line - South Station/Downtown Crossing","","South Station/Downtown Crossing",42.343824,-71.065927,"","","","level_in_street",0,"",1
-"5098","5098","Washington St @ E Berkeley St","Washington St @ E Berkeley St - Silver Line - Dudley","","Dudley",42.343809,-71.066075,"","","","level_in_street",0,"",1
+"5095","5095","Washington St @ E Berkeley St","Washington St @ E Berkeley St - Silver Line - South Station/Downtown Crossing","","South Station/Downtown Crossing",42.343824,-71.065927,"Washington St and E Berkeley St, Boston, MA","","","level_in_street",0,"",1
+"5098","5098","Washington St @ E Berkeley St","Washington St @ E Berkeley St - Silver Line - Dudley","","Dudley",42.343809,-71.066075,"Washington St and E Berkeley St, Boston, MA","","","level_in_street",0,"",1
 "5099","5099","Washington St opp Savoy St","","","",42.342225,-71.067903,"","","","",0,"",0
 "51","51","Dorchester St @ Middle St","","","",42.330763,-71.054677,"","","","",0,"",1
 "510","510","Gallivan Blvd @ Pleasant Hill Ave","","","",42.278002,-71.072593,"","","","",0,"",2
-"5100","5100","Washington St @ Union Pk","Washington St @ Union Pk - Silver Line - Dudley","","Dudley",42.340497,-71.071317,"","","","level_in_street",0,"",1
+"5100","5100","Washington St @ Union Pk","Washington St @ Union Pk - Silver Line - Dudley","","Dudley",42.340497,-71.071317,"Washington St and Union Park St, Boston, MA","","","level_in_street",0,"",1
 "5104","5104","Davis","Davis - Busway","","Busway",42.396646,-71.121879,"","","","level_ground",0,"place-davis",1
 "511","511","Washington St @ Gallivan Blvd","","","",42.278962,-71.069534,"","","","",0,"",1
 "51111","51111","Mt Vernon St @ Bayside Expo Center","","","",42.320175,-71.048754,"","","","",0,"",1
@@ -5700,7 +5705,7 @@
 "5992","5992","Washington St @ Grove St","","","",42.43545,-71.071995,"","","","",0,"",0
 "5993","5993","Washington St @ Francis St","","","",42.433861,-71.072009,"","","","",0,"",0
 "6","6","Melnea Cass Blvd @ Harrison Ave","","","",42.332016,-71.079576,"","","","",0,"",0
-"60","60","Washington St @ Lenox St","Washington St @ Lenox St - Silver Line - Dudley","","Dudley",42.334963,-71.078951,"","","","level_in_street",0,"",1
+"60","60","Washington St @ Lenox St","Washington St @ Lenox St - Silver Line - Dudley","","Dudley",42.334963,-71.078951,"Washington St and Lenox St, Boston, MA 02118","","","level_in_street",0,"",1
 "600","600","Washington St opp Granfield Ave","","","",42.290289,-71.124116,"","","","",0,"",0
 "601","601","Washington St @ South St","","","",42.288805,-71.125748,"","","","",0,"",0
 "602","602","South St @ Taft Hill Terr","","","",42.286953,-71.128492,"","","","",0,"",1
@@ -5714,7 +5719,7 @@
 "607","607","Washington St @ Liszt St","","","",42.276574,-71.139145,"","","","",0,"",0
 "608","608","Washington St @ W Roxbury Pkwy","","","",42.275418,-71.140573,"","","","",0,"",0
 "609","609","Washington St @ Lagrange St","","","",42.272872,-71.143932,"","","","",0,"",0
-"61","61","Washington St @ Melnea Cass Blvd","Washington St @ Melnea Cass Blvd - Silver Line - Dudley","","Dudley",42.332781,-71.081246,"","","","level_in_street",0,"",1
+"61","61","Washington St @ Melnea Cass Blvd","Washington St @ Melnea Cass Blvd - Silver Line - Dudley","","Dudley",42.332781,-71.081246,"Washington St and Melnea Cass Blvd, Roxbury, MA","","","level_in_street",0,"",1
 "610","610","Washington St @ Cowing St","","","",42.2718,-71.145305,"","","","",0,"",0
 "6100","6100","Leavitt St @ Congress St","","","",42.514961,-70.889316,"","","","",0,"",0
 "6102","6102","Congress St @ Shetland Park Industrial Park","","","",42.5178,-70.889296,"","","","",0,"",1
@@ -5940,10 +5945,10 @@
 "6397","6397","Summit St @ Metropolitan Ave","","","",42.252143,-71.109476,"","","","",0,"",0
 "6398","6398","Summit St @ Milton Ave","","","",42.250886,-71.111651,"","","","",0,"",0
 "6399","6399","Milton Ave @ Highland St","","","",42.252568,-71.113466,"","","","",0,"",0
-"64","64","Dudley Station","","","",42.329789,-71.083887,"","","","",0,"",1
+"64","64","Dudley Station","","","",42.329789,-71.083887,"Washington St and Dudley St, Roxbury","","","",0,"",1
 "640","640","Washington St @ Archdale Rd","","","",42.292634,-71.12139,"","","","",0,"",0
 "6400","6400","Highland St @ Albion St","","","",42.252256,-71.114406,"","","","",0,"",0
-"64000","64000","Dudley Station","","","",42.329544,-71.083982,"","","","",0,"",1
+"64000","64000","Dudley Station","","","",42.329544,-71.083982,"Washington St and Dudley St, Roxbury","","","",0,"",1
 "64001","64001","Highland St @ Warren Ave","","","",42.2515,-71.115692,"","","","",0,"",0
 "6401","6401","Highland St @ Fairmount Ave","","","",42.250875,-71.116815,"","","","",0,"",0
 "6402","6402","17 Pond St","","","",42.250218,-71.117192,"","","","",0,"",0
@@ -6035,7 +6040,7 @@
 "6555","6555","Surface Artery @ Kneeland St","","","",42.350317,-71.059704,"","","","",0,"",1
 "65618","65618","Washington St @ Holiday Inn","","","",42.231648,-71.184755,"","","","",0,"",0
 "6564","6564","Summer St @ South Station - Red Line entrance","","","",42.352253,-71.054774,"","","","",0,"",1
-"6565","6565","Washington St @ Tufts Med Ctr","","","",42.34997,-71.063413,"","","","",0,"place-tumnl",0
+"6565","6565","Washington St @ Tufts Med Ctr","","","",42.349682,-71.063564,"","","","",0,"place-tumnl",0
 "6567","6567","Washington St @ Essex St","Washington St @ Essex St - Silver Line - SL5 Downtown Crossing","","Downtown Crossing",42.352461,-71.062552,"","","","level_in_street",0,"",1
 "6569","6569","Corporation Way","","","",42.404686,-71.075506,"","","","",0,"",0
 "6570","6570","S Huntington Ave @ Perkins St","","","",42.321698,-71.112025,"","","","",0,"",0
@@ -6290,12 +6295,12 @@
 "70005","70005","Stony Brook","Stony Brook - Orange Line - Oak Grove","","Oak Grove",42.317062,-71.104248,"","","","level_-1_platform",0,"place-sbmnl",1
 "70006","70006","Jackson Square","Jackson Square - Orange Line - Forest Hills","","Forest Hills",42.323132,-71.099592,"","","","level_-1_platform",0,"place-jaksn",1
 "70007","70007","Jackson Square","Jackson Square - Orange Line - Oak Grove","","Oak Grove",42.323132,-71.099592,"","","","level_-1_platform",0,"place-jaksn",1
-"70008","70008","Roxbury Crossing","Roxbury Crossing - Orange Line - Forest Hills","","Forest Hills",42.331397,-71.095451,"","","","level_-1_platform",0,"place-rcmnl",1
-"70009","70009","Roxbury Crossing","Roxbury Crossing - Orange Line - Oak Grove","","Oak Grove",42.331397,-71.095451,"","","","level_-1_platform",0,"place-rcmnl",1
+"70008","70008","Roxbury Crossing","Roxbury Crossing - Orange Line - Forest Hills","","Forest Hills",42.330714,-71.096023,"","","","level_-1_platform",0,"place-rcmnl",1
+"70009","70009","Roxbury Crossing","Roxbury Crossing - Orange Line - Oak Grove","","Oak Grove",42.330714,-71.096023,"","","","level_-1_platform",0,"place-rcmnl",1
 "70010","70010","Ruggles","Ruggles - Orange Line - Forest Hills","","Forest Hills",42.336377,-71.088961,"","","","level_-1_orange_platform",0,"place-rugg",1
 "70011","70011","Ruggles","Ruggles - Orange Line - Oak Grove","","Oak Grove",42.336377,-71.088961,"","","","level_-1_orange_platform",0,"place-rugg",1
-"70012","70012","Massachusetts Avenue","Massachusetts Avenue - Orange Line - Forest Hills","","Forest Hills",42.341512,-71.083423,"","","","level_-1_platform",0,"place-masta",1
-"70013","70013","Massachusetts Avenue","Massachusetts Avenue - Orange Line - Oak Grove","","Oak Grove",42.341512,-71.083423,"","","","level_-1_platform",0,"place-masta",1
+"70012","70012","Massachusetts Avenue","Massachusetts Avenue - Orange Line - Forest Hills","","Forest Hills",42.340848,-71.084231,"","","","level_-1_platform",0,"place-masta",1
+"70013","70013","Massachusetts Avenue","Massachusetts Avenue - Orange Line - Oak Grove","","Oak Grove",42.340505,-71.083733,"","","","level_-1_platform",0,"place-masta",1
 "70014","70014","Back Bay","Back Bay - Orange Line - Forest Hills","","Forest Hills",42.34735,-71.075727,"","","","level_-1_orange_platform",0,"place-bbsta",1
 "70015","70015","Back Bay","Back Bay - Orange Line - Oak Grove","","Oak Grove",42.34735,-71.075727,"","","","level_-1_orange_platform",0,"place-bbsta",1
 "70016","70016","Tufts Medical Center","Tufts Medical Center - Orange Line - Forest Hills","","Forest Hills",42.349662,-71.063917,"","","","level_-2_platform",0,"place-tumnl",1
@@ -6310,15 +6315,15 @@
 "70025","70025","Haymarket","Haymarket - Orange Line - Oak Grove","4","Oak Grove",42.363021,-71.05829,"","","","level_-1_orange_platform",0,"place-haecl",1
 "70026","70026","North Station","North Station - Orange Line - Forest Hills","","Forest Hills",42.365577,-71.06129,"","","","level_-2_low_platform",0,"place-north",1
 "70027","70027","North Station","North Station - Orange Line - Oak Grove","","Oak Grove",42.365577,-71.06129,"","","","level_-2_low_platform",0,"place-north",1
-"70028","70028","Community College","Community College - Orange Line - Forest Hills","","Forest Hills",42.373622,-71.069533,"","","","level_-1_platform",0,"place-ccmnl",1
-"70029","70029","Community College","Community College - Orange Line - Oak Grove","","Oak Grove",42.373622,-71.069533,"","","","level_-1_platform",0,"place-ccmnl",1
+"70028","70028","Community College","Community College - Orange Line - Forest Hills","","Forest Hills",42.374067,-71.070929,"","","","level_-1_platform",0,"place-ccmnl",1
+"70029","70029","Community College","Community College - Orange Line - Oak Grove","","Oak Grove",42.374067,-71.070929,"","","","level_-1_platform",0,"place-ccmnl",1
 "70030","70030","Sullivan Square","Sullivan Square - Orange Line - Forest Hills","1","Forest Hills",42.383975,-71.076994,"","","","level_-1_platform",0,"place-sull",1
 "70031","70031","Sullivan Square","Sullivan Square - Orange Line - Oak Grove","2","Oak Grove",42.383975,-71.076994,"","","","level_-1_platform",0,"place-sull",1
-"70032","70032","Wellington","Wellington - Orange Line - Forest Hills","1","Forest Hills",42.40237,-71.077082,"","","","level_-1_platform",0,"place-welln",1
-"70033","70033","Wellington","Wellington - Orange Line - Oak Grove","2","Oak Grove",42.40237,-71.077082,"","","","level_-1_platform",0,"place-welln",1
-"70034","70034","Malden Center","Malden Center - Orange Line - Forest Hills","","Forest Hills",42.426632,-71.07411,"","","","level_1_orange_platform",0,"place-mlmnl",1
-"70035","70035","Malden Center","Malden Center - Orange Line - Oak Grove","","Oak Grove",42.426632,-71.07411,"","","","level_1_orange_platform",0,"place-mlmnl",1
-"70036","70036","Oak Grove","Oak Grove - Orange Line","","Orange Line",42.43668,-71.071097,"","","","level_0_platform",0,"place-ogmnl",1
+"70032","70032","Wellington","Wellington - Orange Line - Forest Hills","1","Forest Hills",42.401322,-71.07673,"","","","level_-1_platform",0,"place-welln",1
+"70033","70033","Wellington","Wellington - Orange Line - Oak Grove","2","Oak Grove",42.401322,-71.07673,"","","","level_-1_platform",0,"place-welln",1
+"70034","70034","Malden Center","Malden Center - Orange Line - Forest Hills","","Forest Hills",42.426694,-71.074379,"","","","level_1_orange_platform",0,"place-mlmnl",1
+"70035","70035","Malden Center","Malden Center - Orange Line - Oak Grove","","Oak Grove",42.426682,-71.074317,"","","","level_1_orange_platform",0,"place-mlmnl",1
+"70036","70036","Oak Grove","Oak Grove - Orange Line","","Orange Line",42.437501,-71.070706,"","","","level_0_platform",0,"place-ogmnl",1
 "70038","70038","Bowdoin","Bowdoin - Blue Line - Wonderland","","Wonderland",42.361365,-71.062037,"","","","level_-1_platform",0,"place-bomnl",2
 "70039","70039","Government Center","Government Center - Blue Line - Bowdoin","","Bowdoin",42.359705,-71.059215,"","","","level_-2_blue_platform",0,"place-gover",1
 "70040","70040","Government Center","Government Center - Blue Line - Wonderland","","Wonderland",42.359705,-71.059215,"","","","level_-2_blue_platform",0,"place-gover",1
@@ -6330,18 +6335,18 @@
 "70046","70046","Maverick","Maverick - Blue Line - Wonderland","","Wonderland",42.36911856,-71.03952958,"","","","level_-1_platform",0,"place-mvbcl",1
 "70047","70047","Airport","Airport - Blue Line - Bowdoin","","Bowdoin",42.374262,-71.030395,"","","","level_0_platform",0,"place-aport",1
 "70048","70048","Airport","Airport - Blue Line - Wonderland","","Wonderland",42.374262,-71.030395,"","","","level_0_platform",0,"place-aport",1
-"70049","70049","Wood Island","Wood Island - Blue Line - Bowdoin","1","Bowdoin",42.3796403,-71.02286539,"","","","level_0_platform",0,"place-wimnl",1
-"70050","70050","Wood Island","Wood Island - Blue Line - Wonderland","2","Wonderland",42.3796403,-71.02286539,"","","","level_0_platform",0,"place-wimnl",1
-"70051","70051","Orient Heights","Orient Heights - Blue Line - Bowdoin","","Bowdoin",42.386867,-71.004736,"","","","level_0_platform",0,"place-orhte",1
-"70052","70052","Orient Heights","Orient Heights - Blue Line - Wonderland","","Wonderland",42.386867,-71.004736,"","","","level_0_platform",0,"place-orhte",1
-"70053","70053","Suffolk Downs","Suffolk Downs - Blue Line - Bowdoin","1","Bowdoin",42.39050067,-70.99712259,"","","","level_0_platform",0,"place-sdmnl",1
-"70054","70054","Suffolk Downs","Suffolk Downs - Blue Line - Wonderland","2","Wonderland",42.39050067,-70.99712259,"","","","level_0_platform",0,"place-sdmnl",1
-"70055","70055","Beachmont","Beachmont - Blue Line - Bowdoin","1","Bowdoin",42.39754234,-70.99231944,"","","","level_1_platform",0,"place-bmmnl",1
-"70056","70056","Beachmont","Beachmont - Blue Line - Wonderland","2","Wonderland",42.39754234,-70.99231944,"","","","level_1_platform",0,"place-bmmnl",1
+"70049","70049","Wood Island","Wood Island - Blue Line - Bowdoin","1","Bowdoin",42.379689,-71.022856,"","","","level_0_platform",0,"place-wimnl",1
+"70050","70050","Wood Island","Wood Island - Blue Line - Wonderland","2","Wonderland",42.379642,-71.022801,"","","","level_0_platform",0,"place-wimnl",1
+"70051","70051","Orient Heights","Orient Heights - Blue Line - Bowdoin","","Bowdoin",42.386971,-71.004803,"","","","level_0_platform",0,"place-orhte",1
+"70052","70052","Orient Heights","Orient Heights - Blue Line - Wonderland","","Wonderland",42.386933,-71.004769,"","","","level_0_platform",0,"place-orhte",1
+"70053","70053","Suffolk Downs","Suffolk Downs - Blue Line - Bowdoin","1","Bowdoin",42.390466,-70.99726,"","","","level_0_platform",0,"place-sdmnl",1
+"70054","70054","Suffolk Downs","Suffolk Downs - Blue Line - Wonderland","2","Wonderland",42.390598,-70.997032,"","","","level_0_platform",0,"place-sdmnl",1
+"70055","70055","Beachmont","Beachmont - Blue Line - Bowdoin","1","Bowdoin",42.397195,-70.992569,"","","","level_1_platform",0,"place-bmmnl",1
+"70056","70056","Beachmont","Beachmont - Blue Line - Wonderland","2","Wonderland",42.397224,-70.992615,"","","","level_1_platform",0,"place-bmmnl",1
 "70057","70057","Revere Beach","Revere Beach - Blue Line - Bowdoin","1","Bowdoin",42.40784254,-70.99253321,"","","","level_-1_platform",0,"place-rbmnl",1
 "70058","70058","Revere Beach","Revere Beach - Blue Line - Wonderland","2","Wonderland",42.40784254,-70.99253321,"","","","level_-1_platform",0,"place-rbmnl",1
-"70059","70059","Wonderland","Wonderland - Blue Line - Bowdoin","1","Bowdoin",42.413513,-70.991737,"","","","level_0_platform",0,"place-wondl",1
-"70060","70060","Wonderland","Wonderland - Blue Line - Exit Only","2","Exit Only",42.413495,-70.991613,"","","","level_0_platform",0,"place-wondl",1
+"70059","70059","Wonderland","Wonderland - Blue Line - Bowdoin","1","Bowdoin",42.413515,-70.991735,"","","","level_0_platform",0,"place-wondl",1
+"70060","70060","Wonderland","Wonderland - Blue Line - Exit Only","2","Exit Only",42.415135,-70.991207,"","","","level_0_platform",0,"place-wondl",1
 "70061","70061","Alewife","Alewife - Red Line","","Red Line",42.395428,-71.142483,"","","","level_-2_platform",0,"place-alfcl",1
 "70063","70063","Davis","Davis - Red Line - Ashmont/Braintree","","Ashmont/Braintree",42.39674,-71.121815,"","","","level_-2_platform",0,"place-davis",1
 "70064","70064","Davis","Davis - Red Line - Alewife","","Alewife",42.39674,-71.121815,"","","","level_-2_platform",0,"place-davis",1
@@ -6353,8 +6358,8 @@
 "70070","70070","Central","Central - Red Line - Alewife","","Alewife",42.365379,-71.103554,"","","","level_-1_platform",0,"place-cntsq",1
 "70071","70071","Kendall/MIT","Kendall/MIT - Red Line - Ashmont/Braintree","","Ashmont/Braintree",42.362355,-71.085605,"","","","level_-1_platform",0,"place-knncl",1
 "70072","70072","Kendall/MIT","Kendall/MIT - Red Line - Alewife","","Alewife",42.362434,-71.085591,"","","","level_-1_platform",0,"place-knncl",1
-"70073","70073","Charles/MGH","Charles/MGH - Red Line - Ashmont/Braintree","","Ashmont/Braintree",42.361166,-71.070628,"","","","level_1_platform",0,"place-chmnl",1
-"70074","70074","Charles/MGH","Charles/MGH - Red Line - Alewife","","Alewife",42.361166,-71.070628,"","","","level_1_platform",0,"place-chmnl",1
+"70073","70073","Charles/MGH","Charles/MGH - Red Line - Ashmont/Braintree","","Ashmont/Braintree",42.361186,-71.07168,"","","","level_1_platform",0,"place-chmnl",1
+"70074","70074","Charles/MGH","Charles/MGH - Red Line - Alewife","","Alewife",42.361269,-71.071678,"","","","level_1_platform",0,"place-chmnl",1
 "70075","70075","Park Street","Park Street - Red Line - Ashmont/Braintree","5","Ashmont/Braintree",42.35639457,-71.0624242,"","","","level_-2_red_platform",0,"place-pktrm",1
 "70076","70076","Park Street","Park Street - Red Line - Alewife","6","Alewife",42.35639457,-71.0624242,"","","","level_-2_red_platform",0,"place-pktrm",1
 "70077","70077","Downtown Crossing","Downtown Crossing - Red Line - Ashmont/Braintree","","Ashmont/Braintree",42.355518000000004,-71.060225,"","","","level_-2_platform",0,"place-dwnxg",1
@@ -6365,27 +6370,27 @@
 "70082","70082","Broadway","Broadway - Red Line - Alewife","","Alewife",42.342622,-71.056967,"","","","level_-2_platform",0,"place-brdwy",1
 "70083","70083","Andrew","Andrew - Red Line - Ashmont/Braintree","1","Ashmont/Braintree",42.330154,-71.057655,"","","","level_-2_platform",0,"place-andrw",1
 "70084","70084","Andrew","Andrew - Red Line - Alewife","2","Alewife",42.330154,-71.057655,"","","","level_-2_platform",0,"place-andrw",1
-"70085","70085","JFK/UMass","JFK/UMass - Red Line - Ashmont","","Ashmont",42.320685,-71.052391,"","","","level_0_red_platform",0,"place-jfk",1
-"70086","70086","JFK/UMass","JFK/UMass - Red Line - Alewife (from Ashmont)","","Alewife (from Ashmont)",42.320685,-71.052391,"","","","level_0_red_platform",0,"place-jfk",1
-"70087","70087","Savin Hill","Savin Hill - Red Line - Ashmont","","Ashmont",42.31129,-71.053331,"","","","level_0_platform",0,"place-shmnl",1
-"70088","70088","Savin Hill","Savin Hill - Red Line - Alewife","","Alewife",42.31129,-71.053331,"","","","level_0_platform",0,"place-shmnl",1
-"70089","70089","Fields Corner","Fields Corner - Red Line - Ashmont","","Ashmont",42.300093,-71.061667,"","","","level_1_platform",0,"place-fldcr",1
-"70090","70090","Fields Corner","Fields Corner - Red Line - Alewife","","Alewife",42.300093,-71.061667,"","","","level_1_platform",0,"place-fldcr",1
+"70085","70085","JFK/UMass","JFK/UMass - Red Line - Ashmont","","Ashmont",42.320549,-71.052521,"","","","level_0_red_platform",0,"place-jfk",1
+"70086","70086","JFK/UMass","JFK/UMass - Red Line - Alewife (from Ashmont)","","Alewife (from Ashmont)",42.320547,-71.052449,"","","","level_0_red_platform",0,"place-jfk",1
+"70087","70087","Savin Hill","Savin Hill - Red Line - Ashmont","","Ashmont",42.310516,-71.053682,"","","","level_0_platform",0,"place-shmnl",1
+"70088","70088","Savin Hill","Savin Hill - Red Line - Alewife","","Alewife",42.310516,-71.053682,"","","","level_0_platform",0,"place-shmnl",1
+"70089","70089","Fields Corner","Fields Corner - Red Line - Ashmont","","Ashmont",42.300045,-71.061868,"","","","level_1_platform",0,"place-fldcr",1
+"70090","70090","Fields Corner","Fields Corner - Red Line - Alewife","","Alewife",42.299962,-71.061822,"","","","level_1_platform",0,"place-fldcr",1
 "70091","70091","Shawmut","Shawmut - Red Line - Ashmont","","Ashmont",42.29312583,-71.06573796,"","","","level_-1_platform",0,"place-smmnl",1
 "70092","70092","Shawmut","Shawmut - Red Line - Alewife","","Alewife",42.29312583,-71.06573796,"","","","level_-1_platform",0,"place-smmnl",1
-"70093","70093","Ashmont","Ashmont - Red Line - Exit Only","","Exit Only",42.284239,-71.063601,"","","","level_-1_platform",0,"place-asmnl",1
-"70094","70094","Ashmont","Ashmont - Red Line - Alewife","","Alewife",42.284258,-71.063524,"","","","level_-1_platform",0,"place-asmnl",1
-"70095","70095","JFK/UMass","JFK/UMass - Red Line - Braintree","","Braintree",42.320685,-71.052391,"","","","level_0_red_platform",0,"place-jfk",1
-"70096","70096","JFK/UMass","JFK/UMass - Red Line - Alewife (from Braintree)","","Alewife (from Braintree)",42.320685,-71.052391,"","","","level_0_red_platform",0,"place-jfk",1
-"70097","70097","North Quincy","North Quincy - Red Line - Braintree","2","Braintree",42.275275,-71.029583,"","","","level_0_platform",0,"place-nqncy",1
-"70098","70098","North Quincy","North Quincy - Red Line - Alewife","1","Alewife",42.275275,-71.029583,"","","","level_0_platform",0,"place-nqncy",1
+"70093","70093","Ashmont","Ashmont - Red Line - Exit Only","","Exit Only",42.28449,-71.063878,"","","","level_-1_platform",0,"place-asmnl",1
+"70094","70094","Ashmont","Ashmont - Red Line - Alewife","","Alewife",42.284528,-71.063717,"","","","level_-1_platform",0,"place-asmnl",1
+"70095","70095","JFK/UMass","JFK/UMass - Red Line - Braintree","","Braintree",42.320557,-71.052312,"","","","level_0_red_platform",0,"place-jfk",1
+"70096","70096","JFK/UMass","JFK/UMass - Red Line - Alewife (from Braintree)","","Alewife (from Braintree)",42.320563,-71.052251,"","","","level_0_red_platform",0,"place-jfk",1
+"70097","70097","North Quincy","North Quincy - Red Line - Braintree","2","Braintree",42.275783,-71.030184,"","","","level_0_platform",0,"place-nqncy",1
+"70098","70098","North Quincy","North Quincy - Red Line - Alewife","1","Alewife",42.275783,-71.030184,"","","","level_0_platform",0,"place-nqncy",1
 "70099","70099","Wollaston","Wollaston - Red Line - Braintree","","Braintree",42.2665139,-71.0203369,"","","","level_1_platform",0,"place-wlsta",2
 "70100","70100","Wollaston","Wollaston - Red Line - Alewife","","Alewife",42.2665139,-71.0203369,"","","","level_1_platform",0,"place-wlsta",2
 "70101","70101","Quincy Center","Quincy Center - Red Line - Braintree","2","Braintree",42.251809,-71.005409,"","","","level_-1_red_platform",0,"place-qnctr",1
 "70102","70102","Quincy Center","Quincy Center - Red Line - Alewife","1","Alewife",42.251809,-71.005409,"","","","level_-1_red_platform",0,"place-qnctr",1
 "70103","70103","Quincy Adams","Quincy Adams - Red Line - Braintree","","Braintree",42.233391,-71.007153,"","","","level_1_platform",0,"place-qamnl",1
 "70104","70104","Quincy Adams","Quincy Adams - Red Line - Alewife","","Alewife",42.233391,-71.007153,"","","","level_1_platform",0,"place-qamnl",1
-"70105","70105","Braintree","Braintree - Red Line","","Red Line",42.208371,-71.001423,"","","","level_1_red_platform",0,"place-brntn",1
+"70105","70105","Braintree","Braintree - Red Line","","Red Line",42.207481,-71.00164,"","","","level_1_red_platform",0,"place-brntn",1
 "70106","70106","Boston College","Boston College - Green Line - Park Street & North","","Park Street & North",42.340149,-71.167029,"","","","level_ground",0,"place-lake",1
 "70107","70107","Boston College","Boston College - Green Line - Exit Only","","Exit Only",42.34024,-71.166849,"","","","level_ground",0,"place-lake",1
 "70110","70110","South Street","South Street - Green Line - Park Street & North","","Park Street & North",42.339371,-71.157057,"","","","level_median",0,"place-sougr",2
@@ -6432,32 +6437,32 @@
 "70157","70157","Arlington","Arlington - Green Line - Copley & West","","Copley & West",42.351902,-71.070893,"","","","level_-2_platform",0,"place-armnl",1
 "70158","70158","Boylston","Boylston - Green Line - Park Street & North","","Park Street & North",42.352531,-71.064682,"","","","level_-1_platform",0,"place-boyls",2
 "70159","70159","Boylston","Boylston - Green Line - Copley & West","","Copley & West",42.353214,-71.064545,"","","","level_-1_platform",0,"place-boyls",2
-"70160","70160","Riverside","Riverside - Green Line - Park Street & North","","Park Street & North",42.337283,-71.252385,"","","","level_1_platform",0,"place-river",1
-"70161","70161","Riverside","Riverside - Green Line - Exit Only","","Exit Only",42.337321,-71.252357,"","","","level_1_platform",0,"place-river",1
-"70162","70162","Woodland","Woodland - Green Line - Park Street & North","","Park Street & North",42.333339,-71.244333,"","","","level_ground",0,"place-woodl",1
-"70163","70163","Woodland","Woodland - Green Line - (D) Riverside","","Riverside",42.333372,-71.244303,"","","","level_ground",0,"place-woodl",1
-"70164","70164","Waban","Waban - Green Line - Park Street & North","","Park Street & North",42.325899,-71.230805,"","","","level_ground",0,"place-waban",2
-"70165","70165","Waban","Waban - Green Line - (D) Riverside","","Riverside",42.325943,-71.23073,"","","","level_ground",0,"place-waban",2
-"70166","70166","Eliot","Eliot - Green Line - Park Street & North","","Park Street & North",42.318957,-71.216776,"","","","level_ground",0,"place-eliot",2
-"70167","70167","Eliot","Eliot - Green Line - (D) Riverside","","Riverside",42.319024,-71.216711,"","","","level_ground",0,"place-eliot",2
-"70168","70168","Newton Highlands","Newton Highlands - Green Line - Park Street & North","","Park Street & North",42.321687,-71.206063,"","","","level_ground",0,"place-newtn",1
-"70169","70169","Newton Highlands","Newton Highlands - Green Line - (D) Riverside","","Riverside",42.321734,-71.206118,"","","","level_ground",0,"place-newtn",1
-"70170","70170","Newton Centre","Newton Centre - Green Line - Park Street & North","","Park Street & North",42.329338,-71.192388,"","","","level_ground",0,"place-newto",1
-"70171","70171","Newton Centre","Newton Centre - Green Line - (D) Riverside","","Riverside",42.329393,-71.19243,"","","","level_ground",0,"place-newto",1
-"70172","70172","Chestnut Hill","Chestnut Hill - Green Line - Park Street & North","","Park Street & North",42.326633,-71.165299,"","","","level_ground",0,"place-chhil",2
-"70173","70173","Chestnut Hill","Chestnut Hill - Green Line - (D) Riverside","","Riverside",42.326654,-71.165316,"","","","level_ground",0,"place-chhil",2
-"70174","70174","Reservoir","Reservoir - Green Line - Park Street & North","","Park Street & North",42.334916,-71.149064,"","","","level_-1_platform",0,"place-rsmnl",1
-"70175","70175","Reservoir","Reservoir - Green Line - (D) Riverside","","Riverside",42.334954,-71.149079,"","","","level_-1_platform",0,"place-rsmnl",1
-"70176","70176","Beaconsfield","Beaconsfield - Green Line - Park Street & North","","Park Street & North",42.335809,-71.140841,"","","","level_ground",0,"place-bcnfd",2
-"70177","70177","Beaconsfield","Beaconsfield - Green Line - (D) Riverside","","Riverside",42.335848,-71.140826,"","","","level_ground",0,"place-bcnfd",2
-"70178","70178","Brookline Hills","Brookline Hills - Green Line - Park Street & North","","Park Street & North",42.331238,-71.127012,"","","","level_ground",0,"place-brkhl",1
-"70179","70179","Brookline Hills","Brookline Hills - Green Line - (D) Riverside","","Riverside",42.331333,-71.126998,"","","","level_ground",0,"place-brkhl",1
-"70180","70180","Brookline Village","Brookline Village - Green Line - Park Street & North","","Park Street & North",42.332838,-71.116234,"","","","level_ground",0,"place-bvmnl",1
-"70181","70181","Brookline Village","Brookline Village - Green Line - (D) Riverside","","Riverside",42.332871,-71.116263,"","","","level_ground",0,"place-bvmnl",1
-"70182","70182","Longwood","Longwood - Green Line - Park Street & North","","Park Street & North",42.341123,-71.110393,"","","","level_ground",0,"place-longw",1
-"70183","70183","Longwood","Longwood - Green Line - (D) Riverside","","Riverside",42.341143,-71.110447,"","","","level_ground",0,"place-longw",1
-"70186","70186","Fenway","Fenway - Green Line - Park Street & North","","Park Street & North",42.345362,-71.104162,"","","","level_ground",0,"place-fenwy",1
-"70187","70187","Fenway","Fenway - Green Line - (D) Riverside","","Riverside",42.345395,-71.10419,"","","","level_ground",0,"place-fenwy",1
+"70160","70160","Riverside","Riverside - Green Line - Park Street & North","","Park Street & North",42.337197,-71.252108,"","","","level_1_platform",0,"place-river",1
+"70161","70161","Riverside","Riverside - Green Line - Exit Only","","Exit Only",42.337268,-71.252113,"","","","level_1_platform",0,"place-river",1
+"70162","70162","Woodland","Woodland - Green Line - Park Street & North","","Park Street & North",42.332767,-71.243209,"","","","level_ground",0,"place-woodl",1
+"70163","70163","Woodland","Woodland - Green Line - (D) Riverside","","Riverside",42.33303,-71.243537,"","","","level_ground",0,"place-woodl",1
+"70164","70164","Waban","Waban - Green Line - Park Street & North","","Park Street & North",42.325504,-71.230219,"","","","level_ground",0,"place-waban",2
+"70165","70165","Waban","Waban - Green Line - (D) Riverside","","Riverside",42.325861,-71.230566,"","","","level_ground",0,"place-waban",2
+"70166","70166","Eliot","Eliot - Green Line - Park Street & North","","Park Street & North",42.318795,-71.216239,"","","","level_ground",0,"place-eliot",2
+"70167","70167","Eliot","Eliot - Green Line - (D) Riverside","","Riverside",42.319136,-71.216799,"","","","level_ground",0,"place-eliot",2
+"70168","70168","Newton Highlands","Newton Highlands - Green Line - Park Street & North","","Park Street & North",42.322579,-71.205229,"","","","level_ground",0,"place-newtn",1
+"70169","70169","Newton Highlands","Newton Highlands - Green Line - (D) Riverside","","Riverside",42.322501,-71.205457,"","","","level_ground",0,"place-newtn",1
+"70170","70170","Newton Centre","Newton Centre - Green Line - Park Street & North","","Park Street & North",42.329416,-71.192358,"","","","level_ground",0,"place-newto",1
+"70171","70171","Newton Centre","Newton Centre - Green Line - (D) Riverside","","Riverside",42.329483,-71.192385,"","","","level_ground",0,"place-newto",1
+"70172","70172","Chestnut Hill","Chestnut Hill - Green Line - Park Street & North","","Park Street & North",42.326772,-71.164273,"","","","level_ground",0,"place-chhil",2
+"70173","70173","Chestnut Hill","Chestnut Hill - Green Line - (D) Riverside","","Riverside",42.326772,-71.164792,"","","","level_ground",0,"place-chhil",2
+"70174","70174","Reservoir","Reservoir - Green Line - Park Street & North","","Park Street & North",42.335167,-71.147963,"","","","level_-1_platform",0,"place-rsmnl",1
+"70175","70175","Reservoir","Reservoir - Green Line - (D) Riverside","","Riverside",42.335196,-71.148366,"","","","level_-1_platform",0,"place-rsmnl",1
+"70176","70176","Beaconsfield","Beaconsfield - Green Line - Park Street & North","","Park Street & North",42.335646,-71.140211,"","","","level_ground",0,"place-bcnfd",2
+"70177","70177","Beaconsfield","Beaconsfield - Green Line - (D) Riverside","","Riverside",42.335894,-71.140828,"","","","level_ground",0,"place-bcnfd",2
+"70178","70178","Brookline Hills","Brookline Hills - Green Line - Park Street & North","","Park Street & North",42.331246,-71.126518,"","","","level_ground",0,"place-brkhl",1
+"70179","70179","Brookline Hills","Brookline Hills - Green Line - (D) Riverside","","Riverside",42.331373,-71.126882,"","","","level_ground",0,"place-brkhl",1
+"70180","70180","Brookline Village","Brookline Village - Green Line - Park Street & North","","Park Street & North",42.332615,-71.116739,"","","","level_ground",0,"place-bvmnl",1
+"70181","70181","Brookline Village","Brookline Village - Green Line - (D) Riverside","","Riverside",42.332588,-71.116965,"","","","level_ground",0,"place-bvmnl",1
+"70182","70182","Longwood","Longwood - Green Line - Park Street & North","","Park Street & North",42.341731,-71.109856,"","","","level_ground",0,"place-longw",1
+"70183","70183","Longwood","Longwood - Green Line - (D) Riverside","","Riverside",42.341589,-71.110117,"","","","level_ground",0,"place-longw",1
+"70186","70186","Fenway","Fenway - Green Line - Park Street & North","","Park Street & North",42.345272,-71.104392,"","","","level_ground",0,"place-fenwy",1
+"70187","70187","Fenway","Fenway - Green Line - (D) Riverside","","Riverside",42.345088,-71.104843,"","","","level_ground",0,"place-fenwy",1
 "70196","70196","Park Street","Park Street - Green Line - (B) Boston College","2","Boston College",42.35639457,-71.0624242,"","","","level_-1_green_platform",0,"place-pktrm",1
 "70197","70197","Park Street","Park Street - Green Line - (C) Cleveland Circle","1","Cleveland Circle",42.35639457,-71.0624242,"","","","level_-1_green_platform",0,"place-pktrm",1
 "70198","70198","Park Street","Park Street - Green Line - (D) Riverside","2","Riverside",42.35639457,-71.0624242,"","","","level_-1_green_platform",0,"place-pktrm",1
@@ -6469,10 +6474,10 @@
 "70204","70204","Haymarket","Haymarket - Green Line - Copley & West","1","Copley & West",42.363021,-71.05829,"","","","level_-1_green_platform",0,"place-haecl",1
 "70205","70205","North Station","North Station - Green Line - Lechmere","","Lechmere",42.365577,-71.06129,"","","","level_-1_lechmere_platform",0,"place-north",1
 "70206","70206","North Station","North Station - Green Line - Copley & West","","Copley & West",42.365577,-71.06129,"","","","level_-2_low_platform",0,"place-north",1
-"70207","70207","Science Park","Science Park - Green Line - Lechmere","","Lechmere",42.366664,-71.067666,"","","","level_2_platform",0,"place-spmnl",1
-"70208","70208","Science Park","Science Park - Green Line - Copley & West","","Copley & West",42.366664,-71.067666,"","","","level_2_platform",0,"place-spmnl",1
-"70209","70209","Lechmere","Lechmere - Green Line - Exit Only","","Exit Only",42.370952,-71.077007,"","","","level_ground",0,"place-lech",1
-"70210","70210","Lechmere","Lechmere - Green Line - Copley & West","","Copley & West",42.370911,-71.077095,"","","","level_ground",0,"place-lech",1
+"70207","70207","Science Park","Science Park - Green Line - Lechmere","","Lechmere",42.366933,-71.068093,"","","","level_2_platform",0,"place-spmnl",1
+"70208","70208","Science Park","Science Park - Green Line - Copley & West","","Copley & West",42.366609,-71.067636,"","","","level_2_platform",0,"place-spmnl",1
+"70209","70209","Lechmere","Lechmere - Green Line - Exit Only","","Exit Only",42.371141,-71.077298,"","","","level_ground",0,"place-lech",1
+"70210","70210","Lechmere","Lechmere - Green Line - Copley & West","","Copley & West",42.370958,-71.077416,"","","","level_ground",0,"place-lech",1
 "70211","70211","Saint Marys Street","Saint Marys Street - Green Line - (C) Cleveland Circle","","Cleveland Circle",42.345884,-71.107697,"","","","level_median",0,"place-smary",1
 "70212","70212","Saint Marys Street","Saint Marys Street - Green Line - Park Street & North","","Park Street & North",42.346007,-71.107166,"","","","level_median",0,"place-smary",1
 "70213","70213","Hawes Street","Hawes Street - Green Line - (C) Cleveland Circle","","Cleveland Circle",42.344758,-71.111761,"","","","level_median",0,"place-hwsst",2
@@ -6520,23 +6525,23 @@
 "70257","70257","Back of the Hill","Back of the Hill - Green Line - (E) Heath Street","","Heath Street",42.329369,-71.111046,"","","","level_in_street",0,"place-bckhl",2
 "70258","70258","Back of the Hill","Back of the Hill - Green Line - Park Street & North","","Park Street & North",42.329399,-71.110931,"","","","level_in_street",0,"place-bckhl",2
 "70260","70260","Heath Street","Heath Street - Green Line","","Green Line",42.328316,-71.110252,"","","","level_ground",0,"place-hsmnl",1
-"70261","70261","Ashmont","Ashmont - Mattapan Trolley","","Mattapan Trolley",42.284095,-71.063302,"","","","level_ground",0,"place-asmnl",1
-"70263","70263","Cedar Grove","Cedar Grove - Mattapan Trolley - Mattapan","","Mattapan",42.27968,-71.060434,"","","","level_ground",0,"place-cedgr",1
-"70264","70264","Cedar Grove","Cedar Grove - Mattapan Trolley - Ashmont","","Ashmont",42.279692,-71.060382,"","","","level_ground",0,"place-cedgr",1
-"70265","70265","Butler","Butler - Mattapan Trolley - Mattapan","","Mattapan",42.272343,-71.062585,"","","","level_ground",0,"place-butlr",1
-"70266","70266","Butler","Butler - Mattapan Trolley - Ashmont","","Ashmont",42.272291,-71.0625,"","","","level_ground",0,"place-butlr",1
-"70267","70267","Milton","Milton - Mattapan Trolley - Mattapan","","Mattapan",42.270305,-71.067674,"","","","level_ground",0,"place-miltt",1
-"70268","70268","Milton","Milton - Mattapan Trolley - Ashmont","","Ashmont",42.270275,-71.067666,"","","","level_ground",0,"place-miltt",1
-"70269","70269","Central Avenue","Central Avenue - Mattapan Trolley - Mattapan","","Mattapan",42.270027,-71.073337,"","","","level_ground",0,"place-cenav",1
-"70270","70270","Central Avenue","Central Avenue - Mattapan Trolley - Ashmont","","Ashmont",42.26997,-71.073308,"","","","level_ground",0,"place-cenav",1
-"70271","70271","Valley Road","Valley Road - Mattapan Trolley - Mattapan","","Mattapan",42.268322,-71.081568,"","","","level_ground",0,"place-valrd",2
-"70272","70272","Valley Road","Valley Road - Mattapan Trolley - Ashmont","","Ashmont",42.268277,-71.081544,"","","","level_ground",0,"place-valrd",2
-"70273","70273","Capen Street","Capen Street - Mattapan Trolley - Mattapan","","Mattapan",42.267712,-71.087751,"","","","level_ground",0,"place-capst",1
-"70274","70274","Capen Street","Capen Street - Mattapan Trolley - Ashmont","","Ashmont",42.267562,-71.087428,"","","","level_ground",0,"place-capst",1
-"70275","70275","Mattapan","Mattapan - Mattapan Trolley - Exit Only","","Exit Only",42.267528,-71.09205,"","","","level_ground",0,"place-matt",1
-"70276","70276","Mattapan","Mattapan - Mattapan Trolley - Ashmont","","Ashmont",42.267498,-71.091983,"","","","level_ground",0,"place-matt",1
-"70278","70278","Assembly","Assembly - Orange Line - Forest Hills","","Forest Hills",42.392811,-71.077257,"","","","level_0_platform",0,"place-astao",1
-"70279","70279","Assembly","Assembly - Orange Line - Oak Grove","","Oak Grove",42.392811,-71.077257,"","","","level_0_platform",0,"place-astao",1
+"70261","70261","Ashmont","Ashmont - Mattapan Trolley","","Mattapan Trolley",42.283727,-71.063159,"","","","level_ground",0,"place-asmnl",1
+"70263","70263","Cedar Grove","Cedar Grove - Mattapan Trolley - Mattapan","","Mattapan",42.279558,-71.060412,"","","","level_ground",0,"place-cedgr",1
+"70264","70264","Cedar Grove","Cedar Grove - Mattapan Trolley - Ashmont","","Ashmont",42.279609,-71.060344,"","","","level_ground",0,"place-cedgr",1
+"70265","70265","Butler","Butler - Mattapan Trolley - Mattapan","","Mattapan",42.272429,-71.062531,"","","","level_ground",0,"place-butlr",1
+"70266","70266","Butler","Butler - Mattapan Trolley - Ashmont","","Ashmont",42.272417,-71.062503,"","","","level_ground",0,"place-butlr",1
+"70267","70267","Milton","Milton - Mattapan Trolley - Mattapan","","Mattapan",42.27039,-71.067182,"","","","level_ground",0,"place-miltt",1
+"70268","70268","Milton","Milton - Mattapan Trolley - Ashmont","","Ashmont",42.270298,-71.067381,"","","","level_ground",0,"place-miltt",1
+"70269","70269","Central Avenue","Central Avenue - Mattapan Trolley - Mattapan","","Mattapan",42.270049,-71.073455,"","","","level_ground",0,"place-cenav",1
+"70270","70270","Central Avenue","Central Avenue - Mattapan Trolley - Ashmont","","Ashmont",42.269989,-71.073442,"","","","level_ground",0,"place-cenav",1
+"70271","70271","Valley Road","Valley Road - Mattapan Trolley - Mattapan","","Mattapan",42.268363,-71.08158,"","","","level_ground",0,"place-valrd",2
+"70272","70272","Valley Road","Valley Road - Mattapan Trolley - Ashmont","","Ashmont",42.26834,-71.081382,"","","","level_ground",0,"place-valrd",2
+"70273","70273","Capen Street","Capen Street - Mattapan Trolley - Mattapan","","Mattapan",42.267557,-71.087058,"","","","level_ground",0,"place-capst",1
+"70274","70274","Capen Street","Capen Street - Mattapan Trolley - Ashmont","","Ashmont",42.267594,-71.087481,"","","","level_ground",0,"place-capst",1
+"70275","70275","Mattapan","Mattapan - Mattapan Trolley - Exit Only","","Exit Only",42.267613,-71.092407,"","","","level_ground",0,"place-matt",1
+"70276","70276","Mattapan","Mattapan - Mattapan Trolley - Ashmont","","Ashmont",42.267548,-71.09214,"","","","level_ground",0,"place-matt",1
+"70278","70278","Assembly","Assembly - Orange Line - Forest Hills","","Forest Hills",42.392342,-71.077272,"","","","level_0_platform",0,"place-astao",1
+"70279","70279","Assembly","Assembly - Orange Line - Oak Grove","","Oak Grove",42.392342,-71.077272,"","","","level_0_platform",0,"place-astao",1
 "70618","70618","272 Washington St","","","",42.25058,-71.170267,"","","","",0,"",0
 "70619","70619","Washington St @ Dean Ave","","","",42.221195,-71.187628,"","","","",0,"",0
 "70620","70620","Washington St @ Loring St","","","",42.226905,-71.186426,"","","","",0,"",0
@@ -6846,11 +6851,11 @@
 "74611","74611","South Station","South Station - Silver Line - Airport/Design Center/Chelsea","","Airport/Design Center/Chelsea",42.352271,-71.055242,"","","","level_-2_silver_platform",0,"place-sstat",1
 "74612","74612","Courthouse","Courthouse - Silver Line - Airport/Design Center/Chelsea","","Airport/Design Center/Chelsea",42.35245,-71.04685,"","","","level_-2_platform",0,"place-crtst",1
 "74613","74613","World Trade Center","World Trade Center - Silver Line - Airport/Design Center/Chelsea","","Airport/Design Center/Chelsea",42.34863,-71.04246,"","","","level_-1_platform",0,"place-wtcst",1
-"74614","74614","Silver Line Way before Manulife Building","Silver Line Way before Manulife Building - Silver Line - South Station","","South Station",42.347188,-71.038846,"","","","level_in_street",0,"",1
+"74614","74614","Silver Line Way before Manulife Building","Silver Line Way before Manulife Building - Silver Line - South Station","","South Station",42.347188,-71.038846,"Silver Line Way and Starboard Way, Boston, MA 02210","","","level_in_street",0,"",1
 "74615","74615","World Trade Center","World Trade Center - Silver Line - South Station","","South Station",42.34863,-71.04246,"","","","level_-1_platform",0,"place-wtcst",1
 "74616","74616","Courthouse","Courthouse - Silver Line - South Station","","South Station",42.35245,-71.04685,"","","","level_-2_platform",0,"place-crtst",1
 "74617","74617","South Station","South Station - Silver Line - Exit Only","","Exit Only",42.352271,-71.055242,"","","","level_-2_silver_platform",0,"place-sstat",1
-"74624","74624","Silver Line Way after Manulife Building","Silver Line Way after Manulife Building - Silver Line - Airport/Design Center/Chelsea","","Airport/Design Center/Chelsea",42.347056,-71.038814,"","","","level_in_street",0,"",1
+"74624","74624","Silver Line Way after Manulife Building","Silver Line Way after Manulife Building - Silver Line - Airport/Design Center/Chelsea","","Airport/Design Center/Chelsea",42.347056,-71.038814,"Silver Line Way and Starboard Way, Boston, MA 02210","","","level_in_street",0,"",1
 "74630","74630","Chelsea","Chelsea - Silver Line - SL3 South Station","","South Station",42.396661,-71.04029,"","","","level_ground",0,"place-chels",1
 "74631","74631","Chelsea","Chelsea - Silver Line - Exit Only","","Exit Only",42.39682,-71.040437,"","","","level_ground",0,"place-chels",1
 "74632","74632","Bellingham Square","Bellingham Square - Silver Line - SL3 South Station","","South Station",42.395328,-71.033291,"","","","level_ground",0,"place-belsq",1
@@ -8089,7 +8094,7 @@
 "8975","8975","River St @ Solaris Rd","","","",42.243093,-71.143229,"","","","",0,"",0
 "899","899","Kenmore","Kenmore - Busway","","Busway",42.348927,-71.09583,"","","","level_ground",0,"place-kencl",0
 "8993","8993","Brookline Ave opp Newbury St","","","",42.348062,-71.097773,"","","","",0,"",0
-"900","900","Watertown Yard","","","",42.364307,-71.185703,"","","","",0,"",1
+"900","900","Watertown Yard","","","",42.364307,-71.185703,"20 Watertown St, Watertown, MA 02472","","","",0,"",1
 "9000","9000","Sylvan St @ Kimball St","","","",42.439874,-71.054012,"","","","",0,"",0
 "9001","9001","Sylvan St @ Blantyre Rd","","","",42.439418,-71.051859,"","","","",0,"",0
 "9002","9002","Sylvan St @ Gilbert St","","","",42.439347,-71.050522,"","","","",0,"",0
@@ -8497,133 +8502,133 @@
 "9983","9983","Stuart St @ Charles St S","","","",42.351039,-71.066798,"","","","",0,"",1
 "99832","99832","245 Washington St","","","",42.251984,-71.168849,"","","","",0,"",0
 "99991","99991","South St @ Bardwell St","","","",42.308378,-71.115619,"","","","",0,"",1
-"place-alfcl","","Alewife","","","",42.395428,-71.142483,"","","","",1,"",1
-"place-alsgr","","Allston Street","","","",42.348701,-71.137955,"","","","",1,"",2
-"place-andrw","","Andrew","","","",42.330154,-71.057655,"","","","",1,"",1
-"place-aport","","Airport","","","",42.374262,-71.030395,"","","","",1,"",1
-"place-aqucl","","Aquarium","","","",42.359784,-71.051652,"","","","",1,"",1
-"place-armnl","","Arlington","","","",42.351902,-71.070893,"","","","",1,"",1
-"place-asmnl","","Ashmont","","","",42.284652,-71.064489,"","","","",1,"",1
-"place-astao","","Assembly","","","",42.392811,-71.077257,"","","","",1,"",1
-"place-babck","","Babcock Street","","","",42.35182,-71.12165,"","","","",1,"",2
-"place-bbsta","","Back Bay","","","",42.34735,-71.075727,"","","","",1,"",1
-"place-bckhl","","Back of the Hill","","","",42.330139,-71.111313,"","","","",1,"",2
-"place-bcnfd","","Beaconsfield","","","",42.335846,-71.140823,"","","","",1,"",2
-"place-bcnwa","","Washington Square","","","",42.339394,-71.13533,"","","","",1,"",1
+"place-alfcl","","Alewife","","","",42.395428,-71.142483,"Alewife Brook Pkwy and Cambridge Park Dr, Cambridge, MA 02140","","","",1,"",1
+"place-alsgr","","Allston Street","","","",42.348701,-71.137955,"Allston St and Commonwealth Ave, Boston, MA 02134","","","",1,"",2
+"place-andrw","","Andrew","","","",42.330154,-71.057655,"Dorchester Ave and Southhampton St, South Boston, MA 02127","","","",1,"",1
+"place-aport","","Airport","","","",42.374262,-71.030395,"Transportation Way and Service Rd, Boston, MA 02128","","","",1,"",1
+"place-aqucl","","Aquarium","","","",42.359784,-71.051652,"Atlantic Ave and State St, Boston, MA 02120","","","",1,"",1
+"place-armnl","","Arlington","","","",42.351902,-71.070893,"Arlington St and Boylston St, Boston, MA 02116","","","",1,"",1
+"place-asmnl","","Ashmont","","","",42.284652,-71.064489,"Dorchester Ave and Ashmont St, Boston, MA 02124","","","",1,"",1
+"place-astao","","Assembly","","","",42.392811,-71.077257,"499 Foley St, Somerville, MA 02145","","","",1,"",1
+"place-babck","","Babcock Street","","","",42.35182,-71.12165,"Commonwealth Ave and Babcock St, Boston, MA 02215","","","",1,"",2
+"place-bbsta","","Back Bay","","","",42.34735,-71.075727,"145 Dartmouth St Boston, MA 02116","","","",1,"",1
+"place-bckhl","","Back of the Hill","","","",42.330139,-71.111313,"100 S Huntington Ave, Boston, MA 02130","","","",1,"",2
+"place-bcnfd","","Beaconsfield","","","",42.335846,-71.140823,"124 Beaconsfield Rd, Brookline, MA 02445","","","",1,"",2
+"place-bcnwa","","Washington Square","","","",42.339394,-71.13533,"Beacon St and Washington St, Brookline, MA","","","",1,"",1
 "place-belsq","","Bellingham Square","","","",42.395438,-71.033884,"","","","",1,"",1
-"place-bland","","Blandford Street","","","",42.349293,-71.100258,"","","","",1,"",2
-"place-bmmnl","","Beachmont","","","",42.39754234,-70.99231944,"","","","",1,"",1
-"place-bndhl","","Brandon Hall","","","",42.340023,-71.129082,"","","","",1,"",2
-"place-bomnl","","Bowdoin","","","",42.361365,-71.062037,"","","","",1,"",2
+"place-bland","","Blandford Street","","","",42.349293,-71.100258,"Commonwealth Ave and Blandford Mall, Boston, MA 02215","","","",1,"",2
+"place-bmmnl","","Beachmont","","","",42.39754234,-70.99231944,"630 Winthrop Ave, Revere, MA 02151","","","",1,"",1
+"place-bndhl","","Brandon Hall","","","",42.340023,-71.129082,"1481 Beacon Street, Brookline, MA","","","",1,"",2
+"place-bomnl","","Bowdoin","","","",42.361365,-71.062037,"Cambridge St and New Chardon St/Bowdoin St, Boston, MA 02114","","","",1,"",2
 "place-boxdt","","Box District","","","",42.394049,-71.028365,"","","","",1,"",1
-"place-boyls","","Boylston","","","",42.35302,-71.06459,"","","","",1,"",2
-"place-brdwy","","Broadway","","","",42.342622,-71.056967,"","","","",1,"",1
-"place-brico","","Packards Corner","","","",42.351967,-71.125031,"","","","",1,"",2
-"place-brkhl","","Brookline Hills","","","",42.331333,-71.126999,"","","","",1,"",1
-"place-brmnl","","Brigham Circle","","","",42.334229,-71.104609,"","","","",1,"",1
-"place-brntn","","Braintree","","","",42.2078543,-71.0011385,"","","","",1,"",1
-"place-bucen","","Boston University Central","","","",42.350082,-71.106865,"","","","",1,"",1
-"place-buest","","Boston University East","","","",42.349735,-71.103889,"","","","",1,"",1
-"place-butlr","","Butler","","","",42.272343,-71.062584,"","","","",1,"",1
-"place-buwst","","Boston University West","","","",42.350941,-71.113876,"","","","",1,"",2
-"place-bvmnl","","Brookline Village","","","",42.332774,-71.116296,"","","","",1,"",1
-"place-capst","","Capen Street","","","",42.267712,-71.087753,"","","","",1,"",1
-"place-ccmnl","","Community College","","","",42.373622,-71.069533,"","","","",1,"",1
-"place-cedgr","","Cedar Grove","","","",42.279682,-71.060432,"","","","",1,"",1
-"place-cenav","","Central Avenue","","","",42.270027,-71.073334,"","","","",1,"",1
+"place-boyls","","Boylston","","","",42.35302,-71.06459,"Boylston St and Tremont St, Boston, MA","","","",1,"",2
+"place-brdwy","","Broadway","","","",42.342622,-71.056967,"Dorchester Ave and Broadway, Boston, MA","","","",1,"",1
+"place-brico","","Packards Corner","","","",42.351967,-71.125031,"Commonwealth Ave and Brighton Ave, Boston, MA, 02215","","","",1,"",2
+"place-brkhl","","Brookline Hills","","","",42.331333,-71.126999,"Tappan St and Cypress St, Brookline, MA 02445","","","",1,"",1
+"place-brmnl","","Brigham Circle","","","",42.334229,-71.104609,"Huntington Ave and Francis St, Boston, MA","","","",1,"",1
+"place-brntn","","Braintree","","","",42.2078543,-71.0011385,"197 Ivory St, Braintree, MA 02184","","","",1,"",1
+"place-bucen","","Boston University Central","","","",42.350082,-71.106865,"Commonwealth Ave and Marsh Chapel, Boston, MA 02215","","","",1,"",1
+"place-buest","","Boston University East","","","",42.349735,-71.103889,"Commonwealth Ave and Granby St, Boston, MA 02215","","","",1,"",1
+"place-butlr","","Butler","","","",42.272343,-71.062584,"Butler St and Branchfield St, Dorchester, MA 02124","","","",1,"",1
+"place-buwst","","Boston University West","","","",42.350941,-71.113876,"Commonwealth Ave and Amory St, Boston, MA 02215","","","",1,"",2
+"place-bvmnl","","Brookline Village","","","",42.332774,-71.116296,"31 Station Street, Brookline, MA 02445","","","",1,"",1
+"place-capst","","Capen Street","","","",42.267712,-71.087753,"50 Capen St, Milton, MA 02186","","","",1,"",1
+"place-ccmnl","","Community College","","","",42.373622,-71.069533,"Austin St and Rutherford Ave, Charlestown, MA","","","",1,"",1
+"place-cedgr","","Cedar Grove","","","",42.279682,-71.060432,"Fellsway St and Milton St, Dorchester, MA 02124","","","",1,"",1
+"place-cenav","","Central Avenue","","","",42.270027,-71.073334,"23 Central Ave, Milton, MA 02186","","","",1,"",1
 "place-chels","","Chelsea","","","",42.397071,-71.042102,"","","","",1,"",1
-"place-chhil","","Chestnut Hill","","","",42.326653,-71.165314,"","","","",1,"",2
-"place-chill","","Chestnut Hill Avenue","","","",42.338169,-71.15316,"","","","",1,"",2
-"place-chmnl","","Charles/MGH","","","",42.361166,-71.070628,"","","","",1,"",1
-"place-chncl","","Chinatown","","","",42.352547,-71.062752,"","","","",1,"",1
-"place-chswk","","Chiswick Road","","","",42.340805,-71.150711,"","","","",1,"",2
-"place-clmnl","","Cleveland Circle","","","",42.336142,-71.149326,"","","","",1,"",1
-"place-cntsq","","Central","","","",42.365486,-71.103802,"","","","",1,"",1
-"place-coecl","","Copley","","","",42.349974,-71.077447,"","","","",1,"",1
-"place-cool","","Coolidge Corner","","","",42.342116,-71.121263,"","","","",1,"",1
-"place-crtst","","Courthouse","","","",42.35245,-71.04685,"","","","",1,"",1
-"place-davis","","Davis","","","",42.39674,-71.121815,"","","","",1,"",1
-"place-denrd","","Dean Road","","","",42.337807,-71.141853,"","","","",1,"",2
-"place-dwnxg","","Downtown Crossing","","","",42.355518000000004,-71.060225,"","","","",1,"",1
-"place-eliot","","Eliot","","","",42.319023,-71.216713,"","","","",1,"",2
-"place-engav","","Englewood Avenue","","","",42.336971,-71.14566,"","","","",1,"",2
+"place-chhil","","Chestnut Hill","","","",42.326653,-71.165314,"Hammond St and Chestnut Hill Rd, Newton, MA 02467","","","",1,"",2
+"place-chill","","Chestnut Hill Avenue","","","",42.338169,-71.15316,"Commonwealth Ave and Chestnut Hill Ave, Boston, MA","","","",1,"",2
+"place-chmnl","","Charles/MGH","","","",42.361166,-71.070628,"Cambridge St and Charles St, Boston, MA","","","",1,"",1
+"place-chncl","","Chinatown","","","",42.352547,-71.062752,"Washington Street and Boylston Street, Boston, MA","","","",1,"",1
+"place-chswk","","Chiswick Road","","","",42.340805,-71.150711,"Commonwealth Ave and Chiswick Rd, Boston, MA","","","",1,"",2
+"place-clmnl","","Cleveland Circle","","","",42.336142,-71.149326,"Beacon St and Chestnut Hill Ave, Brighton, MA","","","",1,"",1
+"place-cntsq","","Central","","","",42.365486,-71.103802,"Massachusetts Avenue and Prospect Street, Cambridge, MA 02139","","","",1,"",1
+"place-coecl","","Copley","","","",42.349974,-71.077447,"Boylston St and Dartmouth St, Boston, MA","","","",1,"",1
+"place-cool","","Coolidge Corner","","","",42.342116,-71.121263,"Beacon St and Harvard St, Brookline, MA","","","",1,"",1
+"place-crtst","","Courthouse","","","",42.35245,-71.04685,"Seaport Blvd and Pittsburg St, Boston, MA","","","",1,"",1
+"place-davis","","Davis","","","",42.39674,-71.121815,"College Ave and Elm St, Somerville, MA","","","",1,"",1
+"place-denrd","","Dean Road","","","",42.337807,-71.141853,"Beacon St and Dean Rd, Brookline, MA","","","",1,"",2
+"place-dwnxg","","Downtown Crossing","","","",42.355518000000004,-71.060225,"Washington St and Summer St, Boston, MA","","","",1,"",1
+"place-eliot","","Eliot","","","",42.319023,-71.216713,"248 Lincoln St, Newton, MA 02461","","","",1,"",2
+"place-engav","","Englewood Avenue","","","",42.336971,-71.14566,"Beacon St and Englewood Ave, Brookline, MA","","","",1,"",2
 "place-estav","","Eastern Avenue","","","",42.388374,-71.023859,"","","","",1,"",1
-"place-fbkst","","Fairbanks Street","","","",42.339725,-71.131073,"","","","",1,"",2
-"place-fenwd","","Fenwood Road","","","",42.333706,-71.105728,"","","","",1,"",2
-"place-fenwy","","Fenway","","","",42.345394,-71.104187,"","","","",1,"",1
-"place-fldcr","","Fields Corner","","","",42.300093,-71.061667,"","","","",1,"",1
-"place-forhl","","Forest Hills","","","",42.300523,-71.113686,"","","","",1,"",1
-"place-gover","","Government Center","","","",42.359705,-71.059215,"","","","",1,"",1
-"place-grigg","","Griggs Street","","","",42.348545,-71.134949,"","","","",1,"",2
-"place-grnst","","Green Street","","","",42.310525,-71.107414,"","","","",1,"",1
-"place-haecl","","Haymarket","","","",42.363021,-71.05829,"","","","",1,"",1
-"place-harsq","","Harvard","","","",42.373362,-71.118956,"","","","",1,"",1
-"place-harvd","","Harvard Avenue","","","",42.350243,-71.131355,"","","","",1,"",1
-"place-hsmnl","","Heath Street","","","",42.328316,-71.110252,"","","","",1,"",1
-"place-hwsst","","Hawes Street","","","",42.344906,-71.111145,"","","","",1,"",2
-"place-hymnl","","Hynes Convention Center","","","",42.347888,-71.087903,"","","","",1,"",2
-"place-jaksn","","Jackson Square","","","",42.323132,-71.099592,"","","","",1,"",1
-"place-jfk","","JFK/UMass","","","",42.320685,-71.052391,"","","","",1,"",1
-"place-kencl","","Kenmore","","","",42.348949,-71.095169,"","","","",1,"",1
-"place-knncl","","Kendall/MIT","","","",42.36249079,-71.08617653,"","","","",1,"",1
-"place-kntst","","Kent Street","","","",42.344074,-71.114197,"","","","",1,"",2
-"place-lake","","Boston College","","","",42.340081,-71.166769,"","","","",1,"",1
-"place-lech","","Lechmere","","","",42.370772,-71.076536,"","","","",1,"",1
-"place-lngmd","","Longwood Medical Area","","","",42.33596,-71.100052,"","","","",1,"",1
-"place-longw","","Longwood","","","",42.341145,-71.110451,"","","","",1,"",1
-"place-masta","","Massachusetts Avenue","","","",42.341512,-71.083423,"","","","",1,"",1
-"place-matt","","Mattapan","","","",42.267762,-71.092241,"","","","",1,"",1
-"place-mfa","","Museum of Fine Arts","","","",42.337711,-71.095512,"","","","",1,"",1
-"place-miltt","","Milton","","","",42.270306,-71.067673,"","","","",1,"",1
-"place-mispk","","Mission Park","","","",42.333195,-71.109756,"","","","",1,"",2
-"place-mlmnl","","Malden Center","","","",42.426632,-71.07411,"","","","",1,"",1
-"place-mvbcl","","Maverick","","","",42.36911856,-71.03952958,"","","","",1,"",1
-"place-newtn","","Newton Highlands","","","",42.321735,-71.206116,"","","","",1,"",1
-"place-newto","","Newton Centre","","","",42.329391,-71.192429,"","","","",1,"",1
-"place-north","","North Station","","","",42.365577,-71.06129,"","","","",1,"",1
-"place-nqncy","","North Quincy","","","",42.275275,-71.029583,"","","","",1,"",1
-"place-nuniv","","Northeastern University","","","",42.340401,-71.088806,"","","","",1,"",1
-"place-ogmnl","","Oak Grove","","","",42.43668,-71.071097,"","","","",1,"",1
-"place-orhte","","Orient Heights","","","",42.386867,-71.004736,"","","","",1,"",1
-"place-pktrm","","Park Street","","","",42.35639457,-71.0624242,"","","","",1,"",1
-"place-plsgr","","Pleasant Street","","","",42.351521,-71.118889,"","","","",1,"",2
-"place-portr","","Porter","","","",42.3884,-71.119149,"","","","",1,"",1
-"place-prmnl","","Prudential","","","",42.34557,-71.081696,"","","","",1,"",1
-"place-qamnl","","Quincy Adams","","","",42.233391,-71.007153,"","","","",1,"",1
-"place-qnctr","","Quincy Center","","","",42.251809,-71.005409,"","","","",1,"",1
-"place-rbmnl","","Revere Beach","","","",42.40784254,-70.99253321,"","","","",1,"",1
-"place-rcmnl","","Roxbury Crossing","","","",42.331397,-71.095451,"","","","",1,"",1
-"place-river","","Riverside","","","",42.337059,-71.251742,"","","","",1,"",1
-"place-rsmnl","","Reservoir","","","",42.335027,-71.148952,"","","","",1,"",1
-"place-rugg","","Ruggles","","","",42.336377,-71.088961,"","","","",1,"",1
-"place-rvrwy","","Riverway","","","",42.331684,-71.111931,"","","","",1,"",2
-"place-sbmnl","","Stony Brook","","","",42.317062,-71.104248,"","","","",1,"",1
-"place-sdmnl","","Suffolk Downs","","","",42.39050067,-70.99712259,"","","","",1,"",1
-"place-shmnl","","Savin Hill","","","",42.31129,-71.053331,"","","","",1,"",1
-"place-smary","","Saint Marys Street","","","",42.345974,-71.107353,"","","","",1,"",1
-"place-smmnl","","Shawmut","","","",42.29312583,-71.06573796,"","","","",1,"",1
+"place-fbkst","","Fairbanks Street","","","",42.339725,-71.131073,"Beacon St and Fairbanks Ave, Brookline, MA","","","",1,"",2
+"place-fenwd","","Fenwood Road","","","",42.333706,-71.105728,"Huntington Ave and Fenwood Rd, Boston, MA","","","",1,"",2
+"place-fenwy","","Fenway","","","",42.345394,-71.104187,"411 Park Dr, Boston, MA 02215","","","",1,"",1
+"place-fldcr","","Fields Corner","","","",42.300093,-71.061667,"50 Freeman St, Dorchester, MA 02122","","","",1,"",1
+"place-forhl","","Forest Hills","","","",42.300523,-71.113686,"Washington St and Hyde Park Ave, Jamaica Plain, MA 02130","","","",1,"",1
+"place-gover","","Government Center","","","",42.359705,-71.059215,"Cambridge St and Court St, Boston, MA","","","",1,"",1
+"place-grigg","","Griggs Street","","","",42.348545,-71.134949,"Commonwealth Ave and Griggs St, Boston, MA","","","",1,"",2
+"place-grnst","","Green Street","","","",42.310525,-71.107414,"150 Green St, Jamaica Plain, MA","","","",1,"",1
+"place-haecl","","Haymarket","","","",42.363021,-71.05829,"136 Blackstone St, Boston, MA 02109","","","",1,"",1
+"place-harsq","","Harvard","","","",42.373362,-71.118956,"1400 Massachusetts Ave, Cambridge, MA","","","",1,"",1
+"place-harvd","","Harvard Avenue","","","",42.350243,-71.131355,"Commonwealth Ave and Harvard Ave, Boston, MA","","","",1,"",1
+"place-hsmnl","","Heath Street","","","",42.328316,-71.110252,"Heath St and South Huntington Ave, Boston, MA","","","",1,"",1
+"place-hwsst","","Hawes Street","","","",42.344906,-71.111145,"Beacon St and Hawes St, Brookline, MA","","","",1,"",2
+"place-hymnl","","Hynes Convention Center","","","",42.347888,-71.087903,"100 Massachusetts Ave, Boston, MA","","","",1,"",2
+"place-jaksn","","Jackson Square","","","",42.323132,-71.099592,"1500 Columbus Ave, Jamaica Plain, MA","","","",1,"",1
+"place-jfk","","JFK/UMass","","","",42.320685,-71.052391,"599 Old Colony Ave Boston, MA 02127-3805","","","",1,"",1
+"place-kencl","","Kenmore","","","",42.348949,-71.095169,"Commonwealth Ave and Kenmore St, Boston, MA 02215","","","",1,"",1
+"place-knncl","","Kendall/MIT","","","",42.36249079,-71.08617653,"300 Main St, Cambridge, MA 02142","","","",1,"",1
+"place-kntst","","Kent Street","","","",42.344074,-71.114197,"Beacon St and Powell St, Brookline, MA","","","",1,"",2
+"place-lake","","Boston College","","","",42.340081,-71.166769,"Commonwealth Ave and Lake St, Boston, MA 02135","","","",1,"",1
+"place-lech","","Lechmere","","","",42.370772,-71.076536,"Cambridge St and O'Brien Hwy, Cambridge, MA 02141","","","",1,"",1
+"place-lngmd","","Longwood Medical Area","","","",42.33596,-71.100052,"Huntington Ave and Longwood Ave, Boston, MA, 02115","","","",1,"",1
+"place-longw","","Longwood","","","",42.341145,-71.110451,"30 Chapel St, Brookline, MA, 02446","","","",1,"",1
+"place-masta","","Massachusetts Avenue","","","",42.341512,-71.083423,"393 Massachusetts Ave, Boston, MA 02118","","","",1,"",1
+"place-matt","","Mattapan","","","",42.267762,-71.092241,"500 River St, Boston, MA 02126","","","",1,"",1
+"place-mfa","","Museum of Fine Arts","","","",42.337711,-71.095512,"Huntington Ave and Ruggles St, Boston, MA","","","",1,"",1
+"place-miltt","","Milton","","","",42.270306,-71.067673,"1 Adams St, Milton, MA 02186","","","",1,"",1
+"place-mispk","","Mission Park","","","",42.333195,-71.109756,"Huntington Ave and Mission Park Dr, Boston, MA 02115","","","",1,"",2
+"place-mlmnl","","Malden Center","","","",42.426632,-71.07411,"Commercial St and Pleasant St, Malden, MA 02148","","","",1,"",1
+"place-mvbcl","","Maverick","","","",42.36911856,-71.03952958,"Sumner St and Maverick Sq, East Boston, MA","","","",1,"",1
+"place-newtn","","Newton Highlands","","","",42.321735,-71.206116,"60 Station Avenue, Newton, MA 02461","","","",1,"",1
+"place-newto","","Newton Centre","","","",42.329391,-71.192429,"72 Union Street, Newton, MA 02459","","","",1,"",1
+"place-north","","North Station","","","",42.365577,-71.06129,"135 Causeway St, Boston MA 02114","","","",1,"",1
+"place-nqncy","","North Quincy","","","",42.275275,-71.029583,"Hancock St and Hunt St, Quincy, MA 02171","","","",1,"",1
+"place-nuniv","","Northeastern University","","","",42.340401,-71.088806,"Huntington Ave and Opera Pl, Boston, MA, 02115","","","",1,"",1
+"place-ogmnl","","Oak Grove","","","",42.43668,-71.071097,"Washington St at Winter St, Malden, MA 02148","","","",1,"",1
+"place-orhte","","Orient Heights","","","",42.386867,-71.004736,"1000 Bennington St, East Boston, MA 02128","","","",1,"",1
+"place-pktrm","","Park Street","","","",42.35639457,-71.0624242,"Tremont St and Winter St, Boston, MA 02108","","","",1,"",1
+"place-plsgr","","Pleasant Street","","","",42.351521,-71.118889,"Commonwealth Ave and Pleasant St, Boston, MA 02215","","","",1,"",2
+"place-portr","","Porter","","","",42.3884,-71.119149,"1899 Massachusetts Ave, Cambridge, MA 02140","","","",1,"",1
+"place-prmnl","","Prudential","","","",42.34557,-71.081696,"Huntington Ave and Belvidere St, Boston, MA 02199","","","",1,"",1
+"place-qamnl","","Quincy Adams","","","",42.233391,-71.007153,"Burgin Pkwy and Centre St, Quincy, MA 02169","","","",1,"",1
+"place-qnctr","","Quincy Center","","","",42.251809,-71.005409,"175 Thomas E Burgin Pkwy, Quincy, MA 02169","","","",1,"",1
+"place-rbmnl","","Revere Beach","","","",42.40784254,-70.99253321,"220 Shirley Ave, Revere, MA","","","",1,"",1
+"place-rcmnl","","Roxbury Crossing","","","",42.331397,-71.095451,"1400 Tremont St, Roxbury, MA","","","",1,"",1
+"place-river","","Riverside","","","",42.337059,-71.251742,"367 Grove St, Newton, MA 02466","","","",1,"",1
+"place-rsmnl","","Reservoir","","","",42.335027,-71.148952,"401 Chestnut Hill Ave, Brookline, MA, 02445","","","",1,"",1
+"place-rugg","","Ruggles","","","",42.336377,-71.088961,"1150 Tremont St, Roxbury, MA 02120","","","",1,"",1
+"place-rvrwy","","Riverway","","","",42.331684,-71.111931,"S Huntington Ave at Huntington Ave, Boston","","","",1,"",2
+"place-sbmnl","","Stony Brook","","","",42.317062,-71.104248,"100 Boylston St, Jamaica Plain, MA","","","",1,"",1
+"place-sdmnl","","Suffolk Downs","","","",42.39050067,-70.99712259,"1230 Bennington St, East Boston, MA 02128","","","",1,"",1
+"place-shmnl","","Savin Hill","","","",42.31129,-71.053331,"125 Savin Hill Ave, Dorchester, MA 02124","","","",1,"",1
+"place-smary","","Saint Marys Street","","","",42.345974,-71.107353,"Beacon St and Saint Mary's St, Boston, MA","","","",1,"",1
+"place-smmnl","","Shawmut","","","",42.29312583,-71.06573796,"Dayton St and Clementine Park, Dorchester, MA 02124","","","",1,"",1
 "place-sougr","","South Street","","","",42.3396,-71.157661,"","","","",1,"",2
-"place-spmnl","","Science Park","","","",42.366664,-71.067666,"","","","",1,"",1
-"place-sstat","","South Station","","","",42.352271,-71.055242,"","","","",1,"",1
-"place-state","","State Street","","","",42.358978,-71.057598,"","","","",1,"",1
-"place-sthld","","Sutherland Road","","","",42.341614,-71.146202,"","","","",1,"",2
+"place-spmnl","","Science Park","","","",42.366664,-71.067666,"Leverett Circle and Nashua St, Boston, MA 02114","","","",1,"",1
+"place-sstat","","South Station","","","",42.352271,-71.055242,"Atlantic Ave and Summer St, Boston, MA 02110","","","",1,"",1
+"place-state","","State Street","","","",42.358978,-71.057598,"200 Washington St, Boston, MA","","","",1,"",1
+"place-sthld","","Sutherland Road","","","",42.341614,-71.146202,"Commonwealth Ave and Sutherland Rd, Boston, MA","","","",1,"",2
 "place-stplb","","Saint Paul Street","","","",42.3512,-71.116104,"","","","",1,"",2
-"place-stpul","","Saint Paul Street","","","",42.343327,-71.116997,"","","","",1,"",2
-"place-sull","","Sullivan Square","","","",42.383975,-71.076994,"","","","",1,"",1
-"place-sumav","","Summit Avenue","","","",42.34111,-71.12561,"","","","",1,"",2
-"place-symcl","","Symphony","","","",42.342687,-71.085056,"","","","",1,"",2
-"place-tapst","","Tappan Street","","","",42.338459,-71.138702,"","","","",1,"",2
-"place-tumnl","","Tufts Medical Center","","","",42.349662,-71.063917,"","","","",1,"",1
-"place-valrd","","Valley Road","","","",42.268322,-71.081566,"","","","",1,"",2
-"place-waban","","Waban","","","",42.325943,-71.230728,"","","","",1,"",2
-"place-wascm","","Washington Street","","","",42.343864,-71.142853,"","","","",1,"",1
-"place-welln","","Wellington","","","",42.40237,-71.077082,"","","","",1,"",1
-"place-wimnl","","Wood Island","","","",42.3796403,-71.02286539,"","","","",1,"",1
-"place-wlsta","","Wollaston","","","",42.2665139,-71.0203369,"","","","",1,"",2
-"place-wondl","","Wonderland","","","",42.41342,-70.991648,"","","","",1,"",1
-"place-woodl","","Woodland","","","",42.333374,-71.244301,"","","","",1,"",1
-"place-wrnst","","Warren Street","","","",42.348343,-71.140457,"","","","",1,"",2
-"place-wtcst","","World Trade Center","","","",42.34863,-71.04246,"","","","",1,"",1
+"place-stpul","","Saint Paul Street","","","",42.343327,-71.116997,"Commonwealth Ave and Saint Paul St, Boston, MA 02446","","","",1,"",2
+"place-sull","","Sullivan Square","","","",42.383975,-71.076994,"Maffa Way and Cambridge St, Charlestown, MA 02129","","","",1,"",1
+"place-sumav","","Summit Avenue","","","",42.34111,-71.12561,"Beacon St and Summit Ave, Brookline, MA","","","",1,"",2
+"place-symcl","","Symphony","","","",42.342687,-71.085056,"Massachusetts Ave and Huntington Ave, Boston, MA","","","",1,"",2
+"place-tapst","","Tappan Street","","","",42.338459,-71.138702,"Beacon St and Tappan St, Brookline, MA","","","",1,"",2
+"place-tumnl","","Tufts Medical Center","","","",42.349662,-71.063917,"750 Washington St, Boston, MA","","","",1,"",1
+"place-valrd","","Valley Road","","","",42.268322,-71.081566,"291 Valley Rd, Milton, MA 02186","","","",1,"",2
+"place-waban","","Waban","","","",42.325943,-71.230728,"Beacon St and Waban Sq, Newton, MA 02468","","","",1,"",2
+"place-wascm","","Washington Street","","","",42.343864,-71.142853,"Commonwealth Ave and Washington St, Boston, MA","","","",1,"",1
+"place-welln","","Wellington","","","",42.40237,-71.077082,"Revere Beach Pkwy and Rivers Edge Dr, Medford, MA 02155","","","",1,"",1
+"place-wimnl","","Wood Island","","","",42.3796403,-71.02286539,"450 Bennington St, East Boston, MA","","","",1,"",1
+"place-wlsta","","Wollaston","","","",42.2665139,-71.0203369,"90 Woodbine St, Quincy, MA 02171","","","",1,"",2
+"place-wondl","","Wonderland","","","",42.41342,-70.991648,"1300 North Shore Rd, Revere, MA 02151","","","",1,"",1
+"place-woodl","","Woodland","","","",42.333374,-71.244301,"1940 Washington St, Newton, MA 02466","","","",1,"",1
+"place-wrnst","","Warren Street","","","",42.348343,-71.140457,"Commonwealth Ave and Warren St, Boston, MA","","","",1,"",2
+"place-wtcst","","World Trade Center","","","",42.34863,-71.04246,"Congress St and World Trade Center Ave, Boston, MA","","","",1,"",1
 "Boat-Hull","","Hull","","","",42.303251,-70.920215,"180 Main St, Hull, MA 02045","","","",0,"",1
 "Boat-Logan","","Logan Airport","","","",42.359789,-71.02734,"Harborside Dr, East Boston, MA 02128","","","",0,"",1
 "Boat-Long","","Boston (Long Wharf)","","","",42.360018,-71.050247,"Long Wharf, Boston, MA 02110","","","",0,"",1
