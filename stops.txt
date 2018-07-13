@@ -14,6 +14,11 @@
 "9170099","9170099","Newport Ave @ Beale St","","","",42.26502,-71.019245,"","","","",0,"",1
 "9170100","9170100","Wollaston","Newport Ave @ Wollaston Station","","North Quincy Shuttle",42.266771,-71.020771,"","","","",0,"",1
 "9270099","9270099","Beale St @ Wollaston Branch Library","","","",42.266671,-71.017924,"","","","",0,"",1
+"9070002","9070002","Green Street","Amory St @ Green St - Orange Line Forest Hills Shuttle","","Forest Hills Shuttle",42.310334,-71.107185,"","","","",0,"place-grnst",1
+"9070003","9070003","Green Street","Amory St @ Green St - Orange Line Oak Grove Shuttle","","Oak Grove Shuttle",42.310583,-71.10684,"","","","",0,"place-grnst",1
+"9070004","9070004","Stony Brook","Boylston St @ Stony Brook - Orange Line Forest Hills Shuttle","","Forest Hills Shuttle",42.31694,-71.104203,"","","","",0,"place-sbmnl",1
+"9070005","9070005","Stony Brook","Boylston St @ Stony Brook - Orange Line Oak Grove Shuttle","","Oak Grove Shuttle",42.317082,-71.104428,"","","","",0,"place-sbmnl",1
+"9070007","9070007","Jackson Square","Centre St opp Jackson Square Busway - Orange Line Oak Grove Shuttle","","Oak Grove Shuttle",42.322675,-71.099969,"","","","",0,"place-jaksn",1
 "9070107","9070107","Boston College","Boston College - Green Line Shuttle","","Green Line Shuttle",42.34007,-71.166492,"","","","",0,"place-lake",1
 "9070110","9070110","South Street","South Street - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.339278,-71.157041,"","","","",0,"place-sougr",1
 "9070111","9070111","South Street","South Street - Green Line Westbound Shuttle","","Boston College Shuttle",42.339669,-71.157486,"","","","",0,"place-sougr",1
@@ -25,6 +30,17 @@
 "9070117","9070117","Sutherland Road","Sutherland Road - Green Line Westbound Shuttle","","Boston College Shuttle",42.341661,-71.146714,"","","","",0,"place-sthld",1
 "9070120","9070120","Washington Street","Washington Street - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.343972,-71.14252,"","","","",0,"place-wascm",1
 "9070121","9070121","Washington Street","Washington Street - Green Line Westbound Shuttle","","Boston College Shuttle",42.34411,-71.142797,"","","","",0,"place-wascm",1
+"9070124","9070124","Warren Street","Warren Street - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.348432,-71.140169,"","","","",0,"place-wrnst",1
+"9070125","9070125","Warren Street","Warren Street - Green Line Westbound Shuttle","","Boston College Shuttle",42.348444,-71.140537,"","","","",0,"place-wrnst",1
+"9070126","9070126","Allston Street","Allston Street - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.348475,-71.137871,"","","","",0,"place-alsgr",1
+"9070127","9070127","Allston Street","Allston Street - Green Line Westbound Shuttle","","Boston College Shuttle",42.348796,-71.138399,"","","","",0,"place-alsgr",1
+"9070128","9070128","Griggs Street","Griggs Street - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.348687,-71.134238,"","","","",0,"place-grigg",1
+"9070129","9070129","Griggs Street","Griggs Street - Green Line Westbound Shuttle","","Boston College Shuttle",42.348901,-71.134118,"","","","",0,"place-grigg",1
+"9070130","9070130","Harvard Avenue","Harvard Avenue - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.350191,-71.131085,"","","","",0,"place-harvd",1
+"9070131","9070131","Harvard Avenue","Harvard Avenue - Green Line Westbound Shuttle","","Boston College Shuttle",42.35049,-71.130739,"","","","",0,"place-harvd",1
+"9070134","9070134","Packards Corner","Packards Corner - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.351947,-71.124667,"","","","",0,"place-brico",1
+"9070135","9070135","Packards Corner","Packards Corner - Green Line Westbound Shuttle","","Boston College Shuttle",42.351925,-71.124976,"","","","",0,"place-brico",1
+"9070136","9070136","Babcock Street","Babcock Street - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.351755,-71.121428,"","","","",0,"place-babck",1
 "door-qnctr-burgin","","Quincy Center - Burgin Parkway","Quincy Center - Burgin Parkway","","",42.251403,-71.005508,"","","","level_1_in_street",2,"place-qnctr",2
 "door-qnctr-busway","","Quincy Center - Hancock St","Quincy Center - Hancock St","","",42.251586,-71.005003,"","","","level_ground",2,"place-qnctr",1
 "door-mlmnl-pleasant","","Malden Center - Summer St, Pleasant St","Malden Center - Summer St, Pleasant St","","",42.42688,-71.074355,"","","","level_ground",2,"place-mlmnl",1
@@ -335,7 +351,7 @@
 "Hyde Park","","Hyde Park","","","",42.25503,-71.125526,"1 Pingree St, Hyde Park, MA 02136","","","",0,"",1
 "Ipswich","","Ipswich","","","",42.676921,-70.840589,"4 Peatfield St, Ipswich, MA 01938","","","",0,"",1
 "Islington","","Islington","","","",42.22105,-71.183961,"48 Carroll Ave, Westwood, MA 02090","","","",0,"",2
-"JFK/UMASS","","JFK/Umass","JFK/Umass - Commuter Rail","","Commuter Rail",42.321079,-71.052155,"","","","level_0_cr_platform",0,"place-jfk",1
+"JFK/UMASS","","JFK/UMass","JFK/UMass - Commuter Rail","","Commuter Rail",42.321079,-71.052155,"","","","level_0_cr_platform",0,"place-jfk",1
 "Kendal Green","","Kendal Green","","","",42.37897,-71.282411,"198 Church St, Weston, MA","","","",0,"",2
 "Kingston","","Kingston","","","",41.97762,-70.721709,"134 Marion Dr, Kingston, MA 02364","","","",0,"",1
 "Lawrence","","Lawrence","","","",42.701806,-71.15198,"S Union St and Merrimack St, Lawrence, MA 01843","","","",0,"",1
