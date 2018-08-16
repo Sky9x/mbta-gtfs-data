@@ -19,31 +19,11 @@
 "9070004","9070004","Stony Brook","Boylston St @ Stony Brook - Orange Line Forest Hills Shuttle","","Forest Hills Shuttle",42.31694,-71.104203,"","","","",0,"place-sbmnl",1
 "9070005","9070005","Stony Brook","Boylston St @ Stony Brook - Orange Line Oak Grove Shuttle","","Oak Grove Shuttle",42.317082,-71.104428,"","","","",0,"place-sbmnl",1
 "9070007","9070007","Jackson Square","Centre St opp Jackson Square Busway - Orange Line Oak Grove Shuttle","","Oak Grove Shuttle",42.322675,-71.099969,"","","","",0,"place-jaksn",1
+"9070012","9070012","Massachusetts Avenue","Columbus Ave @ Massachusetts Ave - Orange Line Forest Hills Shuttle","","Forest Hills Shuttle",42.340585,-71.081898,"","","","",0,"place-masta",1
+"9070013","9070013","Massachusetts Avenue","Columbus Ave @ Massachusetts Ave - Orange Line Oak Grove Shuttle","","Oak Grove Shuttle",42.340603,-71.081592,"","","","",0,"place-masta",1
 "9170178","9170178","Brookline Hills","Brookline Hills - Green Line Shuttle","","Green Line Shuttle",42.331508,-71.126691,"","","","",0,"place-brkhl",1
 "9070150","9070150","Kenmore","Kenmore - Green Line Eastbound Shuttle","","Green Line Shuttle",42.348712,-71.095526,"","","","",0,"place-kencl",1
 "9070151","9070151","Kenmore","Kenmore - Green Line Westbound Shuttle","","Green Line Shuttle",42.349196,-71.095826,"","","","",0,"place-kencl",1
-"9070107","9070107","Boston College","Boston College - Green Line Shuttle","","Green Line Shuttle",42.34007,-71.166492,"","","","",0,"place-lake",1
-"9070110","9070110","South Street","South Street - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.339278,-71.157041,"","","","",0,"place-sougr",1
-"9070111","9070111","South Street","South Street - Green Line Westbound Shuttle","","Boston College Shuttle",42.339669,-71.157486,"","","","",0,"place-sougr",1
-"9070112","9070112","Chestnut Hill Avenue","Chestnut Hill Avenue - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.338667,-71.152467,"","","","",0,"place-chill",1
-"9070113","9070113","Chestnut Hill Avenue","Chestnut Hill Avenue - Green Line Westbound Shuttle","","Boston College Shuttle",42.338332,-71.153181,"","","","",0,"place-chill",1
-"9070114","9070114","Chiswick Road","Chiswick Road - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.340768,-71.150539,"","","","",0,"place-chswk",1
-"9070115","9070115","Chiswick Road","Chiswick Road - Green Line Westbound Shuttle","","Boston College Shuttle",42.340555,-71.151273,"","","","",0,"place-chswk",1
-"9070116","9070116","Sutherland Road","Sutherland Road - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.341536,-71.145947,"","","","",0,"place-sthld",1
-"9070117","9070117","Sutherland Road","Sutherland Road - Green Line Westbound Shuttle","","Boston College Shuttle",42.341661,-71.146714,"","","","",0,"place-sthld",1
-"9070120","9070120","Washington Street","Washington Street - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.343972,-71.14252,"","","","",0,"place-wascm",1
-"9070121","9070121","Washington Street","Washington Street - Green Line Westbound Shuttle","","Boston College Shuttle",42.34411,-71.142797,"","","","",0,"place-wascm",1
-"9070124","9070124","Warren Street","Warren Street - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.348432,-71.140169,"","","","",0,"place-wrnst",1
-"9070125","9070125","Warren Street","Warren Street - Green Line Westbound Shuttle","","Boston College Shuttle",42.348444,-71.140537,"","","","",0,"place-wrnst",1
-"9070126","9070126","Allston Street","Allston Street - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.348475,-71.137871,"","","","",0,"place-alsgr",1
-"9070127","9070127","Allston Street","Allston Street - Green Line Westbound Shuttle","","Boston College Shuttle",42.348796,-71.138399,"","","","",0,"place-alsgr",1
-"9070128","9070128","Griggs Street","Griggs Street - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.348687,-71.134238,"","","","",0,"place-grigg",1
-"9070129","9070129","Griggs Street","Griggs Street - Green Line Westbound Shuttle","","Boston College Shuttle",42.348901,-71.134118,"","","","",0,"place-grigg",1
-"9070130","9070130","Harvard Avenue","Harvard Avenue - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.350191,-71.131085,"","","","",0,"place-harvd",1
-"9070131","9070131","Harvard Avenue","Harvard Avenue - Green Line Westbound Shuttle","","Boston College Shuttle",42.35049,-71.130739,"","","","",0,"place-harvd",1
-"9070134","9070134","Packards Corner","Packards Corner - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.351947,-71.124667,"","","","",0,"place-brico",1
-"9070135","9070135","Packards Corner","Packards Corner - Green Line Westbound Shuttle","","Boston College Shuttle",42.351925,-71.124976,"","","","",0,"place-brico",1
-"9070136","9070136","Babcock Street","Babcock Street - Green Line Eastbound Shuttle","","Eastbound Shuttle",42.351755,-71.121428,"","","","",0,"place-babck",1
 "door-qnctr-burgin","","Quincy Center - Burgin Parkway","Quincy Center - Burgin Parkway","","",42.251403,-71.005508,"","","","level_1_in_street",2,"place-qnctr",2
 "door-qnctr-busway","","Quincy Center - Hancock St","Quincy Center - Hancock St","","",42.251586,-71.005003,"","","","level_ground",2,"place-qnctr",1
 "door-mlmnl-pleasant","","Malden Center - Summer St, Pleasant St","Malden Center - Summer St, Pleasant St","","",42.42688,-71.074355,"","","","level_ground",2,"place-mlmnl",1
@@ -565,13 +545,12 @@
 "1079","1079","Market St @ Vineland St","","","",42.356921,-71.148686,"","","","",0,"",1
 "108","108","Massachusetts Ave @ Trowbridge St","","","",42.37027,-71.112998,"","","","",0,"",1
 "1081","1081","Market St opp Gardena St","","","",42.354329,-71.150346,"","","","",0,"",1
-"1082","1082","Market St. opp. Mapleton St.","","","",42.352415,-71.151522,"","","","",0,"",1
 "10820","10820","Veterans Hospital West Roxbury","","","",42.274823,-71.172103,"","","","",0,"",1
 "10821","10821","Charles Park Rd @ VFW Pkwy","","","",42.276826,-71.172521,"","","","",0,"",0
 "1083","1083","Market St @ Arlington St","","","",42.35151,-71.152061,"","","","",0,"",1
 "10830","10830","5 Charles Park Rd","","","",42.276931,-71.172561,"","","","",0,"",1
 "10832","10832","Dedham Mall @ Old Navy","","","",42.253872,-71.16863,"","","","",0,"",1
-"10833","10833","Dedham Mall @ Stop & Shop","","","",42.257893,-71.167938,"","","","",0,"",1
+"10833","10833","Dedham Mall @ Stop & Shop","","","",42.258725,-71.16853,"","","","",0,"",1
 "1084","1084","Chestnut Hill Ave @ Washington St","","","",42.349027,-71.153531,"","","","",0,"",0
 "1085","1085","Chestnut Hill Ave @ Academy Hill Rd","","","",42.347089,-71.15375,"","","","",0,"",0
 "1086","1086","Chestnut Hill Ave @ Jackson Ave","","","",42.344738,-71.153293,"","","","",0,"",1
@@ -686,7 +665,6 @@
 "1107","1107","N Beacon St @ Etna St","","","",42.355387,-71.146497,"","","","",0,"",1
 "11070","11070","Life St @ Guest St","","","",42.35693,-71.14563,"","","","",0,"",0
 "11071","11071","Arthur St @ Guest St - Stop & Shop","","","",42.356313,-71.141651,"","","","",0,"",0
-"1108","1108","Chestnut Hill Ave opp Veronica Smith Ctr","","","",42.347619,-71.154032,"","","","",0,"",1
 "1109","1109","N Beacon St @ Saunders St","","","",42.354115,-71.14151,"","","","",0,"",1
 "111","111","Mt Vernon St @ South Point Dr","","","",42.317184,-71.040238,"","","","",0,"",1
 "1110","1110","N Beacon St @ Cambridge St","","","",42.353583,-71.138173,"","","","",0,"",1
@@ -817,7 +795,7 @@
 "1136","1136","Centre St @ Wyman St","","","",42.322458,-71.106967,"","","","",0,"",1
 "1137","1137","Centre St @ Mozart St","","","",42.322684,-71.104662,"","","","",0,"",1
 "1138","1138","Centre St @ Estrella St","","","",42.322856,-71.102979,"","","","",0,"",1
-"11384","11384","Dartmouth St @ Back Bay Sta","","","",42.347346,-71.075956,"","","","",0,"",1
+"11384","11384","Dartmouth St @ Back Bay Sta","","","",42.347346,-71.075956,"","","","",0,"place-bbsta",1
 "11388","11388","Huntington Ave @ Belvidere St","","","",42.345344,-71.082045,"","","","",0,"",0
 "11390","11390","Dalton St @ Boylston St","","","",42.347779,-71.085476,"","","","",0,"",1
 "11391","11391","Boylston St @ Massachusetts Ave","","","",42.347386,-71.087495,"","","","",0,"",1
@@ -1384,7 +1362,7 @@
 "15088","15088","Harrison Ave opp. East Springfield St.","","","",42.335445,-71.074414,"","","","",0,"",1
 "1509","1509","Bowdoin St @ Tovar St","","","",42.310103,-71.063141,"","","","",0,"",1
 "15094","15094","Washington St @ Savoy St","","","",42.342008,-71.067929,"","","","",0,"",0
-"15095","15095","Washington St @ Herald St","","","",42.345906,-71.064718,"Washington St and Herald St, Boston, MA","","","",0,"",1
+"15095","15095","Washington St @ Herald St","","","",42.345582,-71.064848,"Washington St and Herald St, Boston, MA","","","",0,"",1
 "151","151","W Broadway @ Broadway Station","","","",42.342664,-71.056949,"","","","",0,"place-brdwy",1
 "1510","1510","Bowdoin St @ Hendry St","","","",42.308815,-71.064326,"","","","",0,"",0
 "15100","15100","St Peters Sq @ Church","","","",42.308101,-71.064371,"","","","",0,"",1
@@ -1481,6 +1459,7 @@
 "15795","15795","Wonderland","Wonderland - Busway","","Busway",42.413385,-70.99205,"","","","level_ground",0,"place-wondl",0
 "158","158","442 W Broadway","","","",42.336218,-71.046724,"","","","",0,"",1
 "1580","1580","Blue Hill Ave @ Irwin St","","","",42.321122,-71.077605,"","","","",0,"",0
+"15808","15808","Tomasello Way","","","",42.399383,-70.998214,"","","","",0,"",0
 "1581","1581","Blue Hill Ave @ Clifford St","","","",42.319151,-71.077823,"","","","",0,"",1
 "1582","1582","Blue Hill Ave @ Edgewood St","","","",42.31715,-71.078086,"","","","",0,"",1
 "15820","15820","Blue Hill Ave @ Maywood St","","","",42.315952,-71.078268,"","","","",0,"",1
@@ -1555,7 +1534,7 @@
 "1621","1621","W Boundary Rd @ Georgetowne Dr","","","",42.259345,-71.145404,"","","","",0,"",1
 "1623","1623","W Boundary Rd @ Cedarcrest Rd","","","",42.262682,-71.146361,"","","","",0,"",2
 "1627","1627","Liberty St @ Water St","","","",42.240587,-71.005957,"","","","",0,"",0
-"1628","1628","Liberty St @ Quincy St","","","",42.239247,-71.007205,"","","","",0,"",0
+"1628","1628","Liberty St @ Penn St","","","",42.239764,-71.006355,"","","","",0,"",0
 "163","163","W Broadway @ B St","","","",42.34072,-71.053732,"","","","",0,"",1
 "16305","16305","High St @ Johnson Ave","","","",42.421556,-71.13485,"","","","",0,"",0
 "16310","16310","Playstead Rd @ Winthrop St","","","",42.431592,-71.131027,"","","","",0,"",0
@@ -1880,6 +1859,7 @@
 "19","19","Dorchester St @ Old Harbor St","","","",42.334495,-71.047576,"","","","",0,"",0
 "190","190","Congress St @ State St","","","",42.358789,-71.056733,"","","","",0,"",1
 "1900","1900","Centre St @ Pearl St","","","",42.358456,-71.185026,"","","","",0,"",0
+"19031","19031","400 Centre St - West","","","",42.355938,-71.185299,"","","","",0,"",0
 "19073","19073","Franklin St @ Vinton St","","","",42.468702,-71.071718,"","","","",0,"",0
 "191","191","Congress St @ North St","","","",42.360387,-71.057129,"","","","",0,"",0
 "19182","19182","Main St @ North St","","","",42.497865,-71.069345,"","","","",0,"",0
@@ -1902,7 +1882,6 @@
 "1932","1932","Boylston St @ Saint Cecilia St","","","",42.347484,-71.086869,"","","","",0,"",2
 "1936","1936","South St @ Spalding St","","","",42.303741,-71.114635,"","","","",0,"",1
 "1937","1937","South St @ Child St","","","",42.306545,-71.115144,"","","","",0,"",0
-"1938","1938","South St @ Carolina Ave","","","",42.307801,-71.115454,"","","","",0,"",0
 "1939","1939","775 Centre St","","","",42.309949,-71.115345,"","","","",0,"",1
 "1940","1940","Centre St @ Aldworth St","","","",42.308799,-71.118664,"","","","",0,"",1
 "19402","19402","Washington St @ W Newton St","Washington St @ W Newton St - Silver Line - Dudley","","Dudley",42.338788,-71.073825,"Washington St and W Newton St, Boston, MA","","","level_in_street",0,"",1
@@ -1973,16 +1952,12 @@
 "2079","2079","Aberdeen Ave @ Huron Ave","","","",42.378329,-71.14705,"","","","",0,"",1
 "208","208","Summer St @ Powerhouse St","","","",42.339963,-71.035615,"","","","",0,"",0
 "2080","2080","Huron Ave @ Larch Rd","","","",42.380171,-71.143606,"","","","",0,"",0
-"2081","2081","Huron Ave @ Lexington Ave","","","",42.380605,-71.141368,"","","","",0,"",0
 "2082","2082","Huron Ave @ Lake View Ave","","","",42.380851,-71.140111,"","","","",0,"",0
 "2083","2083","Huron Ave @ Gurney St","","","",42.381198,-71.137926,"","","","",0,"",1
-"2084","2084","Huron Ave @ Reservoir St","","","",42.381348,-71.135911,"","","","",0,"",0
 "2085","2085","Huron Ave @ Appleton St","","","",42.381367,-71.13318,"","","","",0,"",1
 "2090","2090","Huron Ave @ Vassal Ln","","","",42.381553,-71.134626,"","","","",0,"",1
-"2091","2091","Huron Ave @ Reservoir St","","","",42.381434,-71.136007,"","","","",0,"",1
 "2092","2092","Huron Ave @ Fayerweather St","","","",42.381323,-71.137529,"","","","",0,"",0
 "2093","2093","Huron Ave @ Lake View Ave","","","",42.380926,-71.140218,"","","","",0,"",0
-"2094","2094","Huron Ave @ Lexington Ave","","","",42.38068,-71.141474,"","","","",0,"",0
 "2095","2095","Huron Ave @ Larch Rd","","","",42.380242,-71.14372,"","","","",0,"",0
 "2096","2096","Aberdeen Ave @ Huron Ave","","","",42.378569,-71.147434,"","","","",0,"",1
 "2097","2097","Opp 61 Aberdeen Ave","","","",42.376937,-71.146734,"","","","",0,"",1
@@ -2504,9 +2479,9 @@
 "26","26","E Broadway @ M St","","","",42.335601,-71.033177,"","","","",0,"",1
 "260","260","E 8th St @ Covington St","","","",42.331204,-71.045994,"","","","",0,"",0
 "2600","2600","O'Brien Hwy @ Medford St","","","",42.37687,-71.08847,"","","","",0,"",0
-"2601","2601","O'Brien Hwy @ Twin City Plaza","","","",42.373888,-71.082777,"","","","",0,"",0
+"2601","2601","McGrath Hwy @ Twin City Plaza","","","",42.373888,-71.082777,"","","","",0,"",0
 "2602","2602","O'Brien Hwy @ Winter St","","","",42.372546,-71.080104,"","","","",0,"",0
-"2605","2605","245 O'Brien Hwy @ Twin City Plaza","","","",42.374126,-71.082561,"","","","",0,"",1
+"2605","2605","McGrath Hwy opp Twin City Plaza","","","",42.374126,-71.082561,"","","","",0,"",1
 "2606","2606","225 Msgr O'Brien Hwy","","","",42.37297,-71.080222,"","","","",0,"",0
 "2607","2607","McGrath Hwy @ Poplar St","","","",42.377092,-71.088178,"","","","",0,"",1
 "2609","2609","Somerville Ave at McGrath Hwy","","","",42.377585,-71.089844,"","","","",0,"",1
@@ -2748,7 +2723,6 @@
 "283","283","E 8th St @ Covington St","","","",42.331295,-71.046082,"","","","",0,"",0
 "28310","28310","Cambridge St @ Saltonstall Bldg - Bowdoin Sq","","","",42.360962,-71.061654,"","","","",0,"",0
 "2832","2832","N Washington St @ Thacher St","","","",42.365195,-71.058265,"","","","",0,"",1
-"2833","2833","N Washington St @ Commercial St","","","",42.367429,-71.058734,"","","","",0,"",1
 "2835","2835","Warren St @ Winthrop St","","","",42.373614,-71.061511,"","","","",0,"",1
 "2836","2836","Warren St @ Church St","","","",42.375093,-71.063606,"","","","",0,"",0
 "2837","2837","Main St @ School St","","","",42.376677,-71.065931,"","","","",0,"",0
@@ -2884,6 +2858,7 @@
 "30249","30249","Northern Ave @ Tide St","Northern Ave @ Tide St - Silver Line - SL2 Design Center","","Design Center",42.34508,-71.031986,"","","","level_in_street",0,"",0
 "3025","3025","Hancock St @ Woodbine St","","","",42.26884,-71.018107,"","","","",0,"",1
 "30250","30250","23 Drydock Ave","23 Drydock Ave - Silver Line - SL2 Design Center","","Design Center",42.344649,-71.030268,"21 Dry Dock Ave, Boston, MA 02210","","","level_in_street",0,"",0
+"30251","30251","27 Drydock Ave","","","",42.344706,-71.028419,"","","","",0,"",0
 "30256","30256","Drydock Ave @ Harbor St","","","",42.344669,-71.037379,"","","","",0,"",0
 "3026","3026","Hancock St @ Beale St","","","",42.267856,-71.016474,"","","","",0,"",1
 "3027","3027","Hancock St @ Wentworth Rd","","","",42.266379,-71.014316,"","","","",0,"",1
@@ -2984,7 +2959,7 @@
 "31256","31256","Northern Ave opp Harbor St","Northern Ave opp Harbor St - Silver Line - SL2 South Station","","South Station",42.346538,-71.034878,"","","","level_in_street",0,"",0
 "31257","31257","Northern Ave @ Tide St","Northern Ave @ Tide St - Silver Line - SL2 South Station","","South Station",42.345192,-71.031996,"Northern Ave and Tide St, Boston, MA 02210","","","level_in_street",0,"",0
 "31258","31258","88 Black Falcon","88 Black Falcon - Silver Line - SL2 South Station","","South Station",42.343753,-71.026335,"88 Black Falcon Ave, Boston, MA 02210","","","level_in_street",0,"",0
-"31259","31259","27 Drydock Ave","27 Drydock Ave - Silver Line - SL2 Design Center","","Design Center",42.344232,-71.027213,"","","","level_in_street",0,"",0
+"31259","31259","Drydock Ave @ Black Falcon Ave","Drydock Ave @ Black Falcon Ave - Silver Line - SL2 Design Center","","Design Center",42.344232,-71.027213,"","","","level_in_street",0,"",0
 "3126","3126","E Squantum St @ Hancock St","","","",42.275935,-71.027749,"","","","",0,"",0
 "3128","3128","E Squantum St @ Newbury Ave","","","",42.278137,-71.027252,"","","","",0,"",0
 "3129","3129","E Squantum St @ Faxon Rd.","","","",42.279996,-71.024995,"","","","",0,"",0
@@ -3038,7 +3013,6 @@
 "318","318","Dorchester Ave @ Linden St","","","",42.306096,-71.058836,"","","","",0,"",1
 "3181","3181","Wilson Ave @ Mascoma St","","","",42.267577,-71.03124,"","","","",0,"",0
 "3182","3182","Wilson Ave @ Highland Ave","","","",42.268387,-71.029867,"","","","",0,"",0
-"3183","3183","Highland Ave @ Wilson Ave","","","",42.268328,-71.029734,"","","","",0,"",0
 "31835","31835","Lee St opp Dudley Way","","","",42.324303,-71.137937,"","","","",0,"",0
 "31836","31836","Independence Dr @ Beverly Rd","","","",42.301154,-71.154068,"","","","",0,"",0
 "31839","31839","Corey St opp Mount Benedict Cemetery","","","",42.296724,-71.167898,"","","","",0,"",0
@@ -3136,7 +3110,6 @@
 "32628","32628","Washington St @ Oolah Ave","","","",42.179418,-71.205344,"","","","",0,"",1
 "3263","3263","1263 Sea St","","","",42.271,-70.951532,"","","","",0,"",0
 "32638","32638","Washington St @ Weld Ave","","","",42.178108,-71.20601,"","","","",0,"",1
-"3264","3264","Sea St @ Quincy Yacht Club","","","",42.272176,-70.950649,"","","","",0,"",0
 "3265","3265","Sea St @ Fensmere Ave","","","",42.272031,-70.950956,"","","","",0,"",0
 "3266","3266","Sea St @ Bay View Ave","","","",42.271576,-70.951541,"","","","",0,"",0
 "3267","3267","Sea St @ Winthrop St","","","",42.270403,-70.951784,"","","","",0,"",0
@@ -4281,7 +4254,7 @@
 "4450","4450","Church St @ North St","","","",42.229742,-70.943953,"","","","",0,"",1
 "4451","4451","N Common St @ Western Ave","","","",42.462633,-70.965328,"","","","",0,"",1
 "4452","4452","Washington St @ Federal St","","","",42.523062,-70.896037,"","","","",0,"",1
-"4453","4453","North St opp Lynde St","","","",42.522587,-70.898872,"","","","",0,"",0
+"4453","4453","North St opp Lynde St","","","",42.521623,-70.898764,"","","","",0,"",0
 "4454","4454","Boston St @ Nichols St","","","",42.520487,-70.912068,"","","","",0,"",0
 "44541","44541","Boston St @ Pope St","","","",42.518683,-70.908598,"","","","",0,"",0
 "4455","4455","Essex St @ Beckford St","","","",42.52062,-70.901543,"","","","",0,"",0
@@ -4475,7 +4448,6 @@
 "46467","46467","Opp 1575 Hyde Park Ave","","","",42.244466,-71.129544,"","","","",0,"",1
 "46495","46495","Hyde Park Ave opp Florian Street","","","",42.286822,-71.118752,"","","","",0,"",1
 "465","465","Washington St @ Vassar St.","","","",42.300899,-71.075905,"","","","",0,"",1
-"46500","46500","American Legion Hwy @ Mt Hope St","","","",42.282393,-71.114655,"","","","",0,"",0
 "4651","4651","High St @ Gould St","","","",42.563317,-70.933826,"","","","",0,"",1
 "4652","4652","77 High St","","","",42.560987,-70.932043,"","","","",0,"",0
 "4653","4653","90 High St","","","",42.560459,-70.931691,"","","","",0,"",0
@@ -5433,6 +5405,7 @@
 "567","567","Geneva Ave @ Jeremiah Burke High School","","","",42.307223,-71.079805,"","","","",0,"",0
 "5670","5670","Chelsea St opp Curtis St","","","",42.383997,-71.022681,"","","","",0,"",1
 "5673","5673","Central Ave @ Chelsea Garage","","","",42.387935,-71.024536,"","","","",0,"",1
+"56733","56733","Fecteau Way","","","",42.470118,-70.984672,"","","","",0,"",0
 "56734","56734","O'Callaghan Way opp Osborne St","","","",42.47012,-70.986748,"","","","",0,"",0
 "5674","5674","Central Ave @ Willow St","","","",42.38837,-71.026854,"","","","",0,"",0
 "5675","5675","Central Ave @ Highland St","","","",42.389033,-71.030254,"","","","",0,"",1
@@ -6029,7 +6002,6 @@
 "6535","6535","Franklin St @ Devonshire St","","","",42.355521,-71.057253,"","","","",0,"",1
 "6537","6537","Washington St @ Essex St","","","",42.352288,-71.062581,"","","","",0,"",1
 "6538","6538","Essex St @ Atlantic Ave","Essex St @ Atlantic Ave - Silver Line - SL4 Dudley","","Dudley",42.35176,-71.056003,"","","","level_in_street",0,"",1
-"6539","6539","350 Washington St","","","",42.356733,-71.058942,"","","","",0,"",0
 "6542","6542","Kneeland St @ Washington St","","","",42.350845,-71.062868,"","","","",0,"",1
 "65471","65471","Devonshire St @ Water St","","","",42.357732,-71.057373,"","","","",0,"",0
 "6548","6548","Devonshire St @ Milk St","","","",42.356837,-71.057414,"","","","",0,"",1
@@ -6131,7 +6103,7 @@
 "6690","6690","Boston St @ Myrtle St","","","",42.463736,-70.975838,"","","","",0,"",0
 "6691","6691","Myrtle St @ Wilfred St","","","",42.465411,-70.976094,"","","","",0,"",0
 "6692","6692","Myrtle St @ Woodbine St","","","",42.466347,-70.97619,"","","","",0,"",0
-"6694","6694","Myrtle St @ Holyoke St","","","",42.468771,-70.97643,"","","","",0,"",0
+"6694","6694","Holyoke St @ Myrtle St","","","",42.468821,-70.976727,"","","","",0,"",0
 "6695","6695","Holyoke St opp Gardiner St","","","",42.46851,-70.977551,"","","","",0,"",1
 "6696","6696","Holyoke St opp Farrell Rd","","","",42.468119,-70.978603,"","","","",0,"",1
 "6697","6697","Holyoke St opp Thorpe Rd","","","",42.466819,-70.980426,"","","","",0,"",0
@@ -6179,7 +6151,7 @@
 "6749","6749","Holyoke St @ Thorpe Rd","","","",42.466658,-70.980598,"","","","",0,"",0
 "6750","6750","Holyoke St @ Farrell Rd","","","",42.468064,-70.97847,"","","","",0,"",0
 "6751","6751","Holyoke St @ Gardiner St","","","",42.468457,-70.977418,"","","","",0,"",1
-"6752","6752","Holyoke St @ Myrtle St","","","",42.468774,-70.976589,"","","","",0,"",0
+"6752","6752","Myrtle St @ Holyoke St","","","",42.468679,-70.976536,"","","","",0,"",0
 "6754","6754","Myrtle St @ Florence St","","","",42.466004,-70.976282,"","","","",0,"",0
 "6755","6755","28 Myrtle St","","","",42.464752,-70.976129,"","","","",0,"",0
 "6756","6756","Myrtle St @ Boston St","","","",42.463753,-70.976015,"","","","",0,"",0
@@ -7218,7 +7190,6 @@
 "7858","7858","Adams St @ Lincoln Rd","","","",42.356783,-71.198235,"","","","",0,"",1
 "7859","7859","School St @ Lexington St","","","",42.37802,-71.235592,"","","","",0,"",0
 "786","786","Belgrade Ave @ Centre St","","","",42.287009,-71.150087,"","","","",0,"",1
-"7860","7860","Lexington St @ Lexington Terr","","","",42.380351,-71.236075,"","","","",0,"",0
 "78600","78600","135 Beaver St.","","","",42.383144,-71.208429,"","","","",0,"",0
 "78601","78601","271 Waverley Oaks Rd","","","",42.385111,-71.207291,"","","","",0,"",0
 "78602","78602","Waverley Oaks Rd opp Parkview Rd","","","",42.386894,-71.203903,"","","","",0,"",2
@@ -8124,7 +8095,7 @@
 "9029","9029","Highland Ave @ Pleasant St","","","",42.426392,-71.081109,"","","","",0,"",1
 "903","903","Washington St @ Bacon St","","","",42.357134,-71.185943,"","","","",0,"",1
 "9030","9030","Highland Ave @ Charles St","","","",42.424888,-71.080878,"","","","",0,"",1
-"9031","9031","400 Centre St","","","",42.356158,-71.184249,"","","","",0,"",0
+"9031","9031","400 Centre St - East","","","",42.356158,-71.184249,"","","","",0,"",0
 "90311","90311","Dorchester Ave @ Melvinside Ter","","","",42.311856,-71.05752,"","","","",0,"",0
 "9032","9032","Highland Ave @ Emerald St","","","",42.421132,-71.080151,"","","","",0,"",1
 "9033","9033","Highland Ave @ Thacher St","","","",42.420417,-71.079978,"","","","",0,"",1
@@ -8285,7 +8256,6 @@
 "9184","9184","Main St opp Green St","","","",42.491616,-71.068767,"","","","",0,"",1
 "9185","9185","Main St @ Meriam St","","","",42.48976,-71.069224,"","","","",0,"",0
 "91852","91852","Needham Junction @ Commuter Rail Station","","","",42.273255,-71.237651,"","","","",0,"",1
-"91856","91856","Stuart St @ Tremont St","","","",42.351136,-71.064763,"","","","",0,"",0
 "9186","9186","Opp 830 Main St","","","",42.486405,-71.068832,"","","","",0,"",0
 "9187","9187","Main St @ Forest St","","","",42.484184,-71.06779,"","","","",0,"",0
 "9188","9188","Main St @ Greenwood Plaza","","","",42.48207,-71.066055,"","","","",0,"",1
@@ -8618,8 +8588,8 @@
 "place-sstat","","South Station","","","",42.352271,-71.055242,"Atlantic Ave and Summer St, Boston, MA 02110","","","",1,"",1
 "place-state","","State Street","","","",42.358978,-71.057598,"200 Washington St, Boston, MA","","","",1,"",1
 "place-sthld","","Sutherland Road","","","",42.341614,-71.146202,"Commonwealth Ave and Sutherland Rd, Boston, MA","","","",1,"",2
-"place-stplb","","Saint Paul Street","","","",42.3512,-71.116104,"","","","",1,"",2
-"place-stpul","","Saint Paul Street","","","",42.343327,-71.116997,"Commonwealth Ave and Saint Paul St, Boston, MA 02446","","","",1,"",2
+"place-stplb","","Saint Paul Street","","","",42.3512,-71.116104,"Commonwealth Ave and Saint Paul St, Boston, MA 02446","","","","1","","2"
+"place-stpul","","Saint Paul Street","","","",42.343327,-71.116997,"Beacon Street and Saint Paul Street, Boston, MA 02446","","","","1","","2"
 "place-sull","","Sullivan Square","","","",42.383975,-71.076994,"Maffa Way and Cambridge St, Charlestown, MA 02129","","","",1,"",1
 "place-sumav","","Summit Avenue","","","",42.34111,-71.12561,"Beacon St and Summit Ave, Brookline, MA","","","",1,"",2
 "place-symcl","","Symphony","","","",42.342687,-71.085056,"Massachusetts Ave and Huntington Ave, Boston, MA","","","",1,"",2
