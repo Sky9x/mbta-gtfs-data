@@ -20,7 +20,7 @@
 "payment-app","Name of mobile application available to pay for facility usage","Text"
 "payment-app-id","Mobile application payment zone or ID associated with a facility, such as a 'parking-area'","Text"
 "payment-app-url","Mobile application URL to make a payment required for use of a facility, such as a 'parking-area'","Text"
-"payment-form-accepted","Inclusion of a value indicates that the respective form of payment is accepted for usage of the facility; a single facility may have multiple instances of this property, each with a different payment form","'cash', 'check', 'coin', 'credit-debit-card', 'e-zpass', 'invoice', 'mobile-app', or 'smartcard'"
+"payment-form-accepted","Inclusion of a value indicates that the respective form of payment is accepted for usage of the facility; a single facility may have multiple instances of this property, each with a different payment form","'cash', 'check', 'coin', 'credit-debit-card', 'e-zpass', 'invoice', 'mobile-app', or 'tapcard'"
 "secured","Indicates if the facility requires special access for security; for example, used for 'bike-storage' to indicate an bicycle cage which requires advance registration and use of a special access card, and for 'elevator' to indicate that its usage requires the assistance of an employee","1 for true, 2 for false, or 0 for no information"
 "weekday-arrive-before","Typical morning time at which a 'parking-area' or 'bike-storage' facility fills to capacity on weekdays","Timestamp in the format required in stop_times.txt"
 "weekday-typical-utilization","Typical number of capacity units that a 'parking-area' or 'bike-storage' facility fills to on weekdays; for example, 100 at a parking garage indicates that 100 parking spaces are typically filled","Integer"
