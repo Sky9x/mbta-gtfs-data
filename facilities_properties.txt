@@ -517,22 +517,27 @@ facility_id,property_id,value
 344,direction,down
 344,excludes-stop,41031
 344,excludes-stop,door-qamnl-burgin
+344,excludes-stop,door-qamnl-indep
 344,excludes-stop,door-qamnl-pickup
 345,direction,up
 345,excludes-stop,41031
 345,excludes-stop,door-qamnl-burgin
+345,excludes-stop,door-qamnl-indep
 345,excludes-stop,door-qamnl-pickup
 346,direction,up
 346,excludes-stop,41031
 346,excludes-stop,door-qamnl-burgin
+346,excludes-stop,door-qamnl-indep
 346,excludes-stop,door-qamnl-pickup
 347,direction,up
 347,excludes-stop,41031
 347,excludes-stop,door-qamnl-burgin
+347,excludes-stop,door-qamnl-indep
 347,excludes-stop,door-qamnl-pickup
 348,direction,down
 348,excludes-stop,41031
 348,excludes-stop,door-qamnl-burgin
+348,excludes-stop,door-qamnl-indep
 348,excludes-stop,door-qamnl-pickup
 349,direction,up
 349,excludes-stop,141
@@ -1601,14 +1606,17 @@ facility_id,property_id,value
 805,alternate-service-text,"If exiting the Red Line, exit at Quincy Center and see station personnel for assistance. If boarding at Quincy Adams, use the call box or see station personnel for assistance. Alternatively, use Bus Route 238 to connect between Quincy Adams and Quincy Center."
 805,excludes-stop,41031
 805,excludes-stop,door-qamnl-burgin
+805,excludes-stop,door-qamnl-indep
 805,excludes-stop,door-qamnl-pickup
 806,alternate-service-text,Customers should use adjacent Quincy Adams Elevator 807.
 806,excludes-stop,41031
 806,excludes-stop,door-qamnl-burgin
+806,excludes-stop,door-qamnl-indep
 806,excludes-stop,door-qamnl-pickup
 807,alternate-service-text,Customers should use adjacent Quincy Adams Elevator 806.
 807,excludes-stop,41031
 807,excludes-stop,door-qamnl-burgin
+807,excludes-stop,door-qamnl-indep
 807,excludes-stop,door-qamnl-pickup
 808,alternate-service-text,"Use Elevator 979 connecting Red Line center platform to Green Line west, & add'l elevator to street"
 808,excludes-stop,70196
@@ -1969,15 +1977,6 @@ facility_id,property_id,value
 870,excludes-stop,door-dwnxg-franklin
 870,excludes-stop,door-dwnxg-hawley
 870,excludes-stop,door-dwnxg-chauncy
-871,alternate-service-text,Please use adjacent Quincy Center Elevator 810.
-871,excludes-stop,32000
-871,excludes-stop,32001
-871,excludes-stop,32002
-871,excludes-stop,32003
-871,excludes-stop,32004
-871,excludes-stop,32005
-871,excludes-stop,door-qnctr-burgin
-871,excludes-stop,door-qnctr-busway
 872,alternate-service-text,Customers desiring elevator service at Andrew  must exit at Broadway  and see station personnel for further assistance. Customers desiring elevator service to enter the station should use the call box for further assistance.
 872,excludes-stop,13
 872,excludes-stop,door-andrw-exitonly
@@ -6981,7 +6980,7 @@ park-WR-0053,weekday-utilization-summary,Insufficient data to determine the time
 park-WR-0053,operator,Republic Parking System
 park-WR-0053,owner,MBTA
 park-WR-0053,fee-daily,"Mon-Fri: $9 | Sat-Sun: $3 (Prices are valid for up to 14 hours of parking. After the first 14 hours, the daily rate is $15.)"
-park-WR-0053,fee-monthly,"Monthly passes are not available at MBTA garages, but premium spots are available at this garage."
+park-WR-0053,fee-monthly,"Monthly passes are not available at this MBTA lot, but premium spots are available."
 park-WR-0053,municipality,Malden
 park-WR-0053,payment-app,PayByPhone
 park-WR-0053,payment-app-id,4278
@@ -7011,6 +7010,18 @@ park-orhte,payment-form-accepted,invoice
 park-orhte,contact,MBTA Customer Support
 park-orhte,contact-url,http://www.parkmbta.com/
 park-orhte,contact-phone,617-222-3200
+park-Boat-Hull,capacity,200
+park-Boat-Hull,enclosed,2
+park-Boat-Hull,attended,2
+park-Boat-Hull,capacity,200
+park-Boat-Hull,operator,Town of Hull
+park-Boat-Hull,owner,City/Town
+park-Boat-Hull,fee-daily,Free for Hull residents with a municipal parking sticker
+park-Boat-Hull,municipality,Hull
+park-Boat-Hull,note,"Residents: Parking in the main parking lot at the ferry, as well as in other posted areas near the ferry, is restricted to Hull residents with a municipal parking sticker issued by the Town of Hull. | Non-residents: Free non-restricted parking is available in the parking lot at the end of Helen Street, as well as in the high school parking lot (This is only allowed when school is NOT in session). There is also non-restricted parking located at the Stony Beach parking lot (across from the Hull Sewer Plant located at 1111 Nantasket Ave.). This lot is located along the MBTA bus route. To park here you would need to allow extra time to take the bus from the lot to the ferry. All parking restrictions in the ferry parking lots and high school lots are strictly enforced by the Hull Police Department year round. The Town of Hull is responsible for snow removal and maintenance."
+park-Boat-Hull,contact,Town of Hull Parking Clerk
+park-Boat-Hull,contact-url,http://www.town.hull.ma.us/Public_Documents/HullMA_Parking/parkingclerk
+park-Boat-Hull,contact-phone,781-925-2251 ext. 3807
 park-PB-0356,capacity,96
 park-PB-0356,enclosed,2
 park-PB-0356,attended,2
@@ -7138,9 +7149,9 @@ park-GB-0353,owner,City/Town
 park-GB-0353,fee-daily,free
 park-GB-0353,municipality,Rockport
 park-GB-0353,note,"Town of Rockport is responsible for parking maintenance, payments, and snow removal."
-park-GB-0353,contact,"Town of Rockport, Parking Clerk"
+park-GB-0353,contact,Town of Rockport
 park-GB-0353,contact-url,https://www.rockportma.gov/parking-clerk
-park-GB-0353,contact-phone,978-546-6648
+park-GB-0353,contact-phone,978-546-6786
 park-NB-0064,capacity,152
 park-NB-0064,enclosed,2
 park-NB-0064,attended,2
@@ -8065,6 +8076,18 @@ park-WR-0062,note,"City of Melrose is responsible for parking maintenance, payme
 park-WR-0062,contact,"City of Melrose, Office of the Parking Clerk"
 park-WR-0062,contact-url,https://www.cityofmelrose.org/parking-office
 park-WR-0062,contact-phone,781-979-4144
+park-NEC-1659,capacity,1100
+park-NEC-1659,enclosed,1
+park-NEC-1659,attended,1
+park-NEC-1659,capacity,1100
+park-NEC-1659,operator,Rhode Island Department of Transportation
+park-NEC-1659,owner,Local transit authority
+park-NEC-1659,fee-daily,free
+park-NEC-1659,municipality,North Kingstown
+park-NEC-1659,contact,Rhode Island Department of Transportation
+park-NEC-1659,contact-url,http://www.ridetherailsri.com/#locations
+park-NEC-1659,contact-phone,401-222-2450
+ev-NEC-1659,capacity,10
 portlift-lake,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-smary,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-smary,excludes-stop,70211
