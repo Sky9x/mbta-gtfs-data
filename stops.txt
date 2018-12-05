@@ -6069,8 +6069,8 @@ Boat-Hingham,Hingham,,42.252643,-70.919875,,0,,1,,,,,,"349 Lincoln St, Hingham, 
 70019,Chinatown,Chinatown - Orange Line - Oak Grove,42.352547,-71.062752,level_-1_platform,0,place-chncl,1,70019,,Oak Grove,,,
 70020,Downtown Crossing,Downtown Crossing - Orange Line - Forest Hills,42.355518,-71.060225,level_-1_platform,0,place-dwnxg,1,70020,,Forest Hills,,,
 70021,Downtown Crossing,Downtown Crossing - Orange Line - Oak Grove,42.355518,-71.060225,level_-1_platform,0,place-dwnxg,1,70021,,Oak Grove,,,
-70022,State Street,State Street - Orange Line - Forest Hills,42.358978,-71.057598,level_-1_up_platform,0,place-state,1,70022,,Forest Hills,,,
-70023,State Street,State Street - Orange Line - Oak Grove,42.358978,-71.057598,level_-2_oak_grove_platform,0,place-state,1,70023,,Oak Grove,,,
+70022,State,State - Orange Line - Forest Hills,42.358978,-71.057598,level_-1_up_platform,0,place-state,1,70022,,Forest Hills,,,
+70023,State,State - Orange Line - Oak Grove,42.358978,-71.057598,level_-2_oak_grove_platform,0,place-state,1,70023,,Oak Grove,,,
 70024,Haymarket,Haymarket - Orange Line - Forest Hills,42.363021,-71.058290,level_-1_orange_platform,0,place-haecl,1,70024,3,Forest Hills,,,
 70025,Haymarket,Haymarket - Orange Line - Oak Grove,42.363021,-71.058290,level_-1_orange_platform,0,place-haecl,1,70025,4,Oak Grove,,,
 70026,North Station,North Station - Orange Line - Forest Hills,42.365577,-71.061290,level_-2_low_platform,0,place-north,1,70026,,Forest Hills,,,
@@ -6087,8 +6087,8 @@ Boat-Hingham,Hingham,,42.252643,-70.919875,,0,,1,,,,,,"349 Lincoln St, Hingham, 
 70038,Bowdoin,Bowdoin - Blue Line - Wonderland,42.361365,-71.062037,level_-1_platform,0,place-bomnl,2,70038,,Wonderland,,,
 70039,Government Center,Government Center - Blue Line - Bowdoin,42.359705,-71.059215,level_-2_blue_platform,0,place-gover,1,70039,,Bowdoin,,,
 70040,Government Center,Government Center - Blue Line - Wonderland,42.359705,-71.059215,level_-2_blue_platform,0,place-gover,1,70040,,Wonderland,,,
-70041,State Street,State Street - Blue Line - Bowdoin,42.358978,-71.057598,level_-1_up_platform,0,place-state,1,70041,,Bowdoin,,,
-70042,State Street,State Street - Blue Line - Wonderland,42.358978,-71.057598,level_-1_up_platform,0,place-state,1,70042,,Wonderland,,,
+70041,State,State - Blue Line - Bowdoin,42.358978,-71.057598,level_-1_up_platform,0,place-state,1,70041,,Bowdoin,,,
+70042,State,State - Blue Line - Wonderland,42.358978,-71.057598,level_-1_up_platform,0,place-state,1,70042,,Wonderland,,,
 70043,Aquarium,Aquarium - Blue Line - Bowdoin,42.359784,-71.051652,level_-2_platform,0,place-aqucl,1,70043,1,Bowdoin,,,
 70044,Aquarium,Aquarium - Blue Line - Wonderland,42.359784,-71.051652,level_-2_platform,0,place-aqucl,1,70044,2,Wonderland,,,
 70045,Maverick,Maverick - Blue Line - Bowdoin,42.369119,-71.039530,level_-1_platform,0,place-mvbcl,1,70045,,Bowdoin,,,
@@ -8355,7 +8355,7 @@ place-smmnl,Shawmut,,42.293126,-71.065738,,1,,1,,,,,,"Dayton St and Clementine P
 place-sougr,South Street,,42.339600,-71.157661,,1,,2,,,,,,
 place-spmnl,Science Park,,42.366664,-71.067666,,1,,1,,,,,,"Leverett Circle and Nashua St, Boston, MA 02114"
 place-sstat,South Station,,42.352271,-71.055242,,1,,1,,,,,,"Atlantic Ave and Summer St, Boston, MA 02110"
-place-state,State Street,,42.358978,-71.057598,,1,,1,,,,,,"200 Washington St, Boston, MA"
+place-state,State,,42.358978,-71.057598,,1,,1,,,,,,"200 Washington St, Boston, MA"
 place-sthld,Sutherland Road,,42.341614,-71.146202,,1,,2,,,,,,"Commonwealth Ave and Sutherland Rd, Boston, MA"
 place-stplb,Saint Paul Street,,42.351200,-71.116104,,1,,2,,,,,,"Commonwealth Ave and Saint Paul St, Boston, MA 02215"
 place-stpul,Saint Paul Street,,42.343327,-71.116997,,1,,2,,,,,,"Beacon St and Saint Paul St, Brookline, MA 02446"
@@ -8557,9 +8557,7 @@ Logan-RentalCarCenter,Logan Airport Rental Car Center,Logan Airport Rental Car C
 9170099,Newport Ave @ Beale St,,42.265020,-71.019245,,0,,1,9170099,,,,,
 9170100,Wollaston,Newport Ave @ Wollaston Station,42.266771,-71.020771,,0,,1,9170100,,North Quincy Shuttle,,,
 9270099,Beale St @ Wollaston Branch Library,,42.266671,-71.017924,,0,,1,9270099,,,,,
-9070178,Brookline Hills,Boylston St @ Cypress St - Green Line Reservoir Shuttle,42.330044,-71.126602,,0,place-brkhl,1,9070178,,Reservoir Shuttle,,,
-9070179,Brookline Hills,Boylston St @ Cypress St - Green Line Fenway Shuttle,42.330034,-71.125599,,0,place-brkhl,1,9070179,,Fenway Shuttle,,,
+9170178,Brookline Hills,Brookline Hills - Green Line Shuttle,42.331508,-71.126691,,0,place-brkhl,1,9170178,,Green Line Shuttle,,,
 9070150,Kenmore,Kenmore - Green Line Eastbound Shuttle,42.348712,-71.095526,,0,place-kencl,1,9070150,,Green Line Shuttle,,,
 9070151,Kenmore,Kenmore - Green Line Westbound Shuttle,42.349196,-71.095826,,0,place-kencl,1,9070151,,Green Line Shuttle,,,
 Foxboro,Foxboro,,42.095100,-71.261510,,0,,1,,,,,,"Gillette Stadium near Lots 3 and 4, Foxborough, MA 02035"
-9170178,Brookline Hills,Brookline Hills - Green Line Shuttle,42.331508,-71.126691,,0,place-brkhl,1,9170178,,Green Line Shuttle,,,
