@@ -335,16 +335,16 @@ pick-river-main,,3,pick-drop,place-river,,Riverside Pick-up/Drop-off,,42.3370340
 400,400.0000000,1,escalator,place-sstat,Ashmont/Braintree platform to South Station platform,South Station Escalator 400 (Ashmont/Braintree platform to South Station platform),,,,2
 399,399.0000000,1,escalator,place-sstat,South Station platform to lobby,South Station Escalator 399 (South Station platform to lobby),,,,2
 6476,6476.0000000,1,elevator,place-sstat,"Red Line, Airport/Design Center lobby to Commuter Rail lobby","South Station Elevator 6476 (Red Line, Airport/Design Center lobby to Commuter Rail lobby)",,,,1
-502,502.0000000,1,escalator,place-state,Wonderland platform to Old State House,State Street Escalator 502 (Wonderland platform to Old State House),,,,2
-974,974.0000000,1,elevator,place-state,"Bowdoin platform to Congress Street, State Street","State Street Elevator 974 (Bowdoin platform to Congress Street, State Street)",,,,1
-803,803.0000000,1,elevator,place-state,"Forest Hills platform to Washington Street, Milk Street","State Street Elevator 803 (Forest Hills platform to Washington Street, Milk Street)",,,,1
-501,501.0000000,1,escalator,place-state,Oak Grove platform to Wonderland platform,State Street Escalator 501 (Oak Grove platform to Wonderland platform),,,,2
-374,374.0000000,1,escalator,place-state,Oak Grove platform to City Hall Plaza,State Street Escalator 374 (Oak Grove platform to City Hall Plaza),,,,2
-6,6.0000000,1,escalator,place-state,Oak Grove platform to Old State House lobby,State Street Escalator 6 (Oak Grove platform to Old State House lobby),,,,2
-802,802.0000000,1,elevator,place-state,"Oak Grove platform to Forest Hills, Wonderland platforms","State Street Elevator 802 (Oak Grove platform to Forest Hills, Wonderland platforms)",,,,1
-967,967.0000000,1,elevator,place-state,"Oak Grove platform to Forest Hills, Wonderland platforms","State Street Elevator 967 (Oak Grove platform to Forest Hills, Wonderland platforms)",,,,1
-523,523.0000000,1,escalator,place-state,"Forest Hills platform to Washington Street, Milk Street","State Street Escalator 523 (Forest Hills platform to Washington Street, Milk Street)",,,,2
-975,975.0000000,1,elevator,place-state,"Wonderland platform to Congress Street, Exchange Place","State Street Elevator 975 (Wonderland platform to Congress Street, Exchange Place)",,,,1
+502,502.0000000,1,escalator,place-state,Wonderland platform to Old State House,State Escalator 502 (Wonderland platform to Old State House),,,,2
+974,974.0000000,1,elevator,place-state,"Bowdoin platform to Congress Street, State Street","State Elevator 974 (Bowdoin platform to Congress Street, State Street)",,,,1
+803,803.0000000,1,elevator,place-state,"Forest Hills platform to Washington Street, Milk Street","State Elevator 803 (Forest Hills platform to Washington Street, Milk Street)",,,,1
+501,501.0000000,1,escalator,place-state,Oak Grove platform to Wonderland platform,State Escalator 501 (Oak Grove platform to Wonderland platform),,,,2
+374,374.0000000,1,escalator,place-state,Oak Grove platform to City Hall Plaza,State Escalator 374 (Oak Grove platform to City Hall Plaza),,,,2
+6,6.0000000,1,escalator,place-state,Oak Grove platform to Old State House lobby,State Escalator 6 (Oak Grove platform to Old State House lobby),,,,2
+802,802.0000000,1,elevator,place-state,"Oak Grove platform to Forest Hills, Wonderland platforms","State Elevator 802 (Oak Grove platform to Forest Hills, Wonderland platforms)",,,,1
+967,967.0000000,1,elevator,place-state,"Oak Grove platform to Forest Hills, Wonderland platforms","State Elevator 967 (Oak Grove platform to Forest Hills, Wonderland platforms)",,,,1
+523,523.0000000,1,escalator,place-state,"Forest Hills platform to Washington Street, Milk Street","State Escalator 523 (Forest Hills platform to Washington Street, Milk Street)",,,,2
+975,975.0000000,1,elevator,place-state,"Wonderland platform to Congress Street, Exchange Place","State Elevator 975 (Wonderland platform to Congress Street, Exchange Place)",,,,1
 132,132.0000000,1,escalator,place-sbmnl,Platform to paid lobby,Stony Brook Escalator 132 (Platform to paid lobby),,,,2
 845,845.0000000,1,elevator,place-sbmnl,Platform to paid lobby,Stony Brook Elevator 845 (Platform to paid lobby),,,,1
 840,840.0000000,1,elevator,place-sull,Platform to lobby,Sullivan Square Elevator 840 (Platform to lobby),,,,1
@@ -938,7 +938,7 @@ bike-rugg,,3,bike-storage,place-rugg,Bike rack,Ruggles bike rack,,,,0
 bike-sbmnl,,3,bike-storage,place-sbmnl,Covered bike rack,Stony Brook covered bike rack,,,,0
 bike-sdmnl,,3,bike-storage,place-sdmnl,Covered bike rack,Suffolk Downs covered bike rack,,,,0
 bike-smary,,3,bike-storage,place-smary,Bike rack,Saint Marys Street bike rack,,,,0
-ramp-state,,2,ramp,place-state,Ramp access,State Street ramp access,,,,1
+ramp-state,,2,ramp,place-state,Ramp access,State ramp access,,,,1
 ramp-sull,,2,ramp,place-sull,Ramp access,Sullivan Square ramp access,,,,1
 bike-sull,,3,bike-storage,place-sull,Covered bike rack,Sullivan Square covered bike rack,,,,0
 bike-tapst,,3,bike-storage,place-tapst,Bike rack,Tappan Street bike rack,,,,0
@@ -1416,19 +1416,19 @@ fvm-202111,,4,fare-vending-machine,place-sstat,Fare vending machine 202111,South
 fvm-202112,,4,fare-vending-machine,place-sstat,Fare vending machine 202112,South Station fare vending machine 202112,,,,0
 fvm-202113,,4,fare-vending-machine,place-sstat,Fare vending machine 202113,South Station fare vending machine 202113,,,,0
 fvm-202193,,4,fare-vending-machine,place-sstat,Fare vending machine 202193,South Station fare vending machine 202193,,,,0
-fvm-201050,,4,fare-vending-machine,place-state,Fare vending machine 201050,State Street fare vending machine 201050,,,,0
-fvm-201051,,4,fare-vending-machine,place-state,Fare vending machine 201051,State Street fare vending machine 201051,,,,0
-fvm-201053,,4,fare-vending-machine,place-state,Fare vending machine 201053,State Street fare vending machine 201053,,,,0
-fvm-201054,,4,fare-vending-machine,place-state,Fare vending machine 201054,State Street fare vending machine 201054,,,,0
-fvm-201321,,4,fare-vending-machine,place-state,Fare vending machine 201321,State Street fare vending machine 201321,,,,0
-fvm-201363,,4,fare-vending-machine,place-state,Fare vending machine 201363,State Street fare vending machine 201363,,,,0
-fvm-201364,,4,fare-vending-machine,place-state,Fare vending machine 201364,State Street fare vending machine 201364,,,,0
-fvm-201365,,4,fare-vending-machine,place-state,Fare vending machine 201365,State Street fare vending machine 201365,,,,0
-fvm-201366,,4,fare-vending-machine,place-state,Fare vending machine 201366,State Street fare vending machine 201366,,,,0
-fvm-202040,,4,fare-vending-machine,place-state,Fare vending machine 202040,State Street fare vending machine 202040,,,,0
-fvm-202041,,4,fare-vending-machine,place-state,Fare vending machine 202041,State Street fare vending machine 202041,,,,0
-fvm-202217,,4,fare-vending-machine,place-state,Fare vending machine 202217,State Street fare vending machine 202217,,,,0
-fvm-202218,,4,fare-vending-machine,place-state,Fare vending machine 202218,State Street fare vending machine 202218,,,,0
+fvm-201050,,4,fare-vending-machine,place-state,Fare vending machine 201050,State fare vending machine 201050,,,,0
+fvm-201051,,4,fare-vending-machine,place-state,Fare vending machine 201051,State fare vending machine 201051,,,,0
+fvm-201053,,4,fare-vending-machine,place-state,Fare vending machine 201053,State fare vending machine 201053,,,,0
+fvm-201054,,4,fare-vending-machine,place-state,Fare vending machine 201054,State fare vending machine 201054,,,,0
+fvm-201321,,4,fare-vending-machine,place-state,Fare vending machine 201321,State fare vending machine 201321,,,,0
+fvm-201363,,4,fare-vending-machine,place-state,Fare vending machine 201363,State fare vending machine 201363,,,,0
+fvm-201364,,4,fare-vending-machine,place-state,Fare vending machine 201364,State fare vending machine 201364,,,,0
+fvm-201365,,4,fare-vending-machine,place-state,Fare vending machine 201365,State fare vending machine 201365,,,,0
+fvm-201366,,4,fare-vending-machine,place-state,Fare vending machine 201366,State fare vending machine 201366,,,,0
+fvm-202040,,4,fare-vending-machine,place-state,Fare vending machine 202040,State fare vending machine 202040,,,,0
+fvm-202041,,4,fare-vending-machine,place-state,Fare vending machine 202041,State fare vending machine 202041,,,,0
+fvm-202217,,4,fare-vending-machine,place-state,Fare vending machine 202217,State fare vending machine 202217,,,,0
+fvm-202218,,4,fare-vending-machine,place-state,Fare vending machine 202218,State fare vending machine 202218,,,,0
 fvm-201094,,4,fare-vending-machine,place-sbmnl,Fare vending machine 201094,Stony Brook fare vending machine 201094,,,,0
 fvm-201095,,4,fare-vending-machine,place-sbmnl,Fare vending machine 201095,Stony Brook fare vending machine 201095,,,,0
 fvm-201096,,4,fare-vending-machine,place-sbmnl,Fare vending machine 201096,Stony Brook fare vending machine 201096,,,,0
