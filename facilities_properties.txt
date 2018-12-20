@@ -51,6 +51,8 @@ facility_id,property_id,value
 353,excludes-stop,door-alfcl-busway
 353,excludes-stop,door-alfcl-steel
 353,excludes-stop,door-alfcl-cambridgepark
+353,excludes-stop,Alewife-01
+353,excludes-stop,Alewife-02
 354,direction,up
 354,excludes-stop,door-alfcl-alewife
 354,excludes-stop,door-alfcl-russell
@@ -58,6 +60,8 @@ facility_id,property_id,value
 354,excludes-stop,door-alfcl-steel
 354,excludes-stop,door-alfcl-cambridgepark
 354,excludes-stop,141
+354,excludes-stop,Alewife-01
+354,excludes-stop,Alewife-02
 355,direction,up
 355,excludes-stop,door-alfcl-alewife
 355,excludes-stop,door-alfcl-russell
@@ -65,6 +69,8 @@ facility_id,property_id,value
 355,excludes-stop,door-alfcl-steel
 355,excludes-stop,door-alfcl-cambridgepark
 355,excludes-stop,141
+355,excludes-stop,Alewife-01
+355,excludes-stop,Alewife-02
 356,direction,up
 356,excludes-stop,door-alfcl-alewife
 356,excludes-stop,door-alfcl-russell
@@ -72,6 +78,8 @@ facility_id,property_id,value
 356,excludes-stop,door-alfcl-steel
 356,excludes-stop,door-alfcl-cambridgepark
 356,excludes-stop,141
+356,excludes-stop,Alewife-01
+356,excludes-stop,Alewife-02
 357,direction,up
 357,excludes-stop,door-alfcl-alewife
 357,excludes-stop,door-alfcl-russell
@@ -79,6 +87,8 @@ facility_id,property_id,value
 357,excludes-stop,door-alfcl-steel
 357,excludes-stop,door-alfcl-cambridgepark
 357,excludes-stop,141
+357,excludes-stop,Alewife-01
+357,excludes-stop,Alewife-02
 814,alternate-service-text,Please use the adjacent Alewife Elevator 815.
 814,excludes-stop,door-alfcl-alewife
 814,excludes-stop,door-alfcl-russell
@@ -86,6 +96,8 @@ facility_id,property_id,value
 814,excludes-stop,door-alfcl-steel
 814,excludes-stop,door-alfcl-cambridgepark
 814,excludes-stop,141
+814,excludes-stop,Alewife-01
+814,excludes-stop,Alewife-02
 815,alternate-service-text,Please use the adjacent Alewife Elevator 814.
 815,excludes-stop,door-alfcl-alewife
 815,excludes-stop,door-alfcl-russell
@@ -93,6 +105,8 @@ facility_id,property_id,value
 815,excludes-stop,door-alfcl-steel
 815,excludes-stop,door-alfcl-cambridgepark
 815,excludes-stop,141
+815,excludes-stop,Alewife-01
+815,excludes-stop,Alewife-02
 813,alternate-service-text,Use Elevator 961 at the opposite end of the platform/lobby.
 813,excludes-stop,door-alfcl-alewife
 813,excludes-stop,door-alfcl-russell
@@ -100,12 +114,16 @@ facility_id,property_id,value
 813,excludes-stop,door-alfcl-steel
 813,excludes-stop,door-alfcl-cambridgepark
 813,excludes-stop,141
+813,excludes-stop,Alewife-01
+813,excludes-stop,Alewife-02
 961,alternate-service-text,Please use Elevator 813 located at the opposite end of platform/lobby.
 961,excludes-stop,door-alfcl-alewife
 961,excludes-stop,door-alfcl-busway
 961,excludes-stop,door-alfcl-steel
 961,excludes-stop,door-alfcl-cambridgepark
 961,excludes-stop,141
+961,excludes-stop,Alewife-01
+961,excludes-stop,Alewife-02
 351,direction,down
 351,excludes-stop,door-alfcl-alewife
 351,excludes-stop,door-alfcl-russell
@@ -113,6 +131,8 @@ facility_id,property_id,value
 351,excludes-stop,door-alfcl-steel
 351,excludes-stop,door-alfcl-cambridgepark
 351,excludes-stop,141
+351,excludes-stop,Alewife-01
+351,excludes-stop,Alewife-02
 352,direction,up
 352,excludes-stop,door-alfcl-alewife
 352,excludes-stop,door-alfcl-russell
@@ -120,18 +140,24 @@ facility_id,property_id,value
 352,excludes-stop,door-alfcl-steel
 352,excludes-stop,door-alfcl-cambridgepark
 352,excludes-stop,141
+352,excludes-stop,Alewife-01
+352,excludes-stop,Alewife-02
 349,direction,up
 349,excludes-stop,door-alfcl-alewife
 349,excludes-stop,door-alfcl-busway
 349,excludes-stop,door-alfcl-steel
 349,excludes-stop,door-alfcl-cambridgepark
 349,excludes-stop,141
+349,excludes-stop,Alewife-01
+349,excludes-stop,Alewife-02
 350,direction,down
 350,excludes-stop,door-alfcl-alewife
 350,excludes-stop,door-alfcl-busway
 350,excludes-stop,door-alfcl-steel
 350,excludes-stop,door-alfcl-cambridgepark
 350,excludes-stop,141
+350,excludes-stop,Alewife-01
+350,excludes-stop,Alewife-02
 880,alternate-service-text,"If exiting the station, exit at Broadway and switch to an Ashmont-/Braintree-bound train. Exit the train at Andrew and use Andrew Elevator 879 to reach the lobby. If boarding at Andrew, take Andrew Elevator 879 to an Ashmont/Braintree train. Exit at JFK/UMass and switch to an Alewife-bound train."
 880,excludes-stop,door-andrw-exitonly
 880,excludes-stop,door-andrw-dotave
@@ -515,20 +541,28 @@ facility_id,property_id,value
 333,excludes-stop,door-brntn-faregates
 333,excludes-stop,38671
 333,excludes-stop,70105
+333,excludes-stop,Braintree-01
+333,excludes-stop,Braintree-02
 334,direction,down
 334,excludes-stop,door-brntn-busway
 334,excludes-stop,door-brntn-faregates
 334,excludes-stop,38671
+334,excludes-stop,Braintree-01
+334,excludes-stop,Braintree-02
 334,excludes-stop,Braintree
 335,direction,up
 335,excludes-stop,door-brntn-busway
 335,excludes-stop,door-brntn-faregates
 335,excludes-stop,38671
+335,excludes-stop,Braintree-01
+335,excludes-stop,Braintree-02
 335,excludes-stop,Braintree
 811,alternate-service-text,"If exiting the Red Line, exit at Quincy Adams and see station personnel for assistance. If boarding at Braintree, use the call box or see station personnel for assistance. Alternatively, use Bus Routes 230 or 236 to connect between Braintree and Quincy Center."
 811,excludes-stop,door-brntn-busway
 811,excludes-stop,door-brntn-faregates
 811,excludes-stop,38671
+811,excludes-stop,Braintree-01
+811,excludes-stop,Braintree-02
 811,excludes-stop,Braintree
 372,direction,up
 372,excludes-stop,door-brdwy-traveler
@@ -824,6 +858,8 @@ facility_id,property_id,value
 127,excludes-stop,door-forhl-exit
 127,excludes-stop,10642
 127,excludes-stop,70001
+127,excludes-stop,Forest Hills-01
+127,excludes-stop,Forest Hills-02
 127,excludes-stop,Forest Hills
 128,direction,up
 128,excludes-stop,door-forhl-upper
@@ -831,6 +867,8 @@ facility_id,property_id,value
 128,excludes-stop,door-forhl-exit
 128,excludes-stop,10642
 128,excludes-stop,70001
+128,excludes-stop,Forest Hills-01
+128,excludes-stop,Forest Hills-02
 128,excludes-stop,Forest Hills
 841,alternate-service-text,"Please contact station personnel or conductor for assistance. For inbound commuter rail riders, please disembark at Back Bay and return to Forest Hills via the Orange Line.\nFor outbound customers, please take the Orange Line to Back Bay and board the commuter rail at Back Bay. Please contact station personnel for assistance."
 841,excludes-stop,door-forhl-upper
@@ -840,6 +878,8 @@ facility_id,property_id,value
 841,excludes-stop,10642
 841,excludes-stop,70001
 841,excludes-stop,875
+841,excludes-stop,Forest Hills-01
+841,excludes-stop,Forest Hills-02
 129,direction,up
 129,excludes-stop,door-forhl-upper
 129,excludes-stop,door-forhl-arborway
@@ -847,6 +887,8 @@ facility_id,property_id,value
 129,excludes-stop,door-forhl-exit
 129,excludes-stop,10642
 129,excludes-stop,875
+129,excludes-stop,Forest Hills-01
+129,excludes-stop,Forest Hills-02
 129,excludes-stop,Forest Hills
 130,direction,up
 130,excludes-stop,door-forhl-upper
@@ -855,6 +897,8 @@ facility_id,property_id,value
 130,excludes-stop,door-forhl-exit
 130,excludes-stop,10642
 130,excludes-stop,875
+130,excludes-stop,Forest Hills-01
+130,excludes-stop,Forest Hills-02
 130,excludes-stop,Forest Hills
 843,alternate-service-text,"If exiting the station, exit using the Washington Street/Arboretum exit and turn right down the ramp to Hyde Park Avenue. If entering the station from Hyde Park Avenue, turn right to go up the ramp and bear left to the Washington Street/Arboretum entrance."
 843,excludes-stop,door-forhl-upper
@@ -862,6 +906,8 @@ facility_id,property_id,value
 843,excludes-stop,door-forhl-exit
 843,excludes-stop,10642
 843,excludes-stop,70001
+843,excludes-stop,Forest Hills-01
+843,excludes-stop,Forest Hills-02
 843,excludes-stop,Forest Hills
 842,alternate-service-text,"If exiting, exit the Orange Line at Green Street and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Forest Hills to request assistance. Alternatively, the Route 39 bus service operates from Back Bay to Forest Hills every fifteen minutes or less."
 842,excludes-stop,door-forhl-upper
@@ -870,6 +916,8 @@ facility_id,property_id,value
 842,excludes-stop,door-forhl-exit
 842,excludes-stop,10642
 842,excludes-stop,875
+842,excludes-stop,Forest Hills-01
+842,excludes-stop,Forest Hills-02
 842,excludes-stop,Forest Hills
 50,alternate-service-text,The elevator at Framingham connecting the Inbound and Outbound platforms is out of service. Please proceed to Concord street to cross over to the outbound platform.
 51,alternate-service-text,The elevator at Framingham connecting the Inbound and Outbound platforms is out of service. Please proceed to Concord street to cross over to the outbound platform.
@@ -1496,28 +1544,40 @@ facility_id,property_id,value
 800,excludes-stop,door-ogmnl-wash
 800,excludes-stop,9326
 800,excludes-stop,9328
+800,excludes-stop,Oak Grove-01
+800,excludes-stop,Oak Grove-02
 801,alternate-service-text,"Customers desiring elevator service to exit at Oak Grove must exit the train at Malden Center and see station personnel for further assistance. Customer desiring elevator service to enter the station should utilize the call box system for further assistance. Alternatively, use Bus Routes 132, 136, or 137 to connect between Oak Grove and Malden Center."
 801,excludes-stop,door-ogmnl-wash
 801,excludes-stop,9326
 801,excludes-stop,9328
+801,excludes-stop,Oak Grove-01
+801,excludes-stop,Oak Grove-02
 102,direction,up
 102,excludes-stop,door-ogmnl-banks
 102,excludes-stop,9326
 102,excludes-stop,9328
+102,excludes-stop,Oak Grove-01
+102,excludes-stop,Oak Grove-02
 103,direction,up
 103,excludes-stop,door-ogmnl-wash
 103,excludes-stop,door-ogmnl-banks
 103,excludes-stop,9326
 103,excludes-stop,9328
+103,excludes-stop,Oak Grove-01
+103,excludes-stop,Oak Grove-02
 105,direction,up
 105,excludes-stop,door-ogmnl-wash
 105,excludes-stop,door-ogmnl-banks
 105,excludes-stop,9326
 105,excludes-stop,9328
+105,excludes-stop,Oak Grove-01
+105,excludes-stop,Oak Grove-02
 104,direction,up
 104,excludes-stop,door-ogmnl-wash
 104,excludes-stop,9326
 104,excludes-stop,9328
+104,excludes-stop,Oak Grove-01
+104,excludes-stop,Oak Grove-02
 440,direction,up
 440,excludes-stop,door-orhte-benning
 440,excludes-stop,door-orhte-saratoga
