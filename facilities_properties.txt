@@ -610,22 +610,14 @@ facility_id,property_id,value
 360,excludes-stop,70069
 952,alternate-service-text,"If exiting at Charles/MGH, exit the train at Kendall and see station personnel for assistance switching to an Ashmont-/Braintree-bound train. Exit at Charles/MGH using Charles/MGH Elevator 951. If boarding at Charles/MGH, use Charles/MGH Elevator 951 to take an Ashmont-/Braintree-bound train to Park Street and switch to an Alewife-bound train."
 952,excludes-stop,70073
-952,excludes-stop,9070073
-952,excludes-stop,9070074
 951,alternate-service-text,"If exiting at Charles/MGH, exit the train at Park Street and switch to an Alewife-bound Red Line train. Exit Charles/MGH using Charles/MGH Elevator 952. If boarding at Charles/MGH, take an Alewife-bound Red Line train to Kendall and see station personnel for assistance boarding an Ashmont-/Braintree-bound train."
 951,excludes-stop,70073
 951,excludes-stop,70074
-951,excludes-stop,9070073
-951,excludes-stop,9070074
 425,direction,up
 425,excludes-stop,70073
 425,excludes-stop,70074
-425,excludes-stop,9070073
-425,excludes-stop,9070074
 426,direction,up
 426,excludes-stop,70073
-426,excludes-stop,9070073
-426,excludes-stop,9070074
 922,alternate-service-text,"If exiting, exit the train at Tufts Medical Center and switch to an Oak Grove-bound train. Exit at Chinatown using Chinatown Elevator 876. If boarding, take the Silver Line to Tufts Medical Center. Alternatively, if you are able, follow Washington Street for one-quarter of a mile to Downtown Crossing Elevator 892 (corner of Winter and Washington Streets)."
 922,excludes-stop,door-chncl-ogessex
 922,excludes-stop,door-chncl-foresthills
@@ -948,11 +940,7 @@ facility_id,property_id,value
 721,alternate-service-text,Please use adjacent Government Center Elevator 720.
 721,excludes-stop,4510
 844,alternate-service-text,"If exiting, exit the Orange Line at Forest Hills and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Green Street to request assistance."
-844,excludes-stop,9070002
-844,excludes-stop,9070003
 131,direction,up
-131,excludes-stop,9070002
-131,excludes-stop,9070003
 516,direction,up
 516,excludes-stop,door-harsq-square
 516,excludes-stop,door-harsq-brattle
@@ -1034,10 +1022,8 @@ facility_id,property_id,value
 315,excludes-stop,93
 133,direction,up
 133,excludes-stop,11531
-133,excludes-stop,9070007
 846,alternate-service-text,Customers requiring elevator access to exit the station must exit at Roxbury Crossing and board the Route 22 bus service to Jackson Square. Customers desiring elevator access to enter the station should board the Route 22 bus service at Jackson Square to Roxbury Crossing for Orange Line service. Please see station personnel for assistance.
 846,excludes-stop,11531
-846,excludes-stop,9070007
 322,direction,up
 322,excludes-stop,door-jfk-busway
 322,excludes-stop,door-jfk-oldcolony
@@ -1073,28 +1059,24 @@ facility_id,property_id,value
 866,excludes-stop,door-knncl-nbsecond
 866,excludes-stop,2231
 866,excludes-stop,70071
-866,excludes-stop,9070071
 863,alternate-service-text,"If exiting at Kendall, exit the Red Line at Charles/MGH, switch to an Alewife train, and exit at Kendall using Kendall Elevator 866. If boarding at Kendall, cross the street and use Kendall Elevator 866 to board an Alewife-bound train to Harvard Square. At Harvard Square, board an Ashmont-/Braintree-bound Red Line train. Alternatively, take the Route 68 bus connecting Harvard Square and Kendall."
 863,excludes-stop,door-knncl-nbmain
 863,excludes-stop,door-knncl-sbsecond
 863,excludes-stop,door-knncl-nbsecond
 863,excludes-stop,2231
 863,excludes-stop,70072
-863,excludes-stop,9070071
 361,direction,up
 361,excludes-stop,door-knncl-nbmain
 361,excludes-stop,door-knncl-sbsecond
 361,excludes-stop,door-knncl-nbsecond
 361,excludes-stop,2231
 361,excludes-stop,70072
-361,excludes-stop,9070071
 362,direction,up
 362,excludes-stop,door-knncl-sbmain
 362,excludes-stop,door-knncl-sbsecond
 362,excludes-stop,door-knncl-nbsecond
 362,excludes-stop,2231
 362,excludes-stop,70071
-362,excludes-stop,9070071
 432,direction,up
 432,excludes-stop,door-kencl-beacon
 432,excludes-stop,door-kencl-commonwealth
@@ -1179,16 +1161,12 @@ facility_id,property_id,value
 852,excludes-stop,door-masta-camden
 852,excludes-stop,187
 852,excludes-stop,188
-852,excludes-stop,9070012
-852,excludes-stop,9070013
 139,direction,up
 139,excludes-stop,door-masta-corridor
 139,excludes-stop,door-masta-main
 139,excludes-stop,door-masta-camden
 139,excludes-stop,187
 139,excludes-stop,188
-139,excludes-stop,9070012
-139,excludes-stop,9070013
 966,alternate-service-text,Please use Maverick Elevator 965 at Maverick Square busway.
 966,excludes-stop,door-mvbcl-square
 966,excludes-stop,5740
@@ -1617,7 +1595,6 @@ facility_id,property_id,value
 978,excludes-stop,door-pktrm-exitalewife
 978,excludes-stop,door-pktrm-west
 978,excludes-stop,70200
-978,excludes-stop,9070076
 320,direction,up
 320,excludes-stop,door-pktrm-tremontw
 320,excludes-stop,door-pktrm-elevatorwb
@@ -1630,7 +1607,6 @@ facility_id,property_id,value
 320,excludes-stop,70197
 320,excludes-stop,70198
 320,excludes-stop,70199
-320,excludes-stop,9070076
 812,alternate-service-text,Use Elevs 978 & 804 at street to switch btwn Green Line platforms.
 812,excludes-stop,door-pktrm-tremontw
 812,excludes-stop,door-pktrm-elevatorwb
@@ -1646,7 +1622,6 @@ facility_id,property_id,value
 812,excludes-stop,70197
 812,excludes-stop,70198
 812,excludes-stop,70199
-812,excludes-stop,9070076
 823,alternate-service-text,Use Elevs 978 & 804 at street to go btwn Green Line platforms.
 823,excludes-stop,door-pktrm-tremontw
 823,excludes-stop,door-pktrm-elevatorwb
@@ -1659,7 +1634,6 @@ facility_id,property_id,value
 823,excludes-stop,70075
 823,excludes-stop,70076
 823,excludes-stop,70200
-823,excludes-stop,9070076
 804,alternate-service-text,Use Park St Elev 892 @ Winter & Washington Sts or Elev 978 on Boston Common.
 804,excludes-stop,door-pktrm-tremontw
 804,excludes-stop,door-pktrm-elevatorwb
@@ -1672,7 +1646,6 @@ facility_id,property_id,value
 804,excludes-stop,70197
 804,excludes-stop,70198
 804,excludes-stop,70199
-804,excludes-stop,9070076
 979,alternate-service-text,Use Elevator 808 at end of Red Line platform connecting to lobby.
 979,excludes-stop,door-pktrm-tremontw
 979,excludes-stop,door-pktrm-elevatorwb
@@ -1687,7 +1660,6 @@ facility_id,property_id,value
 979,excludes-stop,70198
 979,excludes-stop,70199
 979,excludes-stop,70200
-979,excludes-stop,9070076
 373,direction,up
 373,excludes-stop,door-pktrm-tremontw
 373,excludes-stop,door-pktrm-elevatorwb
@@ -1702,7 +1674,6 @@ facility_id,property_id,value
 373,excludes-stop,70198
 373,excludes-stop,70199
 373,excludes-stop,70200
-373,excludes-stop,9070076
 808,alternate-service-text,"Use Elevator 979 connecting Red Line center platform to Green Line west, & add'l elevator to street"
 808,excludes-stop,door-pktrm-tremontw
 808,excludes-stop,door-pktrm-elevatorwb
@@ -1717,7 +1688,6 @@ facility_id,property_id,value
 808,excludes-stop,70198
 808,excludes-stop,70199
 808,excludes-stop,70200
-808,excludes-stop,9070076
 375,direction,up
 375,excludes-stop,door-pktrm-tremontw
 375,excludes-stop,door-pktrm-elevatorwb
@@ -1732,7 +1702,6 @@ facility_id,property_id,value
 375,excludes-stop,70198
 375,excludes-stop,70199
 375,excludes-stop,70200
-375,excludes-stop,9070076
 986,alternate-service-text,See station personnel or use the call box to request assistance.
 986,excludes-stop,door-portr-escal
 986,excludes-stop,door-portr-crtransfer
@@ -1940,11 +1909,9 @@ facility_id,property_id,value
 847,alternate-service-text,Customers desiring elevator service at Roxbury Crossing must continue to Ruggles and board the Route 22 bus back to Roxbury Crossing. Customers desiring to enter the station should see station personnel for further assistance.
 847,excludes-stop,1258
 847,excludes-stop,1323
-847,excludes-stop,9070008
 134,direction,up
 134,excludes-stop,1258
 134,excludes-stop,1323
-134,excludes-stop,9070008
 135,direction,up
 135,excludes-stop,door-rugg-upper
 135,excludes-stop,door-rugg-ruggles
@@ -2619,11 +2586,7 @@ facility_id,property_id,value
 975,excludes-stop,65
 975,excludes-stop,70041
 132,direction,up
-132,excludes-stop,9070004
-132,excludes-stop,9070005
 845,alternate-service-text,"If exiting, exit the Orange Line at Jackson Square and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Stony Brook to request assistance."
-845,excludes-stop,9070004
-845,excludes-stop,9070005
 840,alternate-service-text,"If exiting, exit the train and at the opposite side of the platform, wait for an Oak Grove train to arrive. Cross through the train to the opposite platform and use Sullivan Square Elevator 881 to reach the lobby. \nIf boarding, please use Sullivan Square Elevator 881 to the Oak Grove-bound platform. As you exit the elevator at the platform level, turn left to wait for an Oak Grove-bound train. Cross through the train to the opposite platform and wait for a Forest Hills-bound train."
 840,excludes-stop,door-sull-main
 840,excludes-stop,2874
@@ -8222,79 +8185,39 @@ ev-NEC-1659,capacity,10
 portlift-lake,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-smary,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-smary,excludes-stop,70211
-portlift-smary,excludes-stop,9070211
-portlift-smary,excludes-stop,9070212
 portlift-bucen,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-bucen,excludes-stop,70211
-portlift-bucen,excludes-stop,9070211
-portlift-bucen,excludes-stop,9070212
 portlift-bucen,excludes-stop,70144
 portlift-newto,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newto,excludes-stop,70211
-portlift-newto,excludes-stop,9070211
-portlift-newto,excludes-stop,9070212
 portlift-newto,excludes-stop,70144
 portlift-newto,excludes-stop,70170
-portlift-newto,excludes-stop,9070170
-portlift-newto,excludes-stop,9070171
-portlift-newto,excludes-stop,9170170
-portlift-newto,excludes-stop,9170171
 portlift-hsmnl,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-hsmnl,excludes-stop,70211
-portlift-hsmnl,excludes-stop,9070211
-portlift-hsmnl,excludes-stop,9070212
 portlift-hsmnl,excludes-stop,70144
 portlift-hsmnl,excludes-stop,70170
-portlift-hsmnl,excludes-stop,9070170
-portlift-hsmnl,excludes-stop,9070171
-portlift-hsmnl,excludes-stop,9170170
-portlift-hsmnl,excludes-stop,9170171
 portlift-mfa,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-mfa,excludes-stop,70211
-portlift-mfa,excludes-stop,9070211
-portlift-mfa,excludes-stop,9070212
 portlift-mfa,excludes-stop,70144
 portlift-mfa,excludes-stop,70170
-portlift-mfa,excludes-stop,9070170
-portlift-mfa,excludes-stop,9070171
-portlift-mfa,excludes-stop,9170170
-portlift-mfa,excludes-stop,9170171
 portlift-mfa,excludes-stop,70245
 portlift-armnl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-armnl-0,excludes-stop,70211
-portlift-armnl-0,excludes-stop,9070211
-portlift-armnl-0,excludes-stop,9070212
 portlift-armnl-0,excludes-stop,70144
 portlift-armnl-0,excludes-stop,70170
-portlift-armnl-0,excludes-stop,9070170
-portlift-armnl-0,excludes-stop,9070171
-portlift-armnl-0,excludes-stop,9170170
-portlift-armnl-0,excludes-stop,9170171
 portlift-armnl-0,excludes-stop,70245
 portlift-armnl-0,excludes-stop,70157
 portlift-armnl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-armnl-1,excludes-stop,70211
-portlift-armnl-1,excludes-stop,9070211
-portlift-armnl-1,excludes-stop,9070212
 portlift-armnl-1,excludes-stop,70144
 portlift-armnl-1,excludes-stop,70170
-portlift-armnl-1,excludes-stop,9070170
-portlift-armnl-1,excludes-stop,9070171
-portlift-armnl-1,excludes-stop,9170170
-portlift-armnl-1,excludes-stop,9170171
 portlift-armnl-1,excludes-stop,70245
 portlift-armnl-1,excludes-stop,70157
 portlift-armnl-1,excludes-stop,70156
 portlift-asmnl,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-asmnl,excludes-stop,70211
-portlift-asmnl,excludes-stop,9070211
-portlift-asmnl,excludes-stop,9070212
 portlift-asmnl,excludes-stop,70144
 portlift-asmnl,excludes-stop,70170
-portlift-asmnl,excludes-stop,9070170
-portlift-asmnl,excludes-stop,9070171
-portlift-asmnl,excludes-stop,9170170
-portlift-asmnl,excludes-stop,9170171
 portlift-asmnl,excludes-stop,70245
 portlift-asmnl,excludes-stop,70157
 portlift-asmnl,excludes-stop,70156
@@ -8303,14 +8226,8 @@ portlift-asmnl,excludes-stop,70094
 portlift-asmnl,excludes-stop,334
 portlift-buest,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-buest,excludes-stop,70211
-portlift-buest,excludes-stop,9070211
-portlift-buest,excludes-stop,9070212
 portlift-buest,excludes-stop,70144
 portlift-buest,excludes-stop,70170
-portlift-buest,excludes-stop,9070170
-portlift-buest,excludes-stop,9070171
-portlift-buest,excludes-stop,9170170
-portlift-buest,excludes-stop,9170171
 portlift-buest,excludes-stop,70245
 portlift-buest,excludes-stop,70157
 portlift-buest,excludes-stop,70156
@@ -8319,14 +8236,8 @@ portlift-buest,excludes-stop,70094
 portlift-buest,excludes-stop,334
 portlift-brmnl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brmnl-0,excludes-stop,70211
-portlift-brmnl-0,excludes-stop,9070211
-portlift-brmnl-0,excludes-stop,9070212
 portlift-brmnl-0,excludes-stop,70144
 portlift-brmnl-0,excludes-stop,70170
-portlift-brmnl-0,excludes-stop,9070170
-portlift-brmnl-0,excludes-stop,9070171
-portlift-brmnl-0,excludes-stop,9170170
-portlift-brmnl-0,excludes-stop,9170171
 portlift-brmnl-0,excludes-stop,70245
 portlift-brmnl-0,excludes-stop,70157
 portlift-brmnl-0,excludes-stop,70156
@@ -8336,14 +8247,8 @@ portlift-brmnl-0,excludes-stop,334
 portlift-brmnl-0,excludes-stop,70250
 portlift-brmnl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brmnl-1,excludes-stop,70211
-portlift-brmnl-1,excludes-stop,9070211
-portlift-brmnl-1,excludes-stop,9070212
 portlift-brmnl-1,excludes-stop,70144
 portlift-brmnl-1,excludes-stop,70170
-portlift-brmnl-1,excludes-stop,9070170
-portlift-brmnl-1,excludes-stop,9070171
-portlift-brmnl-1,excludes-stop,9170170
-portlift-brmnl-1,excludes-stop,9170171
 portlift-brmnl-1,excludes-stop,70245
 portlift-brmnl-1,excludes-stop,70157
 portlift-brmnl-1,excludes-stop,70156
@@ -8354,14 +8259,8 @@ portlift-brmnl-1,excludes-stop,70250
 portlift-brmnl-1,excludes-stop,70249
 portlift-clmnl,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-clmnl,excludes-stop,70211
-portlift-clmnl,excludes-stop,9070211
-portlift-clmnl,excludes-stop,9070212
 portlift-clmnl,excludes-stop,70144
 portlift-clmnl,excludes-stop,70170
-portlift-clmnl,excludes-stop,9070170
-portlift-clmnl,excludes-stop,9070171
-portlift-clmnl,excludes-stop,9170170
-portlift-clmnl,excludes-stop,9170171
 portlift-clmnl,excludes-stop,70245
 portlift-clmnl,excludes-stop,70157
 portlift-clmnl,excludes-stop,70156
@@ -8372,14 +8271,8 @@ portlift-clmnl,excludes-stop,70250
 portlift-clmnl,excludes-stop,70249
 portlift-cool-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-cool-0,excludes-stop,70211
-portlift-cool-0,excludes-stop,9070211
-portlift-cool-0,excludes-stop,9070212
 portlift-cool-0,excludes-stop,70144
 portlift-cool-0,excludes-stop,70170
-portlift-cool-0,excludes-stop,9070170
-portlift-cool-0,excludes-stop,9070171
-portlift-cool-0,excludes-stop,9170170
-portlift-cool-0,excludes-stop,9170171
 portlift-cool-0,excludes-stop,70245
 portlift-cool-0,excludes-stop,70157
 portlift-cool-0,excludes-stop,70156
@@ -8393,14 +8286,8 @@ portlift-cool-0,excludes-stop,1308
 portlift-cool-0,excludes-stop,1372
 portlift-cool-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-cool-1,excludes-stop,70211
-portlift-cool-1,excludes-stop,9070211
-portlift-cool-1,excludes-stop,9070212
 portlift-cool-1,excludes-stop,70144
 portlift-cool-1,excludes-stop,70170
-portlift-cool-1,excludes-stop,9070170
-portlift-cool-1,excludes-stop,9070171
-portlift-cool-1,excludes-stop,9170170
-portlift-cool-1,excludes-stop,9170171
 portlift-cool-1,excludes-stop,70245
 portlift-cool-1,excludes-stop,70157
 portlift-cool-1,excludes-stop,70156
@@ -8417,14 +8304,8 @@ portlift-cool-1,excludes-stop,1308
 portlift-cool-1,excludes-stop,1372
 portlift-coecl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-coecl-0,excludes-stop,70211
-portlift-coecl-0,excludes-stop,9070211
-portlift-coecl-0,excludes-stop,9070212
 portlift-coecl-0,excludes-stop,70144
 portlift-coecl-0,excludes-stop,70170
-portlift-coecl-0,excludes-stop,9070170
-portlift-coecl-0,excludes-stop,9070171
-portlift-coecl-0,excludes-stop,9170170
-portlift-coecl-0,excludes-stop,9170171
 portlift-coecl-0,excludes-stop,70245
 portlift-coecl-0,excludes-stop,70157
 portlift-coecl-0,excludes-stop,70156
@@ -8442,14 +8323,8 @@ portlift-coecl-0,excludes-stop,1372
 portlift-coecl-0,excludes-stop,70155
 portlift-coecl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-coecl-1,excludes-stop,70211
-portlift-coecl-1,excludes-stop,9070211
-portlift-coecl-1,excludes-stop,9070212
 portlift-coecl-1,excludes-stop,70144
 portlift-coecl-1,excludes-stop,70170
-portlift-coecl-1,excludes-stop,9070170
-portlift-coecl-1,excludes-stop,9070171
-portlift-coecl-1,excludes-stop,9170170
-portlift-coecl-1,excludes-stop,9170171
 portlift-coecl-1,excludes-stop,70245
 portlift-coecl-1,excludes-stop,70157
 portlift-coecl-1,excludes-stop,70156
@@ -8468,14 +8343,8 @@ portlift-coecl-1,excludes-stop,70155
 portlift-coecl-1,excludes-stop,70154
 portlift-fenwy,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-fenwy,excludes-stop,70211
-portlift-fenwy,excludes-stop,9070211
-portlift-fenwy,excludes-stop,9070212
 portlift-fenwy,excludes-stop,70144
 portlift-fenwy,excludes-stop,70170
-portlift-fenwy,excludes-stop,9070170
-portlift-fenwy,excludes-stop,9070171
-portlift-fenwy,excludes-stop,9170170
-portlift-fenwy,excludes-stop,9170171
 portlift-fenwy,excludes-stop,70245
 portlift-fenwy,excludes-stop,70157
 portlift-fenwy,excludes-stop,70156
@@ -8497,14 +8366,8 @@ portlift-fenwy,excludes-stop,1807
 portlift-fenwy,excludes-stop,9434
 portlift-gover,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-gover,excludes-stop,70211
-portlift-gover,excludes-stop,9070211
-portlift-gover,excludes-stop,9070212
 portlift-gover,excludes-stop,70144
 portlift-gover,excludes-stop,70170
-portlift-gover,excludes-stop,9070170
-portlift-gover,excludes-stop,9070171
-portlift-gover,excludes-stop,9170170
-portlift-gover,excludes-stop,9170171
 portlift-gover,excludes-stop,70245
 portlift-gover,excludes-stop,70157
 portlift-gover,excludes-stop,70156
@@ -8529,14 +8392,8 @@ portlift-gover,excludes-stop,70040
 portlift-gover,excludes-stop,4510
 portlift-harvd-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-harvd-0,excludes-stop,70211
-portlift-harvd-0,excludes-stop,9070211
-portlift-harvd-0,excludes-stop,9070212
 portlift-harvd-0,excludes-stop,70144
 portlift-harvd-0,excludes-stop,70170
-portlift-harvd-0,excludes-stop,9070170
-portlift-harvd-0,excludes-stop,9070171
-portlift-harvd-0,excludes-stop,9170170
-portlift-harvd-0,excludes-stop,9170171
 portlift-harvd-0,excludes-stop,70245
 portlift-harvd-0,excludes-stop,70157
 portlift-harvd-0,excludes-stop,70156
@@ -8560,18 +8417,10 @@ portlift-harvd-0,excludes-stop,70039
 portlift-harvd-0,excludes-stop,70040
 portlift-harvd-0,excludes-stop,4510
 portlift-harvd-0,excludes-stop,70131
-portlift-harvd-0,excludes-stop,9070130
-portlift-harvd-0,excludes-stop,9070131
 portlift-harvd-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-harvd-1,excludes-stop,70211
-portlift-harvd-1,excludes-stop,9070211
-portlift-harvd-1,excludes-stop,9070212
 portlift-harvd-1,excludes-stop,70144
 portlift-harvd-1,excludes-stop,70170
-portlift-harvd-1,excludes-stop,9070170
-portlift-harvd-1,excludes-stop,9070171
-portlift-harvd-1,excludes-stop,9170170
-portlift-harvd-1,excludes-stop,9170171
 portlift-harvd-1,excludes-stop,70245
 portlift-harvd-1,excludes-stop,70157
 portlift-harvd-1,excludes-stop,70156
@@ -8595,21 +8444,11 @@ portlift-harvd-1,excludes-stop,70039
 portlift-harvd-1,excludes-stop,70040
 portlift-harvd-1,excludes-stop,4510
 portlift-harvd-1,excludes-stop,70131
-portlift-harvd-1,excludes-stop,9070130
-portlift-harvd-1,excludes-stop,9070131
 portlift-harvd-1,excludes-stop,70130
-portlift-harvd-1,excludes-stop,9070130
-portlift-harvd-1,excludes-stop,9070131
 portlift-haecl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-haecl-0,excludes-stop,70211
-portlift-haecl-0,excludes-stop,9070211
-portlift-haecl-0,excludes-stop,9070212
 portlift-haecl-0,excludes-stop,70144
 portlift-haecl-0,excludes-stop,70170
-portlift-haecl-0,excludes-stop,9070170
-portlift-haecl-0,excludes-stop,9070171
-portlift-haecl-0,excludes-stop,9170170
-portlift-haecl-0,excludes-stop,9170171
 portlift-haecl-0,excludes-stop,70245
 portlift-haecl-0,excludes-stop,70157
 portlift-haecl-0,excludes-stop,70156
@@ -8633,25 +8472,15 @@ portlift-haecl-0,excludes-stop,70039
 portlift-haecl-0,excludes-stop,70040
 portlift-haecl-0,excludes-stop,4510
 portlift-haecl-0,excludes-stop,70131
-portlift-haecl-0,excludes-stop,9070130
-portlift-haecl-0,excludes-stop,9070131
 portlift-haecl-0,excludes-stop,70130
-portlift-haecl-0,excludes-stop,9070130
-portlift-haecl-0,excludes-stop,9070131
 portlift-haecl-0,excludes-stop,70204
 portlift-haecl-0,excludes-stop,70024
 portlift-haecl-0,excludes-stop,70025
 portlift-haecl-0,excludes-stop,8310
 portlift-haecl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-haecl-1,excludes-stop,70211
-portlift-haecl-1,excludes-stop,9070211
-portlift-haecl-1,excludes-stop,9070212
 portlift-haecl-1,excludes-stop,70144
 portlift-haecl-1,excludes-stop,70170
-portlift-haecl-1,excludes-stop,9070170
-portlift-haecl-1,excludes-stop,9070171
-portlift-haecl-1,excludes-stop,9170170
-portlift-haecl-1,excludes-stop,9170171
 portlift-haecl-1,excludes-stop,70245
 portlift-haecl-1,excludes-stop,70157
 portlift-haecl-1,excludes-stop,70156
@@ -8675,11 +8504,7 @@ portlift-haecl-1,excludes-stop,70039
 portlift-haecl-1,excludes-stop,70040
 portlift-haecl-1,excludes-stop,4510
 portlift-haecl-1,excludes-stop,70131
-portlift-haecl-1,excludes-stop,9070130
-portlift-haecl-1,excludes-stop,9070131
 portlift-haecl-1,excludes-stop,70130
-portlift-haecl-1,excludes-stop,9070130
-portlift-haecl-1,excludes-stop,9070131
 portlift-haecl-1,excludes-stop,70204
 portlift-haecl-1,excludes-stop,70024
 portlift-haecl-1,excludes-stop,70025
@@ -8690,14 +8515,8 @@ portlift-haecl-1,excludes-stop,70025
 portlift-haecl-1,excludes-stop,8310
 portlift-kencl,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-kencl,excludes-stop,70211
-portlift-kencl,excludes-stop,9070211
-portlift-kencl,excludes-stop,9070212
 portlift-kencl,excludes-stop,70144
 portlift-kencl,excludes-stop,70170
-portlift-kencl,excludes-stop,9070170
-portlift-kencl,excludes-stop,9070171
-portlift-kencl,excludes-stop,9170170
-portlift-kencl,excludes-stop,9170171
 portlift-kencl,excludes-stop,70245
 portlift-kencl,excludes-stop,70157
 portlift-kencl,excludes-stop,70156
@@ -8721,11 +8540,7 @@ portlift-kencl,excludes-stop,70039
 portlift-kencl,excludes-stop,70040
 portlift-kencl,excludes-stop,4510
 portlift-kencl,excludes-stop,70131
-portlift-kencl,excludes-stop,9070130
-portlift-kencl,excludes-stop,9070131
 portlift-kencl,excludes-stop,70130
-portlift-kencl,excludes-stop,9070130
-portlift-kencl,excludes-stop,9070131
 portlift-kencl,excludes-stop,70204
 portlift-kencl,excludes-stop,70024
 portlift-kencl,excludes-stop,70025
@@ -8736,14 +8551,8 @@ portlift-kencl,excludes-stop,70025
 portlift-kencl,excludes-stop,8310
 portlift-lech-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-lech-0,excludes-stop,70211
-portlift-lech-0,excludes-stop,9070211
-portlift-lech-0,excludes-stop,9070212
 portlift-lech-0,excludes-stop,70144
 portlift-lech-0,excludes-stop,70170
-portlift-lech-0,excludes-stop,9070170
-portlift-lech-0,excludes-stop,9070171
-portlift-lech-0,excludes-stop,9170170
-portlift-lech-0,excludes-stop,9170171
 portlift-lech-0,excludes-stop,70245
 portlift-lech-0,excludes-stop,70157
 portlift-lech-0,excludes-stop,70156
@@ -8767,11 +8576,7 @@ portlift-lech-0,excludes-stop,70039
 portlift-lech-0,excludes-stop,70040
 portlift-lech-0,excludes-stop,4510
 portlift-lech-0,excludes-stop,70131
-portlift-lech-0,excludes-stop,9070130
-portlift-lech-0,excludes-stop,9070131
 portlift-lech-0,excludes-stop,70130
-portlift-lech-0,excludes-stop,9070130
-portlift-lech-0,excludes-stop,9070131
 portlift-lech-0,excludes-stop,70204
 portlift-lech-0,excludes-stop,70024
 portlift-lech-0,excludes-stop,70025
@@ -8784,14 +8589,8 @@ portlift-lech-0,excludes-stop,70210
 portlift-lech-0,excludes-stop,14150
 portlift-lech-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-lech-1,excludes-stop,70211
-portlift-lech-1,excludes-stop,9070211
-portlift-lech-1,excludes-stop,9070212
 portlift-lech-1,excludes-stop,70144
 portlift-lech-1,excludes-stop,70170
-portlift-lech-1,excludes-stop,9070170
-portlift-lech-1,excludes-stop,9070171
-portlift-lech-1,excludes-stop,9170170
-portlift-lech-1,excludes-stop,9170171
 portlift-lech-1,excludes-stop,70245
 portlift-lech-1,excludes-stop,70157
 portlift-lech-1,excludes-stop,70156
@@ -8815,11 +8614,7 @@ portlift-lech-1,excludes-stop,70039
 portlift-lech-1,excludes-stop,70040
 portlift-lech-1,excludes-stop,4510
 portlift-lech-1,excludes-stop,70131
-portlift-lech-1,excludes-stop,9070130
-portlift-lech-1,excludes-stop,9070131
 portlift-lech-1,excludes-stop,70130
-portlift-lech-1,excludes-stop,9070130
-portlift-lech-1,excludes-stop,9070131
 portlift-lech-1,excludes-stop,70204
 portlift-lech-1,excludes-stop,70024
 portlift-lech-1,excludes-stop,70025
@@ -8834,14 +8629,8 @@ portlift-lech-1,excludes-stop,70209
 portlift-lech-1,excludes-stop,14150
 portlift-lngmd-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-lngmd-0,excludes-stop,70211
-portlift-lngmd-0,excludes-stop,9070211
-portlift-lngmd-0,excludes-stop,9070212
 portlift-lngmd-0,excludes-stop,70144
 portlift-lngmd-0,excludes-stop,70170
-portlift-lngmd-0,excludes-stop,9070170
-portlift-lngmd-0,excludes-stop,9070171
-portlift-lngmd-0,excludes-stop,9170170
-portlift-lngmd-0,excludes-stop,9170171
 portlift-lngmd-0,excludes-stop,70245
 portlift-lngmd-0,excludes-stop,70157
 portlift-lngmd-0,excludes-stop,70156
@@ -8865,11 +8654,7 @@ portlift-lngmd-0,excludes-stop,70039
 portlift-lngmd-0,excludes-stop,70040
 portlift-lngmd-0,excludes-stop,4510
 portlift-lngmd-0,excludes-stop,70131
-portlift-lngmd-0,excludes-stop,9070130
-portlift-lngmd-0,excludes-stop,9070131
 portlift-lngmd-0,excludes-stop,70130
-portlift-lngmd-0,excludes-stop,9070130
-portlift-lngmd-0,excludes-stop,9070131
 portlift-lngmd-0,excludes-stop,70204
 portlift-lngmd-0,excludes-stop,70024
 portlift-lngmd-0,excludes-stop,70025
@@ -8885,14 +8670,8 @@ portlift-lngmd-0,excludes-stop,14150
 portlift-lngmd-0,excludes-stop,70248
 portlift-lngmd-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-lngmd-1,excludes-stop,70211
-portlift-lngmd-1,excludes-stop,9070211
-portlift-lngmd-1,excludes-stop,9070212
 portlift-lngmd-1,excludes-stop,70144
 portlift-lngmd-1,excludes-stop,70170
-portlift-lngmd-1,excludes-stop,9070170
-portlift-lngmd-1,excludes-stop,9070171
-portlift-lngmd-1,excludes-stop,9170170
-portlift-lngmd-1,excludes-stop,9170171
 portlift-lngmd-1,excludes-stop,70245
 portlift-lngmd-1,excludes-stop,70157
 portlift-lngmd-1,excludes-stop,70156
@@ -8916,11 +8695,7 @@ portlift-lngmd-1,excludes-stop,70039
 portlift-lngmd-1,excludes-stop,70040
 portlift-lngmd-1,excludes-stop,4510
 portlift-lngmd-1,excludes-stop,70131
-portlift-lngmd-1,excludes-stop,9070130
-portlift-lngmd-1,excludes-stop,9070131
 portlift-lngmd-1,excludes-stop,70130
-portlift-lngmd-1,excludes-stop,9070130
-portlift-lngmd-1,excludes-stop,9070131
 portlift-lngmd-1,excludes-stop,70204
 portlift-lngmd-1,excludes-stop,70024
 portlift-lngmd-1,excludes-stop,70025
@@ -8937,14 +8712,8 @@ portlift-lngmd-1,excludes-stop,70248
 portlift-lngmd-1,excludes-stop,70247
 portlift-newtn-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newtn-0,excludes-stop,70211
-portlift-newtn-0,excludes-stop,9070211
-portlift-newtn-0,excludes-stop,9070212
 portlift-newtn-0,excludes-stop,70144
 portlift-newtn-0,excludes-stop,70170
-portlift-newtn-0,excludes-stop,9070170
-portlift-newtn-0,excludes-stop,9070171
-portlift-newtn-0,excludes-stop,9170170
-portlift-newtn-0,excludes-stop,9170171
 portlift-newtn-0,excludes-stop,70245
 portlift-newtn-0,excludes-stop,70157
 portlift-newtn-0,excludes-stop,70156
@@ -8968,11 +8737,7 @@ portlift-newtn-0,excludes-stop,70039
 portlift-newtn-0,excludes-stop,70040
 portlift-newtn-0,excludes-stop,4510
 portlift-newtn-0,excludes-stop,70131
-portlift-newtn-0,excludes-stop,9070130
-portlift-newtn-0,excludes-stop,9070131
 portlift-newtn-0,excludes-stop,70130
-portlift-newtn-0,excludes-stop,9070130
-portlift-newtn-0,excludes-stop,9070131
 portlift-newtn-0,excludes-stop,70204
 portlift-newtn-0,excludes-stop,70024
 portlift-newtn-0,excludes-stop,70025
@@ -8988,19 +8753,10 @@ portlift-newtn-0,excludes-stop,14150
 portlift-newtn-0,excludes-stop,70248
 portlift-newtn-0,excludes-stop,70247
 portlift-newtn-0,excludes-stop,70169
-portlift-newtn-0,excludes-stop,9070168
-portlift-newtn-0,excludes-stop,9170168
-portlift-newtn-0,excludes-stop,9170169
 portlift-newtn-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newtn-1,excludes-stop,70211
-portlift-newtn-1,excludes-stop,9070211
-portlift-newtn-1,excludes-stop,9070212
 portlift-newtn-1,excludes-stop,70144
 portlift-newtn-1,excludes-stop,70170
-portlift-newtn-1,excludes-stop,9070170
-portlift-newtn-1,excludes-stop,9070171
-portlift-newtn-1,excludes-stop,9170170
-portlift-newtn-1,excludes-stop,9170171
 portlift-newtn-1,excludes-stop,70245
 portlift-newtn-1,excludes-stop,70157
 portlift-newtn-1,excludes-stop,70156
@@ -9024,11 +8780,7 @@ portlift-newtn-1,excludes-stop,70039
 portlift-newtn-1,excludes-stop,70040
 portlift-newtn-1,excludes-stop,4510
 portlift-newtn-1,excludes-stop,70131
-portlift-newtn-1,excludes-stop,9070130
-portlift-newtn-1,excludes-stop,9070131
 portlift-newtn-1,excludes-stop,70130
-portlift-newtn-1,excludes-stop,9070130
-portlift-newtn-1,excludes-stop,9070131
 portlift-newtn-1,excludes-stop,70204
 portlift-newtn-1,excludes-stop,70024
 portlift-newtn-1,excludes-stop,70025
@@ -9044,23 +8796,11 @@ portlift-newtn-1,excludes-stop,14150
 portlift-newtn-1,excludes-stop,70248
 portlift-newtn-1,excludes-stop,70247
 portlift-newtn-1,excludes-stop,70169
-portlift-newtn-1,excludes-stop,9070168
-portlift-newtn-1,excludes-stop,9170168
-portlift-newtn-1,excludes-stop,9170169
 portlift-newtn-1,excludes-stop,70168
-portlift-newtn-1,excludes-stop,9070168
-portlift-newtn-1,excludes-stop,9170168
-portlift-newtn-1,excludes-stop,9170169
 portlift-north-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-north-0,excludes-stop,70211
-portlift-north-0,excludes-stop,9070211
-portlift-north-0,excludes-stop,9070212
 portlift-north-0,excludes-stop,70144
 portlift-north-0,excludes-stop,70170
-portlift-north-0,excludes-stop,9070170
-portlift-north-0,excludes-stop,9070171
-portlift-north-0,excludes-stop,9170170
-portlift-north-0,excludes-stop,9170171
 portlift-north-0,excludes-stop,70245
 portlift-north-0,excludes-stop,70157
 portlift-north-0,excludes-stop,70156
@@ -9084,11 +8824,7 @@ portlift-north-0,excludes-stop,70039
 portlift-north-0,excludes-stop,70040
 portlift-north-0,excludes-stop,4510
 portlift-north-0,excludes-stop,70131
-portlift-north-0,excludes-stop,9070130
-portlift-north-0,excludes-stop,9070131
 portlift-north-0,excludes-stop,70130
-portlift-north-0,excludes-stop,9070130
-portlift-north-0,excludes-stop,9070131
 portlift-north-0,excludes-stop,70204
 portlift-north-0,excludes-stop,70024
 portlift-north-0,excludes-stop,70025
@@ -9104,13 +8840,7 @@ portlift-north-0,excludes-stop,14150
 portlift-north-0,excludes-stop,70248
 portlift-north-0,excludes-stop,70247
 portlift-north-0,excludes-stop,70169
-portlift-north-0,excludes-stop,9070168
-portlift-north-0,excludes-stop,9170168
-portlift-north-0,excludes-stop,9170169
 portlift-north-0,excludes-stop,70168
-portlift-north-0,excludes-stop,9070168
-portlift-north-0,excludes-stop,9170168
-portlift-north-0,excludes-stop,9170169
 portlift-north-0,excludes-stop,113
 portlift-north-0,excludes-stop,114
 portlift-north-0,excludes-stop,70206
@@ -9129,14 +8859,8 @@ portlift-north-0,excludes-stop,North Station-09
 portlift-north-0,excludes-stop,North Station-10
 portlift-north-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-north-1,excludes-stop,70211
-portlift-north-1,excludes-stop,9070211
-portlift-north-1,excludes-stop,9070212
 portlift-north-1,excludes-stop,70144
 portlift-north-1,excludes-stop,70170
-portlift-north-1,excludes-stop,9070170
-portlift-north-1,excludes-stop,9070171
-portlift-north-1,excludes-stop,9170170
-portlift-north-1,excludes-stop,9170171
 portlift-north-1,excludes-stop,70245
 portlift-north-1,excludes-stop,70157
 portlift-north-1,excludes-stop,70156
@@ -9160,11 +8884,7 @@ portlift-north-1,excludes-stop,70039
 portlift-north-1,excludes-stop,70040
 portlift-north-1,excludes-stop,4510
 portlift-north-1,excludes-stop,70131
-portlift-north-1,excludes-stop,9070130
-portlift-north-1,excludes-stop,9070131
 portlift-north-1,excludes-stop,70130
-portlift-north-1,excludes-stop,9070130
-portlift-north-1,excludes-stop,9070131
 portlift-north-1,excludes-stop,70204
 portlift-north-1,excludes-stop,70024
 portlift-north-1,excludes-stop,70025
@@ -9180,13 +8900,7 @@ portlift-north-1,excludes-stop,14150
 portlift-north-1,excludes-stop,70248
 portlift-north-1,excludes-stop,70247
 portlift-north-1,excludes-stop,70169
-portlift-north-1,excludes-stop,9070168
-portlift-north-1,excludes-stop,9170168
-portlift-north-1,excludes-stop,9170169
 portlift-north-1,excludes-stop,70168
-portlift-north-1,excludes-stop,9070168
-portlift-north-1,excludes-stop,9170168
-portlift-north-1,excludes-stop,9170169
 portlift-north-1,excludes-stop,113
 portlift-north-1,excludes-stop,114
 portlift-north-1,excludes-stop,70206
@@ -9221,14 +8935,8 @@ portlift-north-1,excludes-stop,North Station-09
 portlift-north-1,excludes-stop,North Station-10
 portlift-nuniv-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-nuniv-0,excludes-stop,70211
-portlift-nuniv-0,excludes-stop,9070211
-portlift-nuniv-0,excludes-stop,9070212
 portlift-nuniv-0,excludes-stop,70144
 portlift-nuniv-0,excludes-stop,70170
-portlift-nuniv-0,excludes-stop,9070170
-portlift-nuniv-0,excludes-stop,9070171
-portlift-nuniv-0,excludes-stop,9170170
-portlift-nuniv-0,excludes-stop,9170171
 portlift-nuniv-0,excludes-stop,70245
 portlift-nuniv-0,excludes-stop,70157
 portlift-nuniv-0,excludes-stop,70156
@@ -9252,11 +8960,7 @@ portlift-nuniv-0,excludes-stop,70039
 portlift-nuniv-0,excludes-stop,70040
 portlift-nuniv-0,excludes-stop,4510
 portlift-nuniv-0,excludes-stop,70131
-portlift-nuniv-0,excludes-stop,9070130
-portlift-nuniv-0,excludes-stop,9070131
 portlift-nuniv-0,excludes-stop,70130
-portlift-nuniv-0,excludes-stop,9070130
-portlift-nuniv-0,excludes-stop,9070131
 portlift-nuniv-0,excludes-stop,70204
 portlift-nuniv-0,excludes-stop,70024
 portlift-nuniv-0,excludes-stop,70025
@@ -9272,13 +8976,7 @@ portlift-nuniv-0,excludes-stop,14150
 portlift-nuniv-0,excludes-stop,70248
 portlift-nuniv-0,excludes-stop,70247
 portlift-nuniv-0,excludes-stop,70169
-portlift-nuniv-0,excludes-stop,9070168
-portlift-nuniv-0,excludes-stop,9170168
-portlift-nuniv-0,excludes-stop,9170169
 portlift-nuniv-0,excludes-stop,70168
-portlift-nuniv-0,excludes-stop,9070168
-portlift-nuniv-0,excludes-stop,9170168
-portlift-nuniv-0,excludes-stop,9170169
 portlift-nuniv-0,excludes-stop,113
 portlift-nuniv-0,excludes-stop,114
 portlift-nuniv-0,excludes-stop,70206
@@ -9316,14 +9014,8 @@ portlift-nuniv-0,excludes-stop,41391
 portlift-nuniv-0,excludes-stop,81317
 portlift-nuniv-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-nuniv-1,excludes-stop,70211
-portlift-nuniv-1,excludes-stop,9070211
-portlift-nuniv-1,excludes-stop,9070212
 portlift-nuniv-1,excludes-stop,70144
 portlift-nuniv-1,excludes-stop,70170
-portlift-nuniv-1,excludes-stop,9070170
-portlift-nuniv-1,excludes-stop,9070171
-portlift-nuniv-1,excludes-stop,9170170
-portlift-nuniv-1,excludes-stop,9170171
 portlift-nuniv-1,excludes-stop,70245
 portlift-nuniv-1,excludes-stop,70157
 portlift-nuniv-1,excludes-stop,70156
@@ -9347,11 +9039,7 @@ portlift-nuniv-1,excludes-stop,70039
 portlift-nuniv-1,excludes-stop,70040
 portlift-nuniv-1,excludes-stop,4510
 portlift-nuniv-1,excludes-stop,70131
-portlift-nuniv-1,excludes-stop,9070130
-portlift-nuniv-1,excludes-stop,9070131
 portlift-nuniv-1,excludes-stop,70130
-portlift-nuniv-1,excludes-stop,9070130
-portlift-nuniv-1,excludes-stop,9070131
 portlift-nuniv-1,excludes-stop,70204
 portlift-nuniv-1,excludes-stop,70024
 portlift-nuniv-1,excludes-stop,70025
@@ -9367,13 +9055,7 @@ portlift-nuniv-1,excludes-stop,14150
 portlift-nuniv-1,excludes-stop,70248
 portlift-nuniv-1,excludes-stop,70247
 portlift-nuniv-1,excludes-stop,70169
-portlift-nuniv-1,excludes-stop,9070168
-portlift-nuniv-1,excludes-stop,9170168
-portlift-nuniv-1,excludes-stop,9170169
 portlift-nuniv-1,excludes-stop,70168
-portlift-nuniv-1,excludes-stop,9070168
-portlift-nuniv-1,excludes-stop,9170168
-portlift-nuniv-1,excludes-stop,9170169
 portlift-nuniv-1,excludes-stop,113
 portlift-nuniv-1,excludes-stop,114
 portlift-nuniv-1,excludes-stop,70206
@@ -9414,14 +9096,8 @@ portlift-nuniv-1,excludes-stop,41391
 portlift-nuniv-1,excludes-stop,81317
 portlift-pktrm-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-pktrm-0,excludes-stop,70211
-portlift-pktrm-0,excludes-stop,9070211
-portlift-pktrm-0,excludes-stop,9070212
 portlift-pktrm-0,excludes-stop,70144
 portlift-pktrm-0,excludes-stop,70170
-portlift-pktrm-0,excludes-stop,9070170
-portlift-pktrm-0,excludes-stop,9070171
-portlift-pktrm-0,excludes-stop,9170170
-portlift-pktrm-0,excludes-stop,9170171
 portlift-pktrm-0,excludes-stop,70245
 portlift-pktrm-0,excludes-stop,70157
 portlift-pktrm-0,excludes-stop,70156
@@ -9445,11 +9121,7 @@ portlift-pktrm-0,excludes-stop,70039
 portlift-pktrm-0,excludes-stop,70040
 portlift-pktrm-0,excludes-stop,4510
 portlift-pktrm-0,excludes-stop,70131
-portlift-pktrm-0,excludes-stop,9070130
-portlift-pktrm-0,excludes-stop,9070131
 portlift-pktrm-0,excludes-stop,70130
-portlift-pktrm-0,excludes-stop,9070130
-portlift-pktrm-0,excludes-stop,9070131
 portlift-pktrm-0,excludes-stop,70204
 portlift-pktrm-0,excludes-stop,70024
 portlift-pktrm-0,excludes-stop,70025
@@ -9465,13 +9137,7 @@ portlift-pktrm-0,excludes-stop,14150
 portlift-pktrm-0,excludes-stop,70248
 portlift-pktrm-0,excludes-stop,70247
 portlift-pktrm-0,excludes-stop,70169
-portlift-pktrm-0,excludes-stop,9070168
-portlift-pktrm-0,excludes-stop,9170168
-portlift-pktrm-0,excludes-stop,9170169
 portlift-pktrm-0,excludes-stop,70168
-portlift-pktrm-0,excludes-stop,9070168
-portlift-pktrm-0,excludes-stop,9170168
-portlift-pktrm-0,excludes-stop,9170169
 portlift-pktrm-0,excludes-stop,113
 portlift-pktrm-0,excludes-stop,114
 portlift-pktrm-0,excludes-stop,70206
@@ -9516,17 +9182,10 @@ portlift-pktrm-0,excludes-stop,70198
 portlift-pktrm-0,excludes-stop,70199
 portlift-pktrm-0,excludes-stop,70075
 portlift-pktrm-0,excludes-stop,70076
-portlift-pktrm-0,excludes-stop,9070076
 portlift-pktrm-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-pktrm-1,excludes-stop,70211
-portlift-pktrm-1,excludes-stop,9070211
-portlift-pktrm-1,excludes-stop,9070212
 portlift-pktrm-1,excludes-stop,70144
 portlift-pktrm-1,excludes-stop,70170
-portlift-pktrm-1,excludes-stop,9070170
-portlift-pktrm-1,excludes-stop,9070171
-portlift-pktrm-1,excludes-stop,9170170
-portlift-pktrm-1,excludes-stop,9170171
 portlift-pktrm-1,excludes-stop,70245
 portlift-pktrm-1,excludes-stop,70157
 portlift-pktrm-1,excludes-stop,70156
@@ -9550,11 +9209,7 @@ portlift-pktrm-1,excludes-stop,70039
 portlift-pktrm-1,excludes-stop,70040
 portlift-pktrm-1,excludes-stop,4510
 portlift-pktrm-1,excludes-stop,70131
-portlift-pktrm-1,excludes-stop,9070130
-portlift-pktrm-1,excludes-stop,9070131
 portlift-pktrm-1,excludes-stop,70130
-portlift-pktrm-1,excludes-stop,9070130
-portlift-pktrm-1,excludes-stop,9070131
 portlift-pktrm-1,excludes-stop,70204
 portlift-pktrm-1,excludes-stop,70024
 portlift-pktrm-1,excludes-stop,70025
@@ -9570,13 +9225,7 @@ portlift-pktrm-1,excludes-stop,14150
 portlift-pktrm-1,excludes-stop,70248
 portlift-pktrm-1,excludes-stop,70247
 portlift-pktrm-1,excludes-stop,70169
-portlift-pktrm-1,excludes-stop,9070168
-portlift-pktrm-1,excludes-stop,9170168
-portlift-pktrm-1,excludes-stop,9170169
 portlift-pktrm-1,excludes-stop,70168
-portlift-pktrm-1,excludes-stop,9070168
-portlift-pktrm-1,excludes-stop,9170168
-portlift-pktrm-1,excludes-stop,9170169
 portlift-pktrm-1,excludes-stop,113
 portlift-pktrm-1,excludes-stop,114
 portlift-pktrm-1,excludes-stop,70206
@@ -9621,21 +9270,13 @@ portlift-pktrm-1,excludes-stop,70198
 portlift-pktrm-1,excludes-stop,70199
 portlift-pktrm-1,excludes-stop,70075
 portlift-pktrm-1,excludes-stop,70076
-portlift-pktrm-1,excludes-stop,9070076
 portlift-pktrm-1,excludes-stop,70200
 portlift-pktrm-1,excludes-stop,70075
 portlift-pktrm-1,excludes-stop,70076
-portlift-pktrm-1,excludes-stop,9070076
 portlift-prmnl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-prmnl-0,excludes-stop,70211
-portlift-prmnl-0,excludes-stop,9070211
-portlift-prmnl-0,excludes-stop,9070212
 portlift-prmnl-0,excludes-stop,70144
 portlift-prmnl-0,excludes-stop,70170
-portlift-prmnl-0,excludes-stop,9070170
-portlift-prmnl-0,excludes-stop,9070171
-portlift-prmnl-0,excludes-stop,9170170
-portlift-prmnl-0,excludes-stop,9170171
 portlift-prmnl-0,excludes-stop,70245
 portlift-prmnl-0,excludes-stop,70157
 portlift-prmnl-0,excludes-stop,70156
@@ -9659,11 +9300,7 @@ portlift-prmnl-0,excludes-stop,70039
 portlift-prmnl-0,excludes-stop,70040
 portlift-prmnl-0,excludes-stop,4510
 portlift-prmnl-0,excludes-stop,70131
-portlift-prmnl-0,excludes-stop,9070130
-portlift-prmnl-0,excludes-stop,9070131
 portlift-prmnl-0,excludes-stop,70130
-portlift-prmnl-0,excludes-stop,9070130
-portlift-prmnl-0,excludes-stop,9070131
 portlift-prmnl-0,excludes-stop,70204
 portlift-prmnl-0,excludes-stop,70024
 portlift-prmnl-0,excludes-stop,70025
@@ -9679,13 +9316,7 @@ portlift-prmnl-0,excludes-stop,14150
 portlift-prmnl-0,excludes-stop,70248
 portlift-prmnl-0,excludes-stop,70247
 portlift-prmnl-0,excludes-stop,70169
-portlift-prmnl-0,excludes-stop,9070168
-portlift-prmnl-0,excludes-stop,9170168
-portlift-prmnl-0,excludes-stop,9170169
 portlift-prmnl-0,excludes-stop,70168
-portlift-prmnl-0,excludes-stop,9070168
-portlift-prmnl-0,excludes-stop,9170168
-portlift-prmnl-0,excludes-stop,9170169
 portlift-prmnl-0,excludes-stop,113
 portlift-prmnl-0,excludes-stop,114
 portlift-prmnl-0,excludes-stop,70206
@@ -9730,22 +9361,14 @@ portlift-prmnl-0,excludes-stop,70198
 portlift-prmnl-0,excludes-stop,70199
 portlift-prmnl-0,excludes-stop,70075
 portlift-prmnl-0,excludes-stop,70076
-portlift-prmnl-0,excludes-stop,9070076
 portlift-prmnl-0,excludes-stop,70200
 portlift-prmnl-0,excludes-stop,70075
 portlift-prmnl-0,excludes-stop,70076
-portlift-prmnl-0,excludes-stop,9070076
 portlift-prmnl-0,excludes-stop,70240
 portlift-prmnl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-prmnl-1,excludes-stop,70211
-portlift-prmnl-1,excludes-stop,9070211
-portlift-prmnl-1,excludes-stop,9070212
 portlift-prmnl-1,excludes-stop,70144
 portlift-prmnl-1,excludes-stop,70170
-portlift-prmnl-1,excludes-stop,9070170
-portlift-prmnl-1,excludes-stop,9070171
-portlift-prmnl-1,excludes-stop,9170170
-portlift-prmnl-1,excludes-stop,9170171
 portlift-prmnl-1,excludes-stop,70245
 portlift-prmnl-1,excludes-stop,70157
 portlift-prmnl-1,excludes-stop,70156
@@ -9769,11 +9392,7 @@ portlift-prmnl-1,excludes-stop,70039
 portlift-prmnl-1,excludes-stop,70040
 portlift-prmnl-1,excludes-stop,4510
 portlift-prmnl-1,excludes-stop,70131
-portlift-prmnl-1,excludes-stop,9070130
-portlift-prmnl-1,excludes-stop,9070131
 portlift-prmnl-1,excludes-stop,70130
-portlift-prmnl-1,excludes-stop,9070130
-portlift-prmnl-1,excludes-stop,9070131
 portlift-prmnl-1,excludes-stop,70204
 portlift-prmnl-1,excludes-stop,70024
 portlift-prmnl-1,excludes-stop,70025
@@ -9789,13 +9408,7 @@ portlift-prmnl-1,excludes-stop,14150
 portlift-prmnl-1,excludes-stop,70248
 portlift-prmnl-1,excludes-stop,70247
 portlift-prmnl-1,excludes-stop,70169
-portlift-prmnl-1,excludes-stop,9070168
-portlift-prmnl-1,excludes-stop,9170168
-portlift-prmnl-1,excludes-stop,9170169
 portlift-prmnl-1,excludes-stop,70168
-portlift-prmnl-1,excludes-stop,9070168
-portlift-prmnl-1,excludes-stop,9170168
-portlift-prmnl-1,excludes-stop,9170169
 portlift-prmnl-1,excludes-stop,113
 portlift-prmnl-1,excludes-stop,114
 portlift-prmnl-1,excludes-stop,70206
@@ -9840,23 +9453,15 @@ portlift-prmnl-1,excludes-stop,70198
 portlift-prmnl-1,excludes-stop,70199
 portlift-prmnl-1,excludes-stop,70075
 portlift-prmnl-1,excludes-stop,70076
-portlift-prmnl-1,excludes-stop,9070076
 portlift-prmnl-1,excludes-stop,70200
 portlift-prmnl-1,excludes-stop,70075
 portlift-prmnl-1,excludes-stop,70076
-portlift-prmnl-1,excludes-stop,9070076
 portlift-prmnl-1,excludes-stop,70240
 portlift-prmnl-1,excludes-stop,70239
 portlift-rsmnl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-rsmnl-0,excludes-stop,70211
-portlift-rsmnl-0,excludes-stop,9070211
-portlift-rsmnl-0,excludes-stop,9070212
 portlift-rsmnl-0,excludes-stop,70144
 portlift-rsmnl-0,excludes-stop,70170
-portlift-rsmnl-0,excludes-stop,9070170
-portlift-rsmnl-0,excludes-stop,9070171
-portlift-rsmnl-0,excludes-stop,9170170
-portlift-rsmnl-0,excludes-stop,9170171
 portlift-rsmnl-0,excludes-stop,70245
 portlift-rsmnl-0,excludes-stop,70157
 portlift-rsmnl-0,excludes-stop,70156
@@ -9880,11 +9485,7 @@ portlift-rsmnl-0,excludes-stop,70039
 portlift-rsmnl-0,excludes-stop,70040
 portlift-rsmnl-0,excludes-stop,4510
 portlift-rsmnl-0,excludes-stop,70131
-portlift-rsmnl-0,excludes-stop,9070130
-portlift-rsmnl-0,excludes-stop,9070131
 portlift-rsmnl-0,excludes-stop,70130
-portlift-rsmnl-0,excludes-stop,9070130
-portlift-rsmnl-0,excludes-stop,9070131
 portlift-rsmnl-0,excludes-stop,70204
 portlift-rsmnl-0,excludes-stop,70024
 portlift-rsmnl-0,excludes-stop,70025
@@ -9900,13 +9501,7 @@ portlift-rsmnl-0,excludes-stop,14150
 portlift-rsmnl-0,excludes-stop,70248
 portlift-rsmnl-0,excludes-stop,70247
 portlift-rsmnl-0,excludes-stop,70169
-portlift-rsmnl-0,excludes-stop,9070168
-portlift-rsmnl-0,excludes-stop,9170168
-portlift-rsmnl-0,excludes-stop,9170169
 portlift-rsmnl-0,excludes-stop,70168
-portlift-rsmnl-0,excludes-stop,9070168
-portlift-rsmnl-0,excludes-stop,9170168
-portlift-rsmnl-0,excludes-stop,9170169
 portlift-rsmnl-0,excludes-stop,113
 portlift-rsmnl-0,excludes-stop,114
 portlift-rsmnl-0,excludes-stop,70206
@@ -9951,25 +9546,17 @@ portlift-rsmnl-0,excludes-stop,70198
 portlift-rsmnl-0,excludes-stop,70199
 portlift-rsmnl-0,excludes-stop,70075
 portlift-rsmnl-0,excludes-stop,70076
-portlift-rsmnl-0,excludes-stop,9070076
 portlift-rsmnl-0,excludes-stop,70200
 portlift-rsmnl-0,excludes-stop,70075
 portlift-rsmnl-0,excludes-stop,70076
-portlift-rsmnl-0,excludes-stop,9070076
 portlift-rsmnl-0,excludes-stop,70240
 portlift-rsmnl-0,excludes-stop,70239
 portlift-rsmnl-0,excludes-stop,70175
 portlift-rsmnl-0,excludes-stop,21917
 portlift-rsmnl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-rsmnl-1,excludes-stop,70211
-portlift-rsmnl-1,excludes-stop,9070211
-portlift-rsmnl-1,excludes-stop,9070212
 portlift-rsmnl-1,excludes-stop,70144
 portlift-rsmnl-1,excludes-stop,70170
-portlift-rsmnl-1,excludes-stop,9070170
-portlift-rsmnl-1,excludes-stop,9070171
-portlift-rsmnl-1,excludes-stop,9170170
-portlift-rsmnl-1,excludes-stop,9170171
 portlift-rsmnl-1,excludes-stop,70245
 portlift-rsmnl-1,excludes-stop,70157
 portlift-rsmnl-1,excludes-stop,70156
@@ -9993,11 +9580,7 @@ portlift-rsmnl-1,excludes-stop,70039
 portlift-rsmnl-1,excludes-stop,70040
 portlift-rsmnl-1,excludes-stop,4510
 portlift-rsmnl-1,excludes-stop,70131
-portlift-rsmnl-1,excludes-stop,9070130
-portlift-rsmnl-1,excludes-stop,9070131
 portlift-rsmnl-1,excludes-stop,70130
-portlift-rsmnl-1,excludes-stop,9070130
-portlift-rsmnl-1,excludes-stop,9070131
 portlift-rsmnl-1,excludes-stop,70204
 portlift-rsmnl-1,excludes-stop,70024
 portlift-rsmnl-1,excludes-stop,70025
@@ -10013,13 +9596,7 @@ portlift-rsmnl-1,excludes-stop,14150
 portlift-rsmnl-1,excludes-stop,70248
 portlift-rsmnl-1,excludes-stop,70247
 portlift-rsmnl-1,excludes-stop,70169
-portlift-rsmnl-1,excludes-stop,9070168
-portlift-rsmnl-1,excludes-stop,9170168
-portlift-rsmnl-1,excludes-stop,9170169
 portlift-rsmnl-1,excludes-stop,70168
-portlift-rsmnl-1,excludes-stop,9070168
-portlift-rsmnl-1,excludes-stop,9170168
-portlift-rsmnl-1,excludes-stop,9170169
 portlift-rsmnl-1,excludes-stop,113
 portlift-rsmnl-1,excludes-stop,114
 portlift-rsmnl-1,excludes-stop,70206
@@ -10064,11 +9641,9 @@ portlift-rsmnl-1,excludes-stop,70198
 portlift-rsmnl-1,excludes-stop,70199
 portlift-rsmnl-1,excludes-stop,70075
 portlift-rsmnl-1,excludes-stop,70076
-portlift-rsmnl-1,excludes-stop,9070076
 portlift-rsmnl-1,excludes-stop,70200
 portlift-rsmnl-1,excludes-stop,70075
 portlift-rsmnl-1,excludes-stop,70076
-portlift-rsmnl-1,excludes-stop,9070076
 portlift-rsmnl-1,excludes-stop,70240
 portlift-rsmnl-1,excludes-stop,70239
 portlift-rsmnl-1,excludes-stop,70175
@@ -10077,14 +9652,8 @@ portlift-rsmnl-1,excludes-stop,70174
 portlift-rsmnl-1,excludes-stop,21917
 portlift-river,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-river,excludes-stop,70211
-portlift-river,excludes-stop,9070211
-portlift-river,excludes-stop,9070212
 portlift-river,excludes-stop,70144
 portlift-river,excludes-stop,70170
-portlift-river,excludes-stop,9070170
-portlift-river,excludes-stop,9070171
-portlift-river,excludes-stop,9170170
-portlift-river,excludes-stop,9170171
 portlift-river,excludes-stop,70245
 portlift-river,excludes-stop,70157
 portlift-river,excludes-stop,70156
@@ -10108,11 +9677,7 @@ portlift-river,excludes-stop,70039
 portlift-river,excludes-stop,70040
 portlift-river,excludes-stop,4510
 portlift-river,excludes-stop,70131
-portlift-river,excludes-stop,9070130
-portlift-river,excludes-stop,9070131
 portlift-river,excludes-stop,70130
-portlift-river,excludes-stop,9070130
-portlift-river,excludes-stop,9070131
 portlift-river,excludes-stop,70204
 portlift-river,excludes-stop,70024
 portlift-river,excludes-stop,70025
@@ -10128,13 +9693,7 @@ portlift-river,excludes-stop,14150
 portlift-river,excludes-stop,70248
 portlift-river,excludes-stop,70247
 portlift-river,excludes-stop,70169
-portlift-river,excludes-stop,9070168
-portlift-river,excludes-stop,9170168
-portlift-river,excludes-stop,9170169
 portlift-river,excludes-stop,70168
-portlift-river,excludes-stop,9070168
-portlift-river,excludes-stop,9170168
-portlift-river,excludes-stop,9170169
 portlift-river,excludes-stop,113
 portlift-river,excludes-stop,114
 portlift-river,excludes-stop,70206
@@ -10179,11 +9738,9 @@ portlift-river,excludes-stop,70198
 portlift-river,excludes-stop,70199
 portlift-river,excludes-stop,70075
 portlift-river,excludes-stop,70076
-portlift-river,excludes-stop,9070076
 portlift-river,excludes-stop,70200
 portlift-river,excludes-stop,70075
 portlift-river,excludes-stop,70076
-portlift-river,excludes-stop,9070076
 portlift-river,excludes-stop,70240
 portlift-river,excludes-stop,70239
 portlift-river,excludes-stop,70175
@@ -10192,14 +9749,8 @@ portlift-river,excludes-stop,70174
 portlift-river,excludes-stop,21917
 portlift-bcnwa-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-bcnwa-0,excludes-stop,70211
-portlift-bcnwa-0,excludes-stop,9070211
-portlift-bcnwa-0,excludes-stop,9070212
 portlift-bcnwa-0,excludes-stop,70144
 portlift-bcnwa-0,excludes-stop,70170
-portlift-bcnwa-0,excludes-stop,9070170
-portlift-bcnwa-0,excludes-stop,9070171
-portlift-bcnwa-0,excludes-stop,9170170
-portlift-bcnwa-0,excludes-stop,9170171
 portlift-bcnwa-0,excludes-stop,70245
 portlift-bcnwa-0,excludes-stop,70157
 portlift-bcnwa-0,excludes-stop,70156
@@ -10223,11 +9774,7 @@ portlift-bcnwa-0,excludes-stop,70039
 portlift-bcnwa-0,excludes-stop,70040
 portlift-bcnwa-0,excludes-stop,4510
 portlift-bcnwa-0,excludes-stop,70131
-portlift-bcnwa-0,excludes-stop,9070130
-portlift-bcnwa-0,excludes-stop,9070131
 portlift-bcnwa-0,excludes-stop,70130
-portlift-bcnwa-0,excludes-stop,9070130
-portlift-bcnwa-0,excludes-stop,9070131
 portlift-bcnwa-0,excludes-stop,70204
 portlift-bcnwa-0,excludes-stop,70024
 portlift-bcnwa-0,excludes-stop,70025
@@ -10243,13 +9790,7 @@ portlift-bcnwa-0,excludes-stop,14150
 portlift-bcnwa-0,excludes-stop,70248
 portlift-bcnwa-0,excludes-stop,70247
 portlift-bcnwa-0,excludes-stop,70169
-portlift-bcnwa-0,excludes-stop,9070168
-portlift-bcnwa-0,excludes-stop,9170168
-portlift-bcnwa-0,excludes-stop,9170169
 portlift-bcnwa-0,excludes-stop,70168
-portlift-bcnwa-0,excludes-stop,9070168
-portlift-bcnwa-0,excludes-stop,9170168
-portlift-bcnwa-0,excludes-stop,9170169
 portlift-bcnwa-0,excludes-stop,113
 portlift-bcnwa-0,excludes-stop,114
 portlift-bcnwa-0,excludes-stop,70206
@@ -10294,11 +9835,9 @@ portlift-bcnwa-0,excludes-stop,70198
 portlift-bcnwa-0,excludes-stop,70199
 portlift-bcnwa-0,excludes-stop,70075
 portlift-bcnwa-0,excludes-stop,70076
-portlift-bcnwa-0,excludes-stop,9070076
 portlift-bcnwa-0,excludes-stop,70200
 portlift-bcnwa-0,excludes-stop,70075
 portlift-bcnwa-0,excludes-stop,70076
-portlift-bcnwa-0,excludes-stop,9070076
 portlift-bcnwa-0,excludes-stop,70240
 portlift-bcnwa-0,excludes-stop,70239
 portlift-bcnwa-0,excludes-stop,70175
@@ -10310,14 +9849,8 @@ portlift-bcnwa-0,excludes-stop,1276
 portlift-bcnwa-0,excludes-stop,1292
 portlift-bcnwa-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-bcnwa-1,excludes-stop,70211
-portlift-bcnwa-1,excludes-stop,9070211
-portlift-bcnwa-1,excludes-stop,9070212
 portlift-bcnwa-1,excludes-stop,70144
 portlift-bcnwa-1,excludes-stop,70170
-portlift-bcnwa-1,excludes-stop,9070170
-portlift-bcnwa-1,excludes-stop,9070171
-portlift-bcnwa-1,excludes-stop,9170170
-portlift-bcnwa-1,excludes-stop,9170171
 portlift-bcnwa-1,excludes-stop,70245
 portlift-bcnwa-1,excludes-stop,70157
 portlift-bcnwa-1,excludes-stop,70156
@@ -10341,11 +9874,7 @@ portlift-bcnwa-1,excludes-stop,70039
 portlift-bcnwa-1,excludes-stop,70040
 portlift-bcnwa-1,excludes-stop,4510
 portlift-bcnwa-1,excludes-stop,70131
-portlift-bcnwa-1,excludes-stop,9070130
-portlift-bcnwa-1,excludes-stop,9070131
 portlift-bcnwa-1,excludes-stop,70130
-portlift-bcnwa-1,excludes-stop,9070130
-portlift-bcnwa-1,excludes-stop,9070131
 portlift-bcnwa-1,excludes-stop,70204
 portlift-bcnwa-1,excludes-stop,70024
 portlift-bcnwa-1,excludes-stop,70025
@@ -10361,13 +9890,7 @@ portlift-bcnwa-1,excludes-stop,14150
 portlift-bcnwa-1,excludes-stop,70248
 portlift-bcnwa-1,excludes-stop,70247
 portlift-bcnwa-1,excludes-stop,70169
-portlift-bcnwa-1,excludes-stop,9070168
-portlift-bcnwa-1,excludes-stop,9170168
-portlift-bcnwa-1,excludes-stop,9170169
 portlift-bcnwa-1,excludes-stop,70168
-portlift-bcnwa-1,excludes-stop,9070168
-portlift-bcnwa-1,excludes-stop,9170168
-portlift-bcnwa-1,excludes-stop,9170169
 portlift-bcnwa-1,excludes-stop,113
 portlift-bcnwa-1,excludes-stop,114
 portlift-bcnwa-1,excludes-stop,70206
@@ -10412,11 +9935,9 @@ portlift-bcnwa-1,excludes-stop,70198
 portlift-bcnwa-1,excludes-stop,70199
 portlift-bcnwa-1,excludes-stop,70075
 portlift-bcnwa-1,excludes-stop,70076
-portlift-bcnwa-1,excludes-stop,9070076
 portlift-bcnwa-1,excludes-stop,70200
 portlift-bcnwa-1,excludes-stop,70075
 portlift-bcnwa-1,excludes-stop,70076
-portlift-bcnwa-1,excludes-stop,9070076
 portlift-bcnwa-1,excludes-stop,70240
 portlift-bcnwa-1,excludes-stop,70239
 portlift-bcnwa-1,excludes-stop,70175
@@ -10431,14 +9952,8 @@ portlift-bcnwa-1,excludes-stop,1276
 portlift-bcnwa-1,excludes-stop,1292
 portlift-woodl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-woodl-0,excludes-stop,70211
-portlift-woodl-0,excludes-stop,9070211
-portlift-woodl-0,excludes-stop,9070212
 portlift-woodl-0,excludes-stop,70144
 portlift-woodl-0,excludes-stop,70170
-portlift-woodl-0,excludes-stop,9070170
-portlift-woodl-0,excludes-stop,9070171
-portlift-woodl-0,excludes-stop,9170170
-portlift-woodl-0,excludes-stop,9170171
 portlift-woodl-0,excludes-stop,70245
 portlift-woodl-0,excludes-stop,70157
 portlift-woodl-0,excludes-stop,70156
@@ -10462,11 +9977,7 @@ portlift-woodl-0,excludes-stop,70039
 portlift-woodl-0,excludes-stop,70040
 portlift-woodl-0,excludes-stop,4510
 portlift-woodl-0,excludes-stop,70131
-portlift-woodl-0,excludes-stop,9070130
-portlift-woodl-0,excludes-stop,9070131
 portlift-woodl-0,excludes-stop,70130
-portlift-woodl-0,excludes-stop,9070130
-portlift-woodl-0,excludes-stop,9070131
 portlift-woodl-0,excludes-stop,70204
 portlift-woodl-0,excludes-stop,70024
 portlift-woodl-0,excludes-stop,70025
@@ -10482,13 +9993,7 @@ portlift-woodl-0,excludes-stop,14150
 portlift-woodl-0,excludes-stop,70248
 portlift-woodl-0,excludes-stop,70247
 portlift-woodl-0,excludes-stop,70169
-portlift-woodl-0,excludes-stop,9070168
-portlift-woodl-0,excludes-stop,9170168
-portlift-woodl-0,excludes-stop,9170169
 portlift-woodl-0,excludes-stop,70168
-portlift-woodl-0,excludes-stop,9070168
-portlift-woodl-0,excludes-stop,9170168
-portlift-woodl-0,excludes-stop,9170169
 portlift-woodl-0,excludes-stop,113
 portlift-woodl-0,excludes-stop,114
 portlift-woodl-0,excludes-stop,70206
@@ -10533,11 +10038,9 @@ portlift-woodl-0,excludes-stop,70198
 portlift-woodl-0,excludes-stop,70199
 portlift-woodl-0,excludes-stop,70075
 portlift-woodl-0,excludes-stop,70076
-portlift-woodl-0,excludes-stop,9070076
 portlift-woodl-0,excludes-stop,70200
 portlift-woodl-0,excludes-stop,70075
 portlift-woodl-0,excludes-stop,70076
-portlift-woodl-0,excludes-stop,9070076
 portlift-woodl-0,excludes-stop,70240
 portlift-woodl-0,excludes-stop,70239
 portlift-woodl-0,excludes-stop,70175
@@ -10551,17 +10054,10 @@ portlift-woodl-0,excludes-stop,70229
 portlift-woodl-0,excludes-stop,1276
 portlift-woodl-0,excludes-stop,1292
 portlift-woodl-0,excludes-stop,70163
-portlift-woodl-0,excludes-stop,9070162
 portlift-woodl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-woodl-1,excludes-stop,70211
-portlift-woodl-1,excludes-stop,9070211
-portlift-woodl-1,excludes-stop,9070212
 portlift-woodl-1,excludes-stop,70144
 portlift-woodl-1,excludes-stop,70170
-portlift-woodl-1,excludes-stop,9070170
-portlift-woodl-1,excludes-stop,9070171
-portlift-woodl-1,excludes-stop,9170170
-portlift-woodl-1,excludes-stop,9170171
 portlift-woodl-1,excludes-stop,70245
 portlift-woodl-1,excludes-stop,70157
 portlift-woodl-1,excludes-stop,70156
@@ -10585,11 +10081,7 @@ portlift-woodl-1,excludes-stop,70039
 portlift-woodl-1,excludes-stop,70040
 portlift-woodl-1,excludes-stop,4510
 portlift-woodl-1,excludes-stop,70131
-portlift-woodl-1,excludes-stop,9070130
-portlift-woodl-1,excludes-stop,9070131
 portlift-woodl-1,excludes-stop,70130
-portlift-woodl-1,excludes-stop,9070130
-portlift-woodl-1,excludes-stop,9070131
 portlift-woodl-1,excludes-stop,70204
 portlift-woodl-1,excludes-stop,70024
 portlift-woodl-1,excludes-stop,70025
@@ -10605,13 +10097,7 @@ portlift-woodl-1,excludes-stop,14150
 portlift-woodl-1,excludes-stop,70248
 portlift-woodl-1,excludes-stop,70247
 portlift-woodl-1,excludes-stop,70169
-portlift-woodl-1,excludes-stop,9070168
-portlift-woodl-1,excludes-stop,9170168
-portlift-woodl-1,excludes-stop,9170169
 portlift-woodl-1,excludes-stop,70168
-portlift-woodl-1,excludes-stop,9070168
-portlift-woodl-1,excludes-stop,9170168
-portlift-woodl-1,excludes-stop,9170169
 portlift-woodl-1,excludes-stop,113
 portlift-woodl-1,excludes-stop,114
 portlift-woodl-1,excludes-stop,70206
@@ -10656,11 +10142,9 @@ portlift-woodl-1,excludes-stop,70198
 portlift-woodl-1,excludes-stop,70199
 portlift-woodl-1,excludes-stop,70075
 portlift-woodl-1,excludes-stop,70076
-portlift-woodl-1,excludes-stop,9070076
 portlift-woodl-1,excludes-stop,70200
 portlift-woodl-1,excludes-stop,70075
 portlift-woodl-1,excludes-stop,70076
-portlift-woodl-1,excludes-stop,9070076
 portlift-woodl-1,excludes-stop,70240
 portlift-woodl-1,excludes-stop,70239
 portlift-woodl-1,excludes-stop,70175
@@ -10674,19 +10158,11 @@ portlift-woodl-1,excludes-stop,70229
 portlift-woodl-1,excludes-stop,1276
 portlift-woodl-1,excludes-stop,1292
 portlift-woodl-1,excludes-stop,70163
-portlift-woodl-1,excludes-stop,9070162
 portlift-woodl-1,excludes-stop,70162
-portlift-woodl-1,excludes-stop,9070162
 portlift-brkhl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brkhl-0,excludes-stop,70211
-portlift-brkhl-0,excludes-stop,9070211
-portlift-brkhl-0,excludes-stop,9070212
 portlift-brkhl-0,excludes-stop,70144
 portlift-brkhl-0,excludes-stop,70170
-portlift-brkhl-0,excludes-stop,9070170
-portlift-brkhl-0,excludes-stop,9070171
-portlift-brkhl-0,excludes-stop,9170170
-portlift-brkhl-0,excludes-stop,9170171
 portlift-brkhl-0,excludes-stop,70245
 portlift-brkhl-0,excludes-stop,70157
 portlift-brkhl-0,excludes-stop,70156
@@ -10710,11 +10186,7 @@ portlift-brkhl-0,excludes-stop,70039
 portlift-brkhl-0,excludes-stop,70040
 portlift-brkhl-0,excludes-stop,4510
 portlift-brkhl-0,excludes-stop,70131
-portlift-brkhl-0,excludes-stop,9070130
-portlift-brkhl-0,excludes-stop,9070131
 portlift-brkhl-0,excludes-stop,70130
-portlift-brkhl-0,excludes-stop,9070130
-portlift-brkhl-0,excludes-stop,9070131
 portlift-brkhl-0,excludes-stop,70204
 portlift-brkhl-0,excludes-stop,70024
 portlift-brkhl-0,excludes-stop,70025
@@ -10730,13 +10202,7 @@ portlift-brkhl-0,excludes-stop,14150
 portlift-brkhl-0,excludes-stop,70248
 portlift-brkhl-0,excludes-stop,70247
 portlift-brkhl-0,excludes-stop,70169
-portlift-brkhl-0,excludes-stop,9070168
-portlift-brkhl-0,excludes-stop,9170168
-portlift-brkhl-0,excludes-stop,9170169
 portlift-brkhl-0,excludes-stop,70168
-portlift-brkhl-0,excludes-stop,9070168
-portlift-brkhl-0,excludes-stop,9170168
-portlift-brkhl-0,excludes-stop,9170169
 portlift-brkhl-0,excludes-stop,113
 portlift-brkhl-0,excludes-stop,114
 portlift-brkhl-0,excludes-stop,70206
@@ -10781,11 +10247,9 @@ portlift-brkhl-0,excludes-stop,70198
 portlift-brkhl-0,excludes-stop,70199
 portlift-brkhl-0,excludes-stop,70075
 portlift-brkhl-0,excludes-stop,70076
-portlift-brkhl-0,excludes-stop,9070076
 portlift-brkhl-0,excludes-stop,70200
 portlift-brkhl-0,excludes-stop,70075
 portlift-brkhl-0,excludes-stop,70076
-portlift-brkhl-0,excludes-stop,9070076
 portlift-brkhl-0,excludes-stop,70240
 portlift-brkhl-0,excludes-stop,70239
 portlift-brkhl-0,excludes-stop,70175
@@ -10799,23 +10263,14 @@ portlift-brkhl-0,excludes-stop,70229
 portlift-brkhl-0,excludes-stop,1276
 portlift-brkhl-0,excludes-stop,1292
 portlift-brkhl-0,excludes-stop,70163
-portlift-brkhl-0,excludes-stop,9070162
 portlift-brkhl-0,excludes-stop,70162
-portlift-brkhl-0,excludes-stop,9070162
 portlift-brkhl-0,excludes-stop,70179
 portlift-brkhl-0,excludes-stop,9070178
 portlift-brkhl-0,excludes-stop,9070179
-portlift-brkhl-0,excludes-stop,9170178
 portlift-brkhl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brkhl-1,excludes-stop,70211
-portlift-brkhl-1,excludes-stop,9070211
-portlift-brkhl-1,excludes-stop,9070212
 portlift-brkhl-1,excludes-stop,70144
 portlift-brkhl-1,excludes-stop,70170
-portlift-brkhl-1,excludes-stop,9070170
-portlift-brkhl-1,excludes-stop,9070171
-portlift-brkhl-1,excludes-stop,9170170
-portlift-brkhl-1,excludes-stop,9170171
 portlift-brkhl-1,excludes-stop,70245
 portlift-brkhl-1,excludes-stop,70157
 portlift-brkhl-1,excludes-stop,70156
@@ -10839,11 +10294,7 @@ portlift-brkhl-1,excludes-stop,70039
 portlift-brkhl-1,excludes-stop,70040
 portlift-brkhl-1,excludes-stop,4510
 portlift-brkhl-1,excludes-stop,70131
-portlift-brkhl-1,excludes-stop,9070130
-portlift-brkhl-1,excludes-stop,9070131
 portlift-brkhl-1,excludes-stop,70130
-portlift-brkhl-1,excludes-stop,9070130
-portlift-brkhl-1,excludes-stop,9070131
 portlift-brkhl-1,excludes-stop,70204
 portlift-brkhl-1,excludes-stop,70024
 portlift-brkhl-1,excludes-stop,70025
@@ -10859,13 +10310,7 @@ portlift-brkhl-1,excludes-stop,14150
 portlift-brkhl-1,excludes-stop,70248
 portlift-brkhl-1,excludes-stop,70247
 portlift-brkhl-1,excludes-stop,70169
-portlift-brkhl-1,excludes-stop,9070168
-portlift-brkhl-1,excludes-stop,9170168
-portlift-brkhl-1,excludes-stop,9170169
 portlift-brkhl-1,excludes-stop,70168
-portlift-brkhl-1,excludes-stop,9070168
-portlift-brkhl-1,excludes-stop,9170168
-portlift-brkhl-1,excludes-stop,9170169
 portlift-brkhl-1,excludes-stop,113
 portlift-brkhl-1,excludes-stop,114
 portlift-brkhl-1,excludes-stop,70206
@@ -10910,11 +10355,9 @@ portlift-brkhl-1,excludes-stop,70198
 portlift-brkhl-1,excludes-stop,70199
 portlift-brkhl-1,excludes-stop,70075
 portlift-brkhl-1,excludes-stop,70076
-portlift-brkhl-1,excludes-stop,9070076
 portlift-brkhl-1,excludes-stop,70200
 portlift-brkhl-1,excludes-stop,70075
 portlift-brkhl-1,excludes-stop,70076
-portlift-brkhl-1,excludes-stop,9070076
 portlift-brkhl-1,excludes-stop,70240
 portlift-brkhl-1,excludes-stop,70239
 portlift-brkhl-1,excludes-stop,70175
@@ -10928,17 +10371,13 @@ portlift-brkhl-1,excludes-stop,70229
 portlift-brkhl-1,excludes-stop,1276
 portlift-brkhl-1,excludes-stop,1292
 portlift-brkhl-1,excludes-stop,70163
-portlift-brkhl-1,excludes-stop,9070162
 portlift-brkhl-1,excludes-stop,70162
-portlift-brkhl-1,excludes-stop,9070162
 portlift-brkhl-1,excludes-stop,70179
 portlift-brkhl-1,excludes-stop,9070178
 portlift-brkhl-1,excludes-stop,9070179
-portlift-brkhl-1,excludes-stop,9170178
 portlift-brkhl-1,excludes-stop,70178
 portlift-brkhl-1,excludes-stop,9070178
 portlift-brkhl-1,excludes-stop,9070179
-portlift-brkhl-1,excludes-stop,9170178
 subplat-WR-0228,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-WML-0252,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-NEC-1969,note,Mini high level platform is available to provide level boarding to certain cars in a train set
@@ -12728,10 +12167,6 @@ subplat-newto,excludes-stop,70268
 subplat-newto,excludes-stop,70267
 subplat-newto,excludes-stop,70246
 subplat-newto,excludes-stop,70171
-subplat-newto,excludes-stop,9070170
-subplat-newto,excludes-stop,9070171
-subplat-newto,excludes-stop,9170170
-subplat-newto,excludes-stop,9170171
 subplat-spmnl-0,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-spmnl-0,excludes-stop,Back Bay
 subplat-spmnl-0,excludes-stop,Back Bay-01
@@ -12777,10 +12212,6 @@ subplat-spmnl-0,excludes-stop,70268
 subplat-spmnl-0,excludes-stop,70267
 subplat-spmnl-0,excludes-stop,70246
 subplat-spmnl-0,excludes-stop,70171
-subplat-spmnl-0,excludes-stop,9070170
-subplat-spmnl-0,excludes-stop,9070171
-subplat-spmnl-0,excludes-stop,9170170
-subplat-spmnl-0,excludes-stop,9170171
 subplat-spmnl-0,excludes-stop,70208
 subplat-spmnl-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-spmnl-1,excludes-stop,Back Bay
@@ -12827,10 +12258,6 @@ subplat-spmnl-1,excludes-stop,70268
 subplat-spmnl-1,excludes-stop,70267
 subplat-spmnl-1,excludes-stop,70246
 subplat-spmnl-1,excludes-stop,70171
-subplat-spmnl-1,excludes-stop,9070170
-subplat-spmnl-1,excludes-stop,9070171
-subplat-spmnl-1,excludes-stop,9170170
-subplat-spmnl-1,excludes-stop,9170171
 subplat-spmnl-1,excludes-stop,70208
 subplat-spmnl-1,excludes-stop,70207
 subplat-smary,note,Mini high level platform is available to provide level boarding to certain cars in a train set
@@ -12878,15 +12305,9 @@ subplat-smary,excludes-stop,70268
 subplat-smary,excludes-stop,70267
 subplat-smary,excludes-stop,70246
 subplat-smary,excludes-stop,70171
-subplat-smary,excludes-stop,9070170
-subplat-smary,excludes-stop,9070171
-subplat-smary,excludes-stop,9170170
-subplat-smary,excludes-stop,9170171
 subplat-smary,excludes-stop,70208
 subplat-smary,excludes-stop,70207
 subplat-smary,excludes-stop,70212
-subplat-smary,excludes-stop,9070211
-subplat-smary,excludes-stop,9070212
 subplat-wascm-0,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-wascm-0,excludes-stop,Back Bay
 subplat-wascm-0,excludes-stop,Back Bay-01
@@ -12932,18 +12353,10 @@ subplat-wascm-0,excludes-stop,70268
 subplat-wascm-0,excludes-stop,70267
 subplat-wascm-0,excludes-stop,70246
 subplat-wascm-0,excludes-stop,70171
-subplat-wascm-0,excludes-stop,9070170
-subplat-wascm-0,excludes-stop,9070171
-subplat-wascm-0,excludes-stop,9170170
-subplat-wascm-0,excludes-stop,9170171
 subplat-wascm-0,excludes-stop,70208
 subplat-wascm-0,excludes-stop,70207
 subplat-wascm-0,excludes-stop,70212
-subplat-wascm-0,excludes-stop,9070211
-subplat-wascm-0,excludes-stop,9070212
 subplat-wascm-0,excludes-stop,70121
-subplat-wascm-0,excludes-stop,9070120
-subplat-wascm-0,excludes-stop,9070121
 subplat-wascm-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-wascm-1,excludes-stop,Back Bay
 subplat-wascm-1,excludes-stop,Back Bay-01
@@ -12989,21 +12402,11 @@ subplat-wascm-1,excludes-stop,70268
 subplat-wascm-1,excludes-stop,70267
 subplat-wascm-1,excludes-stop,70246
 subplat-wascm-1,excludes-stop,70171
-subplat-wascm-1,excludes-stop,9070170
-subplat-wascm-1,excludes-stop,9070171
-subplat-wascm-1,excludes-stop,9170170
-subplat-wascm-1,excludes-stop,9170171
 subplat-wascm-1,excludes-stop,70208
 subplat-wascm-1,excludes-stop,70207
 subplat-wascm-1,excludes-stop,70212
-subplat-wascm-1,excludes-stop,9070211
-subplat-wascm-1,excludes-stop,9070212
 subplat-wascm-1,excludes-stop,70121
-subplat-wascm-1,excludes-stop,9070120
-subplat-wascm-1,excludes-stop,9070121
 subplat-wascm-1,excludes-stop,70120
-subplat-wascm-1,excludes-stop,9070120
-subplat-wascm-1,excludes-stop,9070121
 highlevel-PB-0194,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-NHRML-0127,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-bbsta-0,note,Full high level platform is available to provide level boarding to every car in a train set
