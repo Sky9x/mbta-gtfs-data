@@ -1215,6 +1215,7 @@ facility_id,property_id,value
 385,excludes-stop,door-north-causewaye
 385,excludes-stop,door-north-crnashua
 385,excludes-stop,door-north-crcauseway
+385,excludes-stop,door-north-tdgarden
 385,excludes-stop,113
 385,excludes-stop,114
 385,excludes-stop,North Station
@@ -1233,6 +1234,7 @@ facility_id,property_id,value
 384,excludes-stop,door-north-causewaye
 384,excludes-stop,door-north-crnashua
 384,excludes-stop,door-north-crcauseway
+384,excludes-stop,door-north-tdgarden
 384,excludes-stop,113
 384,excludes-stop,114
 384,excludes-stop,North Station
@@ -1250,6 +1252,7 @@ facility_id,property_id,value
 392,excludes-stop,door-north-valenti
 392,excludes-stop,door-north-crnashua
 392,excludes-stop,door-north-crcauseway
+392,excludes-stop,door-north-tdgarden
 392,excludes-stop,113
 392,excludes-stop,114
 392,excludes-stop,70027
@@ -1269,6 +1272,7 @@ facility_id,property_id,value
 391,excludes-stop,door-north-valenti
 391,excludes-stop,door-north-crnashua
 391,excludes-stop,door-north-crcauseway
+391,excludes-stop,door-north-tdgarden
 391,excludes-stop,113
 391,excludes-stop,114
 391,excludes-stop,70027
@@ -1288,6 +1292,7 @@ facility_id,property_id,value
 393,excludes-stop,door-north-valenti
 393,excludes-stop,door-north-crnashua
 393,excludes-stop,door-north-crcauseway
+393,excludes-stop,door-north-tdgarden
 393,excludes-stop,113
 393,excludes-stop,114
 393,excludes-stop,70026
@@ -1309,6 +1314,7 @@ facility_id,property_id,value
 304,excludes-stop,door-north-causewaye
 304,excludes-stop,door-north-crnashua
 304,excludes-stop,door-north-crcauseway
+304,excludes-stop,door-north-tdgarden
 304,excludes-stop,113
 304,excludes-stop,114
 304,excludes-stop,70026
@@ -1330,6 +1336,7 @@ facility_id,property_id,value
 303,excludes-stop,door-north-causewaye
 303,excludes-stop,door-north-crnashua
 303,excludes-stop,door-north-crcauseway
+303,excludes-stop,door-north-tdgarden
 303,excludes-stop,113
 303,excludes-stop,114
 303,excludes-stop,70027
@@ -1350,6 +1357,7 @@ facility_id,property_id,value
 302,excludes-stop,door-north-causewaye
 302,excludes-stop,door-north-crnashua
 302,excludes-stop,door-north-crcauseway
+302,excludes-stop,door-north-tdgarden
 302,excludes-stop,113
 302,excludes-stop,114
 302,excludes-stop,70027
@@ -1384,11 +1392,12 @@ facility_id,property_id,value
 325,excludes-stop,door-nqncy-newport
 325,excludes-stop,3125
 325,excludes-stop,9070098
-912,alternate-service-text,"If exiting, pass through the fare gates and walk the full length of the Green Line platform to reach the opposite lobby at Valenti Way. At this lobby, use North Station Elevator 909 (lobby to Valenti Way) to reach the street level. \nIf boarding, travel one-tenth of a mile down Haverhill Street to the entrance located at the intersection of Haverhill Street and Valenti Way."
+912,alternate-service-text,"â¨â¨If exiting, travel down the passageway towards the Commuter Rail and use North Station Elevator 731 (passageway to Causeway Street)â¨â¨.\nAlternatively, pass through the fare gates and walk the full length of the Green Line platform to reach the opposite lobby at Valenti Way. \nAt this lobby, use North Station Elevator 909 (lobby to Valenti Way) to reach the street level. \nâ¨â¨If boarding, cross Causeway Street to use North Station Elevator 731 to reach the lobby."""
 912,excludes-stop,door-north-causeways
 912,excludes-stop,door-north-valenti
 912,excludes-stop,door-north-crnashua
 912,excludes-stop,door-north-crcauseway
+912,excludes-stop,door-north-tdgarden
 912,excludes-stop,113
 912,excludes-stop,114
 912,excludes-stop,North Station
@@ -1408,6 +1417,7 @@ facility_id,property_id,value
 941,excludes-stop,door-north-causewaye
 941,excludes-stop,door-north-crnashua
 941,excludes-stop,door-north-crcauseway
+941,excludes-stop,door-north-tdgarden
 941,excludes-stop,113
 941,excludes-stop,114
 941,excludes-stop,North Station
@@ -1426,6 +1436,7 @@ facility_id,property_id,value
 910,excludes-stop,door-north-valenti
 910,excludes-stop,door-north-crnashua
 910,excludes-stop,door-north-crcauseway
+910,excludes-stop,door-north-tdgarden
 910,excludes-stop,113
 910,excludes-stop,114
 910,excludes-stop,70027
@@ -1441,11 +1452,12 @@ facility_id,property_id,value
 910,excludes-stop,North Station-08
 910,excludes-stop,North Station-09
 910,excludes-stop,North Station-10
-909,alternate-service-text,"If exiting, travel along the Green Line platform to reach the main station lobby. Once there, pass through the fare gates. Turn right to use North Station Elevator 912 (lobby to Causeway Street) located adjacent to the fare gates. Alternatively, continue down the commuter rail hallway to reach North Station Elevator 941 (lobby to commuter rail and Boston Garden). \nIf boarding, travel one-tenth of a mile down Canal or Beverly Streets to the North Station entrances on Causeway Street."
+909,alternate-service-text,"If exiting, travel along the Green Line platform to reach the main station lobby. Once there, pass through the fare gates. Turn right to use North Station Elevator 912 (lobby to Haverhill Street and Causeway Street) located adjacent to the fare gates. Alternatively, continue down the passageway towards the Commuter Rail to reach North Station Elevator 731 (passageway to Commuter Rail and TD Garden).\nIf boarding, travel one-tenth of a mile down Canal or Beverly Streets to the North Station entrances on Causeway Street."
 909,excludes-stop,door-north-causeways
 909,excludes-stop,door-north-causewaye
 909,excludes-stop,door-north-crnashua
 909,excludes-stop,door-north-crcauseway
+909,excludes-stop,door-north-tdgarden
 909,excludes-stop,113
 909,excludes-stop,114
 909,excludes-stop,North Station
@@ -1464,6 +1476,7 @@ facility_id,property_id,value
 911,excludes-stop,door-north-valenti
 911,excludes-stop,door-north-crnashua
 911,excludes-stop,door-north-crcauseway
+911,excludes-stop,door-north-tdgarden
 911,excludes-stop,113
 911,excludes-stop,114
 911,excludes-stop,70026
@@ -1486,6 +1499,7 @@ facility_id,property_id,value
 421,excludes-stop,door-north-causewaye
 421,excludes-stop,door-north-crnashua
 421,excludes-stop,door-north-crcauseway
+421,excludes-stop,door-north-tdgarden
 421,excludes-stop,113
 421,excludes-stop,114
 421,excludes-stop,North Station
@@ -1505,6 +1519,7 @@ facility_id,property_id,value
 422,excludes-stop,door-north-causewaye
 422,excludes-stop,door-north-crnashua
 422,excludes-stop,door-north-crcauseway
+422,excludes-stop,door-north-tdgarden
 422,excludes-stop,113
 422,excludes-stop,114
 422,excludes-stop,North Station
@@ -1518,6 +1533,44 @@ facility_id,property_id,value
 422,excludes-stop,North Station-08
 422,excludes-stop,North Station-09
 422,excludes-stop,North Station-10
+732,alternate-service-text,"If exiting, travel down the passageway and use North Station Elevator 731 to reach Causeway Street.â¨â¨\nIf boarding, exit through the east TD Garden entrance and follow the path to Causeway Street. At Causeway Street, turn right and use North Station Elevator 731 to reach the lobby."
+732,excludes-stop,door-north-causeways
+732,excludes-stop,door-north-valenti
+732,excludes-stop,door-north-crnashua
+732,excludes-stop,door-north-crcauseway
+732,excludes-stop,door-north-tdgarden
+732,excludes-stop,113
+732,excludes-stop,114
+732,excludes-stop,North Station
+732,excludes-stop,North Station-01
+732,excludes-stop,North Station-02
+732,excludes-stop,North Station-03
+732,excludes-stop,North Station-04
+732,excludes-stop,North Station-05
+732,excludes-stop,North Station-06
+732,excludes-stop,North Station-07
+732,excludes-stop,North Station-08
+732,excludes-stop,North Station-09
+732,excludes-stop,North Station-10
+731,alternate-service-text,"â¨â¨If exiting, travel down the passageway and use North Station Elevator 731 to reach Causeway Street.\nâ¨â¨If boarding, exit through the east TD Garden entrance and follow the path to Causeway Street. At Causeway Street, turn right and use North Station Elevator 731 to reach the lobby."
+731,excludes-stop,door-north-causeways
+731,excludes-stop,door-north-valenti
+731,excludes-stop,door-north-crnashua
+731,excludes-stop,door-north-crcauseway
+731,excludes-stop,door-north-tdgarden
+731,excludes-stop,113
+731,excludes-stop,114
+731,excludes-stop,North Station
+731,excludes-stop,North Station-01
+731,excludes-stop,North Station-02
+731,excludes-stop,North Station-03
+731,excludes-stop,North Station-04
+731,excludes-stop,North Station-05
+731,excludes-stop,North Station-06
+731,excludes-stop,North Station-07
+731,excludes-stop,North Station-08
+731,excludes-stop,North Station-09
+731,excludes-stop,North Station-10
 800,alternate-service-text,"Customers desiring elevator service to exit at Oak Grove must exit the train at Malden Center and see station personnel for further assistance. Customer desiring elevator service to enter the station should utilize the call box for further assistance. Alternatively, use Bus Routes 132, 136, or 137 to connect between Oak Grove and Malden Center."
 800,excludes-stop,door-ogmnl-wash
 800,excludes-stop,9326
