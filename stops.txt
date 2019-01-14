@@ -24,9 +24,9 @@ door-sstat-dewey,"South Station - Dewey Sq (Summer St, Atlantic Ave)","South Sta
 door-sstat-reserve,"South Station - Atlantic Ave, Summer St","South Station - Atlantic Ave, Summer St",42.352677,-71.055013,level_in_street,2,place-sstat,2,,,,,,
 door-sstat-finctr,South Station - Financial Center,South Station - Financial Center,42.352544,-71.055824,level_in_street,2,place-sstat,2,,,,,,
 door-sstat-outmain,"South Station - Summer St, Atlantic Ave, Commuter Rail","South Station - Summer St, Atlantic Ave, Commuter Rail",42.352363,-71.055071,level_in_street,2,place-sstat,2,,,,,,
-door-rugg-upper,Ruggles - Upper Busway,Ruggles - Upper Busway,42.336821,-71.089501,level_ground,2,place-rugg,1,,,,,,
-door-rugg-ruggles,Ruggles - Ruggles St,Ruggles - Ruggles St,42.335891,-71.090358,level_in_street,2,place-rugg,2,,,,,,
-door-rugg-buses,"Ruggles - Columbus Ave, Buses","Ruggles - Columbus Ave, Buses",42.336473,-71.089194,level_in_street,2,place-rugg,1,,,,,,
+door-rugg-upper,Ruggles - Upper Busway,Ruggles - Upper Busway,42.336821,-71.089501,level_1_ground,2,place-rugg,1,,,,,,
+door-rugg-ruggles,Ruggles - Ruggles St,Ruggles - Ruggles St,42.335891,-71.090358,level_1_in_street,2,place-rugg,2,,,,,,
+door-rugg-buses,"Ruggles - Columbus Ave, Buses","Ruggles - Columbus Ave, Buses",42.336473,-71.089194,level_ground,2,place-rugg,1,,,,,,
 door-rugg-forsyth,"Ruggles - Northeastern, Forsyth St","Ruggles - Northeastern, Forsyth St",42.337010,-71.089421,level_in_street,2,place-rugg,1,,,,,,
 door-rugg-columbus,"Ruggles - Columbus Ave, Tremont St","Ruggles - Columbus Ave, Tremont St",42.335873,-71.088906,level_in_street,2,place-rugg,1,,,,,,
 door-portr-escal,"Porter - Somerville Ave, Massachusetts Ave","Porter - Somerville Ave, Massachusetts Ave",42.388475,-71.119212,level_in_street,2,place-portr,2,,,,,,
@@ -8397,7 +8397,6 @@ Fitchburg,Fitchburg,,42.580720,-71.792611,,0,,1,,,,,https://www.mbta.com/stops/F
 Forest Hills,Forest Hills,Forest Hills - Commuter Rail,42.300522,-71.113686,level_-1_cr_platform,0,place-forhl,1,,,Commuter Rail,,https://www.mbta.com/stops/place-forhl,
 Forge Park / 495,Forge Park/495,,42.089941,-71.439020,,0,,1,,,,,https://www.mbta.com/stops/Forge+Park+%2F+495,"1000 W Central St, Franklin, MA 02038"
 Four Corners / Geneva,Four Corners/Geneva,,42.305037,-71.076833,,0,,1,,,,,https://www.mbta.com/stops/Four+Corners+%2F+Geneva,"171 Geneva Ave, Boston, MA 02121"
-Foxboro,Foxboro,,42.095100,-71.261510,,0,,1,,,,,https://www.mbta.com/stops/Foxboro,"Gillette Stadium near Lots 3 and 4, Foxborough, MA 02035"
 Framingham,Framingham,,42.276719,-71.416792,,0,,1,,,,,https://www.mbta.com/stops/Framingham,"417 Waverly St, Framingham, MA 01702"
 Franklin,Franklin,,42.083238,-71.396102,,0,,2,,,,,https://www.mbta.com/stops/Franklin,"75 Depot St, Franklin, MA 02038"
 Gloucester,Gloucester,,42.616799,-70.668345,,0,,1,,,,,https://www.mbta.com/stops/Gloucester,"75 Railroad Ave, Gloucester, MA 01930"
@@ -8543,3 +8542,4 @@ Logan-RentalCarCenter,Logan Airport Rental Car Center,Logan Airport Rental Car C
 9070179,Brookline Hills,Boylston St @ Cypress St - Green Line Fenway Shuttle,42.330034,-71.125599,,0,place-brkhl,1,9070179,,Fenway Shuttle,,https://www.mbta.com/stops/place-brkhl,
 9070150,Kenmore,Kenmore - Green Line Eastbound Shuttle,42.348712,-71.095526,,0,place-kencl,1,9070150,,Green Line Shuttle,,https://www.mbta.com/stops/place-kencl,
 9070151,Kenmore,Kenmore - Green Line Westbound Shuttle,42.349196,-71.095826,,0,place-kencl,1,9070151,,Green Line Shuttle,,https://www.mbta.com/stops/place-kencl,
+Foxboro,Foxboro,,42.095100,-71.261510,,0,,1,,,,,https://www.mbta.com/stops/Foxboro,"Gillette Stadium near Lots 3 and 4, Foxborough, MA 02035"
