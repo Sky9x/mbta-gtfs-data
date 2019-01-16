@@ -1548,8 +1548,8 @@ Boat-Hingham,Hingham,,42.252643,-70.919875,,0,,1,,,,,https://www.mbta.com/stops/
 17846,Crescent St @ Spruce St,,42.371032,-71.239454,,0,,0,17846,,,,https://www.mbta.com/stops/17846,
 1785,Ruggles St @ Annunciation Rd,,42.336729,-71.093223,,0,,0,1785,,,,https://www.mbta.com/stops/1785,
 17861,Ruggles,Ruggles - Upper Busway,42.336572,-71.089616,level_ground,0,place-rugg,0,17861,,Upper Busway,,https://www.mbta.com/stops/place-rugg,
-17862,Ruggles,Ruggles - Lower Busway Lane 1,42.336489,-71.089085,level_-1_ground,0,place-rugg,0,17862,1,Lower Busway Lane 1,,https://www.mbta.com/stops/place-rugg,
-17863,Ruggles,Ruggles - Lower Busway Lane 2,42.336390,-71.089050,level_-1_ground,0,place-rugg,0,17863,2,Lower Busway Lane 2,,https://www.mbta.com/stops/place-rugg,
+17862,Ruggles,Ruggles - Lower Busway Lane 1,42.336489,-71.089085,level_ground,0,place-rugg,0,17862,1,Lower Busway Lane 1,,https://www.mbta.com/stops/place-rugg,
+17863,Ruggles,Ruggles - Lower Busway Lane 2,42.336390,-71.089050,level_ground,0,place-rugg,0,17863,2,Lower Busway Lane 2,,https://www.mbta.com/stops/place-rugg,
 1787,Washington St @ Worcester St,,42.337524,-71.075479,,0,,1,1787,,,,https://www.mbta.com/stops/1787,"Washington St at Worcester Sq, Boston, MA"
 17879,Springs Rd opp Bldg 23,,42.502436,-71.272365,,0,,0,17879,,,,https://www.mbta.com/stops/17879,
 1788,Washington St @ E Newton St,,42.338763,-71.073677,,0,,1,1788,,,,https://www.mbta.com/stops/1788,"Washington St and Newton St, Boston, MA, 02118"
@@ -6033,8 +6033,8 @@ Boat-Hingham,Hingham,,42.252643,-70.919875,,0,,1,,,,,https://www.mbta.com/stops/
 70007,Jackson Square,Jackson Square - Orange Line - Oak Grove,42.323132,-71.099592,level_-1_platform,0,place-jaksn,1,70007,,Oak Grove,,https://www.mbta.com/stops/place-jaksn,
 70008,Roxbury Crossing,Roxbury Crossing - Orange Line - Forest Hills,42.331397,-71.095451,level_-1_platform,0,place-rcmnl,1,70008,,Forest Hills,,https://www.mbta.com/stops/place-rcmnl,
 70009,Roxbury Crossing,Roxbury Crossing - Orange Line - Oak Grove,42.331397,-71.095451,level_-1_platform,0,place-rcmnl,1,70009,,Oak Grove,,https://www.mbta.com/stops/place-rcmnl,
-70010,Ruggles,Ruggles - Orange Line - Forest Hills,42.336377,-71.088961,level_-1_orange_platform,0,place-rugg,1,70010,,Forest Hills,,https://www.mbta.com/stops/place-rugg,
-70011,Ruggles,Ruggles - Orange Line - Oak Grove,42.336377,-71.088961,level_-1_orange_platform,0,place-rugg,1,70011,,Oak Grove,,https://www.mbta.com/stops/place-rugg,
+70010,Ruggles,Ruggles - Orange Line - Forest Hills,42.336377,-71.088961,level_0_orange_platform,0,place-rugg,1,70010,,Forest Hills,,https://www.mbta.com/stops/place-rugg,
+70011,Ruggles,Ruggles - Orange Line - Oak Grove,42.336377,-71.088961,level_0_orange_platform,0,place-rugg,1,70011,,Oak Grove,,https://www.mbta.com/stops/place-rugg,
 70012,Massachusetts Avenue,Massachusetts Avenue - Orange Line - Forest Hills,42.341512,-71.083423,level_-1_platform,0,place-masta,1,70012,,Forest Hills,,https://www.mbta.com/stops/place-masta,
 70013,Massachusetts Avenue,Massachusetts Avenue - Orange Line - Oak Grove,42.341512,-71.083423,level_-1_platform,0,place-masta,1,70013,,Oak Grove,,https://www.mbta.com/stops/place-masta,
 70014,Back Bay,Back Bay - Orange Line - Forest Hills,42.347350,-71.075727,level_-1_orange_platform,0,place-bbsta,1,70014,,Forest Hills,,https://www.mbta.com/stops/place-bbsta,
@@ -8367,11 +8367,11 @@ Attleboro,Attleboro,,41.940739,-71.285094,,0,,1,,,,,https://www.mbta.com/stops/A
 Auburndale,Auburndale,,42.345725,-71.250826,,0,,2,,,,,https://www.mbta.com/stops/Auburndale,"Auburn St and Woodland Rd, Newton, MA 02466"
 Ayer,Ayer,,42.559074,-71.588476,,0,,2,,,,,https://www.mbta.com/stops/Ayer,"70 Main St, Ayer, MA 01432"
 Back Bay,Back Bay,Back Bay - Commuter Rail,42.347350,-71.075727,level_-1_cr_platform,0,place-bbsta,1,,,Commuter Rail,,https://www.mbta.com/stops/place-bbsta,
-Back Bay-01,Back Bay,Back Bay - Commuter Rail - Track 1,42.347283,-71.075312,,0,place-bbsta,1,,1,Commuter Rail - Track 1,,https://www.mbta.com/stops/place-bbsta,
-Back Bay-02,Back Bay,Back Bay - Commuter Rail - Track 2,42.347196,-71.075299,,0,place-bbsta,1,,2,Commuter Rail - Track 2,,https://www.mbta.com/stops/place-bbsta,
-Back Bay-03,Back Bay,Back Bay - Commuter Rail - Track 3,42.347283,-71.075312,,0,place-bbsta,1,,3,Commuter Rail - Track 3,,https://www.mbta.com/stops/place-bbsta,
-Back Bay-05,Back Bay,Back Bay - Commuter Rail - Track 5,42.347590,-71.075393,,0,place-bbsta,1,,5,Commuter Rail - Track 5,,https://www.mbta.com/stops/place-bbsta,
-Back Bay-07,Back Bay,Back Bay - Commuter Rail - Track 7,42.347590,-71.075393,,0,place-bbsta,1,,7,Commuter Rail - Track 7,,https://www.mbta.com/stops/place-bbsta,
+Back Bay-01,Back Bay,Back Bay - Commuter Rail - Track 1,42.347283,-71.075312,level_-1_cr_platform,0,place-bbsta,1,,1,Commuter Rail - Track 1,,https://www.mbta.com/stops/place-bbsta,
+Back Bay-02,Back Bay,Back Bay - Commuter Rail - Track 2,42.347196,-71.075299,level_-1_cr_platform,0,place-bbsta,1,,2,Commuter Rail - Track 2,,https://www.mbta.com/stops/place-bbsta,
+Back Bay-03,Back Bay,Back Bay - Commuter Rail - Track 3,42.347283,-71.075312,level_-1_cr_platform,0,place-bbsta,1,,3,Commuter Rail - Track 3,,https://www.mbta.com/stops/place-bbsta,
+Back Bay-05,Back Bay,Back Bay - Commuter Rail - Track 5,42.347590,-71.075393,level_-1_cr_platform,0,place-bbsta,1,,5,Commuter Rail - Track 5,,https://www.mbta.com/stops/place-bbsta,
+Back Bay-07,Back Bay,Back Bay - Commuter Rail - Track 7,42.347590,-71.075393,level_-1_cr_platform,0,place-bbsta,1,,7,Commuter Rail - Track 7,,https://www.mbta.com/stops/place-bbsta,
 Ballardvale,Ballardvale,,42.627356,-71.159962,,0,,1,,,,,https://www.mbta.com/stops/Ballardvale,"195 Andover St, Andover, MA 01810"
 Bellevue,Bellevue,,42.286588,-71.145557,,0,,1,,,,,https://www.mbta.com/stops/Bellevue,"35 Colbert St, West Roxbury, MA 02132"
 Belmont,Belmont,,42.395896,-71.176190,,0,,2,,,,,https://www.mbta.com/stops/Belmont,"Common St and Concord Ave, Belmont, MA 02478"
@@ -8446,16 +8446,16 @@ North Billerica,North Billerica,,42.593248,-71.280995,,0,,1,,,,,https://www.mbta
 North Leominster,North Leominster,,42.539017,-71.739186,,0,,1,,,,,https://www.mbta.com/stops/North+Leominster,"44 Nashua St, Leominster, MA, 01453"
 North Scituate,North Scituate,,42.219528,-70.788602,,0,,1,,,,,https://www.mbta.com/stops/North+Scituate,"777 Country Way, Scituate, MA 02066"
 North Station,North Station,North Station - Commuter Rail,42.366417,-71.062326,level_0_cr_platform,0,place-north,1,,,Commuter Rail,,https://www.mbta.com/stops/place-north,
-North Station-01,North Station,North Station - Commuter Rail - Track 1,42.366493,-71.062829,,0,place-north,1,,1,Commuter Rail - Track 1,,https://www.mbta.com/stops/place-north,
-North Station-02,North Station,North Station - Commuter Rail - Track 2,42.366493,-71.062829,,0,place-north,1,,2,Commuter Rail - Track 2,,https://www.mbta.com/stops/place-north,
-North Station-03,North Station,North Station - Commuter Rail - Track 3,42.366535,-71.062730,,0,place-north,1,,3,Commuter Rail - Track 3,,https://www.mbta.com/stops/place-north,
-North Station-04,North Station,North Station - Commuter Rail - Track 4,42.366535,-71.062730,,0,place-north,1,,4,Commuter Rail - Track 4,,https://www.mbta.com/stops/place-north,
-North Station-05,North Station,North Station - Commuter Rail - Track 5,42.366618,-71.062601,,0,place-north,1,,5,Commuter Rail - Track 5,,https://www.mbta.com/stops/place-north,
-North Station-06,North Station,North Station - Commuter Rail - Track 6,42.366618,-71.062601,,0,place-north,1,,6,Commuter Rail - Track 6,,https://www.mbta.com/stops/place-north,
-North Station-07,North Station,North Station - Commuter Rail - Track 7,42.366687,-71.062475,,0,place-north,1,,7,Commuter Rail - Track 7,,https://www.mbta.com/stops/place-north,
-North Station-08,North Station,North Station - Commuter Rail - Track 8,42.366687,-71.062475,,0,place-north,1,,8,Commuter Rail - Track 8,,https://www.mbta.com/stops/place-north,
-North Station-09,North Station,North Station - Commuter Rail - Track 9,42.366761,-71.062365,,0,place-north,1,,9,Commuter Rail - Track 9,,https://www.mbta.com/stops/place-north,
-North Station-10,North Station,North Station - Commuter Rail - Track 10,42.366761,-71.062365,,0,place-north,1,,10,Commuter Rail - Track 10,,https://www.mbta.com/stops/place-north,
+North Station-01,North Station,North Station - Commuter Rail - Track 1,42.366493,-71.062829,level_0_cr_platform,0,place-north,1,,1,Commuter Rail - Track 1,,https://www.mbta.com/stops/place-north,
+North Station-02,North Station,North Station - Commuter Rail - Track 2,42.366493,-71.062829,level_0_cr_platform,0,place-north,1,,2,Commuter Rail - Track 2,,https://www.mbta.com/stops/place-north,
+North Station-03,North Station,North Station - Commuter Rail - Track 3,42.366535,-71.062730,level_0_cr_platform,0,place-north,1,,3,Commuter Rail - Track 3,,https://www.mbta.com/stops/place-north,
+North Station-04,North Station,North Station - Commuter Rail - Track 4,42.366535,-71.062730,level_0_cr_platform,0,place-north,1,,4,Commuter Rail - Track 4,,https://www.mbta.com/stops/place-north,
+North Station-05,North Station,North Station - Commuter Rail - Track 5,42.366618,-71.062601,level_0_cr_platform,0,place-north,1,,5,Commuter Rail - Track 5,,https://www.mbta.com/stops/place-north,
+North Station-06,North Station,North Station - Commuter Rail - Track 6,42.366618,-71.062601,level_0_cr_platform,0,place-north,1,,6,Commuter Rail - Track 6,,https://www.mbta.com/stops/place-north,
+North Station-07,North Station,North Station - Commuter Rail - Track 7,42.366687,-71.062475,level_0_cr_platform,0,place-north,1,,7,Commuter Rail - Track 7,,https://www.mbta.com/stops/place-north,
+North Station-08,North Station,North Station - Commuter Rail - Track 8,42.366687,-71.062475,level_0_cr_platform,0,place-north,1,,8,Commuter Rail - Track 8,,https://www.mbta.com/stops/place-north,
+North Station-09,North Station,North Station - Commuter Rail - Track 9,42.366761,-71.062365,level_0_cr_platform,0,place-north,1,,9,Commuter Rail - Track 9,,https://www.mbta.com/stops/place-north,
+North Station-10,North Station,North Station - Commuter Rail - Track 10,42.366761,-71.062365,level_0_cr_platform,0,place-north,1,,10,Commuter Rail - Track 10,,https://www.mbta.com/stops/place-north,
 North Wilmington,North Wilmington,,42.569661,-71.159696,,0,,2,,,,,https://www.mbta.com/stops/North+Wilmington,"370 Middlesex Ave, Wilmington, MA 01887"
 Norwood Central,Norwood Central,,42.188775,-71.199665,,0,,1,,,,,https://www.mbta.com/stops/Norwood+Central,"164 Broadway, Norwood, MA 02062"
 Norwood Depot,Norwood Depot,,42.196857,-71.196688,,0,,1,,,,,https://www.mbta.com/stops/Norwood+Depot,"14 Hill St, Norwood, MA 02062"
@@ -8472,7 +8472,10 @@ Rockport,Rockport,,42.655491,-70.627055,,0,,1,,,,,https://www.mbta.com/stops/Roc
 Roslindale Village,Roslindale Village,,42.287442,-71.130283,,0,,1,,,,,https://www.mbta.com/stops/Roslindale+Village,"1 Belgrade Ave, Roslindale, MA 02131"
 Route 128,Route 128,,42.209884,-71.147100,,0,,1,,,,,https://www.mbta.com/stops/Route+128,"50 University Ave, Westwood, MA 02090"
 Rowley,Rowley,,42.726845,-70.859034,,0,,1,,,,,https://www.mbta.com/stops/Rowley,"70 Railroad Ave, Rowley, MA 01969"
-Ruggles,Ruggles,Ruggles - Commuter Rail,42.336376,-71.088959,level_-1_cr_platform,0,place-rugg,1,,,Commuter Rail,,https://www.mbta.com/stops/place-rugg,
+Ruggles,Ruggles,Ruggles - Commuter Rail,42.336608,-71.089208,level_0_cr_platform,0,place-rugg,1,,,Commuter Rail,,https://www.mbta.com/stops/place-rugg,
+Ruggles-01,Ruggles,Ruggles - Commuter Rail - Track 1,42.336339,-71.089517,level_0_cr_platform,0,place-rugg,1,,1,Commuter Rail - Track 1,,https://www.mbta.com/stops/place-rugg,
+Ruggles-02,Ruggles,Ruggles - Commuter Rail - Track 2,42.337204,-71.088307,level_0_cr_platform,0,place-rugg,1,,2,Commuter Rail - Track 2,,https://www.mbta.com/stops/place-rugg,
+Ruggles-03,Ruggles,Ruggles - Commuter Rail - Track 3,42.336368,-71.089554,,0,place-rugg,1,,3,Commuter Rail - Track 3,,https://www.mbta.com/stops/place-rugg,
 Salem,Salem,,42.524792,-70.895876,,0,,1,,,,,https://www.mbta.com/stops/Salem,"252 Bridge St, Salem, MA 01970"
 Sharon,Sharon,,42.124553,-71.184468,,0,,1,,,,,https://www.mbta.com/stops/Sharon,"1 Upland Rd, Sharon, MA 02067"
 Shirley,Shirley,,42.545089,-71.648004,,0,,2,,,,,https://www.mbta.com/stops/Shirley,"Ayer Rd and Phoenix St, Shirley, MA 01464"
@@ -8480,19 +8483,19 @@ Silver Hill,Silver Hill,,42.395625,-71.302357,,0,,2,,,,,https://www.mbta.com/sto
 South Acton,South Acton,,42.460574,-71.457804,,0,,1,,,,,https://www.mbta.com/stops/South+Acton,"4 Central St, Acton, MA 01720"
 South Attleboro,South Attleboro,,41.897943,-71.354621,,0,,1,,,,,https://www.mbta.com/stops/South+Attleboro,"1315 Newport Ave, Attleboro, MA 02703"
 South Station,South Station,South Station - Commuter Rail,42.351763,-71.054797,level_0_cr_platform,0,place-sstat,1,,,Commuter Rail,,https://www.mbta.com/stops/place-sstat,
-South Station-01,South Station,South Station - Commuter Rail - Track 1,42.351357,-71.055665,,0,place-sstat,1,,1,Commuter Rail - Track 1,,https://www.mbta.com/stops/place-sstat,
-South Station-02,South Station,South Station - Commuter Rail - Track 2,42.351365,-71.055496,,0,place-sstat,1,,2,Commuter Rail - Track 2,,https://www.mbta.com/stops/place-sstat,
-South Station-03,South Station,South Station - Commuter Rail - Track 3,42.351365,-71.055496,,0,place-sstat,1,,3,Commuter Rail - Track 3,,https://www.mbta.com/stops/place-sstat,
-South Station-04,South Station,South Station - Commuter Rail - Track 4,42.351412,-71.055303,,0,place-sstat,1,,4,Commuter Rail - Track 4,,https://www.mbta.com/stops/place-sstat,
-South Station-05,South Station,South Station - Commuter Rail - Track 5,42.351412,-71.055303,,0,place-sstat,1,,5,Commuter Rail - Track 5,,https://www.mbta.com/stops/place-sstat,
-South Station-06,South Station,South Station - Commuter Rail - Track 6,42.351448,-71.055104,,0,place-sstat,1,,6,Commuter Rail - Track 6,,https://www.mbta.com/stops/place-sstat,
-South Station-07,South Station,South Station - Commuter Rail - Track 7,42.351448,-71.055104,,0,place-sstat,1,,7,Commuter Rail - Track 7,,https://www.mbta.com/stops/place-sstat,
-South Station-08,South Station,South Station - Commuter Rail - Track 8,42.351527,-71.054882,,0,place-sstat,1,,8,Commuter Rail - Track 8,,https://www.mbta.com/stops/place-sstat,
-South Station-09,South Station,South Station - Commuter Rail - Track 9,42.351527,-71.054882,,0,place-sstat,1,,9,Commuter Rail - Track 9,,https://www.mbta.com/stops/place-sstat,
-South Station-10,South Station,South Station - Commuter Rail - Track 10,42.351081,-71.054914,,0,place-sstat,1,,10,Commuter Rail - Track 10,,https://www.mbta.com/stops/place-sstat,
-South Station-11,South Station,South Station - Commuter Rail - Track 11,42.351081,-71.054914,,0,place-sstat,1,,11,Commuter Rail - Track 11,,https://www.mbta.com/stops/place-sstat,
-South Station-12,South Station,South Station - Commuter Rail - Track 12,42.350778,-71.054938,,0,place-sstat,1,,12,Commuter Rail - Track 12,,https://www.mbta.com/stops/place-sstat,
-South Station-13,South Station,South Station - Commuter Rail - Track 13,42.350778,-71.054938,,0,place-sstat,1,,13,Commuter Rail - Track 13,,https://www.mbta.com/stops/place-sstat,
+South Station-01,South Station,South Station - Commuter Rail - Track 1,42.351357,-71.055665,level_0_cr_platform,0,place-sstat,1,,1,Commuter Rail - Track 1,,https://www.mbta.com/stops/place-sstat,
+South Station-02,South Station,South Station - Commuter Rail - Track 2,42.351365,-71.055496,level_0_cr_platform,0,place-sstat,1,,2,Commuter Rail - Track 2,,https://www.mbta.com/stops/place-sstat,
+South Station-03,South Station,South Station - Commuter Rail - Track 3,42.351365,-71.055496,level_0_cr_platform,0,place-sstat,1,,3,Commuter Rail - Track 3,,https://www.mbta.com/stops/place-sstat,
+South Station-04,South Station,South Station - Commuter Rail - Track 4,42.351412,-71.055303,level_0_cr_platform,0,place-sstat,1,,4,Commuter Rail - Track 4,,https://www.mbta.com/stops/place-sstat,
+South Station-05,South Station,South Station - Commuter Rail - Track 5,42.351412,-71.055303,level_0_cr_platform,0,place-sstat,1,,5,Commuter Rail - Track 5,,https://www.mbta.com/stops/place-sstat,
+South Station-06,South Station,South Station - Commuter Rail - Track 6,42.351448,-71.055104,level_0_cr_platform,0,place-sstat,1,,6,Commuter Rail - Track 6,,https://www.mbta.com/stops/place-sstat,
+South Station-07,South Station,South Station - Commuter Rail - Track 7,42.351448,-71.055104,level_0_cr_platform,0,place-sstat,1,,7,Commuter Rail - Track 7,,https://www.mbta.com/stops/place-sstat,
+South Station-08,South Station,South Station - Commuter Rail - Track 8,42.351527,-71.054882,level_0_cr_platform,0,place-sstat,1,,8,Commuter Rail - Track 8,,https://www.mbta.com/stops/place-sstat,
+South Station-09,South Station,South Station - Commuter Rail - Track 9,42.351527,-71.054882,level_0_cr_platform,0,place-sstat,1,,9,Commuter Rail - Track 9,,https://www.mbta.com/stops/place-sstat,
+South Station-10,South Station,South Station - Commuter Rail - Track 10,42.351081,-71.054914,level_0_cr_platform,0,place-sstat,1,,10,Commuter Rail - Track 10,,https://www.mbta.com/stops/place-sstat,
+South Station-11,South Station,South Station - Commuter Rail - Track 11,42.351081,-71.054914,level_0_cr_platform,0,place-sstat,1,,11,Commuter Rail - Track 11,,https://www.mbta.com/stops/place-sstat,
+South Station-12,South Station,South Station - Commuter Rail - Track 12,42.350778,-71.054938,level_0_cr_platform,0,place-sstat,1,,12,Commuter Rail - Track 12,,https://www.mbta.com/stops/place-sstat,
+South Station-13,South Station,South Station - Commuter Rail - Track 13,42.350778,-71.054938,level_0_cr_platform,0,place-sstat,1,,13,Commuter Rail - Track 13,,https://www.mbta.com/stops/place-sstat,
 South Weymouth,South Weymouth,,42.155025,-70.953302,,0,,1,,,,,https://www.mbta.com/stops/South+Weymouth,"89 Trotter Rd, Weymouth, MA 02190"
 Southborough,Southborough,,42.267024,-71.524371,,0,,1,,,,,https://www.mbta.com/stops/Southborough,"87 Southville Rd, Southborough, MA 01772"
 Stoughton,Stoughton,,42.124084,-71.103627,,0,,1,,,,,https://www.mbta.com/stops/Stoughton,"45 Wyman St, Stoughton, MA 02072"
