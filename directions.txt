@@ -391,8 +391,8 @@ CR-Fairmount,0,Outbound,Fairmount
 CR-Fairmount,1,Inbound,South Station
 CR-Fitchburg,0,Outbound,Wachusett
 CR-Fitchburg,1,Inbound,North Station
-CR-Worcester,0,Outbound,
-CR-Worcester,1,Inbound,
+CR-Worcester,0,Outbound,Worcester
+CR-Worcester,1,Inbound,South Station
 CR-Franklin,0,Outbound,Forge Park/495
 CR-Franklin,1,Inbound,South Station
 CR-Greenbush,0,Outbound,Greenbush
@@ -413,14 +413,14 @@ CR-Middleborough,0,Outbound,Middleborough/Lakeville
 CR-Middleborough,1,Inbound,South Station
 CR-Foxboro,0,Outbound,Foxboro or TF Green Airport
 CR-Foxboro,1,Inbound,South Station or Foxboro
-Logan-22,0,Loop,
-Logan-22,1,Loop,
-Logan-33,0,Loop,
-Logan-33,1,Loop,
-Logan-55,0,Loop,
-Logan-55,1,Loop,
-Logan-66,0,Loop,
-Logan-66,1,Loop,
+Logan-22,0,Loop,Airport Loop
+Logan-22,1,Loop,Airport Loop
+Logan-33,0,Loop,Airport Loop
+Logan-33,1,Loop,Airport Loop
+Logan-55,0,Loop,Airport Loop
+Logan-55,1,Loop,Airport Loop
+Logan-66,0,Loop,Airport Loop
+Logan-66,1,Loop,Airport Loop
 Shuttle-AlewifeHarvard,0,South,Ashmont/Braintree
 Shuttle-AlewifeHarvard,1,North,Alewife
 Shuttle002,0,South,Braintree
@@ -429,3 +429,13 @@ Shuttle005,0,South,Braintree
 Shuttle005,1,North,Alewife
 Shuttle019,0,West,Riverside
 Shuttle019,1,East,Government Center
+CR-Worcester,0,Outbound,
+CR-Worcester,1,Inbound,
+Logan-22,0,Loop,
+Logan-22,1,Loop,
+Logan-33,0,Loop,
+Logan-33,1,Loop,
+Logan-55,0,Loop,
+Logan-55,1,Loop,
+Logan-66,0,Loop,
+Logan-66,1,Loop,
