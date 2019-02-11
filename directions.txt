@@ -1,8 +1,4 @@
 route_id,direction_id,direction,direction_destination
-Boat-F1,0,Outbound,Hingham or Hull
-Boat-F1,1,Inbound,Long Wharf
-Boat-F4,0,Outbound,Charlestown
-Boat-F4,1,Inbound,Long Wharf
 Red,0,South,Ashmont/Braintree
 Red,1,North,Alewife
 Mattapan,0,Outbound,Mattapan
@@ -31,6 +27,36 @@ Blue,1,East,Wonderland
 749,1,Inbound,Downtown Crossing
 746,0,Outbound,Silver Line Way
 746,1,Inbound,South Station
+CR-Fairmount,0,Outbound,Fairmount
+CR-Fairmount,1,Inbound,South Station
+CR-Fitchburg,0,Outbound,Wachusett
+CR-Fitchburg,1,Inbound,North Station
+CR-Worcester,0,Outbound,Worcester
+CR-Worcester,1,Inbound,South Station
+CR-Franklin,0,Outbound,Forge Park/495
+CR-Franklin,1,Inbound,South Station
+CR-Greenbush,0,Outbound,Greenbush
+CR-Greenbush,1,Inbound,South Station
+CR-Haverhill,0,Outbound,Haverhill
+CR-Haverhill,1,Inbound,North Station
+CR-Kingston,0,Outbound,Kingston or Plymouth
+CR-Kingston,1,Inbound,South Station
+CR-Lowell,0,Outbound,Lowell
+CR-Lowell,1,Inbound,North Station
+CR-Middleborough,0,Outbound,Middleborough/Lakeville
+CR-Middleborough,1,Inbound,South Station
+CR-Needham,0,Outbound,Needham Heights
+CR-Needham,1,Inbound,South Station
+CR-Newburyport,0,Outbound,Newburyport or Rockport
+CR-Newburyport,1,Inbound,North Station
+CR-Providence,0,Outbound,Wickford Junction
+CR-Providence,1,Inbound,South Station
+CR-Foxboro,0,Outbound,Foxboro or TF Green Airport
+CR-Foxboro,1,Inbound,South Station or Foxboro
+Boat-F4,0,Outbound,Charlestown
+Boat-F4,1,Inbound,Long Wharf
+Boat-F1,0,Outbound,Hingham or Hull
+Boat-F1,1,Inbound,Long Wharf
 701,0,Outbound,"Central Square, Cambridge"
 701,1,Inbound,Boston Medical Center
 747,0,Outbound,Sullivan
@@ -387,32 +413,6 @@ Blue,1,East,Wonderland
 714,1,Inbound,Hingham
 716,0,Outbound,Cobbs Corner
 716,1,Inbound,Mattapan
-CR-Fairmount,0,Outbound,Fairmount
-CR-Fairmount,1,Inbound,South Station
-CR-Fitchburg,0,Outbound,Wachusett
-CR-Fitchburg,1,Inbound,North Station
-CR-Worcester,0,Outbound,Worcester
-CR-Worcester,1,Inbound,South Station
-CR-Franklin,0,Outbound,Forge Park/495
-CR-Franklin,1,Inbound,South Station
-CR-Greenbush,0,Outbound,Greenbush
-CR-Greenbush,1,Inbound,South Station
-CR-Haverhill,0,Outbound,Haverhill
-CR-Haverhill,1,Inbound,North Station
-CR-Lowell,0,Outbound,Lowell
-CR-Lowell,1,Inbound,North Station
-CR-Needham,0,Outbound,Needham Heights
-CR-Needham,1,Inbound,South Station
-CR-Newburyport,0,Outbound,Newburyport or Rockport
-CR-Newburyport,1,Inbound,North Station
-CR-Providence,0,Outbound,Wickford Junction
-CR-Providence,1,Inbound,South Station
-CR-Kingston,0,Outbound,Kingston or Plymouth
-CR-Kingston,1,Inbound,South Station
-CR-Middleborough,0,Outbound,Middleborough/Lakeville
-CR-Middleborough,1,Inbound,South Station
-CR-Foxboro,0,Outbound,Foxboro or TF Green Airport
-CR-Foxboro,1,Inbound,South Station or Foxboro
 Logan-22,0,Loop,Airport Loop
 Logan-22,1,Loop,Airport Loop
 Logan-33,0,Loop,Airport Loop
@@ -429,5 +429,3 @@ Shuttle005,0,South,Braintree
 Shuttle005,1,North,Alewife
 Shuttle019,0,West,Riverside
 Shuttle019,1,East,Government Center
-Shuttle020,0,West,Cleveland Circle
-Shuttle020,1,East,North Station
