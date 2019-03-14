@@ -5584,6 +5584,7 @@ highlevel-NEC-1768,note,Full high level platform is available to provide level b
 highlevel-NEC-1851,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-NEC-2173,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-NHRML-0127,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NHRML-0254,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-PB-0158,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-PB-0194,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-PB-0212,note,Full high level platform is available to provide level boarding to every car in a train set
@@ -5592,6 +5593,7 @@ highlevel-PB-0281,note,Full high level platform is available to provide level bo
 highlevel-PB-0356,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-WML-0025,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-WML-0035,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-WR-0264,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-bbsta-0,excludes-stop,11384
 highlevel-bbsta-0,excludes-stop,176
 highlevel-bbsta-0,excludes-stop,23391
@@ -5902,12 +5904,42 @@ highlevel-qnctr,excludes-stop,32005
 highlevel-qnctr,excludes-stop,70101
 highlevel-qnctr,excludes-stop,70102
 highlevel-qnctr,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-rugg,excludes-stop,17861
-highlevel-rugg,excludes-stop,17862
-highlevel-rugg,excludes-stop,17863
-highlevel-rugg,excludes-stop,70010
-highlevel-rugg,excludes-stop,70011
-highlevel-rugg,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-rugg-0,excludes-stop,17861
+highlevel-rugg-0,excludes-stop,17862
+highlevel-rugg-0,excludes-stop,17863
+highlevel-rugg-0,excludes-stop,70010
+highlevel-rugg-0,excludes-stop,70011
+highlevel-rugg-0,excludes-stop,Ruggles-01
+highlevel-rugg-0,excludes-stop,Ruggles-02
+highlevel-rugg-0,excludes-stop,Ruggles-03
+highlevel-rugg-0,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-rugg-1,excludes-stop,17861
+highlevel-rugg-1,excludes-stop,17862
+highlevel-rugg-1,excludes-stop,17863
+highlevel-rugg-1,excludes-stop,70010
+highlevel-rugg-1,excludes-stop,70011
+highlevel-rugg-1,excludes-stop,Ruggles
+highlevel-rugg-1,excludes-stop,Ruggles-02
+highlevel-rugg-1,excludes-stop,Ruggles-03
+highlevel-rugg-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-rugg-2,excludes-stop,17861
+highlevel-rugg-2,excludes-stop,17862
+highlevel-rugg-2,excludes-stop,17863
+highlevel-rugg-2,excludes-stop,70010
+highlevel-rugg-2,excludes-stop,70011
+highlevel-rugg-2,excludes-stop,Ruggles
+highlevel-rugg-2,excludes-stop,Ruggles-01
+highlevel-rugg-2,excludes-stop,Ruggles-03
+highlevel-rugg-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-rugg-3,excludes-stop,17861
+highlevel-rugg-3,excludes-stop,17862
+highlevel-rugg-3,excludes-stop,17863
+highlevel-rugg-3,excludes-stop,70010
+highlevel-rugg-3,excludes-stop,70011
+highlevel-rugg-3,excludes-stop,Ruggles
+highlevel-rugg-3,excludes-stop,Ruggles-01
+highlevel-rugg-3,excludes-stop,Ruggles-02
+highlevel-rugg-3,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-sstat-0,excludes-stop,70079
 highlevel-sstat-0,excludes-stop,70080
 highlevel-sstat-0,excludes-stop,74611
@@ -9841,7 +9873,6 @@ subplat-025,note,Mini high level platform is available to provide level boarding
 subplat-DB-0095,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-DB-2205,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-ER-0128,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-ER-0168,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-ER-0183,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-ER-0208,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-ER-0227,note,Mini high level platform is available to provide level boarding to certain cars in a train set
@@ -9873,8 +9904,10 @@ subplat-NB-0137,note,Mini high level platform is available to provide level boar
 subplat-NEC-1919,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-NEC-1969,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-NEC-2040,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-2108,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-NEC-2139,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-NEC-2203,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NHRML-0073,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-NHRML-0116,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-NHRML-0152,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-NHRML-0218,note,Mini high level platform is available to provide level boarding to certain cars in a train set
@@ -9963,6 +9996,11 @@ subplat-newto,excludes-stop,9070171
 subplat-newto,excludes-stop,9170170
 subplat-newto,excludes-stop,9170171
 subplat-newto,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-portr,excludes-stop,23151
+subplat-portr,excludes-stop,2430
+subplat-portr,excludes-stop,70065
+subplat-portr,excludes-stop,70066
+subplat-portr,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-smary,excludes-stop,70212
 subplat-smary,excludes-stop,9070211
 subplat-smary,excludes-stop,9070212
