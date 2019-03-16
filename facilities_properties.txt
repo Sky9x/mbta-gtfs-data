@@ -8370,7 +8370,8 @@ park-brntn-garage,payment-form-accepted,credit-debit-card
 park-brntn-garage,payment-form-accepted,invoice
 park-brntn-garage,payment-form-accepted,mobile-app
 park-brntn-garage,payment-form-accepted,tapcard
-park-brntn-garage,weekday-utilization-summary,No data
+park-brntn-garage,weekday-arrive-before,07:15:00
+park-brntn-garage,weekday-utilization-summary,Arrive before a certain time
 park-brntn-lot-a,attended,2
 park-brntn-lot-a,capacity,108
 park-brntn-lot-a,capacity-accessible,5
@@ -8602,7 +8603,8 @@ park-nqncy-hancock,payment-app-id,4365
 park-nqncy-hancock,payment-app-url,https://www.paybyphone.com/
 park-nqncy-hancock,payment-form-accepted,invoice
 park-nqncy-hancock,payment-form-accepted,mobile-app
-park-nqncy-hancock,weekday-utilization-summary,Utilization never crosses 90% of capacity
+park-nqncy-hancock,weekday-arrive-before,07:30:00
+park-nqncy-hancock,weekday-utilization-summary,Arrive before a certain time
 park-nqncy-newport,attended,2
 park-nqncy-newport,capacity,353
 park-nqncy-newport,capacity-accessible,12
@@ -8620,7 +8622,8 @@ park-nqncy-newport,payment-app-id,4365
 park-nqncy-newport,payment-app-url,https://www.paybyphone.com/
 park-nqncy-newport,payment-form-accepted,invoice
 park-nqncy-newport,payment-form-accepted,mobile-app
-park-nqncy-newport,weekday-utilization-summary,Utilization never crosses 90% of capacity
+park-nqncy-newport,weekday-arrive-before,07:45:00
+park-nqncy-newport,weekday-utilization-summary,Arrive before a certain time
 park-orhte,attended,2
 park-orhte,capacity,411
 park-orhte,capacity-accessible,8
