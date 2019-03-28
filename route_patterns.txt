@@ -9,9 +9,9 @@ Orange-3-0,Orange,0,Forest Hills,,1,10020000,40033927
 Orange-5-0,Orange,0,Forest Hills,Weekdays only,3,10020099,40033911
 Orange-3-1,Orange,1,Oak Grove,,1,10020100,40033930
 Green-B-3-0,Green-B,0,Boston College,,1,10032000,39988543-F
-Green-B-0-0,Green-B,0,Boston College,Weekend early mornings only,3,10032099,39918244-F
+Green-B-0-0,Green-B,0,Boston College,Weekend early mornings only,3,10032099,39918244-KenmoreStMaryC
 Green-B-3-1,Green-B,1,Park Street,,1,10032100,39988448-F
-Green-B-0-1,Green-B,1,Lechmere,Weekend early mornings only,3,10032199,39918243-F
+Green-B-0-1,Green-B,1,Lechmere,Weekend early mornings only,3,10032199,39918243-KenmoreStMaryC
 Green-C-1-0,Green-C,0,Cleveland Circle,,1,10033000,39988461-F
 Green-C-0-0,Green-C,0,Cleveland Circle,Early mornings only,3,10033099,39988459-F
 Green-C-1-1,Green-C,1,North Station,,1,10033100,39988453-F
@@ -49,8 +49,8 @@ Blue-6-1,Blue,1,Wonderland,,1,10040100,39783498
 746-_-1,746,1,South Station,,1,10057100,39876285
 CR-Fairmount-0-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,20001000,CR-Weekday-Fall2-18-751
 CR-Fairmount-0-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-Weekday-Fall2-18-750
-CR-Fitchburg-0-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-Weekday-Fall-18-401
-CR-Fitchburg-0-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-Weekday-Fall-18-400
+CR-Fitchburg-0-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-Weekday-Fall-18-401-LittletonWachusett
+CR-Fitchburg-0-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-Weekday-Fall-18-400-LittletonWachusett
 CR-Worcester-0-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-Weekday-Fall-18-501
 CR-Worcester-0-1,CR-Worcester,1,Worcester - South Station,,1,20003100,CR-Weekday-Fall-18-500
 CR-Franklin-0-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,20004000,CR-Weekday-Fall2-18-701
@@ -88,7 +88,7 @@ Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-063
 Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,30001100,Boat-F4-0645-Charlestown-Weekday
 Boat-F1-0-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport & Hull,,1,30002000,Boat-F1-1100-Long-Weekday
 Boat-F1-1-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,30002001,Boat-F1-0650-Rowes-Weekday
-Boat-F1-2-0,Boat-F1,0,Long Wharf - Hingham via Hull,,2,30002002,Boat-F1-2255-Long-Friday
+Boat-F1-2-0,Boat-F1,0,Long Wharf - Hingham via Hull,,2,30002002,Boat-F1-1300-Long-Weekday
 Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,30002003,Boat-F1-0800-Long-Weekday
 Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,30002004,Boat-F1-0910-Long-Weekday
 Boat-F1-5-0,Boat-F1,0,Long Wharf - Hingham via Georges Island & Hull,Summer weekday middays only,2,30002005,Boat-F1-1300-Long-WeekdaySummer
@@ -97,7 +97,7 @@ Boat-F1-7-0,Boat-F1,0,Long Wharf - Hingham via Georges Island,Summer weekends on
 Boat-F1-9-0,Boat-F1,0,Long Wharf - Hull via Logan Airport,,2,30002009,Boat-F1-0625-Long-Weekday
 Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,30002100,Boat-F1-1300-Hingham-Weekday
 Boat-F1-1-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,30002101,Boat-F1-0600-Hingham-Weekday
-Boat-F1-2-1,Boat-F1,1,Hingham - Long Wharf via Hull,,2,30002102,Boat-F1-2210-Hingham-Friday
+Boat-F1-2-1,Boat-F1,1,Hingham - Long Wharf via Hull,,2,30002102,Boat-F1-0540-Hingham-Weekday
 Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,30002103,Boat-F1-0730-Hull-Weekday
 Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,30002104,Boat-F1-1000-Hingham-Weekday
 Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-Weekday
@@ -130,8 +130,8 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 7-2-1,7,1,Otis & Summer,Weekdays only,2,50070177,39915058
 8-9-0,8,0,UMass via South Bay Center,,1,50080034,39913307
 8-1-0,8,0,UMass,,2,50080068,39913410
-8-D-0,8,0,Ruggles,School days only,3,50080098,39915485_2
 8-2-0,8,0,Dudley Station,School days only,3,50080098,39985346
+8-D-0,8,0,Ruggles,School days only,3,50080098,39915485_2
 8-9-1,8,1,Kenmore via South Bay Center,,1,50080139,39913395
 8-1-1,8,1,Kenmore,,2,50080162,39913301
 8-D-1,8,1,Kenmore,School days only,3,50080198,39915484_2
@@ -143,8 +143,8 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 9-4-1,9,1,Kenmore Station via Boston Latin,School days only,3,50090199,39914929
 10-9-0,10,0,City Point via South Bay Center,,1,50100026,39915393
 10-_-0,10,0,City Point,,2,50100081,39915391
-10-8-0,10,0,City Point,School days only,3,50100097,39915389
 10-6-0,10,0,Andrew Station via South Bay Center,Weekday middays only,3,50100097,39915402
+10-8-0,10,0,City Point,School days only,3,50100097,39915389
 10-E-0,10,0,City Point,School days only,3,50100098,39915483_2
 10-5-0,10,0,City Point,Late nights only,3,50100099,39915274
 10-9-1,10,1,Copley via South Bay Center,,1,50100126,39915282
@@ -163,13 +163,13 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 15-2-0,15,0,St Peter's Sq,Weekday middays only,2,50150072,39914377
 15-1-0,15,0,Fields Corner,,2,50150084,39913933
 15-3-0,15,0,Kane Sq,School days only,3,50150098,39913729
-15-H-0,15,0,Mattapan via Dudley & Fields Corner,Early mornings and late nights only,3,50150099,39915493
 15-6-0,15,0,Fields Corner,School days only,3,50150099,39913212
+15-H-0,15,0,Mattapan via Dudley & Fields Corner,Early mornings and late nights only,3,50150099,39915493
 15-_-1,15,1,Ruggles,,1,50150142,39913944
 15-2-1,15,1,Ruggles,Weekday middays only,2,50150174,39914051
 15-1-1,15,1,Ruggles,,2,50150185,39913937
-15-4-1,15,1,Dudley Station via Fields Corner,Early mornings only,3,50150199,39913154
 15-3-1,15,1,Dudley,School days only,3,50150199,39913730
+15-4-1,15,1,Dudley Station via Fields Corner,Early mornings only,3,50150199,39913154
 15-H-1,15,1,Haymarket via Dudley & Fields Corner,Early mornings and late nights only,3,50150199,39915492
 16-9-0,16,0,Forest Hills via South Bay Center,,2,50160064,39913781
 16-2-0,16,0,Forest Hills,Weekdays only,2,50160077,39913837
@@ -198,18 +198,18 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 21-_-1,21,1,Forest Hills,,1,50210100,39997950
 21-B-1,21,1,Avenue Louis Pasteur via Forest Hills,School days only,3,50210199,39998322_1
 22-_-0,22,0,Ashmont Station via Jackson Station,,1,50220001,39912968
-22-3-0,22,0,Ashmont Station via Franklin Park,School days only,3,50220099,39913205
-22-2-0,22,0,Ashmont Station via Jackson Station,School days only,3,50220099,39913207
 22-1-0,22,0,Ashmont Station via Jackson Station,School days only,3,50220099,39913211
+22-2-0,22,0,Ashmont Station via Jackson Station,School days only,3,50220099,39913207
+22-3-0,22,0,Ashmont Station via Franklin Park,School days only,3,50220099,39913205
 22-_-1,22,1,Ruggles Station via Jackson Station,,1,50220100,39912967
 22-E-1,22,1,Kenmore via Ruggles,School days only,3,50220199,39915484_1
 23-_-0,23,0,Ashmont Station via Washington St.,,1,50230000,39913148
 23-1-0,23,0,Ashmont Station via Washington St.,School days only,3,50230099,39913206
 23-3-0,23,0,Ashmont Station via Washington St.,School days only,3,50230099,39913210
 23-_-1,23,1,Ruggles Station via Washington St.,,1,50230101,39913151
-23-G-1,23,1,Watertown Yard via Dudley,School days only,3,50230199,39985481_1
 23-2-1,23,1,Dudley Square,Weekday early mornings only,3,50230199,39915464
 23-E-1,23,1,Franklin Pk,School days only,3,50230199,39915486_3
+23-G-1,23,1,Watertown Yard via Dudley,School days only,3,50230199,39985481_1
 24-_-0,24,0,Wakefield Ave. via River St.,,1,50240000,39988339
 24-1-0,24,0,Wakefield Ave. via Metropolitan Ave.,Weekday early mornings only,3,50240099,39996785
 24-_-1,24,1,Mattapan Station via River St.,Weekdays only,1,50240101,39988340
@@ -226,8 +226,8 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 27-_-1,27,1,Ashmont Station via River St.,Weekdays only,1,50270102,39997478
 27-A-1,27,1,Ashmont,School days only,3,50270197,39998324_3
 28-_-0,28,0,Mattapan Station via Dudley Station,,1,50280001,39875929
-28-9-0,28,0,Mattapan Station via Dudley Station,School days only,3,50280099,39996782
 28-6-0,28,0,Mattapan Station via Dudley Station,School days only,3,50280099,39913251
+28-9-0,28,0,Mattapan Station via Dudley Station,School days only,3,50280099,39996782
 28-_-1,28,1,Ruggles Station via Dudley Station,,1,50280101,39875928
 28-2-1,28,1,Dudley Station via Grove Hall,Early mornings only,3,50280198,39913155
 28-5-1,28,1,Ruggles Station via Dudley Station,School days only,3,50280199,39913250
@@ -245,13 +245,13 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 31-_-1,31,1,Forest Hills Station via Morton St.,,1,50310100,39998315
 32-1-0,32,0,Wolcott Square via Hyde Park Ave.,,1,50320031,39996970
 32-_-0,32,0,Cleary Square via Hyde Park Ave.,Weekdays only,2,50320069,39998363
-32-B-0,32,0,Wolcott Sq,School days only,3,50320099,39998326_2
 32-3-0,32,0,Wolcott Square via Hyde Park Ave.,School days only,3,50320099,39998307
 32-9-0,32,0,Wolcott Sq via Forest Hills,School days only,3,50320099,39996879
+32-B-0,32,0,Wolcott Sq,School days only,3,50320099,39998326_2
 32-1-1,32,1,Forest Hills Station via Hyde Park Ave.,,1,50320132,39998317
 32-_-1,32,1,Forest Hills Station via Hyde Park Ave.,Weekdays only,2,50320167,39996971
-32-9-1,32,1,Townsend & Humboldt via Forest Hills,School days only,3,50320199,39997125
 32-3-1,32,1,Forest Hills Station via Hyde Park Ave.,School days only,3,50320199,39998308
+32-9-1,32,1,Townsend & Humboldt via Forest Hills,School days only,3,50320199,39997125
 32-C-1,32,1,Ave Louis Pasteur via Forest Hills Station,School days only,3,50320199,39996606_1
 3233-5-0,3233,0,River St. & Milton St. via Cleary Square,Early mornings only,1,50321000,39996532
 3233-5-1,3233,1,Forest Hills Station via River St. & Hyde Park Ave.,Saturday mornings only,1,50321100,39941709
@@ -264,8 +264,8 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 33-1-1,33,1,Mattapan Station via West Milton St.,School days only,3,50330197,39998306
 33-4-1,33,1,Forest Hills Station via Cleary Square,Saturday evenings only,3,50330199,39941042
 34-_-0,34,0,Dedham Line via Washington St.,,1,50340002,39997256
-34-K-0,34,0,Dedham Line via Forest Hills,School days only,3,50340098,39996881
 34-A-0,34,0,Dedham Line,School days only,3,50340098,39998328_2
+34-K-0,34,0,Dedham Line via Forest Hills,School days only,3,50340098,39996881
 34-_-1,34,1,Forest Hills via Washington St.,,1,50340101,39997257
 34-K-1,34,1,Townsend & Humboldt via Forest Hills,School days only,3,50340198,39997101
 34-B-1,34,1,Avenue Louis Pasteur via Forest Hills,School days only,3,50340199,39998327_1
@@ -273,10 +273,10 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 34E-4-0,34E,0,Walpole Center,,2,50341080,39996584
 34E-9-0,34E,0,Walpole Center via Dedham Mall and Walpole St,Weekday middays only,2,50341088,39996576
 34E-5-0,34E,0,Walpole Center via Washington St. (Express to LaGrange),PM peak hours only,3,50341091,39996592
-34E-8-0,34E,0,East Walpole via Dedham Mall,,3,50341094,39997175
 34E-1-0,34E,0,Walpole Center,AM peak hours only,3,50341094,39996590
 34E-2-0,34E,0,Walpole Center via Walpole St.,Weekday mornings only,3,50341094,39996560
 34E-6-0,34E,0,East Walpole via Washington St.,,3,50341094,39997383
+34E-8-0,34E,0,East Walpole via Dedham Mall,,3,50341094,39997175
 34E-U-0,34E,0,Walpole Center via Dedham Mall and Upland Woods,Weekday middays only,3,50341097,39996549
 34E-T-0,34E,0,Walpole Center via Upland Woods and Walpole St,Weekday early mornings only,3,50341099,39996594
 34E-7-1,34E,1,Forest Hills via Dedham Mall,,1,50341147,39996591
@@ -295,10 +295,10 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 36-1-0,36,0,Millennium Park via V.A. Hospital,Weekdays only,1,50360057,39997511
 36-8-0,36,0,V.A. Hospital via Belgrade Ave.,,2,50360073,39996704
 36-_-0,36,0,Charles River via Belgrade Ave.,,2,50360074,39996641
+36-5-0,36,0,Rivermoor Industrial Park via V.A. Hospital,Weekday evenings only,3,50360098,39996776
 36-9-0,36,0,Charles River Loop via Forest Hills,School days only,3,50360098,39996878
 36-A-0,36,0,Charles River Loop,School days only,3,50360098,39998330_2
 36-G-0,36,0,Millennium Park via V A Hospital,School days only,3,50360098,39998325_3
-36-5-0,36,0,Rivermoor Industrial Park via V.A. Hospital,Weekday evenings only,3,50360098,39996776
 36-1-1,36,1,Forest Hills Station via Belgrade Ave.,Weekdays only,1,50360159,39997508
 36-_-1,36,1,Forest Hills Station via Belgrade Ave.,,2,50360171,39996642
 36-8-1,36,1,Forest Hills Station via Belgrade Ave.,,2,50360173,39996675
@@ -318,21 +318,21 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 38-1-0,38,0,Wren St. via Forest Hills,School days only,3,50380097,39996877
 38-A-0,38,0,Wren St,School days only,3,50380097,39998333_2
 38-_-1,38,1,Forest Hills Station via Centre St.,,1,50380100,39997645
-38-D-1,38,1,Ave Louis Pasteur via JP Ctr,School days only,3,50380199,39996817_1
 38-C-1,38,1,Ave Louis Pasteur via JP Ctr,School days only,3,50380199,39996826_1
+38-D-1,38,1,Ave Louis Pasteur via JP Ctr,School days only,3,50380199,39996817_1
 39-3-0,39,0,Forest Hills Station via Huntington Ave.,,1,50390004,39998536
 39-7-0,39,0,Forest Hills Station via Huntington Ave.,Weekday middays only,3,50390098,39877130
+39-U-0,39,0,Wren St via Forest Hills,School days only,3,50390099,39998333_1
 39-V-0,39,0,Lagrange & Corey via Forest Hills,School days only,3,50390099,39998332_1
 39-W-0,39,0,Charles River Loop via Forest Hills,School days only,3,50390099,39998330_1
-39-_-0,39,0,Forest Hills via South,Early mornings only,3,50390099,39996725
 39-X-0,39,0,Dedham Line via Forest Hills,School days only,3,50390099,39998328_1
 39-Y-0,39,0,Wolcott Sq via Forest Hills,School days only,3,50390099,39998326_1
 39-Z-0,39,0,Ashmont via Forest Hills,School days only,3,50390099,39998323_1
-39-U-0,39,0,Wren St via Forest Hills,School days only,3,50390099,39998333_1
+39-_-0,39,0,Forest Hills via South,Early mornings only,3,50390099,39996725
 39-3-1,39,1,Back Bay Station via Copley Square,,1,50390104,39998517
 39-H-1,39,1,Avenue Louis Pasteur,School days only,3,50390197,39998327_2
-39-I-1,39,1,Avenue Louis Pasteur,School days only,3,50390198,39996817_2
 39-7-1,39,1,Avenue Louis Pasteur,Weekday mornings only,3,50390198,39877023
+39-I-1,39,1,Avenue Louis Pasteur,School days only,3,50390198,39996817_2
 39-_-1,39,1,Haymarket via Forest Hills,Early mornings only,3,50390199,39996724
 40-_-0,40,0,Georgetowne via West Boundary Rd.,,1,50400044,39998281
 40-2-0,40,0,Georgetowne via West Boundary Rd.,Weekdays only,1,50400055,39998271
@@ -366,13 +366,13 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 51-_-0,51,0,Cleveland Circle via Putterham,,1,50510004,39997214
 51-9-0,51,0,"Union Sq, Allston via Reservoir",School days only,3,50510095,39996778
 51-_-1,51,1,Forest Hills Station via Putterham,,1,50510104,39997217
-51-9-1,51,1,Forest Hills via Reservoir,School days only,3,50510197,39996779
 51-1-1,51,1,Forest Hills Station via Putterham,School days only,3,50510197,39996880
+51-9-1,51,1,Forest Hills via Reservoir,School days only,3,50510197,39996779
 52-1-0,52,0,Dedham Mall via Parker St.,Weekdays only,2,50520062,39996759
 52-7-0,52,0,Dedham Mall via Winchester St.,Weekdays only,2,50520068,39996742
 52-4-0,52,0,Charles River via Parker St. & Newton Corner,Weekdays only,2,50520084,39996732
-52-6-0,52,0,Charles River via Winchester St.,Weekdays only,3,50520093,39996734
 52-5-0,52,0,Dedham Mall via Parker St.,AM peak hours only,3,50520093,39996738
+52-6-0,52,0,Charles River via Winchester St.,Weekdays only,3,50520093,39996734
 52-_-0,52,0,Charles River via Parker St.,Weekday evenings only,3,50520097,39996754
 52-7-1,52,1,Watertown Yard via Winchester St.,Weekdays only,2,50520172,39996741
 52-1-1,52,1,Watertown Yard via Parker St.,Weekdays only,2,50520174,39996739
@@ -385,14 +385,14 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 55-_-1,55,1,Copley Station via Ipswich St.,,2,50550177,39913071
 57-_-0,57,0,Watertown Yard via Brighton,,1,50570001,39985163
 57-8-0,57,0,Watertown Yard via Kenmore Station,School days only,3,50570098,39984685
-57-H-0,57,0,Watertown via Kenmore,Early mornings only,3,50570099,39985162
 57-C-0,57,0,Watertown Yard,School days only,3,50570099,39985481_3
+57-H-0,57,0,Watertown via Kenmore,Early mornings only,3,50570099,39985162
 57-_-1,57,1,Kenmore Station via Brighton,,1,50570101,39985261
-57-F-1,57,1,Dudley via Union Sq,School days only,3,50570199,39915487_1
-57-H-1,57,1,Haymarket via Kenmore,Early mornings only,3,50570199,39985260
-57-G-1,57,1,Ruggles via Kenmore,School days only,3,50570199,39915485_1
-57-E-1,57,1,Franklin Pk via Union Sq,School days only,3,50570199,39915486_1
 57-4-1,57,1,Kenmore Station,School days only,3,50570199,39984723
+57-E-1,57,1,Franklin Pk via Union Sq,School days only,3,50570199,39915486_1
+57-F-1,57,1,Dudley via Union Sq,School days only,3,50570199,39915487_1
+57-G-1,57,1,Ruggles via Kenmore,School days only,3,50570199,39915485_1
+57-H-1,57,1,Haymarket via Kenmore,Early mornings only,3,50570199,39985260
 57A-_-0,57A,0,Oak Square via Brighton,Weekdays only,1,50571000,39985173
 57A-_-1,57A,1,Kenmore Station via Brighton,Weekdays only,1,50571100,39985241
 59-_-0,59,0,Needham Junction via Highland Ave.,,1,50590047,39985321
@@ -643,16 +643,16 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 134-C-0,134,0,Winthrop St. via Riverside Ave.,Weekdays only,2,51340082,39896278
 134-2-0,134,0,North Woburn via Veterans Senior Center,Weekday middays only,3,51340093,39896270
 134-7-0,134,0,Medford Square via Riverside Ave.,Weekends only,3,51340093,40156846
-134-9-0,134,0,Woburn Square via Riverside Ave.,Sundays only,3,51340095,40158321
 134-5-0,134,0,North Woburn via Riverside Ave.,,3,51340095,40154960
+134-9-0,134,0,Woburn Square via Riverside Ave.,Sundays only,3,51340095,40158321
 134-4-0,134,0,Winthrop St. & Brooks St. via Medford Square,School days only,3,51340096,39895843
 134-6-1,134,1,Wellington Station via Riverside Ave.,,2,51340165,39895829
 134-3-1,134,1,Wellington Station via Riverside Ave.,Weekdays only,2,51340169,39895688
 134-C-1,134,1,Wellington Station via Riverside Ave.,Weekdays only,2,51340186,39895687
 134-7-1,134,1,Wellington Station via Riverside Ave.,Weekends only,3,51340194,40157567
-134-9-1,134,1,Wellington Station via Riverside Ave.,Sundays only,3,51340195,40158608
-134-5-1,134,1,Wellington Station via Riverside Ave.,,3,51340195,40154961
 134-4-1,134,1,Middlesex Ave. at Second St.,School days only,3,51340195,39895844
+134-5-1,134,1,Wellington Station via Riverside Ave.,,3,51340195,40154961
+134-9-1,134,1,Wellington Station via Riverside Ave.,Sundays only,3,51340195,40158608
 134-2-1,134,1,Wellington Station via Veterans Senior Center,Weekday middays only,3,51340196,39895684
 136-5-0,136,0,Reading Depot via Main St.,,1,51360024,39896185
 136-6-0,136,0,Reading Depot via Main St.,PM peak hours only,2,51360082,39896213
@@ -695,8 +695,8 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 211-7-0,211,0,Quincy Center Station via Billings Rd.,Sundays only,3,52110096,39995847
 211-_-1,211,1,Squantum via North Quincy,,1,52110111,39992035
 211-7-1,211,1,Squantum via Billings Rd.,Sundays only,3,52110196,39995844
-211-3-1,211,1,Squantum,School days only,3,52110197,39991677
 211-1-1,211,1,Squantum,School days only,3,52110197,39991674
+211-3-1,211,1,Squantum,School days only,3,52110197,39991677
 211-9-1,211,1,Squantum via North Quincy,School days only,3,52110197,39991676
 212-2-0,212,0,Quincy Station via Billings,,1,52120000,39992054
 212-2-1,212,1,North Quincy Station via Billings,,1,52120105,39992045
@@ -750,8 +750,8 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 225-1-1,225,1,Quincy Center,,2,52250167,39991847
 225-4-1,225,1,Quincy Center via Shaw St,,2,52250175,39991872
 225-3-1,225,1,Quincy Center,,2,52250181,39991942
-225-_-1,225,1,Quincy Center via Quincy Ave,,3,52250190,39991901
 225-5-1,225,1,Quincy Center via Shaw St,,3,52250190,39991849
+225-_-1,225,1,Quincy Center via Quincy Ave,,3,52250190,39991901
 225-2-1,225,1,Quincy Center via Shaw St,Weekdays only,3,52250194,39991866
 230-3-0,230,0,Montello,,1,52300010,39992062
 230-5-0,230,0,Montello via Holbrook Court,Middays only,3,52300090,39992107
@@ -827,9 +827,9 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 426-_-0,426,0,Central Square via Cliftondale,Weekdays only,1,54260029,40099907
 426-7-0,426,0,Central Square via Cliftondale,Weekends only,3,54260091,40081344
 426-1-0,426,0,West Lynn via Cliftondale,PM peak hours only,3,54260092,40099614
+426-2-0,426,0,Central Square via Summer St.,School days only,3,54260096,40100092
 426-3-0,426,0,Central Square via Summer St.,School days only,3,54260096,40100096
 426-4-0,426,0,Central Square via Summer St.,AM peak hours only,3,54260096,40099911
-426-2-0,426,0,Central Square via Summer St.,School days only,3,54260096,40100092
 426-9-0,426,0,Central Square via Cliftondale,Weekend late nights only,3,54260098,40081358
 426-5-0,426,0,Central Square via Cliftondale,Weekday late nights only,3,54260099,40100136
 426-_-1,426,1,Haymarket via Cliftondale,Weekdays only,1,54260130,40100000
@@ -864,8 +864,8 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 435-5-0,435,0,Danvers Square via Malls & Euclid Ave.,Weekday early mornings only,3,54350098,40100001
 435-6-1,435,1,Neptune Towers via Central Sq,,1,54350146,40099705
 435-_-1,435,1,Central Square via Malls & Euclid Ave.,,2,54350170,40099712
-435-3-1,435,1,Central Square via Pine Hill,AM peak hours only,3,54350192,40099717
 435-1-1,435,1,Neptune Towers via Pine Hill and Central Sq,Weekday middays only,3,54350192,40099706
+435-3-1,435,1,Central Square via Pine Hill,AM peak hours only,3,54350192,40099717
 435-2-1,435,1,Central Square via Euclid Ave.,Weekday early mornings only,3,54350198,40099716
 436-_-0,436,0,Liberty Tree via North Shore Mall & Lynnfield St.,,1,54360028,40099727
 436-1-0,436,0,North Shore Mall via Centennial Park & Lynnfield St.,Weekday mornings only,2,54360078,40099745

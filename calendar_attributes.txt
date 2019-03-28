@@ -1,22 +1,4 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality
-BUS12019-hba19011-Weekday-02,Weekday schedule,Weekday,Weekday,1
-BUS12019-hbb19011-Weekday-02,Weekday schedule,Weekday,Weekday,1
-BUS12019-hbb19016-Saturday-02,Saturday schedule,Saturday,Saturday,1
-BUS12019-hbc19011-Weekday-02,Weekday schedule,Weekday,Weekday,1
-BUS12019-hbc19016-Saturday-02,Saturday schedule,Saturday,Saturday,1
-BUS12019-hbf19011-Weekday-02,Weekday schedule,Weekday,Weekday,1
-BUS12019-hbg19011-Weekday-02,Weekday schedule,Weekday,Weekday,1
-BUS12019-hbg19016-Saturday-02,Saturday schedule,Saturday,Saturday,1
-BUS12019-hbl19011-Weekday-02,Weekday schedule,Weekday,Weekday,1
-BUS12019-hbl19016-Saturday-02,Saturday schedule,Saturday,Saturday,1
-BUS12019-hbq19011-Weekday-02,Weekday schedule,Weekday,Weekday,1
-BUS12019-hbq19016-Saturday-02,Saturday schedule,Saturday,Saturday,1
-BUS12019-hbs19011-Weekday-02,Weekday schedule,Weekday,Weekday,1
-BUS12019-hbs19016-Saturday-02,Saturday schedule,Saturday,Saturday,1
-BUS12019-hbt19011-Weekday-02,Weekday schedule,Weekday,Weekday,1
-BUS12019-hbt19016-Saturday-02,Saturday schedule,Saturday,Saturday,1
-BUS12019-htt19011-Weekday-02,Weekday schedule,Weekday,Weekday,1
-BUS12019-htt19016-Saturday-02,Saturday schedule,Saturday,Saturday,1
 BUS22019-hba29011-Weekday-02,Weekday schedule,Weekday,Weekday,1
 BUS22019-hba29ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1
 BUS22019-hbb29011-Weekday-02,Weekday schedule,Weekday,Weekday,1
@@ -34,7 +16,6 @@ BUS22019-hbf29ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),We
 BUS22019-hbg29hl7-Sunday-02,Holiday (Sunday schedule),Holiday,Sunday,3
 BUS22019-hbg29sn1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1
 BUS22019-hbg29sp1-Weekday-02,Weekday schedule,Weekday,Weekday,1
-BUS22019-hbg29sp7-Sunday-02,Sunday schedule,Sunday,Sunday,1
 BUS22019-hbg29sw1-Weekday-02,Weekday schedule,Weekday,Weekday,1
 BUS22019-hbg29sw6-Saturday-02,Saturday schedule,Saturday,Saturday,1
 BUS22019-hbg29sw7-Sunday-02,Sunday schedule,Sunday,Sunday,1
@@ -56,7 +37,6 @@ BUS22019-hbs29ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),We
 BUS22019-hbt29hl7-Sunday-02,Holiday (Sunday schedule),Holiday,Sunday,3
 BUS22019-hbt29sn1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1
 BUS22019-hbt29sp1-Weekday-02,Weekday schedule,Weekday,Weekday,1
-BUS22019-hbt29sp7-Sunday-02,Sunday schedule,Sunday,Sunday,1
 BUS22019-hbt29sw1-Weekday-02,Weekday schedule,Weekday,Weekday,1
 BUS22019-hbt29sw6-Saturday-02,Saturday schedule,Saturday,Saturday,1
 BUS22019-hbt29sw7-Sunday-02,Sunday schedule,Sunday,Sunday,1
@@ -111,10 +91,6 @@ CR-Weekday-Newburyport-Fall-18,Weekday schedule,Weekday,Weekday,1
 CR-Weekday-Providence-Fall-18,Weekday schedule,Weekday,Weekday,1
 CR-Weekday-Worcester-Fall-18,Weekday schedule,Weekday,Weekday,1
 CapeFlyer-Friday,Friday schedule,Friday,Weekday,1
-LRV12019-hlb19011-Weekday-01-F,Weekday schedule,Weekday,Weekday,4
-LRV12019-hlb19016-Saturday-01,Saturday schedule,Saturday,Saturday,1
-LRV12019-hlm19011-Weekday-01,Weekday schedule,Weekday,Weekday,1
-LRV12019-hlm19016-Saturday-01,Saturday schedule,Saturday,Saturday,1
 LRV22019-hlb29011-Weekday-01,Weekday schedule,Weekday,Weekday,1
 LRV22019-hlb29011-Weekday-01-20:30-FKenmoreStMaryC,Weekday schedule,Weekday,Weekday,4
 LRV22019-hlb29011-Weekday-01-F,Weekday schedule,Weekday,Weekday,4
@@ -139,12 +115,6 @@ LRV22019-hlm29011-Weekday-01,Weekday schedule,Weekday,Weekday,1
 LRV22019-hlm29016-Saturday-01,Saturday schedule,Saturday,Saturday,1
 LRV22019-hlm29017-Sunday-01,Sunday schedule,Sunday,Sunday,1
 LRV22019-hlm29hl7-Sunday-01,Holiday (Sunday schedule),Holiday,Sunday,3
-PRIV12019-hpa19011-Weekday-01,Weekday schedule,Weekday,Weekday,1
-PRIV12019-hpa19016-Saturday-01,Saturday schedule,Saturday,Saturday,1
-PRIV12019-hpj19011-Weekday-01,Weekday schedule,Weekday,Weekday,1
-PRIV12019-hpj19016-Saturday-01,Saturday schedule,Saturday,Saturday,1
-PRIV12019-hpp19011-Weekday-01,Weekday schedule,Weekday,Weekday,1
-PRIV12019-hpp19016-Saturday-01,Saturday schedule,Saturday,Saturday,1
 PRIV22019-hpa29011-Weekday-01,Weekday schedule,Weekday,Weekday,1
 PRIV22019-hpa29016-Saturday-01,Saturday schedule,Saturday,Saturday,1
 PRIV22019-hpj29011-Weekday-01,Weekday schedule,Weekday,Weekday,1
@@ -155,12 +125,6 @@ PRIV22019-hpp29016-Saturday-01,Saturday schedule,Saturday,Saturday,1
 PRIV22019-hpp29017-Sunday-01,Sunday schedule,Sunday,Sunday,1
 PRIV22019-hpp29hl7-Sunday-01,Holiday (Sunday schedule),Holiday,Sunday,3
 PRIV22019-hpp29ns1-Weekday-01,Weekday schedule (no school),Weekday (no school),Weekday,1
-RTL12019-hmb19011-Weekday-01,Weekday schedule,Weekday,Weekday,1
-RTL12019-hmb19016-Saturday-01,Saturday schedule,Saturday,Saturday,1
-RTL12019-hmo19011-Weekday-01,Weekday schedule,Weekday,Weekday,1
-RTL12019-hmo19016-Saturday-01,Saturday schedule,Saturday,Saturday,1
-RTL12019-hms19011-Weekday-01-L,Weekday schedule,Weekday,Weekday,1
-RTL12019-hms19016-Saturday-01-L,Saturday schedule,Saturday,Saturday,1
 RTL22019-hmb29011-Weekday-01,Weekday schedule,Weekday,Weekday,1
 RTL22019-hmb29016-Saturday-01,Saturday schedule,Saturday,Saturday,1
 RTL22019-hmb29017-Sunday-01,Sunday schedule,Sunday,Sunday,1
@@ -169,6 +133,7 @@ RTL22019-hmo29011-Weekday-01,Weekday schedule,Weekday,Weekday,1
 RTL22019-hmo29016-Saturday-01,Saturday schedule,Saturday,Saturday,1
 RTL22019-hmo29017-Sunday-01,Sunday schedule,Sunday,Sunday,1
 RTL22019-hmo29hl7-Sunday-01,Holiday (Sunday schedule),Holiday,Sunday,3
+RTL22019-hms29011-Weekday-01-20:45-BraintreeNQuincyL,Weekday schedule,Weekday,Weekday,4
 RTL22019-hms29011-Weekday-01-L,Weekday schedule,Weekday,Weekday,1
 RTL22019-hms29016-Saturday-01-AlewifeHarvardL,Saturday schedule,Saturday,Saturday,4
 RTL22019-hms29016-Saturday-01-L,Saturday schedule,Saturday,Saturday,1
