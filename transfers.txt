@@ -81,10 +81,10 @@ from_stop_id,to_stop_id,transfer_type,min_transfer_time,min_walk_time,min_wheelc
 15795,15778,2,246,126,,120,2
 15795,70059,2,130,70,,60,2
 15795,70060,2,130,70,,60,2
-15880,5879,2,218,98,169,120,1
-15880,5880,2,218,98,169,120,1
-15880,70051,2,170,110,181,60,1
-15880,70052,2,98,38,46,60,1
+15880,5879,2,179,59,,120,2
+15880,5880,2,179,59,,120,2
+15880,70051,2,106,46,,60,2
+15880,70052,2,80,20,,60,2
 16535,49001,2,592,472,579,120,1
 16535,70020,2,407,347,317,60,1
 16535,70021,2,243,183,329,60,1
@@ -250,9 +250,9 @@ from_stop_id,to_stop_id,transfer_type,min_transfer_time,min_walk_time,min_wheelc
 49001,70199,2,354,234,317,120,1
 49001,70200,2,321,201,390,120,1
 49001,71199,2,321,201,390,120,1
-49002,6565,2,199,79,96,120,1
-49002,70016,2,141,81,151,60,1
-49002,70017,2,152,92,165,60,1
+49002,6565,2,178,58,75,120,1
+49002,70016,2,121,61,,60,2
+49002,70017,2,131,71,,60,2
 5072,5327,2,207,87,145,120,1
 5072,53270,2,198,78,134,120,1
 5072,70034,2,157,97,136,60,1
@@ -272,28 +272,28 @@ from_stop_id,to_stop_id,transfer_type,min_transfer_time,min_walk_time,min_wheelc
 53270,70034,2,144,84,153,60,1
 53270,70035,2,144,84,153,60,1
 53270,Malden Center,2,376,76,151,300,1
-5666,70049,2,115,55,68,60,1
-5666,70050,2,185,125,194,60,1
+5666,70049,2,116,56,,60,2
+5666,70050,2,155,95,,60,2
 5740,57400,2,320,200,280,120,1
 5740,70045,2,170,110,150,60,1
 5740,70046,2,170,110,150,60,1
 57400,5740,2,320,200,280,120,1
 57400,70045,2,170,110,150,60,1
 57400,70046,2,170,110,150,60,1
-5810,5819,2,142,22,28,120,1
-5810,70055,2,140,80,93,60,1
-5810,70056,2,136,76,93,60,1
-5819,5810,2,142,22,28,120,1
-5819,70055,2,140,80,93,60,1
-5819,70056,2,136,76,93,60,1
-5879,15880,2,218,98,169,120,1
-5879,5880,2,154,34,45,120,1
-5879,70051,2,87,27,32,60,1
-5879,70052,2,140,80,142,60,1
-5880,15880,2,218,98,169,120,1
-5880,5879,2,154,34,45,120,1
-5880,70051,2,87,27,32,60,1
-5880,70052,2,140,80,142,60,1
+5810,5819,2,210,90,116,120,1
+5810,70055,2,106,46,,60,2
+5810,70056,2,106,46,,60,2
+5819,5810,2,210,90,116,120,1
+5819,70055,2,164,104,,60,2
+5819,70056,2,164,104,,60,2
+5879,15880,2,200,80,188,120,1
+5879,5880,2,138,18,23,120,1
+5879,70051,2,107,47,,60,2
+5879,70052,2,132,72,,60,2
+5880,15880,2,182,62,165,120,1
+5880,5879,2,138,18,23,120,1
+5880,70051,2,89,29,,60,2
+5880,70052,2,114,54,,60,2
 5991,70036,2,218,158,620,60,1
 5991,9326,2,358,238,1014,120,1
 5991,9328,2,246,126,511,120,1
@@ -304,25 +304,15 @@ from_stop_id,to_stop_id,transfer_type,min_transfer_time,min_walk_time,min_wheelc
 65,70023,2,172,112,268,60,1
 65,70041,2,165,105,195,60,1
 65,70042,2,176,116,378,60,1
-6538,6564,2,442,322,445,120,1
-6538,70079,2,325,265,419,60,1
-6538,70080,2,325,265,419,60,1
-6538,74611,2,376,256,420,120,1
-6538,South Station,2,517,217,309,300,1
 65471,190,2,259,139,373,120,1
 65471,65,2,329,209,516,120,1
 65471,70022,2,237,177,302,60,1
 65471,70023,2,140,80,414,60,1
 65471,70041,2,132,72,478,60,1
 65471,70042,2,143,83,260,60,1
-6564,6538,2,441,321,442,120,1
-6564,70079,2,220,160,263,60,1
-6564,70080,2,220,160,263,60,1
-6564,74611,2,271,151,255,120,1
-6564,South Station,2,405,105,136,300,1
-6565,49002,2,199,79,96,120,1
-6565,70016,2,198,138,218,60,1
-6565,70017,2,208,148,232,60,1
+6565,49002,2,178,58,75,120,1
+6565,70016,2,157,97,,60,2
+6565,70017,2,168,108,,60,2
 70001,10642,2,230,110,164,120,1
 70001,875,2,227,107,199,120,1
 70001,Forest Hills,2,409,169,287,240,1
@@ -372,12 +362,12 @@ from_stop_id,to_stop_id,transfer_type,min_transfer_time,min_walk_time,min_wheelc
 70015,23391,2,216,96,138,120,1
 70015,70014,2,76,16,21,60,1
 70015,Back Bay,2,371,131,229,240,1
-70016,49002,2,239,119,188,120,1
-70016,6565,2,295,175,255,120,1
-70016,70017,2,147,87,176,60,1
-70017,49002,2,250,130,202,120,1
-70017,6565,2,306,186,268,120,1
-70017,70016,2,147,87,176,60,1
+70016,49002,2,207,87,,120,2
+70016,6565,2,243,123,,120,2
+70016,70017,2,149,89,,60,2
+70017,49002,2,217,97,,120,2
+70017,6565,2,254,134,,120,2
+70017,70016,2,149,89,,60,2
 70020,16535,2,426,306,354,120,1
 70020,49001,2,245,125,262,120,1
 70020,70021,2,180,120,,60,2
@@ -504,26 +494,26 @@ from_stop_id,to_stop_id,transfer_type,min_transfer_time,min_walk_time,min_wheelc
 70048,70047,2,87,27,35,60,1
 70048,7096,2,166,46,,120,2
 70048,7097,2,155,35,,120,2
-70049,5666,2,165,45,58,120,1
-70049,70050,2,151,91,155,60,1
-70050,5666,2,235,115,184,120,1
-70050,70049,2,151,91,155,60,1
-70051,15880,2,220,100,171,120,1
-70051,5879,2,137,17,22,120,1
-70051,5880,2,137,17,22,120,1
-70051,70052,2,147,87,155,60,1
-70052,15880,2,148,28,36,120,1
-70052,5879,2,190,70,132,120,1
-70052,5880,2,190,70,132,120,1
-70052,70051,2,147,87,155,60,1
+70049,5666,2,167,47,,120,2
+70049,70050,2,110,50,,60,2
+70050,5666,2,209,89,,120,2
+70050,70049,2,112,52,,60,2
+70051,15880,2,170,50,,120,2
+70051,5879,2,149,29,,120,2
+70051,5880,2,149,29,,120,2
+70051,70052,2,85,25,116,60,1
+70052,15880,2,145,25,,120,2
+70052,5879,2,169,49,,120,2
+70052,5880,2,169,49,,120,2
+70052,70051,2,85,25,116,60,1
 70053,70054,2,143,83,340,60,1
 70054,70053,2,143,83,340,60,1
-70055,5810,2,181,61,83,120,1
-70055,5819,2,181,61,83,120,1
-70055,70056,2,165,105,137,60,1
-70056,5810,2,190,70,83,120,1
-70056,5819,2,190,70,83,120,1
-70056,70055,2,177,117,137,60,1
+70055,5810,2,171,51,,120,2
+70055,5819,2,230,110,,120,2
+70055,70056,2,92,32,162,60,1
+70056,5810,2,188,68,,120,2
+70056,5819,2,247,127,,120,2
+70056,70055,2,110,50,,60,2
 70057,70058,2,114,54,111,60,1
 70058,70057,2,114,54,111,60,1
 70059,15795,2,179,59,,120,2
@@ -588,16 +578,40 @@ from_stop_id,to_stop_id,transfer_type,min_transfer_time,min_walk_time,min_wheelc
 70078,70020,2,178,118,,60,2
 70078,70021,2,159,99,266,60,1
 70078,70077,2,212,152,196,60,1
-70079,6538,2,387,267,407,120,1
-70079,6564,2,304,184,270,120,1
-70079,70080,2,139,79,192,60,1
-70079,74611,2,172,52,88,120,1
-70079,South Station,2,455,215,313,240,1
-70080,6538,2,405,285,407,120,1
-70080,6564,2,304,184,270,120,1
-70080,70079,2,139,79,192,60,1
-70080,74611,2,172,52,88,120,1
-70080,South Station,2,473,233,313,240,1
+70079,70080,2,98,38,169,60,1
+70079,74611,2,131,11,74,120,1
+70079,74617,2,159,39,171,120,1
+70079,South Station,2,402,162,,240,2
+70079,South Station-01,2,267,177,,90,2
+70079,South Station-02,2,253,163,,90,2
+70079,South Station-03,2,253,163,,90,2
+70079,South Station-04,2,242,152,,90,2
+70079,South Station-05,2,242,152,,90,2
+70079,South Station-06,2,238,148,,90,2
+70079,South Station-07,2,238,148,,90,2
+70079,South Station-08,2,235,145,,90,2
+70079,South Station-09,2,235,145,,90,2
+70079,South Station-10,2,236,146,,90,2
+70079,South Station-11,2,271,181,,90,2
+70079,South Station-12,2,275,185,,90,2
+70079,South Station-13,2,294,204,,90,2
+70080,70079,2,95,35,165,60,1
+70080,74611,2,147,27,95,120,1
+70080,74617,2,162,42,114,120,1
+70080,South Station,2,427,187,,240,2
+70080,South Station-01,2,291,201,,90,2
+70080,South Station-02,2,277,187,,90,2
+70080,South Station-03,2,277,187,,90,2
+70080,South Station-04,2,266,176,,90,2
+70080,South Station-05,2,266,176,,90,2
+70080,South Station-06,2,262,172,,90,2
+70080,South Station-07,2,262,172,,90,2
+70080,South Station-08,2,259,169,,90,2
+70080,South Station-09,2,259,169,,90,2
+70080,South Station-10,2,260,170,,90,2
+70080,South Station-11,2,295,205,,90,2
+70080,South Station-12,2,300,210,,90,2
+70080,South Station-13,2,318,228,,90,2
 70081,150,2,202,82,,120,2
 70081,151,2,212,92,,120,2
 70081,70082,2,64,4,6,60,1
@@ -868,16 +882,44 @@ from_stop_id,to_stop_id,transfer_type,min_transfer_time,min_walk_time,min_wheelc
 71199,70198,2,194,74,140,120,1
 71199,70199,2,194,74,140,120,1
 71199,70200,2,268,148,280,120,1
+74611,70079,2,78,18,80,60,1
+74611,70080,2,97,37,105,60,1
+74611,74617,2,154,34,164,120,1
+74611,South Station,2,457,157,,300,2
+74611,South Station-01,2,262,172,,90,2
+74611,South Station-02,2,247,157,,90,2
+74611,South Station-03,2,247,157,,90,2
+74611,South Station-04,2,237,147,,90,2
+74611,South Station-05,2,237,147,,90,2
+74611,South Station-06,2,233,143,,90,2
+74611,South Station-07,2,233,143,,90,2
+74611,South Station-08,2,230,140,,90,2
+74611,South Station-09,2,230,140,,90,2
+74611,South Station-10,2,231,141,,90,2
+74611,South Station-11,2,266,176,,90,2
+74611,South Station-12,2,270,180,,90,2
+74611,South Station-13,2,288,198,,90,2
 74612,74616,2,334,214,383,120,1
 74613,74615,2,180,60,,120,2
 74615,74613,2,193,73,,120,2
 74616,74612,2,334,214,383,120,1
-74617,6538,2,365,245,399,120,1
-74617,6564,2,247,127,180,120,1
-74617,70079,2,95,35,85,60,1
-74617,70080,2,104,44,91,60,1
-74617,74611,2,202,82,167,120,1
-74617,South Station,2,493,193,304,300,1
+74617,70079,2,102,42,111,60,1
+74617,70080,2,97,37,105,60,1
+74617,74611,2,154,34,164,120,1
+74617,South Station,2,460,160,,300,2
+74617,South Station-01,2,265,175,,90,2
+74617,South Station-02,2,250,160,,90,2
+74617,South Station-03,2,250,160,,90,2
+74617,South Station-04,2,240,150,,90,2
+74617,South Station-05,2,240,150,,90,2
+74617,South Station-06,2,236,146,,90,2
+74617,South Station-07,2,236,146,,90,2
+74617,South Station-08,2,233,143,,90,2
+74617,South Station-09,2,233,143,,90,2
+74617,South Station-10,2,234,144,,90,2
+74617,South Station-11,2,269,179,,90,2
+74617,South Station-12,2,273,183,,90,2
+74617,South Station-13,2,292,202,,90,2
 79,70152,2,218,98,,120,2
 79,70153,2,224,104,,120,2
 79,93,2,199,79,102,120,1
@@ -1033,11 +1075,244 @@ Ruggles,17862,2,198,78,135,120,1
 Ruggles,17863,2,208,88,152,120,1
 Ruggles,70010,2,217,97,178,120,1
 Ruggles,70011,2,217,97,178,120,1
-South Station,6538,2,336,216,306,120,1
-South Station,6564,2,225,105,136,120,1
-South Station,70079,2,332,212,323,120,1
-South Station,70080,2,332,212,323,120,1
-South Station,74611,2,323,203,323,120,1
+South Station,70079,2,289,169,,120,2
+South Station,70080,2,314,194,,120,2
+South Station,74611,2,277,157,,120,2
+South Station,74617,2,280,160,,120,2
+South Station,South Station-01,2,275,155,200,120,1
+South Station,South Station-02,2,275,155,200,120,1
+South Station,South Station-03,2,275,155,200,120,1
+South Station,South Station-04,2,280,160,207,120,1
+South Station,South Station-05,2,280,160,207,120,1
+South Station,South Station-06,2,288,168,218,120,1
+South Station,South Station-07,2,288,168,218,120,1
+South Station,South Station-08,2,285,165,214,120,1
+South Station,South Station-09,2,285,165,214,120,1
+South Station,South Station-10,2,271,151,196,120,1
+South Station,South Station-11,2,305,185,239,120,1
+South Station,South Station-12,2,299,179,231,120,1
+South Station,South Station-13,2,289,169,218,120,1
+South Station-01,70079,2,264,174,,90,2
+South Station-01,70080,2,289,199,,90,2
+South Station-01,74611,2,262,172,,90,2
+South Station-01,74617,2,265,175,,90,2
+South Station-01,South Station,2,455,155,200,300,1
+South Station-01,South Station-02,2,193,103,133,90,1
+South Station-01,South Station-03,2,193,103,133,90,1
+South Station-01,South Station-04,2,206,116,150,90,1
+South Station-01,South Station-05,2,206,116,150,90,1
+South Station-01,South Station-06,2,218,128,165,90,1
+South Station-01,South Station-07,2,218,128,165,90,1
+South Station-01,South Station-08,2,230,140,182,90,1
+South Station-01,South Station-09,2,230,140,182,90,1
+South Station-01,South Station-10,2,244,154,199,90,1
+South Station-01,South Station-11,2,274,184,238,90,1
+South Station-01,South Station-12,2,280,190,245,90,1
+South Station-01,South Station-13,2,290,200,258,90,1
+South Station-02,70079,2,249,159,,90,2
+South Station-02,70080,2,274,184,,90,2
+South Station-02,74611,2,247,157,,90,2
+South Station-02,74617,2,250,160,,90,2
+South Station-02,South Station,2,455,155,200,300,1
+South Station-02,South Station-01,2,193,103,133,90,1
+South Station-02,South Station-03,2,97,7,8,90,1
+South Station-02,South Station-04,2,197,107,138,90,1
+South Station-02,South Station-05,2,197,107,138,90,1
+South Station-02,South Station-06,2,209,119,154,90,1
+South Station-02,South Station-07,2,209,119,154,90,1
+South Station-02,South Station-08,2,223,133,172,90,1
+South Station-02,South Station-09,2,223,133,172,90,1
+South Station-02,South Station-10,2,232,142,183,90,1
+South Station-02,South Station-11,2,264,174,225,90,1
+South Station-02,South Station-12,2,270,180,233,90,1
+South Station-02,South Station-13,2,278,188,243,90,1
+South Station-03,70079,2,249,159,,90,2
+South Station-03,70080,2,274,184,,90,2
+South Station-03,74611,2,247,157,,90,2
+South Station-03,74617,2,250,160,,90,2
+South Station-03,South Station,2,455,155,200,300,1
+South Station-03,South Station-01,2,193,103,133,90,1
+South Station-03,South Station-02,2,97,7,8,90,1
+South Station-03,South Station-04,2,197,107,138,90,1
+South Station-03,South Station-05,2,197,107,138,90,1
+South Station-03,South Station-06,2,209,119,154,90,1
+South Station-03,South Station-07,2,209,119,154,90,1
+South Station-03,South Station-08,2,223,133,172,90,1
+South Station-03,South Station-09,2,223,133,172,90,1
+South Station-03,South Station-10,2,232,142,183,90,1
+South Station-03,South Station-11,2,264,174,225,90,1
+South Station-03,South Station-12,2,270,180,233,90,1
+South Station-03,South Station-13,2,278,188,243,90,1
+South Station-04,70079,2,239,149,,90,2
+South Station-04,70080,2,264,174,,90,2
+South Station-04,74611,2,237,147,,90,2
+South Station-04,74617,2,240,150,,90,2
+South Station-04,South Station,2,460,160,207,300,1
+South Station-04,South Station-01,2,206,116,150,90,1
+South Station-04,South Station-02,2,197,107,138,90,1
+South Station-04,South Station-03,2,197,107,138,90,1
+South Station-04,South Station-05,2,97,7,8,90,1
+South Station-04,South Station-06,2,195,105,136,90,1
+South Station-04,South Station-07,2,195,105,136,90,1
+South Station-04,South Station-08,2,211,121,157,90,1
+South Station-04,South Station-09,2,211,121,157,90,1
+South Station-04,South Station-10,2,220,130,169,90,1
+South Station-04,South Station-11,2,251,161,208,90,1
+South Station-04,South Station-12,2,256,166,215,90,1
+South Station-04,South Station-13,2,265,175,227,90,1
+South Station-05,70079,2,239,149,,90,2
+South Station-05,70080,2,264,174,,90,2
+South Station-05,74611,2,237,147,,90,2
+South Station-05,74617,2,240,150,,90,2
+South Station-05,South Station,2,460,160,207,300,1
+South Station-05,South Station-01,2,206,116,150,90,1
+South Station-05,South Station-02,2,197,107,138,90,1
+South Station-05,South Station-03,2,197,107,138,90,1
+South Station-05,South Station-04,2,97,7,8,90,1
+South Station-05,South Station-06,2,195,105,136,90,1
+South Station-05,South Station-07,2,195,105,136,90,1
+South Station-05,South Station-08,2,211,121,157,90,1
+South Station-05,South Station-09,2,211,121,157,90,1
+South Station-05,South Station-10,2,220,130,169,90,1
+South Station-05,South Station-11,2,251,161,208,90,1
+South Station-05,South Station-12,2,256,166,215,90,1
+South Station-05,South Station-13,2,265,175,227,90,1
+South Station-06,70079,2,235,145,,90,2
+South Station-06,70080,2,260,170,,90,2
+South Station-06,74611,2,233,143,,90,2
+South Station-06,74617,2,236,146,,90,2
+South Station-06,South Station,2,468,168,218,300,1
+South Station-06,South Station-01,2,218,128,165,90,1
+South Station-06,South Station-02,2,209,119,154,90,1
+South Station-06,South Station-03,2,209,119,154,90,1
+South Station-06,South Station-04,2,195,105,136,90,1
+South Station-06,South Station-05,2,195,105,136,90,1
+South Station-06,South Station-07,2,97,7,8,90,1
+South Station-06,South Station-08,2,199,109,141,90,1
+South Station-06,South Station-09,2,199,109,141,90,1
+South Station-06,South Station-10,2,207,117,152,90,1
+South Station-06,South Station-11,2,239,149,193,90,1
+South Station-06,South Station-12,2,245,155,200,90,1
+South Station-06,South Station-13,2,253,163,210,90,1
+South Station-07,70079,2,235,145,,90,2
+South Station-07,70080,2,260,170,,90,2
+South Station-07,74611,2,233,143,,90,2
+South Station-07,74617,2,236,146,,90,2
+South Station-07,South Station,2,468,168,218,300,1
+South Station-07,South Station-01,2,218,128,165,90,1
+South Station-07,South Station-02,2,209,119,154,90,1
+South Station-07,South Station-03,2,209,119,154,90,1
+South Station-07,South Station-04,2,195,105,136,90,1
+South Station-07,South Station-05,2,195,105,136,90,1
+South Station-07,South Station-06,2,97,7,8,90,1
+South Station-07,South Station-08,2,199,109,141,90,1
+South Station-07,South Station-09,2,199,109,141,90,1
+South Station-07,South Station-10,2,207,117,152,90,1
+South Station-07,South Station-11,2,239,149,193,90,1
+South Station-07,South Station-12,2,245,155,200,90,1
+South Station-07,South Station-13,2,253,163,210,90,1
+South Station-08,70079,2,232,142,,90,2
+South Station-08,70080,2,257,167,,90,2
+South Station-08,74611,2,230,140,,90,2
+South Station-08,74617,2,233,143,,90,2
+South Station-08,South Station,2,465,165,214,300,1
+South Station-08,South Station-01,2,230,140,182,90,1
+South Station-08,South Station-02,2,223,133,172,90,1
+South Station-08,South Station-03,2,223,133,172,90,1
+South Station-08,South Station-04,2,211,121,157,90,1
+South Station-08,South Station-05,2,211,121,157,90,1
+South Station-08,South Station-06,2,199,109,141,90,1
+South Station-08,South Station-07,2,199,109,141,90,1
+South Station-08,South Station-09,2,97,7,8,90,1
+South Station-08,South Station-10,2,194,104,135,90,1
+South Station-08,South Station-11,2,226,136,176,90,1
+South Station-08,South Station-12,2,232,142,183,90,1
+South Station-08,South Station-13,2,240,150,194,90,1
+South Station-09,70079,2,232,142,,90,2
+South Station-09,70080,2,257,167,,90,2
+South Station-09,74611,2,230,140,,90,2
+South Station-09,74617,2,233,143,,90,2
+South Station-09,South Station,2,465,165,214,300,1
+South Station-09,South Station-01,2,230,140,182,90,1
+South Station-09,South Station-02,2,223,133,172,90,1
+South Station-09,South Station-03,2,223,133,172,90,1
+South Station-09,South Station-04,2,211,121,157,90,1
+South Station-09,South Station-05,2,211,121,157,90,1
+South Station-09,South Station-06,2,199,109,141,90,1
+South Station-09,South Station-07,2,199,109,141,90,1
+South Station-09,South Station-08,2,97,7,8,90,1
+South Station-09,South Station-10,2,194,104,135,90,1
+South Station-09,South Station-11,2,226,136,176,90,1
+South Station-09,South Station-12,2,232,142,183,90,1
+South Station-09,South Station-13,2,240,150,194,90,1
+South Station-10,70079,2,233,143,,90,2
+South Station-10,70080,2,258,168,,90,2
+South Station-10,74611,2,231,141,,90,2
+South Station-10,74617,2,234,144,,90,2
+South Station-10,South Station,2,450,150,195,300,1
+South Station-10,South Station-01,2,244,154,199,90,1
+South Station-10,South Station-02,2,232,142,183,90,1
+South Station-10,South Station-03,2,232,142,183,90,1
+South Station-10,South Station-04,2,220,130,169,90,1
+South Station-10,South Station-05,2,220,130,169,90,1
+South Station-10,South Station-06,2,207,117,152,90,1
+South Station-10,South Station-07,2,207,117,152,90,1
+South Station-10,South Station-08,2,194,104,135,90,1
+South Station-10,South Station-09,2,194,104,135,90,1
+South Station-10,South Station-11,2,128,38,50,90,1
+South Station-10,South Station-12,2,144,54,70,90,1
+South Station-10,South Station-13,2,148,58,75,90,1
+South Station-11,70079,2,268,178,,90,2
+South Station-11,70080,2,293,203,,90,2
+South Station-11,74611,2,266,176,,90,2
+South Station-11,74617,2,269,179,,90,2
+South Station-11,South Station,2,484,184,238,300,1
+South Station-11,South Station-01,2,274,184,238,90,1
+South Station-11,South Station-02,2,264,174,225,90,1
+South Station-11,South Station-03,2,264,174,225,90,1
+South Station-11,South Station-04,2,251,161,208,90,1
+South Station-11,South Station-05,2,251,161,208,90,1
+South Station-11,South Station-06,2,239,149,193,90,1
+South Station-11,South Station-07,2,239,149,193,90,1
+South Station-11,South Station-08,2,226,136,176,90,1
+South Station-11,South Station-09,2,226,136,176,90,1
+South Station-11,South Station-10,2,128,38,50,90,1
+South Station-11,South Station-12,2,178,88,114,90,1
+South Station-11,South Station-13,2,183,93,121,90,1
+South Station-12,70079,2,272,182,,90,2
+South Station-12,70080,2,297,207,,90,2
+South Station-12,74611,2,270,180,,90,2
+South Station-12,74617,2,273,183,,90,2
+South Station-12,South Station,2,478,178,230,300,1
+South Station-12,South Station-01,2,280,190,245,90,1
+South Station-12,South Station-02,2,270,180,233,90,1
+South Station-12,South Station-03,2,270,180,233,90,1
+South Station-12,South Station-04,2,256,166,215,90,1
+South Station-12,South Station-05,2,256,166,215,90,1
+South Station-12,South Station-06,2,245,155,200,90,1
+South Station-12,South Station-07,2,245,155,200,90,1
+South Station-12,South Station-08,2,232,142,183,90,1
+South Station-12,South Station-09,2,232,142,183,90,1
+South Station-12,South Station-10,2,144,54,70,90,1
+South Station-12,South Station-11,2,178,88,114,90,1
+South Station-12,South Station-13,2,178,88,114,90,1
+South Station-13,70079,2,291,201,,90,2
+South Station-13,70080,2,315,225,,90,2
+South Station-13,74611,2,288,198,,90,2
+South Station-13,74617,2,292,202,,90,2
+South Station-13,South Station,2,468,168,217,300,1
+South Station-13,South Station-01,2,290,200,258,90,1
+South Station-13,South Station-02,2,278,188,243,90,1
+South Station-13,South Station-03,2,278,188,243,90,1
+South Station-13,South Station-04,2,265,175,227,90,1
+South Station-13,South Station-05,2,265,175,227,90,1
+South Station-13,South Station-06,2,253,163,210,90,1
+South Station-13,South Station-07,2,253,163,210,90,1
+South Station-13,South Station-08,2,240,150,194,90,1
+South Station-13,South Station-09,2,240,150,194,90,1
+South Station-13,South Station-10,2,148,58,75,90,1
+South Station-13,South Station-11,2,183,93,121,90,1
+South Station-13,South Station-12,2,178,88,114,90,1
 70018,70019,3,,,,,
 70019,70018,3,,,,,
 70059,15778,3,,,,,

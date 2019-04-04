@@ -4,6 +4,7 @@
 "attended","Indicates that the facility is regularly staffed","1 for true, 2 for false, or 0 for no information"
 "capacity","Number of objects, such as automobiles, automobile chargers, or bicycles, permitted inside the facility","Integer"
 "capacity-accessible","Capacity inside the facility which is accessible; for example, this is used for 'parking-area' spaces reserved for drivers with disabled placards","Integer"
+"car-sharing","Name of a carsharing service for which vehicles are available at the associated station or parking area; a single facility may have multiple instances of this property, each with a different carsharing service","Text"
 "contact","Entity which is responsible for customer relations at a facility and can be contacted through the 'contact-phone' or 'contact-url' fields","Text"
 "contact-phone","Contact phone number from which more information about the facility can be obtained","Text"
 "contact-url","Contact website URL from which more information about the facility can be obtained","Text"
