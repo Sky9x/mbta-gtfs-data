@@ -364,13 +364,13 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 993,993,1,elevator,Yawkey,Outbound platform 1 to bridge (east),Yawkey Elevator 993 (Outbound platform 1 to bridge (east)),,,,1
 bike-15095,,3,bike-storage,15095,Bike rack,Washington St @ Herald St bike rack,,,,0
 bike-15176,,3,bike-storage,15176,Bike rack,Washington St @ Worcester St bike rack,,,,0
+bike-17091,,3,bike-storage,17091,Bike rack,Terminal A bike rack,,,,0
 bike-1787,,3,bike-storage,1787,Bike rack,Washington St @ Worcester St bike rack,,,,0
 bike-1788,,3,bike-storage,1788,Bike rack,Washington St @ E Newton St bike rack,,,,0
-bike-19402,,3,bike-storage,19402,Bike rack,Washington St @ W Newton St bike rack,,,,0
+bike-27092,,3,bike-storage,27092,Bike rack,Terminal B Stop 1 - Arrivals Level bike rack,,,,0
 bike-3,,3,bike-storage,3,Bike rack,Washington St @ Melnea Cass Blvd - Silver Line bike rack,,,,0
 bike-4,,3,bike-storage,4,Bike rack,Washington St @ Lenox St bike rack,,,,0
 bike-49003,,3,bike-storage,49003,Bike rack,Washington St @ Herald St bike rack,,,,0
-bike-5093,,3,bike-storage,5093,Bike rack,Washington St @ Union Pk bike rack,,,,0
 bike-5095,,3,bike-storage,5095,Bike rack,Washington St @ E Berkeley St bike rack,,,,0
 bike-5098,,3,bike-storage,5098,Bike rack,Washington St @ E Berkeley St bike rack,,,,0
 bike-5100,,3,bike-storage,5100,Bike rack,Washington St @ Union Pk bike rack,,,,0
@@ -379,77 +379,101 @@ bike-61,,3,bike-storage,61,Bike rack,Washington St @ Melnea Cass Blvd bike rack,
 bike-64,,3,bike-storage,64,Pedal and Park,Dudley Station Pedal and Park,,42.3292240,-71.0841340,0
 bike-64000,,3,bike-storage,64000,Pedal and Park,Dudley Station Pedal and Park,,42.3292240,-71.0841340,0
 bike-7922,,3,bike-storage,7922,Covered bike rack,Arlington Heights Busway covered bike rack,,,,0
-bike-8178,,3,bike-storage,8178,Covered bike rack,Watertown Sq Terminal covered bike rack,,,,0
+bike-8178,,3,bike-storage,8178,Bike rack,Watertown Sq Terminal bike rack,,,,0
+bike-900,,3,bike-storage,900,Covered bike rack,Watertown Yard covered bike rack,,,,0
+bike-Boat-Hingham,,3,bike-storage,Boat-Hingham,Bike rack,Hingham bike rack,,,,0
+bike-DB-0095,,3,bike-storage,Readville,Bike rack,Readville bike rack,,,,0
 bike-DB-2205,,3,bike-storage,Fairmount,Covered bike rack,Fairmount covered bike rack,,,,0
+bike-DB-2222,,3,bike-storage,Blue Hill Avenue,Bike rack,Blue Hill Avenue bike rack,,,,0
 bike-DB-2230,,3,bike-storage,Morton Street,Covered bike rack,Morton Street covered bike rack,,,,0
 bike-DB-2249,,3,bike-storage,Four Corners / Geneva,Bike rack,Four Corners/Geneva bike rack,,,,0
+bike-DB-2258,,3,bike-storage,Uphams Corner,Bike rack,Uphams Corner bike rack,,,,0
 bike-DB-2265,,3,bike-storage,Newmarket,Bike rack,Newmarket bike rack,,,,0
-bike-ER-0115,,3,bike-storage,Lynn,Bike rack,Lynn bike rack,,,,0
+bike-ER-0128,,3,bike-storage,Swampscott,Bike rack,Swampscott bike rack,,,,0
 bike-ER-0168,,3,bike-storage,Salem,Pedal and Park,Salem Pedal and Park,,42.5241150,-70.8964200,0
 bike-ER-0183,,3,bike-storage,Beverly,Pedal and Park,Beverly Pedal and Park,,42.5456300,-70.8851280,0
+bike-ER-0208,,3,bike-storage,North Beverly,Bike rack,North Beverly bike rack,,,,0
+bike-ER-0227,,3,bike-storage,Hamilton/ Wenham,Bike rack,Hamilton/Wenham bike rack,,,,0
 bike-ER-0276,,3,bike-storage,Ipswich,Bike rack,Ipswich bike rack,,,,0
 bike-ER-0312,,3,bike-storage,Rowley,Bike rack,Rowley bike rack,,,,0
 bike-ER-0362,,3,bike-storage,Newburyport,Bike rack,Newburyport bike rack,,,,0
+bike-FB-0118,,3,bike-storage,Dedham Corp Center,Bike rack,Dedham Corp Center bike rack,,,,0
+bike-FB-0125,,3,bike-storage,Islington,Bike rack,Islington bike rack,,,,0
+bike-FB-0143,,3,bike-storage,Norwood Depot,Bike rack,Norwood Depot bike rack,,,,0
 bike-FB-0148,,3,bike-storage,Norwood Central,Bike rack,Norwood Central bike rack,,,,0
+bike-FB-0166,,3,bike-storage,Windsor Gardens,Bike rack,Windsor Gardens bike rack,,,,0
 bike-FB-0191,,3,bike-storage,Walpole,Bike rack,Walpole bike rack,,,,0
 bike-FB-0230,,3,bike-storage,Norfolk,Bike rack,Norfolk bike rack,,,,0
 bike-FB-0275,,3,bike-storage,Franklin,Bike rack,Franklin bike rack,,,,0
 bike-FB-0303,,3,bike-storage,Forge Park / 495,Bike rack,Forge Park/495 bike rack,,,,0
 bike-FR-0064,,3,bike-storage,Belmont,Bike rack,Belmont bike rack,,,,0
-bike-FR-0074,,3,bike-storage,Waverley,Covered bike rack,Waverley covered bike rack,,,,0
-bike-FR-0098,,3,bike-storage,Waltham,Covered bike rack,Waltham covered bike rack,,,,0
+bike-FR-0098,,3,bike-storage,Waltham,Bike rack,Waltham bike rack,,,,0
 bike-FR-0115,,3,bike-storage,Brandeis/ Roberts,Bike rack,Brandeis/Roberts bike rack,,,,0
 bike-FR-0167,,3,bike-storage,Lincoln,Bike rack,Lincoln bike rack,,,,0
 bike-FR-0201,,3,bike-storage,Concord,Bike rack,Concord bike rack,,,,0
-bike-FR-0219,,3,bike-storage,West Concord,Bike rack,West Concord bike rack,,,,0
+bike-FR-0219,,3,bike-storage,West Concord,Covered bike rack,West Concord covered bike rack,,,,0
 bike-FR-0253,,3,bike-storage,South Acton,Bike rack,South Acton bike rack,,,,0
+bike-FR-0301,,3,bike-storage,Littleton / Rte 495,Bike rack,Littleton/Rte 495 bike rack,,,,0
 bike-FR-0494,,3,bike-storage,Fitchburg,Bike rack,Fitchburg bike rack,,,,0
-bike-FR-3338,,3,bike-storage,Wachusett,Bike rack,Wachusett bike rack,,,,0
+bike-FR-3338,,3,bike-storage,Wachusett,Covered bike rack,Wachusett covered bike rack,,,,0
 bike-GB-0198,,3,bike-storage,Montserrat,Bike rack,Montserrat bike rack,,,,0
 bike-GB-0229,,3,bike-storage,Beverly Farms,Bike rack,Beverly Farms bike rack,,,,0
 bike-GB-0254,,3,bike-storage,Manchester,Bike rack,Manchester bike rack,,,,0
 bike-GB-0296,,3,bike-storage,West Gloucester,Bike rack,West Gloucester bike rack,,,,0
 bike-GB-0316,,3,bike-storage,Gloucester,Bike rack,Gloucester bike rack,,,,0
 bike-GB-0353,,3,bike-storage,Rockport,Bike rack,Rockport bike rack,,,,0
-bike-GRB-0118,,3,bike-storage,Weymouth Landing/ East Braintree,Covered bike rack,Weymouth Landing/East Braintree covered bike rack,,,,0
+bike-GRB-0118,,3,bike-storage,Weymouth Landing/ East Braintree,Bike rack,Weymouth Landing/East Braintree bike rack,,,,0
+bike-GRB-0146,,3,bike-storage,East Weymouth,Bike rack,East Weymouth bike rack,,,,0
+bike-GRB-0162,,3,bike-storage,West Hingham,Bike rack,West Hingham bike rack,,,,0
+bike-GRB-0183,,3,bike-storage,Nantasket Junction,Bike rack,Nantasket Junction bike rack,,,,0
+bike-GRB-0199,,3,bike-storage,Cohasset,Bike rack,Cohasset bike rack,,,,0
+bike-GRB-0233,,3,bike-storage,North Scituate,Bike rack,North Scituate bike rack,,,,0
+bike-GRB-0276,,3,bike-storage,Greenbush,Bike rack,Greenbush bike rack,,,,0
+bike-KB-0351,,3,bike-storage,Kingston,Bike rack,Kingston bike rack,,,,0
 bike-MM-0150,,3,bike-storage,Holbrook/ Randolph,Covered bike rack,Holbrook/Randolph covered bike rack,,,,0
 bike-MM-0186,,3,bike-storage,Montello,Covered bike rack,Montello covered bike rack,,,,0
 bike-MM-0200,,3,bike-storage,Brockton,Bike rack,Brockton bike rack,,,,0
 bike-MM-0219,,3,bike-storage,Campello,Bike rack,Campello bike rack,,,,0
 bike-MM-0277,,3,bike-storage,Bridgewater,Bike rack,Bridgewater bike rack,,,,0
 bike-MM-0356,,3,bike-storage,Middleborough/ Lakeville,Bike rack,Middleborough/Lakeville bike rack,,,,0
+bike-NB-0064,,3,bike-storage,Roslindale Village,Bike rack,Roslindale Village bike rack,,,,0
 bike-NB-0072,,3,bike-storage,Bellevue,Bike rack,Bellevue bike rack,,,,0
-bike-NB-0080,,3,bike-storage,West Roxbury,Covered bike rack,West Roxbury covered bike rack,,,,0
+bike-NB-0076,,3,bike-storage,Highland,Covered bike rack,Highland covered bike rack,,,,0
+bike-NB-0080,,3,bike-storage,West Roxbury,Bike rack,West Roxbury bike rack,,,,0
 bike-NB-0109,,3,bike-storage,Hersey,Covered bike rack,Hersey covered bike rack,,,,0
 bike-NB-0120,,3,bike-storage,Needham Junction,Bike rack,Needham Junction bike rack,,,,0
 bike-NB-0127,,3,bike-storage,Needham Center,Bike rack,Needham Center bike rack,,,,0
 bike-NB-0137,,3,bike-storage,Needham Heights,Bike rack,Needham Heights bike rack,,,,0
 bike-NEC-1659,,3,bike-storage,Wickford Junction,Bike rack,Wickford Junction bike rack,,,,0
-bike-NEC-1919,,3,bike-storage,South Attleboro,Bike rack,South Attleboro bike rack,,,,0
 bike-NEC-1969,,3,bike-storage,Attleboro,Bike rack,Attleboro bike rack,,,,0
-bike-NEC-2040,,3,bike-storage,Mansfield,Bike rack,Mansfield bike rack,,,,0
 bike-NEC-2108,,3,bike-storage,Sharon,Bike rack,Sharon bike rack,,,,0
+bike-NEC-2139,,3,bike-storage,Canton Junction,Bike rack,Canton Junction bike rack,,,,0
+bike-NEC-2173,,3,bike-storage,Route 128,Bike rack,Route 128 bike rack,,,,0
 bike-NEC-2203,,3,bike-storage,Hyde Park,Bike rack,Hyde Park bike rack,,,,0
-bike-NHRML-0078,,3,bike-storage,Winchester Center,Bike rack,Winchester Center bike rack,,,,0
+bike-NHRML-0055,,3,bike-storage,West Medford,Bike rack,West Medford bike rack,,,,0
+bike-NHRML-0073,,3,bike-storage,Wedgemere,Covered bike rack,Wedgemere covered bike rack,,,,0
+bike-NHRML-0152,,3,bike-storage,Wilmington,Bike rack,Wilmington bike rack,,,,0
 bike-NHRML-0218,,3,bike-storage,North Billerica,Covered bike rack,North Billerica covered bike rack,,,,0
 bike-NHRML-0254,,3,bike-storage,Lowell,Bike rack,Lowell bike rack,,,,0
 bike-PB-0158,,3,bike-storage,South Weymouth,Covered bike rack,South Weymouth covered bike rack,,,,0
 bike-PB-0194,,3,bike-storage,Abington,Bike rack,Abington bike rack,,,,0
-bike-PB-0212,,3,bike-storage,Whitman,Bike rack,Whitman bike rack,,,,0
+bike-PB-0212,,3,bike-storage,Whitman,Covered bike rack,Whitman covered bike rack,,,,0
 bike-PB-0245,,3,bike-storage,Hanson,Bike rack,Hanson bike rack,,,,0
 bike-PB-0281,,3,bike-storage,Halifax,Bike rack,Halifax bike rack,,,,0
-bike-PB-0356,,3,bike-storage,Plymouth,Bike rack,Plymouth bike rack,,,,0
 bike-SB-0156,,3,bike-storage,Canton Center,Bike rack,Canton Center bike rack,,,,0
-bike-SB-0189,,3,bike-storage,Stoughton,Bike rack,Stoughton bike rack,,,,0
-bike-WML-0125,,3,bike-storage,Wellesley Farms,Bike rack,Wellesley Farms bike rack,,,,0
-bike-WML-0135,,3,bike-storage,Wellesley Hills,Covered bike rack,Wellesley Hills covered bike rack,,,,0
+bike-SB-0189,,3,bike-storage,Stoughton,Covered bike rack,Stoughton covered bike rack,,,,0
+bike-WML-0025,,3,bike-storage,Yawkey,Bike rack,Yawkey bike rack,,,,0
+bike-WML-0091,,3,bike-storage,West Newton,Bike rack,West Newton bike rack,,,,0
+bike-WML-0102,,3,bike-storage,Auburndale,Bike rack,Auburndale bike rack,,,,0
+bike-WML-0135,,3,bike-storage,Wellesley Hills,Bike rack,Wellesley Hills bike rack,,,,0
 bike-WML-0147,,3,bike-storage,Wellesley Square,Covered bike rack,Wellesley Square covered bike rack,,,,0
 bike-WML-0199,,3,bike-storage,West Natick,Bike rack,West Natick bike rack,,,,0
 bike-WML-0214,,3,bike-storage,Framingham,Bike rack,Framingham bike rack,,,,0
-bike-WML-0340,,3,bike-storage,Westborough,Bike rack,Westborough bike rack,,,,0
+bike-WML-0252,,3,bike-storage,Ashland,Bike rack,Ashland bike rack,,,,0
+bike-WML-0274,,3,bike-storage,Southborough,Bike rack,Southborough bike rack,,,,0
+bike-WML-0340,,3,bike-storage,Westborough,Covered bike rack,Westborough covered bike rack,,,,0
 bike-WML-0364,,3,bike-storage,Grafton,Bike rack,Grafton bike rack,,,,0
-bike-WML-0442,,3,bike-storage,Worcester,Covered bike rack,Worcester covered bike rack,,,,0
-bike-WR-0062,,3,bike-storage,Wyoming Hill,Covered bike rack,Wyoming Hill covered bike rack,,,,0
+bike-WML-0442,,3,bike-storage,Worcester,Bike rack,Worcester bike rack,,,,0
 bike-WR-0085,,3,bike-storage,Greenwood,Bike rack,Greenwood bike rack,,,,0
 bike-WR-0099,,3,bike-storage,Wakefield,Bike rack,Wakefield bike rack,,,,0
 bike-WR-0120,,3,bike-storage,Reading,Bike rack,Reading bike rack,,,,0
@@ -463,10 +487,10 @@ bike-alfcl-west,,3,bike-storage,place-alfcl,Pedal and Park,Alewife Pedal and Par
 bike-asmnl,,3,bike-storage,place-asmnl,Pedal and Park,Ashmont Pedal and Park,,42.2835650,-71.0646980,0
 bike-bbsta,,3,bike-storage,place-bbsta,Pedal and Park,Back Bay Pedal and Park,,42.3474980,-71.0748220,0
 bike-bcnfd,,3,bike-storage,place-bcnfd,Bike rack,Beaconsfield bike rack,,,,0
-bike-bcnwa,,3,bike-storage,place-bcnwa,Bike rack,Washington Square bike rack,,,,0
 bike-bmmnl,,3,bike-storage,place-bmmnl,Bike rack,Beachmont bike rack,,,,0
 bike-brkhl,,3,bike-storage,place-brkhl,Bike rack,Brookline Hills bike rack,,,,0
 bike-brntn,,3,bike-storage,place-brntn,Pedal and Park,Braintree Pedal and Park,,42.2068660,-71.0005350,0
+bike-butlr,,3,bike-storage,place-butlr,Bike rack,Butler bike rack,,,,0
 bike-bvmnl,,3,bike-storage,place-bvmnl,Covered bike rack,Brookline Village covered bike rack,,,,0
 bike-ccmnl,,3,bike-storage,place-ccmnl,Bike rack,Community College bike rack,,,,0
 bike-chhil,,3,bike-storage,place-chhil,Covered bike rack,Chestnut Hill covered bike rack,,,,0
@@ -480,8 +504,8 @@ bike-fldcr,,3,bike-storage,place-fldcr,Covered bike rack,Fields Corner covered b
 bike-forhl,,3,bike-storage,place-forhl,Pedal and Park,Forest Hills Pedal and Park,,42.3010060,-71.1141310,0
 bike-grnst,,3,bike-storage,place-grnst,Covered bike rack,Green Street covered bike rack,,,,0
 bike-harsq,,3,bike-storage,place-harsq,Bike rack,Harvard bike rack,,,,0
-bike-jaksn,,3,bike-storage,place-jaksn,Bike rack,Jackson Square bike rack,,,,0
-bike-jfk,,3,bike-storage,place-jfk,Covered bike rack,JFK/UMass covered bike rack,,,,0
+bike-jaksn,,3,bike-storage,place-jaksn,Covered bike rack,Jackson Square covered bike rack,,,,0
+bike-jfk,,3,bike-storage,place-jfk,Bike rack,JFK/UMass bike rack,,,,0
 bike-kencl,,3,bike-storage,place-kencl,Bike rack,Kenmore bike rack,,,,0
 bike-knncl,,3,bike-storage,place-knncl,Bike rack,Kendall/MIT bike rack,,,,0
 bike-longw,,3,bike-storage,place-longw,Bike rack,Longwood bike rack,,,,0
@@ -503,18 +527,19 @@ bike-rcmnl,,3,bike-storage,place-rcmnl,Covered bike rack,Roxbury Crossing covere
 bike-river,,3,bike-storage,place-river,Covered bike rack,Riverside covered bike rack,,,,0
 bike-rsmnl,,3,bike-storage,place-rsmnl,Covered bike rack,Reservoir covered bike rack,,,,0
 bike-rugg,,3,bike-storage,place-rugg,Bike rack,Ruggles bike rack,,,,0
-bike-sbmnl,,3,bike-storage,place-sbmnl,Covered bike rack,Stony Brook covered bike rack,,,,0
-bike-sdmnl,,3,bike-storage,place-sdmnl,Covered bike rack,Suffolk Downs covered bike rack,,,,0
+bike-sdmnl,,3,bike-storage,place-sdmnl,Bike rack,Suffolk Downs bike rack,,,,0
+bike-shmnl,,3,bike-storage,place-shmnl,Bike rack,Savin Hill bike rack,,,,0
 bike-smary,,3,bike-storage,place-smary,Bike rack,Saint Marys Street bike rack,,,,0
 bike-sstat,,3,bike-storage,place-sstat,Pedal and Park,South Station Pedal and Park,,42.3515110,-71.0557050,0
 bike-sull,,3,bike-storage,place-sull,Covered bike rack,Sullivan Square covered bike rack,,,,0
-bike-tapst,,3,bike-storage,place-tapst,Bike rack,Tappan Street bike rack,,,,0
-bike-waban,,3,bike-storage,place-waban,Covered bike rack,Waban covered bike rack,,,,0
+bike-sumav,,3,bike-storage,place-sumav,Covered bike rack,Summit Avenue covered bike rack,,,,0
+bike-waban,,3,bike-storage,place-waban,Bike rack,Waban bike rack,,,,0
 bike-welln,,3,bike-storage,place-welln,Covered bike rack,Wellington covered bike rack,,,,0
 bike-wimnl,,3,bike-storage,place-wimnl,Covered bike rack,Wood Island covered bike rack,,,,0
-bike-wlsta,,3,bike-storage,place-wlsta,Pedal and Park,Wollaston Pedal and Park,,42.2668120,-71.0202730,0
 bike-wondl,,3,bike-storage,place-wondl,Pedal and Park,Wonderland Pedal and Park,,42.4135870,-70.9923790,0
-bike-woodl,,3,bike-storage,place-woodl,Bike rack,Woodland bike rack,,,,0
+bike-woodl,,3,bike-storage,place-woodl,Covered bike rack,Woodland covered bike rack,,,,0
+bike-wrnst,,3,bike-storage,place-wrnst,Covered bike rack,Warren Street covered bike rack,,,,0
+bike-wtcst,,3,bike-storage,place-wtcst,Covered bike rack,World Trade Center covered bike rack,,,,0
 charliecard-64000,,4,fare-media-assistant,64000,Employee with blank CharlieCards,Dudley customer service agent with blank CharlieCards,,,,0
 charliecard-alfcl,,4,fare-media-assistant,place-alfcl,Employee with blank CharlieCards,Alewife customer service agent with blank CharlieCards,,,,0
 charliecard-armnl,,4,fare-media-assistant,place-armnl,Employee with blank CharlieCards,Arlington customer service agent with blank CharlieCards,,,,0
