@@ -2125,7 +2125,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2760,2760,Washington St @ Franklin St,,,,42.381448,-71.085797,,,https://www.mbta.com/stops/2760,,0,,1
 2761,2761,Washington St @ Tufts St,,,,42.381038,-71.087483,,,https://www.mbta.com/stops/2761,,0,,1
 27618,27618,Washington St @ Guild St,,,,42.191284,-71.202528,,,https://www.mbta.com/stops/27618,,0,,1
-2762,2762,Washington St @ McGrath Hwy,,,,42.380330,-71.089759,,,https://www.mbta.com/stops/2762,,0,,0
 2763,2763,Washington St @ Boston St,,,,42.379859,-71.090824,,,https://www.mbta.com/stops/2763,,0,,1
 2765,2765,Newton St @ Clark St,,,,42.377485,-71.096607,,,https://www.mbta.com/stops/2765,,0,,0
 2766,2766,Newton St @ Concord Sq,,,,42.376862,-71.098084,,,https://www.mbta.com/stops/2766,,0,,0
@@ -2136,7 +2135,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2770,2770,Newton St @ Concord Sq,,,,42.376774,-71.098055,,,https://www.mbta.com/stops/2770,,0,,0
 2773,2773,Washington St @ Merriam St,,,,42.379411,-71.092286,,,https://www.mbta.com/stops/2773,,0,,0
 2774,2774,Washington St @ McGrath Hwy,,,,42.379792,-71.089974,,,https://www.mbta.com/stops/2774,,0,,1
-2775,2775,Washington St @ Joy St,,,,42.380569,-71.088666,,,https://www.mbta.com/stops/2775,,0,,1
 2776,2776,Washington St @ New Washington St,,,,42.381241,-71.086308,,,https://www.mbta.com/stops/2776,,0,,0
 2777,2777,Washington St @ Inner Belt Rd,,,,42.382012,-71.081316,,,https://www.mbta.com/stops/2777,,0,,0
 2778,2778,Washington St opp Myrtle St,,,,42.381576,-71.084037,,,https://www.mbta.com/stops/2778,,0,,1
@@ -7315,7 +7313,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9137,9137,73 Elm St opp Traverse St,,,,42.506796,-71.161830,,,https://www.mbta.com/stops/9137,,0,,0
 9139,9139,Main St @ East Nichols St,,,,42.509413,-71.160959,,,https://www.mbta.com/stops/9139,,0,,0
 91391,91391,Huntington Ave @ Longwood Ave,,,,42.336046,-71.100251,,,https://www.mbta.com/stops/91391,,0,,1
-914,914,Washington St opp Montfern Ave,,,,42.349962,-71.164870,,,https://www.mbta.com/stops/914,,0,,1
+914,914,Washington St opp Montfern Ave,,,,42.349991,-71.164938,,,https://www.mbta.com/stops/914,,0,,1
 9140,9140,Main St @ W Dexter Ave,,,,42.512275,-71.160878,,,https://www.mbta.com/stops/9140,,0,,0
 9142,9142,Main St opp Mountain St,,,,42.514720,-71.160818,,,https://www.mbta.com/stops/9142,,0,,1
 9143,9143,Main St @ Wheeling St,,,,42.517096,-71.160477,,,https://www.mbta.com/stops/9143,,0,,0
@@ -8353,9 +8351,9 @@ place-prmnl,,Prudential,,,,42.345570,-71.081696,,"Huntington Ave and Belvidere S
 door-prmnl-huntington,,Prudential - Huntington Ave,Prudential - Huntington Ave,,,42.345791,-71.081609,,,,level_in_street,2,place-prmnl,2
 door-prmnl-prudential,,Prudential - Prudential Center,Prudential - Prudential Center,,,42.345632,-71.081223,,,,level_0_building,2,place-prmnl,1
 place-qamnl,,Quincy Adams,,,,42.233391,-71.007153,,"Burgin Pkwy and Centre St, Quincy, MA 02169",https://www.mbta.com/stops/place-qamnl,,1,,1
-41031,41031,Quincy Adams,Quincy Adams - Busway,,Busway,42.233238,-71.007244,,,https://www.mbta.com/stops/place-qamnl,level_ground,0,place-qamnl,1
 70103,70103,Quincy Adams,Quincy Adams - Red Line - Braintree,,Braintree,42.233391,-71.007153,,,https://www.mbta.com/stops/place-qamnl,level_1_platform,0,place-qamnl,1
 70104,70104,Quincy Adams,Quincy Adams - Red Line - Alewife,,Alewife,42.233391,-71.007153,,,https://www.mbta.com/stops/place-qamnl,level_1_platform,0,place-qamnl,1
+9041031,9041031,Quincy Adams,Quincy Adams Parking Lot,,Red Line Shuttle,42.233842,-71.007486,,,https://www.mbta.com/stops/place-qamnl,,0,place-qamnl,1
 door-qamnl-burgin,,Quincy Adams - Burgin Parkway,Quincy Adams - Burgin Parkway,,,42.233317,-71.007363,,,,level_ground,2,place-qamnl,1
 door-qamnl-indep,,Quincy Adams - Independence Avenue,Quincy Adams - Independence Avenue,,,42.233436,-71.006137,,,,level_independence_ave,2,place-qamnl,1
 door-qamnl-pickup,,Quincy Adams - Pick-up/Drop-off,Quincy Adams - Pick-up/Drop-off,,,42.232705,-71.007425,,,,level_ground,2,place-qamnl,1
