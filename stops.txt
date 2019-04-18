@@ -7582,19 +7582,19 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9983,9983,Stuart St @ Charles St S,,,,42.351039,-71.066798,,,https://www.mbta.com/stops/9983,,0,,1
 99832,99832,245 Washington St,,,,42.251984,-71.168849,,,https://www.mbta.com/stops/99832,,0,,0
 99991,99991,South St @ Bardwell St,,,,42.308378,-71.115619,,,https://www.mbta.com/stops/99991,,0,,1
-Abington,,Abington,,,,42.107156,-70.934405,,"231 Centre Ave, Abington, MA 02351",https://www.mbta.com/stops/Abington,,0,,1
-Anderson/ Woburn,,Anderson/Woburn,,,,42.516987,-71.144475,,"100 Atlantic Ave, Woburn, MA 01801",https://www.mbta.com/stops/Anderson%2F+Woburn,,0,,1
-Andover,,Andover,,,,42.658336,-71.144502,,"17 Railroad St, Andover, MA 01810",https://www.mbta.com/stops/Andover,,0,,1
-Ashland,,Ashland,,,,42.261490,-71.482161,,"Pleasant St and Cordaville Rd, Ashland, MA 01721",https://www.mbta.com/stops/Ashland,,0,,1
-Attleboro,,Attleboro,,,,41.940739,-71.285094,,"133 S Main St, Attleboro, MA 02703",https://www.mbta.com/stops/Attleboro,,0,,1
-Auburndale,,Auburndale,,,,42.345725,-71.250826,,"Auburn St and Woodland Rd, Newton, MA 02466",https://www.mbta.com/stops/Auburndale,,0,,2
-Ayer,,Ayer,,,,42.559074,-71.588476,,"70 Main St, Ayer, MA 01432",https://www.mbta.com/stops/Ayer,,0,,2
-Ballardvale,,Ballardvale,,,,42.627356,-71.159962,,"195 Andover St, Andover, MA 01810",https://www.mbta.com/stops/Ballardvale,,0,,1
-Bellevue,,Bellevue,,,,42.286588,-71.145557,,"35 Colbert St, West Roxbury, MA 02132",https://www.mbta.com/stops/Bellevue,,0,,1
-Belmont,,Belmont,,,,42.395896,-71.176190,,"Common St and Concord Ave, Belmont, MA 02478",https://www.mbta.com/stops/Belmont,,0,,2
-Beverly,,Beverly,,,,42.547276,-70.885432,,"10 Park St, Beverly, MA 01915",https://www.mbta.com/stops/Beverly,,0,,1
-Beverly Farms,,Beverly Farms,,,,42.561651,-70.811405,,"1 Oak St, Beverly, MA 01915",https://www.mbta.com/stops/Beverly+Farms,,0,,1
-Blue Hill Avenue,,Blue Hill Avenue,,,,42.271412,-71.096419,,,https://www.mbta.com/stops/Blue+Hill+Avenue,,0,,1
+Abington,,Abington,,,,42.107156,-70.934405,CR-zone-4,"231 Centre Ave, Abington, MA 02351",https://www.mbta.com/stops/Abington,,0,,1
+Anderson/ Woburn,,Anderson/Woburn,,,,42.516987,-71.144475,CR-zone-2,"100 Atlantic Ave, Woburn, MA 01801",https://www.mbta.com/stops/Anderson%2F+Woburn,,0,,1
+Andover,,Andover,,,,42.658336,-71.144502,CR-zone-5,"17 Railroad St, Andover, MA 01810",https://www.mbta.com/stops/Andover,,0,,1
+Ashland,,Ashland,,,,42.261490,-71.482161,CR-zone-6,"Pleasant St and Cordaville Rd, Ashland, MA 01721",https://www.mbta.com/stops/Ashland,,0,,1
+Attleboro,,Attleboro,,,,41.940739,-71.285094,CR-zone-7,"133 S Main St, Attleboro, MA 02703",https://www.mbta.com/stops/Attleboro,,0,,1
+Auburndale,,Auburndale,,,,42.345725,-71.250826,CR-zone-2,"Auburn St and Woodland Rd, Newton, MA 02466",https://www.mbta.com/stops/Auburndale,,0,,2
+Ayer,,Ayer,,,,42.559074,-71.588476,CR-zone-8,"70 Main St, Ayer, MA 01432",https://www.mbta.com/stops/Ayer,,0,,2
+Ballardvale,,Ballardvale,,,,42.627356,-71.159962,CR-zone-4,"195 Andover St, Andover, MA 01810",https://www.mbta.com/stops/Ballardvale,,0,,1
+Bellevue,,Bellevue,,,,42.286588,-71.145557,CR-zone-1,"35 Colbert St, West Roxbury, MA 02132",https://www.mbta.com/stops/Bellevue,,0,,1
+Belmont,,Belmont,,,,42.395896,-71.176190,CR-zone-1,"Common St and Concord Ave, Belmont, MA 02478",https://www.mbta.com/stops/Belmont,,0,,2
+Beverly,,Beverly,,,,42.547276,-70.885432,CR-zone-4,"10 Park St, Beverly, MA 01915",https://www.mbta.com/stops/Beverly,,0,,1
+Beverly Farms,,Beverly Farms,,,,42.561651,-70.811405,CR-zone-5,"1 Oak St, Beverly, MA 01915",https://www.mbta.com/stops/Beverly+Farms,,0,,1
+Blue Hill Avenue,,Blue Hill Avenue,,,,42.271412,-71.096419,CR-zone-1A,,https://www.mbta.com/stops/Blue+Hill+Avenue,,0,,1
 Boat-Charlestown,,Charlestown,,,,42.373334,-71.054160,,"Pier 4, Boston, MA 02129",https://www.mbta.com/stops/Boat-Charlestown,,0,,1
 Boat-George,,George's Island,,,,42.319742,-70.930427,,"George's Island, Boston, MA",https://www.mbta.com/stops/Boat-George,,0,,1
 Boat-Hingham,,Hingham,,,,42.252643,-70.919875,,"349 Lincoln St, Hingham, MA 02043",https://www.mbta.com/stops/Boat-Hingham,,0,,1
@@ -7603,127 +7603,127 @@ Boat-Logan,,Logan Airport Ferry Terminal,,,,42.359789,-71.027340,,"Harborside Dr
 Boat-Long,,Long Wharf (North),,,,42.360795,-71.049976,,"Long Wharf near Christopher Columbus Park, Boston, MA 02110",https://www.mbta.com/stops/Boat-Long,,0,,1
 Boat-Long-South,,Long Wharf (South),,,,42.359448,-71.050498,,"Long Wharf near Old Atlantic Ave, Boston, MA 02110",https://www.mbta.com/stops/Boat-Long-South,,0,,1
 Boat-Rowes,,Rowes Wharf,,,,42.355721,-71.049897,,"60 Rowes Wharf, Boston, MA 02110",https://www.mbta.com/stops/Boat-Rowes,,0,,1
-Boston Landing,,Boston Landing,,,,42.357293,-71.139883,,"100 Arthur St, Boston, MA 02134",https://www.mbta.com/stops/Boston+Landing,,0,,1
-Bradford,,Bradford,,,,42.766912,-71.088411,,"10 Railroad Ave, Bradford, MA 01835",https://www.mbta.com/stops/Bradford,,0,,1
-Brandeis/ Roberts,,Brandeis/Roberts,,,,42.361728,-71.260854,,"1 Sawyer Rd, Waltham, MA 02453",https://www.mbta.com/stops/Brandeis%2F+Roberts,,0,,1
-Bridgewater,,Bridgewater,,,,41.984916,-70.965370,,"85 Burrill Ave, Bridgewater, MA 02324",https://www.mbta.com/stops/Bridgewater,,0,,1
-Brockton,,Brockton,,,,42.085720,-71.016600,,"7 Commercial St, Brockton, MA 02302",https://www.mbta.com/stops/Brockton,,0,,1
+Boston Landing,,Boston Landing,,,,42.357293,-71.139883,CR-zone-1A,"100 Arthur St, Boston, MA 02134",https://www.mbta.com/stops/Boston+Landing,,0,,1
+Bradford,,Bradford,,,,42.766912,-71.088411,CR-zone-7,"10 Railroad Ave, Bradford, MA 01835",https://www.mbta.com/stops/Bradford,,0,,1
+Brandeis/ Roberts,,Brandeis/Roberts,,,,42.361728,-71.260854,CR-zone-2,"1 Sawyer Rd, Waltham, MA 02453",https://www.mbta.com/stops/Brandeis%2F+Roberts,,0,,1
+Bridgewater,,Bridgewater,,,,41.984916,-70.965370,CR-zone-6,"85 Burrill Ave, Bridgewater, MA 02324",https://www.mbta.com/stops/Bridgewater,,0,,1
+Brockton,,Brockton,,,,42.085720,-71.016600,CR-zone-4,"7 Commercial St, Brockton, MA 02302",https://www.mbta.com/stops/Brockton,,0,,1
 Buzzards Bay,,Buzzards Bay,,,,41.744805,-70.616226,,,https://www.mbta.com/stops/Buzzards+Bay,,0,,1
-Campello,,Campello,,,,42.060951,-71.011004,,"30 Riverside Ave, Brockton, MA 02301",https://www.mbta.com/stops/Campello,,0,,1
-Canton Center,,Canton Center,,,,42.156770,-71.145601,,"710 Washington St, Canton, MA 02021",https://www.mbta.com/stops/Canton+Center,,0,,1
-Canton Junction,,Canton Junction,,,,42.163204,-71.153760,,"Beaumont St and Sherman St, Canton, MA 02021",https://www.mbta.com/stops/Canton+Junction,,0,,1
-Chelsea,,Chelsea,,,,42.395689,-71.034281,,"Arlington St and 6th St, Chelsea, MA 02150",https://www.mbta.com/stops/Chelsea,,0,,2
-Cohasset,,Cohasset,,,,42.244210,-70.837529,,"110 Chief Justice Cushing Hwy, Cohasset, MA 02025",https://www.mbta.com/stops/Cohasset,,0,,1
-Concord,,Concord,,,,42.456565,-71.357677,,"90 Thoreau St, Concord, MA 01742",https://www.mbta.com/stops/Concord,,0,,2
-Dedham Corp Center,,Dedham Corp Center,,,,42.225896,-71.173806,,"125 Allied Dr, Dedham, MA 02026",https://www.mbta.com/stops/Dedham+Corp+Center,,0,,1
-East Weymouth,,East Weymouth,,,,42.219100,-70.921400,,"1590 Commercial St, East Weymouth, MA, 02189",https://www.mbta.com/stops/East+Weymouth,,0,,1
-Endicott,,Endicott,,,,42.233249,-71.158647,,"186 Grant Ave, Dedham, MA 02026",https://www.mbta.com/stops/Endicott,,0,,2
-Fairmount,,Fairmount,,,,42.253638,-71.119270,,"Fairmount Ave and Truman Hwy, Hyde Park, MA 02136",https://www.mbta.com/stops/Fairmount,,0,,1
-Fitchburg,,Fitchburg,,,,42.580720,-71.792611,,"150 Main St, Fitchburg, MA 01420",https://www.mbta.com/stops/Fitchburg,,0,,1
-Forge Park / 495,,Forge Park/495,,,,42.089941,-71.439020,,"1000 W Central St, Franklin, MA 02038",https://www.mbta.com/stops/Forge+Park+%2F+495,,0,,1
-Four Corners / Geneva,,Four Corners/Geneva,,,,42.305037,-71.076833,,"171 Geneva Ave, Boston, MA 02121",https://www.mbta.com/stops/Four+Corners+%2F+Geneva,,0,,1
-Foxboro,,Foxboro,,,,42.095100,-71.261510,,"Gillette Stadium near Lots 3 and 4, Foxborough, MA 02035",https://www.mbta.com/stops/Foxboro,,0,,1
-Framingham,,Framingham,,,,42.276719,-71.416792,,"417 Waverly St, Framingham, MA 01702",https://www.mbta.com/stops/Framingham,,0,,1
-Franklin,,Franklin,,,,42.083238,-71.396102,,"75 Depot St, Franklin, MA 02038",https://www.mbta.com/stops/Franklin,,0,,2
-Gloucester,,Gloucester,,,,42.616799,-70.668345,,"75 Railroad Ave, Gloucester, MA 01930",https://www.mbta.com/stops/Gloucester,,0,,1
-Grafton,,Grafton,,,,42.246600,-71.685325,,"1 Pine St, North Grafton, MA 01536-1856",https://www.mbta.com/stops/Grafton,,0,,1
-Greenbush,,Greenbush,,,,42.178776,-70.746641,,"247 Old Drifway, Scituate, MA 02066",https://www.mbta.com/stops/Greenbush,,0,,1
-Greenwood,,Greenwood,,,,42.483005,-71.067247,,"907 Main St, Wakefield, MA 01880",https://www.mbta.com/stops/Greenwood,,0,,2
-Halifax,,Halifax,,,,42.014739,-70.824263,,"6 Garden Rd, Halifax, MA 02338",https://www.mbta.com/stops/Halifax,,0,,1
-Hamilton/ Wenham,,Hamilton/Wenham,,,,42.609212,-70.874801,,"Bay Rd and Walnut Rd, Hamilton, MA 01982",https://www.mbta.com/stops/Hamilton%2F+Wenham,,0,,1
-Hanson,,Hanson,,,,42.043967,-70.882438,,"1070 Main St, Hanson, MA 02341",https://www.mbta.com/stops/Hanson,,0,,1
-Hastings,,Hastings,,,,42.385755,-71.289203,,"105 Viles St, Weston, MA 02493",https://www.mbta.com/stops/Hastings,,0,,2
-Haverhill,,Haverhill,,,,42.773474,-71.086237,,"1 Washington Ave, Haverhill, MA 01832",https://www.mbta.com/stops/Haverhill,,0,,1
-Hersey,,Hersey,,,,42.275648,-71.215528,,"Great Plain Ave and Broad Meadow Rd, Needham, MA 02492",https://www.mbta.com/stops/Hersey,,0,,1
-Highland,,Highland,,,,42.284969,-71.153937,,"Corey St and Hastings St, West Roxbury, MA 02132",https://www.mbta.com/stops/Highland,,0,,1
-Holbrook/ Randolph,,Holbrook/Randolph,,,,42.156343,-71.027371,,"Union St and Center St, Randolph, MA 02368",https://www.mbta.com/stops/Holbrook%2F+Randolph,,0,,1
+Campello,,Campello,,,,42.060951,-71.011004,CR-zone-5,"30 Riverside Ave, Brockton, MA 02301",https://www.mbta.com/stops/Campello,,0,,1
+Canton Center,,Canton Center,,,,42.156770,-71.145601,CR-zone-3,"710 Washington St, Canton, MA 02021",https://www.mbta.com/stops/Canton+Center,,0,,1
+Canton Junction,,Canton Junction,,,,42.163204,-71.153760,CR-zone-3,"Beaumont St and Sherman St, Canton, MA 02021",https://www.mbta.com/stops/Canton+Junction,,0,,1
+Chelsea,,Chelsea,,,,42.395689,-71.034281,CR-zone-1A,"Arlington St and 6th St, Chelsea, MA 02150",https://www.mbta.com/stops/Chelsea,,0,,2
+Cohasset,,Cohasset,,,,42.244210,-70.837529,CR-zone-4,"110 Chief Justice Cushing Hwy, Cohasset, MA 02025",https://www.mbta.com/stops/Cohasset,,0,,1
+Concord,,Concord,,,,42.456565,-71.357677,CR-zone-5,"90 Thoreau St, Concord, MA 01742",https://www.mbta.com/stops/Concord,,0,,2
+Dedham Corp Center,,Dedham Corp Center,,,,42.225896,-71.173806,CR-zone-2,"125 Allied Dr, Dedham, MA 02026",https://www.mbta.com/stops/Dedham+Corp+Center,,0,,1
+East Weymouth,,East Weymouth,,,,42.219100,-70.921400,CR-zone-2,"1590 Commercial St, East Weymouth, MA, 02189",https://www.mbta.com/stops/East+Weymouth,,0,,1
+Endicott,,Endicott,,,,42.233249,-71.158647,CR-zone-2,"186 Grant Ave, Dedham, MA 02026",https://www.mbta.com/stops/Endicott,,0,,2
+Fairmount,,Fairmount,,,,42.253638,-71.119270,CR-zone-1A,"Fairmount Ave and Truman Hwy, Hyde Park, MA 02136",https://www.mbta.com/stops/Fairmount,,0,,1
+Fitchburg,,Fitchburg,,,,42.580720,-71.792611,CR-zone-8,"150 Main St, Fitchburg, MA 01420",https://www.mbta.com/stops/Fitchburg,,0,,1
+Forge Park / 495,,Forge Park/495,,,,42.089941,-71.439020,CR-zone-6,"1000 W Central St, Franklin, MA 02038",https://www.mbta.com/stops/Forge+Park+%2F+495,,0,,1
+Four Corners / Geneva,,Four Corners/Geneva,,,,42.305037,-71.076833,CR-zone-1A,"171 Geneva Ave, Boston, MA 02121",https://www.mbta.com/stops/Four+Corners+%2F+Geneva,,0,,1
+Foxboro,,Foxboro,,,,42.095100,-71.261510,CR-zone-special,"Gillette Stadium near Lots 3 and 4, Foxborough, MA 02035",https://www.mbta.com/stops/Foxboro,,0,,1
+Framingham,,Framingham,,,,42.276719,-71.416792,CR-zone-5,"417 Waverly St, Framingham, MA 01702",https://www.mbta.com/stops/Framingham,,0,,1
+Franklin,,Franklin,,,,42.083238,-71.396102,CR-zone-6,"75 Depot St, Franklin, MA 02038",https://www.mbta.com/stops/Franklin,,0,,2
+Gloucester,,Gloucester,,,,42.616799,-70.668345,CR-zone-7,"75 Railroad Ave, Gloucester, MA 01930",https://www.mbta.com/stops/Gloucester,,0,,1
+Grafton,,Grafton,,,,42.246600,-71.685325,CR-zone-8,"1 Pine St, North Grafton, MA 01536-1856",https://www.mbta.com/stops/Grafton,,0,,1
+Greenbush,,Greenbush,,,,42.178776,-70.746641,CR-zone-6,"247 Old Drifway, Scituate, MA 02066",https://www.mbta.com/stops/Greenbush,,0,,1
+Greenwood,,Greenwood,,,,42.483005,-71.067247,CR-zone-2,"907 Main St, Wakefield, MA 01880",https://www.mbta.com/stops/Greenwood,,0,,2
+Halifax,,Halifax,,,,42.014739,-70.824263,CR-zone-7,"6 Garden Rd, Halifax, MA 02338",https://www.mbta.com/stops/Halifax,,0,,1
+Hamilton/ Wenham,,Hamilton/Wenham,,,,42.609212,-70.874801,CR-zone-5,"Bay Rd and Walnut Rd, Hamilton, MA 01982",https://www.mbta.com/stops/Hamilton%2F+Wenham,,0,,1
+Hanson,,Hanson,,,,42.043967,-70.882438,CR-zone-6,"1070 Main St, Hanson, MA 02341",https://www.mbta.com/stops/Hanson,,0,,1
+Hastings,,Hastings,,,,42.385755,-71.289203,CR-zone-3,"105 Viles St, Weston, MA 02493",https://www.mbta.com/stops/Hastings,,0,,2
+Haverhill,,Haverhill,,,,42.773474,-71.086237,CR-zone-7,"1 Washington Ave, Haverhill, MA 01832",https://www.mbta.com/stops/Haverhill,,0,,1
+Hersey,,Hersey,,,,42.275648,-71.215528,CR-zone-2,"Great Plain Ave and Broad Meadow Rd, Needham, MA 02492",https://www.mbta.com/stops/Hersey,,0,,1
+Highland,,Highland,,,,42.284969,-71.153937,CR-zone-1,"Corey St and Hastings St, West Roxbury, MA 02132",https://www.mbta.com/stops/Highland,,0,,1
+Holbrook/ Randolph,,Holbrook/Randolph,,,,42.156343,-71.027371,CR-zone-3,"Union St and Center St, Randolph, MA 02368",https://www.mbta.com/stops/Holbrook%2F+Randolph,,0,,1
 Hyannis,,Hyannis,,,,41.660225,-70.276583,,,https://www.mbta.com/stops/Hyannis,,0,,1
-Hyde Park,,Hyde Park,,,,42.255030,-71.125526,,"1 Pingree St, Hyde Park, MA 02136",https://www.mbta.com/stops/Hyde+Park,,0,,1
-Ipswich,,Ipswich,,,,42.676921,-70.840589,,"4 Peatfield St, Ipswich, MA 01938",https://www.mbta.com/stops/Ipswich,,0,,1
-Islington,,Islington,,,,42.221050,-71.183961,,"48 Carroll Ave, Westwood, MA 02090",https://www.mbta.com/stops/Islington,,0,,2
-Kendal Green,,Kendal Green,,,,42.378970,-71.282411,,"198 Church St, Weston, MA",https://www.mbta.com/stops/Kendal+Green,,0,,2
-Kingston,,Kingston,,,,41.977620,-70.721709,,"134 Marion Dr, Kingston, MA 02364",https://www.mbta.com/stops/Kingston,,0,,1
-Lawrence,,Lawrence,,,,42.701806,-71.151980,,"S Union St and Merrimack St, Lawrence, MA 01843",https://www.mbta.com/stops/Lawrence,,0,,1
-Lincoln,,Lincoln,,,,42.414229,-71.325344,,"160 Lincoln Rd, Lincoln, MA 01773",https://www.mbta.com/stops/Lincoln,,0,,2
-Littleton / Rte 495,,Littleton/Rte 495,,,,42.519236,-71.502643,,"Grimes Ln and Foster St, Littleton, MA 01460",https://www.mbta.com/stops/Littleton+%2F+Rte+495,,0,,1
-Lowell,,Lowell,,,,42.635350,-71.314543,,"101 Thorndike St, Lowell, MA 01852",https://www.mbta.com/stops/Lowell,,0,,1
-Lynn,,Lynn,,,,42.462953,-70.945421,,"325 Broad St, Lynn, MA 01901",https://www.mbta.com/stops/Lynn,,0,,1
-Manchester,,Manchester,,,,42.573687,-70.770090,,"40 Beach St, Manchester, MA 01944",https://www.mbta.com/stops/Manchester,,0,,1
-Mansfield,,Mansfield,,,,42.032787,-71.219917,,"1 Crocker St, Mansfield, MA 02048",https://www.mbta.com/stops/Mansfield,,0,,1
-Melrose Cedar Park,,Melrose Cedar Park,,,,42.458768,-71.069789,,"Cedar Park and W Emerson St, Melrose, MA 02176",https://www.mbta.com/stops/Melrose+Cedar+Park,,0,,2
-Melrose Highlands,,Melrose Highlands,,,,42.469464,-71.068297,,"497 Franklin St, Melrose, MA 02176",https://www.mbta.com/stops/Melrose+Highlands,,0,,1
-Middleborough/ Lakeville,,Middleborough/Lakeville,,,,41.878210,-70.918444,,"125 Commercial Dr, Lakeville, MA 02347",https://www.mbta.com/stops/Middleborough%2F+Lakeville,,0,,1
-Mishawum,,Mishawum,,,,42.504402,-71.137618,,"250 Mishawum Rd, Woburn, MA 01801",https://www.mbta.com/stops/Mishawum,,0,,2
-Montello,,Montello,,,,42.106555,-71.022001,,"150 Spark St, Brockton, MA 02302",https://www.mbta.com/stops/Montello,,0,,1
-Montserrat,,Montserrat,,,,42.562171,-70.869254,,"180 Essex St, Beverly, MA 01915",https://www.mbta.com/stops/Montserrat,,0,,1
-Morton Street,,Morton Street,,,,42.280994,-71.085475,,"865 Morton St, Mattapan, MA 02126",https://www.mbta.com/stops/Morton+Street,,0,,1
-Nantasket Junction,,Nantasket Junction,,,,42.244959,-70.869205,,"190 Summer St, Hingham, MA 02043",https://www.mbta.com/stops/Nantasket+Junction,,0,,1
-Natick Center,,Natick Center,,,,42.285719,-71.347133,,"1 Walnut St, Natick, MA 01760",https://www.mbta.com/stops/Natick+Center,,0,,2
-Needham Center,,Needham Center,,,,42.280775,-71.237686,,"Great Plain Ave and Eaton Sq, Needham, MA 02492",https://www.mbta.com/stops/Needham+Center,,0,,1
-Needham Heights,,Needham Heights,,,,42.293444,-71.236027,,"95 Avery Square, Needham, MA 02494",https://www.mbta.com/stops/Needham+Heights,,0,,1
-Needham Junction,,Needham Junction,,,,42.273187,-71.235559,,"51 Junction St, Needham, MA 02492",https://www.mbta.com/stops/Needham+Junction,,0,,1
-Newburyport,,Newburyport,,,,42.797837,-70.877970,,"25 Boston Way, Newburyport, MA 01950",https://www.mbta.com/stops/Newburyport,,0,,1
-Newmarket,,Newmarket,,,,42.326701,-71.066314,,"1070 Massachusetts Ave, Boston, MA 02118",https://www.mbta.com/stops/Newmarket,,0,,1
-Newtonville,,Newtonville,,,,42.351603,-71.207338,,"770 Washington St Newton, MA 02460",https://www.mbta.com/stops/Newtonville,,0,,2
-Norfolk,,Norfolk,,,,42.120694,-71.325217,,"9 Rockwood Rd, Norfolk, MA 02056",https://www.mbta.com/stops/Norfolk,,0,,1
-North Beverly,,North Beverly,,,,42.583779,-70.883851,,"Enon St and Dodge St, Beverly, MA 01915",https://www.mbta.com/stops/North+Beverly,,0,,1
-North Billerica,,North Billerica,,,,42.593248,-71.280995,,"Ruggles St and Station St, North Billerica, MA 01862",https://www.mbta.com/stops/North+Billerica,,0,,1
-North Leominster,,North Leominster,,,,42.539017,-71.739186,,"44 Nashua St, Leominster, MA, 01453",https://www.mbta.com/stops/North+Leominster,,0,,1
-North Scituate,,North Scituate,,,,42.219528,-70.788602,,"777 Country Way, Scituate, MA 02066",https://www.mbta.com/stops/North+Scituate,,0,,1
-North Wilmington,,North Wilmington,,,,42.569661,-71.159696,,"370 Middlesex Ave, Wilmington, MA 01887",https://www.mbta.com/stops/North+Wilmington,,0,,2
-Norwood Central,,Norwood Central,,,,42.188775,-71.199665,,"164 Broadway, Norwood, MA 02062",https://www.mbta.com/stops/Norwood+Central,,0,,1
-Norwood Depot,,Norwood Depot,,,,42.196857,-71.196688,,"14 Hill St, Norwood, MA 02062",https://www.mbta.com/stops/Norwood+Depot,,0,,1
-Plimptonville,,Plimptonville,,,,42.159123,-71.236125,,"185 Plimpton St, Walpole, MA 02081",https://www.mbta.com/stops/Plimptonville,,0,,2
-Plymouth,,Plymouth,,,,41.981278,-70.690421,,"385 Court St, Plymouth, MA 02360",https://www.mbta.com/stops/Plymouth,,0,,1
-Prides Crossing,,Prides Crossing,,,,42.559446,-70.825541,,"600 Hale St, Beverly, MA 01915",https://www.mbta.com/stops/Prides+Crossing,,0,,2
-Providence,,Providence,,,,41.829293,-71.413301,,"100 Gaspee St, Providence, RI 02903",https://www.mbta.com/stops/Providence,,0,,1
-Reading,,Reading,,,,42.521480,-71.107440,,"35 Lincoln St, Reading, MA 01867",https://www.mbta.com/stops/Reading,,0,,1
-Readville,,Readville,,,,42.238405,-71.133246,,"1800 Hyde Park Ave, Hyde Park, MA 02136",https://www.mbta.com/stops/Readville,,0,,1
-River Works / GE Employees Only,,River Works,GE Employees Only,,,42.449927,-70.969848,,"1000 Western Ave, Lynn, MA 01910 (General Electric employees only)",https://www.mbta.com/stops/River+Works+%2F+GE+Employees+Only,,0,,2
-Rockport,,Rockport,,,,42.655491,-70.627055,,"17 Railroad Ave, Rockport, MA 01966",https://www.mbta.com/stops/Rockport,,0,,1
-Roslindale Village,,Roslindale Village,,,,42.287442,-71.130283,,"1 Belgrade Ave, Roslindale, MA 02131",https://www.mbta.com/stops/Roslindale+Village,,0,,1
-Route 128,,Route 128,,,,42.209884,-71.147100,,"50 University Ave, Westwood, MA 02090",https://www.mbta.com/stops/Route+128,,0,,1
-Rowley,,Rowley,,,,42.726845,-70.859034,,"70 Railroad Ave, Rowley, MA 01969",https://www.mbta.com/stops/Rowley,,0,,1
-Salem,,Salem,,,,42.524792,-70.895876,,"252 Bridge St, Salem, MA 01970",https://www.mbta.com/stops/Salem,,0,,1
-Sharon,,Sharon,,,,42.124553,-71.184468,,"1 Upland Rd, Sharon, MA 02067",https://www.mbta.com/stops/Sharon,,0,,1
-Shirley,,Shirley,,,,42.545089,-71.648004,,"Ayer Rd and Phoenix St, Shirley, MA 01464",https://www.mbta.com/stops/Shirley,,0,,2
-Silver Hill,,Silver Hill,,,,42.395625,-71.302357,,"Silver Hill Rd and Merriam St, Weston, MA 02493",https://www.mbta.com/stops/Silver+Hill,,0,,2
-South Acton,,South Acton,,,,42.460574,-71.457804,,"4 Central St, Acton, MA 01720",https://www.mbta.com/stops/South+Acton,,0,,1
-South Attleboro,,South Attleboro,,,,41.897943,-71.354621,,"1315 Newport Ave, Attleboro, MA 02703",https://www.mbta.com/stops/South+Attleboro,,0,,1
-South Weymouth,,South Weymouth,,,,42.155025,-70.953302,,"89 Trotter Rd, Weymouth, MA 02190",https://www.mbta.com/stops/South+Weymouth,,0,,1
-Southborough,,Southborough,,,,42.267024,-71.524371,,"87 Southville Rd, Southborough, MA 01772",https://www.mbta.com/stops/Southborough,,0,,1
-Stoughton,,Stoughton,,,,42.124084,-71.103627,,"45 Wyman St, Stoughton, MA 02072",https://www.mbta.com/stops/Stoughton,,0,,1
-Swampscott,,Swampscott,,,,42.473743,-70.922537,,"Burrill St and Railroad Ave, Swampscott, MA 01907",https://www.mbta.com/stops/Swampscott,,0,,1
-TF Green Airport,,TF Green Airport,,,,41.726599,-71.442453,,"700 Jefferson Blvd, Warwick, RI 02886",https://www.mbta.com/stops/TF+Green+Airport,,0,,1
-Talbot Avenue,,Talbot Avenue,,,,42.292246,-71.078140,,"210 Talbot Ave, Boston, MA 02124",https://www.mbta.com/stops/Talbot+Avenue,,0,,1
-Uphams Corner,,Uphams Corner,,,,42.318670,-71.069072,,"691 Dudley St, Dorchester, MA 02125",https://www.mbta.com/stops/Uphams+Corner,,0,,1
-Wachusett,,Wachusett,,,,42.553477,-71.848488,,"55 Authority Dr, Fitchburg, MA 01420",https://www.mbta.com/stops/Wachusett,,0,,1
-Wakefield,,Wakefield,,,,42.502126,-71.075566,,"225 North Ave, Wakefield, MA 01880",https://www.mbta.com/stops/Wakefield,,0,,2
-Walpole,,Walpole,,,,42.145477,-71.257790,,"275 West St, Walpole, MA 02081",https://www.mbta.com/stops/Walpole,,0,,2
-Waltham,,Waltham,,,,42.374269,-71.235598,,"75 Carter St, Waltham, MA 02453",https://www.mbta.com/stops/Waltham,,0,,1
+Hyde Park,,Hyde Park,,,,42.255030,-71.125526,CR-zone-1,"1 Pingree St, Hyde Park, MA 02136",https://www.mbta.com/stops/Hyde+Park,,0,,1
+Ipswich,,Ipswich,,,,42.676921,-70.840589,CR-zone-6,"4 Peatfield St, Ipswich, MA 01938",https://www.mbta.com/stops/Ipswich,,0,,1
+Islington,,Islington,,,,42.221050,-71.183961,CR-zone-3,"48 Carroll Ave, Westwood, MA 02090",https://www.mbta.com/stops/Islington,,0,,2
+Kendal Green,,Kendal Green,,,,42.378970,-71.282411,CR-zone-3,"198 Church St, Weston, MA",https://www.mbta.com/stops/Kendal+Green,,0,,2
+Kingston,,Kingston,,,,41.977620,-70.721709,CR-zone-8,"134 Marion Dr, Kingston, MA 02364",https://www.mbta.com/stops/Kingston,,0,,1
+Lawrence,,Lawrence,,,,42.701806,-71.151980,CR-zone-6,"S Union St and Merrimack St, Lawrence, MA 01843",https://www.mbta.com/stops/Lawrence,,0,,1
+Lincoln,,Lincoln,,,,42.414229,-71.325344,CR-zone-4,"160 Lincoln Rd, Lincoln, MA 01773",https://www.mbta.com/stops/Lincoln,,0,,2
+Littleton / Rte 495,,Littleton/Rte 495,,,,42.519236,-71.502643,CR-zone-7,"Grimes Ln and Foster St, Littleton, MA 01460",https://www.mbta.com/stops/Littleton+%2F+Rte+495,,0,,1
+Lowell,,Lowell,,,,42.635350,-71.314543,CR-zone-6,"101 Thorndike St, Lowell, MA 01852",https://www.mbta.com/stops/Lowell,,0,,1
+Lynn,,Lynn,,,,42.462953,-70.945421,CR-zone-2,"325 Broad St, Lynn, MA 01901",https://www.mbta.com/stops/Lynn,,0,,1
+Manchester,,Manchester,,,,42.573687,-70.770090,CR-zone-6,"40 Beach St, Manchester, MA 01944",https://www.mbta.com/stops/Manchester,,0,,1
+Mansfield,,Mansfield,,,,42.032787,-71.219917,CR-zone-6,"1 Crocker St, Mansfield, MA 02048",https://www.mbta.com/stops/Mansfield,,0,,1
+Melrose Cedar Park,,Melrose Cedar Park,,,,42.458768,-71.069789,CR-zone-1,"Cedar Park and W Emerson St, Melrose, MA 02176",https://www.mbta.com/stops/Melrose+Cedar+Park,,0,,2
+Melrose Highlands,,Melrose Highlands,,,,42.469464,-71.068297,CR-zone-1,"497 Franklin St, Melrose, MA 02176",https://www.mbta.com/stops/Melrose+Highlands,,0,,1
+Middleborough/ Lakeville,,Middleborough/Lakeville,,,,41.878210,-70.918444,CR-zone-8,"125 Commercial Dr, Lakeville, MA 02347",https://www.mbta.com/stops/Middleborough%2F+Lakeville,,0,,1
+Mishawum,,Mishawum,,,,42.504402,-71.137618,CR-zone-2,"250 Mishawum Rd, Woburn, MA 01801",https://www.mbta.com/stops/Mishawum,,0,,2
+Montello,,Montello,,,,42.106555,-71.022001,CR-zone-4,"150 Spark St, Brockton, MA 02302",https://www.mbta.com/stops/Montello,,0,,1
+Montserrat,,Montserrat,,,,42.562171,-70.869254,CR-zone-4,"180 Essex St, Beverly, MA 01915",https://www.mbta.com/stops/Montserrat,,0,,1
+Morton Street,,Morton Street,,,,42.280994,-71.085475,CR-zone-1A,"865 Morton St, Mattapan, MA 02126",https://www.mbta.com/stops/Morton+Street,,0,,1
+Nantasket Junction,,Nantasket Junction,,,,42.244959,-70.869205,CR-zone-4,"190 Summer St, Hingham, MA 02043",https://www.mbta.com/stops/Nantasket+Junction,,0,,1
+Natick Center,,Natick Center,,,,42.285719,-71.347133,CR-zone-4,"1 Walnut St, Natick, MA 01760",https://www.mbta.com/stops/Natick+Center,,0,,2
+Needham Center,,Needham Center,,,,42.280775,-71.237686,CR-zone-2,"Great Plain Ave and Eaton Sq, Needham, MA 02492",https://www.mbta.com/stops/Needham+Center,,0,,1
+Needham Heights,,Needham Heights,,,,42.293444,-71.236027,CR-zone-2,"95 Avery Square, Needham, MA 02494",https://www.mbta.com/stops/Needham+Heights,,0,,1
+Needham Junction,,Needham Junction,,,,42.273187,-71.235559,CR-zone-2,"51 Junction St, Needham, MA 02492",https://www.mbta.com/stops/Needham+Junction,,0,,1
+Newburyport,,Newburyport,,,,42.797837,-70.877970,CR-zone-8,"25 Boston Way, Newburyport, MA 01950",https://www.mbta.com/stops/Newburyport,,0,,1
+Newmarket,,Newmarket,,,,42.326701,-71.066314,CR-zone-1A,"1070 Massachusetts Ave, Boston, MA 02118",https://www.mbta.com/stops/Newmarket,,0,,1
+Newtonville,,Newtonville,,,,42.351603,-71.207338,CR-zone-1,"770 Washington St Newton, MA 02460",https://www.mbta.com/stops/Newtonville,,0,,2
+Norfolk,,Norfolk,,,,42.120694,-71.325217,CR-zone-5,"9 Rockwood Rd, Norfolk, MA 02056",https://www.mbta.com/stops/Norfolk,,0,,1
+North Beverly,,North Beverly,,,,42.583779,-70.883851,CR-zone-5,"Enon St and Dodge St, Beverly, MA 01915",https://www.mbta.com/stops/North+Beverly,,0,,1
+North Billerica,,North Billerica,,,,42.593248,-71.280995,CR-zone-5,"Ruggles St and Station St, North Billerica, MA 01862",https://www.mbta.com/stops/North+Billerica,,0,,1
+North Leominster,,North Leominster,,,,42.539017,-71.739186,CR-zone-8,"44 Nashua St, Leominster, MA, 01453",https://www.mbta.com/stops/North+Leominster,,0,,1
+North Scituate,,North Scituate,,,,42.219528,-70.788602,CR-zone-5,"777 Country Way, Scituate, MA 02066",https://www.mbta.com/stops/North+Scituate,,0,,1
+North Wilmington,,North Wilmington,,,,42.569661,-71.159696,CR-zone-3,"370 Middlesex Ave, Wilmington, MA 01887",https://www.mbta.com/stops/North+Wilmington,,0,,2
+Norwood Central,,Norwood Central,,,,42.188775,-71.199665,CR-zone-3,"164 Broadway, Norwood, MA 02062",https://www.mbta.com/stops/Norwood+Central,,0,,1
+Norwood Depot,,Norwood Depot,,,,42.196857,-71.196688,CR-zone-3,"14 Hill St, Norwood, MA 02062",https://www.mbta.com/stops/Norwood+Depot,,0,,1
+Plimptonville,,Plimptonville,,,,42.159123,-71.236125,CR-zone-4,"185 Plimpton St, Walpole, MA 02081",https://www.mbta.com/stops/Plimptonville,,0,,2
+Plymouth,,Plymouth,,,,41.981278,-70.690421,CR-zone-8,"385 Court St, Plymouth, MA 02360",https://www.mbta.com/stops/Plymouth,,0,,1
+Prides Crossing,,Prides Crossing,,,,42.559446,-70.825541,CR-zone-5,"600 Hale St, Beverly, MA 01915",https://www.mbta.com/stops/Prides+Crossing,,0,,2
+Providence,,Providence,,,,41.829293,-71.413301,CR-zone-8,"100 Gaspee St, Providence, RI 02903",https://www.mbta.com/stops/Providence,,0,,1
+Reading,,Reading,,,,42.521480,-71.107440,CR-zone-2,"35 Lincoln St, Reading, MA 01867",https://www.mbta.com/stops/Reading,,0,,1
+Readville,,Readville,,,,42.238405,-71.133246,CR-zone-2,"1800 Hyde Park Ave, Hyde Park, MA 02136",https://www.mbta.com/stops/Readville,,0,,1
+River Works / GE Employees Only,,River Works,GE Employees Only,,,42.449927,-70.969848,CR-zone-2,"1000 Western Ave, Lynn, MA 01910 (General Electric employees only)",https://www.mbta.com/stops/River+Works+%2F+GE+Employees+Only,,0,,2
+Rockport,,Rockport,,,,42.655491,-70.627055,CR-zone-8,"17 Railroad Ave, Rockport, MA 01966",https://www.mbta.com/stops/Rockport,,0,,1
+Roslindale Village,,Roslindale Village,,,,42.287442,-71.130283,CR-zone-1,"1 Belgrade Ave, Roslindale, MA 02131",https://www.mbta.com/stops/Roslindale+Village,,0,,1
+Route 128,,Route 128,,,,42.209884,-71.147100,CR-zone-2,"50 University Ave, Westwood, MA 02090",https://www.mbta.com/stops/Route+128,,0,,1
+Rowley,,Rowley,,,,42.726845,-70.859034,CR-zone-7,"70 Railroad Ave, Rowley, MA 01969",https://www.mbta.com/stops/Rowley,,0,,1
+Salem,,Salem,,,,42.524792,-70.895876,CR-zone-3,"252 Bridge St, Salem, MA 01970",https://www.mbta.com/stops/Salem,,0,,1
+Sharon,,Sharon,,,,42.124553,-71.184468,CR-zone-4,"1 Upland Rd, Sharon, MA 02067",https://www.mbta.com/stops/Sharon,,0,,1
+Shirley,,Shirley,,,,42.545089,-71.648004,CR-zone-8,"Ayer Rd and Phoenix St, Shirley, MA 01464",https://www.mbta.com/stops/Shirley,,0,,2
+Silver Hill,,Silver Hill,,,,42.395625,-71.302357,CR-zone-3,"Silver Hill Rd and Merriam St, Weston, MA 02493",https://www.mbta.com/stops/Silver+Hill,,0,,2
+South Acton,,South Acton,,,,42.460574,-71.457804,CR-zone-6,"4 Central St, Acton, MA 01720",https://www.mbta.com/stops/South+Acton,,0,,1
+South Attleboro,,South Attleboro,,,,41.897943,-71.354621,CR-zone-7,"1315 Newport Ave, Attleboro, MA 02703",https://www.mbta.com/stops/South+Attleboro,,0,,1
+South Weymouth,,South Weymouth,,,,42.155025,-70.953302,CR-zone-3,"89 Trotter Rd, Weymouth, MA 02190",https://www.mbta.com/stops/South+Weymouth,,0,,1
+Southborough,,Southborough,,,,42.267024,-71.524371,CR-zone-6,"87 Southville Rd, Southborough, MA 01772",https://www.mbta.com/stops/Southborough,,0,,1
+Stoughton,,Stoughton,,,,42.124084,-71.103627,CR-zone-4,"45 Wyman St, Stoughton, MA 02072",https://www.mbta.com/stops/Stoughton,,0,,1
+Swampscott,,Swampscott,,,,42.473743,-70.922537,CR-zone-3,"Burrill St and Railroad Ave, Swampscott, MA 01907",https://www.mbta.com/stops/Swampscott,,0,,1
+TF Green Airport,,TF Green Airport,,,,41.726599,-71.442453,CR-zone-9,"700 Jefferson Blvd, Warwick, RI 02886",https://www.mbta.com/stops/TF+Green+Airport,,0,,1
+Talbot Avenue,,Talbot Avenue,,,,42.292246,-71.078140,CR-zone-1A,"210 Talbot Ave, Boston, MA 02124",https://www.mbta.com/stops/Talbot+Avenue,,0,,1
+Uphams Corner,,Uphams Corner,,,,42.318670,-71.069072,CR-zone-1A,"691 Dudley St, Dorchester, MA 02125",https://www.mbta.com/stops/Uphams+Corner,,0,,1
+Wachusett,,Wachusett,,,,42.553477,-71.848488,CR-zone-8,"55 Authority Dr, Fitchburg, MA 01420",https://www.mbta.com/stops/Wachusett,,0,,1
+Wakefield,,Wakefield,,,,42.502126,-71.075566,CR-zone-2,"225 North Ave, Wakefield, MA 01880",https://www.mbta.com/stops/Wakefield,,0,,2
+Walpole,,Walpole,,,,42.145477,-71.257790,CR-zone-4,"275 West St, Walpole, MA 02081",https://www.mbta.com/stops/Walpole,,0,,2
+Waltham,,Waltham,,,,42.374269,-71.235598,CR-zone-2,"75 Carter St, Waltham, MA 02453",https://www.mbta.com/stops/Waltham,,0,,1
 Wareham Village,,Wareham Village,,,,41.758333,-70.714722,,,https://www.mbta.com/stops/Wareham+Village,,0,,1
-Waverley,,Waverley,,,,42.387600,-71.190744,,"525 Trapelo Rd, Belmont, MA 02478",https://www.mbta.com/stops/Waverley,,0,,2
-Wedgemere,,Wedgemere,,,,42.444948,-71.140169,,"25 Mystic Valley Pkwy, Winchester, MA 01890",https://www.mbta.com/stops/Wedgemere,,0,,1
-Wellesley Farms,,Wellesley Farms,,,,42.323608,-71.272288,,"90 Croton St, Wellesley, MA 02481",https://www.mbta.com/stops/Wellesley+Farms,,0,,2
-Wellesley Hills,,Wellesley Hills,,,,42.310370,-71.277044,,"341 Washington St, Wellesley, MA 02481",https://www.mbta.com/stops/Wellesley+Hills,,0,,2
-Wellesley Square,,Wellesley Square,,,,42.297526,-71.294173,,"1 Grove St, Wellesley, MA 02482",https://www.mbta.com/stops/Wellesley+Square,,0,,2
-West Concord,,West Concord,,,,42.457043,-71.392892,,"Commonwealth Ave and Main St, West Concord, MA 01742",https://www.mbta.com/stops/West+Concord,,0,,1
-West Gloucester,,West Gloucester,,,,42.611933,-70.705417,,"290 Essex Ave, Gloucester, MA 01930",https://www.mbta.com/stops/West+Gloucester,,0,,1
-West Hingham,,West Hingham,,,,42.235838,-70.902708,,"20 Fort Hill Rd, Hingham, MA 02043",https://www.mbta.com/stops/West+Hingham,,0,,1
-West Medford,,West Medford,,,,42.421184,-71.132468,,"481 High St, Medford, MA 02155",https://www.mbta.com/stops/West+Medford,,0,,2
-West Natick,,West Natick,,,,42.283064,-71.391797,,"249 W Central St, Natick, MA 01760",https://www.mbta.com/stops/West+Natick,,0,,1
-West Newton,,West Newton,,,,42.347878,-71.230528,,"1395 Washington St, Newton, MA 02465",https://www.mbta.com/stops/West+Newton,,0,,2
-West Roxbury,,West Roxbury,,,,42.281358,-71.160065,,"450 Lagrange St, West Roxbury, MA 02132",https://www.mbta.com/stops/West+Roxbury,,0,,1
-Westborough,,Westborough,,,,42.269644,-71.647076,,"Smith Pkwy and Fisher St, Westborough, MA 01581",https://www.mbta.com/stops/Westborough,,0,,1
-Weymouth Landing/ East Braintree,,Weymouth Landing/East Braintree,,,,42.221503,-70.968152,,"121 Commercial St, Weymouth, MA 02184",https://www.mbta.com/stops/Weymouth+Landing%2F+East+Braintree,,0,,1
-Whitman,,Whitman,,,,42.082749,-70.923411,,"383 South Ave, Whitman, MA 02382",https://www.mbta.com/stops/Whitman,,0,,1
-Wickford Junction,,Wickford Junction,,,,41.581289,-71.491147,,"1011 Ten Rod Rd, North Kingstown, RI",https://www.mbta.com/stops/Wickford+Junction,,0,,1
-Wilmington,,Wilmington,,,,42.546624,-71.174334,,"405 Main St, Wilmington, MA 01887",https://www.mbta.com/stops/Wilmington,,0,,1
-Winchester Center,,Winchester Center,,,,42.451088,-71.137830,,"29 Waterfield Rd, Winchester, MA 01890",https://www.mbta.com/stops/Winchester+Center,,0,,2
-Windsor Gardens,,Windsor Gardens,,,,42.172127,-71.219366,,"Buckminster Dr and Engamore Ln, Norwood, MA 02062",https://www.mbta.com/stops/Windsor+Gardens,,0,,2
-Worcester,,Worcester,,,,42.261461,-71.794888,,"2 Washington Sq, Worcester, MA 01608",https://www.mbta.com/stops/Worcester,,0,,1
-Wyoming Hill,,Wyoming Hill,,,,42.451731,-71.069379,,"40 W Wyoming Ave, Melrose, MA 02176",https://www.mbta.com/stops/Wyoming+Hill,,0,,2
-Yawkey,,Lansdowne,,,,42.347581,-71.099974,,"85 Brookline Ave Boston, MA 02215",https://www.mbta.com/stops/Yawkey,,0,,1
+Waverley,,Waverley,,,,42.387600,-71.190744,CR-zone-1,"525 Trapelo Rd, Belmont, MA 02478",https://www.mbta.com/stops/Waverley,,0,,2
+Wedgemere,,Wedgemere,,,,42.444948,-71.140169,CR-zone-1,"25 Mystic Valley Pkwy, Winchester, MA 01890",https://www.mbta.com/stops/Wedgemere,,0,,1
+Wellesley Farms,,Wellesley Farms,,,,42.323608,-71.272288,CR-zone-3,"90 Croton St, Wellesley, MA 02481",https://www.mbta.com/stops/Wellesley+Farms,,0,,2
+Wellesley Hills,,Wellesley Hills,,,,42.310370,-71.277044,CR-zone-3,"341 Washington St, Wellesley, MA 02481",https://www.mbta.com/stops/Wellesley+Hills,,0,,2
+Wellesley Square,,Wellesley Square,,,,42.297526,-71.294173,CR-zone-3,"1 Grove St, Wellesley, MA 02482",https://www.mbta.com/stops/Wellesley+Square,,0,,2
+West Concord,,West Concord,,,,42.457043,-71.392892,CR-zone-5,"Commonwealth Ave and Main St, West Concord, MA 01742",https://www.mbta.com/stops/West+Concord,,0,,1
+West Gloucester,,West Gloucester,,,,42.611933,-70.705417,CR-zone-7,"290 Essex Ave, Gloucester, MA 01930",https://www.mbta.com/stops/West+Gloucester,,0,,1
+West Hingham,,West Hingham,,,,42.235838,-70.902708,CR-zone-3,"20 Fort Hill Rd, Hingham, MA 02043",https://www.mbta.com/stops/West+Hingham,,0,,1
+West Medford,,West Medford,,,,42.421184,-71.132468,CR-zone-1A,"481 High St, Medford, MA 02155",https://www.mbta.com/stops/West+Medford,,0,,2
+West Natick,,West Natick,,,,42.283064,-71.391797,CR-zone-4,"249 W Central St, Natick, MA 01760",https://www.mbta.com/stops/West+Natick,,0,,1
+West Newton,,West Newton,,,,42.347878,-71.230528,CR-zone-2,"1395 Washington St, Newton, MA 02465",https://www.mbta.com/stops/West+Newton,,0,,2
+West Roxbury,,West Roxbury,,,,42.281358,-71.160065,CR-zone-1,"450 Lagrange St, West Roxbury, MA 02132",https://www.mbta.com/stops/West+Roxbury,,0,,1
+Westborough,,Westborough,,,,42.269644,-71.647076,CR-zone-7,"Smith Pkwy and Fisher St, Westborough, MA 01581",https://www.mbta.com/stops/Westborough,,0,,1
+Weymouth Landing/ East Braintree,,Weymouth Landing/East Braintree,,,,42.221503,-70.968152,CR-zone-2,"121 Commercial St, Weymouth, MA 02184",https://www.mbta.com/stops/Weymouth+Landing%2F+East+Braintree,,0,,1
+Whitman,,Whitman,,,,42.082749,-70.923411,CR-zone-5,"383 South Ave, Whitman, MA 02382",https://www.mbta.com/stops/Whitman,,0,,1
+Wickford Junction,,Wickford Junction,,,,41.581289,-71.491147,CR-zone-10,"1011 Ten Rod Rd, North Kingstown, RI",https://www.mbta.com/stops/Wickford+Junction,,0,,1
+Wilmington,,Wilmington,,,,42.546624,-71.174334,CR-zone-3,"405 Main St, Wilmington, MA 01887",https://www.mbta.com/stops/Wilmington,,0,,1
+Winchester Center,,Winchester Center,,,,42.451088,-71.137830,CR-zone-1,"29 Waterfield Rd, Winchester, MA 01890",https://www.mbta.com/stops/Winchester+Center,,0,,2
+Windsor Gardens,,Windsor Gardens,,,,42.172127,-71.219366,CR-zone-4,"Buckminster Dr and Engamore Ln, Norwood, MA 02062",https://www.mbta.com/stops/Windsor+Gardens,,0,,2
+Worcester,,Worcester,,,,42.261461,-71.794888,CR-zone-8,"2 Washington Sq, Worcester, MA 01608",https://www.mbta.com/stops/Worcester,,0,,1
+Wyoming Hill,,Wyoming Hill,,,,42.451731,-71.069379,CR-zone-1,"40 W Wyoming Ave, Melrose, MA 02176",https://www.mbta.com/stops/Wyoming+Hill,,0,,2
+Yawkey,,Lansdowne,,,,42.347581,-71.099974,CR-zone-1A,"85 Brookline Ave Boston, MA 02215",https://www.mbta.com/stops/Yawkey,,0,,1
 place-alfcl,,Alewife,,,,42.395428,-71.142483,,"Alewife Brook Pkwy and Cambridge Park Dr, Cambridge, MA 02140",https://www.mbta.com/stops/place-alfcl,,1,,1
 141,141,Alewife,Alewife - Busway,,Busway,42.395582,-71.141686,,,https://www.mbta.com/stops/place-alfcl,level_ground,0,place-alfcl,0
 70061,70061,Alewife,Alewife - Red Line,,Red Line,42.395428,-71.142483,,,https://www.mbta.com/stops/place-alfcl,level_-2_platform,0,place-alfcl,1
@@ -7793,12 +7793,12 @@ place-bbsta,,Back Bay,,,,42.347350,-71.075727,,"145 Dartmouth St Boston, MA 0211
 23391,23391,Back Bay,Back Bay - Busway,,Busway,42.347441,-71.074592,,,https://www.mbta.com/stops/place-bbsta,level_ground,0,place-bbsta,1
 70014,70014,Back Bay,Back Bay - Orange Line - Forest Hills,,Forest Hills,42.347350,-71.075727,,,https://www.mbta.com/stops/place-bbsta,level_-1_orange_platform,0,place-bbsta,1
 70015,70015,Back Bay,Back Bay - Orange Line - Oak Grove,,Oak Grove,42.347350,-71.075727,,,https://www.mbta.com/stops/place-bbsta,level_-1_orange_platform,0,place-bbsta,1
-Back Bay,,Back Bay,Back Bay - Commuter Rail,,Commuter Rail,42.347350,-71.075727,,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1
-Back Bay-01,,Back Bay,Back Bay - Commuter Rail - Track 1,1,Commuter Rail - Track 1,42.347283,-71.075312,,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1
-Back Bay-02,,Back Bay,Back Bay - Commuter Rail - Track 2,2,Commuter Rail - Track 2,42.347196,-71.075299,,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1
-Back Bay-03,,Back Bay,Back Bay - Commuter Rail - Track 3,3,Commuter Rail - Track 3,42.347283,-71.075312,,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1
-Back Bay-05,,Back Bay,Back Bay - Commuter Rail - Track 5,5,Commuter Rail - Track 5,42.347590,-71.075393,,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1
-Back Bay-07,,Back Bay,Back Bay - Commuter Rail - Track 7,7,Commuter Rail - Track 7,42.347590,-71.075393,,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1
+Back Bay,,Back Bay,Back Bay - Commuter Rail,,Commuter Rail,42.347350,-71.075727,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1
+Back Bay-01,,Back Bay,Back Bay - Commuter Rail - Track 1,1,Commuter Rail - Track 1,42.347283,-71.075312,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1
+Back Bay-02,,Back Bay,Back Bay - Commuter Rail - Track 2,2,Commuter Rail - Track 2,42.347196,-71.075299,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1
+Back Bay-03,,Back Bay,Back Bay - Commuter Rail - Track 3,3,Commuter Rail - Track 3,42.347283,-71.075312,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1
+Back Bay-05,,Back Bay,Back Bay - Commuter Rail - Track 5,5,Commuter Rail - Track 5,42.347590,-71.075393,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1
+Back Bay-07,,Back Bay,Back Bay - Commuter Rail - Track 7,7,Commuter Rail - Track 7,42.347590,-71.075393,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1
 door-bbsta-buswayn,,"Back Bay - Clarendon St, Buses (North)","Back Bay - Clarendon St, Buses (North)",,,42.348180,-71.074840,,,,level_in_street,2,place-bbsta,1
 door-bbsta-busways,,"Back Bay - Clarendon St, Buses (South)","Back Bay - Clarendon St, Buses (South)",,,42.347490,-71.075550,,,,level_in_street,2,place-bbsta,1
 door-bbsta-clarcolum,,"Back Bay - Clarendon St, Columbus Ave","Back Bay - Clarendon St, Columbus Ave",,,42.347540,-71.073410,,,,level_in_street,2,place-bbsta,2
@@ -7881,7 +7881,7 @@ place-brmnl,,Brigham Circle,,,,42.334229,-71.104609,,"Huntington Ave and Francis
 place-brntn,,Braintree,,,,42.207854,-71.001138,,"197 Ivory St, Braintree, MA 02184",https://www.mbta.com/stops/place-brntn,,1,,1
 38671,38671,Braintree,Braintree - Busway,,Busway,42.207743,-71.001070,,,https://www.mbta.com/stops/place-brntn,level_ground,0,place-brntn,1
 70105,70105,Braintree,Braintree - Red Line,,Red Line,42.208371,-71.001423,,,https://www.mbta.com/stops/place-brntn,level_1_red_platform,0,place-brntn,1
-Braintree,,Braintree,Braintree - Commuter Rail,,Commuter Rail,42.209959,-71.001053,,,https://www.mbta.com/stops/place-brntn,level_1_cr_platform,0,place-brntn,1
+Braintree,,Braintree,Braintree - Commuter Rail,,Commuter Rail,42.209959,-71.001053,CR-zone-2,,https://www.mbta.com/stops/place-brntn,level_1_cr_platform,0,place-brntn,1
 Braintree-01,,Braintree,Braintree - Red Line - Track 1,1,Red Line - Track 1,42.207481,-71.001640,,,https://www.mbta.com/stops/place-brntn,level_1_red_platform,0,place-brntn,1
 Braintree-02,,Braintree,Braintree - Red Line - Track 2,2,Red Line - Track 2,42.207481,-71.001640,,,https://www.mbta.com/stops/place-brntn,level_1_red_platform,0,place-brntn,1
 door-brntn-busway,,"Braintree - Garage, Buses, Ivory St","Braintree - Garage, Buses, Ivory St",,,42.207352,-71.001361,,,,level_ground,2,place-brntn,1
@@ -8063,7 +8063,7 @@ place-forhl,,Forest Hills,,,,42.300523,-71.113686,,"Washington St and Hyde Park 
 10642,10642,Forest Hills,Forest Hills - Upper Busway,,Upper Busway,42.300749,-71.114314,,,https://www.mbta.com/stops/place-forhl,level_ground,0,place-forhl,0
 70001,70001,Forest Hills,Forest Hills - Orange Line,,Orange Line,42.300523,-71.113686,,,https://www.mbta.com/stops/place-forhl,level_-1_orange_platform,0,place-forhl,1
 875,875,Forest Hills,Forest Hills - Lower Busway,,Lower Busway,42.300479,-71.113634,,,https://www.mbta.com/stops/place-forhl,level_-1_ground,0,place-forhl,0
-Forest Hills,,Forest Hills,Forest Hills - Commuter Rail,,Commuter Rail,42.300522,-71.113686,,,https://www.mbta.com/stops/place-forhl,level_-1_cr_platform,0,place-forhl,1
+Forest Hills,,Forest Hills,Forest Hills - Commuter Rail,,Commuter Rail,42.300522,-71.113686,CR-zone-1A,,https://www.mbta.com/stops/place-forhl,level_-1_cr_platform,0,place-forhl,1
 Forest Hills-01,,Forest Hills,Forest Hills - Orange Line - Track 1,1,Orange Line - Track 1,42.300635,-71.114009,,,https://www.mbta.com/stops/place-forhl,level_-1_orange_platform,0,place-forhl,1
 Forest Hills-02,,Forest Hills,Forest Hills - Orange Line - Track 2,2,Orange Line - Track 2,42.300635,-71.114009,,,https://www.mbta.com/stops/place-forhl,level_-1_orange_platform,0,place-forhl,1
 door-forhl-arborway,,"Forest Hills - Arboretum, Washington St, South St","Forest Hills - Arboretum, Washington St, South St",,,42.300934,-71.113820,,,,level_washington_st,2,place-forhl,1
@@ -8139,7 +8139,7 @@ place-jfk,,JFK/UMass,,,,42.320685,-71.052391,,"599 Old Colony Ave Boston, MA 021
 70086,70086,JFK/UMass,JFK/UMass - Red Line - Alewife (from Ashmont),,Alewife (from Ashmont),42.320685,-71.052391,,,https://www.mbta.com/stops/place-jfk,level_0_red_platform,0,place-jfk,1
 70095,70095,JFK/UMass,JFK/UMass - Red Line - Braintree,,Braintree,42.320685,-71.052391,,,https://www.mbta.com/stops/place-jfk,level_0_red_platform,0,place-jfk,1
 70096,70096,JFK/UMass,JFK/UMass - Red Line - Alewife (from Braintree),,Alewife (from Braintree),42.320685,-71.052391,,,https://www.mbta.com/stops/place-jfk,level_0_red_platform,0,place-jfk,1
-JFK/UMASS,,JFK/UMass,JFK/UMass - Commuter Rail,,Commuter Rail,42.321079,-71.052155,,,https://www.mbta.com/stops/place-jfk,level_0_cr_platform,0,place-jfk,1
+JFK/UMASS,,JFK/UMass,JFK/UMass - Commuter Rail,,Commuter Rail,42.321079,-71.052155,CR-zone-1A,,https://www.mbta.com/stops/place-jfk,level_0_cr_platform,0,place-jfk,1
 door-jfk-busway,,"JFK/UMass - Busway, JFK Library, Mount Vernon St (Ramp)","JFK/UMass - Busway, JFK Library, Mount Vernon St (Ramp)",,,42.320486,-71.051545,,,,level_ground,2,place-jfk,1
 door-jfk-columbia,,JFK/UMass - Columbia Rd,JFK/UMass - Columbia Rd,,,42.321358,-71.052583,,,,level_columbia_rd,2,place-jfk,1
 door-jfk-oldcolony,,"JFK/UMass - Busway, JFK Library, Mount Vernon St (Stairs)","JFK/UMass - Busway, JFK Library, Mount Vernon St (Stairs)",,,42.320829,-71.051623,,,,level_ground,2,place-jfk,2
@@ -8227,7 +8227,7 @@ place-mlmnl,,Malden Center,,,,42.426632,-71.074110,,"Commercial St and Pleasant 
 53270,53270,Malden Center,Malden Center - East Busway Platform 1,1,East Busway Platform 1,42.426565,-71.074107,,,https://www.mbta.com/stops/place-mlmnl,level_ground,0,place-mlmnl,0
 70034,70034,Malden Center,Malden Center - Orange Line - Forest Hills,,Forest Hills,42.426632,-71.074110,,,https://www.mbta.com/stops/place-mlmnl,level_1_orange_platform,0,place-mlmnl,1
 70035,70035,Malden Center,Malden Center - Orange Line - Oak Grove,,Oak Grove,42.426632,-71.074110,,,https://www.mbta.com/stops/place-mlmnl,level_1_orange_platform,0,place-mlmnl,1
-Malden Center,,Malden Center,Malden Center - Commuter Rail,,Commuter Rail,42.426632,-71.074112,,,https://www.mbta.com/stops/place-mlmnl,level_1_cr_platform,0,place-mlmnl,1
+Malden Center,,Malden Center,Malden Center - Commuter Rail,,Commuter Rail,42.426632,-71.074112,CR-zone-1A,,https://www.mbta.com/stops/place-mlmnl,level_1_cr_platform,0,place-mlmnl,1
 door-mlmnl-commercial,,"Malden Center - Commercial St, Malden Government Center","Malden Center - Commercial St, Malden Government Center",,,42.426814,-71.073983,,,,level_ground,2,place-mlmnl,2
 door-mlmnl-pleasant,,"Malden Center - Summer St, Pleasant St","Malden Center - Summer St, Pleasant St",,,42.426880,-71.074355,,,,level_ground,2,place-mlmnl,1
 door-mlmnl-ramp,,"Malden Center - Commercial St, Malden Government Center (ramp)","Malden Center - Commercial St, Malden Government Center (ramp)",,,42.426890,-71.073987,,,,level_ground,2,place-mlmnl,1
@@ -8267,17 +8267,17 @@ place-north,,North Station,,,,42.365577,-71.061290,,"135 Causeway St, Boston MA 
 70027,70027,North Station,North Station - Orange Line - Oak Grove,,Oak Grove,42.365577,-71.061290,,,https://www.mbta.com/stops/place-north,level_-2_low_platform,0,place-north,1
 70205,70205,North Station,North Station - Green Line - Lechmere,,Lechmere,42.365577,-71.061290,,,https://www.mbta.com/stops/place-north,level_-1_lechmere_platform,0,place-north,1
 70206,70206,North Station,North Station - Green Line - Copley & West,,Copley & West,42.365577,-71.061290,,,https://www.mbta.com/stops/place-north,level_-2_low_platform,0,place-north,1
-North Station,,North Station,North Station - Commuter Rail,,Commuter Rail,42.366417,-71.062326,,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
-North Station-01,,North Station,North Station - Commuter Rail - Track 1,1,Commuter Rail - Track 1,42.366493,-71.062829,,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
-North Station-02,,North Station,North Station - Commuter Rail - Track 2,2,Commuter Rail - Track 2,42.366493,-71.062829,,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
-North Station-03,,North Station,North Station - Commuter Rail - Track 3,3,Commuter Rail - Track 3,42.366535,-71.062730,,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
-North Station-04,,North Station,North Station - Commuter Rail - Track 4,4,Commuter Rail - Track 4,42.366535,-71.062730,,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
-North Station-05,,North Station,North Station - Commuter Rail - Track 5,5,Commuter Rail - Track 5,42.366618,-71.062601,,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
-North Station-06,,North Station,North Station - Commuter Rail - Track 6,6,Commuter Rail - Track 6,42.366618,-71.062601,,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
-North Station-07,,North Station,North Station - Commuter Rail - Track 7,7,Commuter Rail - Track 7,42.366687,-71.062475,,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
-North Station-08,,North Station,North Station - Commuter Rail - Track 8,8,Commuter Rail - Track 8,42.366687,-71.062475,,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
-North Station-09,,North Station,North Station - Commuter Rail - Track 9,9,Commuter Rail - Track 9,42.366761,-71.062365,,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
-North Station-10,,North Station,North Station - Commuter Rail - Track 10,10,Commuter Rail - Track 10,42.366761,-71.062365,,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
+North Station,,North Station,North Station - Commuter Rail,,Commuter Rail,42.366417,-71.062326,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
+North Station-01,,North Station,North Station - Commuter Rail - Track 1,1,Commuter Rail - Track 1,42.366493,-71.062829,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
+North Station-02,,North Station,North Station - Commuter Rail - Track 2,2,Commuter Rail - Track 2,42.366493,-71.062829,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
+North Station-03,,North Station,North Station - Commuter Rail - Track 3,3,Commuter Rail - Track 3,42.366535,-71.062730,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
+North Station-04,,North Station,North Station - Commuter Rail - Track 4,4,Commuter Rail - Track 4,42.366535,-71.062730,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
+North Station-05,,North Station,North Station - Commuter Rail - Track 5,5,Commuter Rail - Track 5,42.366618,-71.062601,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
+North Station-06,,North Station,North Station - Commuter Rail - Track 6,6,Commuter Rail - Track 6,42.366618,-71.062601,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
+North Station-07,,North Station,North Station - Commuter Rail - Track 7,7,Commuter Rail - Track 7,42.366687,-71.062475,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
+North Station-08,,North Station,North Station - Commuter Rail - Track 8,8,Commuter Rail - Track 8,42.366687,-71.062475,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
+North Station-09,,North Station,North Station - Commuter Rail - Track 9,9,Commuter Rail - Track 9,42.366761,-71.062365,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
+North Station-10,,North Station,North Station - Commuter Rail - Track 10,10,Commuter Rail - Track 10,42.366761,-71.062365,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1
 door-north-causewaye,,North Station - Causeway St (Elevator),North Station - Causeway St (Elevator),,,42.365639,-71.060472,,,,level_in_street,2,place-north,1
 door-north-causeways,,"North Station - Causeway St, Haverhill St","North Station - Causeway St, Haverhill St",,,42.365496,-71.060490,,,,level_in_street,2,place-north,2
 door-north-crcanal,,"North Station - Causeway St, Canal St","North Station - Causeway St, Canal St",,,42.365975,-71.061759,,,,level_in_street,2,place-north,1
@@ -8340,7 +8340,7 @@ place-portr,,Porter,,,,42.388400,-71.119149,,"1899 Massachusetts Ave, Cambridge,
 2430,2430,Somerville Ave @ Massachusetts Ave,,,,42.388424,-71.118904,,,https://www.mbta.com/stops/place-portr,,0,place-portr,1
 70065,70065,Porter,Porter - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.388400,-71.119149,,,https://www.mbta.com/stops/place-portr,level_-3_southbound_platform,0,place-portr,1
 70066,70066,Porter,Porter - Red Line - Alewife,,Alewife,42.388400,-71.119149,,,https://www.mbta.com/stops/place-portr,level_-4_alewife_platform,0,place-portr,1
-Porter Square,,Porter,Porter - Commuter Rail,,Commuter Rail,42.388401,-71.119148,,,https://www.mbta.com/stops/place-portr,level_-1_cr_platform,0,place-portr,1
+Porter Square,,Porter,Porter - Commuter Rail,,Commuter Rail,42.388401,-71.119148,CR-zone-1A,,https://www.mbta.com/stops/place-portr,level_-1_cr_platform,0,place-portr,1
 door-portr-cracross,,"Porter - Massachusetts Ave (West), Buses","Porter - Massachusetts Ave (West), Buses",,,42.388604,-71.119752,,,,level_in_street,2,place-portr,2
 door-portr-crtransfer,,"Porter - Massachusetts Ave (East), Buses","Porter - Massachusetts Ave (East), Buses",,,42.388254,-71.119099,,,,level_in_street,2,place-portr,2
 door-portr-elevators,,"Porter - Somerville Ave, Massachusetts Ave (Elevator)","Porter - Somerville Ave, Massachusetts Ave (Elevator)",,,42.388331,-71.118905,,,,level_in_street,2,place-portr,1
@@ -8366,7 +8366,7 @@ place-qnctr,,Quincy Center,,,,42.251809,-71.005409,,"175 Thomas E Burgin Pkwy, Q
 32005,32005,Quincy Center,Quincy Center - Busway,,Busway,42.251975,-71.005231,,,https://www.mbta.com/stops/place-qnctr,level_ground,0,place-qnctr,0
 70101,70101,Quincy Center,Quincy Center - Red Line - Braintree,2,Braintree,42.251809,-71.005409,,,https://www.mbta.com/stops/place-qnctr,level_-1_red_platform,0,place-qnctr,1
 70102,70102,Quincy Center,Quincy Center - Red Line - Alewife,1,Alewife,42.251809,-71.005409,,,https://www.mbta.com/stops/place-qnctr,level_-1_red_platform,0,place-qnctr,1
-Quincy Center,,Quincy Center,Quincy Center - Commuter Rail,,Commuter Rail,42.251809,-71.005409,,,https://www.mbta.com/stops/place-qnctr,level_-1_cr_platform,0,place-qnctr,1
+Quincy Center,,Quincy Center,Quincy Center - Commuter Rail,,Commuter Rail,42.251809,-71.005409,CR-zone-1A-1,,https://www.mbta.com/stops/place-qnctr,level_-1_cr_platform,0,place-qnctr,1
 door-qnctr-burgin,,Quincy Center - Burgin Parkway,Quincy Center - Burgin Parkway,,,42.251403,-71.005508,,,,level_1_in_street,2,place-qnctr,2
 door-qnctr-busway,,Quincy Center - Hancock St,Quincy Center - Hancock St,,,42.251586,-71.005003,,,,level_ground,2,place-qnctr,1
 place-rbmnl,,Revere Beach,,,,42.407843,-70.992533,,"220 Shirley Ave, Revere, MA",https://www.mbta.com/stops/place-rbmnl,,1,,1
@@ -8403,10 +8403,10 @@ place-rugg,,Ruggles,,,,42.336377,-71.088961,,"1150 Tremont St, Roxbury, MA 02120
 17863,17863,Ruggles,Ruggles - Lower Busway Lane 2,2,Lower Busway Lane 2,42.336390,-71.089050,,,https://www.mbta.com/stops/place-rugg,level_ground,0,place-rugg,0
 70010,70010,Ruggles,Ruggles - Orange Line - Forest Hills,,Forest Hills,42.336377,-71.088961,,,https://www.mbta.com/stops/place-rugg,level_0_orange_platform,0,place-rugg,1
 70011,70011,Ruggles,Ruggles - Orange Line - Oak Grove,,Oak Grove,42.336377,-71.088961,,,https://www.mbta.com/stops/place-rugg,level_0_orange_platform,0,place-rugg,1
-Ruggles,,Ruggles,Ruggles - Commuter Rail,,Commuter Rail,42.336608,-71.089208,,,https://www.mbta.com/stops/place-rugg,level_0_cr_platform,0,place-rugg,1
-Ruggles-01,,Ruggles,Ruggles - Commuter Rail - Track 1,1,Commuter Rail - Track 1,42.336339,-71.089517,,,https://www.mbta.com/stops/place-rugg,level_0_cr_platform,0,place-rugg,1
-Ruggles-02,,Ruggles,Ruggles - Commuter Rail - Track 2,2,Commuter Rail - Track 2,42.337204,-71.088307,,,https://www.mbta.com/stops/place-rugg,level_0_cr_platform,0,place-rugg,1
-Ruggles-03,,Ruggles,Ruggles - Commuter Rail - Track 3,3,Commuter Rail - Track 3,42.336368,-71.089554,,,https://www.mbta.com/stops/place-rugg,,0,place-rugg,1
+Ruggles,,Ruggles,Ruggles - Commuter Rail,,Commuter Rail,42.336608,-71.089208,CR-zone-1A,,https://www.mbta.com/stops/place-rugg,level_0_cr_platform,0,place-rugg,1
+Ruggles-01,,Ruggles,Ruggles - Commuter Rail - Track 1,1,Commuter Rail - Track 1,42.336339,-71.089517,CR-zone-1A,,https://www.mbta.com/stops/place-rugg,level_0_cr_platform,0,place-rugg,1
+Ruggles-02,,Ruggles,Ruggles - Commuter Rail - Track 2,2,Commuter Rail - Track 2,42.337204,-71.088307,CR-zone-1A,,https://www.mbta.com/stops/place-rugg,level_0_cr_platform,0,place-rugg,1
+Ruggles-03,,Ruggles,Ruggles - Commuter Rail - Track 3,3,Commuter Rail - Track 3,42.336368,-71.089554,CR-zone-1A,,https://www.mbta.com/stops/place-rugg,,0,place-rugg,1
 door-rugg-buses,,"Ruggles - Columbus Ave, Buses","Ruggles - Columbus Ave, Buses",,,42.336473,-71.089194,,,,level_ground,2,place-rugg,1
 door-rugg-columbus,,"Ruggles - Columbus Ave, Tremont St","Ruggles - Columbus Ave, Tremont St",,,42.335873,-71.088906,,,,level_in_street,2,place-rugg,1
 door-rugg-forsyth,,"Ruggles - Northeastern, Forsyth St","Ruggles - Northeastern, Forsyth St",,,42.337010,-71.089421,,,,level_in_street,2,place-rugg,1
@@ -8457,20 +8457,20 @@ place-sstat,,South Station,,,,42.352271,-71.055242,,"700 Atlantic Ave, Boston, M
 70080,70080,South Station,South Station - Red Line - Alewife,,Alewife,42.352271,-71.055242,,,https://www.mbta.com/stops/place-sstat,level_-3_red_platform,0,place-sstat,1
 74611,74611,South Station,South Station - Silver Line - Airport/Design Center/Chelsea,,Airport/Design Center/Chelsea,42.352271,-71.055242,,,https://www.mbta.com/stops/place-sstat,level_-2_silver_platform,0,place-sstat,1
 74617,74617,South Station,South Station - Silver Line - Exit Only,,Exit Only,42.352271,-71.055242,,,https://www.mbta.com/stops/place-sstat,level_-2_silver_platform,0,place-sstat,1
-South Station,,South Station,South Station - Commuter Rail,,Commuter Rail,42.351763,-71.054797,,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
-South Station-01,,South Station,South Station - Commuter Rail - Track 1,1,Commuter Rail - Track 1,42.351357,-71.055665,,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
-South Station-02,,South Station,South Station - Commuter Rail - Track 2,2,Commuter Rail - Track 2,42.351365,-71.055496,,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
-South Station-03,,South Station,South Station - Commuter Rail - Track 3,3,Commuter Rail - Track 3,42.351365,-71.055496,,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
-South Station-04,,South Station,South Station - Commuter Rail - Track 4,4,Commuter Rail - Track 4,42.351412,-71.055303,,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
-South Station-05,,South Station,South Station - Commuter Rail - Track 5,5,Commuter Rail - Track 5,42.351412,-71.055303,,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
-South Station-06,,South Station,South Station - Commuter Rail - Track 6,6,Commuter Rail - Track 6,42.351448,-71.055104,,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
-South Station-07,,South Station,South Station - Commuter Rail - Track 7,7,Commuter Rail - Track 7,42.351448,-71.055104,,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
-South Station-08,,South Station,South Station - Commuter Rail - Track 8,8,Commuter Rail - Track 8,42.351527,-71.054882,,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
-South Station-09,,South Station,South Station - Commuter Rail - Track 9,9,Commuter Rail - Track 9,42.351527,-71.054882,,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
-South Station-10,,South Station,South Station - Commuter Rail - Track 10,10,Commuter Rail - Track 10,42.351081,-71.054914,,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
-South Station-11,,South Station,South Station - Commuter Rail - Track 11,11,Commuter Rail - Track 11,42.351081,-71.054914,,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
-South Station-12,,South Station,South Station - Commuter Rail - Track 12,12,Commuter Rail - Track 12,42.350778,-71.054938,,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
-South Station-13,,South Station,South Station - Commuter Rail - Track 13,13,Commuter Rail - Track 13,42.350778,-71.054938,,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
+South Station,,South Station,South Station - Commuter Rail,,Commuter Rail,42.351763,-71.054797,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
+South Station-01,,South Station,South Station - Commuter Rail - Track 1,1,Commuter Rail - Track 1,42.351357,-71.055665,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
+South Station-02,,South Station,South Station - Commuter Rail - Track 2,2,Commuter Rail - Track 2,42.351365,-71.055496,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
+South Station-03,,South Station,South Station - Commuter Rail - Track 3,3,Commuter Rail - Track 3,42.351365,-71.055496,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
+South Station-04,,South Station,South Station - Commuter Rail - Track 4,4,Commuter Rail - Track 4,42.351412,-71.055303,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
+South Station-05,,South Station,South Station - Commuter Rail - Track 5,5,Commuter Rail - Track 5,42.351412,-71.055303,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
+South Station-06,,South Station,South Station - Commuter Rail - Track 6,6,Commuter Rail - Track 6,42.351448,-71.055104,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
+South Station-07,,South Station,South Station - Commuter Rail - Track 7,7,Commuter Rail - Track 7,42.351448,-71.055104,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
+South Station-08,,South Station,South Station - Commuter Rail - Track 8,8,Commuter Rail - Track 8,42.351527,-71.054882,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
+South Station-09,,South Station,South Station - Commuter Rail - Track 9,9,Commuter Rail - Track 9,42.351527,-71.054882,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
+South Station-10,,South Station,South Station - Commuter Rail - Track 10,10,Commuter Rail - Track 10,42.351081,-71.054914,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
+South Station-11,,South Station,South Station - Commuter Rail - Track 11,11,Commuter Rail - Track 11,42.351081,-71.054914,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
+South Station-12,,South Station,South Station - Commuter Rail - Track 12,12,Commuter Rail - Track 12,42.350778,-71.054938,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
+South Station-13,,South Station,South Station - Commuter Rail - Track 13,13,Commuter Rail - Track 13,42.350778,-71.054938,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1
 door-sstat-atlantic,,South Station - Atlantic Ave,South Station - Atlantic Ave,,,42.351551,-71.055716,,,,level_in_street,2,place-sstat,1
 door-sstat-bus,,South Station - South Station Bus Terminal,South Station - South Station Bus Terminal,,,42.350690,-71.056121,,,,level_ground,2,place-sstat,1
 door-sstat-dewey,,"South Station - Dewey Sq (Summer St, Atlantic Ave)","South Station - Dewey Sq (Summer St, Atlantic Ave)",,,42.352886,-71.055505,,,,level_in_street,2,place-sstat,1
