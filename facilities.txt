@@ -359,9 +359,9 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 986,986,1,elevator,place-portr,Commuter Rail platform to lobby,Porter Elevator 986 (Commuter Rail platform to lobby),,,,1
 987,987,1,elevator,place-portr,Red Line platforms to lobby,Porter Elevator 987 (Red Line platforms to lobby),,,,1
 990,990,1,elevator,Yawkey,Street to South Station platform 2 and bridge,Lansdowne Elevator 990 (Street to South Station platform 2 and bridge),,,,1
-991,991,1,elevator,Yawkey,South Station platform 2 to bridge (east),Lansdowne Elevator 991 (South Station platform 2 to bridge (east)),,,,1
-992,992,1,elevator,Yawkey,Outbound platform 1 to bridge (west),Lansdowne Elevator 992 (Outbound platform 1 to bridge (west)),,,,1
-993,993,1,elevator,Yawkey,Outbound platform 1 to bridge (east),Lansdowne Elevator 993 (Outbound platform 1 to bridge (east)),,,,1
+991,991,1,elevator,Yawkey,South Station platform 2 to bridge,Lansdowne Elevator 991 (South Station platform 2 to bridge),,,,1
+992,992,1,elevator,Yawkey,Outbound platform 1 to west side of bridge,Lansdowne Elevator 992 (Outbound platform 1 to west side of bridge),,,,1
+993,993,1,elevator,Yawkey,Outbound platform 1 to east side of bridge,Lansdowne Elevator 993 (Outbound platform 1 to east side of bridge),,,,1
 bike-15095,,3,bike-storage,15095,Bike rack,Washington St @ Herald St bike rack,,,,0
 bike-15176,,3,bike-storage,15176,Bike rack,Washington St @ Worcester St bike rack,,,,0
 bike-17091,,3,bike-storage,17091,Bike rack,Terminal A bike rack,,,,0
@@ -568,6 +568,7 @@ ev-FR-3338-garage,,6,electric-car-chargers,Wachusett,EV Chargers,Wachusett Garag
 ev-NEC-1659,,6,electric-car-chargers,Wickford Junction,EV Chargers,Wickford Junction Parking Lot EV Chargers,,,,0
 ev-NEC-2173-garage,,6,electric-car-chargers,Route 128,EV Chargers,Route 128 Garage EV Chargers,,,,0
 ev-NHRML-0152,,6,electric-car-chargers,Wilmington,EV Chargers,Wilmington Parking Lot EV Chargers,,,,0
+ev-WML-0442-garage,,6,electric-car-chargers,Worcester,EV Chargers,Worcester Garage EV Chargers,,,,0
 ev-alfcl-garage,,6,electric-car-chargers,place-alfcl,EV Chargers,Alewife Garage EV Chargers,,,,0
 ev-brntn-garage,,6,electric-car-chargers,place-brntn,EV Chargers,Braintree Garage EV Chargers,,,,0
 ev-forhl,,6,electric-car-chargers,place-forhl,EV Chargers,Forest Hills Parking Lot EV Chargers,,,,0
@@ -1660,5 +1661,5 @@ subplat-spmnl-1,,2,elevated-subplatform,place-spmnl,Mini-high platform (Copley &
 subplat-wascm-0,,2,elevated-subplatform,place-wascm,Mini-high platform (Park Street & North),Washington Street mini-high platform (Park Street & North),,,,1
 subplat-wascm-1,,2,elevated-subplatform,place-wascm,Mini-high platform (Boston College),Washington Street mini-high platform (Boston College),,,,1
 ticket-bbsta,,4,ticket-window,place-bbsta,Commuter Rail ticket window,Keolis Commuter Rail Back Bay ticket window,,42.3472490,-71.0753270,0
-ticket-north,,4,ticket-window,place-north,Commuter Rail ticket window,Keolis Commuter Rail North Station ticket window,,42.3679770,-71.0612900,0
-ticket-sstat,,4,ticket-window,place-sstat,Commuter Rail ticket window,Keolis Commuter Rail South Station ticket window,,42.3541050,-71.0552420,0
+ticket-north,,4,ticket-window,place-north,Commuter Rail ticket window,Keolis Commuter Rail North Station ticket window,,42.3662070,-71.0626560,0
+ticket-sstat,,4,ticket-window,place-sstat,Commuter Rail ticket window,Keolis Commuter Rail South Station ticket window,,42.3519230,-71.0545050,0
