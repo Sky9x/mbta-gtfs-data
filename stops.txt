@@ -7747,6 +7747,31 @@ door-andrw-busway,,Andrew - Buses,Andrew - Buses,,,42.330164,-71.057605,,,,level
 door-andrw-dotave,,"Andrew - Street, Buses","Andrew - Street, Buses",,,42.330017,-71.057309,,,,level_ground,2,place-andrw,2
 door-andrw-elevator,,Andrew - Elevator,Andrew - Elevator,,,42.330017,-71.057684,,,,level_ground,2,place-andrw,1
 door-andrw-exitonly,,Andrew - Southampton St,Andrew - Southampton St,,,42.330004,-71.057863,,,,level_ground,2,place-andrw,2
+node-123-platform,,Andrew,Andrew - Bottom of left outbound exit-only escalator,,,,,,,,level_-2_platform,3,place-andrw,1
+node-124-platform,,Andrew,Andrew - Bottom of right outbound exit-only escalator,,,,,,,,level_-2_platform,3,place-andrw,1
+node-301-platform,,Andrew,Andrew - Bottom of inbound escalator,,,,,,,,level_-2_platform,3,place-andrw,1
+node-872-lobby,,Andrew,Andrew - Bottom of entrance elevator,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-879-lobby,,Andrew,Andrew - Top of outbound elevator,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-879-platform,,Andrew,Andrew - Bottom of outbound elevator,,,,,,,,level_-2_platform,3,place-andrw,1
+node-880-lobby,,Andrew,Andrew - Top of inbound elevator,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-880-platform,,Andrew,Andrew - Bottom of inbound elevator,,,,,,,,level_-2_platform,3,place-andrw,1
+node-andrw-dotstairs-lobby,,Andrew,Andrew - Bottom of Dorchester Ave entrance stairs,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-andrw-farepaid,,Andrew,Andrew - Paid side of faregates,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-andrw-fareunpaid,,Andrew,Andrew - Unpaid side of faregates,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-andrw-ibramp-top,,Andrew,Andrew - Top of inbound lobby ramp,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-andrw-nbusstairs-lobby,,Andrew,Andrew - Bottom of north busway entrance stairs,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-andrw-nibstairs-lobby,,Andrew,Andrew - Top of north inbound stairs,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-andrw-nibstairs-platform,,Andrew,Andrew - Bottom of north inbound stairs,,,,,,,,level_-2_platform,3,place-andrw,1
+node-andrw-nlobbycenter,,Andrew,Andrew - North lobby center,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-andrw-nobstairs-lobby,,Andrew,Andrew - Top of north outbound stairs,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-andrw-nobstairs-platform,,Andrew,Andrew - Bottom of north outbound stairs,,,,,,,,level_-2_platform,3,place-andrw,1
+node-andrw-obelstairs-lobby,,Andrew,Andrew - Top of outbound elevator stairs,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-andrw-sbusstairs-lobby,,Andrew,Andrew - Bottom of south busway entrance stairs,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-andrw-sibingress,,Andrew,Andrew - South inbound platform ingress point,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-andrw-sibstairs-platform,,Andrew,Andrew - Bottom of south inbound platform stairs,,,,,,,,level_-2_platform,3,place-andrw,1
+node-andrw-slobbycenter,,Andrew,Andrew - South lobby center,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-andrw-sobstairs-lobby,,Andrew,Andrew - Top of south outbound stairs,,,,,,,,level_-1_lobby,3,place-andrw,1
+node-andrw-sobstairs-platform,,Andrew,Andrew - Bottom of south outbound stairs,,,,,,,,level_-2_platform,3,place-andrw,1
 place-aport,,Airport,,,,42.374262,-71.030395,,"Transportation Way and Service Rd, Boston, MA 02128",https://www.mbta.com/stops/place-aport,,1,,1
 70047,70047,Airport,Airport - Blue Line - Bowdoin,,Bowdoin,42.374262,-71.030395,,,https://www.mbta.com/stops/place-aport,level_0_platform,0,place-aport,1
 70048,70048,Airport,Airport - Blue Line - Wonderland,,Wonderland,42.374262,-71.030395,,,https://www.mbta.com/stops/place-aport,level_0_platform,0,place-aport,1
@@ -7754,6 +7779,34 @@ place-aport,,Airport,,,,42.374262,-71.030395,,"Transportation Way and Service Rd
 7097,7097,Airport,Airport - Silver Line - SL3 South Station,A,South Station,42.374518,-71.029532,,,https://www.mbta.com/stops/place-aport,level_ground,0,place-aport,1
 door-aport-bremen,,Airport - Bremen St,Airport - Bremen St,,,42.374553,-71.030306,,,,level_ground,2,place-aport,1
 door-aport-buses,,"Airport - Buses, Airport","Airport - Buses, Airport",,,42.373984,-71.030031,,,,level_ground,2,place-aport,1
+node-407-bridge,,Airport,Airport - Top of Escalator 407,,,,,,,,level_1_bridge,3,place-aport,1
+node-407-platform,,Airport,Airport - Bottom of Escalator 407,,,,,,,,level_ground,3,place-aport,1
+node-408-bridge,,Airport,Airport - Top of Escalator 408,,,,,,,,level_1_bridge,3,place-aport,1
+node-408-platform,,Airport,Airport - Bottom of Escalator 408,,,,,,,,level_ground,3,place-aport,1
+node-409-bridge,,Airport,Airport - Top of Escalator 409,,,,,,,,level_1_bridge,3,place-aport,1
+node-409-platform,,Airport,Airport - Bottom of Escalator 409,,,,,,,,level_ground,3,place-aport,1
+node-410-bridge,,Airport,Airport - Top of Escalator 410,,,,,,,,level_1_bridge,3,place-aport,1
+node-410-platform,,Airport,Airport - Bottom of Escalator 410,,,,,,,,level_ground,3,place-aport,1
+node-931-bridge,,Airport,Airport - Top of Elevator 931,,,,,,,,level_1_bridge,3,place-aport,1
+node-931-platform,,Airport,Airport - Bottom of Elevator 931,,,,,,,,level_ground,3,place-aport,1
+node-932-bridge,,Airport,Airport - Top of Elevator 932,,,,,,,,level_1_bridge,3,place-aport,1
+node-932-platform,,Airport,Airport - Bottom of Elevator 932,,,,,,,,level_ground,3,place-aport,1
+node-955-bridge,,Airport,Airport - Top of Elevator 955,,,,,,,,level_1_bridge,3,place-aport,1
+node-955-lobby,,Airport,Airport - Bottom of Elevator 955,,,,,,,,level_ground,3,place-aport,1
+node-956-bridge,,Airport,Airport - Top of Elevator 956,,,,,,,,level_1_bridge,3,place-aport,1
+node-956-lobby,,Airport,Airport - Bottom of Elevator 956,,,,,,,,level_ground,3,place-aport,1
+node-aport-bremen-farepaid,,Airport,Airport - Paid side of fare gates,,,,,,,,level_ground,3,place-aport,1
+node-aport-bremen-fareunpaid,,Airport,Airport - Unpaid side of fare gates,,,,,,,,level_ground,3,place-aport,1
+node-aport-bremenstairs-bridge,,Airport,Airport - Top of stairs on unpaid Bremen Street side,,,,,,,,level_1_bridge,3,place-aport,1
+node-aport-bremenstairs-lobby,,Airport,Airport - Bottom of stairs on unpaid Brement Street side,,,,,,,,level_ground,3,place-aport,1
+node-aport-buses-farepaid,,Airport,Airport - Paid side of fare gates,,,,,,,,level_ground,3,place-aport,1
+node-aport-buses-fareunpaid,,Airport,Airport - Unpaid side of fare gates,,,,,,,,level_ground,3,place-aport,1
+node-aport-buswaystairs-bridge,,Airport,Airport - Top of stairs on unpaid Busway side,,,,,,,,level_1_bridge,3,place-aport,1
+node-aport-buswaystairs-lobby,,Airport,Airport - Bottom of stairs on unpaid Busway side,,,,,,,,level_ground,3,place-aport,1
+node-aport-ebpaidstairs-bridge,,Airport,"Airport - Top of stairs on Wonderland, Busway side",,,,,,,,level_1_bridge,3,place-aport,1
+node-aport-ebpaidstairs-platform,,Airport,"Airport - Bottom of stairs on Wonderland, Busway side",,,,,,,,level_ground,3,place-aport,1
+node-aport-wbpaidstairs-bridge,,Airport,"Airport - Top of stairs on Bowdoin, Bremen Street side",,,,,,,,level_1_bridge,3,place-aport,1
+node-aport-wbpaidstairs-platform,,Airport,"Airport - Bottom of stairs on Bowdoin, Brement Street side",,,,,,,,level_ground,3,place-aport,1
 place-aqucl,,Aquarium,,,,42.359784,-71.051652,,"Atlantic Ave and State St, Boston, MA 02120",https://www.mbta.com/stops/place-aqucl,,1,,1
 70043,70043,Aquarium,Aquarium - Blue Line - Bowdoin,1,Bowdoin,42.359784,-71.051652,,,https://www.mbta.com/stops/place-aqucl,level_-2_platform,0,place-aqucl,1
 70044,70044,Aquarium,Aquarium - Blue Line - Wonderland,2,Wonderland,42.359784,-71.051652,,,https://www.mbta.com/stops/place-aqucl,level_-2_platform,0,place-aqucl,1
@@ -7783,6 +7836,30 @@ place-astao,,Assembly,,,,42.392811,-71.077257,,"499 Foley St, Somerville, MA 021
 70279,70279,Assembly,Assembly - Orange Line - Oak Grove,,Oak Grove,42.392811,-71.077257,,,https://www.mbta.com/stops/place-astao,level_0_platform,0,place-astao,1
 door-astao-foley,,Assembly - Foley St,Assembly - Foley St,,,42.393312,-71.077661,,,,level_in_street,2,place-astao,1
 door-astao-revol,,Assembly - Revolution Dr,Assembly - Revolution Dr,,,42.392164,-71.077559,,,,level_in_street,2,place-astao,1
+node-astao-442-ground,,Assembly,Assembly - Bottom of Escalator 442,,,,,,,,level_in_street,3,place-astao,1
+node-astao-442-lobby,,Assembly,Assembly - Top of Escalator 442,,,,,,,,level_1_lobby,3,place-astao,1
+node-astao-443-lobby,,Assembly,Assembly - Top of Escalator 443,,,,,,,,level_1_lobby,3,place-astao,1
+node-astao-443-platform,,Assembly,Assembly - Bottom of Escalator 443,,,,,,,,level_0_platform,3,place-astao,1
+node-astao-716-ground,,Assembly,Assembly - Bottom of Elevator 716,,,,,,,,level_in_street,3,place-astao,1
+node-astao-716-lobby,,Assembly,Assembly - Top of Elevator 716,,,,,,,,level_1_lobby,3,place-astao,1
+node-astao-717-lobby,,Assembly,Assembly - Top of Elevator 717,,,,,,,,level_1_lobby,3,place-astao,1
+node-astao-717-platform,,Assembly,Assembly - Bottom of Elevator 717,,,,,,,,level_0_platform,3,place-astao,1
+node-astao-718-ground,,Assembly,Assembly - Bottom of Elevator 718,,,,,,,,level_in_street,3,place-astao,1
+node-astao-718-lobby,,Assembly,Assembly - Top of Elevator 718,,,,,,,,level_1_lobby,3,place-astao,1
+node-astao-719-lobby,,Assembly,Assembly - Top of Elevator 719,,,,,,,,level_1_lobby,3,place-astao,1
+node-astao-719-platform,,Assembly,Assembly - Bottom of Elevator 719,,,,,,,,level_0_platform,3,place-astao,1
+node-astao-fol-farepaid,,Assembly,Assembly - Paid side of fare gates,,,,,,,,level_1_lobby,3,place-astao,1
+node-astao-fol-fareunpaid,,Assembly,Assembly - Unpaid side of fare gates,,,,,,,,level_1_lobby,3,place-astao,1
+node-astao-foldoorstair-ground,,Assembly,Assembly - Bottom of stairs for Foley Street,,,,,,,,level_in_street,3,place-astao,1
+node-astao-foldoorstair-lobby,,Assembly,Assembly - Top of stairs for Foley Street,,,,,,,,level_1_lobby,3,place-astao,1
+node-astao-folplatstair-lobby,,Assembly,Assembly - Top of platform stairs for Foley Street,,,,,,,,level_1_lobby,3,place-astao,1
+node-astao-folplatstair-platform,,Assembly,Assembly - Bottom of platform stairs for Foley Street,,,,,,,,level_0_platform,3,place-astao,1
+node-astao-rev-farepaid,,Assembly,Assembly - Paid side of fare gates,,,,,,,,level_1_lobby,3,place-astao,1
+node-astao-rev-fareunpaid,,Assembly,Assembly - Unpaid side of fare gates,,,,,,,,level_1_lobby,3,place-astao,1
+node-astao-revdoorstair-ground,,Assembly,Assembly - Bottom of stairs for Revolution Drive,,,,,,,,level_in_street,3,place-astao,1
+node-astao-revdoorstair-lobby,,Assembly,Assembly - Top of stairs for Revolution Drive,,,,,,,,level_1_lobby,3,place-astao,1
+node-astao-revplatstair-lobby,,Assembly,Assembly - Top of platform stairs for Revolution Drive,,,,,,,,level_1_lobby,3,place-astao,1
+node-astao-revplatstair-platform,,Assembly,Assembly - Bottom of platform stairs for Revolution Drive,,,,,,,,level_0_platform,3,place-astao,1
 place-babck,,Babcock Street,,,,42.351820,-71.121650,,"Commonwealth Ave and Babcock St, Boston, MA 02215",https://www.mbta.com/stops/place-babck,,1,,2
 70136,70136,Babcock Street,Babcock Street - Green Line - Park Street & North,,Park Street & North,42.351776,-71.121530,,,https://www.mbta.com/stops/place-babck,level_median,0,place-babck,2
 70137,70137,Babcock Street,Babcock Street - Green Line - (B) Boston College,,Boston College,42.351903,-71.122042,,,https://www.mbta.com/stops/place-babck,level_median,0,place-babck,2
@@ -7838,6 +7915,20 @@ place-bmmnl,,Beachmont,,,,42.397542,-70.992319,,"630 Winthrop Ave, Revere, MA 02
 70055,70055,Beachmont,Beachmont - Blue Line - Bowdoin,1,Bowdoin,42.397542,-70.992319,,,https://www.mbta.com/stops/place-bmmnl,level_1_platform,0,place-bmmnl,1
 70056,70056,Beachmont,Beachmont - Blue Line - Wonderland,2,Wonderland,42.397542,-70.992319,,,https://www.mbta.com/stops/place-bmmnl,level_1_platform,0,place-bmmnl,1
 door-bmmnl-main,,Beachmont - Winthrop Ave,Beachmont - Winthrop Ave,,,42.397551,-70.992358,,,,level_in_street,2,place-bmmnl,1
+node-378-lobby,,Beachmont,Beachmont - Bottom of Escalator 378,,,,,,,,level_in_street,3,place-bmmnl,1
+node-378-platform,,Beachmont,Beachmont - Top of Escalator 378,,,,,,,,level_1_platform,3,place-bmmnl,1
+node-379-lobby,,Beachmont,Beachmont - Bottom of Escalator 379,,,,,,,,level_in_street,3,place-bmmnl,1
+node-379-platform,,Beachmont,Beachmont - Top of Escalator 379,,,,,,,,level_1_platform,3,place-bmmnl,1
+node-886-lobby,,Beachmont,Beachmont - Bottom of Elevator 886,,,,,,,,level_in_street,3,place-bmmnl,1
+node-886-platform,,Beachmont,Beachmont - Top of Elevator 886,,,,,,,,level_1_platform,3,place-bmmnl,1
+node-887-lobby,,Beachmont,Beachmont - Bottom of Elevator 887,,,,,,,,level_in_street,3,place-bmmnl,1
+node-887-platform,,Beachmont,Beachmont - Top of Elevator 887,,,,,,,,level_1_platform,3,place-bmmnl,1
+node-bmmnl-378stair-lobby,,Beachmont,Beachmont - Bottom of stairs for Bowdoin,,,,,,,,level_in_street,3,place-bmmnl,1
+node-bmmnl-378stair-platform,,Beachmont,Beachmont - Top of stairs for Bowdoin,,,,,,,,level_1_platform,3,place-bmmnl,1
+node-bmmnl-379stair-lobby,,Beachmont,Beachmont - Bottom of stairs for Wonderland,,,,,,,,level_in_street,3,place-bmmnl,1
+node-bmmnl-379stair-platform,,Beachmont,Beachmont - Top of stairs for Wonderland,,,,,,,,level_1_platform,3,place-bmmnl,1
+node-bmmnl-farepaid,,Beachmont,Beachmont - Paid side of fare gates,,,,,,,,level_in_street,3,place-bmmnl,1
+node-bmmnl-fareunpaid,,Beachmont,Beachmont - Unpaid side of fare gates,,,,,,,,level_in_street,3,place-bmmnl,1
 place-bndhl,,Brandon Hall,,,,42.340023,-71.129082,,"1481 Beacon Street, Brookline, MA",https://www.mbta.com/stops/place-bndhl,,1,,2
 70225,70225,Brandon Hall,Brandon Hall - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.340053,-71.128869,,,https://www.mbta.com/stops/place-bndhl,level_median,0,place-bndhl,2
 70226,70226,Brandon Hall,Brandon Hall - Green Line - Park Street & North,,Park Street & North,42.340038,-71.128660,,,https://www.mbta.com/stops/place-bndhl,level_median,0,place-bndhl,2
@@ -7855,6 +7946,12 @@ place-boyls,,Boylston,,,,42.353020,-71.064590,,"Boylston St and Tremont St, Bost
 70159,70159,Boylston,Boylston - Green Line - Copley & West,,Copley & West,42.353214,-71.064545,,,https://www.mbta.com/stops/place-boyls,level_-1_platform,0,place-boyls,2
 door-boyls-inbound,,"Boylston - Boston Common, Street","Boylston - Boston Common, Street",,,42.352531,-71.064685,,,,level_in_street,2,place-boyls,2
 door-boyls-outbound,,"Boylston - Boston Common, Street","Boylston - Boston Common, Street",,,42.353214,-71.064546,,,,level_in_street,2,place-boyls,2
+node-boyls-in-farepaid,,Boylston,Boylston - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-boyls,1
+node-boyls-in-fareunpaid,,Boylston,Boylston - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-boyls,1
+node-boyls-instair-platform,,Boylston,Boylston - Bottom of Park Street & East stairs,,,,,,,,level_-1_platform,3,place-boyls,1
+node-boyls-out-farepaid,,Boylston,Boylston - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-boyls,1
+node-boyls-out-fareunpaid,,Boylston,Boylston - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-boyls,1
+node-boyls-outstair-platform,,Boylston,Boylston - Bottom of Copley & West stairs,,,,,,,,level_-1_platform,3,place-boyls,1
 place-brdwy,,Broadway,,,,42.342622,-71.056967,,"Dorchester Ave and Broadway, Boston, MA",https://www.mbta.com/stops/place-brdwy,,1,,1
 150,150,Broadway Station - Red Line,,,,42.342652,-71.057065,,,https://www.mbta.com/stops/place-brdwy,,0,place-brdwy,0
 151,151,W Broadway @ Broadway Station,,,,42.342664,-71.056949,,,https://www.mbta.com/stops/place-brdwy,,0,place-brdwy,1
@@ -7862,6 +7959,18 @@ place-brdwy,,Broadway,,,,42.342622,-71.056967,,"Dorchester Ave and Broadway, Bos
 70082,70082,Broadway,Broadway - Red Line - Alewife,,Alewife,42.342622,-71.056967,,,https://www.mbta.com/stops/place-brdwy,level_-2_platform,0,place-brdwy,1
 door-brdwy-main,,Broadway - Broadway,Broadway - Broadway,,,42.342560,-71.056944,,,,level_in_street,2,place-brdwy,1
 door-brdwy-traveler,,Broadway - Traveler St,Broadway - Traveler St,,,42.342962,-71.057389,,,,level_in_street,2,place-brdwy,2
+node-367-lobby,,Broadway,Broadway - Top of platform escalator,,,,,,,,level_-1_lobby,3,place-brdwy,1
+node-367-platform,,Broadway,Broadway - Bottom of platform escalator,,,,,,,,level_-2_platform,3,place-brdwy,1
+node-372-lobby,,Broadway,Broadway - Bottom of main entrance escalator,,,,,,,,level_-1_lobby,3,place-brdwy,1
+node-867-lobby,,Broadway,Broadway - Top of platform elevator,,,,,,,,level_-1_lobby,3,place-brdwy,1
+node-867-platform,,Broadway,Broadway - Bottom of platform elevator,,,,,,,,level_-2_platform,3,place-brdwy,1
+node-868-lobby,,Broadway,Broadway - Bottom of main entrance elevator,,,,,,,,level_-1_lobby,3,place-brdwy,1
+node-brdwy-farepaid,,Broadway,Broadway - Paid side of faregates,,,,,,,,level_-1_lobby,3,place-brdwy,1
+node-brdwy-fareunpaid,,Broadway,Broadway - Unpaid side of faregates,,,,,,,,level_-1_lobby,3,place-brdwy,1
+node-brdwy-mainstairs-lobby,,Broadway,Broadway - Bottom of main entrance stairs,,,,,,,,level_-1_lobby,3,place-brdwy,1
+node-brdwy-platstairs-lobby,,Broadway,Broadway - Top of platform stairs,,,,,,,,level_-1_lobby,3,place-brdwy,1
+node-brdwy-platstairs-platform,,Broadway,Broadway - Bottom of platform stairs,,,,,,,,level_-2_platform,3,place-brdwy,1
+node-brdwy-travelerstairs-lobby,,Broadway,Broadway - Bottom of Traveler Street entrance stairs,,,,,,,,level_-1_lobby,3,place-brdwy,1
 place-brico,,Packards Corner,,,,42.351967,-71.125031,,"Commonwealth Ave and Brighton Ave, Boston, MA 02215",https://www.mbta.com/stops/place-brico,,1,,2
 70134,70134,Packards Corner,Packards Corner - Green Line - Park Street & North,,Park Street & North,42.351891,-71.125067,,,https://www.mbta.com/stops/place-brico,level_median,0,place-brico,2
 70135,70135,Packards Corner,Packards Corner - Green Line - (B) Boston College,,Boston College,42.351651,-71.125510,,,https://www.mbta.com/stops/place-brico,level_median,0,place-brico,2
@@ -7919,6 +8028,15 @@ place-ccmnl,,Community College,,,,42.373622,-71.069533,,"Austin St and Rutherfor
 70028,70028,Community College,Community College - Orange Line - Forest Hills,,Forest Hills,42.373622,-71.069533,,,https://www.mbta.com/stops/place-ccmnl,level_-1_platform,0,place-ccmnl,1
 70029,70029,Community College,Community College - Orange Line - Oak Grove,,Oak Grove,42.373622,-71.069533,,,https://www.mbta.com/stops/place-ccmnl,level_-1_platform,0,place-ccmnl,1
 door-ccmnl-main,,"Community College - Community College, Rutherford Ave","Community College - Community College, Rutherford Ave",,,42.373719,-71.069600,,,,level_in_street,2,place-ccmnl,1
+node-ccmnl-305-lobby,,Community College,Community College - Top of Escalator 305,,,,,,,,level_in_street,3,place-ccmnl,1
+node-ccmnl-305-platform,,Community College,Community College - Bottom of Escalator 305,,,,,,,,level_-1_platform,3,place-ccmnl,1
+node-ccmnl-933-lobby,,Community College,Community College - Top of Elevator 933,,,,,,,,level_in_street,3,place-ccmnl,1
+node-ccmnl-933-platform,,Community College,Community College - Bottom of Elevator 933,,,,,,,,level_-1_platform,3,place-ccmnl,1
+node-ccmnl-farepaid,,Community College,Community College - Paid side of fare gates,,,,,,,,level_in_street,3,place-ccmnl,1
+node-ccmnl-fareunpaid,,Community College,Community College - Unpaid side of fare gates,,,,,,,,level_in_street,3,place-ccmnl,1
+node-ccmnl-lobby,,Community College,Community College - Paid lobby,,,,,,,,level_in_street,3,place-ccmnl,1
+node-ccmnl-stairs-lobby,,Community College,Community College - Top of stairs,,,,,,,,level_in_street,3,place-ccmnl,1
+node-ccmnl-stairs-platform,,Community College,Community College - Bottom of stairs,,,,,,,,level_-1_platform,3,place-ccmnl,1
 place-cedgr,,Cedar Grove,,,,42.279682,-71.060432,,"Fellsway St and Milton St, Dorchester, MA 02124",https://www.mbta.com/stops/place-cedgr,,1,,1
 70263,70263,Cedar Grove,Cedar Grove - Mattapan Trolley - Mattapan,,Mattapan,42.279680,-71.060434,,,https://www.mbta.com/stops/place-cedgr,level_ground,0,place-cedgr,1
 70264,70264,Cedar Grove,Cedar Grove - Mattapan Trolley - Ashmont,,Ashmont,42.279692,-71.060382,,,https://www.mbta.com/stops/place-cedgr,level_ground,0,place-cedgr,1
@@ -7952,6 +8070,20 @@ place-chmnl,,Charles/MGH,,,,42.361166,-71.070628,,"Cambridge St and Charles St, 
 9070073,9070073,Charles/MGH,Cambridge St @ Grove St - Red Line Park Street Shuttle,,Park Street Shuttle,42.361003,-71.068975,,,https://www.mbta.com/stops/place-chmnl,,0,place-chmnl,1
 9070074,9070074,Charles/MGH,Cambridge St @ W Cedar St - Red Line Kendall/MIT Shuttle,,Kendall/MIT Shuttle,42.361222,-71.069966,,,https://www.mbta.com/stops/place-chmnl,,0,place-chmnl,1
 door-chmnl-main,,"Charles/MGH - Beacon Hill, Esplanade, Hospitals","Charles/MGH - Beacon Hill, Esplanade, Hospitals",,,42.361117,-71.070570,,,,level_in_street,2,place-chmnl,1
+node-425-lobby,,Charles/MGH,Charles/MGH - Bottom of Escalator 425,,,,,,,,level_in_street,3,place-chmnl,1
+node-425-platform,,Charles/MGH,Charles/MGH - Top of Escalator 425,,,,,,,,level_1_platform,3,place-chmnl,1
+node-426-lobby,,Charles/MGH,Charles/MGH - Bottom of Escalator 426,,,,,,,,level_in_street,3,place-chmnl,1
+node-426-platform,,Charles/MGH,Charles/MGH - Top of Escalator 426,,,,,,,,level_1_platform,3,place-chmnl,1
+node-951-lobby,,Charles/MGH,Charles/MGH - Bottom of Elevator 951,,,,,,,,level_in_street,3,place-chmnl,1
+node-951-platform,,Charles/MGH,Charles/MGH - Top of Elevator 951,,,,,,,,level_1_platform,3,place-chmnl,1
+node-952-lobby,,Charles/MGH,Charles/MGH - Bottom of Elevator 952,,,,,,,,level_in_street,3,place-chmnl,1
+node-952-platform,,Charles/MGH,Charles/MGH - Top of Elevator 952,,,,,,,,level_1_platform,3,place-chmnl,1
+node-chmnl-farepaid,,Charles/MGH,Charles/MGH - Paid side of fare gates,,,,,,,,level_in_street,3,place-chmnl,1
+node-chmnl-fareunpaid,,Charles/MGH,Charles/MGH - Unpaid side of fare gates,,,,,,,,level_in_street,3,place-chmnl,1
+node-chmnl-nbstairs-lobby,,Charles/MGH,Charles/MGH - Bottom of Alewife platform stairs,,,,,,,,level_in_street,3,place-chmnl,1
+node-chmnl-nbstairs-platform,,Charles/MGH,Charles/MGH - Top of Alewife platform stairs,,,,,,,,level_1_platform,3,place-chmnl,1
+node-chmnl-sbstairs-lobby,,Charles/MGH,Charles/MGH - Bottom of Ashmont/Braintree platform stairs,,,,,,,,level_in_street,3,place-chmnl,1
+node-chmnl-sbstairs-platform,,Charles/MGH,Charles/MGH - Top of Ashmont/Braintree platform stairs,,,,,,,,level_1_platform,3,place-chmnl,1
 place-chncl,,Chinatown,,,,42.352547,-71.062752,,"Washington Street and Boylston Street, Boston, MA",https://www.mbta.com/stops/place-chncl,,1,,1
 70018,70018,Chinatown,Chinatown - Orange Line - Forest Hills,,Forest Hills,42.352547,-71.062752,,,https://www.mbta.com/stops/place-chncl,level_-1_platform,0,place-chncl,1
 70019,70019,Chinatown,Chinatown - Orange Line - Oak Grove,,Oak Grove,42.352547,-71.062752,,,https://www.mbta.com/stops/place-chncl,level_-1_platform,0,place-chncl,1
@@ -7978,12 +8110,44 @@ door-cntsq-obmass,,Central - Mass Ave,Central - Mass Ave,,,42.365541,-71.103749,
 door-cntsq-pearl,,Central - Pearl St,Central - Pearl St,,,42.364831,-71.102989,,,,level_in_street,2,place-cntsq,2
 door-cntsq-prospect,,Central - Prospect St,Central - Prospect St,,,42.365778,-71.104131,,,,level_in_street,2,place-cntsq,2
 door-cntsq-western,,Central - Western Ave,Central - Western Ave,,,42.365635,-71.104304,,,,level_in_street,2,place-cntsq,2
+node-cntsq-359-platform,,Central,Central - Bottom of Escalator 359 for Massachusetts Ave,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-360-platform,,Central,Central - Bottom of Escalator 360 for Massachusetts Ave,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-860-platform,,Central,Central - Bottom of Elevator 860 for Massachusetts Ave,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-861-platform,,Central,Central - Bottom of Elevator 861 for Massachusetts Ave,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-essexstair-farepaid,,Central,Central - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-essexstair-fareunpaid,,Central,Central - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-essexstair-platform,,Central,Central - Bottom of stairs for Essex St,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-ibstair-farepaid,,Central,Central - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-ibstair-fareunpaid,,Central,Central - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-ibstair-platform,,Central,Central - Bottom of stairs for Massachusetts Ave,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-obstair-farepaid,,Central,Central - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-obstair-fareunpaid,,Central,Central - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-obstair-platform,,Central,Central - Bottom of stairs for Massachusetts Ave,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-pearlstair-farepaid,,Central,Central - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-pearlstair-fareunpaid,,Central,Central - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-pearlstair-platform,,Central,Central - Bottom of stairs for Pearl St,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-prospectstair-farepaid,,Central,Central - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-prospectstair-fareunpaid,,Central,Central - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-prospectstair-platform,,Central,Central - Bottom of stairs for Prospect St,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-westernstair-farepaid,,Central,Central - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-westernstair-fareunpaid,,Central,Central - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-cntsq,1
+node-cntsq-westernstair-platform,,Central,Central - Bottom of stairs for Western Ave,,,,,,,,level_-1_platform,3,place-cntsq,1
 place-coecl,,Copley,,,,42.349974,-71.077447,,"Boylston St and Dartmouth St, Boston, MA",https://www.mbta.com/stops/place-coecl,,1,,1
 70154,70154,Copley,Copley - Green Line - Park Street & North,,Park Street & North,42.349871,-71.078049,,,https://www.mbta.com/stops/place-coecl,level_-1_platform,0,place-coecl,1
 70155,70155,Copley,Copley - Green Line - Kenmore & West/(E) Heath Street,,Kenmore & West/Heath Street,42.350126,-71.077376,,,https://www.mbta.com/stops/place-coecl,level_-1_platform,0,place-coecl,1
 door-coecl-bpl,,Copley - Boylston St,Copley - Boylston St,,,42.349799,-71.078026,,,,level_in_street,2,place-coecl,2
 door-coecl-church,,"Copley - Dartmouth St, Old South Church","Copley - Dartmouth St, Old South Church",,,42.350194,-71.077551,,,,level_in_street,2,place-coecl,1
 door-coecl-east,,Copley - Dartmouth St (East),Copley - Dartmouth St (East),,,42.350312,-71.077382,,,,level_in_street,2,place-coecl,2
+node-coecl-439-platform,,Copley,Copley - Bottom of Escalator 439 from westbound platform,,,,,,,,level_-1_platform,3,place-coecl,1
+node-coecl-976-platform,,Copley,Copley - Bottom of Park Street & East platform Elevator 976,,,,,,,,level_-1_platform,3,place-coecl,1
+node-coecl-977-platform,,Copley,Copley - Bottom of westbound platform Elevator 977,,,,,,,,level_-1_platform,3,place-coecl,1
+node-coecl-bplstair-platform,,Copley,Copley - Bottom of westbound platform stairs,,,,,,,,level_-1_platform,3,place-coecl,1
+node-coecl-churchstair-platform,,Copley,Copley - Bottom of Old South Church stairs,,,,,,,,level_-1_platform,3,place-coecl,1
+node-coecl-eaststair-platform,,Copley,Copley - Bottom of northeast stairs,,,,,,,,level_-1_platform,3,place-coecl,1
+node-coecl-ebfarepaid,,Copley,Copley - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-coecl,1
+node-coecl-ebfareunpaid,,Copley,Copley - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-coecl,1
+node-coecl-wbfarepaid,,Copley,Copley - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-coecl,1
+node-coecl-wbfareunpaid,,Copley,Copley - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-coecl,1
 place-cool,,Coolidge Corner,,,,42.342116,-71.121263,,"Beacon St and Harvard St, Brookline, MA",https://www.mbta.com/stops/place-cool,,1,,1
 1308,1308,Harvard St @ Beacon St,,,,42.342499,-71.121845,,,https://www.mbta.com/stops/place-cool,,0,place-cool,1
 1372,1372,Harvard St @ Beacon St,,,,42.341909,-71.121143,,,https://www.mbta.com/stops/place-cool,,0,place-cool,1
@@ -8002,6 +8166,38 @@ place-davis,,Davis,,,,42.396740,-71.121815,,"College Ave and Elm St, Somerville,
 70064,70064,Davis,Davis - Red Line - Alewife,,Alewife,42.396740,-71.121815,,,https://www.mbta.com/stops/place-davis,level_-2_platform,0,place-davis,1
 door-davis-busway,,"Davis - College Ave, Tufts University, Buses","Davis - College Ave, Tufts University, Buses",,,42.396742,-71.121989,,,,level_in_street,2,place-davis,1
 door-davis-holland,,"Davis - Holland St, Buses","Davis - Holland St, Buses",,,42.396992,-71.123191,,,,level_in_street,2,place-davis,2
+node-336-entrance,,Davis,Davis - Top of Escalator 336,,,,,,,,level_in_street,3,place-davis,1
+node-336-middle,,Davis,Davis - Bottom of Escalator 336,,,,,,,,level_-1_lobby,3,place-davis,1
+node-337-entrance,,Davis,Davis - Top of Escalator 337,,,,,,,,level_in_street,3,place-davis,1
+node-337-middle,,Davis,Davis - Bottom of Escalator 337,,,,,,,,level_-1_lobby,3,place-davis,1
+node-338-lobby,,Davis,Davis - Bottom of Escalator 338,,,,,,,,level_-1_lobby,3,place-davis,1
+node-338-middle,,Davis,Davis - Top of Escalator 338,,,,,,,,level_-1_lobby,3,place-davis,1
+node-339-lobby,,Davis,Davis - Bottom of Escalator 339,,,,,,,,level_-1_lobby,3,place-davis,1
+node-339-middle,,Davis,Davis - Top of Escalator 339,,,,,,,,level_-1_lobby,3,place-davis,1
+node-340-lobby,,Davis,Davis - Top of Escalator 340,,,,,,,,level_-1_lobby,3,place-davis,1
+node-340-platform,,Davis,Davis - Bottom of Escalator 340,,,,,,,,level_-2_platform,3,place-davis,1
+node-341-lobby,,Davis,Davis - Top of Escalator 341,,,,,,,,level_-1_lobby,3,place-davis,1
+node-341-platform,,Davis,Davis - Bottom of Escalator 341,,,,,,,,level_-2_platform,3,place-davis,1
+node-342-entrance,,Davis,Davis - Top of Escalator 342,,,,,,,,level_in_street,3,place-davis,1
+node-342-lobby,,Davis,Davis - Bottom of Escalator 342,,,,,,,,level_-1_lobby,3,place-davis,1
+node-343-entrance,,Davis,Davis - Top of Escalator 343,,,,,,,,level_in_street,3,place-davis,1
+node-343-lobby,,Davis,Davis - Bottom of Escalator 343,,,,,,,,level_-1_lobby,3,place-davis,1
+node-816-lobby,,Davis,Davis - Top of Elevator 816,,,,,,,,level_-1_lobby,3,place-davis,1
+node-816-platform,,Davis,Davis - Bottom of Elevator 816,,,,,,,,level_-2_platform,3,place-davis,1
+node-817-entrance,,Davis,Davis - Top of Elevator 817,,,,,,,,level_in_street,3,place-davis,1
+node-817-lobby,,Davis,Davis - Bottom of Elevator 817,,,,,,,,level_-1_lobby,3,place-davis,1
+node-davis-340stair-lobby,,Davis,Davis - Top of southern stairs for platform,,,,,,,,level_-1_lobby,3,place-davis,1
+node-davis-340stair-platform,,Davis,Davis - Bottom of southern stairs for platform,,,,,,,,level_-2_platform,3,place-davis,1
+node-davis-341stair-lobby,,Davis,Davis - Top of northern stairs for platform,,,,,,,,level_-1_lobby,3,place-davis,1
+node-davis-341stair-platform,,Davis,Davis - Bottom of northern stairs for platform,,,,,,,,level_-2_platform,3,place-davis,1
+node-davis-colstairlow-lobby,,Davis,Davis - Bottom of stairs for College Avenue,,,,,,,,level_-1_lobby,3,place-davis,1
+node-davis-colstairlow-middle,,Davis,Davis - Top of lower stairs for College Avenue,,,,,,,,level_-1_lobby,3,place-davis,1
+node-davis-colstairup-entrance,,Davis,Davis - Top of stairs for College Avenue,,,,,,,,level_in_street,3,place-davis,1
+node-davis-colstairup-middle,,Davis,Davis - Bottom of upper stairs for College Avenue,,,,,,,,level_-1_lobby,3,place-davis,1
+node-davis-farepaid,,Davis,Davis - Paid side of fare gates,,,,,,,,level_-1_lobby,3,place-davis,1
+node-davis-fareunpaid,,Davis,Davis - Unpaid side of fare gates,,,,,,,,level_-1_lobby,3,place-davis,1
+node-davis-holland-entrance,,Davis,Davis - Top of stairs for Holland Street,,,,,,,,level_in_street,3,place-davis,1
+node-davis-holland-lobby,,Davis,Davis - Bottom of stairs for Holland Street,,,,,,,,level_in_street,3,place-davis,1
 place-denrd,,Dean Road,,,,42.337807,-71.141853,,"Beacon St and Dean Rd, Brookline, MA",https://www.mbta.com/stops/place-denrd,,1,,2
 70233,70233,Dean Road,Dean Road - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.337807,-71.141753,,,https://www.mbta.com/stops/place-denrd,level_median,0,place-denrd,2
 70234,70234,Dean Road,Dean Road - Green Line - Park Street & North,,Park Street & North,42.337628,-71.142309,,,https://www.mbta.com/stops/place-denrd,level_median,0,place-denrd,2
@@ -8089,6 +8285,14 @@ place-grnst,,Green Street,,,,42.310525,-71.107414,,"150 Green St, Jamaica Plain,
 9070002,9070002,Green Street,Amory St @ Green St - Orange Line Forest Hills Shuttle,,Forest Hills Shuttle,42.310334,-71.107185,,,https://www.mbta.com/stops/place-grnst,,0,place-grnst,1
 9070003,9070003,Green Street,Amory St @ Green St - Orange Line Oak Grove Shuttle,,Oak Grove Shuttle,42.310583,-71.106840,,,https://www.mbta.com/stops/place-grnst,,0,place-grnst,1
 door-grnst-main,,"Green Street - Woolsey Sq, Green St, Amory St","Green Street - Woolsey Sq, Green St, Amory St",,,42.310556,-71.107519,,,,level_in_street,2,place-grnst,1
+node-grnst-131-lobby,,Green Street,Green Street - Top of Escalator 131,,,,,,,,level_in_street,3,place-grnst,1
+node-grnst-131-platform,,Green Street,Green Street - Bottom of Escalator 131,,,,,,,,level_-1_platform,3,place-grnst,1
+node-grnst-844-lobby,,Green Street,Green Street - Top of Elevator 844,,,,,,,,level_in_street,3,place-grnst,1
+node-grnst-844-platform,,Green Street,Green Street - Bottom of Elevator 844,,,,,,,,level_-1_platform,3,place-grnst,1
+node-grnst-farepaid,,Green Street,Green Street - Paid side of fare gates,,,,,,,,level_in_street,3,place-grnst,1
+node-grnst-fareunpaid,,Green Street,Green Street - Unpaid side of fare gates,,,,,,,,level_in_street,3,place-grnst,1
+node-grnst-stairs-lobby,,Green Street,Green Street - Top of stairs,,,,,,,,level_in_street,3,place-grnst,1
+node-grnst-stairs-platform,,Green Street,Green Street - Bottom of stairs,,,,,,,,level_-1_platform,3,place-grnst,1
 place-haecl,,Haymarket,,,,42.363021,-71.058290,,"136 Blackstone St, Boston, MA 02109",https://www.mbta.com/stops/place-haecl,,1,,1
 70024,70024,Haymarket,Haymarket - Orange Line - Forest Hills,3,Forest Hills,42.363021,-71.058290,,,https://www.mbta.com/stops/place-haecl,level_-1_orange_platform,0,place-haecl,1
 70025,70025,Haymarket,Haymarket - Orange Line - Oak Grove,4,Oak Grove,42.363021,-71.058290,,,https://www.mbta.com/stops/place-haecl,level_-1_orange_platform,0,place-haecl,1
@@ -8127,12 +8331,34 @@ place-hymnl,,Hynes Convention Center,,,,42.347888,-71.087903,,"100 Massachusetts
 93,93,Massachusetts Ave @ Newbury St,,,,42.348005,-71.088033,,,https://www.mbta.com/stops/place-hymnl,,0,place-hymnl,1
 door-hymnl-mass,,"Hynes Convention Center - Massachusetts Ave, Buses","Hynes Convention Center - Massachusetts Ave, Buses",,,42.347837,-71.087825,,,,level_in_street,2,place-hymnl,2
 door-hymnl-newbury,,Hynes Convention Center - Newbury St,Hynes Convention Center - Newbury St,,,42.348151,-71.087555,,,,level_in_street,2,place-hymnl,2
+node-315-platform,,Hynes Convention Center,Hynes Convention Center - Bottom of Escalator 315,,,,,,,,level_-2_platform,3,place-hymnl,1
+node-315-top,,Hynes Convention Center,Hynes Convention Center - Top of Escalator 315,,,,,,,,level_-1_lobby,3,place-hymnl,1
+node-hymnl-ebstairs-lobby,,Hynes Convention Center,Hynes Convention Center - Top of stairs for Park Street & North,,,,,,,,level_-1_lobby,3,place-hymnl,1
+node-hymnl-ebstairs-platform,,Hynes Convention Center,Hynes Convention Center - Bottom of stairs for Park Street & North,,,,,,,,level_-2_platform,3,place-hymnl,1
+node-hymnl-farepaid,,Hynes Convention Center,Hynes Convention Center - Paid side of fare gates,,,,,,,,level_-1_lobby,3,place-hymnl,1
+node-hymnl-fareunpaid,,Hynes Convention Center,Hynes Convention Center - Unpaid side of fare gates,,,,,,,,level_-1_lobby,3,place-hymnl,1
+node-hymnl-massentrance,,Hynes Convention Center,Hynes Convention Center - Bottom of stairs for Massachusetts Avenue,,,,,,,,level_-1_lobby,3,place-hymnl,1
+node-hymnl-newbury-farepaid,,Hynes Convention Center,Hynes Convention Center - Top of stairs for Newbury Street exit,,,,,,,,level_in_street,3,place-hymnl,1
+node-hymnl-newbury-fareunpaid,,Hynes Convention Center,Hynes Convention Center - Unpaid side of exit gate,,,,,,,,level_in_street,3,place-hymnl,1
+node-hymnl-newburyexit,,Hynes Convention Center,Hynes Convention Center - Bottom of stairs for Newbury Street exit,,,,,,,,level_-1_lobby,3,place-hymnl,1
+node-hymnl-wbstairs-lobby,,Hynes Convention Center,Hynes Convention Center - Top of stairs for Kenmore & West,,,,,,,,level_-1_lobby,3,place-hymnl,1
+node-hymnl-wbstairs-midblobby,,Hynes Convention Center,Hynes Convention Center - Platform end of middle landing,,,,,,,,level_-1_lobby,3,place-hymnl,1
+node-hymnl-wbstairs-midtlobby,,Hynes Convention Center,Hynes Convention Center - Lobby end of middle landing,,,,,,,,level_-1_lobby,3,place-hymnl,1
+node-hymnl-wbstairs-platform,,Hynes Convention Center,Hynes Convention Center - Bottom of stairs for Kenmore & West,,,,,,,,level_-2_platform,3,place-hymnl,1
 place-jaksn,,Jackson Square,,,,42.323132,-71.099592,,"1500 Columbus Ave, Jamaica Plain, MA",https://www.mbta.com/stops/place-jaksn,,1,,1
 11531,11531,Jackson Square,Jackson Square - Busway,,Busway,42.323074,-71.099546,,,https://www.mbta.com/stops/place-jaksn,level_ground,0,place-jaksn,0
 70006,70006,Jackson Square,Jackson Square - Orange Line - Forest Hills,,Forest Hills,42.323132,-71.099592,,,https://www.mbta.com/stops/place-jaksn,level_-1_platform,0,place-jaksn,1
 70007,70007,Jackson Square,Jackson Square - Orange Line - Oak Grove,,Oak Grove,42.323132,-71.099592,,,https://www.mbta.com/stops/place-jaksn,level_-1_platform,0,place-jaksn,1
 9070007,9070007,Jackson Square,Centre St opp Jackson Square Busway - Orange Line Oak Grove Shuttle,,Oak Grove Shuttle,42.322675,-71.099969,,,https://www.mbta.com/stops/place-jaksn,,0,place-jaksn,1
 door-jaksn-main,,"Jackson Square - Centre St, Busway, Park","Jackson Square - Centre St, Busway, Park",,,42.323014,-71.099879,,,,level_ground,2,place-jaksn,1
+node-jaksn-133-lobby,,Jackson Square,Jackson Square - Top of Escalator 133,,,,,,,,level_ground,3,place-jaksn,1
+node-jaksn-133-platform,,Jackson Square,Jackson Square - Bottom of Escalator 133,,,,,,,,level_-1_platform,3,place-jaksn,1
+node-jaksn-846-lobby,,Jackson Square,Jackson Square - Top of Elevator 846,,,,,,,,level_ground,3,place-jaksn,1
+node-jaksn-846-platform,,Jackson Square,Jackson Square - Bottom of Elevator 846,,,,,,,,level_-1_platform,3,place-jaksn,1
+node-jaksn-farepaid,,Jackson Square,Jackson Square - Paid side of fare gates,,,,,,,,level_ground,3,place-jaksn,1
+node-jaksn-fareunpaid,,Jackson Square,Jackson Square - Unpaid side of fare gates,,,,,,,,level_ground,3,place-jaksn,1
+node-jaksn-stairs-lobby,,Jackson Square,Jackson Square - Top of stairs,,,,,,,,level_ground,3,place-jaksn,1
+node-jaksn-stairs-platform,,Jackson Square,Jackson Square - Bottom of stairs,,,,,,,,level_-1_platform,3,place-jaksn,1
 place-jfk,,JFK/UMass,,,,42.320685,-71.052391,CR-zone-1A,"599 Old Colony Ave Boston, MA 02127-3805",https://www.mbta.com/stops/place-jfk,,1,,1
 121,121,JFK/UMass,JFK/UMass - Busway,,Busway,42.320511,-71.051780,,,https://www.mbta.com/stops/place-jfk,level_ground,0,place-jfk,0
 70085,70085,JFK/UMass,JFK/UMass - Red Line - Ashmont,,Ashmont,42.320685,-71.052391,,,https://www.mbta.com/stops/place-jfk,level_0_red_platform,0,place-jfk,1
@@ -8165,6 +8391,30 @@ door-knncl-nbmain,,"Kendall/MIT - Main St, Buses, Cambridge Center","Kendall/MIT
 door-knncl-nbsecond,,"Kendall/MIT - Main St, Third St","Kendall/MIT - Main St, Third St",,,42.362439,-71.084837,,,,level_in_street,2,place-knncl,2
 door-knncl-sbmain,,"Kendall/MIT - Main St, Buses, Cambridge Center","Kendall/MIT - Main St, Buses, Cambridge Center",,,42.362259,-71.086206,,,,level_in_street,2,place-knncl,1
 door-knncl-sbsecond,,"Kendall/MIT - Main St, Third St","Kendall/MIT - Main St, Third St",,,42.362232,-71.084862,,,,level_in_street,2,place-knncl,2
+node-361-entrance,,Kendall/MIT,Kendall/MIT - Top of Escalator 361,,,,,,,,level_in_street,3,place-knncl,1
+node-361-platform,,Kendall/MIT,Kendall/MIT - Bottom of Escalator 361,,,,,,,,level_-1_platform,3,place-knncl,1
+node-362-entrance,,Kendall/MIT,Kendall/MIT - Top of Escalator 362,,,,,,,,level_in_street,3,place-knncl,1
+node-362-platform,,Kendall/MIT,Kendall/MIT - Bottom of Escalator 362,,,,,,,,level_-1_platform,3,place-knncl,1
+node-863-entrance,,Kendall/MIT,Kendall/MIT - Top of Elevator 863,,,,,,,,level_in_street,3,place-knncl,1
+node-863-platform,,Kendall/MIT,Kendall/MIT - Bottom of Elevator 863,,,,,,,,level_-1_platform,3,place-knncl,1
+node-866-entrance,,Kendall/MIT,Kendall/MIT - Top of Elevator 866,,,,,,,,level_in_street,3,place-knncl,1
+node-866-platform,,Kendall/MIT,Kendall/MIT - Bottom of Elevator 866,,,,,,,,level_-1_platform,3,place-knncl,1
+node-knncl-backnbstair-entrance,,Kendall/MIT,Kendall/MIT - Stairs street level,,,,,,,,level_in_street,3,place-knncl,1
+node-knncl-backnbstair-platform,,Kendall/MIT,Kendall/MIT - Stairs platform level,,,,,,,,level_-1_platform,3,place-knncl,1
+node-knncl-backsbstair-entrance,,Kendall/MIT,Kendall/MIT - Stairs street level,,,,,,,,level_in_street,3,place-knncl,1
+node-knncl-backsbstair-platform,,Kendall/MIT,Kendall/MIT - Stairs platform level,,,,,,,,level_-1_platform,3,place-knncl,1
+node-knncl-frontnbstair-entrance,,Kendall/MIT,Kendall/MIT - Stairs street level,,,,,,,,level_in_street,3,place-knncl,1
+node-knncl-frontnbstair-platform,,Kendall/MIT,Kendall/MIT - Stairs platform level,,,,,,,,level_-1_platform,3,place-knncl,1
+node-knncl-frontsbstair-entrance,,Kendall/MIT,Kendall/MIT - Stairs street level,,,,,,,,level_in_street,3,place-knncl,1
+node-knncl-frontsbstair-platform,,Kendall/MIT,Kendall/MIT - Stairs platform level,,,,,,,,level_-1_platform,3,place-knncl,1
+node-knncl-nbmain-farepaid,,Kendall/MIT,Kendall/MIT - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-knncl,1
+node-knncl-nbmain-fareunpaid,,Kendall/MIT,Kendall/MIT - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-knncl,1
+node-knncl-nbsec-farepaid,,Kendall/MIT,Kendall/MIT - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-knncl,1
+node-knncl-nbsec-fareunpaid,,Kendall/MIT,Kendall/MIT - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-knncl,1
+node-knncl-sbmain-farepaid,,Kendall/MIT,Kendall/MIT - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-knncl,1
+node-knncl-sbmain-fareunpaid,,Kendall/MIT,Kendall/MIT - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-knncl,1
+node-knncl-sbsec-farepaid,,Kendall/MIT,Kendall/MIT - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-knncl,1
+node-knncl-sbsec-fareunpaid,,Kendall/MIT,Kendall/MIT - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-knncl,1
 place-kntst,,Kent Street,,,,42.344074,-71.114197,,"Beacon St and Powell St, Brookline, MA",https://www.mbta.com/stops/place-kntst,,1,,2
 70215,70215,Kent Street,Kent Street - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.344117,-71.114097,,,https://www.mbta.com/stops/place-kntst,level_median,0,place-kntst,2
 70216,70216,Kent Street,Kent Street - Green Line - Park Street & North,,Park Street & North,42.343927,-71.114569,,,https://www.mbta.com/stops/place-kntst,level_median,0,place-kntst,2
@@ -8180,6 +8430,8 @@ place-lech,,Lechmere,,,,42.370772,-71.076536,,"Cambridge St and O'Brien Hwy, Cam
 70210,70210,Lechmere,Lechmere - Green Line - Copley & West,,Copley & West,42.370911,-71.077095,,,https://www.mbta.com/stops/place-lech,level_ground,0,place-lech,1
 door-lech-entrance,,Lechmere - Entrance,Lechmere - Entrance,,,42.370914,-71.077483,,,,level_ground,2,place-lech,1
 door-lech-exit,,Lechmere - Exit Only,Lechmere - Exit Only,,,42.371139,-71.077292,,,,level_ground,2,place-lech,1
+node-lech-farepaid,,Lechmere,Lechmere - Paid side of fare gates,,,,,,,,level_ground,3,place-lech,1
+node-lech-fareunpaid,,Lechmere,Lechmere - Unpaid side of fare gates,,,,,,,,level_ground,3,place-lech,1
 place-lngmd,,Longwood Medical Area,,,,42.335960,-71.100052,,"Huntington Ave and Longwood Ave, Boston, MA 02115",https://www.mbta.com/stops/place-lngmd,,1,,1
 70247,70247,Longwood Medical Area,Longwood Medical Area - Green Line - (E) Heath Street,,Heath Street,42.336080,-71.099883,,,https://www.mbta.com/stops/place-lngmd,level_median,0,place-lngmd,1
 70248,70248,Longwood Medical Area,Longwood Medical Area - Green Line - Park Street & North,,Park Street & North,42.336217,-71.099328,,,https://www.mbta.com/stops/place-lngmd,level_median,0,place-lngmd,1
@@ -8200,6 +8452,24 @@ door-masta-camden,,Massachusetts Avenue - Camden St,Massachusetts Avenue - Camde
 door-masta-corridor,,Massachusetts Avenue - Massachusetts Ave (Northside),Massachusetts Avenue - Massachusetts Ave (Northside),,,42.341773,-71.083167,,,,level_in_street,2,place-masta,1
 door-masta-main,,Massachusetts Avenue - Massachusetts Ave (Southside),Massachusetts Avenue - Massachusetts Ave (Southside),,,42.341551,-71.083436,,,,level_in_street,2,place-masta,1
 door-masta-side,,Massachusetts Avenue - Southwest Corridor Park,Massachusetts Avenue - Southwest Corridor Park,,,42.341364,-71.083434,,,,level_ground,2,place-masta,1
+node-masta-139-lobby,,Massachusetts Avenue,Massachusetts Avenue - Top of Escalator 139,,,,,,,,level_ground,3,place-masta,1
+node-masta-139-platform,,Massachusetts Avenue,Massachusetts Avenue - Bottom of Escalator 139,,,,,,,,level_-1_platform,3,place-masta,1
+node-masta-852-lobby,,Massachusetts Avenue,Massachusetts Avenue - Top of Elevator 852,,,,,,,,level_ground,3,place-masta,1
+node-masta-852-platform,,Massachusetts Avenue,Massachusetts Avenue - Bottom of Elevator 852,,,,,,,,level_-1_platform,3,place-masta,1
+node-masta-camdstair-platform,,Massachusetts Avenue,Massachusetts Avenue - Bottom of Camden St stairs,,,,,,,,level_-1_platform,3,place-masta,1
+node-masta-farepaid,,Massachusetts Avenue,Massachusetts Avenue - Paid side of fare gates,,,,,,,,level_ground,3,place-masta,1
+node-masta-fareunpaid,,Massachusetts Avenue,Massachusetts Avenue - Unpaid side of fare gates,,,,,,,,level_ground,3,place-masta,1
+node-masta-mainstair-lobby,,Massachusetts Avenue,Massachusetts Avenue - Top of lobby stairs from platform,,,,,,,,level_ground,3,place-masta,1
+node-masta-mainstair-platform,,Massachusetts Avenue,Massachusetts Avenue - Bottom of platform stairs from lobby,,,,,,,,level_-1_platform,3,place-masta,1
+node-masta-undernorth-lobby,,Massachusetts Avenue,Massachusetts Avenue - Top of stairs to north end of underpass,,,,,,,,level_ground,3,place-masta,1
+node-masta-undernorth-way,,Massachusetts Avenue,Massachusetts Avenue - North end of Massachusetts Ave underpass,,,,,,,,level_-1_platform,3,place-masta,1
+node-masta-undersouth-lobby,,Massachusetts Avenue,Massachusetts Avenue - Top of stairs to south end of underpass,,,,,,,,level_ground,3,place-masta,1
+node-masta-undersouth-way,,Massachusetts Avenue,Massachusetts Avenue - South end of Massachusetts Ave underpass,,,,,,,,level_-1_platform,3,place-masta,1
+node-masta-unpaid-lobby,,Massachusetts Avenue,Massachusetts Avenue - Unpaid lobby,,,,,,,,level_ground,3,place-masta,1
+node-masta-unpramp-exit,,Massachusetts Avenue,Massachusetts Avenue - Top of ramp from main entrance,,,,,,,,level_ground,3,place-masta,1
+node-masta-unpramp-lobby,,Massachusetts Avenue,Massachusetts Avenue - Bottom of ramp from main entrance,,,,,,,,level_ground,3,place-masta,1
+node-masta-unpstair-exit,,Massachusetts Avenue,Massachusetts Avenue - Top of stairs from main entrance,,,,,,,,level_ground,3,place-masta,1
+node-masta-unpstair-lobby,,Massachusetts Avenue,Massachusetts Avenue - Bottom of stairs from main entrance,,,,,,,,level_ground,3,place-masta,1
 place-matt,,Mattapan,,,,42.267762,-71.092241,,"500 River St, Boston, MA 02126",https://www.mbta.com/stops/place-matt,,1,,1
 185,185,Mattapan,Mattapan - North Busway,,North Busway,42.267715,-71.092067,,,https://www.mbta.com/stops/place-matt,level_ground,0,place-matt,0
 18511,18511,Mattapan,Mattapan - South Busway,,South Busway,42.267508,-71.091726,,,https://www.mbta.com/stops/place-matt,level_ground,0,place-matt,0
@@ -8314,6 +8584,30 @@ place-orhte,,Orient Heights,,,,42.386867,-71.004736,,"1000 Bennington St, East B
 70052,70052,Orient Heights,Orient Heights - Blue Line - Wonderland,,Wonderland,42.386867,-71.004736,,,https://www.mbta.com/stops/place-orhte,level_0_platform,0,place-orhte,1
 door-orhte-benning,,Orient Heights - Bennington St,Orient Heights - Bennington St,,,42.387080,-71.004664,,,,level_ground,2,place-orhte,1
 door-orhte-saratoga,,"Orient Heights - Saratoga St, Barnes Ave","Orient Heights - Saratoga St, Barnes Ave",,,42.386862,-71.004364,,,,level_ground,2,place-orhte,1
+node-440-bridge,,Orient Heights,Orient Heights - Top of Escalator 440,,,,,,,,level_1_bridge,3,place-orhte,1
+node-440-platform,,Orient Heights,Orient Heights - Bottom of Escalator 440,,,,,,,,level_0_platform,3,place-orhte,1
+node-441-bridge,,Orient Heights,Orient Heights - Top of Escalator 441,,,,,,,,level_1_bridge,3,place-orhte,1
+node-441-platform,,Orient Heights,Orient Heights - Bottom of Escalator 441,,,,,,,,level_0_platform,3,place-orhte,1
+node-712-bridge,,Orient Heights,Orient Heights - Top of Elevator 712,,,,,,,,level_1_bridge,3,place-orhte,1
+node-712-platform,,Orient Heights,Orient Heights - Bottom of Elevator 712,,,,,,,,level_0_platform,3,place-orhte,1
+node-713-bridge,,Orient Heights,Orient Heights - Top of Elevator 713,,,,,,,,level_1_bridge,3,place-orhte,1
+node-713-street,,Orient Heights,Orient Heights - Bottom of Elevator 713,,,,,,,,level_ground,3,place-orhte,1
+node-714-bridge,,Orient Heights,Orient Heights - Top of Elevator 714,,,,,,,,level_1_bridge,3,place-orhte,1
+node-714-platform,,Orient Heights,Orient Heights - Bottom of Elevator 714,,,,,,,,level_0_platform,3,place-orhte,1
+node-715-bridge,,Orient Heights,Orient Heights - Top of Elevator 715,,,,,,,,level_1_bridge,3,place-orhte,1
+node-715-street,,Orient Heights,Orient Heights - Bottom of Elevator 715,,,,,,,,level_ground,3,place-orhte,1
+node-orhte-benn-farepaid,,Orient Heights,Orient Heights - Paid side of fare gates,,,,,,,,level_0_platform,3,place-orhte,1
+node-orhte-benn-fareunpaid,,Orient Heights,Orient Heights - Unpaid side of fare gates,,,,,,,,level_ground,3,place-orhte,1
+node-orhte-ibpaidstairs-bridge,,Orient Heights,Orient Heights - Top of stairs for Bowdoin,,,,,,,,level_1_bridge,3,place-orhte,1
+node-orhte-ibpaidstairs-platform,,Orient Heights,Orient Heights - Bottom of stairs for Bowdoin,,,,,,,,level_0_platform,3,place-orhte,1
+node-orhte-ibunpaidstairs-bridge,,Orient Heights,Orient Heights - Top of stairs for Bennington Street,,,,,,,,level_1_bridge,3,place-orhte,1
+node-orhte-ibunpaidstairs-street,,Orient Heights,Orient Heights - Bottom of stairs for Bennington Street,,,,,,,,level_ground,3,place-orhte,1
+node-orhte-obpaidstairs-bridge,,Orient Heights,Orient Heights - Top of stairs for Wonderland,,,,,,,,level_1_bridge,3,place-orhte,1
+node-orhte-obpaidstairs-platform,,Orient Heights,Orient Heights - Bottom of stairs for Wonderland,,,,,,,,level_0_platform,3,place-orhte,1
+node-orhte-obunpaidstairs-bridge,,Orient Heights,Orient Heights - Top of stairs for Saratoga Street,,,,,,,,level_1_bridge,3,place-orhte,1
+node-orhte-obunpaidstairs-street,,Orient Heights,Orient Heights - Bottom of stairs for Saratoga Street,,,,,,,,level_ground,3,place-orhte,1
+node-orhte-sara-farepaid,,Orient Heights,Orient Heights - Paid side of fare gates,,,,,,,,level_0_platform,3,place-orhte,1
+node-orhte-sara-fareunpaid,,Orient Heights,Orient Heights - Unpaid side of fare gates,,,,,,,,level_ground,3,place-orhte,1
 place-pktrm,,Park Street,,,,42.356395,-71.062424,,"Tremont St and Winter St, Boston, MA 02108",https://www.mbta.com/stops/place-pktrm,,1,,1
 70075,70075,Park Street,Park Street - Red Line - Ashmont/Braintree,5,Ashmont/Braintree,42.356395,-71.062424,,,https://www.mbta.com/stops/place-pktrm,level_-2_red_platform,0,place-pktrm,1
 70076,70076,Park Street,Park Street - Red Line - Alewife,6,Alewife,42.356395,-71.062424,,,https://www.mbta.com/stops/place-pktrm,level_-2_red_platform,0,place-pktrm,1
@@ -8369,6 +8663,21 @@ place-qnctr,,Quincy Center,,,,42.251809,-71.005409,CR-zone-1A-1,"175 Thomas E Bu
 Quincy Center,,Quincy Center,Quincy Center - Commuter Rail,,Commuter Rail,42.251809,-71.005409,CR-zone-1A-1,,https://www.mbta.com/stops/place-qnctr,level_-1_cr_platform,0,place-qnctr,1
 door-qnctr-burgin,,Quincy Center - Burgin Parkway,Quincy Center - Burgin Parkway,,,42.251403,-71.005508,,,,level_1_in_street,2,place-qnctr,2
 door-qnctr-busway,,Quincy Center - Hancock St,Quincy Center - Hancock St,,,42.251586,-71.005003,,,,level_ground,2,place-qnctr,1
+node-330-entrance,,Quincy Center,Quincy Center - Top of Escalator 330,,,,,,,,level_ground,3,place-qnctr,1
+node-330-platform,,Quincy Center,Quincy Center - Bottom of Escalator 330,,,,,,,,level_-1_red_platform,3,place-qnctr,1
+node-810-platform,,Quincy Center,Quincy Center - Bottom of Elevator 810,,,,,,,,level_-1_red_platform,3,place-qnctr,1
+node-896-entrance,,Quincy Center,Quincy Center - Top of Elevator 896,,,,,,,,level_ground,3,place-qnctr,1
+node-896-platform,,Quincy Center,Quincy Center - Bottom of Elevator 896,,,,,,,,level_-1_cr_platform,3,place-qnctr,1
+node-qnctr-burgin-door,,Quincy Center,Quincy Center - Burgin Parkway entryway,,,,,,,,level_ground,3,place-qnctr,1
+node-qnctr-center-lobby,,Quincy Center,Quincy Center - Quincy Center lobby,,,,,,,,level_ground,3,place-qnctr,1
+node-qnctr-crstair-entrance,,Quincy Center,Quincy Center - Stairs lobby level,,,,,,,,level_ground,3,place-qnctr,1
+node-qnctr-crstair-platform,,Quincy Center,Quincy Center - Stairs platform level,,,,,,,,level_-1_cr_platform,3,place-qnctr,1
+node-qnctr-elevfarepaid,,Quincy Center,Quincy Center - Top of Elevator 810,,,,,,,,level_ground,3,place-qnctr,1
+node-qnctr-elevfareunpaid,,Quincy Center,Quincy Center - Fare control for Elevator 810,,,,,,,,level_ground,3,place-qnctr,1
+node-qnctr-farepaid,,Quincy Center,Quincy Center - Paid side of fare gates,,,,,,,,level_ground,3,place-qnctr,1
+node-qnctr-fareunpaid,,Quincy Center,Quincy Center - Unpaid side of fare gates,,,,,,,,level_ground,3,place-qnctr,1
+node-qnctr-rdstair-entrance,,Quincy Center,Quincy Center - Stairs lobby level,,,,,,,,level_ground,3,place-qnctr,1
+node-qnctr-rdstair-platform,,Quincy Center,Quincy Center - Stairs platform level,,,,,,,,level_-1_red_platform,3,place-qnctr,1
 place-rbmnl,,Revere Beach,,,,42.407843,-70.992533,,"220 Shirley Ave, Revere, MA",https://www.mbta.com/stops/place-rbmnl,,1,,1
 70057,70057,Revere Beach,Revere Beach - Blue Line - Bowdoin,1,Bowdoin,42.407843,-70.992533,,,https://www.mbta.com/stops/place-rbmnl,level_-1_platform,0,place-rbmnl,1
 70058,70058,Revere Beach,Revere Beach - Blue Line - Wonderland,2,Wonderland,42.407843,-70.992533,,,https://www.mbta.com/stops/place-rbmnl,level_-1_platform,0,place-rbmnl,1
@@ -8383,6 +8692,14 @@ place-rcmnl,,Roxbury Crossing,,,,42.331397,-71.095451,,"1400 Tremont St, Roxbury
 70009,70009,Roxbury Crossing,Roxbury Crossing - Orange Line - Oak Grove,,Oak Grove,42.331397,-71.095451,,,https://www.mbta.com/stops/place-rcmnl,level_-1_platform,0,place-rcmnl,1
 9070008,9070008,Roxbury Crossing,Columbus Ave @ Roxbury Crossing Station - Orange Line Forest Hills Shuttle,,Forest Hills Shuttle,42.331139,-71.095052,,,https://www.mbta.com/stops/place-rcmnl,,0,place-rcmnl,1
 door-rcmnl-tremont,,Roxbury Crossing - Tremont St,Roxbury Crossing - Tremont St,,,42.331415,-71.095480,,,,level_in_street,2,place-rcmnl,1
+node-rcmnl-134-lobby,,Roxbury Crossing,Roxbury Crossing - Top of Escalator 134,,,,,,,,level_in_street,3,place-rcmnl,1
+node-rcmnl-134-platform,,Roxbury Crossing,Roxbury Crossing - Bottom of Escalator 134,,,,,,,,level_-1_platform,3,place-rcmnl,1
+node-rcmnl-847-lobby,,Roxbury Crossing,Roxbury Crossing - Top of Elevator 847,,,,,,,,level_in_street,3,place-rcmnl,1
+node-rcmnl-847-platform,,Roxbury Crossing,Roxbury Crossing - Bottom of Elevator 847,,,,,,,,level_-1_platform,3,place-rcmnl,1
+node-rcmnl-farepaid,,Roxbury Crossing,Roxbury Crossing - Paid side of fare gates,,,,,,,,level_in_street,3,place-rcmnl,1
+node-rcmnl-fareunpaid,,Roxbury Crossing,Roxbury Crossing - Unpaid side of fare gates,,,,,,,,level_in_street,3,place-rcmnl,1
+node-rcmnl-stairs-lobby,,Roxbury Crossing,Roxbury Crossing - Top of stairs,,,,,,,,level_in_street,3,place-rcmnl,1
+node-rcmnl-stairs-platform,,Roxbury Crossing,Roxbury Crossing - Bottom of stairs,,,,,,,,level_-1_platform,3,place-rcmnl,1
 place-river,,Riverside,,,,42.337059,-71.251742,,"367 Grove St, Newton, MA 02466",https://www.mbta.com/stops/place-river,,1,,1
 38155,38155,Riverside,Riverside - Busway,,Busway,42.336666,-71.253304,,,https://www.mbta.com/stops/place-river,level_ground,0,place-river,0
 70160,70160,Riverside,Riverside - Green Line - Park Street & North,,Park Street & North,42.337283,-71.252385,,,https://www.mbta.com/stops/place-river,level_1_platform,0,place-river,1
@@ -8421,6 +8738,14 @@ place-sbmnl,,Stony Brook,,,,42.317062,-71.104248,,"100 Boylston St, Jamaica Plai
 9070004,9070004,Stony Brook,Boylston St @ Stony Brook - Orange Line Forest Hills Shuttle,,Forest Hills Shuttle,42.316940,-71.104203,,,https://www.mbta.com/stops/place-sbmnl,,0,place-sbmnl,1
 9070005,9070005,Stony Brook,Boylston St @ Stony Brook - Orange Line Oak Grove Shuttle,,Oak Grove Shuttle,42.317082,-71.104428,,,https://www.mbta.com/stops/place-sbmnl,,0,place-sbmnl,1
 door-sbmnl-main,,Stony Brook - Amory St,Stony Brook - Amory St,,,42.317100,-71.104216,,,,level_in_street,2,place-sbmnl,1
+node-sbmnl-132-lobby,,Stony Brook,Stony Brook - Top of Escalator 132,,,,,,,,level_in_street,3,place-sbmnl,1
+node-sbmnl-132-platform,,Stony Brook,Stony Brook - Bottom of Escalator 132,,,,,,,,level_-1_platform,3,place-sbmnl,1
+node-sbmnl-845-lobby,,Stony Brook,Stony Brook - Top of Elevator 845,,,,,,,,level_in_street,3,place-sbmnl,1
+node-sbmnl-845-platform,,Stony Brook,Stony Brook - Bottom of Elevator 845,,,,,,,,level_-1_platform,3,place-sbmnl,1
+node-sbmnl-farepaid,,Stony Brook,Stony Brook - Paid side of fare gates,,,,,,,,level_in_street,3,place-sbmnl,1
+node-sbmnl-fareunpaid,,Stony Brook,Stony Brook - Unpaid side of fare gates,,,,,,,,level_in_street,3,place-sbmnl,1
+node-sbmnl-stairs-lobby,,Stony Brook,Stony Brook - Top of stairs,,,,,,,,level_in_street,3,place-sbmnl,1
+node-sbmnl-stairs-platform,,Stony Brook,Stony Brook - Bottom of stairs,,,,,,,,level_-1_platform,3,place-sbmnl,1
 place-sdmnl,,Suffolk Downs,,,,42.390501,-70.997123,,"1230 Bennington St, East Boston, MA 02128",https://www.mbta.com/stops/place-sdmnl,,1,,1
 70053,70053,Suffolk Downs,Suffolk Downs - Blue Line - Bowdoin,1,Bowdoin,42.390501,-70.997123,,,https://www.mbta.com/stops/place-sdmnl,level_0_platform,0,place-sdmnl,1
 70054,70054,Suffolk Downs,Suffolk Downs - Blue Line - Wonderland,2,Wonderland,42.390501,-70.997123,,,https://www.mbta.com/stops/place-sdmnl,level_0_platform,0,place-sdmnl,1
@@ -8440,6 +8765,16 @@ place-smmnl,,Shawmut,,,,42.293126,-71.065738,,"Dayton St and Clementine Park, Do
 70091,70091,Shawmut,Shawmut - Red Line - Ashmont,,Ashmont,42.293126,-71.065738,,,https://www.mbta.com/stops/place-smmnl,level_-1_platform,0,place-smmnl,1
 70092,70092,Shawmut,Shawmut - Red Line - Alewife,,Alewife,42.293126,-71.065738,,,https://www.mbta.com/stops/place-smmnl,level_-1_platform,0,place-smmnl,1
 door-smmnl-clemen,,"Shawmut - Clementine Park, Centre St","Shawmut - Clementine Park, Centre St",,,42.293067,-71.065784,,,,level_ground,2,place-smmnl,1
+node-smmnl-953-lobby,,Shawmut,Shawmut - Top of Alewife Elevator 953,,,,,,,,level_ground,3,place-smmnl,1
+node-smmnl-953-platform,,Shawmut,Shawmut - Bottom of Alewife Elevator 953,,,,,,,,level_-1_platform,3,place-smmnl,1
+node-smmnl-954-lobby,,Shawmut,Shawmut - Top of Ashmont Elevator 954,,,,,,,,level_ground,3,place-smmnl,1
+node-smmnl-954-platform,,Shawmut,Shawmut - Bottom of Ashmont Elevator 954,,,,,,,,level_-1_platform,3,place-smmnl,1
+node-smmnl-farepaid,,Shawmut,Shawmut - Paid side of fare gates,,,,,,,,level_ground,3,place-smmnl,1
+node-smmnl-fareunpaid,,Shawmut,Shawmut - Unpaid side of fare gates,,,,,,,,level_ground,3,place-smmnl,1
+node-smmnl-nbstairs-lobby,,Shawmut,Shawmut - Top of Alewife stairs,,,,,,,,level_ground,3,place-smmnl,1
+node-smmnl-nbstairs-platform,,Shawmut,Shawmut - Bottom of Alewife stairs,,,,,,,,level_-1_platform,3,place-smmnl,1
+node-smmnl-sbstairs-lobby,,Shawmut,Shawmut - Top of Ashmont stairs,,,,,,,,level_ground,3,place-smmnl,1
+node-smmnl-sbstairs-platform,,Shawmut,Shawmut - Bottom of Ashmont stairs,,,,,,,,level_-1_platform,3,place-smmnl,1
 place-sougr,,South Street,,,,42.339600,-71.157661,,,https://www.mbta.com/stops/place-sougr,,1,,2
 70110,70110,South Street,South Street - Green Line - Park Street & North,,Park Street & North,42.339371,-71.157057,,,https://www.mbta.com/stops/place-sougr,level_median,0,place-sougr,2
 70111,70111,South Street,South Street - Green Line - (B) Boston College,,Boston College,42.339581,-71.157499,,,https://www.mbta.com/stops/place-sougr,level_median,0,place-sougr,2
@@ -8452,6 +8787,26 @@ door-spmnl-nashua,,"Science Park - Nashua St, Spaulding Rehab Hospital (Stairs)"
 door-spmnl-nashuael,,"Science Park - Nashua St, Spaulding Rehab Hospital (Elevator)","Science Park - Nashua St, Spaulding Rehab Hospital (Elevator)",,,42.366856,-71.067733,,,,level_ground,2,place-spmnl,1
 door-spmnl-obrien,,"Science Park - Monsignor O'Brien Hwy, Museum of Science (Stairs)","Science Park - Monsignor O'Brien Hwy, Museum of Science (Stairs)",,,42.366730,-71.067998,,,,level_ground,2,place-spmnl,2
 door-spmnl-obrienel,,"Science Park - Monsignor O'Brien Hwy, Museum of Science (Elevator)","Science Park - Monsignor O'Brien Hwy, Museum of Science (Elevator)",,,42.366650,-71.067966,,,,level_ground,2,place-spmnl,1
+node-980-lobby,,Science Park,Science Park - Mezzanine level of south side elevator,,,,,,,,level_1_lobby,3,place-spmnl,1
+node-980-platform,,Science Park,Science Park - Platform level of south side elevator,,,,,,,,level_2_platform,3,place-spmnl,1
+node-980-street,,Science Park,Science Park - Street level of south side elevator,,,,,,,,level_ground,3,place-spmnl,1
+node-981-lobby,,Science Park,Science Park - Mezzanine level of north side elevator,,,,,,,,level_1_lobby,3,place-spmnl,1
+node-981-platform,,Science Park,Science Park - Platform level of north side elevator,,,,,,,,level_2_platform,3,place-spmnl,1
+node-981-street,,Science Park,Science Park - Street level of north side elevator,,,,,,,,level_ground,3,place-spmnl,1
+node-spmnl-ibstairs-lobby,,Science Park,Science Park - Bottom of inbound platform stairs,,,,,,,,level_1_lobby,3,place-spmnl,1
+node-spmnl-ibstairs-platform,,Science Park,Science Park - Top of inbound platform stairs,,,,,,,,level_2_platform,3,place-spmnl,1
+node-spmnl-mfarepaid,,Science Park,Science Park - Paid side of faregates,,,,,,,,level_1_lobby,3,place-spmnl,1
+node-spmnl-mfareunpaid,,Science Park,Science Park - Unpaid side of faregates,,,,,,,,level_1_lobby,3,place-spmnl,1
+node-spmnl-nashuastairs-top,,Science Park,Science Park - Top of Nashua entrance stairs,,,,,,,,level_1_lobby,3,place-spmnl,1
+node-spmnl-nfarepaid,,Science Park,Science Park - Paid side of faregates,,,,,,,,level_1_lobby,3,place-spmnl,1
+node-spmnl-nfareunpaid,,Science Park,Science Park - Unpaid side of faregates,,,,,,,,level_1_lobby,3,place-spmnl,1
+node-spmnl-obrienstairs-top,,Science Park,Science Park - Top of O'Brien entrance stairs,,,,,,,,level_1_lobby,3,place-spmnl,1
+node-spmnl-obstairs-lobby,,Science Park,Science Park - Bottom of outbound platform stairs,,,,,,,,level_1_lobby,3,place-spmnl,1
+node-spmnl-obstairs-platform,,Science Park,Science Park - Top of outbound platform stairs,,,,,,,,level_2_platform,3,place-spmnl,1
+node-spmnl-ofarepaid,,Science Park,Science Park - Paid side of faregates,,,,,,,,level_1_lobby,3,place-spmnl,1
+node-spmnl-ofareunpaid,,Science Park,Science Park - Unpaid side of faregates,,,,,,,,level_1_lobby,3,place-spmnl,1
+node-spmnl-sfarepaid,,Science Park,Science Park - Paid side of faregates,,,,,,,,level_1_lobby,3,place-spmnl,1
+node-spmnl-sfareunpaid,,Science Park,Science Park - Unpaid side of faregates,,,,,,,,level_1_lobby,3,place-spmnl,1
 place-sstat,,South Station,,,,42.352271,-71.055242,CR-zone-1A,"700 Atlantic Ave, Boston, MA 02110",https://www.mbta.com/stops/place-sstat,,1,,1
 70079,70079,South Station,South Station - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.352271,-71.055242,,,https://www.mbta.com/stops/place-sstat,level_-3_red_platform,0,place-sstat,1
 70080,70080,South Station,South Station - Red Line - Alewife,,Alewife,42.352271,-71.055242,,,https://www.mbta.com/stops/place-sstat,level_-3_red_platform,0,place-sstat,1
@@ -8480,6 +8835,90 @@ door-sstat-outmain,,"South Station - Summer St, Atlantic Ave, Commuter Rail","So
 door-sstat-reserve,,"South Station - Atlantic Ave, Summer St","South Station - Atlantic Ave, Summer St",,,42.352677,-71.055013,,,,level_in_street,2,place-sstat,2
 door-sstat-summer,,South Station - Summer St,South Station - Summer St,,,42.351787,-71.054402,,,,level_in_street,2,place-sstat,1
 door-sstat-usps,,South Station - USPS Post Office,South Station - USPS Post Office,,,42.351108,-71.054729,,,,level_ground,2,place-sstat,1
+node-382-lobby,,South Station,South Station - Top of Escalator 382,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-382-rl,,South Station,South Station - Bottom of Escalator 382,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-386-lobby,,South Station,South Station - Bottom of Escalator 386,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-387-lobby,,South Station,South Station - Bottom of Escalator 387,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-388-lobby,,South Station,South Station - Top of Escalator 388,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-388-sl,,South Station,South Station - Bottom of Escalator 388,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-389-lobby,,South Station,South Station - Top of Escalator 389,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-389-rl,,South Station,South Station - Bottom of Escalator 389,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-390-rl,,South Station,South Station - Bottom of Escalator 390,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-390-sl,,South Station,South Station - Top of Escalator 390,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-398-rl,,South Station,South Station - Bottom of Escalator 398,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-398-sl,,South Station,South Station - Top of Escalator 398,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-399-lobby,,South Station,South Station - Top of Escalator 399,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-399-middle,,South Station,South Station - Bottom of Escalator 399,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-400-middle,,South Station,South Station - Top of Escalator 400,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-400-rl,,South Station,South Station - Bottom of Escalator 400,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-411-lobby,,South Station,South Station - Top of Escalator 411,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-411-sl,,South Station,South Station - Bottom of Escalator 411,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-419-lobby,,South Station,South Station - Top of Escalator 419,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-419-middle,,South Station,South Station - Bottom of Escalator 419,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-420-middle,,South Station,South Station - Top of Escalator 420,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-420-rl,,South Station,South Station - Bottom of Escalator 420,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-424-lobby,,South Station,South Station - Bottom of Escalator 424,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-6476-ground,,South Station,South Station - Top of Elevator 6476,,,,,,,,level_ground,3,place-sstat,1
+node-6476-lobby,,South Station,South Station - Bottom of Elevator 6476,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-901-lobby,,South Station,South Station - Lobby level of Elevator 901,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-901-rl,,South Station,South Station - Red Line level of Elevator 901,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-901-sl,,South Station,South Station - Silver Line level of Elevator 901,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-918-lobby,,South Station,South Station - Lobby level of Elevator 918,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-918-rl,,South Station,South Station - Red Line level of Elevator 918,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-918-sl,,South Station,South Station - Silver Line level of Elevator 918,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-919-rl,,South Station,South Station - Bottom of Elevator 919,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-919-sl,,South Station,South Station - Top of Elevator 919,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-926-lobby,,South Station,South Station - Bottom of Elevator 926,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-927-rl,,South Station,South Station - Bottom of Elevator 927,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-927-sl,,South Station,South Station - Top of Elevator 927,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-949-lobby,,South Station,South Station - Bottom of Elevator 949,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-382stair-lobby,,South Station,South Station - Top of stairs for exit from Red Line,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-382stair-rl,,South Station,South Station - Bottom of stairs for exit from Red Line,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-sstat-388stair-lobby,,South Station,South Station - Top of stairs for drop-off only platform,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-388stair-sl,,South Station,South Station - Bottom of stairs for drop-off only platform,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-sstat-389stair-lobby,,South Station,South Station - Top of stairs for exit from Red Line,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-389stair-rl,,South Station,South Station - Bottom of stairs for exit from Red Line,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-sstat-390stair-rl,,South Station,South Station - Bottom of stairs for Ashmont/Braintree,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-sstat-390stair-sl,,South Station,South Station - Top of stairs for Ashmont/Braintree,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-sstat-398stair-rl,,South Station,South Station - Bottom of stairs for Alewife,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-sstat-398stair-sl,,South Station,South Station - Top of stairs for Alewife,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-sstat-399stair-lobby,,South Station,"South Station - Top of stairs for Red Line, Silver Line lobby",,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-399stair-middle,,South Station,"South Station - Bottom of stairs for Red Line, Silver Line lobby",,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-sstat-400sl-middle,,South Station,South Station - Top of stairs from drop-off only platform,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-sstat-400sl-sl,,South Station,South Station - Bottom of stairs from drop-off only platform,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-sstat-400stair-middle,,South Station,South Station - Top of stairs for Ashmont/Braintree,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-sstat-400stair-rl,,South Station,South Station - Bottom of stairs for Ashmont/Braintree,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-sstat-411stair-lobby,,South Station,South Station - Top of stairs for SL1/SL2/SL3 platform,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-411stair-sl,,South Station,South Station - Bottom of stairs for SL1/SL2/SL3 platform,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-sstat-419stair-lobby,,South Station,"South Station - Top of stairs for Red Line, Silver Line lobby",,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-419stair-middle,,South Station,"South Station - Bottom of stairs for Red Line, Silver Line lobby",,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-sstat-420sl-middle,,South Station,South Station - Top of stairs from drop-off only platform,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-sstat-420sl-sl,,South Station,South Station - Bottom of stairs from drop-off only platform,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-sstat-420stair-middle,,South Station,South Station - Top of stairs for Alewife,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-sstat-420stair-rl,,South Station,South Station - Bottom of stairs for Alewife,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-sstat-918stair-lobby,,South Station,South Station - Top of stairs for SL1/SL2/SL3 platform,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-918stair-sl,,South Station,South Station - Bottom of stairs for SL1/SL2/SL3 platform,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-sstat-919stair-rl,,South Station,South Station - Bottom of stairs for Ashmont/Braintree,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-sstat-919stair-sl,,South Station,South Station - Top of stairs for Ashmont/Braintree,,,,,,,,level_-2_silver_platform,3,place-sstat,1
+node-sstat-alewife-farepaid,,South Station,South Station - Paid side of exit-only gates,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-sstat-alewife-fareunpaid,,South Station,South Station - Unpaid side of exit-only gates,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-sstat-ashbrain-farepaid,,South Station,South Station - Paid side of exit-only gates,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-sstat-ashbrain-fareunpaid,,South Station,South Station - Unpaid side of exit-only gates,,,,,,,,level_-3_red_platform,3,place-sstat,1
+node-sstat-bldgescdown-ground,,South Station,South Station - Top of escalators from Commuter Rail concourse,,,,,,,,level_ground,3,place-sstat,1
+node-sstat-bldgescdown-lobby,,South Station,South Station - Bottom of escalators from Commuter Rail concourse,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-bldgescup-ground,,South Station,South Station - Top of escalators for Commuter Rail concourse,,,,,,,,level_ground,3,place-sstat,1
+node-sstat-bldgescup-lobby,,South Station,South Station - Bottom of escalators for Commuter Rail concourse,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-bldgstair-ground,,South Station,South Station - Top of stairs for Commuter Rail concourse,,,,,,,,level_ground,3,place-sstat,1
+node-sstat-bldgstair-lobby,,South Station,South Station - Bottom of stairs for Commuter Rail concourse,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-cr-lobby,,South Station,South Station - Commuter Rail concourse waiting area,,,,,,,,level_ground,3,place-sstat,1
+node-sstat-deweystair-lobby,,South Station,"South Station - Bottom of stairs for Summer Street, Atlantic Avenue",,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-finctrstair-lobby,,South Station,"South Station - Bottom of stairs for Summer Street, Atlantic Avenue, Financial Center",,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-north-farepaid,,South Station,South Station - Paid side of fare gates,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-north-fareunpaid,,South Station,South Station - Unpaid side of fare gates,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-outmainstair-lobby,,South Station,"South Station - Bottom of stairs for Summer Street, Atlantic Avenue, Amtrak, Commuter Rail",,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-reservestair-lobby,,South Station,"South Station - Bottom of stairs for Atlantic Avenue, Summer Street",,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-south-farepaid,,South Station,South Station - Paid side of fare gates,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
+node-sstat-south-fareunpaid,,South Station,South Station - Unpaid side of fare gates,,,,,,,,level_-1_rlsl_lobby,3,place-sstat,1
 place-state,,State,,,,42.358978,-71.057598,,"200 Washington St, Boston, MA",https://www.mbta.com/stops/place-state,,1,,1
 65,65,State St @ Washington Mall - State St Sta,,,,42.358863,-71.057481,,,https://www.mbta.com/stops/place-state,,0,place-state,1
 70022,70022,State,State - Orange Line - Forest Hills,,Forest Hills,42.358978,-71.057598,,,https://www.mbta.com/stops/place-state,level_-1_up_platform,0,place-state,1
@@ -8511,6 +8950,23 @@ place-sull,,Sullivan Square,,,,42.383975,-71.076994,,"Maffa Way and Cambridge St
 70030,70030,Sullivan Square,Sullivan Square - Orange Line - Forest Hills,1,Forest Hills,42.383975,-71.076994,,,https://www.mbta.com/stops/place-sull,level_-1_platform,0,place-sull,1
 70031,70031,Sullivan Square,Sullivan Square - Orange Line - Oak Grove,2,Oak Grove,42.383975,-71.076994,,,https://www.mbta.com/stops/place-sull,level_-1_platform,0,place-sull,1
 door-sull-main,,"Sullivan Square - Buses, Parking, Street","Sullivan Square - Buses, Parking, Street",,,42.384309,-71.076635,,,,level_ground,2,place-sull,1
+node-307-lobby,,Sullivan Square,Sullivan Square - Top of Escalator 307,,,,,,,,level_ground,3,place-sull,1
+node-307-platform,,Sullivan Square,Sullivan Square - Bottom of Escalator 307,,,,,,,,level_-1_platform,3,place-sull,1
+node-308-lobby,,Sullivan Square,Sullivan Square - Top of Escalator 308,,,,,,,,level_ground,3,place-sull,1
+node-308-platform,,Sullivan Square,Sullivan Square - Bottom of Escalator 308,,,,,,,,level_-1_platform,3,place-sull,1
+node-840-lobby,,Sullivan Square,Sullivan Square - Top of Elevator 840,,,,,,,,level_ground,3,place-sull,1
+node-840-platform,,Sullivan Square,Sullivan Square - Bottom of Elevator 840,,,,,,,,level_-1_platform,3,place-sull,1
+node-881-lobby,,Sullivan Square,Sullivan Square - Top of Elevator 881,,,,,,,,level_ground,3,place-sull,1
+node-881-platform,,Sullivan Square,Sullivan Square - Bottom of Elevator 881,,,,,,,,level_-1_platform,3,place-sull,1
+node-lbusramp-upper,,Sullivan Square,Sullivan Square - Top of ramp for lower busway,,,,,,,,level_ground,3,place-sull,1
+node-lbusstairs-lower,,Sullivan Square,Sullivan Square - Bottom of stairs for lower busway,,,,,,,,level_-1_ground,3,place-sull,1
+node-lbusstairs-upper,,Sullivan Square,Sullivan Square - Top of stairs for lower busway,,,,,,,,level_ground,3,place-sull,1
+node-sull-farepaid,,Sullivan Square,Sullivan Square - Paid side of fare gates,,,,,,,,level_ground,3,place-sull,1
+node-sull-fareunpaid,,Sullivan Square,Sullivan Square - Unpaid side of fare gates,,,,,,,,level_ground,3,place-sull,1
+node-sull-nbstairs-lobby,,Sullivan Square,Sullivan Square - Top of stairs for Oak Grove,,,,,,,,level_ground,3,place-sull,1
+node-sull-nbstairs-platform,,Sullivan Square,Sullivan Square - Bottom of stairs for Oak Grove,,,,,,,,level_-1_platform,3,place-sull,1
+node-sull-sbstairs-lobby,,Sullivan Square,"Sullivan Square - Top of stairs for Forest Hills, Oak Grove",,,,,,,,level_ground,3,place-sull,1
+node-sull-sbstairs-platform,,Sullivan Square,"Sullivan Square - Bottom of stairs for Forest Hills, Oak Grove",,,,,,,,level_-1_platform,3,place-sull,1
 place-sumav,,Summit Avenue,,,,42.341110,-71.125610,,"Beacon St and Summit Ave, Brookline, MA",https://www.mbta.com/stops/place-sumav,,1,,2
 70223,70223,Summit Avenue,Summit Avenue - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.341120,-71.125652,,,https://www.mbta.com/stops/place-sumav,level_median,0,place-sumav,2
 70224,70224,Summit Avenue,Summit Avenue - Green Line - Park Street & North,,Park Street & North,42.341027,-71.125759,,,https://www.mbta.com/stops/place-sumav,level_median,0,place-sumav,2
@@ -8525,6 +8981,24 @@ door-symcl-falmouth,,"Symphony - First Church, Falmouth St","Symphony - First Ch
 door-symcl-hunte,,"Symphony - Massachusetts Ave, Huntington Ave (East)","Symphony - Massachusetts Ave, Huntington Ave (East)",,,42.342957,-71.085021,,,,level_in_street,2,place-symcl,2
 door-symcl-huntw,,"Symphony - Massachusetts Ave, Huntington Ave (West)","Symphony - Massachusetts Ave, Huntington Ave (West)",,,42.342822,-71.085185,,,,level_in_street,2,place-symcl,2
 door-symcl-westland,,"Symphony - Westland Ave, Symphony Hall","Symphony - Westland Ave, Symphony Hall",,,42.342941,-71.085360,,,,level_in_street,2,place-symcl,2
+node-symcl-churstair-platform,,Symphony,"Symphony - Bottom of stairs for Massachusetts Ave, First Church of Christ",,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-eb-farepaid,,Symphony,Symphony - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-eb-fareunpaid,,Symphony,Symphony - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-eb-midbottom,,Symphony,Symphony - Bottom of stairs for entrances,,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-eb-midtop,,Symphony,Symphony - Top of stairs for entrances,,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-falmstair-platform,,Symphony,"Symphony - Bottom of stairs for First Church, Falmouth St",,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-hunestair-platform,,Symphony,"Symphony - Bottom of east stairs for Massachusetts Ave, Huntington Ave",,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-hunwstair-platform,,Symphony,"Symphony - Bottom of west stairs for Massachusetts Ave, Huntington Ave",,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-sympstair-platform,,Symphony,"Symphony - Bottom of stairs for Massachusetts Ave, Symphony Hall",,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-wb-ebottom,,Symphony,Symphony - Bottom of stairs for east entrances,,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-wb-etop,,Symphony,Symphony - Top of stairs for east entrances,,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-wb-farepaid,,Symphony,Symphony - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-wb-fareunpaid,,Symphony,Symphony - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-wb-midbottom,,Symphony,Symphony - Bottom of stairs for entrances,,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-wb-midtop,,Symphony,Symphony - Top of stairs for entrances,,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-wb-wbottom,,Symphony,Symphony - Bottom of stairs for west entrances,,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-wb-wtop,,Symphony,Symphony - Top of stairs for west entrances,,,,,,,,level_-1_platform,3,place-symcl,1
+node-symcl-weststair-platform,,Symphony,"Symphony - Bottom of stairs for Westland Ave, Symphony Hall",,,,,,,,level_-1_platform,3,place-symcl,1
 place-tapst,,Tappan Street,,,,42.338459,-71.138702,,"Beacon St and Tappan St, Brookline, MA",https://www.mbta.com/stops/place-tapst,,1,,2
 70231,70231,Tappan Street,Tappan Street - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.338498,-71.138731,,,https://www.mbta.com/stops/place-tapst,level_median,0,place-tapst,2
 70232,70232,Tappan Street,Tappan Street - Green Line - Park Street & North,,Park Street & North,42.338567,-71.138190,,,https://www.mbta.com/stops/place-tapst,level_median,0,place-tapst,2
@@ -8537,6 +9011,34 @@ place-tumnl,,Tufts Medical Center,,,,42.349662,-71.063917,,"750 Washington St, B
 70017,70017,Tufts Medical Center,Tufts Medical Center - Orange Line - Oak Grove,,Oak Grove,42.349662,-71.063917,,,https://www.mbta.com/stops/place-tumnl,level_-2_platform,0,place-tumnl,1
 door-tumnl-tremont,,"Tufts Medical Center - Tremont St, YMCA Wang","Tufts Medical Center - Tremont St, YMCA Wang",,,42.348690,-71.065310,,,,level_in_street,2,place-tumnl,2
 door-tumnl-washington,,"Tufts Medical Center - Washington St, Tufts Medical Center","Tufts Medical Center - Washington St, Tufts Medical Center",,,42.349662,-71.063917,,,,level_in_street,2,place-tumnl,1
+node-145-lobby,,Tufts Medical Center,Tufts Medical Center - Bottom of Escalator 145,,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-146-lobby,,Tufts Medical Center,Tufts Medical Center - Top of Escalator 146,,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-146-platform,,Tufts Medical Center,Tufts Medical Center - Bottom of Escalator 146,,,,,,,,level_-2_platform,3,place-tumnl,1
+node-147-lobby,,Tufts Medical Center,Tufts Medical Center - Top of Escalator 147,,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-147-platform,,Tufts Medical Center,Tufts Medical Center - Bottom of Escalator 147,,,,,,,,level_-2_platform,3,place-tumnl,1
+node-148-lobby,,Tufts Medical Center,Tufts Medical Center - Top of Escalator 148,,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-148-platform,,Tufts Medical Center,Tufts Medical Center - Bottom of Escalator 148,,,,,,,,level_-2_platform,3,place-tumnl,1
+node-149-lobby,,Tufts Medical Center,Tufts Medical Center - Top of Escalator 149,,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-149-platform,,Tufts Medical Center,Tufts Medical Center - Bottom of Escalator 149,,,,,,,,level_-2_platform,3,place-tumnl,1
+node-857-lobby,,Tufts Medical Center,Tufts Medical Center - Bottom of Elevator 857,,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-858-lobby,,Tufts Medical Center,Tufts Medical Center - Top of Elevator 858,,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-858-platform,,Tufts Medical Center,Tufts Medical Center - Bottom of Elevator 858,,,,,,,,level_-2_platform,3,place-tumnl,1
+node-859-lobby,,Tufts Medical Center,Tufts Medical Center - Top of Elevator 859,,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-859-platform,,Tufts Medical Center,Tufts Medical Center - Bottom of Elevator 859,,,,,,,,level_-2_platform,3,place-tumnl,1
+node-tumnl-tre-farepaid,,Tufts Medical Center,Tufts Medical Center - Paid side of fare gates,,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-tumnl-tre-fareunpaid,,Tufts Medical Center,Tufts Medical Center - Unpaid side of fare gates,,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-tumnl-trenbstairs-lobby,,Tufts Medical Center,"Tufts Medical Center - Top of stairs for Oak Grove, Tremont Street",,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-tumnl-trenbstairs-platform,,Tufts Medical Center,"Tufts Medical Center - Bottom of stairs for Oak Grove, Tremont Street",,,,,,,,level_-2_platform,3,place-tumnl,1
+node-tumnl-tresbstairs-lobby,,Tufts Medical Center,"Tufts Medical Center - Top of stairs for Forest Hills, Tremont Street",,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-tumnl-tresbstairs-platform,,Tufts Medical Center,"Tufts Medical Center - Bottom of stairs for Forest Hills, Tremont Street",,,,,,,,level_-2_platform,3,place-tumnl,1
+node-tumnl-trestairs-lobby,,Tufts Medical Center,Tufts Medical Center - Bottom of stairs for Tremont Street,,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-tumnl-wash-farepaid,,Tufts Medical Center,Tufts Medical Center - Paid side of fare gates,,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-tumnl-wash-fareunpaid,,Tufts Medical Center,Tufts Medical Center - Unpaid side of fare gates,,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-tumnl-washnbstairs-lobby,,Tufts Medical Center,"Tufts Medical Center - Top of stairs for Oak Grove, Washington Street",,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-tumnl-washnbstairs-platform,,Tufts Medical Center,"Tufts Medical Center - Bottom of stairs for Oak Grove, Washington Street",,,,,,,,level_-2_platform,3,place-tumnl,1
+node-tumnl-washsbstairs-lobby,,Tufts Medical Center,"Tufts Medical Center - Top of stairs for Forest Hills, Washington Street",,,,,,,,level_-1_lobby,3,place-tumnl,1
+node-tumnl-washsbstairs-platform,,Tufts Medical Center,"Tufts Medical Center - Bottom of stairs for Forest Hills, Washington Street",,,,,,,,level_-2_platform,3,place-tumnl,1
+node-tumnl-washstairs-lobby,,Tufts Medical Center,Tufts Medical Center - Bottom of stairs for Washington Street,,,,,,,,level_-1_lobby,3,place-tumnl,1
 place-valrd,,Valley Road,,,,42.268322,-71.081566,,"291 Valley Rd, Milton, MA 02186",https://www.mbta.com/stops/place-valrd,,1,,2
 70271,70271,Valley Road,Valley Road - Mattapan Trolley - Mattapan,,Mattapan,42.268322,-71.081568,,,https://www.mbta.com/stops/place-valrd,level_ground,0,place-valrd,2
 70272,70272,Valley Road,Valley Road - Mattapan Trolley - Ashmont,,Ashmont,42.268277,-71.081544,,,https://www.mbta.com/stops/place-valrd,level_ground,0,place-valrd,2
@@ -8569,6 +9071,29 @@ place-wimnl,,Wood Island,,,,42.379640,-71.022865,,"450 Bennington St, East Bosto
 70050,70050,Wood Island,Wood Island - Blue Line - Wonderland,2,Wonderland,42.379640,-71.022865,,,https://www.mbta.com/stops/place-wimnl,level_0_platform,0,place-wimnl,1
 door-wimnl-benning,,Wood Island - Bennington St,Wood Island - Bennington St,,,42.379854,-71.023052,,,,level_ground,2,place-wimnl,1
 door-wimnl-lovell,,Wood Island - Lovell St,Wood Island - Lovell St,,,42.379446,-71.023083,,,,level_in_street,2,place-wimnl,1
+node-380-bridge,,Wood Island,Wood Island - Top of Escalator 380,,,,,,,,level_1_bridge,3,place-wimnl,1
+node-380-platform,,Wood Island,Wood Island - Bottom of Escalator 380,,,,,,,,level_0_platform,3,place-wimnl,1
+node-889-paidbridge,,Wood Island,Wood Island - Top of Elevator 889 (within fare control),,,,,,,,level_1_bridge,3,place-wimnl,1
+node-889-paidplatform,,Wood Island,Wood Island - Bottom of Elevator 889 (within fare control),,,,,,,,level_0_platform,3,place-wimnl,1
+node-889-unpaidbridge,,Wood Island,Wood Island - Top of Elevator 889 (outside fare control),,,,,,,,level_1_bridge,3,place-wimnl,1
+node-889-unpaidstreet,,Wood Island,Wood Island - Bottom of Elevator 889 (outside fare control),,,,,,,,level_ground,3,place-wimnl,1
+node-890-paidbridge,,Wood Island,Wood Island - Top of Elevator 890 (within fare control),,,,,,,,level_1_bridge,3,place-wimnl,1
+node-890-paidplatform,,Wood Island,Wood Island - Bottom of Elevator 890 (within fare control),,,,,,,,level_0_platform,3,place-wimnl,1
+node-890-unpaidbridge,,Wood Island,Wood Island - Top of Elevator 890 (outside fare control),,,,,,,,level_1_bridge,3,place-wimnl,1
+node-890-unpaidstreet,,Wood Island,Wood Island - Bottom of Elevator 890 (outside fare control),,,,,,,,level_in_street,3,place-wimnl,1
+node-wimnl-benn-farepaid,,Wood Island,Wood Island - Paid side of fare gates,,,,,,,,level_0_platform,3,place-wimnl,1
+node-wimnl-benn-fareunpaid,,Wood Island,Wood Island - Unpaid side of fare gates,,,,,,,,level_ground,3,place-wimnl,1
+node-wimnl-ibpaidstairs-bridge,,Wood Island,Wood Island - Top of stairs for Bowdoin,,,,,,,,level_1_bridge,3,place-wimnl,1
+node-wimnl-ibpaidstairs-platform,,Wood Island,Wood Island - Bottom of stairs for Bowdoin,,,,,,,,level_0_platform,3,place-wimnl,1
+node-wimnl-ibunpaidstairs-bridge,,Wood Island,"Wood Island - Top of stairs for all trains, buses, Bennington Street",,,,,,,,level_1_bridge,3,place-wimnl,1
+node-wimnl-ibunpaidstairs-street,,Wood Island,"Wood Island - Bottom of stairs for all trains, buses, Bennington Street",,,,,,,,level_ground,3,place-wimnl,1
+node-wimnl-love-farepaid,,Wood Island,Wood Island - Paid side of exit-only gates,,,,,,,,level_0_platform,3,place-wimnl,1
+node-wimnl-love-fareunpaid,,Wood Island,Wood Island - Unpaid side of exit-only gates,,,,,,,,level_in_street,3,place-wimnl,1
+node-wimnl-love-stairs,,Wood Island,Wood Island - Top of steps for Lovell Street,,,,,,,,level_in_street,3,place-wimnl,1
+node-wimnl-obpaidstairs-bridge,,Wood Island,Wood Island - Top of stairs for Wonderland,,,,,,,,level_1_bridge,3,place-wimnl,1
+node-wimnl-obpaidstairs-platform,,Wood Island,Wood Island - Bottom of stairs for Wonderland,,,,,,,,level_0_platform,3,place-wimnl,1
+node-wimnl-obunpaidstairs-bridge,,Wood Island,Wood Island - Top of stairs for Lovell Street,,,,,,,,level_1_bridge,3,place-wimnl,1
+node-wimnl-obunpaidstairs-street,,Wood Island,Wood Island - Bottom of stairs for Lovell Street,,,,,,,,level_in_street,3,place-wimnl,1
 place-wlsta,,Wollaston,,,,42.266514,-71.020337,,"90 Woodbine St, Quincy, MA 02171",https://www.mbta.com/stops/place-wlsta,,1,,2
 70099,70099,Wollaston,Wollaston - Red Line - Braintree,,Braintree,42.266514,-71.020337,,,https://www.mbta.com/stops/place-wlsta,level_1_platform,0,place-wlsta,2
 70100,70100,Wollaston,Wollaston - Red Line - Alewife,,Alewife,42.266514,-71.020337,,,https://www.mbta.com/stops/place-wlsta,level_1_platform,0,place-wlsta,2
@@ -8582,6 +9107,45 @@ door-wondl-ocean,,Wonderland - Ocean Ave,Wonderland - Ocean Ave,,,42.413295,-70.
 door-wondl-oceann,,Wonderland - Ocean Ave North,Wonderland - Ocean Ave North,,,42.413372,-70.990494,,,,level_in_street,2,place-wondl,2
 door-wondl-oceannele,,Wonderland - Ocean Ave North Elevator,Wonderland - Ocean Ave North Elevator,,,42.413537,-70.990558,,,,level_in_street,2,place-wondl,1
 door-wondl-revere,,Wonderland - Revere Beach,Wonderland - Revere Beach,,,42.413290,-70.989770,,,,level_in_street,2,place-wondl,1
+node-701-bridge,,Wonderland,Wonderland - Bridge level of garage elevator,,,,,,,,level_1_bridge,3,place-wondl,1
+node-701-lobby,,Wonderland,Wonderland - Lobby level of garage elevator,,,,,,,,level_ground,3,place-wondl,1
+node-701-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of garage elevator,,,,,,,,level_2_plaza,3,place-wondl,1
+node-702-bridge,,Wonderland,Wonderland - Bridge level of garage elevator,,,,,,,,level_1_bridge,3,place-wondl,1
+node-702-lobby,,Wonderland,Wonderland - Lobby level of garage elevator,,,,,,,,level_ground,3,place-wondl,1
+node-702-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of garage elevator,,,,,,,,level_2_plaza,3,place-wondl,1
+node-703-bridge,,Wonderland,Wonderland - Bridge level of garage elevator,,,,,,,,level_1_bridge,3,place-wondl,1
+node-703-lobby,,Wonderland,Wonderland - Lobby level of garage elevator,,,,,,,,level_ground,3,place-wondl,1
+node-703-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of garage elevator,,,,,,,,level_2_plaza,3,place-wondl,1
+node-708-lobby,,Wonderland,Wonderland - Lobby level of pedestrian bridge elevator,,,,,,,,level_ground,3,place-wondl,1
+node-709-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of Bowdoin-bound platform elevator,,,,,,,,level_2_plaza,3,place-wondl,1
+node-709-street,,Wonderland,Wonderland - Street level of Bowdoin-bound platform elevator,,,,,,,,level_ground,3,place-wondl,1
+node-710-platform,,Wonderland,Wonderland - Platform level of Wonderland-bound platform elevator,,,,,,,,level_0_platform,3,place-wondl,1
+node-711-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of Ocean Ave elevator,,,,,,,,level_2_plaza,3,place-wondl,1
+node-wondl-busramp-busway,,Wonderland,Wonderland - Bottom of ramp to busway door to lobby,,,,,,,,level_0_platform,3,place-wondl,1
+node-wondl-busstairs-busway,,Wonderland,Wonderland - Bottom of stairs to busway door to lobby,,,,,,,,level_ground,3,place-wondl,1
+node-wondl-buswaydoor,,Wonderland,Wonderland - Busway door to lobby,,,,,,,,level_ground,3,place-wondl,1
+node-wondl-eplazacenter,,Wonderland,Wonderland - Revere Beach Plaza,,,,,,,,level_2_plaza,3,place-wondl,1
+node-wondl-farepaid,,Wonderland,Wonderland - Paid side of faregates,,,,,,,,level_0_platform,3,place-wondl,1
+node-wondl-fareunpaid,,Wonderland,Wonderland - Unpaid side of faregates,,,,,,,,level_0_platform,3,place-wondl,1
+node-wondl-footbridgeib,,Wonderland,Wonderland - Bowdoin-bound platform end of pedestrian bridge,,,,,,,,level_1_bridge,3,place-wondl,1
+node-wondl-footbridgeob,,Wonderland,Wonderland - Wonderland-bound platform end of pedestrian bridge,,,,,,,,level_1_bridge,3,place-wondl,1
+node-wondl-ibfootbridgestairs-lobby,,Wonderland,Wonderland - Bottom of stairs to pedestrian bridge from Blue Line lobby,,,,,,,,level_1_bridge,3,place-wondl,1
+node-wondl-ibplazaentrance,,Wonderland,Wonderland - Revere Beach Plaza entryway from garage and pedestrian bridge,,,,,,,,level_2_plaza,3,place-wondl,1
+node-wondl-ibplazastairs-bridge,,Wonderland,Wonderland - Bridge level of stairs from garage to Revere Beach Plaza,,,,,,,,level_1_bridge,3,place-wondl,1
+node-wondl-ibplazastairs-lobby,,Wonderland,Wonderland - Lobby level of stairs from garage to Revere Beach Plaza,,,,,,,,level_ground,3,place-wondl,1
+node-wondl-ibplazastairs-plaza,,Wonderland,Wonderland - Plaza level of stairs from garage to Revere Beach Plaza,,,,,,,,level_2_plaza,3,place-wondl,1
+node-wondl-ibplazastairs-top,,Wonderland,Wonderland - Top level of stairs from garage to Revere Beach Plaza,,,,,,,,level_3_garage,3,place-wondl,1
+node-wondl-lobbycenter,,Wonderland,Wonderland - Blue Line unpaid lobby,,,,,,,,level_0_platform,3,place-wondl,1
+node-wondl-nshoreplazastairs-plaza,,Wonderland,Wonderland - Top of Revere Beach Plaza stairs from North Shore Road,,,,,,,,level_2_plaza,3,place-wondl,1
+node-wondl-nshoreplazastairs-street,,Wonderland,Wonderland - Bottom of Revere Beach Plaza stairs from North Shore Road,,,,,,,,level_ground,3,place-wondl,1
+node-wondl-nshorestairs-bottom,,Wonderland,Wonderland - Bottom of stairs to Blue Line lobby from North Shore Road,,,,,,,,level_ground,3,place-wondl,1
+node-wondl-obplatstairs-platform,,Wonderland,Wonderland - Bottom of stairs from Wonderland-bound platform to pedestrian bridge,,,,,,,,level_0_platform,3,place-wondl,1
+node-wondl-obplazaentrance,,Wonderland,Wonderland - Top of Revere Beach Plaza stairs to Wonderland-bound platform,,,,,,,,level_2_plaza,3,place-wondl,1
+node-wondl-obplazastairs-street,,Wonderland,Wonderland - Bottom of Revere Beach Plaza stairs from Wonderland-bound platform,,,,,,,,level_0_platform,3,place-wondl,1
+node-wondl-oceanaveingress,,Wonderland,Wonderland - Bowdoin-bound platform end of Revere Beach Plaza,,,,,,,,level_ground,3,place-wondl,1
+node-wondl-oceanramp-bottom,,Wonderland,Wonderland - Street level of Ocean Ave ramp,,,,,,,,level_ground,3,place-wondl,1
+node-wondl-oceanstairs-plaza,,Wonderland,Wonderland - Top of Revere Beach Plaza stairs from Ocean Ave,,,,,,,,level_2_plaza,3,place-wondl,1
+node-wondl-plazacenter,,Wonderland,Wonderland - Revere Beach Plaza,,,,,,,,level_2_plaza,3,place-wondl,1
 place-woodl,,Woodland,,,,42.333374,-71.244301,,"1940 Washington St, Newton, MA 02466",https://www.mbta.com/stops/place-woodl,,1,,1
 70162,70162,Woodland,Woodland - Green Line - Park Street & North,,Park Street & North,42.333339,-71.244333,,,https://www.mbta.com/stops/place-woodl,level_ground,0,place-woodl,1
 70163,70163,Woodland,Woodland - Green Line - (D) Riverside,,Riverside,42.333372,-71.244303,,,https://www.mbta.com/stops/place-woodl,level_ground,0,place-woodl,1
@@ -8598,3 +9162,27 @@ place-wtcst,,World Trade Center,,,,42.348630,-71.042460,,"Congress St and World 
 74615,74615,World Trade Center,World Trade Center - Silver Line - South Station,,South Station,42.348630,-71.042460,,,https://www.mbta.com/stops/place-wtcst,level_-1_platform,0,place-wtcst,1
 door-wtcst-congress,,World Trade Center - Congress St,World Trade Center - Congress St,,,42.348702,-71.042368,,,,level_congress_st,2,place-wtcst,1
 door-wtcst-wtc,,World Trade Center - World Trade Center Ave,World Trade Center - World Trade Center Ave,,,42.348484,-71.042509,,,,level_wtc_ave,2,place-wtcst,1
+node-401-landing,,World Trade Center,World Trade Center - Bottom of second World Trade Center entrance escalator,,,,,,,,level_congress_st,3,place-wtcst,1
+node-401-top,,World Trade Center,World Trade Center - Top of second World Trade Center entrance escalator,,,,,,,,level_wtc_ave,3,place-wtcst,1
+node-402-landing,,World Trade Center,World Trade Center - Top of first World Trade Center entrance escalator,,,,,,,,level_congress_st,3,place-wtcst,1
+node-402-lobby,,World Trade Center,World Trade Center - Bottom of first World Trade Center entrance escalator,,,,,,,,level_congress_st,3,place-wtcst,1
+node-403-lobby,,World Trade Center,World Trade Center - Top of inbound platform escalator,,,,,,,,level_congress_st,3,place-wtcst,1
+node-403-platform,,World Trade Center,World Trade Center - Bottom of inbound platform escalator,,,,,,,,level_-1_platform,3,place-wtcst,1
+node-404-lobby,,World Trade Center,World Trade Center - Top of outbound platform escalator,,,,,,,,level_congress_st,3,place-wtcst,1
+node-404-platform,,World Trade Center,World Trade Center - Bottom of outbound platform escalator,,,,,,,,level_-1_platform,3,place-wtcst,1
+node-934-lobby,,World Trade Center,World Trade Center - Bottom of World Trade Center entrance elevator,,,,,,,,level_congress_st,3,place-wtcst,1
+node-935-lobby,,World Trade Center,World Trade Center - Top of inbound platform elevator,,,,,,,,level_congress_st,3,place-wtcst,1
+node-935-platform,,World Trade Center,World Trade Center - Bottom of inbound platform elevator,,,,,,,,level_-1_platform,3,place-wtcst,1
+node-936-lobby,,World Trade Center,World Trade Center - Top of outbound platform elevator,,,,,,,,level_congress_st,3,place-wtcst,1
+node-936-platform,,World Trade Center,World Trade Center - Bottom of outbound platform elevator,,,,,,,,level_-1_platform,3,place-wtcst,1
+node-wtcst-farepaid,,World Trade Center,World Trade Center - Paid side of faregates,,,,,,,,level_congress_st,3,place-wtcst,1
+node-wtcst-fareunpaid,,World Trade Center,World Trade Center - Unpaid side of faregates,,,,,,,,level_congress_st,3,place-wtcst,1
+node-wtcst-ibstairs-lobby,,World Trade Center,World Trade Center - Top of inbound platform stairs,,,,,,,,level_congress_st,3,place-wtcst,1
+node-wtcst-ibstairs-platform,,World Trade Center,World Trade Center - Bottom of inbound platform stairs,,,,,,,,level_-1_platform,3,place-wtcst,1
+node-wtcst-obstairs-lobby,,World Trade Center,World Trade Center - Top of outbound platform stairs,,,,,,,,level_congress_st,3,place-wtcst,1
+node-wtcst-obstairs-platform,,World Trade Center,World Trade Center - Bottom of outbound platform stairs,,,,,,,,level_-1_platform,3,place-wtcst,1
+node-wtcst-paidlobbycenter,,World Trade Center,World Trade Center - Paid lobby center,,,,,,,,level_congress_st,3,place-wtcst,1
+node-wtcst-wtcbstairs-landing,,World Trade Center,World Trade Center - Top of first flight of World Trade Center entrance stairs,,,,,,,,level_congress_st,3,place-wtcst,1
+node-wtcst-wtcbstairs-lobby,,World Trade Center,World Trade Center - Bottom of first flight of World Trade Center entrance stairs,,,,,,,,level_congress_st,3,place-wtcst,1
+node-wtcst-wtctstairs-landing,,World Trade Center,World Trade Center - Bottom of second flight of World Trade Center entrance stairs,,,,,,,,level_congress_st,3,place-wtcst,1
+node-wtcst-wtctstairs-top,,World Trade Center,World Trade Center - Top of second World Trade Center entrance stairs,,,,,,,,level_wtc_ave,3,place-wtcst,1
