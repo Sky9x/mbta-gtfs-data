@@ -9,9 +9,9 @@ Orange-3-0,Orange,0,Forest Hills,,1,10020000,40033927
 Orange-5-0,Orange,0,Forest Hills,Weekdays only,3,10020099,40033911
 Orange-3-1,Orange,1,Oak Grove,,1,10020100,40033930
 Green-B-3-0,Green-B,0,Boston College,,1,10032000,39988543-20:30-NewtonHighlandsRiverside
-Green-B-0-0,Green-B,0,Boston College,Weekend early mornings only,3,10032099,39918244-BabcockBC0
+Green-B-0-0,Green-B,0,Boston College,Weekend early mornings only,3,10032099,39918244
 Green-B-3-1,Green-B,1,Park Street,,1,10032100,39988448-20:30-NewtonHighlandsRiverside
-Green-B-0-1,Green-B,1,Lechmere,Weekend early mornings only,3,10032199,39918243-BabcockBC2
+Green-B-0-1,Green-B,1,Lechmere,Weekend early mornings only,3,10032199,39918243
 Green-C-1-0,Green-C,0,Cleveland Circle,,1,10033000,39988461-20:30-NewtonHighlandsRiverside
 Green-C-0-0,Green-C,0,Cleveland Circle,Early mornings only,3,10033099,39988459-20:30-NewtonHighlandsRiverside
 Green-C-1-1,Green-C,1,North Station,,1,10033100,39988453-20:30-NewtonHighlandsRiverside
@@ -88,21 +88,21 @@ CR-Providence-0-1,CR-Providence,1,Wickford Junction - South Station,,1,20012100,
 CR-Providence-1-1,CR-Providence,1,Stoughton - South Station,,1,20012101,CR-Weekday-Fall-18-900
 Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-0630-Long-Weekday
 Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,30001100,Boat-F4-0645-Charlestown-Weekday
-Boat-F1-0-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport & Hull,,1,30002000,Boat-F1-1100-Long-Weekday
-Boat-F1-1-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,30002001,Boat-F1-0650-Rowes-Weekday
-Boat-F1-2-0,Boat-F1,0,Long Wharf - Hingham via Hull,,2,30002002,Boat-F1-1300-Long-Weekday
-Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,30002003,Boat-F1-0800-Long-Weekday
-Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,30002004,Boat-F1-0910-Long-Weekday
+Boat-F1-0-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport & Hull,,1,30002000,Boat-F1-1100-Long-Friday
+Boat-F1-1-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,30002001,Boat-F1-0650-Rowes-Friday
+Boat-F1-2-0,Boat-F1,0,Long Wharf - Hingham via Hull,,2,30002002,Boat-F1-1300-Long-Friday
+Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,30002003,Boat-F1-0800-Long-Friday
+Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,30002004,Boat-F1-0910-Long-Friday
 Boat-F1-5-0,Boat-F1,0,Long Wharf - Hingham via Georges Island & Hull,Summer weekday middays only,2,30002005,Boat-F1-1300-Long-WeekdaySummer
-Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,30002006,Boat-F1-1215-Long-Weekday
+Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,30002006,Boat-F1-1215-Long-Friday
 Boat-F1-7-0,Boat-F1,0,Long Wharf - Hingham via Georges Island,Summer weekends only,2,30002007,Boat-F1-1200-Long-Saturday
-Boat-F1-9-0,Boat-F1,0,Long Wharf - Hull via Logan Airport,,2,30002009,Boat-F1-0625-Long-Weekday
-Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,30002100,Boat-F1-1300-Hingham-Weekday
-Boat-F1-1-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,30002101,Boat-F1-0600-Hingham-Weekday
-Boat-F1-2-1,Boat-F1,1,Hingham - Long Wharf via Hull,,2,30002102,Boat-F1-0540-Hingham-Weekday
-Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,30002103,Boat-F1-0730-Hull-Weekday
-Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,30002104,Boat-F1-1000-Hingham-Weekday
-Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-Weekday
+Boat-F1-9-0,Boat-F1,0,Long Wharf - Hull via Logan Airport,,2,30002009,Boat-F1-0625-Long-Friday
+Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,30002100,Boat-F1-1300-Hingham-Friday
+Boat-F1-1-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,30002101,Boat-F1-0600-Hingham-Friday
+Boat-F1-2-1,Boat-F1,1,Hingham - Long Wharf via Hull,,2,30002102,Boat-F1-0540-Hingham-Friday
+Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,30002103,Boat-F1-0730-Hull-Friday
+Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,30002104,Boat-F1-1000-Hingham-Friday
+Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-Friday
 Boat-F1-7-1,Boat-F1,1,Hingham - Long Wharf via Georges Island,Summer weekends only,2,30002107,Boat-F1-0900-Hingham-Saturday
 Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Summer weekday middays only,2,30002108,Boat-F1-1000-Hingham-WeekdaySummer
 701-_-0,701,0,Central Square (Limited Stops),Weekdays only,1,40010000,39984627
