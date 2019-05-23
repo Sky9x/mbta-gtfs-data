@@ -9,9 +9,9 @@ Orange-3-0,Orange,0,Forest Hills,,1,10020000,40033927
 Orange-5-0,Orange,0,Forest Hills,Weekdays only,3,10020099,40033911
 Orange-3-1,Orange,1,Oak Grove,,1,10020100,40033930
 Green-B-3-0,Green-B,0,Boston College,,1,10032000,39988543-20:30-NewtonHighlandsRiverside
-Green-B-0-0,Green-B,0,Boston College,Weekend early mornings only,3,10032099,39918244
+Green-B-0-0,Green-B,0,Boston College,Weekend early mornings only,3,10032099,39918244-BabcockBC0
 Green-B-3-1,Green-B,1,Park Street,,1,10032100,39988448-20:30-NewtonHighlandsRiverside
-Green-B-0-1,Green-B,1,Lechmere,Weekend early mornings only,3,10032199,39918243
+Green-B-0-1,Green-B,1,Lechmere,Weekend early mornings only,3,10032199,39918243-BabcockBC2
 Green-C-1-0,Green-C,0,Cleveland Circle,,1,10033000,39988461-20:30-NewtonHighlandsRiverside
 Green-C-0-0,Green-C,0,Cleveland Circle,Early mornings only,3,10033099,39988459-20:30-NewtonHighlandsRiverside
 Green-C-1-1,Green-C,1,North Station,,1,10033100,39988453-20:30-NewtonHighlandsRiverside
@@ -47,62 +47,60 @@ Blue-6-1,Blue,1,Wonderland,,1,10040100,39783498
 749-_-1,749,1,Downtown,,1,10056100,39875238
 746-_-0,746,0,Silver Line Way,,1,10057000,39876554
 746-_-1,746,1,South Station,,1,10057100,39876285
-CR-Fairmount-0-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,20001000,CR-Weekday-Fall2-18-751
-CR-Fairmount-0-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-Weekday-Fall2-18-750
-CR-Fitchburg-0-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-Weekday-Fall-18-401-LittletonWachusett
-CR-Fitchburg-0-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-Weekday-Fall-18-400-LittletonWachusett
-CR-Worcester-0-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-Weekday-Fall-18-501
-CR-Worcester-0-1,CR-Worcester,1,Worcester - South Station,,1,20003100,CR-Weekday-Fall-18-500
-CR-Franklin-0-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,20004000,CR-Weekday-Fall2-18-701
-CR-Franklin-0-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,20004100,CR-Weekday-Fall2-18-700
-CR-Franklin-1-1,CR-Franklin,1,Forge Park/495 - South Station via Fairmount,,3,20004101,CR-Weekday-Fall2-18-790
-CR-Greenbush-0-0,CR-Greenbush,0,South Station - Greenbush,,1,20005000,CR-Weekday-Fall-18-071
-CR-Greenbush-1-0,CR-Greenbush,0,Braintree - Greenbush,,4,20005001,CR-Saturday-OldColony-19-1071
-CR-Greenbush-0-1,CR-Greenbush,1,Greenbush - South Station,,1,20005100,CR-Weekday-Fall-18-070
-CR-Greenbush-1-1,CR-Greenbush,1,Greenbush - Braintree,,4,20005101,CR-Saturday-OldColony-19-1070
-CR-Haverhill-0-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,20006000,CR-Weekday-Fall-18-285
-CR-Haverhill-1-0,CR-Haverhill,0,North Station - Haverhill via Anderson/Woburn,,3,20006001,CR-Weekday-Fall-18-221
-CR-Haverhill-0-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,20006100,CR-Weekday-Fall-18-200
-CR-Haverhill-1-1,CR-Haverhill,1,Haverhill - North Station via Anderson/Woburn,,3,20006101,CR-Weekday-Fall-18-206
-CR-Kingston-0-0,CR-Kingston,0,South Station - Kingston,,1,20007000,CR-Weekday-Fall-18-033
-CR-Kingston-1-0,CR-Kingston,0,South Station - Plymouth,,1,20007001,CR-Weekday-Fall-18-063
-CR-Kingston-2-0,CR-Kingston,0,South Station - Plymouth via Kingston,,2,20007002,CR-Weekday-Fall-18-065
-CR-Kingston-3-0,CR-Kingston,0,South Station - Kingston via Plymouth,,2,20007003,CR-Weekday-Fall-18-061
-CR-Kingston-0-1,CR-Kingston,1,Kingston - South Station,,1,20007100,CR-Weekday-Fall-18-032
-CR-Kingston-1-1,CR-Kingston,1,Plymouth - South Station,,1,20007101,CR-Weekday-Fall-18-062
-CR-Kingston-2-1,CR-Kingston,1,Kingston - South Station via Plymouth,,2,20007102,CR-Weekday-Fall-18-064
-CR-Kingston-3-1,CR-Kingston,1,Plymouth - South Station via Kingston,,2,20007103,CR-Weekday-Fall-18-060
-CR-Lowell-0-0,CR-Lowell,0,North Station - Lowell,,1,20008000,CR-Weekday-Fall-18-301
-CR-Lowell-0-1,CR-Lowell,1,Lowell - North Station,,1,20008100,CR-Weekday-Fall-18-300
-CR-Middleborough-0-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,20009000,CR-Weekday-Fall-18-003
-CR-Middleborough-0-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,20009100,CR-Weekday-Fall-18-002
-CR-Needham-0-0,CR-Needham,0,South Station - Needham Heights,,1,20010000,CR-Weekday-Fall-18-601
-CR-Needham-0-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,CR-Weekday-Fall-18-600
-CR-Newburyport-0-0,CR-Newburyport,0,North Station - Newburyport,,1,20011000,CR-Weekday-Fall-18-153
-CR-Newburyport-1-0,CR-Newburyport,0,North Station - Rockport,,1,20011001,CR-Weekday-Fall-18-101
-CR-Newburyport-0-1,CR-Newburyport,1,Newburyport - North Station,,1,20011100,CR-Weekday-Fall-18-150
-CR-Newburyport-1-1,CR-Newburyport,1,Rockport - North Station,,1,20011101,CR-Weekday-Fall-18-100
-CR-Providence-0-0,CR-Providence,0,South Station - Wickford Junction,,1,20012000,CR-Weekday-Fall-18-8801
-CR-Providence-1-0,CR-Providence,0,South Station - Stoughton,,1,20012001,CR-Weekday-Fall-18-903
-CR-Providence-0-1,CR-Providence,1,Wickford Junction - South Station,,1,20012100,CR-Weekday-Fall-18-802
-CR-Providence-1-1,CR-Providence,1,Stoughton - South Station,,1,20012101,CR-Weekday-Fall-18-900
+CR-Fairmount-0-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,20001000,CR-Weekday-Spring-19-751
+CR-Fairmount-0-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-Weekday-Spring-19-750
+CR-Fitchburg-0-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-Weekday-Spring-19-401-LittletonWachusett
+CR-Fitchburg-0-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-Weekday-Spring-19-400-LittletonWachusett
+CR-Worcester-0-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-Weekday-Spring-19-501
+CR-Worcester-0-1,CR-Worcester,1,Worcester - South Station,,1,20003100,CR-Weekday-Spring-19-500
+CR-Franklin-0-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,20004000,CR-Weekday-Spring-19-701
+CR-Franklin-0-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,20004100,CR-Weekday-Spring-19-700
+CR-Franklin-1-1,CR-Franklin,1,Forge Park/495 - South Station via Fairmount,,3,20004101,CR-Weekday-Spring-19-790
+CR-Greenbush-0-0,CR-Greenbush,0,South Station - Greenbush,,1,20005000,CR-Weekday-Spring-19-071
+CR-Greenbush-0-1,CR-Greenbush,1,Greenbush - South Station,,1,20005100,CR-Weekday-Spring-19-070
+CR-Haverhill-0-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,20006000,CR-Weekday-Spring-19-285
+CR-Haverhill-1-0,CR-Haverhill,0,North Station - Haverhill via Anderson/Woburn,,3,20006001,CR-Weekday-Spring-19-221
+CR-Haverhill-0-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,20006100,CR-Weekday-Spring-19-200
+CR-Haverhill-1-1,CR-Haverhill,1,Haverhill - North Station via Anderson/Woburn,,3,20006101,CR-Weekday-Spring-19-206
+CR-Kingston-0-0,CR-Kingston,0,South Station - Kingston,,1,20007000,CR-Weekday-Spring-19-033
+CR-Kingston-1-0,CR-Kingston,0,South Station - Plymouth,,1,20007001,CR-Weekday-Spring-19-063
+CR-Kingston-2-0,CR-Kingston,0,South Station - Plymouth via Kingston,,2,20007002,CR-Weekday-Spring-19-065
+CR-Kingston-3-0,CR-Kingston,0,South Station - Kingston via Plymouth,,2,20007003,CR-Weekday-Spring-19-061
+CR-Kingston-0-1,CR-Kingston,1,Kingston - South Station,,1,20007100,CR-Weekday-Spring-19-032
+CR-Kingston-1-1,CR-Kingston,1,Plymouth - South Station,,1,20007101,CR-Weekday-Spring-19-062
+CR-Kingston-2-1,CR-Kingston,1,Kingston - South Station via Plymouth,,2,20007102,CR-Weekday-Spring-19-064
+CR-Kingston-3-1,CR-Kingston,1,Plymouth - South Station via Kingston,,2,20007103,CR-Weekday-Spring-19-060
+CR-Lowell-0-0,CR-Lowell,0,North Station - Lowell,,1,20008000,CR-Weekday-Spring-19-301
+CR-Lowell-0-1,CR-Lowell,1,Lowell - North Station,,1,20008100,CR-Weekday-Spring-19-300
+CR-Middleborough-0-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,20009000,CR-Weekday-Spring-19-003
+CR-Middleborough-0-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,20009100,CR-Weekday-Spring-19-002
+CR-Needham-0-0,CR-Needham,0,South Station - Needham Heights,,1,20010000,CR-Weekday-Spring-19-601
+CR-Needham-0-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,CR-Weekday-Spring-19-600
+CR-Newburyport-0-0,CR-Newburyport,0,North Station - Newburyport,,1,20011000,CR-Weekday-Spring-19-153
+CR-Newburyport-1-0,CR-Newburyport,0,North Station - Rockport,,1,20011001,CR-Weekday-Spring-19-101
+CR-Newburyport-0-1,CR-Newburyport,1,Newburyport - North Station,,1,20011100,CR-Weekday-Spring-19-150
+CR-Newburyport-1-1,CR-Newburyport,1,Rockport - North Station,,1,20011101,CR-Weekday-Spring-19-100
+CR-Providence-0-0,CR-Providence,0,South Station - Wickford Junction,,1,20012000,CR-Weekday-Spring-19-8801
+CR-Providence-1-0,CR-Providence,0,South Station - Stoughton,,1,20012001,CR-Weekday-Spring-19-903
+CR-Providence-0-1,CR-Providence,1,Wickford Junction - South Station,,1,20012100,CR-Weekday-Spring-19-802
+CR-Providence-1-1,CR-Providence,1,Stoughton - South Station,,1,20012101,CR-Weekday-Spring-19-900
 Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-0630-Long-Weekday
 Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,30001100,Boat-F4-0645-Charlestown-Weekday
-Boat-F1-0-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport & Hull,,1,30002000,Boat-F1-1100-Long-Friday
-Boat-F1-1-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,30002001,Boat-F1-0650-Rowes-Friday
-Boat-F1-2-0,Boat-F1,0,Long Wharf - Hingham via Hull,,2,30002002,Boat-F1-1300-Long-Friday
-Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,30002003,Boat-F1-0800-Long-Friday
-Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,30002004,Boat-F1-0910-Long-Friday
+Boat-F1-0-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport & Hull,,1,30002000,Boat-F1-1100-Long-Weekday
+Boat-F1-1-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,30002001,Boat-F1-0650-Rowes-Weekday
+Boat-F1-2-0,Boat-F1,0,Long Wharf - Hingham via Hull,,2,30002002,Boat-F1-1300-Long-Weekday
+Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,30002003,Boat-F1-0800-Long-Weekday
+Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,30002004,Boat-F1-0910-Long-Weekday
 Boat-F1-5-0,Boat-F1,0,Long Wharf - Hingham via Georges Island & Hull,Summer weekday middays only,2,30002005,Boat-F1-1300-Long-WeekdaySummer
-Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,30002006,Boat-F1-1215-Long-Friday
+Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,30002006,Boat-F1-1215-Long-Weekday
 Boat-F1-7-0,Boat-F1,0,Long Wharf - Hingham via Georges Island,Summer weekends only,2,30002007,Boat-F1-1200-Long-Saturday
-Boat-F1-9-0,Boat-F1,0,Long Wharf - Hull via Logan Airport,,2,30002009,Boat-F1-0625-Long-Friday
-Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,30002100,Boat-F1-1300-Hingham-Friday
-Boat-F1-1-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,30002101,Boat-F1-0600-Hingham-Friday
-Boat-F1-2-1,Boat-F1,1,Hingham - Long Wharf via Hull,,2,30002102,Boat-F1-0540-Hingham-Friday
-Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,30002103,Boat-F1-0730-Hull-Friday
-Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,30002104,Boat-F1-1000-Hingham-Friday
-Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-Friday
+Boat-F1-9-0,Boat-F1,0,Long Wharf - Hull via Logan Airport,,2,30002009,Boat-F1-0625-Long-Weekday
+Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,30002100,Boat-F1-1300-Hingham-Weekday
+Boat-F1-1-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,30002101,Boat-F1-0600-Hingham-Weekday
+Boat-F1-2-1,Boat-F1,1,Hingham - Long Wharf via Hull,,2,30002102,Boat-F1-0540-Hingham-Weekday
+Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,30002103,Boat-F1-0730-Hull-Weekday
+Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,30002104,Boat-F1-1000-Hingham-Weekday
+Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-Weekday
 Boat-F1-7-1,Boat-F1,1,Hingham - Long Wharf via Georges Island,Summer weekends only,2,30002107,Boat-F1-0900-Hingham-Saturday
 Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Summer weekday middays only,2,30002108,Boat-F1-1000-Hingham-WeekdaySummer
 701-_-0,701,0,Central Square (Limited Stops),Weekdays only,1,40010000,39984627
