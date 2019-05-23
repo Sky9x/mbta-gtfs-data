@@ -138,8 +138,6 @@ facility_id,property_id,value
 130,excludes-stop,door-forhl-lower
 130,excludes-stop,door-forhl-upper
 131,direction,up
-131,excludes-stop,9070002
-131,excludes-stop,9070003
 131,excludes-stop,node-grnst-131-lobby
 131,excludes-stop,node-grnst-131-platform
 131,excludes-stop,node-grnst-844-lobby
@@ -149,8 +147,6 @@ facility_id,property_id,value
 131,excludes-stop,node-grnst-stairs-lobby
 131,excludes-stop,node-grnst-stairs-platform
 132,direction,up
-132,excludes-stop,9070004
-132,excludes-stop,9070005
 132,excludes-stop,node-sbmnl-132-lobby
 132,excludes-stop,node-sbmnl-132-platform
 132,excludes-stop,node-sbmnl-845-lobby
@@ -161,7 +157,6 @@ facility_id,property_id,value
 132,excludes-stop,node-sbmnl-stairs-platform
 133,direction,up
 133,excludes-stop,11531
-133,excludes-stop,9070007
 133,excludes-stop,node-jaksn-133-lobby
 133,excludes-stop,node-jaksn-133-platform
 133,excludes-stop,node-jaksn-846-lobby
@@ -173,7 +168,6 @@ facility_id,property_id,value
 134,direction,up
 134,excludes-stop,1258
 134,excludes-stop,1323
-134,excludes-stop,9070008
 134,excludes-stop,node-rcmnl-134-lobby
 134,excludes-stop,node-rcmnl-134-platform
 134,excludes-stop,node-rcmnl-847-lobby
@@ -232,8 +226,6 @@ facility_id,property_id,value
 139,direction,up
 139,excludes-stop,187
 139,excludes-stop,188
-139,excludes-stop,9070012
-139,excludes-stop,9070013
 139,excludes-stop,door-masta-camden
 139,excludes-stop,door-masta-corridor
 139,excludes-stop,door-masta-main
@@ -737,7 +729,6 @@ facility_id,property_id,value
 320,excludes-stop,70197
 320,excludes-stop,70198
 320,excludes-stop,70199
-320,excludes-stop,9070076
 320,excludes-stop,door-pktrm-elevatoreb
 320,excludes-stop,door-pktrm-elevatorwb
 320,excludes-stop,door-pktrm-exitalewife
@@ -1120,27 +1111,22 @@ facility_id,property_id,value
 343,excludes-stop,node-davis-holland-entrance
 343,excludes-stop,node-davis-holland-lobby
 344,direction,down
-344,excludes-stop,9041031
 344,excludes-stop,door-qamnl-burgin
 344,excludes-stop,door-qamnl-indep
 344,excludes-stop,door-qamnl-pickup
 345,direction,up
-345,excludes-stop,9041031
 345,excludes-stop,door-qamnl-burgin
 345,excludes-stop,door-qamnl-indep
 345,excludes-stop,door-qamnl-pickup
 346,direction,up
-346,excludes-stop,9041031
 346,excludes-stop,door-qamnl-burgin
 346,excludes-stop,door-qamnl-indep
 346,excludes-stop,door-qamnl-pickup
 347,direction,up
-347,excludes-stop,9041031
 347,excludes-stop,door-qamnl-burgin
 347,excludes-stop,door-qamnl-indep
 347,excludes-stop,door-qamnl-pickup
 348,direction,down
-348,excludes-stop,9041031
 348,excludes-stop,door-qamnl-burgin
 348,excludes-stop,door-qamnl-indep
 348,excludes-stop,door-qamnl-pickup
@@ -1265,7 +1251,6 @@ facility_id,property_id,value
 361,direction,up
 361,excludes-stop,2231
 361,excludes-stop,70072
-361,excludes-stop,9070071
 361,excludes-stop,door-knncl-nbmain
 361,excludes-stop,door-knncl-nbsecond
 361,excludes-stop,door-knncl-sbsecond
@@ -1296,7 +1281,6 @@ facility_id,property_id,value
 362,direction,up
 362,excludes-stop,2231
 362,excludes-stop,70071
-362,excludes-stop,9070071
 362,excludes-stop,door-knncl-nbsecond
 362,excludes-stop,door-knncl-sbmain
 362,excludes-stop,door-knncl-sbsecond
@@ -1390,7 +1374,6 @@ facility_id,property_id,value
 373,excludes-stop,70199
 373,excludes-stop,70200
 373,excludes-stop,71199
-373,excludes-stop,9070076
 373,excludes-stop,door-pktrm-elevatoreb
 373,excludes-stop,door-pktrm-elevatorwb
 373,excludes-stop,door-pktrm-exitashbrain
@@ -1413,7 +1396,6 @@ facility_id,property_id,value
 375,excludes-stop,70199
 375,excludes-stop,70200
 375,excludes-stop,71199
-375,excludes-stop,9070076
 375,excludes-stop,door-pktrm-elevatoreb
 375,excludes-stop,door-pktrm-elevatorwb
 375,excludes-stop,door-pktrm-exitalewife
@@ -1430,8 +1412,6 @@ facility_id,property_id,value
 378,excludes-stop,5810
 378,excludes-stop,5819
 378,excludes-stop,70056
-378,excludes-stop,9070055
-378,excludes-stop,9070056
 378,excludes-stop,node-378-lobby
 378,excludes-stop,node-378-platform
 378,excludes-stop,node-379-lobby
@@ -1450,8 +1430,6 @@ facility_id,property_id,value
 379,excludes-stop,5810
 379,excludes-stop,5819
 379,excludes-stop,70055
-379,excludes-stop,9070055
-379,excludes-stop,9070056
 379,excludes-stop,node-378-lobby
 379,excludes-stop,node-378-platform
 379,excludes-stop,node-379-lobby
@@ -3321,8 +3299,6 @@ facility_id,property_id,value
 425,direction,up
 425,excludes-stop,70073
 425,excludes-stop,70074
-425,excludes-stop,9070073
-425,excludes-stop,9070074
 425,excludes-stop,node-425-lobby
 425,excludes-stop,node-425-platform
 425,excludes-stop,node-426-lobby
@@ -3339,8 +3315,6 @@ facility_id,property_id,value
 425,excludes-stop,node-chmnl-sbstairs-platform
 426,direction,up
 426,excludes-stop,70073
-426,excludes-stop,9070073
-426,excludes-stop,9070074
 426,excludes-stop,node-425-lobby
 426,excludes-stop,node-425-platform
 426,excludes-stop,node-426-lobby
@@ -4449,7 +4423,6 @@ facility_id,property_id,value
 804,excludes-stop,70197
 804,excludes-stop,70198
 804,excludes-stop,70199
-804,excludes-stop,9070076
 804,excludes-stop,door-pktrm-elevatorwb
 804,excludes-stop,door-pktrm-exitalewife
 804,excludes-stop,door-pktrm-exitashbrain
@@ -4458,17 +4431,14 @@ facility_id,property_id,value
 804,excludes-stop,door-pktrm-west
 804,excludes-stop,door-pktrm-winter
 805,alternate-service-text,"If exiting the Red Line, exit at Quincy Center and see station personnel for assistance. If boarding at Quincy Adams, use the call box or see station personnel for assistance. Alternatively, use Bus Route 238 to connect between Quincy Adams and Quincy Center."
-805,excludes-stop,9041031
 805,excludes-stop,door-qamnl-burgin
 805,excludes-stop,door-qamnl-indep
 805,excludes-stop,door-qamnl-pickup
 806,alternate-service-text,Customers should use adjacent Quincy Adams Elevator 807.
-806,excludes-stop,9041031
 806,excludes-stop,door-qamnl-burgin
 806,excludes-stop,door-qamnl-indep
 806,excludes-stop,door-qamnl-pickup
 807,alternate-service-text,Customers should use adjacent Quincy Adams Elevator 806.
-807,excludes-stop,9041031
 807,excludes-stop,door-qamnl-burgin
 807,excludes-stop,door-qamnl-indep
 807,excludes-stop,door-qamnl-pickup
@@ -4479,7 +4449,6 @@ facility_id,property_id,value
 808,excludes-stop,70199
 808,excludes-stop,70200
 808,excludes-stop,71199
-808,excludes-stop,9070076
 808,excludes-stop,door-pktrm-elevatoreb
 808,excludes-stop,door-pktrm-elevatorwb
 808,excludes-stop,door-pktrm-exitalewife
@@ -4525,7 +4494,6 @@ facility_id,property_id,value
 812,excludes-stop,70197
 812,excludes-stop,70198
 812,excludes-stop,70199
-812,excludes-stop,9070076
 812,excludes-stop,door-pktrm-elevatoreb
 812,excludes-stop,door-pktrm-elevatorwb
 812,excludes-stop,door-pktrm-exitalewife
@@ -4637,7 +4605,6 @@ facility_id,property_id,value
 823,excludes-stop,70076
 823,excludes-stop,70200
 823,excludes-stop,71199
-823,excludes-stop,9070076
 823,excludes-stop,door-pktrm-elevatoreb
 823,excludes-stop,door-pktrm-elevatorwb
 823,excludes-stop,door-pktrm-exitalewife
@@ -4715,8 +4682,6 @@ facility_id,property_id,value
 843,excludes-stop,door-forhl-exit
 843,excludes-stop,door-forhl-upper
 844,alternate-service-text,"If exiting, exit the Orange Line at Forest Hills and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Green Street to request assistance."
-844,excludes-stop,9070002
-844,excludes-stop,9070003
 844,excludes-stop,node-grnst-131-lobby
 844,excludes-stop,node-grnst-131-platform
 844,excludes-stop,node-grnst-844-lobby
@@ -4726,8 +4691,6 @@ facility_id,property_id,value
 844,excludes-stop,node-grnst-stairs-lobby
 844,excludes-stop,node-grnst-stairs-platform
 845,alternate-service-text,"If exiting, exit the Orange Line at Jackson Square and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Stony Brook to request assistance."
-845,excludes-stop,9070004
-845,excludes-stop,9070005
 845,excludes-stop,node-sbmnl-132-lobby
 845,excludes-stop,node-sbmnl-132-platform
 845,excludes-stop,node-sbmnl-845-lobby
@@ -4738,7 +4701,6 @@ facility_id,property_id,value
 845,excludes-stop,node-sbmnl-stairs-platform
 846,alternate-service-text,Customers requiring elevator access to exit the station must exit at Roxbury Crossing and board the Route 22 bus service to Jackson Square. Customers desiring elevator access to enter the station should board the Route 22 bus service at Jackson Square to Roxbury Crossing for Orange Line service. Please see station personnel for assistance.
 846,excludes-stop,11531
-846,excludes-stop,9070007
 846,excludes-stop,node-jaksn-133-lobby
 846,excludes-stop,node-jaksn-133-platform
 846,excludes-stop,node-jaksn-846-lobby
@@ -4750,7 +4712,6 @@ facility_id,property_id,value
 847,alternate-service-text,Customers desiring elevator service at Roxbury Crossing must continue to Ruggles and board the Route 22 bus back to Roxbury Crossing. Customers desiring to enter the station should see station personnel for further assistance.
 847,excludes-stop,1258
 847,excludes-stop,1323
-847,excludes-stop,9070008
 847,excludes-stop,node-rcmnl-134-lobby
 847,excludes-stop,node-rcmnl-134-platform
 847,excludes-stop,node-rcmnl-847-lobby
@@ -4810,8 +4771,6 @@ facility_id,property_id,value
 852,alternate-service-text,"If exiting, exit the Orange Line at Back Bay and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Massachusetts Avenue to request assistance."
 852,excludes-stop,187
 852,excludes-stop,188
-852,excludes-stop,9070012
-852,excludes-stop,9070013
 852,excludes-stop,door-masta-camden
 852,excludes-stop,door-masta-corridor
 852,excludes-stop,door-masta-main
@@ -5076,7 +5035,6 @@ facility_id,property_id,value
 863,alternate-service-text,"If exiting at Kendall, exit the Red Line at Charles/MGH, switch to an Alewife train, and exit at Kendall using Kendall Elevator 866. If boarding at Kendall, cross the street and use Kendall Elevator 866 to board an Alewife-bound train to Harvard Square. At Harvard Square, board an Ashmont-/Braintree-bound Red Line train. Alternatively, take the Route 68 bus connecting Harvard Square and Kendall."
 863,excludes-stop,2231
 863,excludes-stop,70072
-863,excludes-stop,9070071
 863,excludes-stop,door-knncl-nbmain
 863,excludes-stop,door-knncl-nbsecond
 863,excludes-stop,door-knncl-sbsecond
@@ -5118,7 +5076,6 @@ facility_id,property_id,value
 866,alternate-service-text,"If exiting at Kendall, exit the Red Line at Harvard Square, take an Ashmont-/Braintree-bound Red Line train to Kendall, and exit using Kendall Elevator 863. If boarding at Kendall, cross street and use Kendall Elevator 863 to board an Ashmont-/Braintree-bound train to Charles/MGH. At Charles/MGH, board an Alewife-bound Red Line train."
 866,excludes-stop,2231
 866,excludes-stop,70071
-866,excludes-stop,9070071
 866,excludes-stop,door-knncl-nbsecond
 866,excludes-stop,door-knncl-sbmain
 866,excludes-stop,door-knncl-sbsecond
@@ -5342,15 +5299,11 @@ facility_id,property_id,value
 881,excludes-stop,node-sull-sbstairs-platform
 884,alternate-service-text,"If exiting, exit the Blue Line at Beachmont and switch to a Wonderland-bound train. Exit at Revere Beach using Revere Beach Elevator 885. If boarding, take Revere Beach Elevator 885 to Wonderland and switch to a Government Center-bound train."
 884,excludes-stop,70058
-884,excludes-stop,9070057
-884,excludes-stop,9070058
 884,excludes-stop,door-rbmnl-beach
 884,excludes-stop,door-rbmnl-ocean
 884,excludes-stop,door-rbmnl-shirley
 885,alternate-service-text,"If exiting, exit the Blue Line at Wonderland and switch to a Government Center-bound train. Exit at Revere Beach using Revere Beach Elevator 884. If boarding, take Revere Beach Elevator 884 to Beachmont and switch to a Wonderland-bound train."
 885,excludes-stop,70057
-885,excludes-stop,9070057
-885,excludes-stop,9070058
 885,excludes-stop,door-rbmnl-beach
 885,excludes-stop,door-rbmnl-ocean
 885,excludes-stop,door-rbmnl-shirley
@@ -5358,8 +5311,6 @@ facility_id,property_id,value
 886,excludes-stop,5810
 886,excludes-stop,5819
 886,excludes-stop,70056
-886,excludes-stop,9070055
-886,excludes-stop,9070056
 886,excludes-stop,node-378-lobby
 886,excludes-stop,node-378-platform
 886,excludes-stop,node-379-lobby
@@ -5378,8 +5329,6 @@ facility_id,property_id,value
 887,excludes-stop,5810
 887,excludes-stop,5819
 887,excludes-stop,70055
-887,excludes-stop,9070055
-887,excludes-stop,9070056
 887,excludes-stop,node-378-lobby
 887,excludes-stop,node-378-platform
 887,excludes-stop,node-379-lobby
@@ -6550,8 +6499,6 @@ facility_id,property_id,value
 951,alternate-service-text,"If exiting at Charles/MGH, exit the train at Park Street and switch to an Alewife-bound Red Line train. Exit Charles/MGH using Charles/MGH Elevator 952. If boarding at Charles/MGH, take an Alewife-bound Red Line train to Kendall and see station personnel for assistance boarding an Ashmont-/Braintree-bound train."
 951,excludes-stop,70073
 951,excludes-stop,70074
-951,excludes-stop,9070073
-951,excludes-stop,9070074
 951,excludes-stop,node-425-lobby
 951,excludes-stop,node-425-platform
 951,excludes-stop,node-426-lobby
@@ -6568,8 +6515,6 @@ facility_id,property_id,value
 951,excludes-stop,node-chmnl-sbstairs-platform
 952,alternate-service-text,"If exiting at Charles/MGH, exit the train at Kendall and see station personnel for assistance switching to an Ashmont-/Braintree-bound train. Exit at Charles/MGH using Charles/MGH Elevator 951. If boarding at Charles/MGH, use Charles/MGH Elevator 951 to take an Ashmont-/Braintree-bound train to Park Street and switch to an Alewife-bound train."
 952,excludes-stop,70073
-952,excludes-stop,9070073
-952,excludes-stop,9070074
 952,excludes-stop,node-425-lobby
 952,excludes-stop,node-425-platform
 952,excludes-stop,node-426-lobby
@@ -6816,7 +6761,6 @@ facility_id,property_id,value
 978,alternate-service-text,Use Elevator 804 for Red/Green Line lobby to street level.
 978,excludes-stop,70200
 978,excludes-stop,71199
-978,excludes-stop,9070076
 978,excludes-stop,door-pktrm-elevatoreb
 978,excludes-stop,door-pktrm-exitalewife
 978,excludes-stop,door-pktrm-exitashbrain
@@ -6831,7 +6775,6 @@ facility_id,property_id,value
 979,excludes-stop,70199
 979,excludes-stop,70200
 979,excludes-stop,71199
-979,excludes-stop,9070076
 979,excludes-stop,door-pktrm-elevatoreb
 979,excludes-stop,door-pktrm-elevatorwb
 979,excludes-stop,door-pktrm-exitalewife
@@ -6970,12 +6913,6 @@ bike-60,secured,2
 bike-61,capacity,2
 bike-61,enclosed,2
 bike-61,secured,2
-bike-64,capacity,60
-bike-64,enclosed,1
-bike-64,secured,1
-bike-64000,capacity,60
-bike-64000,enclosed,1
-bike-64000,secured,1
 bike-7922,capacity,12
 bike-7922,enclosed,1
 bike-7922,secured,2
@@ -7336,6 +7273,9 @@ bike-cool,secured,2
 bike-davis,capacity,165
 bike-davis,enclosed,1
 bike-davis,secured,1
+bike-dudly,capacity,60
+bike-dudly,enclosed,1
+bike-dudly,secured,1
 bike-eliot,capacity,32
 bike-eliot,enclosed,1
 bike-eliot,secured,2
@@ -13122,14 +13062,8 @@ portlift-bcnwa-1,excludes-stop,1292
 portlift-bcnwa-1,excludes-stop,70229
 portlift-bcnwa-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brkhl-0,excludes-stop,70179
-portlift-brkhl-0,excludes-stop,9070178
-portlift-brkhl-0,excludes-stop,9070179
-portlift-brkhl-0,excludes-stop,9170178
 portlift-brkhl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brkhl-1,excludes-stop,70178
-portlift-brkhl-1,excludes-stop,9070178
-portlift-brkhl-1,excludes-stop,9070179
-portlift-brkhl-1,excludes-stop,9170178
 portlift-brkhl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brmnl-0,excludes-stop,70250
 portlift-brmnl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
@@ -13193,20 +13127,14 @@ portlift-lngmd-1,note,"Significant barriers exist at station, but customers may 
 portlift-mfa,excludes-stop,70245
 portlift-mfa,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newtn-0,excludes-stop,70169
-portlift-newtn-0,excludes-stop,9070168
 portlift-newtn-0,excludes-stop,9170168
 portlift-newtn-0,excludes-stop,9170169
 portlift-newtn-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newtn-1,excludes-stop,70168
-portlift-newtn-1,excludes-stop,9070168
 portlift-newtn-1,excludes-stop,9170168
 portlift-newtn-1,excludes-stop,9170169
 portlift-newtn-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newto,excludes-stop,70170
-portlift-newto,excludes-stop,9070170
-portlift-newto,excludes-stop,9070171
-portlift-newto,excludes-stop,9170170
-portlift-newto,excludes-stop,9170171
 portlift-newto,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-north-0,excludes-stop,113
 portlift-north-0,excludes-stop,114
@@ -13256,13 +13184,11 @@ portlift-pktrm-0,excludes-stop,70196
 portlift-pktrm-0,excludes-stop,70197
 portlift-pktrm-0,excludes-stop,70198
 portlift-pktrm-0,excludes-stop,70199
-portlift-pktrm-0,excludes-stop,9070076
 portlift-pktrm-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-pktrm-1,excludes-stop,70075
 portlift-pktrm-1,excludes-stop,70076
 portlift-pktrm-1,excludes-stop,70199
 portlift-pktrm-1,excludes-stop,70200
-portlift-pktrm-1,excludes-stop,9070076
 portlift-pktrm-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-prmnl-0,excludes-stop,70240
 portlift-prmnl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
@@ -14217,10 +14143,6 @@ subplat-miltt-0,note,Mini high level platform is available to provide level boar
 subplat-miltt-1,excludes-stop,70267
 subplat-miltt-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-newto,excludes-stop,70171
-subplat-newto,excludes-stop,9070170
-subplat-newto,excludes-stop,9070171
-subplat-newto,excludes-stop,9170170
-subplat-newto,excludes-stop,9170171
 subplat-newto,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-portr,excludes-stop,23151
 subplat-portr,excludes-stop,2430
