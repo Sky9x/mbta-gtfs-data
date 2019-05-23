@@ -5330,10 +5330,10 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 6397,6397,Summit St @ Metropolitan Ave,,,,42.252143,-71.109476,,,https://www.mbta.com/stops/6397,,0,,0
 6398,6398,Summit St @ Milton Ave,,,,42.250886,-71.111651,,,https://www.mbta.com/stops/6398,,0,,0
 6399,6399,Milton Ave @ Highland St,,,,42.252568,-71.113466,,,https://www.mbta.com/stops/6399,,0,,0
-64,64,Dudley Station,,,,42.329789,-71.083887,,"Washington St and Dudley St, Roxbury",https://www.mbta.com/stops/64,,0,,1
+64,64,Dudley Station,,,,42.329789,-71.083887,,"Washington St and Dudley St, Roxbury, MA",https://www.mbta.com/stops/64,,0,,1
 640,640,Washington St @ Archdale Rd,,,,42.292634,-71.121390,,,https://www.mbta.com/stops/640,,0,,0
 6400,6400,Highland St @ Albion St,,,,42.252256,-71.114406,,,https://www.mbta.com/stops/6400,,0,,0
-64000,64000,Dudley Station,,,,42.329544,-71.083982,,"Washington St and Dudley St, Roxbury",https://www.mbta.com/stops/64000,,0,,1
+64000,64000,Dudley Station,,,,42.329544,-71.083982,,"Washington St and Dudley St, Roxbury, MA",https://www.mbta.com/stops/64000,,0,,1
 64001,64001,Highland St @ Warren Ave,,,,42.251500,-71.115692,,,https://www.mbta.com/stops/64001,,0,,0
 64002,64002,Dudley St @ Dudley Station,,,,42.328842,-71.084633,,,https://www.mbta.com/stops/64002,,0,,0
 6401,6401,Highland St @ Fairmount Ave,,,,42.250875,-71.116815,,,https://www.mbta.com/stops/6401,,0,,0
@@ -7915,8 +7915,6 @@ place-bmmnl,,Beachmont,,,,42.397542,-70.992319,,"630 Winthrop Ave, Revere, MA 02
 5819,5819,Winthrop Ave @ Beachmont Station,,,,42.398027,-70.992783,,,https://www.mbta.com/stops/place-bmmnl,,0,place-bmmnl,1
 70055,70055,Beachmont,Beachmont - Blue Line - Bowdoin,1,Bowdoin,42.397542,-70.992319,,,https://www.mbta.com/stops/place-bmmnl,level_1_platform,0,place-bmmnl,1
 70056,70056,Beachmont,Beachmont - Blue Line - Wonderland,2,Wonderland,42.397542,-70.992319,,,https://www.mbta.com/stops/place-bmmnl,level_1_platform,0,place-bmmnl,1
-9070055,9070055,Beachmont,Beachmont - Blue Line Southbound Shuttle,,Southbound Shuttle,42.397706,-70.992052,,,https://www.mbta.com/stops/place-bmmnl,,0,place-bmmnl,1
-9070056,9070056,Beachmont,Beachmont - Blue Line Wonderland Shuttle,,Wonderland Shuttle,42.397243,-70.991903,,,https://www.mbta.com/stops/place-bmmnl,,0,place-bmmnl,1
 door-bmmnl-main,,Beachmont - Winthrop Ave,Beachmont - Winthrop Ave,,,42.397551,-70.992358,,,,level_in_street,2,place-bmmnl,1
 node-378-lobby,,Beachmont,Beachmont - Bottom of Escalator 378,,,,,,,,level_in_street,3,place-bmmnl,1
 node-378-platform,,Beachmont,Beachmont - Top of Escalator 378,,,,,,,,level_1_platform,3,place-bmmnl,1
@@ -7982,9 +7980,6 @@ place-brico,,Packards Corner,,,,42.351967,-71.125031,,"Commonwealth Ave and Brig
 place-brkhl,,Brookline Hills,,,,42.331333,-71.126999,,"Tappan St and Cypress St, Brookline, MA 02445",https://www.mbta.com/stops/place-brkhl,,1,,1
 70178,70178,Brookline Hills,Brookline Hills - Green Line - Park Street & North,,Park Street & North,42.331238,-71.127012,,,https://www.mbta.com/stops/place-brkhl,level_ground,0,place-brkhl,1
 70179,70179,Brookline Hills,Brookline Hills - Green Line - (D) Riverside,,Riverside,42.331333,-71.126998,,,https://www.mbta.com/stops/place-brkhl,level_ground,0,place-brkhl,1
-9070178,9070178,Brookline Hills,Boylston St @ Cypress St - Green Line Reservoir Shuttle,,Reservoir Shuttle,42.330044,-71.126602,,,https://www.mbta.com/stops/place-brkhl,,0,place-brkhl,1
-9070179,9070179,Brookline Hills,Boylston St @ Cypress St - Green Line Fenway Shuttle,,Fenway Shuttle,42.330034,-71.125599,,,https://www.mbta.com/stops/place-brkhl,,0,place-brkhl,1
-9170178,9170178,Brookline Hills,Brookline Hills - Green Line Shuttle,,Green Line Shuttle,42.331508,-71.126691,,,https://www.mbta.com/stops/place-brkhl,,0,place-brkhl,1
 door-brkhl-bhs,,"Brookline Hills - Tappan St, Brookline High School","Brookline Hills - Tappan St, Brookline High School",,,42.331516,-71.126922,,,,level_in_street,2,place-brkhl,1
 door-brkhl-cypress,,"Brookline Hills - Tappan St, Cypress St","Brookline Hills - Tappan St, Cypress St",,,42.331421,-71.126579,,,,level_in_street,2,place-brkhl,1
 place-brmnl,,Brigham Circle,,,,42.334229,-71.104609,,"Huntington Ave and Francis St, Boston, MA",https://www.mbta.com/stops/place-brmnl,,1,,1
@@ -8007,8 +8002,6 @@ place-buest,,Boston University East,,,,42.349735,-71.103889,,"Commonwealth Ave a
 place-butlr,,Butler,,,,42.272343,-71.062584,,"Butler St and Branchfield St, Dorchester, MA 02124",https://www.mbta.com/stops/place-butlr,,1,,1
 70265,70265,Butler,Butler - Mattapan Trolley - Mattapan,,Mattapan,42.272343,-71.062585,,,https://www.mbta.com/stops/place-butlr,level_ground,0,place-butlr,1
 70266,70266,Butler,Butler - Mattapan Trolley - Ashmont,,Ashmont,42.272291,-71.062500,,,https://www.mbta.com/stops/place-butlr,level_ground,0,place-butlr,1
-9070265,9070265,Butler,Butler - Mattapan Line Mattapan Shuttle,,Mattapan Shuttle,42.273336,-71.064076,,,https://www.mbta.com/stops/place-butlr,,0,place-butlr,1
-9070266,9070266,Butler,Butler - Mattapan Line Ashmont Shuttle,,Ashmont Shuttle,42.273205,-71.064127,,,https://www.mbta.com/stops/place-butlr,,0,place-butlr,1
 door-butlr-bearse,,"Butler - Bearse Ave, Butler St","Butler - Bearse Ave, Butler St",,,42.272115,-71.062677,,,,level_in_street,2,place-butlr,1
 door-butlr-branchfield,,"Butler - Branchfield St, Butler St","Butler - Branchfield St, Butler St",,,42.272469,-71.062579,,,,level_ground,2,place-butlr,1
 place-buwst,,Boston University West,,,,42.350941,-71.113876,,"Commonwealth Ave and Amory St, Boston, MA 02215",https://www.mbta.com/stops/place-buwst,,1,,2
@@ -8024,7 +8017,6 @@ door-bvmnl-washington,,"Brookline Village - Station St, Washington St","Brooklin
 place-capst,,Capen Street,,,,42.267712,-71.087753,,"50 Capen St, Milton, MA 02186",https://www.mbta.com/stops/place-capst,,1,,1
 70273,70273,Capen Street,Capen Street - Mattapan Trolley - Mattapan,,Mattapan,42.267712,-71.087751,,,https://www.mbta.com/stops/place-capst,level_ground,0,place-capst,1
 70274,70274,Capen Street,Capen Street - Mattapan Trolley - Ashmont,,Ashmont,42.267562,-71.087428,,,https://www.mbta.com/stops/place-capst,level_ground,0,place-capst,1
-9070273,9070273,Capen Street,Capen Street - Mattapan Line Van Shuttle,,Mattapan Line Van Shuttle,42.267053,-71.086621,,,https://www.mbta.com/stops/place-capst,,0,place-capst,1
 door-capst-ashmont,,Capen Street - Capen St (East),Capen Street - Capen St (East),,,42.267529,-71.087266,,,,level_in_street,2,place-capst,1
 door-capst-mattapan,,Capen Street - Capen St (West),Capen Street - Capen St (West),,,42.267595,-71.087241,,,,level_in_street,2,place-capst,1
 place-ccmnl,,Community College,,,,42.373622,-71.069533,,"Austin St and Rutherford Ave, Charlestown, MA",https://www.mbta.com/stops/place-ccmnl,,1,,1
@@ -8043,8 +8035,6 @@ node-ccmnl-stairs-platform,,Community College,Community College - Bottom of stai
 place-cedgr,,Cedar Grove,,,,42.279682,-71.060432,,"Fellsway St and Milton St, Dorchester, MA 02124",https://www.mbta.com/stops/place-cedgr,,1,,1
 70263,70263,Cedar Grove,Cedar Grove - Mattapan Trolley - Mattapan,,Mattapan,42.279680,-71.060434,,,https://www.mbta.com/stops/place-cedgr,level_ground,0,place-cedgr,1
 70264,70264,Cedar Grove,Cedar Grove - Mattapan Trolley - Ashmont,,Ashmont,42.279692,-71.060382,,,https://www.mbta.com/stops/place-cedgr,level_ground,0,place-cedgr,1
-9070263,9070263,Cedar Grove,Cedar Grove - Mattapan Line Mattapan Shuttle,,Mattapan Shuttle,42.278778,-71.059606,,,https://www.mbta.com/stops/place-cedgr,,0,place-cedgr,1
-9070264,9070264,Cedar Grove,Cedar Grove - Mattapan Line Ashmont Shuttle,,Ashmont Shuttle,42.278619,-71.059552,,,https://www.mbta.com/stops/place-cedgr,,0,place-cedgr,1
 door-cedgr-fellsway,,Cedar Grove - Fellsway St,Cedar Grove - Fellsway St,,,42.279710,-71.060360,,,,level_in_street,2,place-cedgr,1
 door-cedgr-hillsdale,,Cedar Grove - Hillsdale St,Cedar Grove - Hillsdale St,,,42.279969,-71.061122,,,,level_in_street,2,place-cedgr,1
 place-cenav,,Central Avenue,,,,42.270027,-71.073334,,"23 Central Ave, Milton, MA 02186",https://www.mbta.com/stops/place-cenav,,1,,1
@@ -8070,8 +8060,6 @@ place-chill,,Chestnut Hill Avenue,,,,42.338169,-71.153160,,"Commonwealth Ave and
 place-chmnl,,Charles/MGH,,,,42.361166,-71.070628,,"Cambridge St and Charles St, Boston, MA",https://www.mbta.com/stops/place-chmnl,,1,,1
 70073,70073,Charles/MGH,Charles/MGH - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.361166,-71.070628,,,https://www.mbta.com/stops/place-chmnl,level_1_platform,0,place-chmnl,1
 70074,70074,Charles/MGH,Charles/MGH - Red Line - Alewife,,Alewife,42.361166,-71.070628,,,https://www.mbta.com/stops/place-chmnl,level_1_platform,0,place-chmnl,1
-9070073,9070073,Charles/MGH,Cambridge St @ Grove St - Red Line Park Street Shuttle,,Park Street Shuttle,42.361003,-71.068975,,,https://www.mbta.com/stops/place-chmnl,,0,place-chmnl,1
-9070074,9070074,Charles/MGH,Cambridge St @ W Cedar St - Red Line Kendall/MIT Shuttle,,Kendall/MIT Shuttle,42.361222,-71.069966,,,https://www.mbta.com/stops/place-chmnl,,0,place-chmnl,1
 door-chmnl-main,,"Charles/MGH - Beacon Hill, Esplanade, Hospitals","Charles/MGH - Beacon Hill, Esplanade, Hospitals",,,42.361117,-71.070570,,,,level_in_street,2,place-chmnl,1
 node-425-lobby,,Charles/MGH,Charles/MGH - Bottom of Escalator 425,,,,,,,,level_in_street,3,place-chmnl,1
 node-425-platform,,Charles/MGH,Charles/MGH - Top of Escalator 425,,,,,,,,level_1_platform,3,place-chmnl,1
@@ -8285,8 +8273,6 @@ place-grigg,,Griggs Street,,,,42.348545,-71.134949,,"Commonwealth Ave and Griggs
 place-grnst,,Green Street,,,,42.310525,-71.107414,,"150 Green St, Jamaica Plain, MA",https://www.mbta.com/stops/place-grnst,,1,,1
 70002,70002,Green Street,Green Street - Orange Line - Forest Hills,,Forest Hills,42.310525,-71.107414,,,https://www.mbta.com/stops/place-grnst,level_-1_platform,0,place-grnst,1
 70003,70003,Green Street,Green Street - Orange Line - Oak Grove,,Oak Grove,42.310525,-71.107414,,,https://www.mbta.com/stops/place-grnst,level_-1_platform,0,place-grnst,1
-9070002,9070002,Green Street,Amory St @ Green St - Orange Line Forest Hills Shuttle,,Forest Hills Shuttle,42.310334,-71.107185,,,https://www.mbta.com/stops/place-grnst,,0,place-grnst,1
-9070003,9070003,Green Street,Amory St @ Green St - Orange Line Oak Grove Shuttle,,Oak Grove Shuttle,42.310583,-71.106840,,,https://www.mbta.com/stops/place-grnst,,0,place-grnst,1
 door-grnst-main,,"Green Street - Woolsey Sq, Green St, Amory St","Green Street - Woolsey Sq, Green St, Amory St",,,42.310556,-71.107519,,,,level_in_street,2,place-grnst,1
 node-grnst-131-lobby,,Green Street,Green Street - Top of Escalator 131,,,,,,,,level_in_street,3,place-grnst,1
 node-grnst-131-platform,,Green Street,Green Street - Bottom of Escalator 131,,,,,,,,level_-1_platform,3,place-grnst,1
@@ -8352,7 +8338,6 @@ place-jaksn,,Jackson Square,,,,42.323132,-71.099592,,"1500 Columbus Ave, Jamaica
 11531,11531,Jackson Square,Jackson Square - Busway,,Busway,42.323074,-71.099546,,,https://www.mbta.com/stops/place-jaksn,level_ground,0,place-jaksn,0
 70006,70006,Jackson Square,Jackson Square - Orange Line - Forest Hills,,Forest Hills,42.323132,-71.099592,,,https://www.mbta.com/stops/place-jaksn,level_-1_platform,0,place-jaksn,1
 70007,70007,Jackson Square,Jackson Square - Orange Line - Oak Grove,,Oak Grove,42.323132,-71.099592,,,https://www.mbta.com/stops/place-jaksn,level_-1_platform,0,place-jaksn,1
-9070007,9070007,Jackson Square,Centre St opp Jackson Square Busway - Orange Line Oak Grove Shuttle,,Oak Grove Shuttle,42.322675,-71.099969,,,https://www.mbta.com/stops/place-jaksn,,0,place-jaksn,1
 door-jaksn-main,,"Jackson Square - Centre St, Busway, Park","Jackson Square - Centre St, Busway, Park",,,42.323014,-71.099879,,,,level_ground,2,place-jaksn,1
 node-jaksn-133-lobby,,Jackson Square,Jackson Square - Top of Escalator 133,,,,,,,,level_ground,3,place-jaksn,1
 node-jaksn-133-platform,,Jackson Square,Jackson Square - Bottom of Escalator 133,,,,,,,,level_-1_platform,3,place-jaksn,1
@@ -8389,7 +8374,6 @@ place-knncl,,Kendall/MIT,,,,42.362491,-71.086177,,"300 Main St, Cambridge, MA 02
 2231,2231,Main St @ Kendall Station - Red Line,,,,42.362498,-71.085841,,,https://www.mbta.com/stops/place-knncl,,0,place-knncl,1
 70071,70071,Kendall/MIT,Kendall/MIT - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.362355,-71.085605,,,https://www.mbta.com/stops/place-knncl,level_-1_platform,0,place-knncl,1
 70072,70072,Kendall/MIT,Kendall/MIT - Red Line - Alewife,,Alewife,42.362434,-71.085591,,,https://www.mbta.com/stops/place-knncl,level_-1_platform,0,place-knncl,1
-9070071,9070071,Kendall/MIT,Main St @ Kendall/MIT - Red Line Park Street Shuttle,,Red Line Shuttle,42.362551,-71.086826,,,https://www.mbta.com/stops/place-knncl,,0,place-knncl,1
 door-knncl-nbmain,,"Kendall/MIT - Main St, Buses, Cambridge Center","Kendall/MIT - Main St, Buses, Cambridge Center",,,42.362588,-71.086167,,,,level_in_street,2,place-knncl,1
 door-knncl-nbsecond,,"Kendall/MIT - Main St, Third St","Kendall/MIT - Main St, Third St",,,42.362439,-71.084837,,,,level_in_street,2,place-knncl,2
 door-knncl-sbmain,,"Kendall/MIT - Main St, Buses, Cambridge Center","Kendall/MIT - Main St, Buses, Cambridge Center",,,42.362259,-71.086206,,,,level_in_street,2,place-knncl,1
@@ -8449,8 +8433,6 @@ place-masta,,Massachusetts Avenue,,,,42.341512,-71.083423,,"393 Massachusetts Av
 188,188,Massachusetts Ave @ Massachusetts Ave Station,,,,42.341570,-71.083092,,,https://www.mbta.com/stops/place-masta,,0,place-masta,1
 70012,70012,Massachusetts Avenue,Massachusetts Avenue - Orange Line - Forest Hills,,Forest Hills,42.341512,-71.083423,,,https://www.mbta.com/stops/place-masta,level_-1_platform,0,place-masta,1
 70013,70013,Massachusetts Avenue,Massachusetts Avenue - Orange Line - Oak Grove,,Oak Grove,42.341512,-71.083423,,,https://www.mbta.com/stops/place-masta,level_-1_platform,0,place-masta,1
-9070012,9070012,Massachusetts Avenue,Columbus Ave @ Massachusetts Ave - Orange Line Forest Hills Shuttle,,Forest Hills Shuttle,42.340585,-71.081898,,,https://www.mbta.com/stops/place-masta,,0,place-masta,1
-9070013,9070013,Massachusetts Avenue,Columbus Ave @ Massachusetts Ave - Orange Line Oak Grove Shuttle,,Oak Grove Shuttle,42.340603,-71.081592,,,https://www.mbta.com/stops/place-masta,,0,place-masta,1
 door-masta-camden,,Massachusetts Avenue - Camden St,Massachusetts Avenue - Camden St,,,42.340379,-71.084763,,,,level_ground,2,place-masta,2
 door-masta-corridor,,Massachusetts Avenue - Massachusetts Ave (Northside),Massachusetts Avenue - Massachusetts Ave (Northside),,,42.341773,-71.083167,,,,level_in_street,2,place-masta,1
 door-masta-main,,Massachusetts Avenue - Massachusetts Ave (Southside),Massachusetts Avenue - Massachusetts Ave (Southside),,,42.341551,-71.083436,,,,level_in_street,2,place-masta,1
@@ -8514,7 +8496,6 @@ door-mvbcl-square,,"Maverick - Sumner St, Maverick Square","Maverick - Sumner St
 place-newtn,,Newton Highlands,,,,42.321735,-71.206116,,"60 Station Avenue, Newton, MA 02461",https://www.mbta.com/stops/place-newtn,,1,,1
 70168,70168,Newton Highlands,Newton Highlands - Green Line - Park Street & North,,Park Street & North,42.321687,-71.206063,,,https://www.mbta.com/stops/place-newtn,level_ground,0,place-newtn,1
 70169,70169,Newton Highlands,Newton Highlands - Green Line - (D) Riverside,,Riverside,42.321734,-71.206118,,,https://www.mbta.com/stops/place-newtn,level_ground,0,place-newtn,1
-9070168,9070168,Newton Highlands,Newton Highlands - Green Line Newton Highlands Shuttle,,Green Line Shuttle,42.322368,-71.205831,,,https://www.mbta.com/stops/place-newtn,,0,place-newtn,1
 9170168,9170168,Newton Highlands,Newton Highlands - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.321660,-71.206241,,,https://www.mbta.com/stops/place-newtn,,0,place-newtn,1
 9170169,9170169,Newton Highlands,Newton Highlands - Green Line Westbound Shuttle,,Riverside Shuttle,42.321751,-71.206079,,,https://www.mbta.com/stops/place-newtn,,0,place-newtn,1
 door-newtn-hyde,,Newton Highlands - Hyde St,Newton Highlands - Hyde St,,,42.323468,-71.204330,,,,level_1_in_street,2,place-newtn,2
@@ -8524,10 +8505,6 @@ door-newtn-walnut,,Newton Highlands - Walnut St,Newton Highlands - Walnut St,,,4
 place-newto,,Newton Centre,,,,42.329391,-71.192429,,"72 Union Street, Newton, MA 02459",https://www.mbta.com/stops/place-newto,,1,,1
 70170,70170,Newton Centre,Newton Centre - Green Line - Park Street & North,,Park Street & North,42.329338,-71.192388,,,https://www.mbta.com/stops/place-newto,level_ground,0,place-newto,1
 70171,70171,Newton Centre,Newton Centre - Green Line - (D) Riverside,,Riverside,42.329393,-71.192430,,,https://www.mbta.com/stops/place-newto,level_ground,0,place-newto,1
-9070170,9070170,Newton Centre,Newton Centre - Green Line Brookline Hills Shuttle,,Brookline Hills Shuttle,42.329845,-71.191072,,,https://www.mbta.com/stops/place-newto,,0,place-newto,1
-9070171,9070171,Newton Centre,Newton Centre - Green Line Newton Highlands Shuttle,,Newton Highlands Shuttle,42.330073,-71.191265,,,https://www.mbta.com/stops/place-newto,,0,place-newto,1
-9170170,9170170,Newton Centre,Newton Centre - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.330311,-71.192684,,,https://www.mbta.com/stops/place-newto,,0,place-newto,1
-9170171,9170171,Newton Centre,Newton Centre - Green Line Westbound Shuttle,,Riverside Shuttle,42.330412,-71.192966,,,https://www.mbta.com/stops/place-newto,,0,place-newto,1
 door-newto-braeland,,"Newton Centre - Braeland Ave, Langley Rd","Newton Centre - Braeland Ave, Langley Rd",,,42.329349,-71.192296,,,,level_1_in_street,2,place-newto,2
 door-newto-herrick,,"Newton Centre - Union St, Herrick Rd","Newton Centre - Union St, Herrick Rd",,,42.329240,-71.193377,,,,level_1_in_street,2,place-newto,2
 door-newto-langley,,Newton Centre - Langley Rd,Newton Centre - Langley Rd,,,42.329740,-71.191841,,,,level_1_in_street,2,place-newto,1
@@ -8620,7 +8597,6 @@ place-pktrm,,Park Street,,,,42.356395,-71.062424,,"Tremont St and Winter St, Bos
 70199,70199,Park Street,Park Street - Green Line - (E) Heath Street,1,Heath Street,42.356395,-71.062424,,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1
 70200,70200,Park Street,Park Street - Green Line - Government Center & North,4,Government Center & North,42.356395,-71.062424,,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1
 71199,71199,Park Street,Park Street - Green Line - Drop-off Only,3,Drop-off Only,42.356395,-71.062424,,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1
-9070076,9070076,Park Street,Tremont St @ Winter St - Red Line Shuttle,,Red Line Shuttle,42.356164,-71.062487,,,https://www.mbta.com/stops/place-pktrm,,0,place-pktrm,1
 door-pktrm-elevatoreb,,Park Street - Tremont St to Lobby (Elevator 804),Park Street - Tremont St to Lobby (Elevator 804),,,42.356172,-71.062239,,,,level_in_street,2,place-pktrm,1
 door-pktrm-elevatorwb,,"Park Street - Elevator, Tremont St","Park Street - Elevator, Tremont St",,,42.356331,-71.062675,,,,level_in_street,2,place-pktrm,1
 door-pktrm-exitalewife,,Park Street - Escalator to Tremont St (North),Park Street - Escalator to Tremont St (North),,,42.356504,-71.061904,,,,level_in_street,2,place-pktrm,2
@@ -8684,8 +8660,6 @@ node-qnctr-rdstair-platform,,Quincy Center,Quincy Center - Stairs platform level
 place-rbmnl,,Revere Beach,,,,42.407843,-70.992533,,"220 Shirley Ave, Revere, MA",https://www.mbta.com/stops/place-rbmnl,,1,,1
 70057,70057,Revere Beach,Revere Beach - Blue Line - Bowdoin,1,Bowdoin,42.407843,-70.992533,,,https://www.mbta.com/stops/place-rbmnl,level_-1_platform,0,place-rbmnl,1
 70058,70058,Revere Beach,Revere Beach - Blue Line - Wonderland,2,Wonderland,42.407843,-70.992533,,,https://www.mbta.com/stops/place-rbmnl,level_-1_platform,0,place-rbmnl,1
-9070057,9070057,Revere Beach,Revere Beach - Blue Line Southbound Shuttle,,Southbound Shuttle,42.408469,-70.992724,,,https://www.mbta.com/stops/place-rbmnl,,0,place-rbmnl,1
-9070058,9070058,Revere Beach,Revere Beach - Blue Line Wonderland Shuttle,,Wonderland Shuttle,42.408580,-70.992596,,,https://www.mbta.com/stops/place-rbmnl,,0,place-rbmnl,1
 door-rbmnl-beach,,Revere Beach - Beach St,Revere Beach - Beach St,,,42.408430,-70.992553,,,,level_in_street,2,place-rbmnl,2
 door-rbmnl-main,,"Revere Beach - Ocean Ave, Shirley Ave","Revere Beach - Ocean Ave, Shirley Ave",,,42.407820,-70.992633,,,,level_in_street,2,place-rbmnl,1
 door-rbmnl-ocean,,Revere Beach - 300 Ocean Ave,Revere Beach - 300 Ocean Ave,,,42.407900,-70.992110,,,,level_0_building,2,place-rbmnl,2
@@ -8695,7 +8669,6 @@ place-rcmnl,,Roxbury Crossing,,,,42.331397,-71.095451,,"1400 Tremont St, Roxbury
 1323,1323,Tremont St @ Columbus Ave,,,,42.331479,-71.095333,,,https://www.mbta.com/stops/place-rcmnl,,0,place-rcmnl,1
 70008,70008,Roxbury Crossing,Roxbury Crossing - Orange Line - Forest Hills,,Forest Hills,42.331397,-71.095451,,,https://www.mbta.com/stops/place-rcmnl,level_-1_platform,0,place-rcmnl,1
 70009,70009,Roxbury Crossing,Roxbury Crossing - Orange Line - Oak Grove,,Oak Grove,42.331397,-71.095451,,,https://www.mbta.com/stops/place-rcmnl,level_-1_platform,0,place-rcmnl,1
-9070008,9070008,Roxbury Crossing,Columbus Ave @ Roxbury Crossing Station - Orange Line Forest Hills Shuttle,,Forest Hills Shuttle,42.331139,-71.095052,,,https://www.mbta.com/stops/place-rcmnl,,0,place-rcmnl,1
 door-rcmnl-tremont,,Roxbury Crossing - Tremont St,Roxbury Crossing - Tremont St,,,42.331415,-71.095480,,,,level_in_street,2,place-rcmnl,1
 node-rcmnl-134-lobby,,Roxbury Crossing,Roxbury Crossing - Top of Escalator 134,,,,,,,,level_in_street,3,place-rcmnl,1
 node-rcmnl-134-platform,,Roxbury Crossing,Roxbury Crossing - Bottom of Escalator 134,,,,,,,,level_-1_platform,3,place-rcmnl,1
@@ -8740,8 +8713,6 @@ place-rvrwy,,Riverway,,,,42.331684,-71.111931,,"S Huntington Ave at Huntington A
 place-sbmnl,,Stony Brook,,,,42.317062,-71.104248,,"100 Boylston St, Jamaica Plain, MA",https://www.mbta.com/stops/place-sbmnl,,1,,1
 70004,70004,Stony Brook,Stony Brook - Orange Line - Forest Hills,,Forest Hills,42.317062,-71.104248,,,https://www.mbta.com/stops/place-sbmnl,level_-1_platform,0,place-sbmnl,1
 70005,70005,Stony Brook,Stony Brook - Orange Line - Oak Grove,,Oak Grove,42.317062,-71.104248,,,https://www.mbta.com/stops/place-sbmnl,level_-1_platform,0,place-sbmnl,1
-9070004,9070004,Stony Brook,Boylston St @ Stony Brook - Orange Line Forest Hills Shuttle,,Forest Hills Shuttle,42.316940,-71.104203,,,https://www.mbta.com/stops/place-sbmnl,,0,place-sbmnl,1
-9070005,9070005,Stony Brook,Boylston St @ Stony Brook - Orange Line Oak Grove Shuttle,,Oak Grove Shuttle,42.317082,-71.104428,,,https://www.mbta.com/stops/place-sbmnl,,0,place-sbmnl,1
 door-sbmnl-main,,Stony Brook - Amory St,Stony Brook - Amory St,,,42.317100,-71.104216,,,,level_in_street,2,place-sbmnl,1
 node-sbmnl-132-lobby,,Stony Brook,Stony Brook - Top of Escalator 132,,,,,,,,level_in_street,3,place-sbmnl,1
 node-sbmnl-132-platform,,Stony Brook,Stony Brook - Bottom of Escalator 132,,,,,,,,level_-1_platform,3,place-sbmnl,1
@@ -8754,8 +8725,6 @@ node-sbmnl-stairs-platform,,Stony Brook,Stony Brook - Bottom of stairs,,,,,,,,le
 place-sdmnl,,Suffolk Downs,,,,42.390501,-70.997123,,"1230 Bennington St, East Boston, MA 02128",https://www.mbta.com/stops/place-sdmnl,,1,,1
 70053,70053,Suffolk Downs,Suffolk Downs - Blue Line - Bowdoin,1,Bowdoin,42.390501,-70.997123,,,https://www.mbta.com/stops/place-sdmnl,level_0_platform,0,place-sdmnl,1
 70054,70054,Suffolk Downs,Suffolk Downs - Blue Line - Wonderland,2,Wonderland,42.390501,-70.997123,,,https://www.mbta.com/stops/place-sdmnl,level_0_platform,0,place-sdmnl,1
-9070053,9070053,Suffolk Downs,Suffolk Downs - Blue Line Southbound Shuttle,,Southbound Shuttle,42.390264,-70.996908,,,https://www.mbta.com/stops/place-sdmnl,,0,place-sdmnl,1
-9070054,9070054,Suffolk Downs,Suffolk Downs - Blue Line Wonderland Shuttle,,Wonderland Shuttle,42.390137,-70.996810,,,https://www.mbta.com/stops/place-sdmnl,,0,place-sdmnl,1
 door-sdmnl-benning,,Suffolk Downs - Bennington St,Suffolk Downs - Bennington St,,,42.390367,-70.996964,,,,level_in_street,2,place-sdmnl,1
 door-sdmnl-walley,,Suffolk Downs - Walley St,Suffolk Downs - Walley St,,,42.390640,-70.997388,,,,level_in_street,2,place-sdmnl,1
 place-shmnl,,Savin Hill,,,,42.311290,-71.053331,,"125 Savin Hill Ave, Dorchester, MA 02124",https://www.mbta.com/stops/place-shmnl,,1,,1
@@ -9049,8 +9018,6 @@ node-tumnl-washstairs-lobby,,Tufts Medical Center,Tufts Medical Center - Bottom 
 place-valrd,,Valley Road,,,,42.268322,-71.081566,,"291 Valley Rd, Milton, MA 02186",https://www.mbta.com/stops/place-valrd,,1,,2
 70271,70271,Valley Road,Valley Road - Mattapan Trolley - Mattapan,,Mattapan,42.268322,-71.081568,,,https://www.mbta.com/stops/place-valrd,level_ground,0,place-valrd,2
 70272,70272,Valley Road,Valley Road - Mattapan Trolley - Ashmont,,Ashmont,42.268277,-71.081544,,,https://www.mbta.com/stops/place-valrd,level_ground,0,place-valrd,2
-9070271,9070271,Valley Road,Valley Road - Mattapan Line Central Avenue Van Shuttle,,Central Ave Van Shuttle,42.267945,-71.081113,,,https://www.mbta.com/stops/place-valrd,,0,place-valrd,1
-9070272,9070272,Valley Road,Valley Road - Mattapan Line Capen Street Van Shuttle,,Capen St Van Shuttle,42.267815,-71.081089,,,https://www.mbta.com/stops/place-valrd,,0,place-valrd,1
 door-valrd-eliot,,Valley Road - Eliot St,Valley Road - Eliot St,,,42.267932,-71.081125,,,,level_1_in_street,2,place-valrd,2
 place-waban,,Waban,,,,42.325943,-71.230728,,"Beacon St and Waban Sq, Newton, MA 02468",https://www.mbta.com/stops/place-waban,,1,,2
 70164,70164,Waban,Waban - Green Line - Park Street & North,,Park Street & North,42.325899,-71.230805,,,https://www.mbta.com/stops/place-waban,level_ground,0,place-waban,2
