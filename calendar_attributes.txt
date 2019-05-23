@@ -43,7 +43,6 @@ Boat-F4-Weekday,Weekday schedule,Weekday,Weekday,1
 CR-Saturday-Fairmount-OldColony-19,Saturday schedule,Saturday,Saturday,1
 CR-Saturday-Fairmount-Spring-19,Saturday schedule,Saturday,Saturday,1
 CR-Saturday-Fitchburg-OldColony-19,Saturday schedule,Saturday,Saturday,1
-CR-Saturday-Fitchburg-OldColony-19-FitchburgGLX,Saturday schedule,Saturday,Saturday,4
 CR-Saturday-Fitchburg-Spring-19,Saturday schedule,Saturday,Saturday,1
 CR-Saturday-Franklin-OldColony-19,Saturday schedule,Saturday,Saturday,1
 CR-Saturday-Franklin-Spring-19,Saturday schedule,Saturday,Saturday,1
@@ -59,6 +58,7 @@ CR-Saturday-Middleborough-OldColony-19,Saturday schedule,Saturday,Saturday,1
 CR-Saturday-Middleborough-Spring-19,Saturday schedule,Saturday,Saturday,1
 CR-Saturday-Needham-OldColony-19,Saturday schedule,Saturday,Saturday,1
 CR-Saturday-Needham-Spring-19,Saturday schedule,Saturday,Saturday,1
+CR-Saturday-Newburyport-GloucesterDraw-19,Saturday schedule,Saturday,Saturday,1
 CR-Saturday-Newburyport-OldColony-19,Saturday schedule,Saturday,Saturday,1
 CR-Saturday-Newburyport-Spring-19,Saturday schedule,Saturday,Saturday,1
 CR-Saturday-Providence-OldColony-19,Saturday schedule,Saturday,Saturday,1
@@ -68,9 +68,7 @@ CR-Saturday-Worcester-Spring-19,Saturday schedule,Saturday,Saturday,1
 CR-Sunday-Fairmount-OldColony-19,Sunday schedule,Sunday,Sunday,1
 CR-Sunday-Fairmount-Spring-19,Sunday schedule,Sunday,Sunday,1
 CR-Sunday-Fitchburg-OldColony-19,Sunday schedule,Sunday,Sunday,1
-CR-Sunday-Fitchburg-OldColony-19-FitchburgGLX,Sunday schedule,Sunday,Sunday,4
 CR-Sunday-Fitchburg-Spring-19,Sunday schedule,Sunday,Sunday,1
-CR-Sunday-Fitchburg-Spring-19-LittletonWachusett,Sunday schedule,Sunday,Sunday,4
 CR-Sunday-Franklin-OldColony-19,Sunday schedule,Sunday,Sunday,1
 CR-Sunday-Franklin-Spring-19,Sunday schedule,Sunday,Sunday,1
 CR-Sunday-Greenbush-OldColony-19,Sunday schedule,Sunday,Sunday,1
@@ -83,6 +81,7 @@ CR-Sunday-Lowell-OldColony-19,Sunday schedule,Sunday,Sunday,1
 CR-Sunday-Lowell-Spring-19,Sunday schedule,Sunday,Sunday,1
 CR-Sunday-Middleborough-OldColony-19,Sunday schedule,Sunday,Sunday,1
 CR-Sunday-Middleborough-Spring-19,Sunday schedule,Sunday,Sunday,1
+CR-Sunday-Newburyport-GloucesterDraw-19,Sunday schedule,Sunday,Sunday,1
 CR-Sunday-Newburyport-OldColony-19,Sunday schedule,Sunday,Sunday,1
 CR-Sunday-Newburyport-Spring-19,Sunday schedule,Sunday,Sunday,1
 CR-Sunday-Providence-OldColony-19,Sunday schedule,Sunday,Sunday,1
@@ -109,6 +108,7 @@ CR-Weekday-Middleborough-Spring-19,Weekday schedule,Weekday,Weekday,1
 CR-Weekday-Needham-Fall-18,Weekday schedule,Weekday,Weekday,1
 CR-Weekday-Needham-Spring-19,Weekday schedule,Weekday,Weekday,1
 CR-Weekday-Newburyport-Fall-18,Weekday schedule,Weekday,Weekday,1
+CR-Weekday-Newburyport-GloucesterDraw-19,Weekday schedule,Weekday,Weekday,1
 CR-Weekday-Newburyport-Spring-19,Weekday schedule,Weekday,Weekday,1
 CR-Weekday-Providence-Fall-18,Weekday schedule,Weekday,Weekday,1
 CR-Weekday-Providence-Spring-19,Weekday schedule,Weekday,Weekday,1
@@ -127,7 +127,7 @@ LRV22019-hlb29017-Sunday-01,Sunday schedule,Sunday,Sunday,1
 LRV22019-hlb29017-Sunday-01-BabcockBC,Sunday schedule,Sunday,Sunday,4
 LRV22019-hlb29017-Sunday-01-ClevelandCircleKenmore,Sunday schedule,Sunday,Sunday,4
 LRV22019-hlb29017-Sunday-01-ClevelandCircleStMary,Sunday schedule,Sunday,Sunday,4
-LRV22019-hlb29hl7-Sunday-01-20:30-NewtonHighlandsRiverside,Holiday (Sunday schedule),Holiday,Sunday,4
+LRV22019-hlb29hl7-Sunday-01,Holiday (Sunday schedule),Holiday,Sunday,3
 LRV22019-hlm29011-Weekday-01,Weekday schedule,Weekday,Weekday,1
 LRV22019-hlm29016-Saturday-01,Saturday schedule,Saturday,Saturday,1
 LRV22019-hlm29017-Sunday-01,Sunday schedule,Sunday,Sunday,1
@@ -152,7 +152,6 @@ RTL22019-hmo29016-Saturday-01,Saturday schedule,Saturday,Saturday,1
 RTL22019-hmo29017-Sunday-01,Sunday schedule,Sunday,Sunday,1
 RTL22019-hmo29hl7-Sunday-01,Holiday (Sunday schedule),Holiday,Sunday,3
 RTL22019-hms29011-Weekday-01-L,Weekday schedule,Weekday,Weekday,1
-RTL22019-hms29016-Saturday-01-BraintreeNQuincy,Saturday schedule,Saturday,Saturday,4
 RTL22019-hms29016-Saturday-01-BraintreeQuincyCenterL,Saturday schedule,Saturday,Saturday,4
 RTL22019-hms29016-Saturday-01-L,Saturday schedule,Saturday,Saturday,1
 RTL22019-hms29017-Sunday-01-BraintreeQuincyCenterL,Sunday schedule,Sunday,Sunday,4
