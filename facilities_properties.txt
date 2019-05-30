@@ -1412,6 +1412,8 @@ facility_id,property_id,value
 378,excludes-stop,5810
 378,excludes-stop,5819
 378,excludes-stop,70056
+378,excludes-stop,9070055
+378,excludes-stop,9070056
 378,excludes-stop,node-378-lobby
 378,excludes-stop,node-378-platform
 378,excludes-stop,node-379-lobby
@@ -1430,6 +1432,8 @@ facility_id,property_id,value
 379,excludes-stop,5810
 379,excludes-stop,5819
 379,excludes-stop,70055
+379,excludes-stop,9070055
+379,excludes-stop,9070056
 379,excludes-stop,node-378-lobby
 379,excludes-stop,node-378-platform
 379,excludes-stop,node-379-lobby
@@ -5299,11 +5303,15 @@ facility_id,property_id,value
 881,excludes-stop,node-sull-sbstairs-platform
 884,alternate-service-text,"If exiting, exit the Blue Line at Beachmont and switch to a Wonderland-bound train. Exit at Revere Beach using Revere Beach Elevator 885. If boarding, take Revere Beach Elevator 885 to Wonderland and switch to a Government Center-bound train."
 884,excludes-stop,70058
+884,excludes-stop,9070057
+884,excludes-stop,9070058
 884,excludes-stop,door-rbmnl-beach
 884,excludes-stop,door-rbmnl-ocean
 884,excludes-stop,door-rbmnl-shirley
 885,alternate-service-text,"If exiting, exit the Blue Line at Wonderland and switch to a Government Center-bound train. Exit at Revere Beach using Revere Beach Elevator 884. If boarding, take Revere Beach Elevator 884 to Beachmont and switch to a Wonderland-bound train."
 885,excludes-stop,70057
+885,excludes-stop,9070057
+885,excludes-stop,9070058
 885,excludes-stop,door-rbmnl-beach
 885,excludes-stop,door-rbmnl-ocean
 885,excludes-stop,door-rbmnl-shirley
@@ -5311,6 +5319,8 @@ facility_id,property_id,value
 886,excludes-stop,5810
 886,excludes-stop,5819
 886,excludes-stop,70056
+886,excludes-stop,9070055
+886,excludes-stop,9070056
 886,excludes-stop,node-378-lobby
 886,excludes-stop,node-378-platform
 886,excludes-stop,node-379-lobby
@@ -5329,6 +5339,8 @@ facility_id,property_id,value
 887,excludes-stop,5810
 887,excludes-stop,5819
 887,excludes-stop,70055
+887,excludes-stop,9070055
+887,excludes-stop,9070056
 887,excludes-stop,node-378-lobby
 887,excludes-stop,node-378-platform
 887,excludes-stop,node-379-lobby
@@ -7402,9 +7414,6 @@ bike-wrnst,secured,2
 bike-wtcst,capacity,5
 bike-wtcst,enclosed,1
 bike-wtcst,secured,2
-charliecard-64000,dispenses,fare-media
-charliecard-64000,note,Saturday hours: 7:00A - 7:00P
-charliecard-64000,note,Weekday hours: 7:00A - 7:00P
 charliecard-alfcl,dispenses,fare-media
 charliecard-alfcl,note,Saturday hours: 7:00A - 7:00P
 charliecard-alfcl,note,Sunday hours: 7:00A - 7:00P
@@ -7421,6 +7430,9 @@ charliecard-bbsta,dispenses,fare-media
 charliecard-bbsta,note,Saturday hours: 7:00A - 7:00P
 charliecard-bbsta,note,Sunday hours: 7:00A - 7:00P
 charliecard-bbsta,note,Weekday hours: 7:00A - 7:00P
+charliecard-dudly,dispenses,fare-media
+charliecard-dudly,note,Saturday hours: 7:00A - 7:00P
+charliecard-dudly,note,Weekday hours: 7:00A - 7:00P
 charliecard-dwnxg-store,address,"7 Chauncy St, Boston, MA 02111"
 charliecard-dwnxg-store,contact-phone,617-222-3200
 charliecard-dwnxg-store,contact-url,https://www.mbta.com/fares/charliecard/services
@@ -9699,7 +9711,9 @@ highlevel-DB-2240,note,Full high level platform is available to provide level bo
 highlevel-DB-2249,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-DB-2258,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-DB-2265,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-ER-0115,excludes-stop,14748
 highlevel-ER-0115,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-ER-0168,excludes-stop,37150
 highlevel-ER-0168,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-ER-0312,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-ER-0362,note,Full high level platform is available to provide level boarding to every car in a train set
@@ -9714,7 +9728,9 @@ highlevel-GRB-0199,note,Full high level platform is available to provide level b
 highlevel-GRB-0233,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-GRB-0276,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-KB-0351,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-MM-0150,excludes-stop,4255
 highlevel-MM-0150,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-MM-0186,excludes-stop,39870
 highlevel-MM-0186,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-MM-0200,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-MM-0219,note,Full high level platform is available to provide level boarding to every car in a train set
@@ -12910,7 +12926,7 @@ park-sstat-garage,contact-phone,617-345-0202
 park-sstat-garage,contact-url,https://www.propark.com/propark-locator2/south-station-garage/
 park-sstat-garage,enclosed,1
 park-sstat-garage,fee-daily,"Hourly: 30 min: $5, 1 hr: $10, 1.5 hrs: $15, 2 hrs: $20, 2.5 hrs: $25, 3+ hrs: $30 | Daily Max: $30 | Early Bird (in by 8:30 AM, out by 6 PM): $26 | Nights/Weekends: $10"
-park-sstat-garage,fee-monthly,"$150 regular, $445 overnight"
+park-sstat-garage,fee-monthly,"$445 regular, $150 overnight"
 park-sstat-garage,municipality,Boston
 park-sstat-garage,operator,ProPark
 park-sstat-garage,owner,Private
@@ -14021,7 +14037,7 @@ retailsale-303037,dispenses,fare-media
 retailsale-303037,enclosed,1
 retailsale-303037,payment-form-accepted,cash
 retailsale-303037,payment-form-accepted,credit-debit-card
-subplat-025,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-25,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-DB-0095,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-DB-2205,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-ER-0128,note,Mini high level platform is available to provide level boarding to certain cars in a train set
@@ -14050,6 +14066,7 @@ subplat-NB-0072,note,Mini high level platform is available to provide level boar
 subplat-NB-0076,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-NB-0080,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-NB-0109,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NB-0120,excludes-stop,91852
 subplat-NB-0120,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-NB-0127,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-NB-0137,note,Mini high level platform is available to provide level boarding to certain cars in a train set
