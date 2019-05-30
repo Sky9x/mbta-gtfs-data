@@ -161,7 +161,7 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 445,445,1,escalator,place-gover,"Copley & West, Blue Line platforms to street","Government Center Escalator 445 (Copley & West, Blue Line platforms to street)",,,,2
 446,446,1,escalator,place-gover,Blue Line platform to Green Line platform,Government Center Escalator 446 (Blue Line platform to Green Line platform),,,,2
 447,447,1,escalator,place-north,"Passageway to Commuter Rail, TD Garden","North Station Escalator 447 (Passageway to Commuter Rail, TD Garden)",,,,2
-50,50,1,elevator,Framingham,Outbound platform to pedestrian bridge,Framingham Elevator 50 (Outbound platform to pedestrian bridge),,,,1
+50,50,1,elevator,place-WML-0214,Outbound platform to pedestrian bridge,Framingham Elevator 50 (Outbound platform to pedestrian bridge),,,,1
 501,501,1,escalator,place-state,Oak Grove platform to Wonderland platform,State Escalator 501 (Oak Grove platform to Wonderland platform),,,,2
 502,502,1,escalator,place-state,Wonderland platform to Old State House,State Escalator 502 (Wonderland platform to Old State House),,,,2
 503,503,1,escalator,place-prmnl,Lobby to Huntington Avenue,Prudential Escalator 503 (Lobby to Huntington Avenue),,,,2
@@ -170,7 +170,7 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 506,506,1,escalator,place-portr,Alewife platform south to Ashmont/Braintree platform,Porter Escalator 506 (Alewife platform south to Ashmont/Braintree platform),,,,2
 507,507,1,escalator,place-portr,Alewife platform north to Ashmont/Braintree platform,Porter Escalator 507 (Alewife platform north to Ashmont/Braintree platform),,,,2
 509,509,1,escalator,place-portr,Paid lobby to Ashmont/Braintree platform,Porter Escalator 509 (Paid lobby to Ashmont/Braintree platform),,,,2
-51,51,1,elevator,Framingham,Waverly Street to pedestrian bridge,Framingham Elevator 51 (Waverly Street to pedestrian bridge),,,,1
+51,51,1,elevator,place-WML-0214,Waverly Street to pedestrian bridge,Framingham Elevator 51 (Waverly Street to pedestrian bridge),,,,1
 510,510,1,escalator,place-portr,Ashmont/Braintree platform to paid lobby,Porter Escalator 510 (Ashmont/Braintree platform to paid lobby),,,,2
 511,511,1,escalator,place-portr,Ashmont/Braintree platform to paid lobby,Porter Escalator 511 (Ashmont/Braintree platform to paid lobby),,,,2
 512,512,1,escalator,place-harsq,Mezzanine to Harvard Square,Harvard Escalator 512 (Mezzanine to Harvard Square),,,,2
@@ -178,11 +178,11 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 514,514,1,escalator,place-harsq,Main lobby to Harvard Square mezzanine,Harvard Escalator 514 (Main lobby to Harvard Square mezzanine),,,,2
 515,515,1,escalator,place-harsq,Harvard Square mezzanine to main lobby,Harvard Escalator 515 (Harvard Square mezzanine to main lobby),,,,2
 516,516,1,escalator,place-harsq,Alewife platform to Church Street lobby,Harvard Escalator 516 (Alewife platform to Church Street lobby),,,,2
-52,52,1,elevator,Route 128,Lobby to South Station platform,Route 128 Elevator 52 (Lobby to South Station platform),,,,1
+52,52,1,elevator,place-NEC-2173,Lobby to South Station platform,Route 128 Elevator 52 (Lobby to South Station platform),,,,1
 523,523,1,escalator,place-state,"Forest Hills platform to Washington Street, Milk Street","State Escalator 523 (Forest Hills platform to Washington Street, Milk Street)",,,,2
-53,53,1,elevator,Route 128,Lobby to outbound platform,Route 128 Elevator 53 (Lobby to outbound platform),,,,1
-54,54,1,escalator,Route 128,South Station platform to lobby,Route 128 Escalator 54 (South Station platform to lobby),,,,2
-55,55,1,escalator,Route 128,Outbound platform to lobby,Route 128 Escalator 55 (Outbound platform to lobby),,,,2
+53,53,1,elevator,place-NEC-2173,Lobby to outbound platform,Route 128 Elevator 53 (Lobby to outbound platform),,,,1
+54,54,1,escalator,place-NEC-2173,South Station platform to lobby,Route 128 Escalator 54 (South Station platform to lobby),,,,2
+55,55,1,escalator,place-NEC-2173,Outbound platform to lobby,Route 128 Escalator 55 (Outbound platform to lobby),,,,2
 6,6,1,escalator,place-state,Oak Grove platform to Old State House lobby,State Escalator 6 (Oak Grove platform to Old State House lobby),,,,2
 6476,6476,1,elevator,place-sstat,"Red Line, Airport/Design Center lobby to Commuter Rail lobby","South Station Elevator 6476 (Red Line, Airport/Design Center lobby to Commuter Rail lobby)",,,,1
 701,701,1,elevator,place-wondl,Main lobby to garage,Wonderland Elevator 701 (Main lobby to garage),,,,1
@@ -204,9 +204,9 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 721,721,1,elevator,place-gover,Green Line platform to street,Government Center Elevator 721 (Green Line platform to street),,,,1
 722,722,1,elevator,place-gover,Blue Line platform to Green Line platform,Government Center Elevator 722 (Blue Line platform to Green Line platform),,,,1
 723,723,1,elevator,place-gover,Blue Line platform to Green Line platform,Government Center Elevator 723 (Blue Line platform to Green Line platform),,,,1
-725,725,1,elevator,Boston Landing,Arthur Street to pedestrian bridge,Boston Landing Elevator 725 (Arthur Street to pedestrian bridge),,,,1
-726,726,1,elevator,Boston Landing,Platform to Arthur Street pedestrian bridge,Boston Landing Elevator 726 (Platform to Arthur Street pedestrian bridge),,,,1
-727,727,1,elevator,Boston Landing,Platform to Everett Street,Boston Landing Elevator 727 (Platform to Everett Street),,,,1
+725,725,1,elevator,place-WML-0035,Arthur Street to pedestrian bridge,Boston Landing Elevator 725 (Arthur Street to pedestrian bridge),,,,1
+726,726,1,elevator,place-WML-0035,Platform to Arthur Street pedestrian bridge,Boston Landing Elevator 726 (Platform to Arthur Street pedestrian bridge),,,,1
+727,727,1,elevator,place-WML-0035,Platform to Everett Street,Boston Landing Elevator 727 (Platform to Everett Street),,,,1
 731,731,1,elevator,place-north,Passageway to Causeway St.,North Station Elevator 731 (Passageway to Causeway St.),,,,1
 732,732,1,elevator,place-north,"Passageway to Commuter Rail, TD Garden","North Station Elevator 732 (Passageway to Commuter Rail, TD Garden)",,,,1
 800,800,1,elevator,place-ogmnl,"Busway, parking lot to lobby","Oak Grove Elevator 800 (Busway, parking lot to lobby)",,,,1
@@ -304,9 +304,9 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 925,925,1,elevator,place-aqucl,Atlantic Avenue lobby to Long Wharf,Aquarium Elevator 925 (Atlantic Avenue lobby to Long Wharf),,,,1
 926,926,1,elevator,place-sstat,Lobby to street outside main entrance,South Station Elevator 926 (Lobby to street outside main entrance),,,,1
 927,927,1,elevator,place-sstat,South Station platform to Alewife platform,South Station Elevator 927 (South Station platform to Alewife platform),,,,1
-928,928,1,elevator,Lynn,Platform to lobby,Lynn Elevator 928 (Platform to lobby),,,,1
-929,929,1,elevator,Lynn,Street to parking garage,Lynn Elevator 929 (Street to parking garage),,,,1
-930,930,1,elevator,Lynn,Street to parking garage,Lynn Elevator 930 (Street to parking garage),,,,1
+928,928,1,elevator,place-ER-0115,Platform to lobby,Lynn Elevator 928 (Platform to lobby),,,,1
+929,929,1,elevator,place-ER-0115,Street to parking garage,Lynn Elevator 929 (Street to parking garage),,,,1
+930,930,1,elevator,place-ER-0115,Street to parking garage,Lynn Elevator 930 (Street to parking garage),,,,1
 931,931,1,elevator,place-aport,Wonderland platform to paid mezzanine,Airport Elevator 931 (Wonderland platform to paid mezzanine),,,,1
 932,932,1,elevator,place-aport,Bowdoin platform to paid mezzanine,Airport Elevator 932 (Bowdoin platform to paid mezzanine),,,,1
 933,933,1,elevator,place-ccmnl,Paid lobby to platform,Community College Elevator 933 (Paid lobby to platform),,,,1
@@ -358,10 +358,10 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 985,985,1,elevator,place-portr,Lobby to street,Porter Elevator 985 (Lobby to street),,,,1
 986,986,1,elevator,place-portr,Commuter Rail platform to lobby,Porter Elevator 986 (Commuter Rail platform to lobby),,,,1
 987,987,1,elevator,place-portr,Red Line platforms to lobby,Porter Elevator 987 (Red Line platforms to lobby),,,,1
-990,990,1,elevator,Yawkey,Street to South Station platform 2 and bridge,Lansdowne Elevator 990 (Street to South Station platform 2 and bridge),,,,1
-991,991,1,elevator,Yawkey,South Station platform 2 to bridge,Lansdowne Elevator 991 (South Station platform 2 to bridge),,,,1
-992,992,1,elevator,Yawkey,Outbound platform 1 to west side of bridge,Lansdowne Elevator 992 (Outbound platform 1 to west side of bridge),,,,1
-993,993,1,elevator,Yawkey,Outbound platform 1 to east side of bridge,Lansdowne Elevator 993 (Outbound platform 1 to east side of bridge),,,,1
+990,990,1,elevator,place-WML-0025,Street to South Station platform 2 and bridge,Lansdowne Elevator 990 (Street to South Station platform 2 and bridge),,,,1
+991,991,1,elevator,place-WML-0025,South Station platform 2 to bridge,Lansdowne Elevator 991 (South Station platform 2 to bridge),,,,1
+992,992,1,elevator,place-WML-0025,Outbound platform 1 to west side of bridge,Lansdowne Elevator 992 (Outbound platform 1 to west side of bridge),,,,1
+993,993,1,elevator,place-WML-0025,Outbound platform 1 to east side of bridge,Lansdowne Elevator 993 (Outbound platform 1 to east side of bridge),,,,1
 bike-15095,,3,bike-storage,15095,Bike rack,Washington St @ Herald St bike rack,,,,0
 bike-15176,,3,bike-storage,15176,Bike rack,Washington St @ Worcester St bike rack,,,,0
 bike-17091,,3,bike-storage,17091,Bike rack,Terminal A bike rack,,,,0
@@ -380,105 +380,105 @@ bike-7922,,3,bike-storage,7922,Covered bike rack,Arlington Heights Busway covere
 bike-8178,,3,bike-storage,8178,Bike rack,Watertown Sq Terminal bike rack,,,,0
 bike-900,,3,bike-storage,900,Covered bike rack,Watertown Yard covered bike rack,,,,0
 bike-Boat-Hingham,,3,bike-storage,Boat-Hingham,Bike rack,Hingham bike rack,,,,0
-bike-DB-0095,,3,bike-storage,Readville,Bike rack,Readville bike rack,,,,0
-bike-DB-2205,,3,bike-storage,Fairmount,Covered bike rack,Fairmount covered bike rack,,,,0
-bike-DB-2222,,3,bike-storage,Blue Hill Avenue,Bike rack,Blue Hill Avenue bike rack,,,,0
-bike-DB-2230,,3,bike-storage,Morton Street,Covered bike rack,Morton Street covered bike rack,,,,0
-bike-DB-2249,,3,bike-storage,Four Corners / Geneva,Bike rack,Four Corners/Geneva bike rack,,,,0
-bike-DB-2258,,3,bike-storage,Uphams Corner,Bike rack,Uphams Corner bike rack,,,,0
-bike-DB-2265,,3,bike-storage,Newmarket,Bike rack,Newmarket bike rack,,,,0
-bike-ER-0128,,3,bike-storage,Swampscott,Bike rack,Swampscott bike rack,,,,0
-bike-ER-0168,,3,bike-storage,Salem,Pedal and Park,Salem Pedal and Park,,42.5241150,-70.8964200,0
-bike-ER-0183,,3,bike-storage,Beverly,Pedal and Park,Beverly Pedal and Park,,42.5456300,-70.8851280,0
-bike-ER-0208,,3,bike-storage,North Beverly,Bike rack,North Beverly bike rack,,,,0
-bike-ER-0227,,3,bike-storage,Hamilton/ Wenham,Bike rack,Hamilton/Wenham bike rack,,,,0
-bike-ER-0276,,3,bike-storage,Ipswich,Bike rack,Ipswich bike rack,,,,0
-bike-ER-0312,,3,bike-storage,Rowley,Bike rack,Rowley bike rack,,,,0
-bike-ER-0362,,3,bike-storage,Newburyport,Bike rack,Newburyport bike rack,,,,0
-bike-FB-0118,,3,bike-storage,Dedham Corp Center,Bike rack,Dedham Corp Center bike rack,,,,0
-bike-FB-0125,,3,bike-storage,Islington,Bike rack,Islington bike rack,,,,0
-bike-FB-0143,,3,bike-storage,Norwood Depot,Bike rack,Norwood Depot bike rack,,,,0
-bike-FB-0148,,3,bike-storage,Norwood Central,Bike rack,Norwood Central bike rack,,,,0
-bike-FB-0166,,3,bike-storage,Windsor Gardens,Bike rack,Windsor Gardens bike rack,,,,0
-bike-FB-0191,,3,bike-storage,Walpole,Bike rack,Walpole bike rack,,,,0
-bike-FB-0230,,3,bike-storage,Norfolk,Bike rack,Norfolk bike rack,,,,0
-bike-FB-0275,,3,bike-storage,Franklin,Bike rack,Franklin bike rack,,,,0
-bike-FB-0303,,3,bike-storage,Forge Park / 495,Bike rack,Forge Park/495 bike rack,,,,0
-bike-FR-0064,,3,bike-storage,Belmont,Bike rack,Belmont bike rack,,,,0
-bike-FR-0098,,3,bike-storage,Waltham,Bike rack,Waltham bike rack,,,,0
-bike-FR-0115,,3,bike-storage,Brandeis/ Roberts,Bike rack,Brandeis/Roberts bike rack,,,,0
-bike-FR-0167,,3,bike-storage,Lincoln,Bike rack,Lincoln bike rack,,,,0
-bike-FR-0201,,3,bike-storage,Concord,Bike rack,Concord bike rack,,,,0
-bike-FR-0219,,3,bike-storage,West Concord,Covered bike rack,West Concord covered bike rack,,,,0
-bike-FR-0253,,3,bike-storage,South Acton,Bike rack,South Acton bike rack,,,,0
-bike-FR-0301,,3,bike-storage,Littleton / Rte 495,Bike rack,Littleton/Rte 495 bike rack,,,,0
-bike-FR-0494,,3,bike-storage,Fitchburg,Bike rack,Fitchburg bike rack,,,,0
-bike-FR-3338,,3,bike-storage,Wachusett,Covered bike rack,Wachusett covered bike rack,,,,0
-bike-GB-0198,,3,bike-storage,Montserrat,Bike rack,Montserrat bike rack,,,,0
-bike-GB-0229,,3,bike-storage,Beverly Farms,Bike rack,Beverly Farms bike rack,,,,0
-bike-GB-0254,,3,bike-storage,Manchester,Bike rack,Manchester bike rack,,,,0
-bike-GB-0296,,3,bike-storage,West Gloucester,Bike rack,West Gloucester bike rack,,,,0
-bike-GB-0316,,3,bike-storage,Gloucester,Bike rack,Gloucester bike rack,,,,0
-bike-GB-0353,,3,bike-storage,Rockport,Bike rack,Rockport bike rack,,,,0
-bike-GRB-0118,,3,bike-storage,Weymouth Landing/ East Braintree,Bike rack,Weymouth Landing/East Braintree bike rack,,,,0
-bike-GRB-0146,,3,bike-storage,East Weymouth,Bike rack,East Weymouth bike rack,,,,0
-bike-GRB-0162,,3,bike-storage,West Hingham,Bike rack,West Hingham bike rack,,,,0
-bike-GRB-0183,,3,bike-storage,Nantasket Junction,Bike rack,Nantasket Junction bike rack,,,,0
-bike-GRB-0199,,3,bike-storage,Cohasset,Bike rack,Cohasset bike rack,,,,0
-bike-GRB-0233,,3,bike-storage,North Scituate,Bike rack,North Scituate bike rack,,,,0
-bike-GRB-0276,,3,bike-storage,Greenbush,Bike rack,Greenbush bike rack,,,,0
-bike-KB-0351,,3,bike-storage,Kingston,Bike rack,Kingston bike rack,,,,0
-bike-MM-0150,,3,bike-storage,Holbrook/ Randolph,Covered bike rack,Holbrook/Randolph covered bike rack,,,,0
-bike-MM-0186,,3,bike-storage,Montello,Covered bike rack,Montello covered bike rack,,,,0
-bike-MM-0200,,3,bike-storage,Brockton,Bike rack,Brockton bike rack,,,,0
-bike-MM-0219,,3,bike-storage,Campello,Bike rack,Campello bike rack,,,,0
-bike-MM-0277,,3,bike-storage,Bridgewater,Bike rack,Bridgewater bike rack,,,,0
-bike-MM-0356,,3,bike-storage,Middleborough/ Lakeville,Bike rack,Middleborough/Lakeville bike rack,,,,0
-bike-NB-0064,,3,bike-storage,Roslindale Village,Bike rack,Roslindale Village bike rack,,,,0
-bike-NB-0072,,3,bike-storage,Bellevue,Bike rack,Bellevue bike rack,,,,0
-bike-NB-0076,,3,bike-storage,Highland,Covered bike rack,Highland covered bike rack,,,,0
-bike-NB-0080,,3,bike-storage,West Roxbury,Bike rack,West Roxbury bike rack,,,,0
-bike-NB-0109,,3,bike-storage,Hersey,Covered bike rack,Hersey covered bike rack,,,,0
-bike-NB-0120,,3,bike-storage,Needham Junction,Bike rack,Needham Junction bike rack,,,,0
-bike-NB-0127,,3,bike-storage,Needham Center,Bike rack,Needham Center bike rack,,,,0
-bike-NB-0137,,3,bike-storage,Needham Heights,Bike rack,Needham Heights bike rack,,,,0
-bike-NEC-1659,,3,bike-storage,Wickford Junction,Bike rack,Wickford Junction bike rack,,,,0
-bike-NEC-1969,,3,bike-storage,Attleboro,Bike rack,Attleboro bike rack,,,,0
-bike-NEC-2108,,3,bike-storage,Sharon,Bike rack,Sharon bike rack,,,,0
-bike-NEC-2139,,3,bike-storage,Canton Junction,Bike rack,Canton Junction bike rack,,,,0
-bike-NEC-2173,,3,bike-storage,Route 128,Bike rack,Route 128 bike rack,,,,0
-bike-NEC-2203,,3,bike-storage,Hyde Park,Bike rack,Hyde Park bike rack,,,,0
-bike-NHRML-0055,,3,bike-storage,West Medford,Bike rack,West Medford bike rack,,,,0
-bike-NHRML-0073,,3,bike-storage,Wedgemere,Covered bike rack,Wedgemere covered bike rack,,,,0
-bike-NHRML-0152,,3,bike-storage,Wilmington,Bike rack,Wilmington bike rack,,,,0
-bike-NHRML-0218,,3,bike-storage,North Billerica,Covered bike rack,North Billerica covered bike rack,,,,0
-bike-NHRML-0254,,3,bike-storage,Lowell,Bike rack,Lowell bike rack,,,,0
-bike-PB-0158,,3,bike-storage,South Weymouth,Covered bike rack,South Weymouth covered bike rack,,,,0
-bike-PB-0194,,3,bike-storage,Abington,Bike rack,Abington bike rack,,,,0
-bike-PB-0212,,3,bike-storage,Whitman,Covered bike rack,Whitman covered bike rack,,,,0
-bike-PB-0245,,3,bike-storage,Hanson,Bike rack,Hanson bike rack,,,,0
-bike-PB-0281,,3,bike-storage,Halifax,Bike rack,Halifax bike rack,,,,0
-bike-SB-0156,,3,bike-storage,Canton Center,Bike rack,Canton Center bike rack,,,,0
-bike-SB-0189,,3,bike-storage,Stoughton,Covered bike rack,Stoughton covered bike rack,,,,0
-bike-WML-0025,,3,bike-storage,Yawkey,Bike rack,Lansdowne bike rack,,,,0
-bike-WML-0091,,3,bike-storage,West Newton,Bike rack,West Newton bike rack,,,,0
-bike-WML-0102,,3,bike-storage,Auburndale,Bike rack,Auburndale bike rack,,,,0
-bike-WML-0135,,3,bike-storage,Wellesley Hills,Bike rack,Wellesley Hills bike rack,,,,0
-bike-WML-0147,,3,bike-storage,Wellesley Square,Covered bike rack,Wellesley Square covered bike rack,,,,0
-bike-WML-0199,,3,bike-storage,West Natick,Bike rack,West Natick bike rack,,,,0
-bike-WML-0214,,3,bike-storage,Framingham,Bike rack,Framingham bike rack,,,,0
-bike-WML-0252,,3,bike-storage,Ashland,Bike rack,Ashland bike rack,,,,0
-bike-WML-0274,,3,bike-storage,Southborough,Bike rack,Southborough bike rack,,,,0
-bike-WML-0340,,3,bike-storage,Westborough,Covered bike rack,Westborough covered bike rack,,,,0
-bike-WML-0364,,3,bike-storage,Grafton,Bike rack,Grafton bike rack,,,,0
-bike-WML-0442,,3,bike-storage,Worcester,Bike rack,Worcester bike rack,,,,0
-bike-WR-0085,,3,bike-storage,Greenwood,Bike rack,Greenwood bike rack,,,,0
-bike-WR-0099,,3,bike-storage,Wakefield,Bike rack,Wakefield bike rack,,,,0
-bike-WR-0120,,3,bike-storage,Reading,Bike rack,Reading bike rack,,,,0
-bike-WR-0205,,3,bike-storage,Ballardvale,Bike rack,Ballardvale bike rack,,,,0
-bike-WR-0228,,3,bike-storage,Andover,Covered bike rack,Andover covered bike rack,,,,0
-bike-WR-0325,,3,bike-storage,Bradford,Bike rack,Bradford bike rack,,,,0
-bike-WR-0329,,3,bike-storage,Haverhill,Covered bike rack,Haverhill covered bike rack,,,,0
+bike-DB-0095,,3,bike-storage,place-DB-0095,Bike rack,Readville bike rack,,,,0
+bike-DB-2205,,3,bike-storage,place-DB-2205,Covered bike rack,Fairmount covered bike rack,,,,0
+bike-DB-2222,,3,bike-storage,place-DB-2222,Bike rack,Blue Hill Avenue bike rack,,,,0
+bike-DB-2230,,3,bike-storage,place-DB-2230,Covered bike rack,Morton Street covered bike rack,,,,0
+bike-DB-2249,,3,bike-storage,place-DB-2249,Bike rack,Four Corners/Geneva bike rack,,,,0
+bike-DB-2258,,3,bike-storage,place-DB-2258,Bike rack,Uphams Corner bike rack,,,,0
+bike-DB-2265,,3,bike-storage,place-DB-2265,Bike rack,Newmarket bike rack,,,,0
+bike-ER-0128,,3,bike-storage,place-ER-0128,Bike rack,Swampscott bike rack,,,,0
+bike-ER-0168,,3,bike-storage,place-ER-0168,Pedal and Park,Salem Pedal and Park,,42.5241150,-70.8964200,0
+bike-ER-0183,,3,bike-storage,place-ER-0183,Pedal and Park,Beverly Pedal and Park,,42.5456300,-70.8851280,0
+bike-ER-0208,,3,bike-storage,place-ER-0208,Bike rack,North Beverly bike rack,,,,0
+bike-ER-0227,,3,bike-storage,place-ER-0227,Bike rack,Hamilton/Wenham bike rack,,,,0
+bike-ER-0276,,3,bike-storage,place-ER-0276,Bike rack,Ipswich bike rack,,,,0
+bike-ER-0312,,3,bike-storage,place-ER-0312,Bike rack,Rowley bike rack,,,,0
+bike-ER-0362,,3,bike-storage,place-ER-0362,Bike rack,Newburyport bike rack,,,,0
+bike-FB-0118,,3,bike-storage,place-FB-0118,Bike rack,Dedham Corp Center bike rack,,,,0
+bike-FB-0125,,3,bike-storage,place-FB-0125,Bike rack,Islington bike rack,,,,0
+bike-FB-0143,,3,bike-storage,place-FB-0143,Bike rack,Norwood Depot bike rack,,,,0
+bike-FB-0148,,3,bike-storage,place-FB-0148,Bike rack,Norwood Central bike rack,,,,0
+bike-FB-0166,,3,bike-storage,place-FB-0166,Bike rack,Windsor Gardens bike rack,,,,0
+bike-FB-0191,,3,bike-storage,place-FB-0191,Bike rack,Walpole bike rack,,,,0
+bike-FB-0230,,3,bike-storage,place-FB-0230,Bike rack,Norfolk bike rack,,,,0
+bike-FB-0275,,3,bike-storage,place-FB-0275,Bike rack,Franklin bike rack,,,,0
+bike-FB-0303,,3,bike-storage,place-FB-0303,Bike rack,Forge Park/495 bike rack,,,,0
+bike-FR-0064,,3,bike-storage,place-FR-0064,Bike rack,Belmont bike rack,,,,0
+bike-FR-0098,,3,bike-storage,place-FR-0098,Bike rack,Waltham bike rack,,,,0
+bike-FR-0115,,3,bike-storage,place-FR-0115,Bike rack,Brandeis/Roberts bike rack,,,,0
+bike-FR-0167,,3,bike-storage,place-FR-0167,Bike rack,Lincoln bike rack,,,,0
+bike-FR-0201,,3,bike-storage,place-FR-0201,Bike rack,Concord bike rack,,,,0
+bike-FR-0219,,3,bike-storage,place-FR-0219,Covered bike rack,West Concord covered bike rack,,,,0
+bike-FR-0253,,3,bike-storage,place-FR-0253,Bike rack,South Acton bike rack,,,,0
+bike-FR-0301,,3,bike-storage,place-FR-0301,Bike rack,Littleton/Rte 495 bike rack,,,,0
+bike-FR-0494,,3,bike-storage,place-FR-0494,Bike rack,Fitchburg bike rack,,,,0
+bike-FR-3338,,3,bike-storage,place-FR-3338,Covered bike rack,Wachusett covered bike rack,,,,0
+bike-GB-0198,,3,bike-storage,place-GB-0198,Bike rack,Montserrat bike rack,,,,0
+bike-GB-0229,,3,bike-storage,place-GB-0229,Bike rack,Beverly Farms bike rack,,,,0
+bike-GB-0254,,3,bike-storage,place-GB-0254,Bike rack,Manchester bike rack,,,,0
+bike-GB-0296,,3,bike-storage,place-GB-0296,Bike rack,West Gloucester bike rack,,,,0
+bike-GB-0316,,3,bike-storage,place-GB-0316,Bike rack,Gloucester bike rack,,,,0
+bike-GB-0353,,3,bike-storage,place-GB-0353,Bike rack,Rockport bike rack,,,,0
+bike-GRB-0118,,3,bike-storage,place-GRB-0118,Bike rack,Weymouth Landing/East Braintree bike rack,,,,0
+bike-GRB-0146,,3,bike-storage,place-GRB-0146,Bike rack,East Weymouth bike rack,,,,0
+bike-GRB-0162,,3,bike-storage,place-GRB-0162,Bike rack,West Hingham bike rack,,,,0
+bike-GRB-0183,,3,bike-storage,place-GRB-0183,Bike rack,Nantasket Junction bike rack,,,,0
+bike-GRB-0199,,3,bike-storage,place-GRB-0199,Bike rack,Cohasset bike rack,,,,0
+bike-GRB-0233,,3,bike-storage,place-GRB-0233,Bike rack,North Scituate bike rack,,,,0
+bike-GRB-0276,,3,bike-storage,place-GRB-0276,Bike rack,Greenbush bike rack,,,,0
+bike-KB-0351,,3,bike-storage,place-KB-0351,Bike rack,Kingston bike rack,,,,0
+bike-MM-0150,,3,bike-storage,place-MM-0150,Covered bike rack,Holbrook/Randolph covered bike rack,,,,0
+bike-MM-0186,,3,bike-storage,place-MM-0186,Covered bike rack,Montello covered bike rack,,,,0
+bike-MM-0200,,3,bike-storage,place-MM-0200,Bike rack,Brockton bike rack,,,,0
+bike-MM-0219,,3,bike-storage,place-MM-0219,Bike rack,Campello bike rack,,,,0
+bike-MM-0277,,3,bike-storage,place-MM-0277,Bike rack,Bridgewater bike rack,,,,0
+bike-MM-0356,,3,bike-storage,place-MM-0356,Bike rack,Middleborough/Lakeville bike rack,,,,0
+bike-NB-0064,,3,bike-storage,place-NB-0064,Bike rack,Roslindale Village bike rack,,,,0
+bike-NB-0072,,3,bike-storage,place-NB-0072,Bike rack,Bellevue bike rack,,,,0
+bike-NB-0076,,3,bike-storage,place-NB-0076,Covered bike rack,Highland covered bike rack,,,,0
+bike-NB-0080,,3,bike-storage,place-NB-0080,Bike rack,West Roxbury bike rack,,,,0
+bike-NB-0109,,3,bike-storage,place-NB-0109,Covered bike rack,Hersey covered bike rack,,,,0
+bike-NB-0120,,3,bike-storage,place-NB-0120,Bike rack,Needham Junction bike rack,,,,0
+bike-NB-0127,,3,bike-storage,place-NB-0127,Bike rack,Needham Center bike rack,,,,0
+bike-NB-0137,,3,bike-storage,place-NB-0137,Bike rack,Needham Heights bike rack,,,,0
+bike-NEC-1659,,3,bike-storage,place-NEC-1659,Bike rack,Wickford Junction bike rack,,,,0
+bike-NEC-1969,,3,bike-storage,place-NEC-1969,Bike rack,Attleboro bike rack,,,,0
+bike-NEC-2108,,3,bike-storage,place-NEC-2108,Bike rack,Sharon bike rack,,,,0
+bike-NEC-2139,,3,bike-storage,place-NEC-2139,Bike rack,Canton Junction bike rack,,,,0
+bike-NEC-2173,,3,bike-storage,place-NEC-2173,Bike rack,Route 128 bike rack,,,,0
+bike-NEC-2203,,3,bike-storage,place-NEC-2203,Bike rack,Hyde Park bike rack,,,,0
+bike-NHRML-0055,,3,bike-storage,place-NHRML-0055,Bike rack,West Medford bike rack,,,,0
+bike-NHRML-0073,,3,bike-storage,place-NHRML-0073,Covered bike rack,Wedgemere covered bike rack,,,,0
+bike-NHRML-0152,,3,bike-storage,place-NHRML-0152,Bike rack,Wilmington bike rack,,,,0
+bike-NHRML-0218,,3,bike-storage,place-NHRML-0218,Covered bike rack,North Billerica covered bike rack,,,,0
+bike-NHRML-0254,,3,bike-storage,place-NHRML-0254,Bike rack,Lowell bike rack,,,,0
+bike-PB-0158,,3,bike-storage,place-PB-0158,Covered bike rack,South Weymouth covered bike rack,,,,0
+bike-PB-0194,,3,bike-storage,place-PB-0194,Bike rack,Abington bike rack,,,,0
+bike-PB-0212,,3,bike-storage,place-PB-0212,Covered bike rack,Whitman covered bike rack,,,,0
+bike-PB-0245,,3,bike-storage,place-PB-0245,Bike rack,Hanson bike rack,,,,0
+bike-PB-0281,,3,bike-storage,place-PB-0281,Bike rack,Halifax bike rack,,,,0
+bike-SB-0156,,3,bike-storage,place-SB-0156,Bike rack,Canton Center bike rack,,,,0
+bike-SB-0189,,3,bike-storage,place-SB-0189,Covered bike rack,Stoughton covered bike rack,,,,0
+bike-WML-0025,,3,bike-storage,place-WML-0025,Bike rack,Lansdowne bike rack,,,,0
+bike-WML-0091,,3,bike-storage,place-WML-0091,Bike rack,West Newton bike rack,,,,0
+bike-WML-0102,,3,bike-storage,place-WML-0102,Bike rack,Auburndale bike rack,,,,0
+bike-WML-0135,,3,bike-storage,place-WML-0135,Bike rack,Wellesley Hills bike rack,,,,0
+bike-WML-0147,,3,bike-storage,place-WML-0147,Covered bike rack,Wellesley Square covered bike rack,,,,0
+bike-WML-0199,,3,bike-storage,place-WML-0199,Bike rack,West Natick bike rack,,,,0
+bike-WML-0214,,3,bike-storage,place-WML-0214,Bike rack,Framingham bike rack,,,,0
+bike-WML-0252,,3,bike-storage,place-WML-0252,Bike rack,Ashland bike rack,,,,0
+bike-WML-0274,,3,bike-storage,place-WML-0274,Bike rack,Southborough bike rack,,,,0
+bike-WML-0340,,3,bike-storage,place-WML-0340,Covered bike rack,Westborough covered bike rack,,,,0
+bike-WML-0364,,3,bike-storage,place-WML-0364,Bike rack,Grafton bike rack,,,,0
+bike-WML-0442,,3,bike-storage,place-WML-0442,Bike rack,Worcester bike rack,,,,0
+bike-WR-0085,,3,bike-storage,place-WR-0085,Bike rack,Greenwood bike rack,,,,0
+bike-WR-0099,,3,bike-storage,place-WR-0099,Bike rack,Wakefield bike rack,,,,0
+bike-WR-0120,,3,bike-storage,place-WR-0120,Bike rack,Reading bike rack,,,,0
+bike-WR-0205,,3,bike-storage,place-WR-0205,Bike rack,Ballardvale bike rack,,,,0
+bike-WR-0228,,3,bike-storage,place-WR-0228,Covered bike rack,Andover covered bike rack,,,,0
+bike-WR-0325,,3,bike-storage,place-WR-0325,Bike rack,Bradford bike rack,,,,0
+bike-WR-0329,,3,bike-storage,place-WR-0329,Covered bike rack,Haverhill covered bike rack,,,,0
 bike-alfcl-central,,3,bike-storage,place-alfcl,Pedal and Park,Alewife Pedal and Park,,42.3955390,-71.1420840,0
 bike-alfcl-east,,3,bike-storage,place-alfcl,Pedal and Park,Alewife Pedal and Park,,42.3958060,-71.1409570,0
 bike-alfcl-west,,3,bike-storage,place-alfcl,Pedal and Park,Alewife Pedal and Park,,42.3959740,-71.1426220,0
@@ -496,7 +496,7 @@ bike-clmnl,,3,bike-storage,place-clmnl,Bike rack,Cleveland Circle bike rack,,,,0
 bike-cntsq,,3,bike-storage,place-cntsq,Covered bike rack,Central covered bike rack,,,,0
 bike-cool,,3,bike-storage,place-cool,Bike rack,Coolidge Corner bike rack,,,,0
 bike-davis,,3,bike-storage,place-davis,Pedal and Park,Davis Pedal and Park,,42.3966640,-71.1216460,0
-bike-dudly,,3,bike-storage,64,Pedal and Park,Dudley Station Pedal and Park,,42.3292240,-71.0841340,0
+bike-dudly,,3,bike-storage,place-dudly,Pedal and Park,Dudley Square Pedal and Park,,42.3292240,-71.0841340,0
 bike-eliot,,3,bike-storage,place-eliot,Covered bike rack,Eliot covered bike rack,,,,0
 bike-fenwy,,3,bike-storage,place-fenwy,Bike rack,Fenway bike rack,,,,0
 bike-fldcr,,3,bike-storage,place-fldcr,Covered bike rack,Fields Corner covered bike rack,,,,0
@@ -539,11 +539,11 @@ bike-wondl,,3,bike-storage,place-wondl,Pedal and Park,Wonderland Pedal and Park,
 bike-woodl,,3,bike-storage,place-woodl,Covered bike rack,Woodland covered bike rack,,,,0
 bike-wrnst,,3,bike-storage,place-wrnst,Covered bike rack,Warren Street covered bike rack,,,,0
 bike-wtcst,,3,bike-storage,place-wtcst,Covered bike rack,World Trade Center covered bike rack,,,,0
-charliecard-64000,,4,fare-media-assistant,64000,Employee with blank CharlieCards,Dudley customer service agent with blank CharlieCards,,,,0
 charliecard-alfcl,,4,fare-media-assistant,place-alfcl,Employee with blank CharlieCards,Alewife customer service agent with blank CharlieCards,,,,0
 charliecard-armnl,,4,fare-media-assistant,place-armnl,Employee with blank CharlieCards,Arlington customer service agent with blank CharlieCards,,,,0
 charliecard-asmnl,,4,fare-media-assistant,place-asmnl,Employee with blank CharlieCards,Ashmont customer service agent with blank CharlieCards,,,,0
 charliecard-bbsta,,4,fare-media-assistant,place-bbsta,Employee with blank CharlieCards,Back Bay customer service agent with blank CharlieCards,,,,0
+charliecard-dudly,,4,fare-media-assistant,place-dudly,Employee with blank CharlieCards,Dudley Square customer service agent with blank CharlieCards,,,,0
 charliecard-dwnxg-store,,4,fare-media-assistance-facility,place-dwnxg,CharlieCard Store,CharlieCard Store,,42.3549580,-71.0596690,0
 charliecard-forhl,,4,fare-media-assistant,place-forhl,Employee with blank CharlieCards,Forest Hills customer service agent with blank CharlieCards,,,,0
 charliecard-haecl,,4,fare-media-assistant,place-haecl,Employee with blank CharlieCards,Haymarket customer service agent with blank CharlieCards,,,,0
@@ -557,17 +557,17 @@ charliecard-qnctr,,4,fare-media-assistant,place-qnctr,Employee with blank Charli
 charliecard-rugg,,4,fare-media-assistant,place-rugg,Employee with blank CharlieCards,Ruggles customer service agent with blank CharlieCards,,,,0
 charliecard-sstat,,4,fare-media-assistant,place-sstat,Employee with blank CharlieCards,South Station customer service agent with blank CharlieCards,,,,0
 charliecard-wondl,,4,fare-media-assistant,place-wondl,Employee with blank CharlieCards,Wonderland customer service agent with blank CharlieCards,,,,0
-consign-vend-coffeet,,4,fare-vending-retailer,Kingston,Coffee T & Thee,Coffee T & Thee,,41.9763360,-70.7246660,0
-consign-vend-javaj,,4,fare-vending-retailer,Route 128,Java Junction,Java Junction,,42.2098840,-71.1471000,0
-ev-ER-0168-garage,,6,electric-car-chargers,Salem,EV Chargers,Salem Garage EV Chargers,,,,0
-ev-FR-0301,,6,electric-car-chargers,Littleton / Rte 495,EV Chargers,Littleton/Rte 495 Parking Lot EV Chargers,,,,0
-ev-FR-0451-garage,,6,electric-car-chargers,North Leominster,EV Chargers,North Leominster Garage EV Chargers,,,,0
-ev-FR-0494-garage,,6,electric-car-chargers,Fitchburg,EV Chargers,Fitchburg Garage EV Chargers,,,,0
-ev-FR-3338-garage,,6,electric-car-chargers,Wachusett,EV Chargers,Wachusett Garage EV Chargers,,,,0
-ev-NEC-1659,,6,electric-car-chargers,Wickford Junction,EV Chargers,Wickford Junction Parking Lot EV Chargers,,,,0
-ev-NEC-2173-garage,,6,electric-car-chargers,Route 128,EV Chargers,Route 128 Garage EV Chargers,,,,0
-ev-NHRML-0152,,6,electric-car-chargers,Wilmington,EV Chargers,Wilmington Parking Lot EV Chargers,,,,0
-ev-WML-0442-garage,,6,electric-car-chargers,Worcester,EV Chargers,Worcester Garage EV Chargers,,,,0
+consign-vend-coffeet,,4,fare-vending-retailer,place-KB-0351,Coffee T & Thee,Coffee T & Thee,,41.9763360,-70.7246660,0
+consign-vend-javaj,,4,fare-vending-retailer,place-NEC-2173,Java Junction,Java Junction,,42.2098840,-71.1471000,0
+ev-ER-0168-garage,,6,electric-car-chargers,place-ER-0168,EV Chargers,Salem Garage EV Chargers,,,,0
+ev-FR-0301,,6,electric-car-chargers,place-FR-0301,EV Chargers,Littleton/Rte 495 Parking Lot EV Chargers,,,,0
+ev-FR-0451-garage,,6,electric-car-chargers,place-FR-0451,EV Chargers,North Leominster Garage EV Chargers,,,,0
+ev-FR-0494-garage,,6,electric-car-chargers,place-FR-0494,EV Chargers,Fitchburg Garage EV Chargers,,,,0
+ev-FR-3338-garage,,6,electric-car-chargers,place-FR-3338,EV Chargers,Wachusett Garage EV Chargers,,,,0
+ev-NEC-1659,,6,electric-car-chargers,place-NEC-1659,EV Chargers,Wickford Junction Parking Lot EV Chargers,,,,0
+ev-NEC-2173-garage,,6,electric-car-chargers,place-NEC-2173,EV Chargers,Route 128 Garage EV Chargers,,,,0
+ev-NHRML-0152,,6,electric-car-chargers,place-NHRML-0152,EV Chargers,Wilmington Parking Lot EV Chargers,,,,0
+ev-WML-0442-garage,,6,electric-car-chargers,place-WML-0442,EV Chargers,Worcester Garage EV Chargers,,,,0
 ev-alfcl-garage,,6,electric-car-chargers,place-alfcl,EV Chargers,Alewife Garage EV Chargers,,,,0
 ev-brntn-garage,,6,electric-car-chargers,place-brntn,EV Chargers,Braintree Garage EV Chargers,,,,0
 ev-forhl,,6,electric-car-chargers,place-forhl,EV Chargers,Forest Hills Parking Lot EV Chargers,,,,0
@@ -839,8 +839,8 @@ fvm-201277,,4,fare-vending-machine,place-woodl,Fare vending machine 201277,Woodl
 fvm-201278,,4,fare-vending-machine,place-woodl,Fare vending machine 201278,Woodland fare vending machine 201278,,42.3327480,-71.2431850,0
 fvm-201279,,4,fare-vending-machine,place-river,Fare vending machine 201279,Riverside fare vending machine 201279,,,,0
 fvm-201280,,4,fare-vending-machine,place-river,Fare vending machine 201280,Riverside fare vending machine 201280,,,,0
-fvm-201281,,4,fare-vending-machine,64000,Fare vending machine 201281,Dudley Station fare vending machine 201281,,,,0
-fvm-201282,,4,fare-vending-machine,64000,Fare vending machine 201282,Dudley Station fare vending machine 201282,,,,0
+fvm-201281,,4,fare-vending-machine,place-dudly,Fare vending machine 201281,Dudley Square fare vending machine 201281,,,,0
+fvm-201282,,4,fare-vending-machine,place-dudly,Fare vending machine 201282,Dudley Square fare vending machine 201282,,,,0
 fvm-201283,,4,fare-vending-machine,place-crtst,Fare vending machine 201283,Courthouse fare vending machine 201283,,,,0
 fvm-201284,,4,fare-vending-machine,place-crtst,Fare vending machine 201284,Courthouse fare vending machine 201284,,,,0
 fvm-201285,,4,fare-vending-machine,place-crtst,Fare vending machine 201285,Courthouse fare vending machine 201285,,,,0
@@ -881,9 +881,9 @@ fvm-201329,,4,fare-vending-machine,17094,Fare vending machine 201329,Terminal C 
 fvm-201330,,4,fare-vending-machine,17095,Fare vending machine 201330,Terminal E - Arrivals Level fare vending machine 201330,,,,0
 fvm-201331,,4,fare-vending-machine,place-bomnl,Fare vending machine 201331,Bowdoin fare vending machine 201331,,,,0
 fvm-201332,,4,fare-vending-machine,place-dwnxg,Fare vending machine 201332,Downtown Crossing fare vending machine 201332,,,,0
-fvm-201333,,4,fare-vending-machine,64000,Fare vending machine 201333,Dudley Station fare vending machine 201333,,,,0
-fvm-201334,,4,fare-vending-machine,64,Fare vending machine 201334,Dudley Station fare vending machine 201334,,,,0
-fvm-201335,,4,fare-vending-machine,64,Fare vending machine 201335,Dudley Station fare vending machine 201335,,,,0
+fvm-201333,,4,fare-vending-machine,place-dudly,Fare vending machine 201333,Dudley Square fare vending machine 201333,,,,0
+fvm-201334,,4,fare-vending-machine,place-dudly,Fare vending machine 201334,Dudley Square fare vending machine 201334,,,,0
+fvm-201335,,4,fare-vending-machine,place-dudly,Fare vending machine 201335,Dudley Square fare vending machine 201335,,,,0
 fvm-201336,,4,fare-vending-machine,place-matt,Fare vending machine 201336,Mattapan fare vending machine 201336,,42.2675550,-71.0928670,0
 fvm-201337,,4,fare-vending-machine,place-kencl,Fare vending machine 201337,Kenmore fare vending machine 201337,,,,0
 fvm-201339,,4,fare-vending-machine,place-mvbcl,Fare vending machine 201339,Maverick fare vending machine 201339,,,,0
@@ -904,7 +904,7 @@ fvm-201358,,4,fare-vending-machine,place-asmnl,Fare vending machine 201358,Ashmo
 fvm-201359,,4,fare-vending-machine,place-asmnl,Fare vending machine 201359,Ashmont fare vending machine 201359,,,,0
 fvm-201360,,4,fare-vending-machine,place-mvbcl,Fare vending machine 201360,Maverick fare vending machine 201360,,,,0
 fvm-201361,,4,fare-vending-machine,place-mvbcl,Fare vending machine 201361,Maverick fare vending machine 201361,,,,0
-fvm-201362,,4,fare-vending-machine,Lynn,Fare vending machine 201362,Lynn fare vending machine 201362,,42.4619950,-70.9456380,0
+fvm-201362,,4,fare-vending-machine,place-ER-0115,Fare vending machine 201362,Lynn fare vending machine 201362,,42.4619950,-70.9456380,0
 fvm-201363,,4,fare-vending-machine,place-state,Fare vending machine 201363,State fare vending machine 201363,,,,0
 fvm-201364,,4,fare-vending-machine,place-state,Fare vending machine 201364,State fare vending machine 201364,,,,0
 fvm-201365,,4,fare-vending-machine,place-state,Fare vending machine 201365,State fare vending machine 201365,,,,0
@@ -1063,7 +1063,7 @@ fvm-202173,,4,fare-vending-machine,place-coecl,Fare vending machine 202173,Cople
 fvm-202174,,4,fare-vending-machine,place-coecl,Fare vending machine 202174,Copley fare vending machine 202174,,,,0
 fvm-202175,,4,fare-vending-machine,place-kencl,Fare vending machine 202175,Kenmore fare vending machine 202175,,,,0
 fvm-202176,,4,fare-vending-machine,place-kencl,Fare vending machine 202176,Kenmore fare vending machine 202176,,,,0
-fvm-202177,,4,fare-vending-machine,64,Fare vending machine 202177,Dudley Station fare vending machine 202177,,,,0
+fvm-202177,,4,fare-vending-machine,place-dudly,Fare vending machine 202177,Dudley Square fare vending machine 202177,,,,0
 fvm-202178,,4,fare-vending-machine,place-crtst,Fare vending machine 202178,Courthouse fare vending machine 202178,,,,0
 fvm-202179,,4,fare-vending-machine,place-crtst,Fare vending machine 202179,Courthouse fare vending machine 202179,,,,0
 fvm-202180,,4,fare-vending-machine,place-spmnl,Fare vending machine 202180,Science Park fare vending machine 202180,,,,0
@@ -1087,55 +1087,55 @@ fvm-202197,,4,fare-vending-machine,place-dwnxg,Fare vending machine 202197,Downt
 fvm-202198,,4,fare-vending-machine,place-dwnxg,Fare vending machine 202198,Downtown Crossing fare vending machine 202198,,,,0
 fvm-202205,,4,fare-vending-machine,place-river,Fare vending machine 202205,Riverside fare vending machine 202205,,,,0
 fvm-202208,,4,fare-vending-machine,place-mvbcl,Fare vending machine 202208,Maverick fare vending machine 202208,,,,0
-fvm-202209,,4,fare-vending-machine,Worcester,Fare vending machine 202209,Worcester fare vending machine 202209,,,,0
-fvm-202210,,4,fare-vending-machine,Worcester,Fare vending machine 202210,Worcester fare vending machine 202210,,,,0
+fvm-202209,,4,fare-vending-machine,place-WML-0442,Fare vending machine 202209,Worcester fare vending machine 202209,,,,0
+fvm-202210,,4,fare-vending-machine,place-WML-0442,Fare vending machine 202210,Worcester fare vending machine 202210,,,,0
 fvm-202211,,4,fare-vending-machine,,Fare vending machine 202211,10 Park Plaza fare vending machine 202211,,42.3513770,-71.0664220,0
-fvm-202212,,4,fare-vending-machine,Lynn,Fare vending machine 202212,Lynn fare vending machine 202212,,42.4619950,-70.9456380,0
-fvm-202213,,4,fare-vending-machine,Anderson/ Woburn,Fare vending machine 202213,Anderson/Woburn fare vending machine 202213,,42.5173770,-71.1440550,0
+fvm-202212,,4,fare-vending-machine,place-ER-0115,Fare vending machine 202212,Lynn fare vending machine 202212,,42.4619950,-70.9456380,0
+fvm-202213,,4,fare-vending-machine,place-NHRML-0127,Fare vending machine 202213,Anderson/Woburn fare vending machine 202213,,42.5173770,-71.1440550,0
 fvm-202217,,4,fare-vending-machine,place-state,Fare vending machine 202217,State fare vending machine 202217,,,,0
 fvm-202218,,4,fare-vending-machine,place-state,Fare vending machine 202218,State fare vending machine 202218,,,,0
-highlevel-DB-2222,,2,fully-elevated-platform,Blue Hill Avenue,High-level platform,Blue Hill Avenue high-level platform,,,,1
-highlevel-DB-2230,,2,fully-elevated-platform,Morton Street,High-level platform,Morton Street high-level platform,,,,1
-highlevel-DB-2240,,2,fully-elevated-platform,TF Green Airport,High-level platform,TF Green Airport high-level platform,,,,1
-highlevel-DB-2249,,2,fully-elevated-platform,Four Corners / Geneva,High-level platform,Four Corners/Geneva high-level platform,,,,1
-highlevel-DB-2258,,2,fully-elevated-platform,Uphams Corner,High-level platform,Uphams Corner high-level platform,,,,1
-highlevel-DB-2265,,2,fully-elevated-platform,Newmarket,High-level platform,Newmarket high-level platform,,,,1
-highlevel-ER-0115,,2,fully-elevated-platform,Lynn,High-level platform,Lynn high-level platform,,,,1
-highlevel-ER-0168,,2,fully-elevated-platform,Salem,High-level platform,Salem high-level platform,,,,1
-highlevel-ER-0312,,2,fully-elevated-platform,Rowley,High-level platform,Rowley high-level platform,,,,1
-highlevel-ER-0362,,2,fully-elevated-platform,Newburyport,High-level platform,Newburyport high-level platform,,,,1
-highlevel-FR-0253,,2,fully-elevated-platform,South Acton,High-level platform,South Acton high-level platform,,,,1
-highlevel-FR-0301,,2,fully-elevated-platform,Littleton / Rte 495,High-level platform,Littleton/Rte 495 high-level platform,,,,1
-highlevel-FR-3338,,2,fully-elevated-platform,Wachusett,High-level platform,Wachusett high-level platform,,,,1
-highlevel-GRB-0118,,2,fully-elevated-platform,Weymouth Landing/ East Braintree,High-level platform,Weymouth Landing/East Braintree high-level platform,,,,1
-highlevel-GRB-0146,,2,fully-elevated-platform,East Weymouth,High-level platform,East Weymouth high-level platform,,,,1
-highlevel-GRB-0162,,2,fully-elevated-platform,West Hingham,High-level platform,West Hingham high-level platform,,,,1
-highlevel-GRB-0183,,2,fully-elevated-platform,Nantasket Junction,High-level platform,Nantasket Junction high-level platform,,,,1
-highlevel-GRB-0199,,2,fully-elevated-platform,Cohasset,High-level platform,Cohasset high-level platform,,,,1
-highlevel-GRB-0233,,2,fully-elevated-platform,North Scituate,High-level platform,North Scituate high-level platform,,,,1
-highlevel-GRB-0276,,2,fully-elevated-platform,Greenbush,High-level platform,Greenbush high-level platform,,,,1
-highlevel-KB-0351,,2,fully-elevated-platform,Kingston,High-level platform,Kingston high-level platform,,,,1
-highlevel-MM-0150,,2,fully-elevated-platform,Holbrook/ Randolph,High-level platform,Holbrook/Randolph high-level platform,,,,1
-highlevel-MM-0186,,2,fully-elevated-platform,Montello,High-level platform,Montello high-level platform,,,,1
-highlevel-MM-0200,,2,fully-elevated-platform,Brockton,High-level platform,Brockton high-level platform,,,,1
-highlevel-MM-0219,,2,fully-elevated-platform,Campello,High-level platform,Campello high-level platform,,,,1
-highlevel-MM-0277,,2,fully-elevated-platform,Bridgewater,High-level platform,Bridgewater high-level platform,,,,1
-highlevel-MM-0356,,2,fully-elevated-platform,Middleborough/ Lakeville,High-level platform,Middleborough/Lakeville high-level platform,,,,1
-highlevel-NEC-1659,,2,fully-elevated-platform,Wickford Junction,High-level platform,Wickford Junction high-level platform,,,,1
-highlevel-NEC-1768,,2,fully-elevated-platform,Talbot Avenue,High-level platform,Talbot Avenue high-level platform,,,,1
-highlevel-NEC-1851,,2,fully-elevated-platform,Providence,High-level platform,Providence high-level platform,,,,1
-highlevel-NEC-2173,,2,fully-elevated-platform,Route 128,High-level platform,Route 128 high-level platform,,,,1
-highlevel-NHRML-0127,,2,fully-elevated-platform,Anderson/ Woburn,High-level platform,Anderson/Woburn high-level platform,,,,1
-highlevel-NHRML-0254,,2,fully-elevated-platform,Lowell,High-level platform,Lowell high-level platform,,,,1
-highlevel-PB-0158,,2,fully-elevated-platform,South Weymouth,High-level platform,South Weymouth high-level platform,,,,1
-highlevel-PB-0194,,2,fully-elevated-platform,Abington,High-level platform,Abington high-level platform,,,,1
-highlevel-PB-0212,,2,fully-elevated-platform,Whitman,High-level platform,Whitman high-level platform,,,,1
-highlevel-PB-0245,,2,fully-elevated-platform,Hanson,High-level platform,Hanson high-level platform,,,,1
-highlevel-PB-0281,,2,fully-elevated-platform,Halifax,High-level platform,Halifax high-level platform,,,,1
-highlevel-PB-0356,,2,fully-elevated-platform,Plymouth,High-level platform,Plymouth high-level platform,,,,1
-highlevel-WML-0025,,2,fully-elevated-platform,Yawkey,High-level platform,Lansdowne high-level platform,,,,1
-highlevel-WML-0035,,2,fully-elevated-platform,Boston Landing,High-level platform,Boston Landing high-level platform,,,,1
-highlevel-WR-0264,,2,fully-elevated-platform,Lawrence,High-level platform,Lawrence high-level platform,,,,1
+highlevel-DB-2222,,2,fully-elevated-platform,place-DB-2222,High-level platform,Blue Hill Avenue high-level platform,,,,1
+highlevel-DB-2230,,2,fully-elevated-platform,place-DB-2230,High-level platform,Morton Street high-level platform,,,,1
+highlevel-DB-2240,,2,fully-elevated-platform,place-DB-2240,High-level platform,Talbot Avenue high-level platform,,,,1
+highlevel-DB-2249,,2,fully-elevated-platform,place-DB-2249,High-level platform,Four Corners/Geneva high-level platform,,,,1
+highlevel-DB-2258,,2,fully-elevated-platform,place-DB-2258,High-level platform,Uphams Corner high-level platform,,,,1
+highlevel-DB-2265,,2,fully-elevated-platform,place-DB-2265,High-level platform,Newmarket high-level platform,,,,1
+highlevel-ER-0115,,2,fully-elevated-platform,place-ER-0115,High-level platform (Commuter Rail),Lynn high-level platform (Commuter Rail),,,,1
+highlevel-ER-0168,,2,fully-elevated-platform,place-ER-0168,High-level platform (Commuter Rail),Salem high-level platform (Commuter Rail),,,,1
+highlevel-ER-0312,,2,fully-elevated-platform,place-ER-0312,High-level platform,Rowley high-level platform,,,,1
+highlevel-ER-0362,,2,fully-elevated-platform,place-ER-0362,High-level platform,Newburyport high-level platform,,,,1
+highlevel-FR-0253,,2,fully-elevated-platform,place-FR-0253,High-level platform,South Acton high-level platform,,,,1
+highlevel-FR-0301,,2,fully-elevated-platform,place-FR-0301,High-level platform,Littleton/Rte 495 high-level platform,,,,1
+highlevel-FR-3338,,2,fully-elevated-platform,place-FR-3338,High-level platform,Wachusett high-level platform,,,,1
+highlevel-GRB-0118,,2,fully-elevated-platform,place-GRB-0118,High-level platform,Weymouth Landing/East Braintree high-level platform,,,,1
+highlevel-GRB-0146,,2,fully-elevated-platform,place-GRB-0146,High-level platform,East Weymouth high-level platform,,,,1
+highlevel-GRB-0162,,2,fully-elevated-platform,place-GRB-0162,High-level platform,West Hingham high-level platform,,,,1
+highlevel-GRB-0183,,2,fully-elevated-platform,place-GRB-0183,High-level platform,Nantasket Junction high-level platform,,,,1
+highlevel-GRB-0199,,2,fully-elevated-platform,place-GRB-0199,High-level platform,Cohasset high-level platform,,,,1
+highlevel-GRB-0233,,2,fully-elevated-platform,place-GRB-0233,High-level platform,North Scituate high-level platform,,,,1
+highlevel-GRB-0276,,2,fully-elevated-platform,place-GRB-0276,High-level platform,Greenbush high-level platform,,,,1
+highlevel-KB-0351,,2,fully-elevated-platform,place-KB-0351,High-level platform,Kingston high-level platform,,,,1
+highlevel-MM-0150,,2,fully-elevated-platform,place-MM-0150,High-level platform (Commuter Rail),Holbrook/Randolph high-level platform (Commuter Rail),,,,1
+highlevel-MM-0186,,2,fully-elevated-platform,place-MM-0186,High-level platform (Commuter Rail),Montello high-level platform (Commuter Rail),,,,1
+highlevel-MM-0200,,2,fully-elevated-platform,place-MM-0200,High-level platform,Brockton high-level platform,,,,1
+highlevel-MM-0219,,2,fully-elevated-platform,place-MM-0219,High-level platform,Campello high-level platform,,,,1
+highlevel-MM-0277,,2,fully-elevated-platform,place-MM-0277,High-level platform,Bridgewater high-level platform,,,,1
+highlevel-MM-0356,,2,fully-elevated-platform,place-MM-0356,High-level platform,Middleborough/Lakeville high-level platform,,,,1
+highlevel-NEC-1659,,2,fully-elevated-platform,place-NEC-1659,High-level platform,Wickford Junction high-level platform,,,,1
+highlevel-NEC-1768,,2,fully-elevated-platform,place-NEC-1768,High-level platform,TF Green Airport high-level platform,,,,1
+highlevel-NEC-1851,,2,fully-elevated-platform,place-NEC-1851,High-level platform,Providence high-level platform,,,,1
+highlevel-NEC-2173,,2,fully-elevated-platform,place-NEC-2173,High-level platform,Route 128 high-level platform,,,,1
+highlevel-NHRML-0127,,2,fully-elevated-platform,place-NHRML-0127,High-level platform,Anderson/Woburn high-level platform,,,,1
+highlevel-NHRML-0254,,2,fully-elevated-platform,place-NHRML-0254,High-level platform,Lowell high-level platform,,,,1
+highlevel-PB-0158,,2,fully-elevated-platform,place-PB-0158,High-level platform,South Weymouth high-level platform,,,,1
+highlevel-PB-0194,,2,fully-elevated-platform,place-PB-0194,High-level platform,Abington high-level platform,,,,1
+highlevel-PB-0212,,2,fully-elevated-platform,place-PB-0212,High-level platform,Whitman high-level platform,,,,1
+highlevel-PB-0245,,2,fully-elevated-platform,place-PB-0245,High-level platform,Hanson high-level platform,,,,1
+highlevel-PB-0281,,2,fully-elevated-platform,place-PB-0281,High-level platform,Halifax high-level platform,,,,1
+highlevel-PB-0356,,2,fully-elevated-platform,place-PB-0356,High-level platform,Plymouth high-level platform,,,,1
+highlevel-WML-0025,,2,fully-elevated-platform,place-WML-0025,High-level platform,Lansdowne high-level platform,,,,1
+highlevel-WML-0035,,2,fully-elevated-platform,place-WML-0035,High-level platform,Boston Landing high-level platform,,,,1
+highlevel-WR-0264,,2,fully-elevated-platform,place-WR-0264,High-level platform,Lawrence high-level platform,,,,1
 highlevel-bbsta-0,,2,fully-elevated-platform,place-bbsta,High-level platform (Commuter Rail),Back Bay high-level platform (Commuter Rail),,,,1
 highlevel-bbsta-1,,2,fully-elevated-platform,place-bbsta,High-level platform (Commuter Rail - Track 1),Back Bay high-level platform (Commuter Rail - Track 1),,,,1
 highlevel-bbsta-2,,2,fully-elevated-platform,place-bbsta,High-level platform (Commuter Rail - Track 2),Back Bay high-level platform (Commuter Rail - Track 2),,,,1
@@ -1177,127 +1177,127 @@ highlevel-sstat-9,,2,fully-elevated-platform,place-sstat,High-level platform (Co
 park-900,,3,parking-area,900,Parking Lot,Watertown Yard Parking Lot,,42.3631720,-71.1846740,0
 park-Boat-Hingham,,3,parking-area,Boat-Hingham,Parking Lot,Hingham Parking Lot,,42.2513460,-70.9194940,0
 park-Boat-Hull,,3,parking-area,Boat-Hull,Parking Lot,Hull Parking Lot,,42.3044440,-70.9182990,0
-park-DB-0095,,3,parking-area,Readville,Parking Lot,Readville Parking Lot,,42.2385870,-71.1341000,0
-park-DB-2205,,3,parking-area,Fairmount,Parking Lot,Fairmount Parking Lot,,42.2535520,-71.1197020,0
-park-DB-2240-garage,,3,parking-area,TF Green Airport,Garage,TF Green Airport Garage,,41.7276060,-71.4427740,0
-park-DB-2258,,3,parking-area,Uphams Corner,Parking Lot,Uphams Corner Parking Lot,,42.3198330,-71.0686950,0
-park-ER-0115-garage,,3,parking-area,Lynn,Garage,Lynn Garage,,42.4622960,-70.9457370,0
-park-ER-0128,,3,parking-area,Swampscott,Parking Lot,Swampscott Parking Lot,,42.4735630,-70.9225480,0
-park-ER-0168-garage,,3,parking-area,Salem,Garage,Salem Garage,,42.5247920,-70.8958760,0
-park-ER-0183-garage,,3,parking-area,Beverly,Garage,Beverly Garage,,42.5472760,-70.8854320,0
-park-ER-0208,,3,parking-area,North Beverly,Parking Lot,North Beverly Parking Lot,,42.5836640,-70.8841200,0
-park-ER-0227,,3,parking-area,Hamilton/ Wenham,Parking Lot,Hamilton/Wenham Parking Lot,,42.6091520,-70.8744310,0
-park-ER-0276,,3,parking-area,Ipswich,Parking Lot,Ipswich Parking Lot,,42.6767950,-70.8402110,0
-park-ER-0312,,3,parking-area,Rowley,Parking Lot,Rowley Parking Lot,,42.7269050,-70.8592950,0
-park-ER-0362,,3,parking-area,Newburyport,Parking Lot,Newburyport Parking Lot,,42.7965240,-70.8768790,0
-park-FB-0109,,3,parking-area,Endicott,Parking Lot,Endicott Parking Lot,,42.2333090,-71.1588810,0
-park-FB-0118,,3,parking-area,Dedham Corp Center,Parking Lot,Dedham Corp Center Parking Lot,,42.2265200,-71.1735670,0
-park-FB-0125,,3,parking-area,Islington,Parking Lot,Islington Parking Lot,,42.2209350,-71.1838760,0
-park-FB-0143,,3,parking-area,Norwood Depot,Parking Lot,Norwood Depot Parking Lot,,42.1963280,-71.1971430,0
-park-FB-0148,,3,parking-area,Norwood Central,Parking Lot,Norwood Central Parking Lot,,42.1882730,-71.2000560,0
-park-FB-0191,,3,parking-area,Walpole,Parking Lot,Walpole Parking Lot,,42.1439000,-71.2579980,0
-park-FB-0230,,3,parking-area,Norfolk,Parking Lot,Norfolk Parking Lot,,42.1200950,-71.3261940,0
-park-FB-0275,,3,parking-area,Franklin,Parking Lot,Franklin Parking Lot,,42.0835500,-71.3960890,0
-park-FB-0303,,3,parking-area,Forge Park / 495,Parking Lot,Forge Park/495 Parking Lot,,42.0894910,-71.4395040,0
-park-FR-0064-claflin,,3,parking-area,Belmont,Claflin Street Parking Lot,Belmont Claflin Street Parking Lot,,42.3972180,-71.1739400,0
-park-FR-0064-royal,,3,parking-area,Belmont,Royal Road Parking Lot,Belmont Royal Road Parking Lot,,42.3957610,-71.1761420,0
-park-FR-0098-carter,,3,parking-area,Waltham,Carter Street Parking Lot,Waltham Carter Street Parking Lot,,42.3744130,-71.2355950,0
-park-FR-0098-railroad,,3,parking-area,Waltham,Railroad Street Parking Lot,Waltham Railroad Street Parking Lot,,42.3739960,-71.2377300,0
-park-FR-0115,,3,parking-area,Brandeis/ Roberts,Parking Lot,Brandeis/Roberts Parking Lot,,42.3618110,-71.2600060,0
-park-FR-0132,,3,parking-area,Kendal Green,Parking Lot,Kendal Green Parking Lot,,42.3785390,-71.2821420,0
-park-FR-0137,,3,parking-area,Hastings,Parking Lot,Hastings Parking Lot,,42.3855970,-71.2891180,0
-park-FR-0167,,3,parking-area,Lincoln,Parking Lot,Lincoln Parking Lot,,42.4154290,-71.3264800,0
-park-FR-0201,,3,parking-area,Concord,Parking Lot,Concord Parking Lot,,42.4546230,-71.3570450,0
-park-FR-0219,,3,parking-area,West Concord,Parking Lot,West Concord Parking Lot,,42.4573580,-71.3931440,0
-park-FR-0253,,3,parking-area,South Acton,Parking Lot,South Acton Parking Lot,,42.4609370,-71.4576260,0
-park-FR-0301,,3,parking-area,Littleton / Rte 495,Parking Lot,Littleton/Rte 495 Parking Lot,,42.5204470,-71.5022120,0
-park-FR-0361,,3,parking-area,Ayer,Parking Lot,Ayer Parking Lot,,42.5615420,-71.5899040,0
-park-FR-0394,,3,parking-area,Shirley,Parking Lot,Shirley Parking Lot,,42.5453700,-71.6471240,0
-park-FR-0451-garage,,3,parking-area,North Leominster,Garage,North Leominster Garage,,42.5394700,-71.7398140,0
-park-FR-0494-garage,,3,parking-area,Fitchburg,Garage,Fitchburg Garage,,42.5814700,-71.7935260,0
-park-FR-3338-garage,,3,parking-area,Wachusett,Garage,Wachusett Garage,,42.5526890,-71.8474780,0
-park-GB-0198,,3,parking-area,Montserrat,Parking Lot,Montserrat Parking Lot,,42.5619360,-70.8692710,0
-park-GB-0229,,3,parking-area,Beverly Farms,Parking Lot,Beverly Farms Parking Lot,,42.5617280,-70.8118310,0
-park-GB-0254,,3,parking-area,Manchester,Parking Lot,Manchester Parking Lot,,42.5741420,-70.7680280,0
-park-GB-0296,,3,parking-area,West Gloucester,Parking Lot,West Gloucester Parking Lot,,42.6118590,-70.7053250,0
-park-GB-0316,,3,parking-area,Gloucester,Parking Lot,Gloucester Parking Lot,,42.6168550,-70.6668870,0
-park-GB-0353,,3,parking-area,Rockport,Parking Lot,Rockport Parking Lot,,42.6560890,-70.6268990,0
-park-GRB-0118,,3,parking-area,Weymouth Landing/ East Braintree,Parking Lot,Weymouth Landing/East Braintree Parking Lot,,42.2212080,-70.9679810,0
-park-GRB-0146,,3,parking-area,East Weymouth,Parking Lot,East Weymouth Parking Lot,,42.2186590,-70.9219290,0
-park-GRB-0162,,3,parking-area,West Hingham,Parking Lot,West Hingham Parking Lot,,42.2360310,-70.9030260,0
-park-GRB-0183,,3,parking-area,Nantasket Junction,Parking Lot,Nantasket Junction Parking Lot,,42.2452620,-70.8680670,0
-park-GRB-0199,,3,parking-area,Cohasset,Parking Lot,Cohasset Parking Lot,,42.2434280,-70.8374270,0
-park-GRB-0233,,3,parking-area,North Scituate,Parking Lot,North Scituate Parking Lot,,42.2196750,-70.7880590,0
-park-GRB-0276,,3,parking-area,Greenbush,Parking Lot,Greenbush Parking Lot,,42.1782020,-70.7459980,0
-park-KB-0351,,3,parking-area,Kingston,Parking Lot,Kingston Parking Lot,,41.9779250,-70.7226640,0
-park-MM-0150,,3,parking-area,Holbrook/ Randolph,Parking Lot,Holbrook/Randolph Parking Lot,,42.1562880,-71.0270330,0
-park-MM-0186,,3,parking-area,Montello,Parking Lot,Montello Parking Lot,,42.1066330,-71.0215720,0
-park-MM-0200-garage,,3,parking-area,Brockton,Garage,Brockton Garage,,42.0844380,-71.0147900,0
-park-MM-0219,,3,parking-area,Campello,Parking Lot,Campello Parking Lot,,42.0608280,-71.0113810,0
-park-MM-0277,,3,parking-area,Bridgewater,Parking Lot,Bridgewater Parking Lot,,41.9851010,-70.9649490,0
-park-MM-0356,,3,parking-area,Middleborough/ Lakeville,Parking Lot,Middleborough/Lakeville Parking Lot,,41.8780490,-70.9193030,0
-park-NB-0064,,3,parking-area,Roslindale Village,Parking Lot,Roslindale Village Parking Lot,,42.2871560,-71.1304840,0
-park-NB-0072,,3,parking-area,Bellevue,Parking Lot,Bellevue Parking Lot,,42.2867410,-71.1459350,0
-park-NB-0076,,3,parking-area,Highland,Parking Lot,Highland Parking Lot,,42.2851880,-71.1537410,0
-park-NB-0080,,3,parking-area,West Roxbury,Parking Lot,West Roxbury Parking Lot,,42.2811450,-71.1600130,0
-park-NB-0109,,3,parking-area,Hersey,Parking Lot,Hersey Parking Lot,,42.2760950,-71.2160580,0
-park-NB-0120,,3,parking-area,Needham Junction,Parking Lot,Needham Junction Parking Lot,,42.2733250,-71.2355180,0
-park-NB-0127,,3,parking-area,Needham Center,Parking Lot,Needham Center Parking Lot,,42.2812300,-71.2372710,0
-park-NB-0137,,3,parking-area,Needham Heights,Parking Lot,Needham Heights Parking Lot,,42.2935150,-71.2362770,0
-park-NEC-1659,,3,parking-area,Wickford Junction,Parking Lot,Wickford Junction Parking Lot,,41.5816700,-71.4914700,0
-park-NEC-1851-garage,,3,parking-area,Providence,Garage,Providence Garage,,41.8291570,-71.4127430,0
-park-NEC-1919,,3,parking-area,South Attleboro,Parking Lot,South Attleboro Parking Lot,,41.8983570,-71.3557510,0
-park-NEC-1969,,3,parking-area,Attleboro,Parking Lot,Attleboro Parking Lot,,41.9403490,-71.2859900,0
-park-NEC-2040,,3,parking-area,Mansfield,Parking Lot,Mansfield Parking Lot,,42.0326890,-71.2209190,0
-park-NEC-2108,,3,parking-area,Sharon,Parking Lot,Sharon Parking Lot,,42.1246610,-71.1847430,0
-park-NEC-2139,,3,parking-area,Canton Junction,Parking Lot,Canton Junction Parking Lot,,42.1630750,-71.1530350,0
-park-NEC-2173-garage,,3,parking-area,Route 128,Garage,Route 128 Garage,,42.2098840,-71.1471000,0
-park-NEC-2203,,3,parking-area,Hyde Park,Parking Lot,Hyde Park Parking Lot,,42.2548230,-71.1253910,0
-park-NHRML-0055,,3,parking-area,West Medford,Parking Lot,West Medford Parking Lot,,42.4218160,-71.1338460,0
-park-NHRML-0073,,3,parking-area,Wedgemere,Parking Lot,Wedgemere Parking Lot,,42.4445790,-71.1407420,0
-park-NHRML-0078-aberjona,,3,parking-area,Winchester Center,Lower Aberjona Parking Lot,Winchester Center Lower Aberjona Parking Lot,,42.4508720,-71.1375860,0
-park-NHRML-0078-waterfield,,3,parking-area,Winchester Center,Waterfield Parking Lot,Winchester Center Waterfield Parking Lot,,42.4511660,-71.1380800,0
-park-NHRML-0127-airport,,3,parking-area,Anderson/ Woburn,Logan Express Parking Lot,Anderson/Woburn Logan Express Parking Lot,,42.5165120,-71.1428130,0
-park-NHRML-0127-parkride,,3,parking-area,Anderson/ Woburn,Park and Ride Parking Lot,Anderson/Woburn Park and Ride Parking Lot,,42.5185440,-71.1440610,0
-park-NHRML-0152,,3,parking-area,Wilmington,Parking Lot,Wilmington Parking Lot,,42.5473590,-71.1745590,0
-park-NHRML-0218-eastern,,3,parking-area,North Billerica,Eastern Parking Lot,North Billerica Eastern Parking Lot,,42.5933070,-71.2801380,0
-park-NHRML-0218-station,,3,parking-area,North Billerica,Station Street Parking Lot,North Billerica Station Street Parking Lot,,42.5933900,-71.2816320,0
-park-NHRML-0254-garage,,3,parking-area,Lowell,Garage,Lowell Garage,,42.6369470,-71.3146390,0
-park-PB-0158,,3,parking-area,South Weymouth,Parking Lot,South Weymouth Parking Lot,,42.1547540,-70.9539840,0
-park-PB-0194,,3,parking-area,Abington,Parking Lot,Abington Parking Lot,,42.1067380,-70.9348530,0
-park-PB-0212,,3,parking-area,Whitman,Parking Lot,Whitman Parking Lot,,42.0825600,-70.9234870,0
-park-PB-0245,,3,parking-area,Hanson,Parking Lot,Hanson Parking Lot,,42.0443710,-70.8822940,0
-park-PB-0281,,3,parking-area,Halifax,Parking Lot,Halifax Parking Lot,,42.0146090,-70.8246200,0
-park-PB-0356,,3,parking-area,Plymouth,Parking Lot,Plymouth Parking Lot,,41.9810210,-70.6901800,0
-park-SB-0156,,3,parking-area,Canton Center,Parking Lot,Canton Center Parking Lot,,42.1569510,-71.1466250,0
-park-SB-0189,,3,parking-area,Stoughton,Parking Lot,Stoughton Parking Lot,,42.1233410,-71.1030870,0
-park-WML-0091-newton,,3,parking-area,West Newton,Webster Street Parking Lot,West Newton Webster Street Parking Lot,,42.3477130,-71.2341600,0
-park-WML-0091-wash,,3,parking-area,West Newton,Washington Street Parking Lot,West Newton Washington Street Parking Lot,,42.3482020,-71.2293950,0
-park-WML-0102,,3,parking-area,Auburndale,Parking Lot,Auburndale Parking Lot,,42.3457390,-71.2511450,0
-park-WML-0125,,3,parking-area,Wellesley Farms,Parking Lot,Wellesley Farms Parking Lot,,42.3217790,-71.2719150,0
-park-WML-0135,,3,parking-area,Wellesley Hills,Parking Lot,Wellesley Hills Parking Lot,,42.3099520,-71.2771930,0
-park-WML-0147,,3,parking-area,Wellesley Square,Parking Lot,Wellesley Square Parking Lot,,42.2979690,-71.2948890,0
-park-WML-0177,,3,parking-area,Natick Center,Parking Lot,Natick Center Parking Lot,,42.2856010,-71.3429450,0
-park-WML-0199,,3,parking-area,West Natick,Parking Lot,West Natick Parking Lot,,42.2825060,-71.3915190,0
-park-WML-0214,,3,parking-area,Framingham,Parking Lot,Framingham Parking Lot,,42.2762530,-71.4190960,0
-park-WML-0252,,3,parking-area,Ashland,Parking Lot,Ashland Parking Lot,,42.2615010,-71.4806960,0
-park-WML-0274,,3,parking-area,Southborough,Parking Lot,Southborough Parking Lot,,42.2670600,-71.5230120,0
-park-WML-0340,,3,parking-area,Westborough,Parking Lot,Westborough Parking Lot,,42.2700500,-71.6476230,0
-park-WML-0364,,3,parking-area,Grafton,Parking Lot,Grafton Parking Lot,,42.2468830,-71.6858730,0
-park-WML-0442-garage,,3,parking-area,Worcester,Garage,Worcester Garage,,42.2603810,-71.7945930,0
+park-DB-0095,,3,parking-area,place-DB-0095,Parking Lot,Readville Parking Lot,,42.2385870,-71.1341000,0
+park-DB-2205,,3,parking-area,place-DB-2205,Parking Lot,Fairmount Parking Lot,,42.2535520,-71.1197020,0
+park-DB-2240-garage,,3,parking-area,place-DB-2240,Garage,Talbot Avenue Garage,,41.7276060,-71.4427740,0
+park-DB-2258,,3,parking-area,place-DB-2258,Parking Lot,Uphams Corner Parking Lot,,42.3198330,-71.0686950,0
+park-ER-0115-garage,,3,parking-area,place-ER-0115,Garage,Lynn Garage,,42.4622960,-70.9457370,0
+park-ER-0128,,3,parking-area,place-ER-0128,Parking Lot,Swampscott Parking Lot,,42.4735630,-70.9225480,0
+park-ER-0168-garage,,3,parking-area,place-ER-0168,Garage,Salem Garage,,42.5247920,-70.8958760,0
+park-ER-0183-garage,,3,parking-area,place-ER-0183,Garage,Beverly Garage,,42.5472760,-70.8854320,0
+park-ER-0208,,3,parking-area,place-ER-0208,Parking Lot,North Beverly Parking Lot,,42.5836640,-70.8841200,0
+park-ER-0227,,3,parking-area,place-ER-0227,Parking Lot,Hamilton/Wenham Parking Lot,,42.6091520,-70.8744310,0
+park-ER-0276,,3,parking-area,place-ER-0276,Parking Lot,Ipswich Parking Lot,,42.6767950,-70.8402110,0
+park-ER-0312,,3,parking-area,place-ER-0312,Parking Lot,Rowley Parking Lot,,42.7269050,-70.8592950,0
+park-ER-0362,,3,parking-area,place-ER-0362,Parking Lot,Newburyport Parking Lot,,42.7965240,-70.8768790,0
+park-FB-0109,,3,parking-area,place-FB-0109,Parking Lot,Endicott Parking Lot,,42.2333090,-71.1588810,0
+park-FB-0118,,3,parking-area,place-FB-0118,Parking Lot,Dedham Corp Center Parking Lot,,42.2265200,-71.1735670,0
+park-FB-0125,,3,parking-area,place-FB-0125,Parking Lot,Islington Parking Lot,,42.2209350,-71.1838760,0
+park-FB-0143,,3,parking-area,place-FB-0143,Parking Lot,Norwood Depot Parking Lot,,42.1963280,-71.1971430,0
+park-FB-0148,,3,parking-area,place-FB-0148,Parking Lot,Norwood Central Parking Lot,,42.1882730,-71.2000560,0
+park-FB-0191,,3,parking-area,place-FB-0191,Parking Lot,Walpole Parking Lot,,42.1439000,-71.2579980,0
+park-FB-0230,,3,parking-area,place-FB-0230,Parking Lot,Norfolk Parking Lot,,42.1200950,-71.3261940,0
+park-FB-0275,,3,parking-area,place-FB-0275,Parking Lot,Franklin Parking Lot,,42.0835500,-71.3960890,0
+park-FB-0303,,3,parking-area,place-FB-0303,Parking Lot,Forge Park/495 Parking Lot,,42.0894910,-71.4395040,0
+park-FR-0064-claflin,,3,parking-area,place-FR-0064,Claflin Street Parking Lot,Belmont Claflin Street Parking Lot,,42.3972180,-71.1739400,0
+park-FR-0064-royal,,3,parking-area,place-FR-0064,Royal Road Parking Lot,Belmont Royal Road Parking Lot,,42.3957610,-71.1761420,0
+park-FR-0098-carter,,3,parking-area,place-FR-0098,Carter Street Parking Lot,Waltham Carter Street Parking Lot,,42.3744130,-71.2355950,0
+park-FR-0098-railroad,,3,parking-area,place-FR-0098,Railroad Street Parking Lot,Waltham Railroad Street Parking Lot,,42.3739960,-71.2377300,0
+park-FR-0115,,3,parking-area,place-FR-0115,Parking Lot,Brandeis/Roberts Parking Lot,,42.3618110,-71.2600060,0
+park-FR-0132,,3,parking-area,place-FR-0132,Parking Lot,Kendal Green Parking Lot,,42.3785390,-71.2821420,0
+park-FR-0137,,3,parking-area,place-FR-0137,Parking Lot,Hastings Parking Lot,,42.3855970,-71.2891180,0
+park-FR-0167,,3,parking-area,place-FR-0167,Parking Lot,Lincoln Parking Lot,,42.4154290,-71.3264800,0
+park-FR-0201,,3,parking-area,place-FR-0201,Parking Lot,Concord Parking Lot,,42.4546230,-71.3570450,0
+park-FR-0219,,3,parking-area,place-FR-0219,Parking Lot,West Concord Parking Lot,,42.4573580,-71.3931440,0
+park-FR-0253,,3,parking-area,place-FR-0253,Parking Lot,South Acton Parking Lot,,42.4609370,-71.4576260,0
+park-FR-0301,,3,parking-area,place-FR-0301,Parking Lot,Littleton/Rte 495 Parking Lot,,42.5204470,-71.5022120,0
+park-FR-0361,,3,parking-area,place-FR-0361,Parking Lot,Ayer Parking Lot,,42.5615420,-71.5899040,0
+park-FR-0394,,3,parking-area,place-FR-0394,Parking Lot,Shirley Parking Lot,,42.5453700,-71.6471240,0
+park-FR-0451-garage,,3,parking-area,place-FR-0451,Garage,North Leominster Garage,,42.5394700,-71.7398140,0
+park-FR-0494-garage,,3,parking-area,place-FR-0494,Garage,Fitchburg Garage,,42.5814700,-71.7935260,0
+park-FR-3338-garage,,3,parking-area,place-FR-3338,Garage,Wachusett Garage,,42.5526890,-71.8474780,0
+park-GB-0198,,3,parking-area,place-GB-0198,Parking Lot,Montserrat Parking Lot,,42.5619360,-70.8692710,0
+park-GB-0229,,3,parking-area,place-GB-0229,Parking Lot,Beverly Farms Parking Lot,,42.5617280,-70.8118310,0
+park-GB-0254,,3,parking-area,place-GB-0254,Parking Lot,Manchester Parking Lot,,42.5741420,-70.7680280,0
+park-GB-0296,,3,parking-area,place-GB-0296,Parking Lot,West Gloucester Parking Lot,,42.6118590,-70.7053250,0
+park-GB-0316,,3,parking-area,place-GB-0316,Parking Lot,Gloucester Parking Lot,,42.6168550,-70.6668870,0
+park-GB-0353,,3,parking-area,place-GB-0353,Parking Lot,Rockport Parking Lot,,42.6560890,-70.6268990,0
+park-GRB-0118,,3,parking-area,place-GRB-0118,Parking Lot,Weymouth Landing/East Braintree Parking Lot,,42.2212080,-70.9679810,0
+park-GRB-0146,,3,parking-area,place-GRB-0146,Parking Lot,East Weymouth Parking Lot,,42.2186590,-70.9219290,0
+park-GRB-0162,,3,parking-area,place-GRB-0162,Parking Lot,West Hingham Parking Lot,,42.2360310,-70.9030260,0
+park-GRB-0183,,3,parking-area,place-GRB-0183,Parking Lot,Nantasket Junction Parking Lot,,42.2452620,-70.8680670,0
+park-GRB-0199,,3,parking-area,place-GRB-0199,Parking Lot,Cohasset Parking Lot,,42.2434280,-70.8374270,0
+park-GRB-0233,,3,parking-area,place-GRB-0233,Parking Lot,North Scituate Parking Lot,,42.2196750,-70.7880590,0
+park-GRB-0276,,3,parking-area,place-GRB-0276,Parking Lot,Greenbush Parking Lot,,42.1782020,-70.7459980,0
+park-KB-0351,,3,parking-area,place-KB-0351,Parking Lot,Kingston Parking Lot,,41.9779250,-70.7226640,0
+park-MM-0150,,3,parking-area,place-MM-0150,Parking Lot,Holbrook/Randolph Parking Lot,,42.1562880,-71.0270330,0
+park-MM-0186,,3,parking-area,place-MM-0186,Parking Lot,Montello Parking Lot,,42.1066330,-71.0215720,0
+park-MM-0200-garage,,3,parking-area,place-MM-0200,Garage,Brockton Garage,,42.0844380,-71.0147900,0
+park-MM-0219,,3,parking-area,place-MM-0219,Parking Lot,Campello Parking Lot,,42.0608280,-71.0113810,0
+park-MM-0277,,3,parking-area,place-MM-0277,Parking Lot,Bridgewater Parking Lot,,41.9851010,-70.9649490,0
+park-MM-0356,,3,parking-area,place-MM-0356,Parking Lot,Middleborough/Lakeville Parking Lot,,41.8780490,-70.9193030,0
+park-NB-0064,,3,parking-area,place-NB-0064,Parking Lot,Roslindale Village Parking Lot,,42.2871560,-71.1304840,0
+park-NB-0072,,3,parking-area,place-NB-0072,Parking Lot,Bellevue Parking Lot,,42.2867410,-71.1459350,0
+park-NB-0076,,3,parking-area,place-NB-0076,Parking Lot,Highland Parking Lot,,42.2851880,-71.1537410,0
+park-NB-0080,,3,parking-area,place-NB-0080,Parking Lot,West Roxbury Parking Lot,,42.2811450,-71.1600130,0
+park-NB-0109,,3,parking-area,place-NB-0109,Parking Lot,Hersey Parking Lot,,42.2760950,-71.2160580,0
+park-NB-0120,,3,parking-area,place-NB-0120,Parking Lot,Needham Junction Parking Lot,,42.2733250,-71.2355180,0
+park-NB-0127,,3,parking-area,place-NB-0127,Parking Lot,Needham Center Parking Lot,,42.2812300,-71.2372710,0
+park-NB-0137,,3,parking-area,place-NB-0137,Parking Lot,Needham Heights Parking Lot,,42.2935150,-71.2362770,0
+park-NEC-1659,,3,parking-area,place-NEC-1659,Parking Lot,Wickford Junction Parking Lot,,41.5816700,-71.4914700,0
+park-NEC-1851-garage,,3,parking-area,place-NEC-1851,Garage,Providence Garage,,41.8291570,-71.4127430,0
+park-NEC-1919,,3,parking-area,place-NEC-1919,Parking Lot,South Attleboro Parking Lot,,41.8983570,-71.3557510,0
+park-NEC-1969,,3,parking-area,place-NEC-1969,Parking Lot,Attleboro Parking Lot,,41.9403490,-71.2859900,0
+park-NEC-2040,,3,parking-area,place-NEC-2040,Parking Lot,Mansfield Parking Lot,,42.0326890,-71.2209190,0
+park-NEC-2108,,3,parking-area,place-NEC-2108,Parking Lot,Sharon Parking Lot,,42.1246610,-71.1847430,0
+park-NEC-2139,,3,parking-area,place-NEC-2139,Parking Lot,Canton Junction Parking Lot,,42.1630750,-71.1530350,0
+park-NEC-2173-garage,,3,parking-area,place-NEC-2173,Garage,Route 128 Garage,,42.2098840,-71.1471000,0
+park-NEC-2203,,3,parking-area,place-NEC-2203,Parking Lot,Hyde Park Parking Lot,,42.2548230,-71.1253910,0
+park-NHRML-0055,,3,parking-area,place-NHRML-0055,Parking Lot,West Medford Parking Lot,,42.4218160,-71.1338460,0
+park-NHRML-0073,,3,parking-area,place-NHRML-0073,Parking Lot,Wedgemere Parking Lot,,42.4445790,-71.1407420,0
+park-NHRML-0078-aberjona,,3,parking-area,place-NHRML-0078,Lower Aberjona Parking Lot,Winchester Center Lower Aberjona Parking Lot,,42.4508720,-71.1375860,0
+park-NHRML-0078-waterfield,,3,parking-area,place-NHRML-0078,Waterfield Parking Lot,Winchester Center Waterfield Parking Lot,,42.4511660,-71.1380800,0
+park-NHRML-0127-airport,,3,parking-area,place-NHRML-0127,Logan Express Parking Lot,Anderson/Woburn Logan Express Parking Lot,,42.5165120,-71.1428130,0
+park-NHRML-0127-parkride,,3,parking-area,place-NHRML-0127,Park and Ride Parking Lot,Anderson/Woburn Park and Ride Parking Lot,,42.5185440,-71.1440610,0
+park-NHRML-0152,,3,parking-area,place-NHRML-0152,Parking Lot,Wilmington Parking Lot,,42.5473590,-71.1745590,0
+park-NHRML-0218-eastern,,3,parking-area,place-NHRML-0218,Eastern Parking Lot,North Billerica Eastern Parking Lot,,42.5933070,-71.2801380,0
+park-NHRML-0218-station,,3,parking-area,place-NHRML-0218,Station Street Parking Lot,North Billerica Station Street Parking Lot,,42.5933900,-71.2816320,0
+park-NHRML-0254-garage,,3,parking-area,place-NHRML-0254,Garage,Lowell Garage,,42.6369470,-71.3146390,0
+park-PB-0158,,3,parking-area,place-PB-0158,Parking Lot,South Weymouth Parking Lot,,42.1547540,-70.9539840,0
+park-PB-0194,,3,parking-area,place-PB-0194,Parking Lot,Abington Parking Lot,,42.1067380,-70.9348530,0
+park-PB-0212,,3,parking-area,place-PB-0212,Parking Lot,Whitman Parking Lot,,42.0825600,-70.9234870,0
+park-PB-0245,,3,parking-area,place-PB-0245,Parking Lot,Hanson Parking Lot,,42.0443710,-70.8822940,0
+park-PB-0281,,3,parking-area,place-PB-0281,Parking Lot,Halifax Parking Lot,,42.0146090,-70.8246200,0
+park-PB-0356,,3,parking-area,place-PB-0356,Parking Lot,Plymouth Parking Lot,,41.9810210,-70.6901800,0
+park-SB-0156,,3,parking-area,place-SB-0156,Parking Lot,Canton Center Parking Lot,,42.1569510,-71.1466250,0
+park-SB-0189,,3,parking-area,place-SB-0189,Parking Lot,Stoughton Parking Lot,,42.1233410,-71.1030870,0
+park-WML-0091-newton,,3,parking-area,place-WML-0091,Webster Street Parking Lot,West Newton Webster Street Parking Lot,,42.3477130,-71.2341600,0
+park-WML-0091-wash,,3,parking-area,place-WML-0091,Washington Street Parking Lot,West Newton Washington Street Parking Lot,,42.3482020,-71.2293950,0
+park-WML-0102,,3,parking-area,place-WML-0102,Parking Lot,Auburndale Parking Lot,,42.3457390,-71.2511450,0
+park-WML-0125,,3,parking-area,place-WML-0125,Parking Lot,Wellesley Farms Parking Lot,,42.3217790,-71.2719150,0
+park-WML-0135,,3,parking-area,place-WML-0135,Parking Lot,Wellesley Hills Parking Lot,,42.3099520,-71.2771930,0
+park-WML-0147,,3,parking-area,place-WML-0147,Parking Lot,Wellesley Square Parking Lot,,42.2979690,-71.2948890,0
+park-WML-0177,,3,parking-area,place-WML-0177,Parking Lot,Natick Center Parking Lot,,42.2856010,-71.3429450,0
+park-WML-0199,,3,parking-area,place-WML-0199,Parking Lot,West Natick Parking Lot,,42.2825060,-71.3915190,0
+park-WML-0214,,3,parking-area,place-WML-0214,Parking Lot,Framingham Parking Lot,,42.2762530,-71.4190960,0
+park-WML-0252,,3,parking-area,place-WML-0252,Parking Lot,Ashland Parking Lot,,42.2615010,-71.4806960,0
+park-WML-0274,,3,parking-area,place-WML-0274,Parking Lot,Southborough Parking Lot,,42.2670600,-71.5230120,0
+park-WML-0340,,3,parking-area,place-WML-0340,Parking Lot,Westborough Parking Lot,,42.2700500,-71.6476230,0
+park-WML-0364,,3,parking-area,place-WML-0364,Parking Lot,Grafton Parking Lot,,42.2468830,-71.6858730,0
+park-WML-0442-garage,,3,parking-area,place-WML-0442,Garage,Worcester Garage,,42.2603810,-71.7945930,0
 park-WR-0053,,3,parking-area,place-ogmnl,Banks Place Parking Lot,Oak Grove Banks Place Parking Lot,,42.4362460,-71.0711940,0
-park-WR-0062,,3,parking-area,Wyoming Hill,Parking Lot,Wyoming Hill Parking Lot,,42.4515360,-71.0696410,0
-park-WR-0067,,3,parking-area,Melrose Cedar Park,Parking Lot,Melrose Cedar Park Parking Lot,,42.4586480,-71.0699850,0
-park-WR-0075,,3,parking-area,Melrose Highlands,Parking Lot,Melrose Highlands Parking Lot,,42.4695420,-71.0684740,0
-park-WR-0085,,3,parking-area,Greenwood,Main Street Parking Lot,Greenwood Main Street Parking Lot,,42.4849990,-71.0682420,0
-park-WR-0099,,3,parking-area,Wakefield,Parking Lot,Wakefield Parking Lot,,42.5009520,-71.0743930,0
-park-WR-0120,,3,parking-area,Reading,Parking Lot,Reading Parking Lot,,42.5227170,-71.1097160,0
-park-WR-0163,,3,parking-area,North Wilmington,Parking Lot,North Wilmington Parking Lot,,42.5699840,-71.1592830,0
-park-WR-0205,,3,parking-area,Ballardvale,Parking Lot,Ballardvale Parking Lot,,42.6277090,-71.1597650,0
-park-WR-0228,,3,parking-area,Andover,Parking Lot,Andover Parking Lot,,42.6590390,-71.1449380,0
-park-WR-0264,,3,parking-area,Lawrence,Parking Lot,Lawrence Parking Lot,,42.7021070,-71.1523330,0
-park-WR-0325,,3,parking-area,Bradford,Parking Lot,Bradford Parking Lot,,42.7667950,-71.0889950,0
-park-WR-0329,,3,parking-area,Haverhill,Parking Lot,Haverhill Parking Lot,,42.7734050,-71.0866210,0
+park-WR-0062,,3,parking-area,place-WR-0062,Parking Lot,Wyoming Hill Parking Lot,,42.4515360,-71.0696410,0
+park-WR-0067,,3,parking-area,place-WR-0067,Parking Lot,Melrose Cedar Park Parking Lot,,42.4586480,-71.0699850,0
+park-WR-0075,,3,parking-area,place-WR-0075,Parking Lot,Melrose Highlands Parking Lot,,42.4695420,-71.0684740,0
+park-WR-0085,,3,parking-area,place-WR-0085,Main Street Parking Lot,Greenwood Main Street Parking Lot,,42.4849990,-71.0682420,0
+park-WR-0099,,3,parking-area,place-WR-0099,Parking Lot,Wakefield Parking Lot,,42.5009520,-71.0743930,0
+park-WR-0120,,3,parking-area,place-WR-0120,Parking Lot,Reading Parking Lot,,42.5227170,-71.1097160,0
+park-WR-0163,,3,parking-area,place-WR-0163,Parking Lot,North Wilmington Parking Lot,,42.5699840,-71.1592830,0
+park-WR-0205,,3,parking-area,place-WR-0205,Parking Lot,Ballardvale Parking Lot,,42.6277090,-71.1597650,0
+park-WR-0228,,3,parking-area,place-WR-0228,Parking Lot,Andover Parking Lot,,42.6590390,-71.1449380,0
+park-WR-0264,,3,parking-area,place-WR-0264,Parking Lot,Lawrence Parking Lot,,42.7021070,-71.1523330,0
+park-WR-0325,,3,parking-area,place-WR-0325,Parking Lot,Bradford Parking Lot,,42.7667950,-71.0889950,0
+park-WR-0329,,3,parking-area,place-WR-0329,Parking Lot,Haverhill Parking Lot,,42.7734050,-71.0866210,0
 park-alfcl-garage,,3,parking-area,place-alfcl,Garage,Alewife Garage,,42.3954280,-71.1424830,0
 park-bcnfd,,3,parking-area,place-bcnfd,Parking Lot,Beaconsfield Parking Lot,,42.3358410,-71.1401860,0
 park-bmmnl,,3,parking-area,place-bmmnl,Winthrop Avenue Parking Lot,Beachmont Winthrop Avenue Parking Lot,,42.3986670,-70.9931320,0
@@ -1409,26 +1409,26 @@ ramp-Boat-Hull,,2,ramp,Boat-Hull,Ramp access,Hull ramp access,,,,1
 ramp-Boat-Logan,,2,ramp,Boat-Logan,Ramp access,Logan Airport Ferry Terminal ramp access,,,,1
 ramp-Boat-Long,,2,ramp,Boat-Long,Ramp access,Long Wharf (North) ramp access,,,,1
 ramp-Boat-Rowes,,2,ramp,Boat-Rowes,Ramp access,Rowes Wharf ramp access,,,,1
-ramp-DB-0095,,2,ramp,Readville,Ramp access,Readville ramp access,,,,1
-ramp-DB-2205,,2,ramp,Fairmount,Ramp access,Fairmount ramp access,,,,1
-ramp-DB-2222,,2,ramp,Blue Hill Avenue,Ramp access,Blue Hill Avenue ramp access,,,,1
-ramp-DB-2240,,2,ramp,Talbot Avenue,Ramp access,Talbot Avenue ramp access,,,,1
-ramp-DB-2249,,2,ramp,Four Corners / Geneva,Ramp access,Four Corners/Geneva ramp access,,,,1
-ramp-DB-2258,,2,ramp,Uphams Corner,Ramp access,Uphams Corner ramp access,,,,1
-ramp-DB-2265,,2,ramp,Newmarket,Ramp access,Newmarket ramp access,,,,1
-ramp-FR-0301,,2,ramp,Littleton / Rte 495,Ramp access,Littleton/Rte 495 ramp access,,,,1
-ramp-FR-3338,,2,ramp,Wachusett,Ramp access,Wachusett ramp access,,,,1
-ramp-NEC-1919,,2,ramp,South Attleboro,Ramp access,South Attleboro ramp access,,,,1
-ramp-NEC-1969,,2,ramp,Attleboro,Ramp access,Attleboro ramp access,,,,1
-ramp-NEC-2108,,2,ramp,Sharon,Ramp access,Sharon ramp access,,,,1
-ramp-NEC-2139,,2,ramp,Canton Junction,Ramp access,Canton Junction ramp access,,,,1
-ramp-NEC-2203,,2,ramp,Hyde Park,Ramp access,Hyde Park ramp access,,,,1
-ramp-NHRML-0073,,2,ramp,Wedgemere,Ramp access,Wedgemere ramp access,,,,1
-ramp-NHRML-0127,,2,ramp,Anderson/ Woburn,Ramp access,Anderson/Woburn ramp access,,,,1
-ramp-WML-0252,,2,ramp,Ashland,Ramp access,Ashland ramp access,,,,1
-ramp-WML-0274,,2,ramp,Southborough,Ramp access,Southborough ramp access,,,,1
-ramp-WML-0340,,2,ramp,Westborough,Ramp access,Westborough ramp access,,,,1
-ramp-WML-0364,,2,ramp,Grafton,Ramp access,Grafton ramp access,,,,1
+ramp-DB-0095,,2,ramp,place-DB-0095,Ramp access,Readville ramp access,,,,1
+ramp-DB-2205,,2,ramp,place-DB-2205,Ramp access,Fairmount ramp access,,,,1
+ramp-DB-2222,,2,ramp,place-DB-2222,Ramp access,Blue Hill Avenue ramp access,,,,1
+ramp-DB-2240,,2,ramp,place-DB-2240,Ramp access,Talbot Avenue ramp access,,,,1
+ramp-DB-2249,,2,ramp,place-DB-2249,Ramp access,Four Corners/Geneva ramp access,,,,1
+ramp-DB-2258,,2,ramp,place-DB-2258,Ramp access,Uphams Corner ramp access,,,,1
+ramp-DB-2265,,2,ramp,place-DB-2265,Ramp access,Newmarket ramp access,,,,1
+ramp-FR-0301,,2,ramp,place-FR-0301,Ramp access,Littleton/Rte 495 ramp access,,,,1
+ramp-FR-3338,,2,ramp,place-FR-3338,Ramp access,Wachusett ramp access,,,,1
+ramp-NEC-1919,,2,ramp,place-NEC-1919,Ramp access,South Attleboro ramp access,,,,1
+ramp-NEC-1969,,2,ramp,place-NEC-1969,Ramp access,Attleboro ramp access,,,,1
+ramp-NEC-2108,,2,ramp,place-NEC-2108,Ramp access,Sharon ramp access,,,,1
+ramp-NEC-2139,,2,ramp,place-NEC-2139,Ramp access,Canton Junction ramp access,,,,1
+ramp-NEC-2203,,2,ramp,place-NEC-2203,Ramp access,Hyde Park ramp access,,,,1
+ramp-NHRML-0073,,2,ramp,place-NHRML-0073,Ramp access,Wedgemere ramp access,,,,1
+ramp-NHRML-0127,,2,ramp,place-NHRML-0127,Ramp access,Anderson/Woburn ramp access,,,,1
+ramp-WML-0252,,2,ramp,place-WML-0252,Ramp access,Ashland ramp access,,,,1
+ramp-WML-0274,,2,ramp,place-WML-0274,Ramp access,Southborough ramp access,,,,1
+ramp-WML-0340,,2,ramp,place-WML-0340,Ramp access,Westborough ramp access,,,,1
+ramp-WML-0364,,2,ramp,place-WML-0364,Ramp access,Grafton ramp access,,,,1
 ramp-alfcl,,2,ramp,place-alfcl,Ramp access,Alewife ramp access,,,,1
 ramp-asmnl,,2,ramp,place-asmnl,Ramp access,Ashmont ramp access,,,,1
 ramp-brntn,,2,ramp,place-brntn,Ramp access,Braintree ramp access,,,,1
@@ -1483,7 +1483,7 @@ retailsale-302063,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,
 retailsale-302064,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,,42.3170462,-71.0655898,0
 retailsale-302065,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,,42.2694880,-71.0941610,0
 retailsale-302069,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,,42.4084440,-71.0019190,0
-retailsale-302070,,4,fare-vending-retailer,Attleboro,Dian's Depot,Dian's Depot,,41.9424317,-71.2840337,0
+retailsale-302070,,4,fare-vending-retailer,place-NEC-1969,Dian's Depot,Dian's Depot,,41.9424317,-71.2840337,0
 retailsale-302071,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,,42.4180236,-71.1467741,0
 retailsale-302072,,4,fare-vending-retailer,,Star Market,Star Market,,42.3615672,-71.0993596,0
 retailsale-302073,,4,fare-vending-retailer,,Star Market,Star Market,,42.3751587,-71.1489313,0
@@ -1526,7 +1526,7 @@ retailsale-302163,,4,fare-vending-retailer,,Norfolk Food Mart,Norfolk Food Mart,
 retailsale-302164,,4,fare-vending-retailer,,Village Market,Village Market,,42.3604427,-71.2615365,0
 retailsale-302167,,4,fare-vending-retailer,,Chansky's Market,Chansky's Market,,42.3411566,-71.1467547,0
 retailsale-302168,,4,fare-vending-retailer,,Quick Exchange,Quick Exchange,,42.2992699,-71.0644869,0
-retailsale-302171,,4,fare-vending-retailer,Haverhill,LAZ Parking MVRTA Garage,LAZ Parking MVRTA Garage,,42.7742959,-71.0858952,0
+retailsale-302171,,4,fare-vending-retailer,place-WR-0329,LAZ Parking MVRTA Garage,LAZ Parking MVRTA Garage,,42.7742959,-71.0858952,0
 retailsale-302172,,4,fare-vending-retailer,,Piccadilly Market,Piccadilly Market,,42.3298823,-71.1925320,0
 retailsale-302173,,4,fare-vending-retailer,,Mid Nite Convenience,Mid Nite Convenience,,42.3794495,-71.0960169,0
 retailsale-302174,,4,fare-vending-retailer,,Elmwood Pharmacy,Elmwood Pharmacy,,42.4273852,-71.0751893,0
@@ -1538,7 +1538,7 @@ retailsale-302184,,4,fare-vending-retailer,,Brennan's News,Brennan's News,,42.10
 retailsale-302187,,4,fare-vending-retailer,,Shaws,Shaws,,42.5032227,-71.0640766,0
 retailsale-302188,,4,fare-vending-retailer,,Lees Supermarket,Lees Supermarket,,42.3442297,-71.1431245,0
 retailsale-302189,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3507151,-71.1145731,0
-retailsale-302194,,4,fare-vending-retailer,Anderson/ Woburn,Anderson Regional Transportation Center,Anderson Regional Transportation Center,,42.5173642,-71.1442420,0
+retailsale-302194,,4,fare-vending-retailer,place-NHRML-0127,Anderson Regional Transportation Center,Anderson Regional Transportation Center,,42.5173642,-71.1442420,0
 retailsale-302195,,4,fare-vending-retailer,,Nathan Sandwich & Variety,Nathan Sandwich & Variety,,42.7725928,-71.0866083,0
 retailsale-302196,,4,fare-vending-retailer,,Needham Junction Ice Cream,Needham Junction Ice Cream,,42.2732125,-71.2358236,0
 retailsale-302199,,4,fare-vending-retailer,,Cafe LaFrance,Cafe LaFrance,,41.8292430,-71.4132820,0
@@ -1548,8 +1548,8 @@ retailsale-302205,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3367728,-71.07
 retailsale-302210,,4,fare-vending-retailer,,Star Food Mart,Star Food Mart,,42.2555445,-71.1240197,0
 retailsale-302211,,4,fare-vending-retailer,,Star Variety,Star Variety,,42.3650237,-71.1044045,0
 retailsale-302217,,4,fare-vending-retailer,,Lucky Farms,Lucky Farms,,42.2554140,-71.4678054,0
-retailsale-302234,,4,fare-vending-retailer,Lawrence,LAZ Parking,LAZ Parking,,42.7021654,-71.1524640,0
-retailsale-302238,,4,fare-vending-retailer,Mansfield,Mansfield Train Station,Mansfield Train Station,,42.0322050,-71.2199940,0
+retailsale-302234,,4,fare-vending-retailer,place-WR-0264,LAZ Parking,LAZ Parking,,42.7021654,-71.1524640,0
+retailsale-302238,,4,fare-vending-retailer,place-NEC-2040,Mansfield Train Station,Mansfield Train Station,,42.0322050,-71.2199940,0
 retailsale-303004,,4,fare-vending-retailer,,Star Market,Star Market,,42.3609676,-71.1375155,0
 retailsale-303005,,4,fare-vending-retailer,,Get-N-Go,Get-N-Go,,42.3882476,-71.1033752,0
 retailsale-303006,,4,fare-vending-retailer,,Andre's,Andre's,,42.2657814,-71.0212735,0
@@ -1574,63 +1574,63 @@ retailsale-303033,,4,fare-vending-retailer,,Mass Telepage,Mass Telepage,,42.4588
 retailsale-303034,,4,fare-vending-retailer,,Natural Grocery,Natural Grocery,,42.3964358,-71.1035793,0
 retailsale-303036,,4,fare-vending-retailer,,Caribean Liquors,Caribean Liquors,,42.3921397,-71.0348849,0
 retailsale-303037,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3505035,-71.1314010,0
-subplat-025,,2,elevated-subplatform,Ipswich,Mini-high platform,Ipswich mini-high platform,,,,1
-subplat-DB-0095,,2,elevated-subplatform,Readville,Mini-high platform,Readville mini-high platform,,,,1
-subplat-DB-2205,,2,elevated-subplatform,Fairmount,Mini-high platform,Fairmount mini-high platform,,,,1
-subplat-ER-0128,,2,elevated-subplatform,Swampscott,Mini-high platform,Swampscott mini-high platform,,,,1
-subplat-ER-0183,,2,elevated-subplatform,Beverly,Mini-high platform,Beverly mini-high platform,,,,1
-subplat-ER-0208,,2,elevated-subplatform,North Beverly,Mini-high platform,North Beverly mini-high platform,,,,1
-subplat-ER-0227,,2,elevated-subplatform,Hamilton/ Wenham,Mini-high platform,Hamilton/Wenham mini-high platform,,,,1
-subplat-FB-0118,,2,elevated-subplatform,Dedham Corp Center,Mini-high platform,Dedham Corp Center mini-high platform,,,,1
-subplat-FB-0143,,2,elevated-subplatform,Norwood Depot,Mini-high platform,Norwood Depot mini-high platform,,,,1
-subplat-FB-0148,,2,elevated-subplatform,Norwood Central,Mini-high platform,Norwood Central mini-high platform,,,,1
-subplat-FB-0230,,2,elevated-subplatform,Norfolk,Mini-high platform,Norfolk mini-high platform,,,,1
-subplat-FB-0303,,2,elevated-subplatform,Forge Park / 495,Mini-high platform,Forge Park/495 mini-high platform,,,,1
-subplat-FR-0098,,2,elevated-subplatform,Waltham,Mini-high platform,Waltham mini-high platform,,,,1
-subplat-FR-0115,,2,elevated-subplatform,Brandeis/ Roberts,Mini-high platform,Brandeis/Roberts mini-high platform,,,,1
-subplat-FR-0219,,2,elevated-subplatform,West Concord,Mini-high platform,West Concord mini-high platform,,,,1
-subplat-FR-0451,,2,elevated-subplatform,North Leominster,Mini-high platform,North Leominster mini-high platform,,,,1
-subplat-FR-0494,,2,elevated-subplatform,Fitchburg,Mini-high platform,Fitchburg mini-high platform,,,,1
-subplat-FS-0049,,2,elevated-subplatform,Foxboro,Mini-high platform,Foxboro mini-high platform,,,,1
-subplat-GB-0198,,2,elevated-subplatform,Montserrat,Mini-high platform,Montserrat mini-high platform,,,,1
-subplat-GB-0229,,2,elevated-subplatform,Beverly Farms,Mini-high platform,Beverly Farms mini-high platform,,,,1
-subplat-GB-0254,,2,elevated-subplatform,Manchester,Mini-high platform,Manchester mini-high platform,,,,1
-subplat-GB-0296,,2,elevated-subplatform,West Gloucester,Mini-high platform,West Gloucester mini-high platform,,,,1
-subplat-GB-0316,,2,elevated-subplatform,Gloucester,Mini-high platform,Gloucester mini-high platform,,,,1
-subplat-GB-0353,,2,elevated-subplatform,Rockport,Mini-high platform,Rockport mini-high platform,,,,1
-subplat-NB-0064,,2,elevated-subplatform,Roslindale Village,Mini-high platform,Roslindale Village mini-high platform,,,,1
-subplat-NB-0072,,2,elevated-subplatform,Bellevue,Mini-high platform,Bellevue mini-high platform,,,,1
-subplat-NB-0076,,2,elevated-subplatform,Highland,Mini-high platform,Highland mini-high platform,,,,1
-subplat-NB-0080,,2,elevated-subplatform,West Roxbury,Mini-high platform,West Roxbury mini-high platform,,,,1
-subplat-NB-0109,,2,elevated-subplatform,Hersey,Mini-high platform,Hersey mini-high platform,,,,1
-subplat-NB-0120,,2,elevated-subplatform,Needham Junction,Mini-high platform,Needham Junction mini-high platform,,,,1
-subplat-NB-0127,,2,elevated-subplatform,Needham Center,Mini-high platform,Needham Center mini-high platform,,,,1
-subplat-NB-0137,,2,elevated-subplatform,Needham Heights,Mini-high platform,Needham Heights mini-high platform,,,,1
-subplat-NEC-1919,,2,elevated-subplatform,South Attleboro,Mini-high platform,South Attleboro mini-high platform,,,,1
-subplat-NEC-1969,,2,elevated-subplatform,Attleboro,Mini-high platform,Attleboro mini-high platform,,,,1
-subplat-NEC-2040,,2,elevated-subplatform,Mansfield,Mini-high platform,Mansfield mini-high platform,,,,1
-subplat-NEC-2108,,2,elevated-subplatform,Sharon,Mini-high platform,Sharon mini-high platform,,,,1
-subplat-NEC-2139,,2,elevated-subplatform,Canton Junction,Mini-high platform,Canton Junction mini-high platform,,,,1
-subplat-NEC-2203,,2,elevated-subplatform,Hyde Park,Mini-high platform,Hyde Park mini-high platform,,,,1
-subplat-NHRML-0073,,2,elevated-subplatform,Wedgemere,Mini-high platform,Wedgemere mini-high platform,,,,1
-subplat-NHRML-0116,,2,elevated-subplatform,Mishawum,Mini-high platform,Mishawum mini-high platform,,,,1
-subplat-NHRML-0152,,2,elevated-subplatform,Wilmington,Mini-high platform,Wilmington mini-high platform,,,,1
-subplat-NHRML-0218,,2,elevated-subplatform,North Billerica,Mini-high platform,North Billerica mini-high platform,,,,1
-subplat-SB-0156,,2,elevated-subplatform,Canton Center,Mini-high platform,Canton Center mini-high platform,,,,1
-subplat-SB-0189,,2,elevated-subplatform,Stoughton,Mini-high platform,Stoughton mini-high platform,,,,1
-subplat-WML-0199,,2,elevated-subplatform,West Natick,Mini-high platform,West Natick mini-high platform,,,,1
-subplat-WML-0214,,2,elevated-subplatform,Framingham,Mini-high platform,Framingham mini-high platform,,,,1
-subplat-WML-0252,,2,elevated-subplatform,Ashland,Mini-high platform,Ashland mini-high platform,,,,1
-subplat-WML-0274,,2,elevated-subplatform,Southborough,Mini-high platform,Southborough mini-high platform,,,,1
-subplat-WML-0340,,2,elevated-subplatform,Westborough,Mini-high platform,Westborough mini-high platform,,,,1
-subplat-WML-0364,,2,elevated-subplatform,Grafton,Mini-high platform,Grafton mini-high platform,,,,1
-subplat-WML-0442,,2,elevated-subplatform,Worcester,Mini-high platform,Worcester mini-high platform,,,,1
-subplat-WR-0075,,2,elevated-subplatform,Melrose Highlands,Mini-high platform,Melrose Highlands mini-high platform,,,,1
-subplat-WR-0120,,2,elevated-subplatform,Reading,Mini-high platform,Reading mini-high platform,,,,1
-subplat-WR-0205,,2,elevated-subplatform,Ballardvale,Mini-high platform,Ballardvale mini-high platform,,,,1
-subplat-WR-0228,,2,elevated-subplatform,Andover,Mini-high platform,Andover mini-high platform,,,,1
-subplat-WR-0325,,2,elevated-subplatform,Bradford,Mini-high platform,Bradford mini-high platform,,,,1
-subplat-WR-0329,,2,elevated-subplatform,Haverhill,Mini-high platform,Haverhill mini-high platform,,,,1
+subplat-25,,2,elevated-subplatform,25,Mini-high platform,E Broadway @ L St mini-high platform,,,,1
+subplat-DB-0095,,2,elevated-subplatform,place-DB-0095,Mini-high platform,Readville mini-high platform,,,,1
+subplat-DB-2205,,2,elevated-subplatform,place-DB-2205,Mini-high platform,Fairmount mini-high platform,,,,1
+subplat-ER-0128,,2,elevated-subplatform,place-ER-0128,Mini-high platform,Swampscott mini-high platform,,,,1
+subplat-ER-0183,,2,elevated-subplatform,place-ER-0183,Mini-high platform,Beverly mini-high platform,,,,1
+subplat-ER-0208,,2,elevated-subplatform,place-ER-0208,Mini-high platform,North Beverly mini-high platform,,,,1
+subplat-ER-0227,,2,elevated-subplatform,place-ER-0227,Mini-high platform,Hamilton/Wenham mini-high platform,,,,1
+subplat-FB-0118,,2,elevated-subplatform,place-FB-0118,Mini-high platform,Dedham Corp Center mini-high platform,,,,1
+subplat-FB-0143,,2,elevated-subplatform,place-FB-0143,Mini-high platform,Norwood Depot mini-high platform,,,,1
+subplat-FB-0148,,2,elevated-subplatform,place-FB-0148,Mini-high platform,Norwood Central mini-high platform,,,,1
+subplat-FB-0230,,2,elevated-subplatform,place-FB-0230,Mini-high platform,Norfolk mini-high platform,,,,1
+subplat-FB-0303,,2,elevated-subplatform,place-FB-0303,Mini-high platform,Forge Park/495 mini-high platform,,,,1
+subplat-FR-0098,,2,elevated-subplatform,place-FR-0098,Mini-high platform,Waltham mini-high platform,,,,1
+subplat-FR-0115,,2,elevated-subplatform,place-FR-0115,Mini-high platform,Brandeis/Roberts mini-high platform,,,,1
+subplat-FR-0219,,2,elevated-subplatform,place-FR-0219,Mini-high platform,West Concord mini-high platform,,,,1
+subplat-FR-0451,,2,elevated-subplatform,place-FR-0451,Mini-high platform,North Leominster mini-high platform,,,,1
+subplat-FR-0494,,2,elevated-subplatform,place-FR-0494,Mini-high platform,Fitchburg mini-high platform,,,,1
+subplat-FS-0049,,2,elevated-subplatform,place-FS-0049,Mini-high platform,Foxboro mini-high platform,,,,1
+subplat-GB-0198,,2,elevated-subplatform,place-GB-0198,Mini-high platform,Montserrat mini-high platform,,,,1
+subplat-GB-0229,,2,elevated-subplatform,place-GB-0229,Mini-high platform,Beverly Farms mini-high platform,,,,1
+subplat-GB-0254,,2,elevated-subplatform,place-GB-0254,Mini-high platform,Manchester mini-high platform,,,,1
+subplat-GB-0296,,2,elevated-subplatform,place-GB-0296,Mini-high platform,West Gloucester mini-high platform,,,,1
+subplat-GB-0316,,2,elevated-subplatform,place-GB-0316,Mini-high platform,Gloucester mini-high platform,,,,1
+subplat-GB-0353,,2,elevated-subplatform,place-GB-0353,Mini-high platform,Rockport mini-high platform,,,,1
+subplat-NB-0064,,2,elevated-subplatform,place-NB-0064,Mini-high platform,Roslindale Village mini-high platform,,,,1
+subplat-NB-0072,,2,elevated-subplatform,place-NB-0072,Mini-high platform,Bellevue mini-high platform,,,,1
+subplat-NB-0076,,2,elevated-subplatform,place-NB-0076,Mini-high platform,Highland mini-high platform,,,,1
+subplat-NB-0080,,2,elevated-subplatform,place-NB-0080,Mini-high platform,West Roxbury mini-high platform,,,,1
+subplat-NB-0109,,2,elevated-subplatform,place-NB-0109,Mini-high platform,Hersey mini-high platform,,,,1
+subplat-NB-0120,,2,elevated-subplatform,place-NB-0120,Mini-high platform (Commuter Rail),Needham Junction mini-high platform (Commuter Rail),,,,1
+subplat-NB-0127,,2,elevated-subplatform,place-NB-0127,Mini-high platform,Needham Center mini-high platform,,,,1
+subplat-NB-0137,,2,elevated-subplatform,place-NB-0137,Mini-high platform,Needham Heights mini-high platform,,,,1
+subplat-NEC-1919,,2,elevated-subplatform,place-NEC-1919,Mini-high platform,South Attleboro mini-high platform,,,,1
+subplat-NEC-1969,,2,elevated-subplatform,place-NEC-1969,Mini-high platform,Attleboro mini-high platform,,,,1
+subplat-NEC-2040,,2,elevated-subplatform,place-NEC-2040,Mini-high platform,Mansfield mini-high platform,,,,1
+subplat-NEC-2108,,2,elevated-subplatform,place-NEC-2108,Mini-high platform,Sharon mini-high platform,,,,1
+subplat-NEC-2139,,2,elevated-subplatform,place-NEC-2139,Mini-high platform,Canton Junction mini-high platform,,,,1
+subplat-NEC-2203,,2,elevated-subplatform,place-NEC-2203,Mini-high platform,Hyde Park mini-high platform,,,,1
+subplat-NHRML-0073,,2,elevated-subplatform,place-NHRML-0073,Mini-high platform,Wedgemere mini-high platform,,,,1
+subplat-NHRML-0116,,2,elevated-subplatform,place-NHRML-0116,Mini-high platform,Mishawum mini-high platform,,,,1
+subplat-NHRML-0152,,2,elevated-subplatform,place-NHRML-0152,Mini-high platform,Wilmington mini-high platform,,,,1
+subplat-NHRML-0218,,2,elevated-subplatform,place-NHRML-0218,Mini-high platform,North Billerica mini-high platform,,,,1
+subplat-SB-0156,,2,elevated-subplatform,place-SB-0156,Mini-high platform,Canton Center mini-high platform,,,,1
+subplat-SB-0189,,2,elevated-subplatform,place-SB-0189,Mini-high platform,Stoughton mini-high platform,,,,1
+subplat-WML-0199,,2,elevated-subplatform,place-WML-0199,Mini-high platform,West Natick mini-high platform,,,,1
+subplat-WML-0214,,2,elevated-subplatform,place-WML-0214,Mini-high platform,Framingham mini-high platform,,,,1
+subplat-WML-0252,,2,elevated-subplatform,place-WML-0252,Mini-high platform,Ashland mini-high platform,,,,1
+subplat-WML-0274,,2,elevated-subplatform,place-WML-0274,Mini-high platform,Southborough mini-high platform,,,,1
+subplat-WML-0340,,2,elevated-subplatform,place-WML-0340,Mini-high platform,Westborough mini-high platform,,,,1
+subplat-WML-0364,,2,elevated-subplatform,place-WML-0364,Mini-high platform,Grafton mini-high platform,,,,1
+subplat-WML-0442,,2,elevated-subplatform,place-WML-0442,Mini-high platform,Worcester mini-high platform,,,,1
+subplat-WR-0075,,2,elevated-subplatform,place-WR-0075,Mini-high platform,Melrose Highlands mini-high platform,,,,1
+subplat-WR-0120,,2,elevated-subplatform,place-WR-0120,Mini-high platform,Reading mini-high platform,,,,1
+subplat-WR-0205,,2,elevated-subplatform,place-WR-0205,Mini-high platform,Ballardvale mini-high platform,,,,1
+subplat-WR-0228,,2,elevated-subplatform,place-WR-0228,Mini-high platform,Andover mini-high platform,,,,1
+subplat-WR-0325,,2,elevated-subplatform,place-WR-0325,Mini-high platform,Bradford mini-high platform,,,,1
+subplat-WR-0329,,2,elevated-subplatform,place-WR-0329,Mini-high platform,Haverhill mini-high platform,,,,1
 subplat-bbsta-5,,2,elevated-subplatform,place-bbsta,Mini-high platform (Commuter Rail - Track 5),Back Bay mini-high platform (Commuter Rail - Track 5),,,,1
 subplat-bbsta-7,,2,elevated-subplatform,place-bbsta,Mini-high platform (Commuter Rail - Track 7),Back Bay mini-high platform (Commuter Rail - Track 7),,,,1
 subplat-bucen,,2,elevated-subplatform,place-bucen,Mini-high platform (Park Street & North),Boston University Central mini-high platform (Park Street & North),,,,1
