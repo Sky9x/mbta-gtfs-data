@@ -772,6 +772,7 @@ facility_id,property_id,value
 330,excludes-stop,door-qnctr-busway
 330,excludes-stop,node-330-entrance
 330,excludes-stop,node-330-platform
+330,excludes-stop,node-810-entrance
 330,excludes-stop,node-810-platform
 330,excludes-stop,node-896-entrance
 330,excludes-stop,node-896-platform
@@ -1412,8 +1413,6 @@ facility_id,property_id,value
 378,excludes-stop,5810
 378,excludes-stop,5819
 378,excludes-stop,70056
-378,excludes-stop,9070055
-378,excludes-stop,9070056
 378,excludes-stop,node-378-lobby
 378,excludes-stop,node-378-platform
 378,excludes-stop,node-379-lobby
@@ -1432,8 +1431,6 @@ facility_id,property_id,value
 379,excludes-stop,5810
 379,excludes-stop,5819
 379,excludes-stop,70055
-379,excludes-stop,9070055
-379,excludes-stop,9070056
 379,excludes-stop,node-378-lobby
 379,excludes-stop,node-378-platform
 379,excludes-stop,node-379-lobby
@@ -4473,6 +4470,7 @@ facility_id,property_id,value
 810,excludes-stop,door-qnctr-busway
 810,excludes-stop,node-330-entrance
 810,excludes-stop,node-330-platform
+810,excludes-stop,node-810-entrance
 810,excludes-stop,node-810-platform
 810,excludes-stop,node-896-entrance
 810,excludes-stop,node-896-platform
@@ -5169,6 +5167,7 @@ facility_id,property_id,value
 871,excludes-stop,door-qnctr-busway
 871,excludes-stop,node-330-entrance
 871,excludes-stop,node-330-platform
+871,excludes-stop,node-810-entrance
 871,excludes-stop,node-810-platform
 871,excludes-stop,node-896-entrance
 871,excludes-stop,node-896-platform
@@ -5303,15 +5302,11 @@ facility_id,property_id,value
 881,excludes-stop,node-sull-sbstairs-platform
 884,alternate-service-text,"If exiting, exit the Blue Line at Beachmont and switch to a Wonderland-bound train. Exit at Revere Beach using Revere Beach Elevator 885. If boarding, take Revere Beach Elevator 885 to Wonderland and switch to a Government Center-bound train."
 884,excludes-stop,70058
-884,excludes-stop,9070057
-884,excludes-stop,9070058
 884,excludes-stop,door-rbmnl-beach
 884,excludes-stop,door-rbmnl-ocean
 884,excludes-stop,door-rbmnl-shirley
 885,alternate-service-text,"If exiting, exit the Blue Line at Wonderland and switch to a Government Center-bound train. Exit at Revere Beach using Revere Beach Elevator 884. If boarding, take Revere Beach Elevator 884 to Beachmont and switch to a Wonderland-bound train."
 885,excludes-stop,70057
-885,excludes-stop,9070057
-885,excludes-stop,9070058
 885,excludes-stop,door-rbmnl-beach
 885,excludes-stop,door-rbmnl-ocean
 885,excludes-stop,door-rbmnl-shirley
@@ -5319,8 +5314,6 @@ facility_id,property_id,value
 886,excludes-stop,5810
 886,excludes-stop,5819
 886,excludes-stop,70056
-886,excludes-stop,9070055
-886,excludes-stop,9070056
 886,excludes-stop,node-378-lobby
 886,excludes-stop,node-378-platform
 886,excludes-stop,node-379-lobby
@@ -5339,8 +5332,6 @@ facility_id,property_id,value
 887,excludes-stop,5810
 887,excludes-stop,5819
 887,excludes-stop,70055
-887,excludes-stop,9070055
-887,excludes-stop,9070056
 887,excludes-stop,node-378-lobby
 887,excludes-stop,node-378-platform
 887,excludes-stop,node-379-lobby
@@ -5446,6 +5437,7 @@ facility_id,property_id,value
 896,excludes-stop,door-qnctr-busway
 896,excludes-stop,node-330-entrance
 896,excludes-stop,node-330-platform
+896,excludes-stop,node-810-entrance
 896,excludes-stop,node-810-platform
 896,excludes-stop,node-896-entrance
 896,excludes-stop,node-896-platform
@@ -13120,12 +13112,8 @@ portlift-haecl-1,excludes-stop,70203
 portlift-haecl-1,excludes-stop,8310
 portlift-haecl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-harvd-0,excludes-stop,70131
-portlift-harvd-0,excludes-stop,9070130
-portlift-harvd-0,excludes-stop,9070131
 portlift-harvd-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-harvd-1,excludes-stop,70130
-portlift-harvd-1,excludes-stop,9070130
-portlift-harvd-1,excludes-stop,9070131
 portlift-harvd-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-hsmnl,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-kencl,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
@@ -14175,12 +14163,8 @@ subplat-spmnl-0,note,Mini high level platform is available to provide level boar
 subplat-spmnl-1,excludes-stop,70207
 subplat-spmnl-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-wascm-0,excludes-stop,70121
-subplat-wascm-0,excludes-stop,9070120
-subplat-wascm-0,excludes-stop,9070121
 subplat-wascm-0,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-wascm-1,excludes-stop,70120
-subplat-wascm-1,excludes-stop,9070120
-subplat-wascm-1,excludes-stop,9070121
 subplat-wascm-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 ticket-bbsta,address,"145 Dartmouth St, Boston, MA 02116"
 ticket-bbsta,dispenses,fare-media
