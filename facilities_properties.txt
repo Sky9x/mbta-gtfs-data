@@ -1413,6 +1413,8 @@ facility_id,property_id,value
 378,excludes-stop,5810
 378,excludes-stop,5819
 378,excludes-stop,70056
+378,excludes-stop,9070055
+378,excludes-stop,9070056
 378,excludes-stop,node-378-lobby
 378,excludes-stop,node-378-platform
 378,excludes-stop,node-379-lobby
@@ -1431,6 +1433,8 @@ facility_id,property_id,value
 379,excludes-stop,5810
 379,excludes-stop,5819
 379,excludes-stop,70055
+379,excludes-stop,9070055
+379,excludes-stop,9070056
 379,excludes-stop,node-378-lobby
 379,excludes-stop,node-378-platform
 379,excludes-stop,node-379-lobby
@@ -5302,11 +5306,15 @@ facility_id,property_id,value
 881,excludes-stop,node-sull-sbstairs-platform
 884,alternate-service-text,"If exiting, exit the Blue Line at Beachmont and switch to a Wonderland-bound train. Exit at Revere Beach using Revere Beach Elevator 885. If boarding, take Revere Beach Elevator 885 to Wonderland and switch to a Government Center-bound train."
 884,excludes-stop,70058
+884,excludes-stop,9070057
+884,excludes-stop,9070058
 884,excludes-stop,door-rbmnl-beach
 884,excludes-stop,door-rbmnl-ocean
 884,excludes-stop,door-rbmnl-shirley
 885,alternate-service-text,"If exiting, exit the Blue Line at Wonderland and switch to a Government Center-bound train. Exit at Revere Beach using Revere Beach Elevator 884. If boarding, take Revere Beach Elevator 884 to Beachmont and switch to a Wonderland-bound train."
 885,excludes-stop,70057
+885,excludes-stop,9070057
+885,excludes-stop,9070058
 885,excludes-stop,door-rbmnl-beach
 885,excludes-stop,door-rbmnl-ocean
 885,excludes-stop,door-rbmnl-shirley
@@ -5314,6 +5322,8 @@ facility_id,property_id,value
 886,excludes-stop,5810
 886,excludes-stop,5819
 886,excludes-stop,70056
+886,excludes-stop,9070055
+886,excludes-stop,9070056
 886,excludes-stop,node-378-lobby
 886,excludes-stop,node-378-platform
 886,excludes-stop,node-379-lobby
@@ -5332,6 +5342,8 @@ facility_id,property_id,value
 887,excludes-stop,5810
 887,excludes-stop,5819
 887,excludes-stop,70055
+887,excludes-stop,9070055
+887,excludes-stop,9070056
 887,excludes-stop,node-378-lobby
 887,excludes-stop,node-378-platform
 887,excludes-stop,node-379-lobby
@@ -12964,6 +12976,21 @@ park-waban,payment-form-accepted,mobile-app
 park-waban,weekday-arrive-before,08:00:00
 park-waban,weekday-typical-utilization,57
 park-waban,weekday-utilization-summary,Arrive before a certain time
+park-welln-garage,attended,1
+park-welln-garage,capacity,700
+park-welln-garage,capacity-accessible,14
+park-welln-garage,contact,Pilgrim Parking 
+park-welln-garage,contact-phone,781-393-8140
+park-welln-garage,contact-url,http://www.pilgrimparking.com/boston-parking-garages/station-landing-garage.htm
+park-welln-garage,enclosed,1
+park-welln-garage,fee-daily,$5
+park-welln-garage,fee-monthly,$95
+park-welln-garage,municipality,Medford
+park-welln-garage,note,MBTA Spaces - levels 6-8
+park-welln-garage,operator,Pilgrim Parking 
+park-welln-garage,owner,MBTA
+park-welln-garage,payment-form-accepted,cash
+park-welln-garage,payment-form-accepted,credit-debit-card
 park-welln-lot,attended,2
 park-welln-lot,capacity,1335
 park-welln-lot,capacity-accessible,29
@@ -13112,8 +13139,12 @@ portlift-haecl-1,excludes-stop,70203
 portlift-haecl-1,excludes-stop,8310
 portlift-haecl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-harvd-0,excludes-stop,70131
+portlift-harvd-0,excludes-stop,9070130
+portlift-harvd-0,excludes-stop,9070131
 portlift-harvd-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-harvd-1,excludes-stop,70130
+portlift-harvd-1,excludes-stop,9070130
+portlift-harvd-1,excludes-stop,9070131
 portlift-harvd-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-hsmnl,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-kencl,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
@@ -14163,8 +14194,12 @@ subplat-spmnl-0,note,Mini high level platform is available to provide level boar
 subplat-spmnl-1,excludes-stop,70207
 subplat-spmnl-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-wascm-0,excludes-stop,70121
+subplat-wascm-0,excludes-stop,9070120
+subplat-wascm-0,excludes-stop,9070121
 subplat-wascm-0,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-wascm-1,excludes-stop,70120
+subplat-wascm-1,excludes-stop,9070120
+subplat-wascm-1,excludes-stop,9070121
 subplat-wascm-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 ticket-bbsta,address,"145 Dartmouth St, Boston, MA 02116"
 ticket-bbsta,dispenses,fare-media
