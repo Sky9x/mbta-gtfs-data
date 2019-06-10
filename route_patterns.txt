@@ -8,24 +8,24 @@ Mattapan-_-1,Mattapan,1,Ashmont,,1,10011100,39922989
 Orange-3-0,Orange,0,Forest Hills,,1,10020000,40033927
 Orange-5-0,Orange,0,Forest Hills,Weekdays only,3,10020099,40033911
 Orange-3-1,Orange,1,Oak Grove,,1,10020100,40033930
-Green-B-3-0,Green-B,0,Boston College,,1,10032000,39988543-20:30-NewtonHighlandsRiverside
-Green-B-0-0,Green-B,0,Boston College,Weekend early mornings only,3,10032099,39918244-BabcockBC0
-Green-B-3-1,Green-B,1,Park Street,,1,10032100,39988448-20:30-NewtonHighlandsRiverside
-Green-B-0-1,Green-B,1,Lechmere,Weekend early mornings only,3,10032199,39918243-BabcockBC2
-Green-C-1-0,Green-C,0,Cleveland Circle,,1,10033000,39988461-20:30-NewtonHighlandsRiverside
-Green-C-0-0,Green-C,0,Cleveland Circle,Early mornings only,3,10033099,39988459-20:30-NewtonHighlandsRiverside
-Green-C-1-1,Green-C,1,North Station,,1,10033100,39988453-20:30-NewtonHighlandsRiverside
-Green-C-0-1,Green-C,1,Lechmere,Early mornings only,3,10033199,39988449-20:30-NewtonHighlandsRiverside
-Green-D-2-0,Green-D,0,Riverside,,1,10034001,39989478-20:30-NewtonHighlandsRiverside
-Green-D-4-0,Green-D,0,Reservoir,Weekdays only,3,10034098,39988870-20:30-NewtonHighlandsRiverside
-Green-D-0-0,Green-D,0,Riverside,Weekday early mornings only,3,10034099,39990678-20:30-NewtonHighlandsRiverside
-Green-D-2-1,Green-D,1,Government Center,,1,10034101,39988440-20:30-NewtonHighlandsRiverside
-Green-D-4-1,Green-D,1,Lechmere,Weekdays only,3,10034198,39988811-20:30-NewtonHighlandsRiverside
-Green-D-0-1,Green-D,1,Lechmere,Weekday early mornings only,3,10034199,39990676-20:30-NewtonHighlandsRiverside
-Green-D-5-1,Green-D,1,Government Center,Weekday early mornings only,3,10034199,39988808-20:30-NewtonHighlandsRiverside
-Green-E-0-0,Green-E,0,Heath Street,,1,10035000,39988483-20:30-NewtonHighlandsRiverside
-Green-E-2-0,Green-E,0,Heath Street,Weekday early mornings only,3,10035099,39988556-20:30-NewtonHighlandsRiverside
-Green-E-0-1,Green-E,1,Lechmere,,1,10035100,39988558-20:30-NewtonHighlandsRiverside
+Green-B-3-0,Green-B,0,Boston College,,1,10032000,39988543-22:30-NewtonHighlandsRiverside
+Green-B-0-0,Green-B,0,Boston College,Weekend early mornings only,3,10032099,39918244-ClevelandCircleKenmore
+Green-B-3-1,Green-B,1,Park Street,,1,10032100,39988448-22:30-NewtonHighlandsRiverside
+Green-B-0-1,Green-B,1,Lechmere,Weekend early mornings only,3,10032199,39918243-ClevelandCircleKenmore
+Green-C-1-0,Green-C,0,Cleveland Circle,,1,10033000,39988461-22:30-NewtonHighlandsRiverside
+Green-C-0-0,Green-C,0,Cleveland Circle,Early mornings only,3,10033099,39988459-22:30-NewtonHighlandsRiverside
+Green-C-1-1,Green-C,1,North Station,,1,10033100,39988453-22:30-NewtonHighlandsRiverside
+Green-C-0-1,Green-C,1,Lechmere,Early mornings only,3,10033199,39988449-22:30-NewtonHighlandsRiverside
+Green-D-2-0,Green-D,0,Riverside,,1,10034001,39989478-22:30-NewtonHighlandsRiverside
+Green-D-4-0,Green-D,0,Reservoir,Weekdays only,3,10034098,39988870-22:30-NewtonHighlandsRiverside
+Green-D-0-0,Green-D,0,Riverside,Weekday early mornings only,3,10034099,39990678-22:30-NewtonHighlandsRiverside
+Green-D-2-1,Green-D,1,Government Center,,1,10034101,39988440-22:30-NewtonHighlandsRiverside
+Green-D-4-1,Green-D,1,Lechmere,Weekdays only,3,10034198,39988811-22:30-NewtonHighlandsRiverside
+Green-D-0-1,Green-D,1,Lechmere,Weekday early mornings only,3,10034199,39990676-22:30-NewtonHighlandsRiverside
+Green-D-5-1,Green-D,1,Government Center,Weekday early mornings only,3,10034199,39988808-22:30-NewtonHighlandsRiverside
+Green-E-0-0,Green-E,0,Heath Street,,1,10035000,39988483-22:30-NewtonHighlandsRiverside
+Green-E-2-0,Green-E,0,Heath Street,Weekday early mornings only,3,10035099,39988556-22:30-NewtonHighlandsRiverside
+Green-E-0-1,Green-E,1,Lechmere,,1,10035100,39988558-22:30-NewtonHighlandsRiverside
 Blue-6-0,Blue,0,Bowdoin,,1,10040003,39783290
 Blue-8-0,Blue,0,Bowdoin,,3,10040096,39783497
 Blue-6-1,Blue,1,Wonderland,,1,10040100,39783498
@@ -49,11 +49,12 @@ Blue-6-1,Blue,1,Wonderland,,1,10040100,39783498
 746-_-1,746,1,South Station,,1,10057100,39876285
 CR-Fairmount-0-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,20001000,CR-Weekday-Spring-19-751
 CR-Fairmount-0-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-Weekday-Spring-19-750
-CR-Fitchburg-0-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-Weekday-Spring-19-401-LittletonWachusett
-CR-Fitchburg-0-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-Weekday-Spring-19-400-LittletonWachusett
+CR-Fitchburg-0-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-Weekday-Spring-19-401
+CR-Fitchburg-0-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-Weekday-Spring-19-400
 CR-Worcester-0-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-Weekday-Spring-19-501
 CR-Worcester-0-1,CR-Worcester,1,Worcester - South Station,,1,20003100,CR-Weekday-Spring-19-500
 CR-Franklin-0-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,20004000,CR-Weekday-Spring-19-701
+CR-Franklin-1-0,CR-Franklin,0,South Station - Forge Park/495 via Fairmount,,3,20004001,CR-Weekday-Spring-19-701-AmtrakSwitch
 CR-Franklin-0-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,20004100,CR-Weekday-Spring-19-700
 CR-Franklin-1-1,CR-Franklin,1,Forge Park/495 - South Station via Fairmount,,3,20004101,CR-Weekday-Spring-19-790
 CR-Greenbush-0-0,CR-Greenbush,0,South Station - Greenbush,,1,20005000,CR-Weekday-Spring-19-071
