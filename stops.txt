@@ -7944,7 +7944,7 @@ node-aport-wbpaidstairs-platform,,Airport,"Airport - Bottom of stairs on Bowdoin
 place-aqucl,,Aquarium,,,,42.359784,-71.051652,,"Atlantic Ave and State St, Boston, MA 02120",https://www.mbta.com/stops/place-aqucl,,1,,1
 70043,70043,Aquarium,Aquarium - Blue Line - Bowdoin,1,Bowdoin,42.359784,-71.051652,,,https://www.mbta.com/stops/place-aqucl,level_-2_platform,0,place-aqucl,1
 70044,70044,Aquarium,Aquarium - Blue Line - Wonderland,2,Wonderland,42.359784,-71.051652,,,https://www.mbta.com/stops/place-aqucl,level_-2_platform,0,place-aqucl,1
-door-aqucl-atlantic,,Aquarium - Waterfront and New England Aquarium,Aquarium - Waterfront and New England Aquarium,,,42.359817,-71.051411,,,,level_in_street,2,place-aqucl,2
+door-aqucl-atlantic,,Aquarium - Waterfront and New England Aquarium,Aquarium - Waterfront and New England Aquarium,,,42.359791,-71.051631,,,,level_in_street,2,place-aqucl,2
 door-aqucl-atlanticelev,,Aquarium - Waterfront and New England Aquarium,Aquarium - Waterfront and New England Aquarium,,,42.359861,-71.051243,,,,level_in_street,2,place-aqucl,1
 door-aqucl-mcknorth,,Aquarium - State St (North),Aquarium - State St (North),,,42.359534,-71.053183,,,,level_in_street,2,place-aqucl,2
 door-aqucl-mcksouth,,Aquarium - State St (South),Aquarium - State St (South),,,42.359331,-71.053039,,,,level_in_street,2,place-aqucl,1
@@ -8020,6 +8020,56 @@ door-bbsta-dartms,,Back Bay - Dartmouth St (South),Back Bay - Dartmouth St (Sout
 door-bbsta-dartmw,,Back Bay - Dartmouth St (Tracks 5 and 7),Back Bay - Dartmouth St (Tracks 5 and 7),,,42.347572,-71.076228,,,,level_in_street,2,place-bbsta,2
 door-bbsta-garage,,Back Bay - Garage,Back Bay - Garage,,,42.347860,-71.075150,,,,level_ground,2,place-bbsta,1
 door-bbsta-underpass,,Back Bay - Underpass to Copley Place,Back Bay - Underpass to Copley Place,,,42.347273,-71.076565,,,,level_ground,2,place-bbsta,2
+node-140-lobby,,Back Bay,Back Bay - Top of Orange Line platform east escalator,,,,,,,,level_ground,3,place-bbsta,1
+node-140-platform,,Back Bay,Back Bay - Bottom of Orange Line platform east escalator,,,,,,,,level_-1_orange_platform,3,place-bbsta,1
+node-141-lobby,,Back Bay,Back Bay - Top of Orange Line platform west escalator,,,,,,,,level_ground,3,place-bbsta,1
+node-141-platform,,Back Bay,Back Bay - Bottom of Orange Line platform west escalator,,,,,,,,level_-1_orange_platform,3,place-bbsta,1
+node-142-lobby,,Back Bay,Back Bay - Top of Tracks 1-3 down escalator,,,,,,,,level_ground,3,place-bbsta,1
+node-142-platform,,Back Bay,Back Bay - Bottom of Tracks 1-3 down escalator,,,,,,,,level_-1_cr_platform,3,place-bbsta,1
+node-143-lobby,,Back Bay,Back Bay - Top of Tracks 1-3 up escalator,,,,,,,,level_ground,3,place-bbsta,1
+node-143-platform,,Back Bay,Back Bay - Bottom of Tracks 1-3 up escalator,,,,,,,,level_-1_cr_platform,3,place-bbsta,1
+node-144-lobby,,Back Bay,Back Bay - Top of Track 2 escalator,,,,,,,,level_ground,3,place-bbsta,1
+node-144-platform,,Back Bay,Back Bay - Bottom of Track 2 escalator,,,,,,,,level_-1_cr_platform,3,place-bbsta,1
+node-853-lobby,,Back Bay,Back Bay - Top of Orange Line platform elevator,,,,,,,,level_ground,3,place-bbsta,1
+node-853-platform,,Back Bay,Back Bay - Bottom of Orange Line platform elevator,,,,,,,,level_-1_orange_platform,3,place-bbsta,1
+node-854-lobby,,Back Bay,Back Bay - Top of Track 2 elevator,,,,,,,,level_ground,3,place-bbsta,1
+node-854-platform,,Back Bay,Back Bay - Bottom of Track 2 elevator,,,,,,,,level_-1_cr_platform,3,place-bbsta,1
+node-855-lobby,,Back Bay,Back Bay - Top of Tracks 1-3 elevator,,,,,,,,level_ground,3,place-bbsta,1
+node-855-platform,,Back Bay,Back Bay - Bottom of Tracks 1-3 elevator,,,,,,,,level_-1_cr_platform,3,place-bbsta,1
+node-856-lobby,,Back Bay,Back Bay - Top of Tracks 5-7 elevator,,,,,,,,level_ground,3,place-bbsta,1
+node-856-platform,,Back Bay,Back Bay - Bottom of Tracks 5-7 elevator,,,,,,,,level_-1_cr_platform,3,place-bbsta,1
+node-bbsta-13clarexit-bottom,,Back Bay,Back Bay - Bottom of Tracks 1-3 Clarendon Street exit stairs,,,,,,,,level_-1_cr_platform,3,place-bbsta,1
+node-bbsta-13clarexit-farepaid,,Back Bay,Back Bay - Station side of exit-only gate,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-13clarexit-fareunpaid,,Back Bay,Back Bay - Outdoor side of exit-only gate,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-13stairs-lobby,,Back Bay,Back Bay - Top of Tracks 1-3 stairs,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-13stairs-platform,,Back Bay,Back Bay - Bottom of Tracks 1-3 stairs,,,,,,,,level_-1_cr_platform,3,place-bbsta,1
+node-bbsta-2clarexit-bottom,,Back Bay,Back Bay - Bottom of Track 2 Clarendon Street exit stairs,,,,,,,,level_-1_cr_platform,3,place-bbsta,1
+node-bbsta-2clarexit-farepaid,,Back Bay,Back Bay - Station side of exit-only gate,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-2clarexit-fareunpaid,,Back Bay,Back Bay - Outdoor side of exit-only gate,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-2stairs-lobby,,Back Bay,Back Bay - Top of Track 2 stairs,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-2stairs-platform,,Back Bay,Back Bay - Bottom of Track 2 stairs,,,,,,,,level_-1_cr_platform,3,place-bbsta,1
+node-bbsta-clar-farepaid,,Back Bay,Back Bay - Paid side of exit-only gates,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-clar-fareunpaid,,Back Bay,Back Bay - Unpaid side of exit-only gates,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-dartexit-farepaid,,Back Bay,Back Bay - Station side of exit-only door,,,,,,,,level_-0.5_landing,3,place-bbsta,1
+node-bbsta-dartexit-fareunpaid,,Back Bay,Back Bay - Outdoor side of exit-only door,,,,,,,,level_-0.5_landing,3,place-bbsta,1
+node-bbsta-dartexit-platform,,Back Bay,Back Bay - Bottom of Tracks 5-7 Dartmouth Street exit stairs,,,,,,,,level_-1_cr_platform,3,place-bbsta,1
+node-bbsta-e57stairs-lobby,,Back Bay,Back Bay - Top of Tracks 5-7 east stairs,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-e57stairs-platform,,Back Bay,Back Bay - Bottom of Tracks 5-7 east stairs,,,,,,,,level_-1_cr_platform,3,place-bbsta,1
+node-bbsta-lower-farepaid,,Back Bay,Back Bay - Paid side of fare gates,,,,,,,,level_-1_orange_platform,3,place-bbsta,1
+node-bbsta-lower-fareunpaid,,Back Bay,Back Bay - Unpaid side of fare gates,,,,,,,,level_-1_passageway,3,place-bbsta,1
+node-bbsta-olclarexit-bottom,,Back Bay,Back Bay - Bottom of Orange Line Clarendon Street exit stairs,,,,,,,,level_-1_orange_platform,3,place-bbsta,1
+node-bbsta-olestairs-lobby,,Back Bay,Back Bay - Top of Orange Line platform west stairs,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-olestairs-platform,,Back Bay,Back Bay - Bottom of Orange Line platform east stairs,,,,,,,,level_-1_orange_platform,3,place-bbsta,1
+node-bbsta-olwstairs-lobby,,Back Bay,Back Bay - Top of Orange Line platform east stairs,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-olwstairs-platform,,Back Bay,Back Bay - Bottom of Orange Line platform west stairs,,,,,,,,level_-1_orange_platform,3,place-bbsta,1
+node-bbsta-upassestairs-bottom,,Back Bay,Back Bay - Bottom of eastern underpass stairs,,,,,,,,level_-1_orange_platform,3,place-bbsta,1
+node-bbsta-upassestairs-top,,Back Bay,Back Bay - Top of eastern underpass stairs,,,,,,,,level_-0.5_passageway,3,place-bbsta,1
+node-bbsta-upassmezstairs-top,,Back Bay,Back Bay - Top of stairs between lobby and underpass,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-upasswstairs-bottom,,Back Bay,Back Bay - Bottom of western underpass stairs,,,,,,,,level_-0.5_passageway,3,place-bbsta,1
+node-bbsta-upper-farepaid,,Back Bay,Back Bay - Paid side of fare gates,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-upper-fareunpaid,,Back Bay,Back Bay - Unpaid side of fare gates,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-w57stairs-lobby,,Back Bay,Back Bay - Top of Tracks 5-7 west stairs,,,,,,,,level_ground,3,place-bbsta,1
+node-bbsta-w57stairs-platform,,Back Bay,Back Bay - Bottom of Tracks 5-7 west stairs,,,,,,,,level_-1_cr_platform,3,place-bbsta,1
 place-bckhl,,Back of the Hill,,,,42.330139,-71.111313,,"100 S Huntington Ave, Boston, MA 02130",https://www.mbta.com/stops/place-bckhl,,1,,2
 70257,70257,Back of the Hill,Back of the Hill - Green Line - (E) Heath Street,,Heath Street,42.329369,-71.111046,,,https://www.mbta.com/stops/place-bckhl,level_in_street,0,place-bckhl,2
 70258,70258,Back of the Hill,Back of the Hill - Green Line - Park Street & North,,Park Street & North,42.329399,-71.110931,,,https://www.mbta.com/stops/place-bckhl,level_in_street,0,place-bckhl,2
@@ -8392,7 +8442,6 @@ Forest Hills,,Forest Hills,Forest Hills - Commuter Rail,,Commuter Rail,42.300522
 Forest Hills-01,,Forest Hills,Forest Hills - Orange Line - Track 1,1,Orange Line - Track 1,42.300635,-71.114009,,,https://www.mbta.com/stops/place-forhl,level_-1_orange_platform,0,place-forhl,1
 Forest Hills-02,,Forest Hills,Forest Hills - Orange Line - Track 2,2,Orange Line - Track 2,42.300635,-71.114009,,,https://www.mbta.com/stops/place-forhl,level_-1_orange_platform,0,place-forhl,1
 door-forhl-arborway,,"Forest Hills - Arboretum, Washington St, South St","Forest Hills - Arboretum, Washington St, South St",,,42.300934,-71.113820,,,,level_washington_st,2,place-forhl,1
-door-forhl-exit,,"Forest Hills - Washington St, South St","Forest Hills - Washington St, South St",,,42.301546,-71.113551,,,,level_washington_st,2,place-forhl,2
 door-forhl-lower,,"Forest Hills - Hyde Park Ave, Franklin Park, Zoo, Parking","Forest Hills - Hyde Park Ave, Franklin Park, Zoo, Parking",,,42.300572,-71.113659,,,,level_hyde_park_ave,2,place-forhl,1
 door-forhl-upper,,Forest Hills - Washington St,Forest Hills - Washington St,,,42.300466,-71.114149,,,,level_washington_st,2,place-forhl,1
 place-gover,,Government Center,,,,42.359705,-71.059215,,"Cambridge St and Court St, Boston, MA",https://www.mbta.com/stops/place-gover,,1,,1
@@ -8466,7 +8515,7 @@ node-hymnl-farepaid,,Hynes Convention Center,Hynes Convention Center - Paid side
 node-hymnl-fareunpaid,,Hynes Convention Center,Hynes Convention Center - Unpaid side of fare gates,,,,,,,,level_-1_lobby,3,place-hymnl,1
 node-hymnl-massentrance,,Hynes Convention Center,Hynes Convention Center - Bottom of stairs for Massachusetts Avenue,,,,,,,,level_-1_lobby,3,place-hymnl,1
 node-hymnl-newbury-farepaid,,Hynes Convention Center,Hynes Convention Center - Top of stairs for Newbury Street exit,,,,,,,,level_in_street,3,place-hymnl,1
-node-hymnl-newbury-fareunpaid,,Hynes Convention Center,Hynes Convention Center - Unpaid side of exit gate,,,,,,,,level_in_street,3,place-hymnl,1
+node-hymnl-newbury-fareunpaid,,Hynes Convention Center,Hynes Convention Center - Unpaid side of exit-only gate,,,,,,,,level_in_street,3,place-hymnl,1
 node-hymnl-newburyexit,,Hynes Convention Center,Hynes Convention Center - Bottom of stairs for Newbury Street exit,,,,,,,,level_-1_lobby,3,place-hymnl,1
 node-hymnl-wbstairs-lobby,,Hynes Convention Center,Hynes Convention Center - Top of stairs for Kenmore & West,,,,,,,,level_-1_lobby,3,place-hymnl,1
 node-hymnl-wbstairs-midblobby,,Hynes Convention Center,Hynes Convention Center - Platform end of middle landing,,,,,,,,level_-1_lobby,3,place-hymnl,1
@@ -8580,6 +8629,8 @@ node-masta-139-platform,,Massachusetts Avenue,Massachusetts Avenue - Bottom of E
 node-masta-852-lobby,,Massachusetts Avenue,Massachusetts Avenue - Top of Elevator 852,,,,,,,,level_ground,3,place-masta,1
 node-masta-852-platform,,Massachusetts Avenue,Massachusetts Avenue - Bottom of Elevator 852,,,,,,,,level_-1_platform,3,place-masta,1
 node-masta-camdstair-platform,,Massachusetts Avenue,Massachusetts Avenue - Bottom of Camden St stairs,,,,,,,,level_-1_platform,3,place-masta,1
+node-masta-camfarepaid,,Massachusetts Avenue,Massachusetts Avenue - Paid side of exit-only gates,,,,,,,,level_ground,3,place-masta,1
+node-masta-camfareunpaid,,Massachusetts Avenue,Massachusetts Avenue - Unpaid side of exit-only gates,,,,,,,,level_ground,3,place-masta,1
 node-masta-farepaid,,Massachusetts Avenue,Massachusetts Avenue - Paid side of fare gates,,,,,,,,level_ground,3,place-masta,1
 node-masta-fareunpaid,,Massachusetts Avenue,Massachusetts Avenue - Unpaid side of fare gates,,,,,,,,level_ground,3,place-masta,1
 node-masta-mainstair-lobby,,Massachusetts Avenue,Massachusetts Avenue - Top of lobby stairs from platform,,,,,,,,level_ground,3,place-masta,1
@@ -8846,6 +8897,40 @@ door-rugg-columbus,,"Ruggles - Columbus Ave, Tremont St","Ruggles - Columbus Ave
 door-rugg-forsyth,,"Ruggles - Northeastern, Forsyth St","Ruggles - Northeastern, Forsyth St",,,42.337010,-71.089421,,,,level_in_street,2,place-rugg,1
 door-rugg-ruggles,,Ruggles - Ruggles St,Ruggles - Ruggles St,,,42.335891,-71.090358,,,,level_1_in_street,2,place-rugg,2
 door-rugg-upper,,Ruggles - Upper Busway,Ruggles - Upper Busway,,,42.336821,-71.089501,,,,level_1_ground,2,place-rugg,1
+node-135-busway,,Ruggles,Ruggles - Bottom of Lower Busway Lane 2 escalator,,,,,,,,level_ground,3,place-rugg,1
+node-135-lobby,,Ruggles,Ruggles - Top of Lower Busway Lane 2 escalator,,,,,,,,level_1_ground,3,place-rugg,1
+node-136-lobby,,Ruggles,Ruggles - Top of Orange Line south platform escalator,,,,,,,,level_1_ground,3,place-rugg,1
+node-136-platform,,Ruggles,Ruggles - Bottom of Orange Line south platform escalator,,,,,,,,level_0_orange_platform,3,place-rugg,1
+node-137-lobby,,Ruggles,Ruggles - Top of Orange Line north platform escalator,,,,,,,,level_1_ground,3,place-rugg,1
+node-137-platform,,Ruggles,Ruggles - Bottom of Orange Line north platform escalator,,,,,,,,level_0_orange_platform,3,place-rugg,1
+node-138-bottom,,Ruggles,Ruggles - Bottom of Forsyth Street entrance escalator,,,,,,,,level_in_street,3,place-rugg,1
+node-138-top,,Ruggles,Ruggles - Top of Forsyth Street entrance escalator,,,,,,,,level_1_ground,3,place-rugg,1
+node-848-busway,,Ruggles,Ruggles - Bottom of Lower Busway Lane 2 elevator,,,,,,,,level_ground,3,place-rugg,1
+node-848-lobby,,Ruggles,Ruggles - Top of Lower Busway Lane 2 elevator,,,,,,,,level_1_ground,3,place-rugg,1
+node-849-lobby,,Ruggles,Ruggles - Top of Commuter Rail platform elevator,,,,,,,,level_1_ground,3,place-rugg,1
+node-849-platform,,Ruggles,Ruggles - Bottom of Commuter Rail platform elevator,,,,,,,,level_0_cr_platform,3,place-rugg,1
+node-850-lobby,,Ruggles,Ruggles - Top of Orange Line platform elevator,,,,,,,,level_1_ground,3,place-rugg,1
+node-850-platform,,Ruggles,Ruggles - Bottom of Orange Line platform elevator,,,,,,,,level_0_orange_platform,3,place-rugg,1
+node-851-bottom,,Ruggles,Ruggles - Bottom of Forsyth Street entrance elevator,,,,,,,,level_in_street,3,place-rugg,1
+node-851-top,,Ruggles,Ruggles - Top of Forsyth Street entrance elevator,,,,,,,,level_1_ground,3,place-rugg,1
+node-rugg-bus1stairs-busway,,Ruggles,Ruggles - Bottom of Lower Busway Lane 1 stairs,,,,,,,,level_ground,3,place-rugg,1
+node-rugg-bus1stairs-lobby,,Ruggles,Ruggles - Top of Lower Busway Lane 1 stairs,,,,,,,,level_1_ground,3,place-rugg,1
+node-rugg-bus2stairs-busway,,Ruggles,Ruggles - Bottom of Lower Busway Lane 2 stairs,,,,,,,,level_ground,3,place-rugg,1
+node-rugg-bus2stairs-lobby,,Ruggles,Ruggles - Top of Lower Busway Lane 2 stairs,,,,,,,,level_1_ground,3,place-rugg,1
+node-rugg-columbusstairs-top,,Ruggles,Ruggles - Top of Columbus Street entrance stairs,,,,,,,,level_1_ground,3,place-rugg,1
+node-rugg-crstairs-lobby,,Ruggles,Ruggles - Top of Commuter Rail platform stairs,,,,,,,,level_1_ground,3,place-rugg,1
+node-rugg-crstairs-platform,,Ruggles,Ruggles - Bottom of Commuter Rail platform stairs,,,,,,,,level_0_cr_platform,3,place-rugg,1
+node-rugg-farepaid,,Ruggles,Ruggles - Paid side of Orange Line faregates,,,,,,,,level_1_ground,3,place-rugg,1
+node-rugg-fareunpaid,,Ruggles,Ruggles - Unpaid side of Orange Line faregates,,,,,,,,level_1_ground,3,place-rugg,1
+node-rugg-forsythstairs-bottom,,Ruggles,Ruggles - Bottom of Forsyth Street entrance stairs,,,,,,,,level_in_street,3,place-rugg,1
+node-rugg-forsythstairs-top,,Ruggles,Ruggles - Top of Forsyth Street entrance stairs,,,,,,,,level_1_ground,3,place-rugg,1
+node-rugg-olexit-farepaid,,Ruggles,Ruggles - Paid side of exit-only gates,,,,,,,,level_1_ground,3,place-rugg,1
+node-rugg-olexit-fareunpaid,,Ruggles,Ruggles - Unpaid side of exit-only gates,,,,,,,,level_1_ground,3,place-rugg,1
+node-rugg-olexit-platform,,Ruggles,Ruggles - Bottom of Orange Line Ruggles Street exit stairs,,,,,,,,level_0_orange_platform,3,place-rugg,1
+node-rugg-olnstairs-lobby,,Ruggles,Ruggles - Top of Orange Line north platform stairs,,,,,,,,level_1_ground,3,place-rugg,1
+node-rugg-olnstairs-platform,,Ruggles,Ruggles - Bottom of Orange Line north platform stairs,,,,,,,,level_0_orange_platform,3,place-rugg,1
+node-rugg-olsstairs-lobby,,Ruggles,Ruggles - Top of Orange Line south platform stairs,,,,,,,,level_1_ground,3,place-rugg,1
+node-rugg-olsstairs-platform,,Ruggles,Ruggles - Bottom of Orange Line south platform stairs,,,,,,,,level_0_orange_platform,3,place-rugg,1
 place-rvrwy,,Riverway,,,,42.331684,-71.111931,,"S Huntington Ave at Huntington Ave, Boston",https://www.mbta.com/stops/place-rvrwy,,1,,2
 70255,70255,Riverway,Riverway - Green Line - (E) Heath Street,,Heath Street,42.331391,-71.111925,,,https://www.mbta.com/stops/place-rvrwy,level_in_street,0,place-rvrwy,2
 70256,70256,Riverway,Riverway - Green Line - Park Street & North,,Park Street & North,42.331871,-71.111961,,,https://www.mbta.com/stops/place-rvrwy,level_in_street,0,place-rvrwy,2
