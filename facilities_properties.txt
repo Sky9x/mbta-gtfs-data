@@ -1827,8 +1827,6 @@ facility_id,property_id,value
 378,excludes-stop,5810
 378,excludes-stop,5819
 378,excludes-stop,70056
-378,excludes-stop,9070055
-378,excludes-stop,9070056
 378,excludes-stop,node-378-lobby
 378,excludes-stop,node-378-platform
 378,excludes-stop,node-379-lobby
@@ -1847,8 +1845,6 @@ facility_id,property_id,value
 379,excludes-stop,5810
 379,excludes-stop,5819
 379,excludes-stop,70055
-379,excludes-stop,9070055
-379,excludes-stop,9070056
 379,excludes-stop,node-378-lobby
 379,excludes-stop,node-378-platform
 379,excludes-stop,node-379-lobby
@@ -6091,15 +6087,11 @@ facility_id,property_id,value
 881,excludes-stop,node-sull-sbstairs-platform
 884,alternate-service-text,"If exiting, exit the Blue Line at Beachmont and switch to a Wonderland-bound train. Exit at Revere Beach using Revere Beach Elevator 885. If boarding, take Revere Beach Elevator 885 to Wonderland and switch to a Government Center-bound train."
 884,excludes-stop,70058
-884,excludes-stop,9070057
-884,excludes-stop,9070058
 884,excludes-stop,door-rbmnl-beach
 884,excludes-stop,door-rbmnl-ocean
 884,excludes-stop,door-rbmnl-shirley
 885,alternate-service-text,"If exiting, exit the Blue Line at Wonderland and switch to a Government Center-bound train. Exit at Revere Beach using Revere Beach Elevator 884. If boarding, take Revere Beach Elevator 884 to Beachmont and switch to a Wonderland-bound train."
 885,excludes-stop,70057
-885,excludes-stop,9070057
-885,excludes-stop,9070058
 885,excludes-stop,door-rbmnl-beach
 885,excludes-stop,door-rbmnl-ocean
 885,excludes-stop,door-rbmnl-shirley
@@ -6107,8 +6099,6 @@ facility_id,property_id,value
 886,excludes-stop,5810
 886,excludes-stop,5819
 886,excludes-stop,70056
-886,excludes-stop,9070055
-886,excludes-stop,9070056
 886,excludes-stop,node-378-lobby
 886,excludes-stop,node-378-platform
 886,excludes-stop,node-379-lobby
@@ -6127,8 +6117,6 @@ facility_id,property_id,value
 887,excludes-stop,5810
 887,excludes-stop,5819
 887,excludes-stop,70055
-887,excludes-stop,9070055
-887,excludes-stop,9070056
 887,excludes-stop,node-378-lobby
 887,excludes-stop,node-378-platform
 887,excludes-stop,node-379-lobby
@@ -14964,6 +14952,8 @@ subplat-fenwy,excludes-stop,9434
 subplat-fenwy,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-hsmnl,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-lake,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-lech,excludes-stop,14150
+subplat-lech,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-matt-0,excludes-stop,185
 subplat-matt-0,excludes-stop,18511
 subplat-matt-0,excludes-stop,70276
