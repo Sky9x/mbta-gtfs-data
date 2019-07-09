@@ -53,6 +53,8 @@ CR-Providence,0,Outbound,Wickford Junction
 CR-Providence,1,Inbound,South Station
 CR-Foxboro,0,Outbound,Foxboro or TF Green Airport
 CR-Foxboro,1,Inbound,South Station or Foxboro
+CR-SouthShoreLtd,0,Outbound,Braintree
+CR-SouthShoreLtd,1,Inbound,South Station
 CapeFlyer,0,Outbound,Hyannis
 CapeFlyer,1,Inbound,South Station
 Boat-F4,0,Outbound,Charlestown
@@ -415,15 +417,75 @@ Boat-F1,1,Inbound,Long Wharf
 714,1,Inbound,Hingham
 716,0,Outbound,Cobbs Corner
 716,1,Inbound,Mattapan
+Shuttle-AlewifeHarvard,0,South,Ashmont/Braintree
+Shuttle-AlewifeHarvard,1,North,Alewife
 Shuttle-AshmontJFK,0,Outbound,Ashmont
 Shuttle-AshmontJFK,1,Inbound,JFK/UMass
+Shuttle-AshmontMattapan,0,Outbound,Mattapan
+Shuttle-AshmontMattapan,1,Inbound,Ashmont
+Shuttle-BabcockBlandford,0,West,Boston College
+Shuttle-BabcockBlandford,1,East,Park Street
+Shuttle-BackBayJackson,0,South,Forest Hills
+Shuttle-BackBayJackson,1,North,Oak Grove
+Shuttle-BackBayRuggles,0,South,Forest Hills
+Shuttle-BackBayRuggles,1,North,Oak Grove
+Shuttle-BeaconJunctionLoop,0,West,Cleveland Circle/Riverside
+Shuttle-BeaconJunctionLoop,1,East,North Station
+Shuttle-BlandfordBostonCollege,0,West,Boston College
+Shuttle-BlandfordBostonCollege,1,East,Blandford Street
+Shuttle-BostonCollegePackardsCorner,0,West,Boston College
+Shuttle-BostonCollegePackardsCorner,1,East,Park Street
+Shuttle-BostonCollegeWashington,0,West,Boston College
+Shuttle-BostonCollegeWashington,1,East,Park Street
+Shuttle-BraintreeQuincyCenter,0,South,Braintree
+Shuttle-BraintreeQuincyCenter,1,North,Alewife
+Shuttle-BrooklineHillsKenmore,0,West,Riverside
+Shuttle-BrooklineHillsKenmore,1,East,Government Center
+Shuttle-BrooklineHillsReservoir,0,West,Riverside
+Shuttle-BrooklineHillsReservoir,1,East,Government Center
+Shuttle-CapenCentral,0,Outbound,Capen Street
+Shuttle-CapenCentral,1,Inbound,Ashmont/Mattapan
 Shuttle-ClevelandCircleKenmore,0,West,Cleveland Circle
 Shuttle-ClevelandCircleKenmore,1,East,North Station
+Shuttle-FenwayReservoir,0,West,Riverside
+Shuttle-FenwayReservoir,1,East,Government Center
+Shuttle-ForestHillsJackson,0,South,Forest Hills
+Shuttle-ForestHillsJackson,1,North,Oak Grove
+Shuttle-ForestHillsRuggles,0,South,Forest Hills
+Shuttle-ForestHillsRuggles,1,North,Oak Grove
+Shuttle-FraminghamRiverside,0,Outbound,Worcester
+Shuttle-FraminghamRiverside,1,Inbound,South Station
+Shuttle-FraminghamWorcester,0,Outbound,"Southborough, Grafton, or Worcester"
+Shuttle-FraminghamWorcester,1,Inbound,South Station
+Shuttle-KendallPark,0,South,Ashmont/Braintree
+Shuttle-KendallPark,1,North,Alewife
+Shuttle-LittletonWachusett,0,Outbound,Wachusett
+Shuttle-LittletonWachusett,1,Inbound,North Station
+Shuttle-LowellNorthStation,0,Outbound,Lowell
+Shuttle-LowellNorthStation,1,Inbound,North Station
 Shuttle-NewtonHighlandsKenmore,0,West,Riverside
 Shuttle-NewtonHighlandsKenmore,1,East,Government Center
 Shuttle-NewtonHighlandsRiverside,0,West,Riverside
 Shuttle-NewtonHighlandsRiverside,1,East,Government Center
+Shuttle-OakGroveSullivan,0,South,Forest Hills
+Shuttle-OakGroveSullivan,1,North,Oak Grove
 Shuttle-OakGroveWellington,0,South,Forest Hills
 Shuttle-OakGroveWellington,1,North,Oak Grove
+Shuttle-OrientHeightsWonderland,0,South,Bowdoin
+Shuttle-OrientHeightsWonderland,1,North,Wonderland
+Shuttle-ReservoirRiverside,0,West,Riverside
+Shuttle-ReservoirRiverside,1,East,Government Center
+Shuttle-SuffolkDownsWonderland,0,South,Bowdoin
+Shuttle-SuffolkDownsWonderland,1,North,Wonderland
+Shuttle001,0,West,Riverside
+Shuttle001,1,East,Government Center
+Shuttle002,0,South,Braintree
+Shuttle002,1,North,Alewife
 Shuttle005,0,South,Braintree
 Shuttle005,1,North,Alewife
+Shuttle012,0,West,Boston College
+Shuttle012,1,East,Park Street
+Shuttle019,0,West,Riverside
+Shuttle019,1,East,Government Center
+Shuttle020,0,West,Cleveland Circle
+Shuttle020,1,East,North Station
