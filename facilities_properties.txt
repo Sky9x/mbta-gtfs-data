@@ -1526,22 +1526,27 @@ facility_id,property_id,value
 343,excludes-stop,node-davis-holland-entrance
 343,excludes-stop,node-davis-holland-lobby
 344,direction,down
+344,excludes-stop,9041031
 344,excludes-stop,door-qamnl-burgin
 344,excludes-stop,door-qamnl-indep
 344,excludes-stop,door-qamnl-pickup
 345,direction,up
+345,excludes-stop,9041031
 345,excludes-stop,door-qamnl-burgin
 345,excludes-stop,door-qamnl-indep
 345,excludes-stop,door-qamnl-pickup
 346,direction,up
+346,excludes-stop,9041031
 346,excludes-stop,door-qamnl-burgin
 346,excludes-stop,door-qamnl-indep
 346,excludes-stop,door-qamnl-pickup
 347,direction,up
+347,excludes-stop,9041031
 347,excludes-stop,door-qamnl-burgin
 347,excludes-stop,door-qamnl-indep
 347,excludes-stop,door-qamnl-pickup
 348,direction,down
+348,excludes-stop,9041031
 348,excludes-stop,door-qamnl-burgin
 348,excludes-stop,door-qamnl-indep
 348,excludes-stop,door-qamnl-pickup
@@ -4851,14 +4856,17 @@ facility_id,property_id,value
 804,excludes-stop,door-pktrm-west
 804,excludes-stop,door-pktrm-winter
 805,alternate-service-text,"If exiting the Red Line, exit at Quincy Center and see station personnel for assistance. If boarding at Quincy Adams, use the call box or see station personnel for assistance. Alternatively, use Bus Route 238 to connect between Quincy Adams and Quincy Center."
+805,excludes-stop,9041031
 805,excludes-stop,door-qamnl-burgin
 805,excludes-stop,door-qamnl-indep
 805,excludes-stop,door-qamnl-pickup
 806,alternate-service-text,Customers should use adjacent Quincy Adams Elevator 807.
+806,excludes-stop,9041031
 806,excludes-stop,door-qamnl-burgin
 806,excludes-stop,door-qamnl-indep
 806,excludes-stop,door-qamnl-pickup
 807,alternate-service-text,Customers should use adjacent Quincy Adams Elevator 806.
+807,excludes-stop,9041031
 807,excludes-stop,door-qamnl-burgin
 807,excludes-stop,door-qamnl-indep
 807,excludes-stop,door-qamnl-pickup
@@ -13947,13 +13955,9 @@ portlift-mfa,excludes-stop,70245
 portlift-mfa,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newtn-0,excludes-stop,70169
 portlift-newtn-0,excludes-stop,9070168
-portlift-newtn-0,excludes-stop,9170168
-portlift-newtn-0,excludes-stop,9170169
 portlift-newtn-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newtn-1,excludes-stop,70168
 portlift-newtn-1,excludes-stop,9070168
-portlift-newtn-1,excludes-stop,9170168
-portlift-newtn-1,excludes-stop,9170169
 portlift-newtn-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newto,excludes-stop,70170
 portlift-newto,excludes-stop,9070170
@@ -14029,10 +14033,8 @@ portlift-smary,excludes-stop,9070211
 portlift-smary,excludes-stop,9070212
 portlift-smary,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-woodl-0,excludes-stop,70163
-portlift-woodl-0,excludes-stop,9070162
 portlift-woodl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-woodl-1,excludes-stop,70162
-portlift-woodl-1,excludes-stop,9070162
 portlift-woodl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 retailsale-302005,address,"781 Tremont St, Boston, MA 02118"
 retailsale-302005,contact-phone,617-536 2722
