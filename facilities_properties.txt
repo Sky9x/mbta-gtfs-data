@@ -134,6 +134,8 @@ facility_id,property_id,value
 130,excludes-stop,door-forhl-lower
 130,excludes-stop,door-forhl-upper
 131,direction,up
+131,excludes-stop,9070002
+131,excludes-stop,9070003
 131,excludes-stop,node-grnst-131-lobby
 131,excludes-stop,node-grnst-131-platform
 131,excludes-stop,node-grnst-844-lobby
@@ -143,6 +145,8 @@ facility_id,property_id,value
 131,excludes-stop,node-grnst-stairs-lobby
 131,excludes-stop,node-grnst-stairs-platform
 132,direction,up
+132,excludes-stop,9070004
+132,excludes-stop,9070005
 132,excludes-stop,node-sbmnl-132-lobby
 132,excludes-stop,node-sbmnl-132-platform
 132,excludes-stop,node-sbmnl-845-lobby
@@ -153,6 +157,7 @@ facility_id,property_id,value
 132,excludes-stop,node-sbmnl-stairs-platform
 133,direction,up
 133,excludes-stop,11531
+133,excludes-stop,9070007
 133,excludes-stop,node-jaksn-133-lobby
 133,excludes-stop,node-jaksn-133-platform
 133,excludes-stop,node-jaksn-846-lobby
@@ -358,6 +363,8 @@ facility_id,property_id,value
 139,direction,up
 139,excludes-stop,187
 139,excludes-stop,188
+139,excludes-stop,9070012
+139,excludes-stop,9070013
 139,excludes-stop,door-masta-camden
 139,excludes-stop,door-masta-corridor
 139,excludes-stop,door-masta-main
@@ -5124,6 +5131,8 @@ facility_id,property_id,value
 843,excludes-stop,door-forhl-arborway
 843,excludes-stop,door-forhl-upper
 844,alternate-service-text,"If exiting, exit the Orange Line at Forest Hills and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Green Street to request assistance."
+844,excludes-stop,9070002
+844,excludes-stop,9070003
 844,excludes-stop,node-grnst-131-lobby
 844,excludes-stop,node-grnst-131-platform
 844,excludes-stop,node-grnst-844-lobby
@@ -5133,6 +5142,8 @@ facility_id,property_id,value
 844,excludes-stop,node-grnst-stairs-lobby
 844,excludes-stop,node-grnst-stairs-platform
 845,alternate-service-text,"If exiting, exit the Orange Line at Jackson Square and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Stony Brook to request assistance."
+845,excludes-stop,9070004
+845,excludes-stop,9070005
 845,excludes-stop,node-sbmnl-132-lobby
 845,excludes-stop,node-sbmnl-132-platform
 845,excludes-stop,node-sbmnl-845-lobby
@@ -5143,6 +5154,7 @@ facility_id,property_id,value
 845,excludes-stop,node-sbmnl-stairs-platform
 846,alternate-service-text,Customers requiring elevator access to exit the station must exit at Roxbury Crossing and board the Route 22 bus service to Jackson Square. Customers desiring elevator access to enter the station should board the Route 22 bus service at Jackson Square to Roxbury Crossing for Orange Line service. Please see station personnel for assistance.
 846,excludes-stop,11531
+846,excludes-stop,9070007
 846,excludes-stop,node-jaksn-133-lobby
 846,excludes-stop,node-jaksn-133-platform
 846,excludes-stop,node-jaksn-846-lobby
@@ -5349,6 +5361,8 @@ facility_id,property_id,value
 852,alternate-service-text,"If exiting, exit the Orange Line at Back Bay and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Massachusetts Avenue to request assistance."
 852,excludes-stop,187
 852,excludes-stop,188
+852,excludes-stop,9070012
+852,excludes-stop,9070013
 852,excludes-stop,door-masta-camden
 852,excludes-stop,door-masta-corridor
 852,excludes-stop,door-masta-main
@@ -12400,9 +12414,9 @@ park-NEC-2040,municipality,Mansfield
 park-NEC-2040,note,"Town of Mansfield is responsible for parking maintenance, payments, and snow removal."
 park-NEC-2040,operator,Town of Mansfield
 park-NEC-2040,owner,City/Town
-park-NEC-2040,payment-app,Parkmobile
-park-NEC-2040,payment-app-id,"380 (residents), 381 (non-residents)"
-park-NEC-2040,payment-app-url,https://parkmobile.io/
+park-NEC-2040,payment-app,PayByPhone
+park-NEC-2040,payment-app-id,1588
+park-NEC-2040,payment-app-url,https://www.paybyphone.com/
 park-NEC-2040,payment-form-accepted,cash
 park-NEC-2040,payment-form-accepted,credit-debit-card
 park-NEC-2040,payment-form-accepted,mobile-app
