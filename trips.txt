@@ -12671,6 +12671,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 34E,BUS319-2-Wdy-02,40727423,Walpole Center via Dedham Mall,,0,B34E-247,34E0142,1,,34E-3-0,1
 34E,BUS319-2-Wdy-02,40728164,Walpole Center via Dedham Mall,,0,B34E-231,34E0142,1,,34E-3-0,1
 34E,BUS319-2-Wdy-02,40728165,Walpole Center via Dedham Mall,,0,B34E-256,34E0142,1,,34E-3-0,1
+34E,BUS319-2-Wdy-02,40727325,Walpole Center (Express to LaGrange St),,0,B34E-244,34E0150,1,,34E-4-0,1
 34E,BUS319-2-Wdy-02,40727365,Walpole Center via Washington St,,0,B34E-229,34E0144,1,,34E-4-0,1
 34E,BUS319-2-Wdy-02,40727367,Walpole Center via Washington St,,0,B34E-233,34E0144,1,,34E-4-0,1
 34E,BUS319-2-Wdy-02,40727383,Walpole Center via Washington St,,0,B34E-235,34E0144,1,,34E-4-0,1
@@ -12678,11 +12679,10 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 34E,BUS319-2-Wdy-02,40727393,Walpole Center via Washington St,,0,B34E-234,34E0144,1,,34E-4-0,1
 34E,BUS319-2-Wdy-02,40727405,Walpole Center via Washington St,,0,B34E-234,34E0144,1,,34E-4-0,1
 34E,BUS319-2-Wdy-02,40727409,Walpole Center via Washington St,,0,B30-41,34E0144,1,,34E-4-0,1
+34E,BUS319-2-Wdy-02,40727413,Walpole Center (Express to LaGrange St),,0,B34E-242,34E0150,1,,34E-4-0,1
+34E,BUS319-2-Wdy-02,40727425,Walpole Center (Express to LaGrange St),,0,B34E-247,34E0150,1,,34E-4-0,1
 34E,BUS319-2-Wdy-02,40728158,Walpole Center via Washington St,,0,B34E-248,34E0144,1,,34E-4-0,1
 34E,BUS319-2-Wdy-02,40728159,Walpole Center via Washington St,,0,B34E-240,34E0144,1,,34E-4-0,1
-34E,BUS319-2-Wdy-02,40727325,Walpole Center (Express to LaGrange St),,0,B34E-244,34E0150,1,,34E-5-0,1
-34E,BUS319-2-Wdy-02,40727413,Walpole Center (Express to LaGrange St),,0,B34E-242,34E0150,1,,34E-5-0,1
-34E,BUS319-2-Wdy-02,40727425,Walpole Center (Express to LaGrange St),,0,B34E-247,34E0150,1,,34E-5-0,1
 34E,BUS319-2-Wdy-02,40727822,East Walpole,,0,B36-157,34E0145,1,,34E-6-0,1
 34E,BUS319-2-Wdy-02,40728160,East Walpole,,0,B34E-251,34E0145,1,,34E-6-0,1
 34E,BUS319-2-Wdy-02,40728162,East Walpole,,0,B34E-250,34E0145,1,,34E-6-0,1
@@ -31663,6 +31663,27 @@ CR-Haverhill,CR-Wdy-Haverhill-Spr-19,CR-Weekday-Spring-19-291,Reading,291,0,,982
 CR-Haverhill,CR-Wdy-Haverhill-Spr-19,CR-Weekday-Spring-19-293,Reading,293,0,,9820002,1,,CR-Haverhill-0-0,2
 CR-Haverhill,CR-Wdy-Haverhill-Spr-19,CR-Weekday-Spring-19-295,Reading,295,0,,9820002,1,,CR-Haverhill-0-0,2
 CR-Haverhill,CR-Wdy-Haverhill-Spr-19,CR-Weekday-Spring-19-221,Haverhill,221,0,,9820004,1,,CR-Haverhill-1-0,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-201-BallardvaleMaldenCenter,Haverhill,201,0,,9820002,1,,CR-Haverhill-0-0,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-211-BallardvaleMaldenCenter,Haverhill,211,0,,9820002,1,,CR-Haverhill-0-0,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-213-BallardvaleMaldenCenter,Haverhill,213,0,,9820002,1,,CR-Haverhill-0-0,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-215-BallardvaleMaldenCenter,Haverhill,215,0,,9820002,1,,CR-Haverhill-0-0,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-217-BallardvaleMaldenCenter,Haverhill,217,0,,9820002,1,,CR-Haverhill-0-0,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-219-BallardvaleMaldenCenter,Haverhill,219,0,,9820002,1,,CR-Haverhill-0-0,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-223-BallardvaleMaldenCenter,Haverhill,223,0,,9820002,1,,CR-Haverhill-0-0,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-225-BallardvaleMaldenCenter,Haverhill,225,0,,9820002,1,,CR-Haverhill-0-0,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-227-BallardvaleMaldenCenter,Haverhill,227,0,,9820002,1,,CR-Haverhill-0-0,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-229-BallardvaleMaldenCenter,Haverhill,229,0,,9820002,1,,CR-Haverhill-0-0,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-285-BallardvaleMaldenCenter,Reading,285,0,,9820002,1,,CR-Haverhill-0-0,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-287-BallardvaleMaldenCenter,Reading,287,0,,9820002,1,,CR-Haverhill-0-0,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-289-BallardvaleMaldenCenter,Reading,289,0,,9820002,1,,CR-Haverhill-0-0,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-291-BallardvaleMaldenCenter,Reading,291,0,,9820002,1,,CR-Haverhill-0-0,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-293-BallardvaleMaldenCenter,Reading,293,0,,9820002,1,,CR-Haverhill-0-0,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-295-BallardvaleMaldenCenter,Reading,295,0,,9820002,1,,CR-Haverhill-0-0,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-203-BallardvaleMaldenCenter,Haverhill,203,0,,9820004,1,,CR-Haverhill-1-0,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-205-BallardvaleMaldenCenter,Haverhill,205,0,,9820004,1,,CR-Haverhill-1-0,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-207-BallardvaleMaldenCenter,Haverhill,207,0,,9820004,1,,CR-Haverhill-1-0,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-209-BallardvaleMaldenCenter,Haverhill,209,0,,9820004,1,,CR-Haverhill-1-0,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-221-BallardvaleMaldenCenter,Haverhill,221,0,,9820004,1,,CR-Haverhill-1-0,2
 CR-Haverhill,CR-Sa-Haverhill-Spr-19,CR-Saturday-Spring-19-1200,North Station,1200,1,,9820001,1,,CR-Haverhill-0-1,1
 CR-Haverhill,CR-Sa-Haverhill-Spr-19,CR-Saturday-Spring-19-1202,North Station,1202,1,,9820001,1,,CR-Haverhill-0-1,1
 CR-Haverhill,CR-Sa-Haverhill-Spr-19,CR-Saturday-Spring-19-1204,North Station,1204,1,,9820001,1,,CR-Haverhill-0-1,1
@@ -31729,6 +31750,27 @@ CR-Haverhill,CR-Wdy-Haverhill-Spr-19,CR-Weekday-Spring-19-208,North Station,208,
 CR-Haverhill,CR-Wdy-Haverhill-Spr-19,CR-Weekday-Spring-19-218,North Station,218,1,,9820003,1,,CR-Haverhill-1-1,1
 CR-Haverhill,CR-Wdy-Haverhill-Spr-19,CR-Weekday-Spring-19-220,North Station,220,1,,9820003,1,,CR-Haverhill-1-1,1
 CR-Haverhill,CR-Wdy-Haverhill-Spr-19,CR-Weekday-Spring-19-222,North Station,222,1,,9820003,1,,CR-Haverhill-1-1,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-200-BallardvaleMaldenCenter,North Station,200,1,,9820001,1,,CR-Haverhill-0-1,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-202-BallardvaleMaldenCenter,North Station,202,1,,9820001,1,,CR-Haverhill-0-1,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-204-BallardvaleMaldenCenter,North Station,204,1,,9820001,1,,CR-Haverhill-0-1,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-224-BallardvaleMaldenCenter,North Station,224,1,,9820001,1,,CR-Haverhill-0-1,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-226-BallardvaleMaldenCenter,North Station,226,1,,9820001,1,,CR-Haverhill-0-1,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-228-BallardvaleMaldenCenter,North Station,228,1,,9820001,1,,CR-Haverhill-0-1,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-286-BallardvaleMaldenCenter,North Station,286,1,,9820001,1,,CR-Haverhill-0-1,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-288-BallardvaleMaldenCenter,North Station,288,1,,9820001,1,,CR-Haverhill-0-1,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-290-BallardvaleMaldenCenter,North Station,290,1,,9820001,1,,CR-Haverhill-0-1,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-292-BallardvaleMaldenCenter,North Station,292,1,,9820001,1,,CR-Haverhill-0-1,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-294-BallardvaleMaldenCenter,North Station,294,1,,9820001,1,,CR-Haverhill-0-1,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-296-BallardvaleMaldenCenter,North Station,296,1,,9820001,1,,CR-Haverhill-0-1,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-206-BallardvaleMaldenCenter,North Station,206,1,,9820003,1,,CR-Haverhill-1-1,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-208-BallardvaleMaldenCenter,North Station,208,1,,9820003,1,,CR-Haverhill-1-1,2
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-210-BallardvaleMaldenCenter,North Station,210,1,,9820003,1,,CR-Haverhill-1-1,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-212-BallardvaleMaldenCenter,North Station,212,1,,9820003,1,,CR-Haverhill-1-1,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-214-BallardvaleMaldenCenter,North Station,214,1,,9820003,1,,CR-Haverhill-1-1,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-216-BallardvaleMaldenCenter,North Station,216,1,,9820003,1,,CR-Haverhill-1-1,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-218-BallardvaleMaldenCenter,North Station,218,1,,9820003,1,,CR-Haverhill-1-1,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-220-BallardvaleMaldenCenter,North Station,220,1,,9820003,1,,CR-Haverhill-1-1,1
+CR-Haverhill,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-222-BallardvaleMaldenCenter,North Station,222,1,,9820003,1,,CR-Haverhill-1-1,1
 CR-Kingston,CR-Sa-Kingston-Spr-19,CR-Saturday-Spring-19-1033,Kingston,1033,0,,9790002,1,,CR-Kingston-0-0,1
 CR-Kingston,CR-Sa-Kingston-Spr-19,CR-Saturday-Spring-19-1035,Kingston,1035,0,,9790002,1,,CR-Kingston-0-0,1
 CR-Kingston,CR-Sa-Kingston-Spr-19,CR-Saturday-Spring-19-1037,Kingston,1037,0,,9790002,1,,CR-Kingston-0-0,1
@@ -51421,6 +51463,14 @@ Shuttle-BackBayRuggles,RTL319-6-Su-01-BckBRgs,40609710-BackBayRuggles1,Back Bay 
 Shuttle-BackBayRuggles,RTL319-6-Su-01-BckBRgs,40609711-BackBayRuggles1,Back Bay (Shuttle),,1,O903_-6-1-BackBayRuggles1,RugglesToBackBay-S,1,3,,0
 Shuttle-BackBayRuggles,RTL319-6-Su-01-BckBRgs,40609712-BackBayRuggles1,Back Bay (Shuttle),,1,O903_-7-1-BackBayRuggles1,RugglesToBackBay-S,1,3,,0
 Shuttle-BackBayRuggles,RTL319-6-Su-01-BckBRgs,40609713-BackBayRuggles1,Back Bay (Shuttle),,1,O903_-8-1-BackBayRuggles1,RugglesToBackBay-S,1,3,,0
+Shuttle-BallardvaleMaldenCenter,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-203-BallardvaleMaldenCenter1,Ballardvale (Shuttle),B203,0,,MaldenCenterToBallardvale-S,1,3,,2
+Shuttle-BallardvaleMaldenCenter,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-205-BallardvaleMaldenCenter1,Ballardvale (Shuttle),B205,0,,MaldenCenterToBallardvale-S,1,3,,2
+Shuttle-BallardvaleMaldenCenter,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-207-BallardvaleMaldenCenter1,Ballardvale (Shuttle),B207,0,,MaldenCenterToBallardvale-S,1,3,,2
+Shuttle-BallardvaleMaldenCenter,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-209-BallardvaleMaldenCenter1,Ballardvale (Shuttle),B209,0,,MaldenCenterToBallardvale-S,1,3,,2
+Shuttle-BallardvaleMaldenCenter,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-210-BallardvaleMaldenCenter1,Malden Center (Shuttle),B210,1,,BallardvaleToMaldenCenter-S,1,3,,2
+Shuttle-BallardvaleMaldenCenter,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-212-BallardvaleMaldenCenter1,Malden Center (Shuttle),B212,1,,BallardvaleToMaldenCenter-S,1,3,,2
+Shuttle-BallardvaleMaldenCenter,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-214-BallardvaleMaldenCenter1,Malden Center (Shuttle),B214,1,,BallardvaleToMaldenCenter-S,1,3,,2
+Shuttle-BallardvaleMaldenCenter,CR-Wdy-Haverhill-Spr-19-BllMlnCnr,CR-Weekday-Spring-19-216-BallardvaleMaldenCenter1,Malden Center (Shuttle),B216,1,,BallardvaleToMaldenCenter-S,1,3,,2
 Shuttle-BraintreeNorthQuincy,RTL319-7-Wdy-01-BrrNQncL,40526606-20:45-BraintreeNQuincyL1,Braintree (Shuttle),,0,S933_-18-0-BraintreeNQuincy1,NorthQuincyToBraintree-S,1,3,,0
 Shuttle-BraintreeNorthQuincy,RTL319-7-Wdy-01-BrrNQncL,40526689-20:45-BraintreeNQuincyL1,Braintree (Shuttle),,0,S933_-35-0-BraintreeNQuincy1,NorthQuincyToBraintree-S,1,3,,0
 Shuttle-BraintreeNorthQuincy,RTL319-7-Wdy-01-BrrNQncL,40526698-20:45-BraintreeNQuincyL1,Braintree (Shuttle),,0,S933_-22-0-BraintreeNQuincy1,NorthQuincyToBraintree-S,1,3,,0
