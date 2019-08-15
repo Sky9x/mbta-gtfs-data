@@ -6676,6 +6676,9 @@ facility_id,property_id,value
 732,excludes-stop,door-north-crnashua
 732,excludes-stop,door-north-tdgarden
 732,excludes-stop,door-north-valenti
+733,alternate-service-text,"If exiting, use Wollaston Elevator 734 (platform to Newport Ave lobby).Â  Proceed up the passageway ramp to the parking lot lobby.If boarding, proceed down the passageway from to the Newport Ave lobby and use Wollaston Elevator 734 (Newport Ave lobby to platform)."
+734,alternate-service-text,"If exiting, use Wollaston Elevator 735 (platform to pedestrian bridge) and then transfer to Wollaston Elevator 733 (Pedestrian bridge to parking lot lobby). If boarding, proceed up the passageway ramp to the parking lot lobby and use Wollaston Elevator 733 (Parking lot lobby to pedestrian bridge). Transfer to Wollaston Elevator 735 (Pedestrian bridge to platform)."
+735,alternate-service-text,"If exiting, use Wollaston Elevator 734 (platform to Newport Ave lobby).Â  Proceed up the passageway ramp to the parking lot lobby.If boarding, proceed down the passageway to the Newport Ave lobby and use Wollaston Elevator 734 (Newport Ave lobby to platform)."
 800,alternate-service-text,"Customers desiring elevator service to exit at Oak Grove must exit the train at Malden Center and see station personnel for further assistance. Customer desiring elevator service to enter the station should utilize the call box for further assistance. Alternatively, use Bus Routes 132, 136, or 137 to connect between Oak Grove and Malden Center."
 800,excludes-stop,9326
 800,excludes-stop,9328
@@ -11661,6 +11664,9 @@ bike-welln,secured,2
 bike-wimnl,capacity,24
 bike-wimnl,enclosed,1
 bike-wimnl,secured,2
+bike-wlsta,capacity,92
+bike-wlsta,enclosed,1
+bike-wlsta,secured,1
 bike-wondl,capacity,145
 bike-wondl,enclosed,1
 bike-wondl,secured,1
@@ -17071,9 +17077,6 @@ park-qamnl-garage,fee-monthly,"Monthly passes are not available at MBTA garages,
 park-qamnl-garage,municipality,Quincy
 park-qamnl-garage,operator,Republic Parking System
 park-qamnl-garage,owner,MBTA
-park-qamnl-garage,payment-app,PayByPhone
-park-qamnl-garage,payment-app-id,4466
-park-qamnl-garage,payment-app-url,https://www.paybyphone.com/
 park-qamnl-garage,payment-form-accepted,cash
 park-qamnl-garage,payment-form-accepted,credit-debit-card
 park-qamnl-garage,payment-form-accepted,invoice
@@ -17094,11 +17097,8 @@ park-qamnl-lot,owner,MBTA
 park-qamnl-lot,payment-app,PayByPhone
 park-qamnl-lot,payment-app-id,4466
 park-qamnl-lot,payment-app-url,https://www.paybyphone.com/
-park-qamnl-lot,payment-form-accepted,cash
-park-qamnl-lot,payment-form-accepted,credit-debit-card
 park-qamnl-lot,payment-form-accepted,invoice
 park-qamnl-lot,payment-form-accepted,mobile-app
-park-qamnl-lot,payment-form-accepted,tapcard
 park-qamnl-lot,weekday-utilization-summary,No data
 park-river,attended,2
 park-river,capacity,935
@@ -17253,8 +17253,8 @@ park-wlsta,contact,MBTA Customer Support
 park-wlsta,contact-phone,617-222-3200
 park-wlsta,contact-url,http://www.parkmbta.com/
 park-wlsta,enclosed,2
-park-wlsta,fee-daily,$2
-park-wlsta,fee-monthly,$35
+park-wlsta,fee-daily,Mon-Fri: $6 | Sat-Sun: $3
+park-wlsta,fee-monthly,$105
 park-wlsta,municipality,Quincy
 park-wlsta,operator,Republic Parking System
 park-wlsta,owner,MBTA
@@ -17378,8 +17378,12 @@ portlift-haecl-1,excludes-stop,70203
 portlift-haecl-1,excludes-stop,8310
 portlift-haecl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-harvd-0,excludes-stop,70131
+portlift-harvd-0,excludes-stop,9070130
+portlift-harvd-0,excludes-stop,9070131
 portlift-harvd-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-harvd-1,excludes-stop,70130
+portlift-harvd-1,excludes-stop,9070130
+portlift-harvd-1,excludes-stop,9070131
 portlift-harvd-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-hsmnl,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-kencl,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
@@ -18429,8 +18433,12 @@ subplat-spmnl-0,note,Mini high level platform is available to provide level boar
 subplat-spmnl-1,excludes-stop,70207
 subplat-spmnl-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-wascm-0,excludes-stop,70121
+subplat-wascm-0,excludes-stop,9070120
+subplat-wascm-0,excludes-stop,9070121
 subplat-wascm-0,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-wascm-1,excludes-stop,70120
+subplat-wascm-1,excludes-stop,9070120
+subplat-wascm-1,excludes-stop,9070121
 subplat-wascm-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 ticket-bbsta,address,"145 Dartmouth St, Boston, MA 02116"
 ticket-bbsta,dispenses,fare-media
