@@ -337,6 +337,8 @@ facility_id,property_id,value
 130,excludes-stop,node-forhl-splatstairs-lobby
 130,excludes-stop,node-forhl-splatstairs-platform
 131,direction,up
+131,excludes-stop,9070002
+131,excludes-stop,9070003
 131,excludes-stop,node-grnst-131-lobby
 131,excludes-stop,node-grnst-131-platform
 131,excludes-stop,node-grnst-844-lobby
@@ -346,6 +348,8 @@ facility_id,property_id,value
 131,excludes-stop,node-grnst-stairs-lobby
 131,excludes-stop,node-grnst-stairs-platform
 132,direction,up
+132,excludes-stop,9070004
+132,excludes-stop,9070005
 132,excludes-stop,node-sbmnl-132-lobby
 132,excludes-stop,node-sbmnl-132-platform
 132,excludes-stop,node-sbmnl-845-lobby
@@ -356,6 +360,7 @@ facility_id,property_id,value
 132,excludes-stop,node-sbmnl-stairs-platform
 133,direction,up
 133,excludes-stop,11531
+133,excludes-stop,9070007
 133,excludes-stop,node-jaksn-133-lobby
 133,excludes-stop,node-jaksn-133-platform
 133,excludes-stop,node-jaksn-846-lobby
@@ -2715,6 +2720,7 @@ facility_id,property_id,value
 382,excludes-stop,South Station-11
 382,excludes-stop,South Station-12
 382,excludes-stop,South Station-13
+382,excludes-stop,South Station-S
 382,excludes-stop,door-sstat-atlantic
 382,excludes-stop,door-sstat-bus
 382,excludes-stop,door-sstat-dewey
@@ -2898,6 +2904,7 @@ facility_id,property_id,value
 386,excludes-stop,South Station-11
 386,excludes-stop,South Station-12
 386,excludes-stop,South Station-13
+386,excludes-stop,South Station-S
 386,excludes-stop,door-sstat-atlantic
 386,excludes-stop,door-sstat-bus
 386,excludes-stop,door-sstat-dewey
@@ -3005,6 +3012,7 @@ facility_id,property_id,value
 387,excludes-stop,South Station-11
 387,excludes-stop,South Station-12
 387,excludes-stop,South Station-13
+387,excludes-stop,South Station-S
 387,excludes-stop,door-sstat-atlantic
 387,excludes-stop,door-sstat-bus
 387,excludes-stop,door-sstat-dewey
@@ -3112,6 +3120,7 @@ facility_id,property_id,value
 388,excludes-stop,South Station-11
 388,excludes-stop,South Station-12
 388,excludes-stop,South Station-13
+388,excludes-stop,South Station-S
 388,excludes-stop,door-sstat-atlantic
 388,excludes-stop,door-sstat-bus
 388,excludes-stop,door-sstat-dewey
@@ -3221,6 +3230,7 @@ facility_id,property_id,value
 389,excludes-stop,South Station-11
 389,excludes-stop,South Station-12
 389,excludes-stop,South Station-13
+389,excludes-stop,South Station-S
 389,excludes-stop,door-sstat-atlantic
 389,excludes-stop,door-sstat-bus
 389,excludes-stop,door-sstat-dewey
@@ -3331,6 +3341,7 @@ facility_id,property_id,value
 390,excludes-stop,South Station-11
 390,excludes-stop,South Station-12
 390,excludes-stop,South Station-13
+390,excludes-stop,South Station-S
 390,excludes-stop,door-sstat-atlantic
 390,excludes-stop,door-sstat-bus
 390,excludes-stop,door-sstat-dewey
@@ -3688,6 +3699,7 @@ facility_id,property_id,value
 398,excludes-stop,South Station-11
 398,excludes-stop,South Station-12
 398,excludes-stop,South Station-13
+398,excludes-stop,South Station-S
 398,excludes-stop,door-sstat-atlantic
 398,excludes-stop,door-sstat-bus
 398,excludes-stop,door-sstat-dewey
@@ -3797,6 +3809,7 @@ facility_id,property_id,value
 399,excludes-stop,South Station-11
 399,excludes-stop,South Station-12
 399,excludes-stop,South Station-13
+399,excludes-stop,South Station-S
 399,excludes-stop,door-sstat-atlantic
 399,excludes-stop,door-sstat-bus
 399,excludes-stop,door-sstat-dewey
@@ -3907,6 +3920,7 @@ facility_id,property_id,value
 400,excludes-stop,South Station-11
 400,excludes-stop,South Station-12
 400,excludes-stop,South Station-13
+400,excludes-stop,South Station-S
 400,excludes-stop,door-sstat-atlantic
 400,excludes-stop,door-sstat-bus
 400,excludes-stop,door-sstat-dewey
@@ -4354,6 +4368,7 @@ facility_id,property_id,value
 411,excludes-stop,South Station-11
 411,excludes-stop,South Station-12
 411,excludes-stop,South Station-13
+411,excludes-stop,South Station-S
 411,excludes-stop,door-sstat-atlantic
 411,excludes-stop,door-sstat-bus
 411,excludes-stop,door-sstat-dewey
@@ -4793,6 +4808,7 @@ facility_id,property_id,value
 419,excludes-stop,South Station-11
 419,excludes-stop,South Station-12
 419,excludes-stop,South Station-13
+419,excludes-stop,South Station-S
 419,excludes-stop,door-sstat-atlantic
 419,excludes-stop,door-sstat-bus
 419,excludes-stop,door-sstat-dewey
@@ -4904,6 +4920,7 @@ facility_id,property_id,value
 420,excludes-stop,South Station-11
 420,excludes-stop,South Station-12
 420,excludes-stop,South Station-13
+420,excludes-stop,South Station-S
 420,excludes-stop,door-sstat-atlantic
 420,excludes-stop,door-sstat-bus
 420,excludes-stop,door-sstat-dewey
@@ -5029,6 +5046,7 @@ facility_id,property_id,value
 424,excludes-stop,South Station-11
 424,excludes-stop,South Station-12
 424,excludes-stop,South Station-13
+424,excludes-stop,South Station-S
 424,excludes-stop,door-sstat-atlantic
 424,excludes-stop,door-sstat-bus
 424,excludes-stop,door-sstat-finctr
@@ -6068,6 +6086,7 @@ facility_id,property_id,value
 6476,excludes-stop,South Station-11
 6476,excludes-stop,South Station-12
 6476,excludes-stop,South Station-13
+6476,excludes-stop,South Station-S
 6476,excludes-stop,door-sstat-atlantic
 6476,excludes-stop,door-sstat-bus
 6476,excludes-stop,door-sstat-dewey
@@ -7666,6 +7685,8 @@ facility_id,property_id,value
 843,excludes-stop,node-forhl-splatstairs-lobby
 843,excludes-stop,node-forhl-splatstairs-platform
 844,alternate-service-text,"If exiting, exit the Orange Line at Forest Hills and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Green Street to request assistance."
+844,excludes-stop,9070002
+844,excludes-stop,9070003
 844,excludes-stop,node-grnst-131-lobby
 844,excludes-stop,node-grnst-131-platform
 844,excludes-stop,node-grnst-844-lobby
@@ -7675,6 +7696,8 @@ facility_id,property_id,value
 844,excludes-stop,node-grnst-stairs-lobby
 844,excludes-stop,node-grnst-stairs-platform
 845,alternate-service-text,"If exiting, exit the Orange Line at Jackson Square and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Stony Brook to request assistance."
+845,excludes-stop,9070004
+845,excludes-stop,9070005
 845,excludes-stop,node-sbmnl-132-lobby
 845,excludes-stop,node-sbmnl-132-platform
 845,excludes-stop,node-sbmnl-845-lobby
@@ -7685,6 +7708,7 @@ facility_id,property_id,value
 845,excludes-stop,node-sbmnl-stairs-platform
 846,alternate-service-text,Customers requiring elevator access to exit the station must exit at Roxbury Crossing and board the Route 22 bus service to Jackson Square. Customers desiring elevator access to enter the station should board the Route 22 bus service at Jackson Square to Roxbury Crossing for Orange Line service. Please see station personnel for assistance.
 846,excludes-stop,11531
+846,excludes-stop,9070007
 846,excludes-stop,node-jaksn-133-lobby
 846,excludes-stop,node-jaksn-133-platform
 846,excludes-stop,node-jaksn-846-lobby
@@ -8997,6 +9021,7 @@ facility_id,property_id,value
 901,excludes-stop,South Station-11
 901,excludes-stop,South Station-12
 901,excludes-stop,South Station-13
+901,excludes-stop,South Station-S
 901,excludes-stop,door-sstat-atlantic
 901,excludes-stop,door-sstat-bus
 901,excludes-stop,door-sstat-dewey
@@ -9626,6 +9651,7 @@ facility_id,property_id,value
 918,excludes-stop,South Station-11
 918,excludes-stop,South Station-12
 918,excludes-stop,South Station-13
+918,excludes-stop,South Station-S
 918,excludes-stop,door-sstat-atlantic
 918,excludes-stop,door-sstat-bus
 918,excludes-stop,door-sstat-dewey
@@ -9736,6 +9762,7 @@ facility_id,property_id,value
 919,excludes-stop,South Station-11
 919,excludes-stop,South Station-12
 919,excludes-stop,South Station-13
+919,excludes-stop,South Station-S
 919,excludes-stop,door-sstat-atlantic
 919,excludes-stop,door-sstat-bus
 919,excludes-stop,door-sstat-dewey
@@ -10064,6 +10091,7 @@ facility_id,property_id,value
 926,excludes-stop,South Station-11
 926,excludes-stop,South Station-12
 926,excludes-stop,South Station-13
+926,excludes-stop,South Station-S
 926,excludes-stop,door-sstat-atlantic
 926,excludes-stop,door-sstat-bus
 926,excludes-stop,door-sstat-dewey
@@ -10173,6 +10201,7 @@ facility_id,property_id,value
 927,excludes-stop,South Station-11
 927,excludes-stop,South Station-12
 927,excludes-stop,South Station-13
+927,excludes-stop,South Station-S
 927,excludes-stop,door-sstat-atlantic
 927,excludes-stop,door-sstat-bus
 927,excludes-stop,door-sstat-dewey
@@ -10777,6 +10806,7 @@ facility_id,property_id,value
 949,excludes-stop,South Station-11
 949,excludes-stop,South Station-12
 949,excludes-stop,South Station-13
+949,excludes-stop,South Station-S
 949,excludes-stop,door-sstat-atlantic
 949,excludes-stop,door-sstat-bus
 949,excludes-stop,door-sstat-finctr
