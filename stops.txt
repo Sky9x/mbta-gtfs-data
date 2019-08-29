@@ -7235,7 +7235,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9069,9069,Salem St @ Revere St,,,,42.437257,-71.025457,,,https://www.mbta.com/stops/9069,,0,,1,Malden,Salem Street,Revere Street,3
 907,907,Tremont St @ Pembroke St,,,,42.352946,-71.176810,,,https://www.mbta.com/stops/907,,0,,1,Newton,Tremont Street,Playstead Road,3
 9070,9070,Salem St @ Lynn St,,,,42.436065,-71.021736,,,https://www.mbta.com/stops/9070,,0,,0,Malden,Salem Street,Lynn Street,3
-9070101,9070101,Quincy Center,Hancock St @ Quincy Center,,Red Line Shuttle,42.251786,-71.003876,,,https://www.mbta.com/stops/9070101,,0,,1,Quincy,,,3
 9071,9071,Warren St @ Melrose St,,,,42.468798,-71.074237,,,https://www.mbta.com/stops/9071,,0,,1,Melrose,Warren Street,Melrose Street,3
 9073,9073,Franklin St @ Warren St,,,,42.469465,-71.073595,,,https://www.mbta.com/stops/9073,,0,,0,Melrose,Franklin Street,Warren Street,3
 9074,9074,Franklin St opp Greenwood St,,,,42.468688,-71.069631,,,https://www.mbta.com/stops/9074,,0,,0,Melrose,Franklin Street,Greenwood Street,3
@@ -7339,8 +7338,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9169,9169,Riverside Ave @ Pembroke St,,,,42.413540,-71.098291,,,https://www.mbta.com/stops/9169,,0,,0,Medford,Riverside Avenue,Maverick Street,3
 917,917,Washington St @ Foster St,,,,42.349007,-71.157011,,,https://www.mbta.com/stops/917,,0,,1,Boston,Washington Street,Foster Street,3
 9170,9170,Riverside Ave @ Park St,,,,42.414773,-71.100883,,,https://www.mbta.com/stops/9170,,0,,0,Medford,Riverside Avenue,Marine Street,3
-9170099,9170099,Newport Ave @ Beale St,,,,42.265020,-71.019245,,,https://www.mbta.com/stops/9170099,,0,,1,Quincy,,,3
-9170100,9170100,Wollaston,Newport Ave @ Wollaston Station,,North Quincy Shuttle,42.266771,-71.020771,,,https://www.mbta.com/stops/9170100,,0,,1,Quincy,,,3
 9171,9171,Riverside Ave @ Pleasant St,,,,42.415712,-71.102573,,,https://www.mbta.com/stops/9171,,0,,0,Medford,Riverside Avenue,Pleasant Street,3
 9172,9172,116 Riverside Ave,,,,42.416769,-71.105122,,,https://www.mbta.com/stops/9172,,0,,0,Medford,Riverside Avenue,Sables Court,3
 9174,9174,Winthrop St @ Lawrence Rd,,,,42.423885,-71.120863,,,https://www.mbta.com/stops/9174,,0,,0,Medford,Winthrop Street,Suffolk Street,3
@@ -7447,7 +7444,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9269,9269,Cordis St @ Pleasant St,,,,42.515604,-71.070921,,,https://www.mbta.com/stops/9269,,0,,0,Wakefield,Cordis Street,Pleasant Street,3
 927,927,Brighton Ave @ Allston St,,,,42.353168,-71.134553,,,https://www.mbta.com/stops/927,,0,,1,Boston,Brighton Avenue,Allston Street,3
 9270,9270,Pleasant St @ Sweetser St,,,,42.513803,-71.070633,,,https://www.mbta.com/stops/9270,,0,,1,Wakefield,Pleasant Street,Sweetser Street,3
-9270099,9270099,Beale St @ Wollaston Branch Library,,,,42.266671,-71.017924,,,https://www.mbta.com/stops/9270099,,0,,1,Quincy,,,3
 9271,9271,Pleasant St @ Aborn Ave,,,,42.512830,-71.070202,,,https://www.mbta.com/stops/9271,,0,,1,Wakefield,Pleasant Street,Aborn Avenue,3
 9272,9272,Pleasant St @ Wave Ave,,,,42.511417,-71.069558,,,https://www.mbta.com/stops/9272,,0,,0,Wakefield,Pleasant Street,Wave Avenue,3
 9273,9273,Pleasant St @ Lawrence St,,,,42.510343,-71.069100,,,https://www.mbta.com/stops/9273,,0,,0,Wakefield,Pleasant Street,Lawrence Street,3
@@ -8102,6 +8098,7 @@ node-astao-revplatstair-platform,,Assembly,Assembly - Bottom of platform stairs 
 place-babck,,Babcock Street,,,,42.351820,-71.121650,,"Commonwealth Ave and Babcock St, Boston, MA 02215",https://www.mbta.com/stops/place-babck,,1,,2,Boston,,,
 70136,70136,Babcock Street,Babcock Street - Green Line - Park Street & North,,Park Street & North,42.351776,-71.121530,,,https://www.mbta.com/stops/place-babck,level_median,0,place-babck,2,Boston,,,0
 70137,70137,Babcock Street,Babcock Street - Green Line - (B) Boston College,,Boston College,42.351903,-71.122042,,,https://www.mbta.com/stops/place-babck,level_median,0,place-babck,2,Boston,,,0
+9070136,9070136,Babcock Street,Babcock Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.351656,-71.121509,,,https://www.mbta.com/stops/place-babck,,0,place-babck,1,Boston,,,3
 place-bbsta,,Back Bay,,,,42.347350,-71.075727,CR-zone-1A,"145 Dartmouth St Boston, MA 02116",https://www.mbta.com/stops/place-bbsta,,1,,1,Boston,,,
 11384,11384,Dartmouth St @ Back Bay Sta,,,,42.347346,-71.075956,,,https://www.mbta.com/stops/place-bbsta,,0,place-bbsta,1,Boston,Dartmouth Street,Stuart Street,3
 176,176,Dartmouth St opp Back Bay Sta,,,,42.347343,-71.076035,,,https://www.mbta.com/stops/place-bbsta,,0,place-bbsta,1,Boston,Dartmouth Street,Stuart Street,3
@@ -8189,6 +8186,8 @@ place-bcnwa,,Washington Square,,,,42.339394,-71.135330,,"Beacon St and Washingto
 1292,1292,Washington St @ Beacon St,,,,42.339199,-71.135066,,,https://www.mbta.com/stops/place-bcnwa,,0,place-bcnwa,0,Brookline,Washington Street,Beacon Street,3
 70229,70229,Washington Square,Washington Square - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.339471,-71.135139,,,https://www.mbta.com/stops/place-bcnwa,level_median,0,place-bcnwa,1,Brookline,,,0
 70230,70230,Washington Square,Washington Square - Green Line - Park Street & North,,Park Street & North,42.339519,-71.134587,,,https://www.mbta.com/stops/place-bcnwa,level_median,0,place-bcnwa,1,Brookline,,,0
+9070229,9070229,Washington Square,Washington Square - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.339687,-71.135035,,,https://www.mbta.com/stops/place-bcnwa,,0,place-bcnwa,1,Brookline,,,3
+9070230,9070230,Washington Square,Washington Square - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.339284,-71.134735,,,https://www.mbta.com/stops/place-bcnwa,,0,place-bcnwa,1,Brookline,,,3
 place-belsq,,Bellingham Square,,,,42.395438,-71.033884,,,https://www.mbta.com/stops/place-belsq,,1,,1,Chelsea,,,
 74632,74632,Bellingham Square,Bellingham Square - Silver Line - SL3 South Station,,South Station,42.395328,-71.033291,,,https://www.mbta.com/stops/place-belsq,level_ground,0,place-belsq,1,Chelsea,Chelsea Busway,,3
 74633,74633,Bellingham Square,Bellingham Square - Silver Line - SL3 Chelsea,,Chelsea,42.395638,-71.034599,,,https://www.mbta.com/stops/place-belsq,level_ground,0,place-belsq,1,Chelsea,Chelsea Busway,,3
@@ -8218,6 +8217,8 @@ node-bmmnl-fareunpaid,,Beachmont,Beachmont - Unpaid side of fare gates,,,,,,,,le
 place-bndhl,,Brandon Hall,,,,42.340023,-71.129082,,"1481 Beacon Street, Brookline, MA",https://www.mbta.com/stops/place-bndhl,,1,,2,Brookline,,,
 70225,70225,Brandon Hall,Brandon Hall - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.340053,-71.128869,,,https://www.mbta.com/stops/place-bndhl,level_median,0,place-bndhl,2,Brookline,,,0
 70226,70226,Brandon Hall,Brandon Hall - Green Line - Park Street & North,,Park Street & North,42.340038,-71.128660,,,https://www.mbta.com/stops/place-bndhl,level_median,0,place-bndhl,2,Brookline,,,0
+9070225,9070225,Brandon Hall,Brandon Hall - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.340312,-71.128629,,,https://www.mbta.com/stops/place-bndhl,,0,place-bndhl,1,Brookline,,,3
+9070226,9070226,Brandon Hall,Brandon Hall - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.339811,-71.128765,,,https://www.mbta.com/stops/place-bndhl,,0,place-bndhl,1,Brookline,,,3
 place-bomnl,,Bowdoin,,,,42.361365,-71.062037,,"Cambridge St and New Chardon St/Bowdoin St, Boston, MA 02114",https://www.mbta.com/stops/place-bomnl,,1,,2,Boston,,,
 70038,70038,Bowdoin,Bowdoin - Blue Line - Wonderland,,Wonderland,42.361365,-71.062037,,,https://www.mbta.com/stops/place-bomnl,level_-1_platform,0,place-bomnl,2,Boston,,,1
 70838,70838,Bowdoin,Bowdoin - Blue Line - Exit Only,,Exit Only,42.361365,-71.062037,,,https://www.mbta.com/stops/place-bomnl,level_-1_platform,0,place-bomnl,2,Boston,,,1
@@ -8370,6 +8371,8 @@ door-chhil-parkw,,Chestnut Hill - Parking Lot Access (West),Chestnut Hill - Park
 place-chill,,Chestnut Hill Avenue,,,,42.338169,-71.153160,,"Commonwealth Ave and Chestnut Hill Ave, Boston, MA",https://www.mbta.com/stops/place-chill,,1,,2,Boston,,,
 70112,70112,Chestnut Hill Avenue,Chestnut Hill Avenue - Green Line - Park Street & North,,Park Street & North,42.338730,-71.152526,,,https://www.mbta.com/stops/place-chill,level_median,0,place-chill,2,Boston,,,0
 70113,70113,Chestnut Hill Avenue,Chestnut Hill Avenue - Green Line - (B) Boston College,,Boston College,42.338290,-71.153025,,,https://www.mbta.com/stops/place-chill,level_median,0,place-chill,2,Boston,,,0
+9070112,9070112,Chestnut Hill Avenue,Chestnut Hill Avenue - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.338667,-71.152467,,,https://www.mbta.com/stops/place-chill,,0,place-chill,1,Boston,,,3
+9070113,9070113,Chestnut Hill Avenue,Chestnut Hill Avenue - Green Line Westbound Shuttle,,Boston College Shuttle,42.338332,-71.153181,,,https://www.mbta.com/stops/place-chill,,0,place-chill,1,Boston,,,3
 place-chmnl,,Charles/MGH,,,,42.361166,-71.070628,,"Cambridge St and Charles St, Boston, MA",https://www.mbta.com/stops/place-chmnl,,1,,1,Boston,,,
 70073,70073,Charles/MGH,Charles/MGH - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.361166,-71.070628,,,https://www.mbta.com/stops/place-chmnl,level_1_platform,0,place-chmnl,1,Boston,,,1
 70074,70074,Charles/MGH,Charles/MGH - Red Line - Alewife,,Alewife,42.361166,-71.070628,,,https://www.mbta.com/stops/place-chmnl,level_1_platform,0,place-chmnl,1,Boston,,,1
@@ -8415,9 +8418,13 @@ node-chncl-ogupper-landing,,Chinatown,Chinatown - Bottom of stairs between escal
 place-chswk,,Chiswick Road,,,,42.340805,-71.150711,,"Commonwealth Ave and Chiswick Rd, Boston, MA",https://www.mbta.com/stops/place-chswk,,1,,2,Boston,,,
 70114,70114,Chiswick Road,Chiswick Road - Green Line - Park Street & North,,Park Street & North,42.340808,-71.150633,,,https://www.mbta.com/stops/place-chswk,level_median,0,place-chswk,2,Boston,,,0
 70115,70115,Chiswick Road,Chiswick Road - Green Line - (B) Boston College,,Boston College,42.340540,-71.151140,,,https://www.mbta.com/stops/place-chswk,level_median,0,place-chswk,2,Boston,,,0
+9070114,9070114,Chiswick Road,Chiswick Road - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.340768,-71.150539,,,https://www.mbta.com/stops/place-chswk,,0,place-chswk,1,Boston,,,3
+9070115,9070115,Chiswick Road,Chiswick Road - Green Line Westbound Shuttle,,Boston College Shuttle,42.340555,-71.151273,,,https://www.mbta.com/stops/place-chswk,,0,place-chswk,1,Boston,,,3
 place-clmnl,,Cleveland Circle,,,,42.336142,-71.149326,,"Beacon St and Chestnut Hill Ave, Brighton, MA",https://www.mbta.com/stops/place-clmnl,,1,,1,Boston,,,
 70237,70237,Cleveland Circle,Cleveland Circle - Green Line - Exit Only,,Exit Only,42.336216,-71.149201,,,https://www.mbta.com/stops/place-clmnl,level_median,0,place-clmnl,1,Boston,,,0
 70238,70238,Cleveland Circle,Cleveland Circle - Green Line - Park Street & North,,Park Street & North,42.336252,-71.148774,,,https://www.mbta.com/stops/place-clmnl,level_median,0,place-clmnl,1,Boston,,,0
+9070237,9070237,Cleveland Circle,Cleveland Circle - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.336612,-71.148524,,,https://www.mbta.com/stops/place-clmnl,,0,place-clmnl,1,Brookline,,,3
+9070238,9070238,Cleveland Circle,Cleveland Circle - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.336033,-71.149119,,,https://www.mbta.com/stops/place-clmnl,,0,place-clmnl,1,Boston,,,3
 place-cntsq,,Central,,,,42.365486,-71.103802,,"Massachusetts Avenue and Prospect Street, Cambridge, MA 02139",https://www.mbta.com/stops/place-cntsq,,1,,1,Cambridge,,,
 70069,70069,Central,Central - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.365304,-71.103621,,,https://www.mbta.com/stops/place-cntsq,level_-1_platform,0,place-cntsq,1,Cambridge,,,1
 70070,70070,Central,Central - Red Line - Alewife,,Alewife,42.365379,-71.103554,,,https://www.mbta.com/stops/place-cntsq,level_-1_platform,0,place-cntsq,1,Cambridge,,,1
@@ -8470,6 +8477,8 @@ place-cool,,Coolidge Corner,,,,42.342116,-71.121263,,"Beacon St and Harvard St, 
 1372,1372,Harvard St @ Beacon St,,,,42.341909,-71.121143,,,https://www.mbta.com/stops/place-cool,,0,place-cool,1,Brookline,Harvard Street,Beacon Street,3
 70219,70219,Coolidge Corner,Coolidge Corner - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.342274,-71.120915,,,https://www.mbta.com/stops/place-cool,level_median,0,place-cool,1,Brookline,,,0
 70220,70220,Coolidge Corner,Coolidge Corner - Green Line - Park Street & North,,Park Street & North,42.342028,-71.121685,,,https://www.mbta.com/stops/place-cool,level_median,0,place-cool,1,Brookline,,,0
+9070219,9070219,Coolidge Corner,Coolidge Corner - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.342387,-71.121007,,,https://www.mbta.com/stops/place-cool,,0,place-cool,1,Brookline,,,3
+9070220,9070220,Coolidge Corner,Coolidge Corner - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.341820,-71.121669,,,https://www.mbta.com/stops/place-cool,,0,place-cool,1,Brookline,,,3
 place-crtst,,Courthouse,,,,42.352450,-71.046850,,"Seaport Blvd and Pittsburg St, Boston, MA",https://www.mbta.com/stops/place-crtst,,1,,1,Boston,,,
 74612,74612,Courthouse,Courthouse - Silver Line - Airport/Design Center/Chelsea,,Airport/Design Center/Chelsea,42.352450,-71.046850,,,https://www.mbta.com/stops/place-crtst,level_-2_platform,0,place-crtst,1,Boston,,,3
 74616,74616,Courthouse,Courthouse - Silver Line - South Station,,South Station,42.352450,-71.046850,,,https://www.mbta.com/stops/place-crtst,level_-2_platform,0,place-crtst,1,Boston,,,3
@@ -8560,6 +8569,8 @@ node-davis-holland-lobby,,Davis,Davis - Bottom of stairs for Holland Street,,,,,
 place-denrd,,Dean Road,,,,42.337807,-71.141853,,"Beacon St and Dean Rd, Brookline, MA",https://www.mbta.com/stops/place-denrd,,1,,2,Brookline,,,
 70233,70233,Dean Road,Dean Road - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.337807,-71.141753,,,https://www.mbta.com/stops/place-denrd,level_median,0,place-denrd,2,Brookline,,,0
 70234,70234,Dean Road,Dean Road - Green Line - Park Street & North,,Park Street & North,42.337628,-71.142309,,,https://www.mbta.com/stops/place-denrd,level_median,0,place-denrd,2,Brookline,,,0
+9070233,9070233,Dean Road,Dean Road - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.338027,-71.141682,,,https://www.mbta.com/stops/place-denrd,,0,place-denrd,1,Brookline,,,3
+9070234,9070234,Dean Road,Dean Road - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.337512,-71.142381,,,https://www.mbta.com/stops/place-denrd,,0,place-denrd,1,Brookline,,,3
 place-dudly,,Dudley Square,,,,42.329544,-71.083982,,"Washington St and Dudley St, Roxbury, MA",https://www.mbta.com/stops/place-dudly,,1,,1,Boston,,,
 64,64,Dudley Square,,,,42.329789,-71.083887,,,https://www.mbta.com/stops/place-dudly,,0,place-dudly,1,Boston,Busway,Washington Street,3
 64000,64000,Dudley Square,,,,42.329544,-71.083982,,,https://www.mbta.com/stops/place-dudly,,0,place-dudly,1,Boston,Busway,,3
@@ -8578,6 +8589,71 @@ door-dwnxg-summer,,"Downtown Crossing - Washington St, Summer St","Downtown Cros
 door-dwnxg-summereast,,"Downtown Crossing - Summer St, Washington St","Downtown Crossing - Summer St, Washington St",,,42.355369,-71.060192,,,,level_in_street,2,place-dwnxg,2,Boston,,,
 door-dwnxg-temple,,"Downtown Crossing - Temple Place, Lafaytette Place","Downtown Crossing - Temple Place, Lafaytette Place",,,42.354877,-71.061547,,,,level_in_street,2,place-dwnxg,2,Boston,,,
 door-dwnxg-winter,,"Downtown Crossing - Washington St, Winter St","Downtown Crossing - Washington St, Winter St",,,42.355362,-71.060720,,,,level_in_street,2,place-dwnxg,1,Boston,,,
+node-112-platform,,Downtown Crossing,Downtown Crossing - Bottom of escalator from Ashmont/Braintree platform to Chauncy Street,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-113-platform,,Downtown Crossing,Downtown Crossing - Bottom of escalator from Alewife platform to Hawley Street,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-331-ol,,Downtown Crossing,Downtown Crossing - Top of escalator from Ashmont/Braintree platform to Oak Grove platform,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-331-rl,,Downtown Crossing,Downtown Crossing - Bottom of escalator from Ashmont/Braintree platform to Oak Grove platform,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-332-ol,,Downtown Crossing,Downtown Crossing - Top of escalator from Alewife platform to Oak Grove platform,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-332-rl,,Downtown Crossing,Downtown Crossing - Bottom of escalator from Alewife platform to Oak Grove platform,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-364-lobby,,Downtown Crossing,Downtown Crossing - Bottom of escalator from Franklin Street lobby to street,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-365-middle,,Downtown Crossing,"Downtown Crossing - Bottom of escalator from Washington Street, Winter Street mezzanine to street",,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-869-lobby,,Downtown Crossing,Downtown Crossing - Top of elevator between Alewife platform and Chauncy Street lobby,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-869-platform,,Downtown Crossing,Downtown Crossing - Bottom of elevator between Alewife platform and Chauncy Street lobby,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-870-lobby,,Downtown Crossing,Downtown Crossing - Top of elevator between Ashmont/Braintree platform and Chauncy Street lobby,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-870-platform,,Downtown Crossing,Downtown Crossing - Bottom of elevator between Ashmont/Braintree platform and Chauncy Street lobby,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-891-lobby,,Downtown Crossing,Downtown Crossing - Bottom of elevator between Franklin Street lobby and street,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-892-lobby,,Downtown Crossing,"Downtown Crossing - Bottom of elevator between Washington Street, Winter Street lobby and street",,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-998-ol,,Downtown Crossing,Downtown Crossing - Top of elevator between Alewife platform and Oak Grove platform,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-998-rl,,Downtown Crossing,Downtown Crossing - Bottom of elevator between Alewife platform and Oak Grove platform,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-999-ol,,Downtown Crossing,Downtown Crossing - Top of elevator between Alewife platform and Oak Grove platform,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-999-rl,,Downtown Crossing,Downtown Crossing - Bottom of elevator between Alewife platform and Oak Grove platform,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-112fare-paid,,Downtown Crossing,Downtown Crossing - Paid side of exit-only gate,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-112fare-unpaid,,Downtown Crossing,Downtown Crossing - Unpaid side of exit-only gate,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-113fare-paid,,Downtown Crossing,Downtown Crossing - Paid side of exit-only gate,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-113fare-unpaid,,Downtown Crossing,Downtown Crossing - Unpaid side of exit-only gate,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-concourse,,Downtown Crossing,Downtown Crossing - Downtown Crossing end of Winter Street Concourse,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-frnkfare-paid,,Downtown Crossing,Downtown Crossing - Paid side of fare gates,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-frnkfare-unpaid,,Downtown Crossing,Downtown Crossing - Unpaid side of fare gates,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-macysramp-lobby,,Downtown Crossing,Downtown Crossing - Bottom of ramp between Macy's and Summer Street Concourse,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-macysstairs-lobby,,Downtown Crossing,Downtown Crossing - Bottom of stairs between Macy's and Summer Street Concourse,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-nbsumexitfare-paid,,Downtown Crossing,Downtown Crossing - Top of exit-only stairs from Alewife platform to Summer Street Concourse,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-nbsumexitfare-unpaid,,Downtown Crossing,Downtown Crossing - Outside of exit-only doors from Alewife platform,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-sbsumexitfare-paid,,Downtown Crossing,Downtown Crossing - Top of exit-only stairs from Ashmont/Braintree platform to Summer Street Concourse,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-sbsumexitfare-unpaid,,Downtown Crossing,Downtown Crossing - Outside of exit-only doors from Ashmont/Braintree platform,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair1-ol,,Downtown Crossing,Downtown Crossing - Top of stairs between Forest Hills platform and Alewife platform,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair1-rl,,Downtown Crossing,Downtown Crossing - Bottom of stairs between Forest Hills platform and Alewife platform,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair10-lobby,,Downtown Crossing,"Downtown Crossing - Bottom of stairs between Washington Street, Winter Street lobby and mezzanine",,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair10-middle,,Downtown Crossing,"Downtown Crossing - Top of stairs between Washington Street, Winter Street lobby and mezzanine",,,,,,,,level_-0.5_landing,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair11-lobby,,Downtown Crossing,Downtown Crossing - Bottom of exit-only stairs from Oak Grove platform,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair11-middle,,Downtown Crossing,Downtown Crossing - Top of exit-only stairs from Oak Grove platform,,,,,,,,level_-0.5_landing,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair12-middle,,Downtown Crossing,"Downtown Crossing - Bottom of stairs between Washington Street, Winter Street mezzanine and street",,,,,,,,level_-0.5_landing,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair13-lobby,,Downtown Crossing,Downtown Crossing - Bottom of stairs between Temple Place lobby and street,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair14-lobby,,Downtown Crossing,Downtown Crossing - Bottom of stairs between lobby and Washington Street at Summer Street,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair15-lobby,,Downtown Crossing,Downtown Crossing - Bottom of stairs between lobby and Summer Street at Washington Street,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair16-lobby,,Downtown Crossing,Downtown Crossing - Bottom of stairs between Chauncy Street lobby and street,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair2-ol,,Downtown Crossing,Downtown Crossing - Top of stairs between Oak Grove platform and Alewife platform,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair2-rl,,Downtown Crossing,Downtown Crossing - Bottom of stairs between Oak Grove platform and Alewife platform,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair3-platform,,Downtown Crossing,Downtown Crossing - Bottom of exit-only stairs from Alewife platform to Summer Street Concourse,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair4-lobby,,Downtown Crossing,Downtown Crossing - Top of stairs between Alewife platform and Chauncy Street lobby,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair4-platform,,Downtown Crossing,Downtown Crossing - Bottom of stairs between Alewife platform and Chauncy Street lobby,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair5-lobby,,Downtown Crossing,Downtown Crossing - Top of stairs between Ashmont/Braintree platform and Chauncy Street lobby,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair5-platform,,Downtown Crossing,Downtown Crossing - Bottom of stairs between Ashmont/Braintree platform and Chauncy Street lobby,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair6-platform,,Downtown Crossing,Downtown Crossing - Bottom of exit-only stairs from Ashmont/Braintree platform to Summer Street Concourse,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair7-ol,,Downtown Crossing,Downtown Crossing - Top of stairs between Oak Grove platform and Ashmont/Braintree platform,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair7-rl,,Downtown Crossing,Downtown Crossing - Bottom of stairs between Oak Grove platform and Ashmont/Braintree platform,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair8-ol,,Downtown Crossing,Downtown Crossing - Top of stairs between Forest Hills platform and Ashmont/Braintree platform,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair8-rl,,Downtown Crossing,Downtown Crossing - Bottom of stairs between Forest Hills platform and Ashmont/Braintree platform,,,,,,,,level_-2_red_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-stair9-lobby,,Downtown Crossing,Downtown Crossing - Bottom of stairs between Franklin Street lobby and street,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-sumchyfare-paid,,Downtown Crossing,Downtown Crossing - Paid side of fare gates,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-sumchyfare-unpaid,,Downtown Crossing,Downtown Crossing - Unpaid side of fare gates,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-sumwashfare-paid,,Downtown Crossing,Downtown Crossing - Paid side of fare gates,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-sumwashfare-unpaid,,Downtown Crossing,Downtown Crossing - Unpaid side of fare gates,,,,,,,,level_-1_concourse,3,place-dwnxg,1,Boston,,,
+node-dwnxg-templefare-paid,,Downtown Crossing,Downtown Crossing - Paid side of fare gates,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-templefare-unpaid,,Downtown Crossing,Downtown Crossing - Unpaid side of fare gates,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-wintexitfare-paid,,Downtown Crossing,Downtown Crossing - Paid side of exit-only gate,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-wintexitfare-unpaid,,Downtown Crossing,Downtown Crossing - Unpaid side of exit-only gate,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-wintwashfare-paid,,Downtown Crossing,Downtown Crossing - Paid side of fare gates,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
+node-dwnxg-wintwashfare-unpaid,,Downtown Crossing,Downtown Crossing - Unpaid side of fare gates,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
 place-eliot,,Eliot,,,,42.319023,-71.216713,,"248 Lincoln St, Newton, MA 02461",https://www.mbta.com/stops/place-eliot,,1,,2,Newton,,,
 70166,70166,Eliot,Eliot - Green Line - Park Street & North,,Park Street & North,42.318957,-71.216776,,,https://www.mbta.com/stops/place-eliot,level_ground,0,place-eliot,2,Newton,,,0
 70167,70167,Eliot,Eliot - Green Line - (D) Riverside,,Riverside,42.319024,-71.216711,,,https://www.mbta.com/stops/place-eliot,level_ground,0,place-eliot,2,Newton,,,0
@@ -8589,12 +8665,16 @@ door-eliot-meredith,,Eliot - Meredith Ave,Eliot - Meredith Ave,,,42.319024,-71.2
 place-engav,,Englewood Avenue,,,,42.336971,-71.145660,,"Beacon St and Englewood Ave, Brookline, MA",https://www.mbta.com/stops/place-engav,,1,,2,Brookline,,,
 70235,70235,Englewood Avenue,Englewood Avenue - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.336964,-71.145867,,,https://www.mbta.com/stops/place-engav,level_median,0,place-engav,2,Brookline,,,0
 70236,70236,Englewood Avenue,Englewood Avenue - Green Line - Park Street & North,,Park Street & North,42.337011,-71.145368,,,https://www.mbta.com/stops/place-engav,level_median,0,place-engav,2,Brookline,,,0
+9070235,9070235,Englewood Avenue,Englewood Avenue - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.337270,-71.145528,,,https://www.mbta.com/stops/place-engav,,0,place-engav,1,Brookline,,,3
+9070236,9070236,Englewood Avenue,Englewood Avenue - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.336781,-71.145835,,,https://www.mbta.com/stops/place-engav,,0,place-engav,1,Brookline,,,3
 place-estav,,Eastern Avenue,,,,42.388374,-71.023859,,,https://www.mbta.com/stops/place-estav,,1,,1,Chelsea,,,
 74636,74636,Eastern Avenue,Eastern Avenue - Silver Line - SL3 South Station,,South Station,42.388403,-71.024090,,,https://www.mbta.com/stops/place-estav,level_ground,0,place-estav,1,Chelsea,Chelsea Busway,Central Avenue,3
 74637,74637,Eastern Avenue,Eastern Avenue - Silver Line - SL3 Chelsea,,Chelsea,42.388476,-71.023829,,,https://www.mbta.com/stops/place-estav,level_ground,0,place-estav,1,Chelsea,Chelsea Busway,Central Avenue,3
 place-fbkst,,Fairbanks Street,,,,42.339725,-71.131073,,"Beacon St and Fairbanks Ave, Brookline, MA",https://www.mbta.com/stops/place-fbkst,,1,,2,Brookline,,,
 70227,70227,Fairbanks Street,Fairbanks Street - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.339690,-71.131228,,,https://www.mbta.com/stops/place-fbkst,level_median,0,place-fbkst,2,Brookline,,,0
 70228,70228,Fairbanks Street,Fairbanks Street - Green Line - Park Street & North,,Park Street & North,42.339644,-71.131078,,,https://www.mbta.com/stops/place-fbkst,level_median,0,place-fbkst,2,Brookline,,,0
+9070227,9070227,Fairbanks Street,Fairbanks Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.339949,-71.130696,,,https://www.mbta.com/stops/place-fbkst,,0,place-fbkst,1,Brookline,,,3
+9070228,9070228,Fairbanks Street,Fairbanks Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.339390,-71.131766,,,https://www.mbta.com/stops/place-fbkst,,0,place-fbkst,1,Brookline,,,3
 place-fenwd,,Fenwood Road,,,,42.333706,-71.105728,,"Huntington Ave and Fenwood Rd, Boston, MA",https://www.mbta.com/stops/place-fenwd,,1,,2,Boston,,,
 70251,70251,Fenwood Road,Fenwood Road - Green Line - (E) Heath Street,,Heath Street,42.333740,-71.105721,,,https://www.mbta.com/stops/place-fenwd,level_in_street,0,place-fenwd,2,Boston,,,0
 70252,70252,Fenwood Road,Fenwood Road - Green Line - Park Street & North,,Park Street & North,42.333706,-71.105583,,,https://www.mbta.com/stops/place-fenwd,level_in_street,0,place-fenwd,2,Boston,,,0
@@ -8818,6 +8898,8 @@ place-hsmnl,,Heath Street,,,,42.328316,-71.110252,,"Heath St and South Huntingto
 place-hwsst,,Hawes Street,,,,42.344906,-71.111145,,"Beacon St and Hawes St, Brookline, MA",https://www.mbta.com/stops/place-hwsst,,1,,2,Brookline,,,
 70213,70213,Hawes Street,Hawes Street - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.344758,-71.111761,,,https://www.mbta.com/stops/place-hwsst,level_median,0,place-hwsst,2,Brookline,,,0
 70214,70214,Hawes Street,Hawes Street - Green Line - Park Street & North,,Park Street & North,42.344867,-71.111157,,,https://www.mbta.com/stops/place-hwsst,level_median,0,place-hwsst,2,Brookline,,,0
+9070213,9070213,Hawes Street,Hawes Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.344981,-71.111707,,,https://www.mbta.com/stops/place-hwsst,,0,place-hwsst,1,Brookline,,,3
+9070214,9070214,Hawes Street,Hawes Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.344692,-71.111353,,,https://www.mbta.com/stops/place-hwsst,,0,place-hwsst,1,Brookline,,,3
 place-hymnl,,Hynes Convention Center,,,,42.347888,-71.087903,,"100 Massachusetts Ave, Boston, MA",https://www.mbta.com/stops/place-hymnl,,1,,2,Boston,,,
 70152,70152,Hynes Convention Center,Hynes Convention Center - Green Line - Park Street & North,,Park Street & North,42.347888,-71.087903,,,https://www.mbta.com/stops/place-hymnl,level_-2_platform,0,place-hymnl,2,Boston,,,0
 70153,70153,Hynes Convention Center,Hynes Convention Center - Green Line - Kenmore & West,,Kenmore & West,42.347888,-71.087903,,,https://www.mbta.com/stops/place-hymnl,level_-2_platform,0,place-hymnl,2,Boston,,,0
@@ -8974,9 +9056,12 @@ node-knncl-sbsec-fareunpaid,,Kendall/MIT,Kendall/MIT - Unpaid side of fare gates
 place-kntst,,Kent Street,,,,42.344074,-71.114197,,"Beacon St and Powell St, Brookline, MA",https://www.mbta.com/stops/place-kntst,,1,,2,Brookline,,,
 70215,70215,Kent Street,Kent Street - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.344117,-71.114097,,,https://www.mbta.com/stops/place-kntst,level_median,0,place-kntst,2,Brookline,,,0
 70216,70216,Kent Street,Kent Street - Green Line - Park Street & North,,Park Street & North,42.343927,-71.114569,,,https://www.mbta.com/stops/place-kntst,level_median,0,place-kntst,2,Brookline,,,0
+9070215,9070215,Kent Street,Kent Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.344407,-71.113860,,,https://www.mbta.com/stops/place-kntst,,0,place-kntst,1,Brookline,,,3
+9070216,9070216,Kent Street,Kent Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.344069,-71.113664,,,https://www.mbta.com/stops/place-kntst,,0,place-kntst,1,Brookline,,,3
 place-lake,,Boston College,,,,42.340081,-71.166769,,"Commonwealth Ave and Lake St, Boston, MA 02135",https://www.mbta.com/stops/place-lake,,1,,1,Boston,,,
 70106,70106,Boston College,Boston College - Green Line - Park Street & North,,Park Street & North,42.340149,-71.167029,,,https://www.mbta.com/stops/place-lake,level_ground,0,place-lake,1,Boston,,,0
 70107,70107,Boston College,Boston College - Green Line - Exit Only,,Exit Only,42.340240,-71.166849,,,https://www.mbta.com/stops/place-lake,level_ground,0,place-lake,1,Boston,,,0
+9070107,9070107,Boston College,Boston College - Green Line Shuttle,,Green Line Shuttle,42.340070,-71.166492,,,https://www.mbta.com/stops/place-lake,,0,place-lake,1,Boston,,,3
 place-lech,,Lechmere,,,,42.370772,-71.076536,,"Cambridge St and O'Brien Hwy, Cambridge, MA 02141",https://www.mbta.com/stops/place-lech,,1,,1,Cambridge,,,
 14150,14150,Lechmere,Lechmere - Busway,,Busway,42.371019,-71.077039,,,https://www.mbta.com/stops/place-lech,level_ground,0,place-lech,0,Cambridge,Busway,,3
 70209,70209,Lechmere,Lechmere - Green Line - Exit Only,,Exit Only,42.370952,-71.077007,,,https://www.mbta.com/stops/place-lech,level_ground,0,place-lech,1,Cambridge,,,0
@@ -9155,7 +9240,6 @@ place-nqncy,,North Quincy,,,,42.275275,-71.029583,,"Hancock St and Hunt St, Quin
 3125,3125,North Quincy,North Quincy - Busway,,Busway,42.275585,-71.028752,,,https://www.mbta.com/stops/place-nqncy,level_0.5_ground,0,place-nqncy,1,Quincy,Busway,West Squantum Street,3
 70097,70097,North Quincy,North Quincy - Red Line - Braintree,2,Braintree,42.275275,-71.029583,,,https://www.mbta.com/stops/place-nqncy,level_0_platform,0,place-nqncy,1,Quincy,,,1
 70098,70098,North Quincy,North Quincy - Red Line - Alewife,1,Alewife,42.275275,-71.029583,,,https://www.mbta.com/stops/place-nqncy,level_0_platform,0,place-nqncy,1,Quincy,,,1
-9070098,9070098,North Quincy,North Quincy - Red Line Shuttle,,Red Line Shuttle,42.276824,-71.030448,,,https://www.mbta.com/stops/place-nqncy,,0,place-nqncy,1,Quincy,,,3
 door-nqncy-hancock,,North Quincy - Hancock St,North Quincy - Hancock St,,,42.276631,-71.030922,,,,level_ground,2,place-nqncy,1,Quincy,,,
 door-nqncy-newport,,North Quincy - Newport Ave Extension,North Quincy - Newport Ave Extension,,,42.276483,-71.031184,,,,level_ground,2,place-nqncy,1,Quincy,,,
 door-nqncy-squantum,,North Quincy - West Squantum St,North Quincy - West Squantum St,,,42.275210,-71.029243,,,,level_1_ground,2,place-nqncy,1,Quincy,,,
@@ -9540,6 +9624,8 @@ node-shmnl-sydstair-lobby,,Savin Hill,Savin Hill - Top of stairs between Sydney 
 place-smary,,Saint Marys Street,,,,42.345974,-71.107353,,"Beacon St and Saint Mary's St, Boston, MA",https://www.mbta.com/stops/place-smary,,1,,1,Brookline,,,
 70211,70211,Saint Marys Street,Saint Marys Street - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.345884,-71.107697,,,https://www.mbta.com/stops/place-smary,level_median,0,place-smary,1,Brookline,,,0
 70212,70212,Saint Marys Street,Saint Marys Street - Green Line - Park Street & North,,Park Street & North,42.346007,-71.107166,,,https://www.mbta.com/stops/place-smary,level_median,0,place-smary,1,Brookline,,,0
+9070211,9070211,St Marys St,St Marys St - Green Line Westbound Shuttle,,Westbound Shuttle,42.346095,-71.107571,,,https://www.mbta.com/stops/place-smary,,0,place-smary,1,Brookline,,,3
+9070212,9070212,St Marys St,St Marys St - Green Line Kenmore Shuttle,,Kenmore Shuttle,42.345892,-71.107009,,,https://www.mbta.com/stops/place-smary,,0,place-smary,1,Brookline,,,3
 place-smmnl,,Shawmut,,,,42.293126,-71.065738,,"Dayton St and Clementine Park, Dorchester, MA 02124",https://www.mbta.com/stops/place-smmnl,,1,,1,Boston,,,
 70091,70091,Shawmut,Shawmut - Red Line - Ashmont,,Ashmont,42.293126,-71.065738,,,https://www.mbta.com/stops/place-smmnl,level_-1_platform,0,place-smmnl,1,Boston,,,1
 70092,70092,Shawmut,Shawmut - Red Line - Alewife,,Alewife,42.293126,-71.065738,,,https://www.mbta.com/stops/place-smmnl,level_-1_platform,0,place-smmnl,1,Boston,,,1
@@ -9557,6 +9643,8 @@ node-smmnl-sbstairs-platform,,Shawmut,Shawmut - Bottom of Ashmont stairs,,,,,,,,
 place-sougr,,South Street,,,,42.339600,-71.157661,,,https://www.mbta.com/stops/place-sougr,,1,,2,Boston,,,
 70110,70110,South Street,South Street - Green Line - Park Street & North,,Park Street & North,42.339371,-71.157057,,,https://www.mbta.com/stops/place-sougr,level_median,0,place-sougr,2,Boston,,,0
 70111,70111,South Street,South Street - Green Line - (B) Boston College,,Boston College,42.339581,-71.157499,,,https://www.mbta.com/stops/place-sougr,level_median,0,place-sougr,2,Boston,,,0
+9070110,9070110,South Street,South Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.339278,-71.157041,,,https://www.mbta.com/stops/place-sougr,,0,place-sougr,1,Boston,,,3
+9070111,9070111,South Street,South Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.339669,-71.157486,,,https://www.mbta.com/stops/place-sougr,,0,place-sougr,1,Boston,,,3
 place-spmnl,,Science Park,,,,42.366664,-71.067666,,"Leverett Circle and Nashua St, Boston, MA 02114",https://www.mbta.com/stops/place-spmnl,,1,,1,Boston,,,
 70207,70207,Science Park,Science Park - Green Line - Lechmere,,Lechmere,42.366664,-71.067666,,,https://www.mbta.com/stops/place-spmnl,level_2_platform,0,place-spmnl,1,Boston,,,0
 70208,70208,Science Park,Science Park - Green Line - Copley & West,,Copley & West,42.366664,-71.067666,,,https://www.mbta.com/stops/place-spmnl,level_2_platform,0,place-spmnl,1,Boston,,,0
@@ -9712,12 +9800,16 @@ door-state-water,,"State - Devonshire St, Water St","State - Devonshire St, Wate
 place-sthld,,Sutherland Road,,,,42.341614,-71.146202,,"Commonwealth Ave and Sutherland Rd, Boston, MA",https://www.mbta.com/stops/place-sthld,,1,,2,Boston,,,
 70116,70116,Sutherland Road,Sutherland Road - Green Line - Park Street & North,,Park Street & North,42.341589,-71.146089,,,https://www.mbta.com/stops/place-sthld,level_median,0,place-sthld,2,Boston,,,0
 70117,70117,Sutherland Road,Sutherland Road - Green Line - (B) Boston College,,Boston College,42.341577,-71.146607,,,https://www.mbta.com/stops/place-sthld,level_median,0,place-sthld,2,Boston,,,0
+9070116,9070116,Sutherland Road,Sutherland Road - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.341536,-71.145947,,,https://www.mbta.com/stops/place-sthld,,0,place-sthld,1,Boston,,,3
+9070117,9070117,Sutherland Road,Sutherland Road - Green Line Westbound Shuttle,,Boston College Shuttle,42.341661,-71.146714,,,https://www.mbta.com/stops/place-sthld,,0,place-sthld,1,Boston,,,3
 place-stplb,,Saint Paul Street,,,,42.351200,-71.116104,,"Commonwealth Ave and Saint Paul St, Boston, MA 02215",https://www.mbta.com/stops/place-stplb,,1,,2,Boston,,,
 70140,70140,Saint Paul Street,Saint Paul Street - Green Line - Park Street & North,,Park Street & North,42.351110,-71.116014,,,https://www.mbta.com/stops/place-stplb,level_median,0,place-stplb,2,Boston,,,0
 70141,70141,Saint Paul Street,Saint Paul Street - Green Line - (B) Boston College,,Boston College,42.351241,-71.116531,,,https://www.mbta.com/stops/place-stplb,level_median,0,place-stplb,2,Boston,,,0
 place-stpul,,Saint Paul Street,,,,42.343327,-71.116997,,"Beacon St and Saint Paul St, Brookline, MA 02446",https://www.mbta.com/stops/place-stpul,,1,,2,Brookline,,,
 70217,70217,Saint Paul Street,Saint Paul Street - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.343340,-71.116927,,,https://www.mbta.com/stops/place-stpul,level_median,0,place-stpul,2,Brookline,,,0
 70218,70218,Saint Paul Street,Saint Paul Street - Green Line - Park Street & North,,Park Street & North,42.343118,-71.117498,,,https://www.mbta.com/stops/place-stpul,level_median,0,place-stpul,2,Brookline,,,0
+9070217,9070217,Saint Paul Street,Saint Paul Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.343636,-71.116713,,,https://www.mbta.com/stops/place-stpul,,0,place-stpul,1,Brookline,,,3
+9070218,9070218,Saint Paul Street,Saint Paul Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.342952,-71.117604,,,https://www.mbta.com/stops/place-stpul,,0,place-stpul,1,Brookline,,,3
 place-sull,,Sullivan Square,,,,42.383975,-71.076994,,"Maffa Way and Cambridge St, Charlestown, MA 02129",https://www.mbta.com/stops/place-sull,,1,,1,Boston,,,
 2874,2874,Sullivan Square,Sullivan Square - Busway,,Busway,42.384129,-71.076515,,,https://www.mbta.com/stops/place-sull,level_ground,0,place-sull,0,Boston,,,
 28741,28741,Sullivan Square,Sullivan Square - Busway,,Busway,42.384127,-71.076323,,,https://www.mbta.com/stops/place-sull,level_-1_ground,0,place-sull,0,Boston,,,
@@ -9759,6 +9851,8 @@ node-sull-sbstairs-platform,,Sullivan Square,"Sullivan Square - Bottom of stairs
 place-sumav,,Summit Avenue,,,,42.341110,-71.125610,,"Beacon St and Summit Ave, Brookline, MA",https://www.mbta.com/stops/place-sumav,,1,,2,Brookline,,,
 70223,70223,Summit Avenue,Summit Avenue - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.341120,-71.125652,,,https://www.mbta.com/stops/place-sumav,level_median,0,place-sumav,2,Brookline,,,0
 70224,70224,Summit Avenue,Summit Avenue - Green Line - Park Street & North,,Park Street & North,42.341027,-71.125759,,,https://www.mbta.com/stops/place-sumav,level_median,0,place-sumav,2,Brookline,,,0
+9070223,9070223,Summit Avenue,Summit Avenue - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.341280,-71.125503,,,https://www.mbta.com/stops/place-sumav,,0,place-sumav,1,Brookline,,,3
+9070224,9070224,Summit Avenue,Summit Avenue - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.340622,-71.126198,,,https://www.mbta.com/stops/place-sumav,,0,place-sumav,1,Brookline,,,3
 place-symcl,,Symphony,,,,42.342687,-71.085056,,"Massachusetts Ave and Huntington Ave, Boston, MA",https://www.mbta.com/stops/place-symcl,,1,,2,Boston,,,
 70241,70241,Symphony,Symphony - Green Line - (E) Heath Street,,Heath Street,42.342687,-71.085056,,,https://www.mbta.com/stops/place-symcl,level_-1_platform,0,place-symcl,2,Boston,,,0
 70242,70242,Symphony,Symphony - Green Line - Park Street & North,,Park Street & North,42.342687,-71.085056,,,https://www.mbta.com/stops/place-symcl,level_-1_platform,0,place-symcl,2,Boston,,,0
@@ -9789,6 +9883,8 @@ node-symcl-weststair-platform,,Symphony,"Symphony - Bottom of stairs for Westlan
 place-tapst,,Tappan Street,,,,42.338459,-71.138702,,"Beacon St and Tappan St, Brookline, MA",https://www.mbta.com/stops/place-tapst,,1,,2,Brookline,,,
 70231,70231,Tappan Street,Tappan Street - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.338498,-71.138731,,,https://www.mbta.com/stops/place-tapst,level_median,0,place-tapst,2,Brookline,,,0
 70232,70232,Tappan Street,Tappan Street - Green Line - Park Street & North,,Park Street & North,42.338567,-71.138190,,,https://www.mbta.com/stops/place-tapst,level_median,0,place-tapst,2,Brookline,,,0
+9070231,9070231,Tappan Street,Tappan Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.338794,-71.138504,,,https://www.mbta.com/stops/place-tapst,,0,place-tapst,1,Brookline,,,3
+9070232,9070232,Tappan Street,Tappan Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.338364,-71.138541,,,https://www.mbta.com/stops/place-tapst,,0,place-tapst,1,Brookline,,,3
 place-tumnl,,Tufts Medical Center,,,,42.349662,-71.063917,,"750 Washington St, Boston, MA",https://www.mbta.com/stops/place-tumnl,,1,,1,Boston,,,
 49002,49002,Tufts Medical Center,Tufts Medical Center - Silver Line - Dudley,,Dudley,42.349908,-71.063684,,,https://www.mbta.com/stops/place-tumnl,level_in_street,0,place-tumnl,1,Boston,Washington Street,,3
 6565,6565,Washington St @ Tufts Med Ctr,,,,42.349970,-71.063413,,,https://www.mbta.com/stops/place-tumnl,,0,place-tumnl,0,Boston,Washington Street,Kneeland Street,3
