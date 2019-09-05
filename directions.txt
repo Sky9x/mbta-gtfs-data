@@ -88,7 +88,7 @@ Boat-F1,1,Inbound,Long Wharf
 15,0,Outbound,Kane Square
 15,1,Inbound,Ruggles
 16,0,Outbound,Forest Hills
-16,1,Inbound,Andrew or UMass
+16,1,Inbound,Andrew or Harbor Point
 17,0,Outbound,Fields Corner
 17,1,Inbound,Andrew
 18,0,Outbound,Ashmont
@@ -230,16 +230,16 @@ Boat-F1,1,Inbound,Long Wharf
 8993,0,Outbound,Clarendon Hill
 8993,1,Inbound,Haymarket
 90,0,Outbound,Davis
-90,1,Inbound,Wellington
+90,1,Inbound,Assembly
 91,0,Outbound,Sullivan
 91,1,Inbound,"Central Square, Cambridge"
-92,0,Outbound,Assembly
+92,0,Outbound,Sullivan
 92,1,Inbound,Downtown Boston
 93,0,Outbound,Sullivan
 93,1,Inbound,Downtown Boston
 94,0,Outbound,Medford Square
 94,1,Inbound,Davis
-95,0,Outbound,West Medford
+95,0,Outbound,West Medford or Arlington Center
 95,1,Inbound,Sullivan
 96,0,Outbound,Medford Square
 96,1,Inbound,Harvard
@@ -263,7 +263,7 @@ Boat-F1,1,Inbound,Long Wharf
 109,1,Inbound,Sullivan
 110,0,Outbound,Wonderland
 110,1,Inbound,Wellington
-111,0,Outbound,"Everett, Revere, or Chelsea"
+111,0,Outbound,Woodlawn
 111,1,Inbound,Haymarket
 112,0,Outbound,Wellington
 112,1,Inbound,Wood Island
@@ -278,7 +278,7 @@ Boat-F1,1,Inbound,Long Wharf
 119,0,Outbound,Northgate Shopping Center
 119,1,Inbound,Beachmont
 120,0,Outbound,Orient Heights
-120,1,Inbound,Maverick
+120,1,Inbound,Jeffries Point
 121,0,Outbound,Wood Island
 121,1,Inbound,Maverick
 131,0,Outbound,Melrose Highlands
@@ -347,10 +347,10 @@ Boat-F1,1,Inbound,Long Wharf
 352,1,Inbound,Downtown Boston
 354,0,Outbound,Burlington
 354,1,Inbound,Downtown Boston
-411,0,Outbound,"Jack Satter House, Revere"
+411,0,Outbound,Kennedy Drive or Jack Satter House
 411,1,Inbound,Malden Center
 424,0,Outbound,Eastern Avenue & Essex Street
-424,1,Inbound,Haymarket or Wonderland
+424,1,Inbound,Wonderland
 426,0,Outbound,"Central Square, Lynn"
 426,1,Inbound,Haymarket or Wonderland
 428,0,Outbound,Oaklandvale
@@ -467,6 +467,8 @@ Shuttle-ForestHillsRuggles,0,South,Forest Hills
 Shuttle-ForestHillsRuggles,1,North,Oak Grove
 Shuttle-ForgeParkReadville,0,Outbound,Forge Park/495
 Shuttle-ForgeParkReadville,1,Inbound,South Station
+Shuttle-ForgeParkSouthStation,0,Outbound,Forge Park/495
+Shuttle-ForgeParkSouthStation,1,Inbound,South Station
 Shuttle-FraminghamRiverside,0,Outbound,Worcester
 Shuttle-FraminghamRiverside,1,Inbound,South Station
 Shuttle-FraminghamWorcester,0,Outbound,"Southborough, Grafton, or Worcester"
