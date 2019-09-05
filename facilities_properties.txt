@@ -696,8 +696,6 @@ facility_id,property_id,value
 139,direction,up
 139,excludes-stop,187
 139,excludes-stop,188
-139,excludes-stop,9070012
-139,excludes-stop,9070013
 139,excludes-stop,door-masta-camden
 139,excludes-stop,door-masta-corridor
 139,excludes-stop,door-masta-main
@@ -3031,6 +3029,8 @@ facility_id,property_id,value
 378,excludes-stop,5810
 378,excludes-stop,5819
 378,excludes-stop,70056
+378,excludes-stop,9070055
+378,excludes-stop,9070056
 378,excludes-stop,node-378-lobby
 378,excludes-stop,node-378-platform
 378,excludes-stop,node-379-lobby
@@ -3049,6 +3049,8 @@ facility_id,property_id,value
 379,excludes-stop,5810
 379,excludes-stop,5819
 379,excludes-stop,70055
+379,excludes-stop,9070055
+379,excludes-stop,9070056
 379,excludes-stop,node-378-lobby
 379,excludes-stop,node-378-platform
 379,excludes-stop,node-379-lobby
@@ -8301,8 +8303,6 @@ facility_id,property_id,value
 852,alternate-service-text,"If exiting, exit the Orange Line at Back Bay and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Massachusetts Avenue to request assistance."
 852,excludes-stop,187
 852,excludes-stop,188
-852,excludes-stop,9070012
-852,excludes-stop,9070013
 852,excludes-stop,door-masta-camden
 852,excludes-stop,door-masta-corridor
 852,excludes-stop,door-masta-main
@@ -9234,11 +9234,15 @@ facility_id,property_id,value
 881,excludes-stop,node-sull-sbstairs-platform
 884,alternate-service-text,"If exiting, exit the Blue Line at Beachmont and switch to a Wonderland-bound train. Exit at Revere Beach using Revere Beach Elevator 885. If boarding, take Revere Beach Elevator 885 to Wonderland and switch to a Government Center-bound train."
 884,excludes-stop,70058
+884,excludes-stop,9070057
+884,excludes-stop,9070058
 884,excludes-stop,door-rbmnl-beach
 884,excludes-stop,door-rbmnl-ocean
 884,excludes-stop,door-rbmnl-shirley
 885,alternate-service-text,"If exiting, exit the Blue Line at Wonderland and switch to a Government Center-bound train. Exit at Revere Beach using Revere Beach Elevator 884. If boarding, take Revere Beach Elevator 884 to Beachmont and switch to a Wonderland-bound train."
 885,excludes-stop,70057
+885,excludes-stop,9070057
+885,excludes-stop,9070058
 885,excludes-stop,door-rbmnl-beach
 885,excludes-stop,door-rbmnl-ocean
 885,excludes-stop,door-rbmnl-shirley
@@ -9246,6 +9250,8 @@ facility_id,property_id,value
 886,excludes-stop,5810
 886,excludes-stop,5819
 886,excludes-stop,70056
+886,excludes-stop,9070055
+886,excludes-stop,9070056
 886,excludes-stop,node-378-lobby
 886,excludes-stop,node-378-platform
 886,excludes-stop,node-379-lobby
@@ -9264,6 +9270,8 @@ facility_id,property_id,value
 887,excludes-stop,5810
 887,excludes-stop,5819
 887,excludes-stop,70055
+887,excludes-stop,9070055
+887,excludes-stop,9070056
 887,excludes-stop,node-378-lobby
 887,excludes-stop,node-378-platform
 887,excludes-stop,node-379-lobby
@@ -18752,19 +18760,13 @@ portlift-mfa,excludes-stop,70245
 portlift-mfa,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newtn-0,excludes-stop,70169
 portlift-newtn-0,excludes-stop,9070168
-portlift-newtn-0,excludes-stop,9170168
-portlift-newtn-0,excludes-stop,9170169
 portlift-newtn-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newtn-1,excludes-stop,70168
 portlift-newtn-1,excludes-stop,9070168
-portlift-newtn-1,excludes-stop,9170168
-portlift-newtn-1,excludes-stop,9170169
 portlift-newtn-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newto,excludes-stop,70170
 portlift-newto,excludes-stop,9070170
 portlift-newto,excludes-stop,9070171
-portlift-newto,excludes-stop,9170170
-portlift-newto,excludes-stop,9170171
 portlift-newto,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-north-0,excludes-stop,113
 portlift-north-0,excludes-stop,114
@@ -18836,10 +18838,8 @@ portlift-smary,excludes-stop,9070211
 portlift-smary,excludes-stop,9070212
 portlift-smary,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-woodl-0,excludes-stop,70163
-portlift-woodl-0,excludes-stop,9070162
 portlift-woodl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-woodl-1,excludes-stop,70162
-portlift-woodl-1,excludes-stop,9070162
 portlift-woodl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 retailsale-302005,address,"781 Tremont St, Boston, MA 02118"
 retailsale-302005,contact-phone,617-536 2722
@@ -19766,8 +19766,6 @@ subplat-miltt-1,note,Mini high level platform is available to provide level boar
 subplat-newto,excludes-stop,70171
 subplat-newto,excludes-stop,9070170
 subplat-newto,excludes-stop,9070171
-subplat-newto,excludes-stop,9170170
-subplat-newto,excludes-stop,9170171
 subplat-newto,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-portr,excludes-stop,23151
 subplat-portr,excludes-stop,2430
