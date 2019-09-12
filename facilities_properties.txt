@@ -15964,6 +15964,7 @@ park-900,fee-daily,Mon-Fri: $2.50 | Sat-Sun: $2.50
 park-900,fee-monthly,$43.75
 park-900,municipality,Watertown
 park-900,operator,Republic Parking System
+park-900,overnight-allowed,no
 park-900,owner,MBTA
 park-900,payment-app,PayByPhone
 park-900,payment-app-id,4259
@@ -15983,6 +15984,7 @@ park-Boat-Hingham,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-Boat-Hingham,fee-monthly,$35
 park-Boat-Hingham,municipality,Hingham
 park-Boat-Hingham,operator,Republic Parking System
+park-Boat-Hingham,overnight-allowed,yes-except-snow
 park-Boat-Hingham,owner,MBTA
 park-Boat-Hingham,payment-app,PayByPhone
 park-Boat-Hingham,payment-app-id,4438
@@ -16013,6 +16015,7 @@ park-DB-0095,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-DB-0095,fee-monthly,$35
 park-DB-0095,municipality,Boston
 park-DB-0095,operator,Republic Parking System
+park-DB-0095,overnight-allowed,no
 park-DB-0095,owner,MBTA
 park-DB-0095,payment-app,PayByPhone
 park-DB-0095,payment-app-id,4377
@@ -16033,6 +16036,7 @@ park-DB-2205,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-DB-2205,fee-monthly,$70
 park-DB-2205,municipality,Boston
 park-DB-2205,operator,Republic Parking System
+park-DB-2205,overnight-allowed,no
 park-DB-2205,owner,MBTA
 park-DB-2205,payment-app,PayByPhone
 park-DB-2205,payment-app-id,4364
@@ -16073,6 +16077,7 @@ park-ER-0115-garage,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-ER-0115-garage,fee-monthly,$35
 park-ER-0115-garage,municipality,Lynn
 park-ER-0115-garage,operator,Republic Parking System
+park-ER-0115-garage,overnight-allowed,yes
 park-ER-0115-garage,owner,MBTA
 park-ER-0115-garage,payment-app,PayByPhone
 park-ER-0115-garage,payment-app-id,4237
@@ -16092,6 +16097,7 @@ park-ER-0128,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-ER-0128,fee-monthly,$105
 park-ER-0128,municipality,Swampscott
 park-ER-0128,operator,Republic Parking System
+park-ER-0128,overnight-allowed,no
 park-ER-0128,owner,MBTA
 park-ER-0128,payment-app,PayByPhone
 park-ER-0128,payment-app-id,4244
@@ -16113,6 +16119,7 @@ park-ER-0168-garage,fee-daily,"Mon-Fri: $5 | Sat-Sun: $2 (Prices are valid for u
 park-ER-0168-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-ER-0168-garage,municipality,Salem
 park-ER-0168-garage,operator,Republic Parking System
+park-ER-0168-garage,overnight-allowed,yes
 park-ER-0168-garage,owner,MBTA
 park-ER-0168-garage,payment-form-accepted,cash
 park-ER-0168-garage,payment-form-accepted,credit-debit-card
@@ -16129,6 +16136,7 @@ park-ER-0183-garage,fee-daily,"Mon-Fri: $2 | Sat-Sun: $2 (Prices are valid for u
 park-ER-0183-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-ER-0183-garage,municipality,Beverly
 park-ER-0183-garage,operator,Republic Parking System
+park-ER-0183-garage,overnight-allowed,yes
 park-ER-0183-garage,owner,MBTA
 park-ER-0183-garage,payment-form-accepted,cash
 park-ER-0183-garage,payment-form-accepted,credit-debit-card
@@ -16146,6 +16154,7 @@ park-ER-0208,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-ER-0208,fee-monthly,$70
 park-ER-0208,municipality,Beverly
 park-ER-0208,operator,Republic Parking System
+park-ER-0208,overnight-allowed,no
 park-ER-0208,owner,MBTA
 park-ER-0208,payment-app,PayByPhone
 park-ER-0208,payment-app-id,4240
@@ -16165,6 +16174,7 @@ park-ER-0227,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-ER-0227,fee-monthly,$70
 park-ER-0227,municipality,Hamilton
 park-ER-0227,operator,Republic Parking System
+park-ER-0227,overnight-allowed,no
 park-ER-0227,owner,MBTA
 park-ER-0227,payment-app,PayByPhone
 park-ER-0227,payment-app-id,4234
@@ -16196,6 +16206,7 @@ park-ER-0312,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-ER-0312,fee-monthly,$35
 park-ER-0312,municipality,Rowley
 park-ER-0312,operator,Republic Parking System
+park-ER-0312,overnight-allowed,no
 park-ER-0312,owner,MBTA
 park-ER-0312,payment-app,PayByPhone
 park-ER-0312,payment-app-id,4243
@@ -16215,6 +16226,7 @@ park-ER-0362,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-ER-0362,fee-monthly,$70
 park-ER-0362,municipality,Newburyport
 park-ER-0362,operator,Republic Parking System
+park-ER-0362,overnight-allowed,no
 park-ER-0362,owner,MBTA
 park-ER-0362,payment-app,PayByPhone
 park-ER-0362,payment-app-id,4239
@@ -16245,6 +16257,7 @@ park-FB-0118,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-FB-0118,fee-monthly,$35
 park-FB-0118,municipality,Dedham
 park-FB-0118,operator,Republic Parking System
+park-FB-0118,overnight-allowed,no
 park-FB-0118,owner,MBTA
 park-FB-0118,payment-app,PayByPhone
 park-FB-0118,payment-app-id,4363
@@ -16264,6 +16277,7 @@ park-FB-0125,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-FB-0125,fee-monthly,$70
 park-FB-0125,municipality,Westwood
 park-FB-0125,operator,Republic Parking System
+park-FB-0125,overnight-allowed,no
 park-FB-0125,owner,MBTA
 park-FB-0125,payment-app,PayByPhone
 park-FB-0125,payment-app-id,4370
@@ -16283,6 +16297,7 @@ park-FB-0143,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-FB-0143,fee-monthly,$35
 park-FB-0143,municipality,Norwood
 park-FB-0143,operator,Republic Parking System
+park-FB-0143,overnight-allowed,no
 park-FB-0143,owner,MBTA
 park-FB-0143,payment-app,PayByPhone
 park-FB-0143,payment-app-id,4376
@@ -16302,6 +16317,7 @@ park-FB-0148,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-FB-0148,fee-monthly,$70
 park-FB-0148,municipality,Norwood
 park-FB-0148,operator,Republic Parking System
+park-FB-0148,overnight-allowed,no
 park-FB-0148,owner,MBTA
 park-FB-0148,payment-app,PayByPhone
 park-FB-0148,payment-app-id,4375
@@ -16321,6 +16337,7 @@ park-FB-0191,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-FB-0191,fee-monthly,$70
 park-FB-0191,municipality,Walpole
 park-FB-0191,operator,Republic Parking System
+park-FB-0191,overnight-allowed,no
 park-FB-0191,owner,MBTA
 park-FB-0191,payment-app,PayByPhone
 park-FB-0191,payment-app-id,4382
@@ -16340,6 +16357,7 @@ park-FB-0230,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-FB-0230,fee-monthly,$70
 park-FB-0230,municipality,Norfolk
 park-FB-0230,operator,Republic Parking System
+park-FB-0230,overnight-allowed,no
 park-FB-0230,owner,MBTA
 park-FB-0230,payment-app,PayByPhone
 park-FB-0230,payment-app-id,4391
@@ -16359,6 +16377,7 @@ park-FB-0275,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-FB-0275,fee-monthly,$105
 park-FB-0275,municipality,Franklin
 park-FB-0275,operator,Republic Parking System
+park-FB-0275,overnight-allowed,no
 park-FB-0275,owner,MBTA
 park-FB-0275,payment-app,PayByPhone
 park-FB-0275,payment-app-id,4367
@@ -16379,6 +16398,7 @@ park-FB-0303,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-FB-0303,fee-monthly,$70
 park-FB-0303,municipality,Franklin
 park-FB-0303,operator,Republic Parking System
+park-FB-0303,overnight-allowed,no
 park-FB-0303,owner,MBTA
 park-FB-0303,payment-app,PayByPhone
 park-FB-0303,payment-app-id,4385
@@ -16458,6 +16478,7 @@ park-FR-0115,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-FR-0115,fee-monthly,$70
 park-FR-0115,municipality,Waltham
 park-FR-0115,operator,Republic Parking System
+park-FR-0115,overnight-allowed,no
 park-FR-0115,owner,MBTA
 park-FR-0115,payment-app,PayByPhone
 park-FR-0115,payment-app-id,4250
@@ -16555,6 +16576,7 @@ park-FR-0301,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-FR-0301,fee-monthly,$105
 park-FR-0301,municipality,Littleton
 park-FR-0301,operator,Republic Parking System
+park-FR-0301,overnight-allowed,no
 park-FR-0301,owner,MBTA
 park-FR-0301,payment-app,PayByPhone
 park-FR-0301,payment-app-id,4256
@@ -16642,6 +16664,7 @@ park-GB-0198,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-GB-0198,fee-monthly,$70
 park-GB-0198,municipality,Beverly
 park-GB-0198,operator,Republic Parking System
+park-GB-0198,overnight-allowed,no
 park-GB-0198,owner,MBTA
 park-GB-0198,payment-app,PayByPhone
 park-GB-0198,payment-app-id,4238
@@ -16685,6 +16708,7 @@ park-GB-0296,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-GB-0296,fee-monthly,$35
 park-GB-0296,municipality,Gloucester
 park-GB-0296,operator,Republic Parking System
+park-GB-0296,overnight-allowed,no
 park-GB-0296,owner,MBTA
 park-GB-0296,payment-app,PayByPhone
 park-GB-0296,payment-app-id,4247
@@ -16704,6 +16728,7 @@ park-GB-0316,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-GB-0316,fee-monthly,$35
 park-GB-0316,municipality,Gloucester
 park-GB-0316,operator,Republic Parking System
+park-GB-0316,overnight-allowed,no
 park-GB-0316,owner,MBTA
 park-GB-0316,payment-app,PayByPhone
 park-GB-0316,payment-app-id,4233
@@ -16734,6 +16759,7 @@ park-GRB-0118,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-GRB-0118,fee-monthly,$70
 park-GRB-0118,municipality,Weymouth
 park-GRB-0118,operator,Republic Parking System
+park-GRB-0118,overnight-allowed,no
 park-GRB-0118,owner,MBTA
 park-GRB-0118,payment-app,PayByPhone
 park-GRB-0118,payment-app-id,4473
@@ -16752,6 +16778,7 @@ park-GRB-0146,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-GRB-0146,fee-monthly,$105
 park-GRB-0146,municipality,East Weymouth
 park-GRB-0146,operator,Republic Parking System
+park-GRB-0146,overnight-allowed,no
 park-GRB-0146,owner,MBTA
 park-GRB-0146,payment-app,PayByPhone
 park-GRB-0146,payment-app-id,4434
@@ -16772,6 +16799,7 @@ park-GRB-0162,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-GRB-0162,fee-monthly,$70
 park-GRB-0162,municipality,Hingham
 park-GRB-0162,operator,Republic Parking System
+park-GRB-0162,overnight-allowed,no
 park-GRB-0162,owner,MBTA
 park-GRB-0162,payment-app,PayByPhone
 park-GRB-0162,payment-app-id,4472
@@ -16791,6 +16819,7 @@ park-GRB-0183,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-GRB-0183,fee-monthly,$35
 park-GRB-0183,municipality,Hingham
 park-GRB-0183,operator,Republic Parking System
+park-GRB-0183,overnight-allowed,no
 park-GRB-0183,owner,MBTA
 park-GRB-0183,payment-app,PayByPhone
 park-GRB-0183,payment-app-id,4463
@@ -16810,6 +16839,7 @@ park-GRB-0199,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-GRB-0199,fee-monthly,$35
 park-GRB-0199,municipality,Cohasset
 park-GRB-0199,operator,Republic Parking System
+park-GRB-0199,overnight-allowed,no
 park-GRB-0199,owner,MBTA
 park-GRB-0199,payment-app,PayByPhone
 park-GRB-0199,payment-app-id,4429
@@ -16829,6 +16859,7 @@ park-GRB-0233,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-GRB-0233,fee-monthly,$70
 park-GRB-0233,municipality,Scituate
 park-GRB-0233,operator,Republic Parking System
+park-GRB-0233,overnight-allowed,no
 park-GRB-0233,owner,MBTA
 park-GRB-0233,payment-app,PayByPhone
 park-GRB-0233,payment-app-id,4464
@@ -16848,6 +16879,7 @@ park-GRB-0276,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-GRB-0276,fee-monthly,$35
 park-GRB-0276,municipality,Scituate
 park-GRB-0276,operator,Republic Parking System
+park-GRB-0276,overnight-allowed,no
 park-GRB-0276,owner,MBTA
 park-GRB-0276,payment-app,PayByPhone
 park-GRB-0276,payment-app-id,4435
@@ -16867,6 +16899,7 @@ park-KB-0351,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-KB-0351,fee-monthly,$70
 park-KB-0351,municipality,Kingston
 park-KB-0351,operator,Republic Parking System
+park-KB-0351,overnight-allowed,no
 park-KB-0351,owner,MBTA
 park-KB-0351,payment-app,PayByPhone
 park-KB-0351,payment-app-id,4440
@@ -16886,6 +16919,7 @@ park-MM-0150,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-MM-0150,fee-monthly,$70
 park-MM-0150,municipality,Randolph
 park-MM-0150,operator,Republic Parking System
+park-MM-0150,overnight-allowed,no
 park-MM-0150,owner,MBTA
 park-MM-0150,payment-app,PayByPhone
 park-MM-0150,payment-app-id,4439
@@ -16905,6 +16939,7 @@ park-MM-0186,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-MM-0186,fee-monthly,$35
 park-MM-0186,municipality,Brockton
 park-MM-0186,operator,Republic Parking System
+park-MM-0186,overnight-allowed,no
 park-MM-0186,owner,MBTA
 park-MM-0186,payment-app,PayByPhone
 park-MM-0186,payment-app-id,4462
@@ -16942,6 +16977,7 @@ park-MM-0219,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-MM-0219,fee-monthly,$35
 park-MM-0219,municipality,Brockton
 park-MM-0219,operator,Republic Parking System
+park-MM-0219,overnight-allowed,no
 park-MM-0219,owner,MBTA
 park-MM-0219,payment-app,PayByPhone
 park-MM-0219,payment-app-id,4421
@@ -16962,6 +16998,7 @@ park-MM-0277,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-MM-0277,fee-monthly,$70
 park-MM-0277,municipality,Bridgewater
 park-MM-0277,operator,Republic Parking System
+park-MM-0277,overnight-allowed,no
 park-MM-0277,owner,MBTA
 park-MM-0277,payment-app,PayByPhone
 park-MM-0277,payment-app-id,4404
@@ -16981,6 +17018,7 @@ park-MM-0356,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-MM-0356,fee-monthly,$70
 park-MM-0356,municipality,Lakeville
 park-MM-0356,operator,Republic Parking System
+park-MM-0356,overnight-allowed,no
 park-MM-0356,owner,MBTA
 park-MM-0356,payment-app,PayByPhone
 park-MM-0356,payment-app-id,4459
@@ -17001,6 +17039,7 @@ park-NB-0064,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-NB-0064,fee-monthly,$70
 park-NB-0064,municipality,Boston
 park-NB-0064,operator,Republic Parking System
+park-NB-0064,overnight-allowed,no
 park-NB-0064,owner,MBTA
 park-NB-0064,payment-app,PayByPhone
 park-NB-0064,payment-app-id,4379
@@ -17020,6 +17059,7 @@ park-NB-0072,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-NB-0072,fee-monthly,$70
 park-NB-0072,municipality,Boston
 park-NB-0072,operator,Republic Parking System
+park-NB-0072,overnight-allowed,no
 park-NB-0072,owner,MBTA
 park-NB-0072,payment-app,PayByPhone
 park-NB-0072,payment-app-id,4360
@@ -17039,6 +17079,7 @@ park-NB-0076,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-NB-0076,fee-monthly,$70
 park-NB-0076,municipality,Boston
 park-NB-0076,operator,Republic Parking System
+park-NB-0076,overnight-allowed,no
 park-NB-0076,owner,MBTA
 park-NB-0076,payment-app,PayByPhone
 park-NB-0076,payment-app-id,4368
@@ -17059,6 +17100,7 @@ park-NB-0080,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-NB-0080,fee-monthly,$105
 park-NB-0080,municipality,Boston
 park-NB-0080,operator,Republic Parking System
+park-NB-0080,overnight-allowed,no
 park-NB-0080,owner,MBTA
 park-NB-0080,payment-app,PayByPhone
 park-NB-0080,payment-app-id,4383
@@ -17078,6 +17120,7 @@ park-NB-0109,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-NB-0109,fee-monthly,$70
 park-NB-0109,municipality,Needham
 park-NB-0109,operator,Republic Parking System
+park-NB-0109,overnight-allowed,no
 park-NB-0109,owner,MBTA
 park-NB-0109,payment-app,PayByPhone
 park-NB-0109,payment-app-id,4371
@@ -17098,6 +17141,7 @@ park-NB-0120,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-NB-0120,fee-monthly,$105
 park-NB-0120,municipality,Needham
 park-NB-0120,operator,Republic Parking System
+park-NB-0120,overnight-allowed,no
 park-NB-0120,owner,MBTA
 park-NB-0120,payment-app,PayByPhone
 park-NB-0120,payment-app-id,4373
@@ -17129,6 +17173,7 @@ park-NB-0137,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-NB-0137,fee-monthly,$70
 park-NB-0137,municipality,Needham
 park-NB-0137,operator,Republic Parking System
+park-NB-0137,overnight-allowed,no
 park-NB-0137,owner,MBTA
 park-NB-0137,payment-app,PayByPhone
 park-NB-0137,payment-app-id,4930
@@ -17171,6 +17216,7 @@ park-NEC-1919,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-NEC-1919,fee-monthly,$105
 park-NEC-1919,municipality,Attleboro
 park-NEC-1919,operator,Republic Parking System
+park-NEC-1919,overnight-allowed,no
 park-NEC-1919,owner,MBTA
 park-NEC-1919,payment-app,PayByPhone
 park-NEC-1919,payment-app-id,4380
@@ -17241,6 +17287,7 @@ park-NEC-2139,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-NEC-2139,fee-monthly,$70
 park-NEC-2139,municipality,Canton
 park-NEC-2139,operator,Republic Parking System
+park-NEC-2139,overnight-allowed,no
 park-NEC-2139,owner,MBTA
 park-NEC-2139,payment-app,PayByPhone
 park-NEC-2139,payment-app-id,4362
@@ -17260,6 +17307,7 @@ park-NEC-2173-garage,fee-daily,"Mon-Fri: $7 | Sat-Sun: $3 (Prices are valid for 
 park-NEC-2173-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-NEC-2173-garage,municipality,Westwood
 park-NEC-2173-garage,operator,Republic Parking System
+park-NEC-2173-garage,overnight-allowed,yes
 park-NEC-2173-garage,owner,MBTA
 park-NEC-2173-garage,payment-form-accepted,cash
 park-NEC-2173-garage,payment-form-accepted,credit-debit-card
@@ -17278,6 +17326,7 @@ park-NEC-2203,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-NEC-2203,fee-monthly,$70
 park-NEC-2203,municipality,Boston
 park-NEC-2203,operator,Republic Parking System
+park-NEC-2203,overnight-allowed,no
 park-NEC-2203,owner,MBTA
 park-NEC-2203,payment-app,PayByPhone
 park-NEC-2203,payment-app-id,4369
@@ -17298,6 +17347,7 @@ park-NHRML-0055,fee-daily,Mon-Fri: $5 | Sat-Sun: $2
 park-NHRML-0055,fee-monthly,$87.50
 park-NHRML-0055,municipality,Medford
 park-NHRML-0055,operator,Republic Parking System
+park-NHRML-0055,overnight-allowed,no
 park-NHRML-0055,owner,MBTA
 park-NHRML-0055,payment-app,PayByPhone
 park-NHRML-0055,payment-app-id,4248
@@ -17353,6 +17403,7 @@ park-NHRML-0127-airport,fee-daily,$7 overnight
 park-NHRML-0127-airport,municipality,Woburn
 park-NHRML-0127-airport,note,"Massport is responsible for parking maintenance, payments, and snow removal."
 park-NHRML-0127-airport,operator,Massport
+park-NHRML-0127-airport,overnight-allowed,yes-snow-unknown
 park-NHRML-0127-airport,owner,Local transit authority
 park-NHRML-0127-airport,payment-form-accepted,cash
 park-NHRML-0127-airport,payment-form-accepted,credit-debit-card
@@ -17381,6 +17432,7 @@ park-NHRML-0152,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-NHRML-0152,fee-monthly,$105
 park-NHRML-0152,municipality,Wilmington
 park-NHRML-0152,operator,Republic Parking System
+park-NHRML-0152,overnight-allowed,no
 park-NHRML-0152,owner,MBTA
 park-NHRML-0152,payment-app,PayByPhone
 park-NHRML-0152,payment-app-id,4272
@@ -17438,6 +17490,7 @@ park-PB-0158,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-PB-0158,fee-monthly,$35
 park-PB-0158,municipality,Weymouth
 park-PB-0158,operator,Republic Parking System
+park-PB-0158,overnight-allowed,no
 park-PB-0158,owner,MBTA
 park-PB-0158,payment-app,PayByPhone
 park-PB-0158,payment-app-id,4471
@@ -17457,6 +17510,7 @@ park-PB-0194,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-PB-0194,fee-monthly,$70
 park-PB-0194,municipality,Abington
 park-PB-0194,operator,Republic Parking System
+park-PB-0194,overnight-allowed,no
 park-PB-0194,owner,MBTA
 park-PB-0194,payment-app,PayByPhone
 park-PB-0194,payment-app-id,4401
@@ -17476,6 +17530,7 @@ park-PB-0212,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-PB-0212,fee-monthly,$105
 park-PB-0212,municipality,Whitman
 park-PB-0212,operator,Republic Parking System
+park-PB-0212,overnight-allowed,no
 park-PB-0212,owner,MBTA
 park-PB-0212,payment-app,PayByPhone
 park-PB-0212,payment-app-id,4474
@@ -17495,6 +17550,7 @@ park-PB-0245,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-PB-0245,fee-monthly,$70
 park-PB-0245,municipality,Hanson
 park-PB-0245,operator,Republic Parking System
+park-PB-0245,overnight-allowed,no
 park-PB-0245,owner,MBTA
 park-PB-0245,payment-app,PayByPhone
 park-PB-0245,payment-app-id,4437
@@ -17514,6 +17570,7 @@ park-PB-0281,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-PB-0281,fee-monthly,$35
 park-PB-0281,municipality,Halifax
 park-PB-0281,operator,Republic Parking System
+park-PB-0281,overnight-allowed,no
 park-PB-0281,owner,MBTA
 park-PB-0281,payment-app,PayByPhone
 park-PB-0281,payment-app-id,4436
@@ -17533,6 +17590,7 @@ park-PB-0356,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-PB-0356,fee-monthly,$35
 park-PB-0356,municipality,Plymouth
 park-PB-0356,operator,Republic Parking System
+park-PB-0356,overnight-allowed,no
 park-PB-0356,owner,MBTA
 park-PB-0356,payment-app,PayByPhone
 park-PB-0356,payment-app-id,4465
@@ -17552,6 +17610,7 @@ park-SB-0156,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-SB-0156,fee-monthly,$70
 park-SB-0156,municipality,Canton
 park-SB-0156,operator,Republic Parking System
+park-SB-0156,overnight-allowed,no
 park-SB-0156,owner,MBTA
 park-SB-0156,payment-app,PayByPhone
 park-SB-0156,payment-app-id,4361
@@ -17571,6 +17630,7 @@ park-SB-0189,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-SB-0189,fee-monthly,$70
 park-SB-0189,municipality,Stoghton
 park-SB-0189,operator,Republic Parking System
+park-SB-0189,overnight-allowed,no
 park-SB-0189,owner,MBTA
 park-SB-0189,payment-app,PayByPhone
 park-SB-0189,payment-app-id,4381
@@ -17590,6 +17650,7 @@ park-WML-0091-newton,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-WML-0091-newton,fee-monthly,$70
 park-WML-0091-newton,municipality,Newton
 park-WML-0091-newton,operator,Republic Parking System
+park-WML-0091-newton,overnight-allowed,no
 park-WML-0091-newton,owner,MassDOT
 park-WML-0091-newton,payment-app,PayByPhone
 park-WML-0091-newton,payment-app-id,4269
@@ -17610,6 +17671,7 @@ park-WML-0091-wash,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-WML-0091-wash,fee-monthly,$70
 park-WML-0091-wash,municipality,Newton
 park-WML-0091-wash,operator,Republic Parking System
+park-WML-0091-wash,overnight-allowed,no
 park-WML-0091-wash,owner,MassDOT
 park-WML-0091-wash,payment-app,PayByPhone
 park-WML-0091-wash,payment-app-id,4266
@@ -17630,6 +17692,7 @@ park-WML-0102,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-WML-0102,fee-monthly,$105
 park-WML-0102,municipality,Newton
 park-WML-0102,operator,Republic Parking System
+park-WML-0102,overnight-allowed,no
 park-WML-0102,owner,MassDOT
 park-WML-0102,payment-app,PayByPhone
 park-WML-0102,payment-app-id,4249
@@ -17716,6 +17779,7 @@ park-WML-0199,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-WML-0199,fee-monthly,$105
 park-WML-0199,municipality,Natick
 park-WML-0199,operator,Republic Parking System
+park-WML-0199,overnight-allowed,no
 park-WML-0199,owner,MBTA
 park-WML-0199,payment-app,PayByPhone
 park-WML-0199,payment-app-id,4265
@@ -17737,6 +17801,7 @@ park-WML-0214,fee-monthly,$70
 park-WML-0214,municipality,Framingham
 park-WML-0214,note,"MetroWest Regional Transit Authority is responsible for parking maintenance, payments, and snow removal."
 park-WML-0214,operator,Republic Parking System
+park-WML-0214,overnight-allowed,no
 park-WML-0214,owner,MBTA
 park-WML-0214,payment-app,PayByPhone
 park-WML-0214,payment-app-id,4254
@@ -17757,6 +17822,7 @@ park-WML-0252,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-WML-0252,fee-monthly,$70
 park-WML-0252,municipality,Ashland
 park-WML-0252,operator,Republic Parking System
+park-WML-0252,overnight-allowed,no
 park-WML-0252,owner,MBTA
 park-WML-0252,payment-app,PayByPhone
 park-WML-0252,payment-app-id,4281
@@ -17776,6 +17842,7 @@ park-WML-0274,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-WML-0274,fee-monthly,$105
 park-WML-0274,municipality,Southborough
 park-WML-0274,operator,Republic Parking System
+park-WML-0274,overnight-allowed,no
 park-WML-0274,owner,MBTA
 park-WML-0274,payment-app,PayByPhone
 park-WML-0274,payment-app-id,4257
@@ -17796,6 +17863,7 @@ park-WML-0340,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-WML-0340,fee-monthly,$105
 park-WML-0340,municipality,Westborough
 park-WML-0340,operator,Republic Parking System
+park-WML-0340,overnight-allowed,no
 park-WML-0340,owner,MBTA
 park-WML-0340,payment-app,PayByPhone
 park-WML-0340,payment-app-id,4270
@@ -17816,6 +17884,7 @@ park-WML-0364,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-WML-0364,fee-monthly,$70
 park-WML-0364,municipality,Grafton
 park-WML-0364,operator,Republic Parking System
+park-WML-0364,overnight-allowed,no
 park-WML-0364,owner,MBTA
 park-WML-0364,payment-app,PayByPhone
 park-WML-0364,payment-app-id,4255
@@ -17903,6 +17972,7 @@ park-WR-0099,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-WR-0099,fee-monthly,$105
 park-WR-0099,municipality,Wakefield
 park-WR-0099,operator,Republic Parking System
+park-WR-0099,overnight-allowed,no
 park-WR-0099,owner,MBTA
 park-WR-0099,payment-app,PayByPhone
 park-WR-0099,payment-app-id,4246
@@ -17923,6 +17993,7 @@ park-WR-0120,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-WR-0120,fee-monthly,$105
 park-WR-0120,municipality,Reading
 park-WR-0120,operator,Republic Parking System
+park-WR-0120,overnight-allowed,no
 park-WR-0120,owner,MBTA
 park-WR-0120,payment-app,PayByPhone
 park-WR-0120,payment-app-id,4279
@@ -17955,6 +18026,7 @@ park-WR-0205,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-WR-0205,fee-monthly,$70
 park-WR-0205,municipality,Andover
 park-WR-0205,operator,Republic Parking System
+park-WR-0205,overnight-allowed,no
 park-WR-0205,owner,MBTA
 park-WR-0205,payment-app,PayByPhone
 park-WR-0205,payment-app-id,4231
@@ -17974,6 +18046,7 @@ park-WR-0228,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-WR-0228,fee-monthly,$70
 park-WR-0228,municipality,Andover
 park-WR-0228,operator,Republic Parking System
+park-WR-0228,overnight-allowed,no
 park-WR-0228,owner,MBTA
 park-WR-0228,payment-app,PayByPhone
 park-WR-0228,payment-app-id,4229
@@ -18006,6 +18079,7 @@ park-WR-0325,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-WR-0325,fee-monthly,$35
 park-WR-0325,municipality,Bradford
 park-WR-0325,operator,Republic Parking System
+park-WR-0325,overnight-allowed,no
 park-WR-0325,owner,MBTA
 park-WR-0325,payment-app,PayByPhone
 park-WR-0325,payment-app-id,4232
@@ -18025,6 +18099,7 @@ park-WR-0329,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-WR-0329,fee-monthly,$35
 park-WR-0329,municipality,Haverhill
 park-WR-0329,operator,Republic Parking System
+park-WR-0329,overnight-allowed,no
 park-WR-0329,owner,MBTA
 park-WR-0329,payment-app,PayByPhone
 park-WR-0329,payment-app-id,4235
@@ -18045,6 +18120,7 @@ park-alfcl-garage,fee-daily,"Mon-Fri: $9 | Sat-Sun: $3 (Prices are valid for up 
 park-alfcl-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-alfcl-garage,municipality,Cambridge
 park-alfcl-garage,operator,Republic Parking System
+park-alfcl-garage,overnight-allowed,yes
 park-alfcl-garage,owner,MBTA
 park-alfcl-garage,payment-form-accepted,cash
 park-alfcl-garage,payment-form-accepted,credit-debit-card
@@ -18078,6 +18154,7 @@ park-bmmnl,fee-daily,Mon-Fri: $5 | Sat-Sun: $2.50
 park-bmmnl,fee-monthly,$87.50
 park-bmmnl,municipality,Revere
 park-bmmnl,operator,Republic Parking System
+park-bmmnl,overnight-allowed,no
 park-bmmnl,owner,MBTA
 park-bmmnl,payment-app,PayByPhone
 park-bmmnl,payment-app-id,4384
@@ -18114,6 +18191,7 @@ park-brntn-garage,fee-daily,"Mon-Fri: $9 | Sat-Sun: $3 (Prices are valid for up 
 park-brntn-garage,fee-monthly,"Monthly passes are not available at MBTA garages, but premium spots are available at this garage."
 park-brntn-garage,municipality,Braintree
 park-brntn-garage,operator,Republic Parking System
+park-brntn-garage,overnight-allowed,yes
 park-brntn-garage,owner,MBTA
 park-brntn-garage,payment-app,PayByPhone
 park-brntn-garage,payment-app-id,4403
@@ -18136,6 +18214,7 @@ park-brntn-lot-a,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-brntn-lot-a,fee-monthly,Monthly passes are not available at this MBTA lot.
 park-brntn-lot-a,municipality,Braintree
 park-brntn-lot-a,operator,Republic Parking System
+park-brntn-lot-a,overnight-allowed,no
 park-brntn-lot-a,owner,MBTA
 park-brntn-lot-a,payment-app,PayByPhone
 park-brntn-lot-a,payment-app-id,4403
@@ -18153,6 +18232,7 @@ park-brntn-lot-b,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-brntn-lot-b,fee-monthly,Monthly passes are not available at this MBTA lot.
 park-brntn-lot-b,municipality,Braintree
 park-brntn-lot-b,operator,Republic Parking System
+park-brntn-lot-b,overnight-allowed,no
 park-brntn-lot-b,owner,MBTA
 park-brntn-lot-b,payment-app,PayByPhone
 park-brntn-lot-b,payment-app-id,4403
@@ -18170,6 +18250,7 @@ park-butlr,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-butlr,fee-monthly,$70
 park-butlr,municipality,Boston
 park-butlr,operator,Republic Parking System
+park-butlr,overnight-allowed,no
 park-butlr,owner,MBTA
 park-butlr,payment-app,PayByPhone
 park-butlr,payment-app-id,4405
@@ -18188,6 +18269,7 @@ park-chhil,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-chhil,fee-monthly,$157.50
 park-chhil,municipality,Newton
 park-chhil,operator,Republic Parking System
+park-chhil,overnight-allowed,no
 park-chhil,owner,MBTA
 park-chhil,payment-app,PayByPhone
 park-chhil,payment-app-id,4251
@@ -18208,6 +18290,7 @@ park-eliot,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-eliot,fee-monthly,$157.50
 park-eliot,municipality,Newton
 park-eliot,operator,Republic Parking System
+park-eliot,overnight-allowed,no
 park-eliot,owner,MBTA
 park-eliot,payment-app,PayByPhone
 park-eliot,payment-app-id,4253
@@ -18229,6 +18312,7 @@ park-forhl,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-forhl,fee-monthly,$157.50
 park-forhl,municipality,Boston
 park-forhl,operator,Republic Parking System
+park-forhl,overnight-allowed,no
 park-forhl,owner,MBTA
 park-forhl,payment-app,PayByPhone
 park-forhl,payment-app-id,4396
@@ -18248,6 +18332,7 @@ park-haecl-garage,fee-daily,"Weekdays - 30 min or less: $6, 1 hr: $10, 1.5 hrs: 
 park-haecl-garage,fee-monthly,"Regular monthly: $340, North End resident: $150, Reverse commute (4 PM - 9 AM): $125"
 park-haecl-garage,municipality,Boston
 park-haecl-garage,operator,Republic Parking System
+park-haecl-garage,overnight-allowed,yes
 park-haecl-garage,owner,MassDOT
 park-haecl-garage,payment-form-accepted,cash
 park-haecl-garage,payment-form-accepted,credit-debit-card
@@ -18279,6 +18364,7 @@ park-matt,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-matt,fee-monthly,$35
 park-matt,municipality,Boston
 park-matt,operator,Republic Parking System
+park-matt,overnight-allowed,no
 park-matt,owner,MBTA
 park-matt,payment-app,PayByPhone
 park-matt,payment-app-id,4443
@@ -18298,6 +18384,7 @@ park-miltt,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-miltt,fee-monthly,$105
 park-miltt,municipality,Milton
 park-miltt,operator,Republic Parking System
+park-miltt,overnight-allowed,no
 park-miltt,owner,MBTA
 park-miltt,payment-app,PayByPhone
 park-miltt,payment-app-id,4461
@@ -18319,6 +18406,7 @@ park-mlmnl,fee-daily,Mon-Fri: $7.50 | Sat-Sun: $3
 park-mlmnl,fee-monthly,$131.25
 park-mlmnl,municipality,Malden
 park-mlmnl,operator,Republic Parking System
+park-mlmnl,overnight-allowed,no
 park-mlmnl,owner,MBTA
 park-mlmnl,payment-app,PayByPhone
 park-mlmnl,payment-app-id,4398
@@ -18354,6 +18442,7 @@ park-nqncy-hancock,fee-monthly,Monthly passes are not available at this MBTA lot
 park-nqncy-hancock,municipality,Quincy
 park-nqncy-hancock,note,"The North Quincy Hancock Street surface lot is being replaced with a new parking garage. During construction, 260 spaces will continue to be available. Learn more at mbta.com/northquincy."
 park-nqncy-hancock,operator,Republic Parking System
+park-nqncy-hancock,overnight-allowed,no
 park-nqncy-hancock,owner,MBTA
 park-nqncy-hancock,payment-app,PayByPhone
 park-nqncy-hancock,payment-app-id,4365
@@ -18374,6 +18463,7 @@ park-nqncy-newport,fee-daily,Mon-Fri: $5 | Sat-Sun: $3
 park-nqncy-newport,fee-monthly,Monthly passes are not available at this MBTA lot.
 park-nqncy-newport,municipality,Quincy
 park-nqncy-newport,operator,Republic Parking System
+park-nqncy-newport,overnight-allowed,no
 park-nqncy-newport,owner,MBTA
 park-nqncy-newport,payment-app,PayByPhone
 park-nqncy-newport,payment-app-id,4365
@@ -18394,6 +18484,7 @@ park-ogmnl,fee-daily,"Mon-Fri: $9 | Sat-Sun: $3 (Prices are valid for up to 14 h
 park-ogmnl,fee-monthly,"Monthly passes are not available at this MBTA lot, but premium spots are available."
 park-ogmnl,municipality,Malden
 park-ogmnl,operator,Republic Parking System
+park-ogmnl,overnight-allowed,no
 park-ogmnl,owner,MBTA
 park-ogmnl,payment-app,PayByPhone
 park-ogmnl,payment-app-id,4278
@@ -18414,6 +18505,7 @@ park-orhte,fee-daily,Mon-Fri: $5 | Sat-Sun: $2.50
 park-orhte,fee-monthly,$87.50
 park-orhte,municipality,Boston
 park-orhte,operator,Republic Parking System
+park-orhte,overnight-allowed,no
 park-orhte,owner,MBTA
 park-orhte,payment-app,PayByPhone
 park-orhte,payment-app-id,4388
@@ -18434,6 +18526,7 @@ park-qamnl-garage,fee-daily,"Mon-Fri: $9 | Sat-Sun: $3 (Prices are valid for up 
 park-qamnl-garage,fee-monthly,"Monthly passes are not available at MBTA garages, but premium spots are available at this garage."
 park-qamnl-garage,municipality,Quincy
 park-qamnl-garage,operator,Republic Parking System
+park-qamnl-garage,overnight-allowed,yes
 park-qamnl-garage,owner,MBTA
 park-qamnl-garage,payment-form-accepted,cash
 park-qamnl-garage,payment-form-accepted,credit-debit-card
@@ -18451,6 +18544,7 @@ park-qamnl-lot,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-qamnl-lot,fee-monthly,"Monthly passes are not available at this MBTA lot, but premium spots are available."
 park-qamnl-lot,municipality,Quincy
 park-qamnl-lot,operator,Republic Parking System
+park-qamnl-lot,overnight-allowed,no
 park-qamnl-lot,owner,MBTA
 park-qamnl-lot,payment-app,PayByPhone
 park-qamnl-lot,payment-app-id,4466
@@ -18469,6 +18563,7 @@ park-river,fee-daily,Mon-Fri: $6 | Sat-Sun: $3
 park-river,fee-monthly,$105
 park-river,municipality,Newton
 park-river,operator,Republic Parking System
+park-river,overnight-allowed,yes-except-snow
 park-river,owner,MBTA
 park-river,payment-app,PayByPhone
 park-river,payment-app-id,4372
@@ -18488,6 +18583,7 @@ park-sdmnl,fee-daily,Mon-Fri: $2.50 | Sat-Sun: $2.50
 park-sdmnl,fee-monthly,$43.75
 park-sdmnl,municipality,Boston
 park-sdmnl,operator,Republic Parking System
+park-sdmnl,overnight-allowed,no
 park-sdmnl,owner,MBTA
 park-sdmnl,payment-app,PayByPhone
 park-sdmnl,payment-app-id,4374
@@ -18508,6 +18604,7 @@ park-shmnl,fee-daily,Mon-Fri: $7.50 | Sat-Sun: $2.50
 park-shmnl,fee-monthly,$131.25
 park-shmnl,municipality,Boston
 park-shmnl,operator,Republic Parking System
+park-shmnl,overnight-allowed,no
 park-shmnl,owner,MBTA
 park-shmnl,payment-app,PayByPhone
 park-shmnl,payment-app-id,4468
@@ -18541,6 +18638,7 @@ park-sull,fee-daily,Mon-Fri: $9 | Sat-Sun: $6
 park-sull,fee-monthly,$157.50
 park-sull,municipality,Boston
 park-sull,operator,Republic Parking System
+park-sull,overnight-allowed,no
 park-sull,owner,MBTA
 park-sull,payment-app,PayByPhone
 park-sull,payment-app-id,4397
@@ -18561,6 +18659,7 @@ park-waban,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-waban,fee-monthly,$157.50
 park-waban,municipality,Newton
 park-waban,operator,Republic Parking System
+park-waban,overnight-allowed,no
 park-waban,owner,MBTA
 park-waban,payment-app,PayByPhone
 park-waban,payment-app-id,4258
@@ -18582,6 +18681,7 @@ park-welln-garage,fee-monthly,$95
 park-welln-garage,municipality,Medford
 park-welln-garage,note,MBTA spaces are located on levels 6 through 8.
 park-welln-garage,operator,Pilgrim Parking 
+park-welln-garage,overnight-allowed,yes
 park-welln-garage,owner,MBTA
 park-welln-garage,payment-form-accepted,cash
 park-welln-garage,payment-form-accepted,credit-debit-card
@@ -18596,6 +18696,7 @@ park-welln-lot,fee-daily,Mon-Fri: $9 | Sat-Sun: $4
 park-welln-lot,fee-monthly,$157.50
 park-welln-lot,municipality,Medford
 park-welln-lot,operator,Republic Parking System
+park-welln-lot,overnight-allowed,no
 park-welln-lot,owner,MBTA
 park-welln-lot,payment-app,PayByPhone
 park-welln-lot,payment-app-id,4392
@@ -18615,6 +18716,7 @@ park-wlsta,fee-daily,Mon-Fri: $6 | Sat-Sun: $3
 park-wlsta,fee-monthly,$105
 park-wlsta,municipality,Quincy
 park-wlsta,operator,Republic Parking System
+park-wlsta,overnight-allowed,no
 park-wlsta,owner,MBTA
 park-wlsta,payment-app,PayByPhone
 park-wlsta,payment-app-id,4564
@@ -18633,6 +18735,7 @@ park-wondl-garage,fee-daily,"Mon-Fri: $7 | Sat-Sun: $2 (Prices are valid for up 
 park-wondl-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-wondl-garage,municipality,Revere
 park-wondl-garage,operator,Republic Parking System
+park-wondl-garage,overnight-allowed,yes
 park-wondl-garage,owner,MBTA
 park-wondl-garage,payment-form-accepted,cash
 park-wondl-garage,payment-form-accepted,credit-debit-card
@@ -18650,6 +18753,7 @@ park-wondl-nshore,fee-daily,Mon-Fri: $7 | Sat-Sun: $2
 park-wondl-nshore,fee-monthly,$122.50
 park-wondl-nshore,municipality,Revere
 park-wondl-nshore,operator,Republic Parking System
+park-wondl-nshore,overnight-allowed,no
 park-wondl-nshore,owner,MBTA
 park-wondl-nshore,payment-app,PayByPhone
 park-wondl-nshore,payment-app-id,4394
@@ -18668,6 +18772,7 @@ park-woodl-garage,fee-daily,"Mon-Fri: $6 | Sat-Sun: $3 (Prices are valid for up 
 park-woodl-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-woodl-garage,municipality,Newton
 park-woodl-garage,operator,Republic Parking System
+park-woodl-garage,overnight-allowed,yes
 park-woodl-garage,owner,MBTA
 park-woodl-garage,payment-form-accepted,cash
 park-woodl-garage,payment-form-accepted,credit-debit-card
@@ -18895,7 +19000,7 @@ retailsale-302020,dispenses,fare-media
 retailsale-302020,enclosed,1
 retailsale-302020,payment-form-accepted,cash
 retailsale-302020,payment-form-accepted,credit-debit-card
-retailsale-302021,address,"14 McGrath Highway, Somerville, MA 02143"
+retailsale-302021,address,"14 McGrath Hwy, Somerville, MA 02143"
 retailsale-302021,contact-phone,617-354-7023
 retailsale-302021,dispenses,fare-media
 retailsale-302021,enclosed,1
@@ -18967,13 +19072,13 @@ retailsale-302037,dispenses,fare-media
 retailsale-302037,enclosed,1
 retailsale-302037,payment-form-accepted,cash
 retailsale-302037,payment-form-accepted,credit-debit-card
-retailsale-302038,address,"62 Market Square, Lynn, MA 01905"
+retailsale-302038,address,"62 Market Sq, Lynn, MA 01905"
 retailsale-302038,contact-phone,781-592-3500
 retailsale-302038,dispenses,fare-media
 retailsale-302038,enclosed,1
 retailsale-302038,payment-form-accepted,cash
 retailsale-302038,payment-form-accepted,credit-debit-card
-retailsale-302039,address,"12 Union Square, Somerville, MA 02143"
+retailsale-302039,address,"12 Union Sq, Somerville, MA 02143"
 retailsale-302039,contact-phone,617-666-1011
 retailsale-302039,dispenses,fare-media
 retailsale-302039,enclosed,1
@@ -18985,12 +19090,6 @@ retailsale-302041,dispenses,fare-media
 retailsale-302041,enclosed,1
 retailsale-302041,payment-form-accepted,cash
 retailsale-302041,payment-form-accepted,credit-debit-card
-retailsale-302042,address,"2101 Washington St, Roxbury, MA 02119"
-retailsale-302042,contact-phone,617-442-7439
-retailsale-302042,dispenses,fare-media
-retailsale-302042,enclosed,1
-retailsale-302042,payment-form-accepted,cash
-retailsale-302042,payment-form-accepted,credit-debit-card
 retailsale-302043,address,"3724 Washington St, Jamaica Plain, MA 02130"
 retailsale-302043,contact-phone,617-524-2274
 retailsale-302043,dispenses,fare-media
@@ -19022,7 +19121,7 @@ retailsale-302048,enclosed,1
 retailsale-302048,payment-form-accepted,cash
 retailsale-302048,payment-form-accepted,credit-debit-card
 retailsale-302050,address,"1 Congress St, Boston, MA 02114"
-retailsale-302050,contact-phone,617-248-8969
+retailsale-302050,contact-phone,617-248-8969 
 retailsale-302050,dispenses,fare-media
 retailsale-302050,enclosed,1
 retailsale-302050,payment-form-accepted,cash
@@ -19045,7 +19144,7 @@ retailsale-302053,dispenses,fare-media
 retailsale-302053,enclosed,1
 retailsale-302053,payment-form-accepted,cash
 retailsale-302053,payment-form-accepted,credit-debit-card
-retailsale-302055,address,"19 Maverick Square, East Boston, MA 02128"
+retailsale-302055,address,"19 Maverick Sq, East Boston, MA 02128"
 retailsale-302055,contact-phone,617-561-0333
 retailsale-302055,dispenses,fare-media
 retailsale-302055,enclosed,1
@@ -19081,25 +19180,7 @@ retailsale-302061,dispenses,fare-media
 retailsale-302061,enclosed,1
 retailsale-302061,payment-form-accepted,cash
 retailsale-302061,payment-form-accepted,credit-debit-card
-retailsale-302063,address,"366 Warren St, Roxbury, MA 02119"
-retailsale-302063,contact-phone,617-427-0042
-retailsale-302063,dispenses,fare-media
-retailsale-302063,enclosed,1
-retailsale-302063,payment-form-accepted,cash
-retailsale-302063,payment-form-accepted,credit-debit-card
-retailsale-302064,address,"588 Columbia Rd., Dorchester, MA 02125"
-retailsale-302064,contact-phone,617-265-0945
-retailsale-302064,dispenses,fare-media
-retailsale-302064,enclosed,1
-retailsale-302064,payment-form-accepted,cash
-retailsale-302064,payment-form-accepted,credit-debit-card
-retailsale-302065,address,"1589 Blue Hill Ave, Mattapan, MA 02126"
-retailsale-302065,contact-phone,617-296-6405
-retailsale-302065,dispenses,fare-media
-retailsale-302065,enclosed,1
-retailsale-302065,payment-form-accepted,cash
-retailsale-302065,payment-form-accepted,credit-debit-card
-retailsale-302069,address,"550 Lee Burbank Hwy., Revere, MA 02126"
+retailsale-302069,address,"550 Lee Burbank Hwy, Revere, MA 02126"
 retailsale-302069,contact-phone,781-284-0370
 retailsale-302069,dispenses,fare-media
 retailsale-302069,enclosed,1
@@ -19117,13 +19198,19 @@ retailsale-302071,dispenses,fare-media
 retailsale-302071,enclosed,1
 retailsale-302071,payment-form-accepted,cash
 retailsale-302071,payment-form-accepted,credit-debit-card
+retailsale-302072,address,"20 Sidney St, Cambridge, MA 02138"
+retailsale-302072,contact-phone,617-494-5250
+retailsale-302072,dispenses,fare-media
+retailsale-302072,enclosed,1
+retailsale-302072,payment-form-accepted,cash
+retailsale-302072,payment-form-accepted,credit-debit-card
 retailsale-302073,address,"699 Mt Auburn St, Cambridge, MA 02138"
 retailsale-302073,contact-phone,617-876-1450
 retailsale-302073,dispenses,fare-media
 retailsale-302073,enclosed,1
 retailsale-302073,payment-form-accepted,cash
 retailsale-302073,payment-form-accepted,credit-debit-card
-retailsale-302077,address,"31 St James Ave, Boston, MA 02116"
+retailsale-302077,address,"31 Saint James Ave, Boston, MA 02116"
 retailsale-302077,contact-phone,617-357-1641
 retailsale-302077,dispenses,fare-media
 retailsale-302077,enclosed,1
@@ -19171,12 +19258,6 @@ retailsale-302086,dispenses,fare-media
 retailsale-302086,enclosed,1
 retailsale-302086,payment-form-accepted,cash
 retailsale-302086,payment-form-accepted,credit-debit-card
-retailsale-302089,address,"181 South St, W. Hingham, MA 02043"
-retailsale-302089,contact-phone,781-749-4248
-retailsale-302089,dispenses,fare-media
-retailsale-302089,enclosed,1
-retailsale-302089,payment-form-accepted,cash
-retailsale-302089,payment-form-accepted,credit-debit-card
 retailsale-302090,address,"34 Essex St, Melrose, MA 02176"
 retailsale-302090,contact-phone,781-665-8512
 retailsale-302090,dispenses,fare-media
@@ -19195,13 +19276,13 @@ retailsale-302116,dispenses,fare-media
 retailsale-302116,enclosed,1
 retailsale-302116,payment-form-accepted,cash
 retailsale-302116,payment-form-accepted,credit-debit-card
-retailsale-302119,address,"14 Maverick Sq., East Boston, MA 02128"
+retailsale-302119,address,"14 Maverick Sq, East Boston, MA 02128"
 retailsale-302119,contact-phone,617-567-6025
 retailsale-302119,dispenses,fare-media
 retailsale-302119,enclosed,1
 retailsale-302119,payment-form-accepted,cash
 retailsale-302119,payment-form-accepted,credit-debit-card
-retailsale-302121,address,"401 South Ave, Whitman, MA 02382-2081"
+retailsale-302121,address,"401 South Ave, Whitman, MA 02382"
 retailsale-302121,contact-phone,781-447-5741
 retailsale-302121,dispenses,fare-media
 retailsale-302121,enclosed,1
@@ -19213,7 +19294,7 @@ retailsale-302122,dispenses,fare-media
 retailsale-302122,enclosed,1
 retailsale-302122,payment-form-accepted,cash
 retailsale-302122,payment-form-accepted,credit-debit-card
-retailsale-302123,address,"2040 Commonwealth Ave, Newton, MA 02466"
+retailsale-302123,address,"2040 Commonwealth Ave, Newton  , MA 02466"
 retailsale-302123,contact-phone,617-965-1793
 retailsale-302123,dispenses,fare-media
 retailsale-302123,enclosed,1
@@ -19249,18 +19330,18 @@ retailsale-302128,dispenses,fare-media
 retailsale-302128,enclosed,1
 retailsale-302128,payment-form-accepted,cash
 retailsale-302128,payment-form-accepted,credit-debit-card
+retailsale-302131,address,"145 Broadway St, Norwood, MA 02062"
+retailsale-302131,contact-phone,781-762-6038
+retailsale-302131,dispenses,fare-media
+retailsale-302131,enclosed,1
+retailsale-302131,payment-form-accepted,cash
+retailsale-302131,payment-form-accepted,credit-debit-card
 retailsale-302132,address,"911 Main St, Hanson, MA 02341"
 retailsale-302132,contact-phone,781-856-0524
 retailsale-302132,dispenses,fare-media
 retailsale-302132,enclosed,1
 retailsale-302132,payment-form-accepted,cash
 retailsale-302132,payment-form-accepted,credit-debit-card
-retailsale-302133,address,"415-419 Washington St, Brighton, MA 02135"
-retailsale-302133,contact-phone,617-787-1665
-retailsale-302133,dispenses,fare-media
-retailsale-302133,enclosed,1
-retailsale-302133,payment-form-accepted,cash
-retailsale-302133,payment-form-accepted,credit-debit-card
 retailsale-302138,address,"275 Prospect St, Cambridge, MA 02139"
 retailsale-302138,contact-phone,617-547-4711
 retailsale-302138,dispenses,fare-media
@@ -19279,6 +19360,12 @@ retailsale-302144,dispenses,fare-media
 retailsale-302144,enclosed,1
 retailsale-302144,payment-form-accepted,cash
 retailsale-302144,payment-form-accepted,credit-debit-card
+retailsale-302145,address,"251 West Central St, Natick, MA 01760"
+retailsale-302145,contact-phone,508-650-5711
+retailsale-302145,dispenses,fare-media
+retailsale-302145,enclosed,1
+retailsale-302145,payment-form-accepted,cash
+retailsale-302145,payment-form-accepted,credit-debit-card
 retailsale-302148,address,"327 Main St, Wilmington, MA 01887"
 retailsale-302148,contact-phone,978-658-7884
 retailsale-302148,dispenses,fare-media
@@ -19297,12 +19384,6 @@ retailsale-302150,dispenses,fare-media
 retailsale-302150,enclosed,1
 retailsale-302150,payment-form-accepted,cash
 retailsale-302150,payment-form-accepted,credit-debit-card
-retailsale-302151,address,"1610 Commonwealth Ave, Brighton, MA 02135"
-retailsale-302151,contact-phone,617-734-2062
-retailsale-302151,dispenses,fare-media
-retailsale-302151,enclosed,1
-retailsale-302151,payment-form-accepted,cash
-retailsale-302151,payment-form-accepted,credit-debit-card
 retailsale-302152,address,"584 Washington St, Brighton, MA 02136"
 retailsale-302152,contact-phone,617-783-1708
 retailsale-302152,dispenses,fare-media
@@ -19321,7 +19402,7 @@ retailsale-302155,dispenses,fare-media
 retailsale-302155,enclosed,1
 retailsale-302155,payment-form-accepted,cash
 retailsale-302155,payment-form-accepted,credit-debit-card
-retailsale-302157,address,"829 N. Main St, Brockton, MA 02301"
+retailsale-302157,address,"829 N Main St, Brockton, MA 02301"
 retailsale-302157,contact-phone,508-583-3724
 retailsale-302157,dispenses,fare-media
 retailsale-302157,enclosed,1
@@ -19333,13 +19414,13 @@ retailsale-302160,dispenses,fare-media
 retailsale-302160,enclosed,1
 retailsale-302160,payment-form-accepted,cash
 retailsale-302160,payment-form-accepted,credit-debit-card
-retailsale-302163,address,"10 Rockwood Road, Norfolk, MA 02056"
+retailsale-302163,address,"10 Rockwood Road          , Norfolk, MA 02056"
 retailsale-302163,contact-phone,508-528-1082
 retailsale-302163,dispenses,fare-media
 retailsale-302163,enclosed,1
 retailsale-302163,payment-form-accepted,cash
 retailsale-302163,payment-form-accepted,credit-debit-card
-retailsale-302164,address,"588 South St, Waltham, MA 02453"
+retailsale-302164,address,"588 South St      , Waltham, MA 02453"
 retailsale-302164,contact-phone,781-788-0009
 retailsale-302164,dispenses,fare-media
 retailsale-302164,enclosed,1
@@ -19375,12 +19456,6 @@ retailsale-302173,dispenses,fare-media
 retailsale-302173,enclosed,1
 retailsale-302173,payment-form-accepted,cash
 retailsale-302173,payment-form-accepted,credit-debit-card
-retailsale-302174,address,"299 Pleasant St, Malden, MA 02148"
-retailsale-302174,contact-phone,781-322-5417
-retailsale-302174,dispenses,fare-media
-retailsale-302174,enclosed,1
-retailsale-302174,payment-form-accepted,cash
-retailsale-302174,payment-form-accepted,credit-debit-card
 retailsale-302176,address,"4196 Washington St, Roslindale, MA 02131"
 retailsale-302176,contact-phone,617-323-3163
 retailsale-302176,dispenses,fare-media
@@ -19423,12 +19498,6 @@ retailsale-302188,dispenses,fare-media
 retailsale-302188,enclosed,1
 retailsale-302188,payment-form-accepted,cash
 retailsale-302188,payment-form-accepted,credit-debit-card
-retailsale-302189,address,"872 Commonwealth Ave, Boston, MA 02215"
-retailsale-302189,contact-phone,617-232-2816
-retailsale-302189,dispenses,fare-media
-retailsale-302189,enclosed,1
-retailsale-302189,payment-form-accepted,cash
-retailsale-302189,payment-form-accepted,credit-debit-card
 retailsale-302194,address,"100 Atlantic Ave, Woburn, MA 01801"
 retailsale-302194,contact-phone,781-721-0373
 retailsale-302194,dispenses,fare-media
@@ -19471,7 +19540,7 @@ retailsale-302210,dispenses,fare-media
 retailsale-302210,enclosed,1
 retailsale-302210,payment-form-accepted,cash
 retailsale-302210,payment-form-accepted,credit-debit-card
-retailsale-302211,address,"4 Central Square, Cambridge, MA 02139"
+retailsale-302211,address,"4 Central Sq, Cambridge, MA 02139"
 retailsale-302211,contact-phone,617-498-0600
 retailsale-302211,dispenses,fare-media
 retailsale-302211,enclosed,1
@@ -19537,7 +19606,7 @@ retailsale-303012,dispenses,fare-media
 retailsale-303012,enclosed,1
 retailsale-303012,payment-form-accepted,cash
 retailsale-303012,payment-form-accepted,credit-debit-card
-retailsale-303016,address,"535 Trapelo Rd., Belmont, MA 02478"
+retailsale-303016,address,"535 Trapelo Rd, Belmont, MA 02478"
 retailsale-303016,contact-phone,617-489-6540
 retailsale-303016,dispenses,fare-media
 retailsale-303016,enclosed,1
@@ -19549,12 +19618,6 @@ retailsale-303017,dispenses,fare-media
 retailsale-303017,enclosed,1
 retailsale-303017,payment-form-accepted,cash
 retailsale-303017,payment-form-accepted,credit-debit-card
-retailsale-303018,address,"1690 Commonwealth Ave, Brighton, MA 02135"
-retailsale-303018,contact-phone,617-487-5270
-retailsale-303018,dispenses,fare-media
-retailsale-303018,enclosed,1
-retailsale-303018,payment-form-accepted,cash
-retailsale-303018,payment-form-accepted,credit-debit-card
 retailsale-303019,address,"324 Revere Beach Pkwy, Chelsea, MA 02150"
 retailsale-303019,contact-phone,617-889-9853
 retailsale-303019,dispenses,fare-media
@@ -19639,6 +19702,84 @@ retailsale-303037,dispenses,fare-media
 retailsale-303037,enclosed,1
 retailsale-303037,payment-form-accepted,cash
 retailsale-303037,payment-form-accepted,credit-debit-card
+retailsale-303038,address,"3116 Washington St, Roxbury, MA 02119"
+retailsale-303038,contact-phone,617-983-1666
+retailsale-303038,dispenses,fare-media
+retailsale-303038,enclosed,1
+retailsale-303038,payment-form-accepted,cash
+retailsale-303038,payment-form-accepted,credit-debit-card
+retailsale-303039,address,"44 Corinth St, Roslindale, MA 02131"
+retailsale-303039,contact-phone,617-469-9457
+retailsale-303039,dispenses,fare-media
+retailsale-303039,enclosed,1
+retailsale-303039,payment-form-accepted,cash
+retailsale-303039,payment-form-accepted,credit-debit-card
+retailsale-303040,address,"169 Harvard Ave, Allston, MA 02134"
+retailsale-303040,contact-phone,617-783-7180
+retailsale-303040,dispenses,fare-media
+retailsale-303040,enclosed,1
+retailsale-303040,payment-form-accepted,cash
+retailsale-303040,payment-form-accepted,credit-debit-card
+retailsale-303041,address,"115 Broadway St, Chelsea, MA 02150"
+retailsale-303041,contact-phone,617-884-3750
+retailsale-303041,dispenses,fare-media
+retailsale-303041,enclosed,1
+retailsale-303041,payment-form-accepted,cash
+retailsale-303041,payment-form-accepted,credit-debit-card
+retailsale-303042,address,"4174A Washington St, Roslindale, MA 02131"
+retailsale-303042,contact-phone,617-477-9036
+retailsale-303042,dispenses,fare-media
+retailsale-303042,enclosed,1
+retailsale-303042,payment-form-accepted,cash
+retailsale-303042,payment-form-accepted,credit-debit-card
+retailsale-303043,address,"571 Broadway, Chelsea, MA 02150"
+retailsale-303043,contact-phone,617-409-9682
+retailsale-303043,dispenses,fare-media
+retailsale-303043,enclosed,1
+retailsale-303043,payment-form-accepted,cash
+retailsale-303043,payment-form-accepted,credit-debit-card
+retailsale-303044,address,"275 Beacon St, Somerville, MA 02143"
+retailsale-303044,contact-phone,617-354-7023
+retailsale-303044,dispenses,fare-media
+retailsale-303044,enclosed,1
+retailsale-303044,payment-form-accepted,cash
+retailsale-303044,payment-form-accepted,credit-debit-card
+retailsale-303045,address,"50 University Ave, Westwood, MA 02090"
+retailsale-303045,contact-phone,781-428-5273
+retailsale-303045,dispenses,fare-media
+retailsale-303045,enclosed,1
+retailsale-303045,payment-form-accepted,cash
+retailsale-303045,payment-form-accepted,credit-debit-card
+retailsale-303048,address,"117 Jersey St, Boston, MA 02115"
+retailsale-303048,contact-phone,617-266-6434
+retailsale-303048,dispenses,fare-media
+retailsale-303048,enclosed,1
+retailsale-303048,payment-form-accepted,cash
+retailsale-303048,payment-form-accepted,credit-debit-card
+retailsale-303049,address,"252 West Newton St, Boston, MA 02116"
+retailsale-303049,contact-phone,617-697-4529
+retailsale-303049,dispenses,fare-media
+retailsale-303049,enclosed,1
+retailsale-303049,payment-form-accepted,cash
+retailsale-303049,payment-form-accepted,credit-debit-card
+retailsale-303050,address,"673 East Broadway, South Boston, MA 02127"
+retailsale-303050,contact-phone,617-268-2946
+retailsale-303050,dispenses,fare-media
+retailsale-303050,enclosed,1
+retailsale-303050,payment-form-accepted,cash
+retailsale-303050,payment-form-accepted,credit-debit-card
+retailsale-303051,address,"241 Market St, Brighton, MA 02135"
+retailsale-303051,contact-phone,617-562-6095
+retailsale-303051,dispenses,fare-media
+retailsale-303051,enclosed,1
+retailsale-303051,payment-form-accepted,cash
+retailsale-303051,payment-form-accepted,credit-debit-card
+retailsale-303052,address,"684 Centre St, Jamaica Plain, MA 02210"
+retailsale-303052,contact-phone,617-983-4760
+retailsale-303052,dispenses,fare-media
+retailsale-303052,enclosed,1
+retailsale-303052,payment-form-accepted,cash
+retailsale-303052,payment-form-accepted,credit-debit-card
 subplat-25,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-DB-0095,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-DB-2205,note,Mini high level platform is available to provide level boarding to certain cars in a train set
