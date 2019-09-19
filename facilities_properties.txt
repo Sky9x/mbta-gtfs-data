@@ -1,6 +1,5 @@
 facility_id,property_id,value
 102,direction,up
-102,excludes-stop,9326
 102,excludes-stop,9328
 102,excludes-stop,door-ogmnl-banks
 102,excludes-stop,node-102-lobby
@@ -25,7 +24,6 @@ facility_id,property_id,value
 102,excludes-stop,node-ogmnl-washstair-lobby
 102,excludes-stop,node-ogmnl-washstair-street
 103,direction,up
-103,excludes-stop,9326
 103,excludes-stop,9328
 103,excludes-stop,door-ogmnl-banks
 103,excludes-stop,door-ogmnl-wash
@@ -51,7 +49,6 @@ facility_id,property_id,value
 103,excludes-stop,node-ogmnl-washstair-lobby
 103,excludes-stop,node-ogmnl-washstair-street
 104,direction,up
-104,excludes-stop,9326
 104,excludes-stop,9328
 104,excludes-stop,door-ogmnl-wash
 104,excludes-stop,node-102-lobby
@@ -76,7 +73,6 @@ facility_id,property_id,value
 104,excludes-stop,node-ogmnl-washstair-lobby
 104,excludes-stop,node-ogmnl-washstair-street
 105,direction,up
-105,excludes-stop,9326
 105,excludes-stop,9328
 105,excludes-stop,door-ogmnl-banks
 105,excludes-stop,door-ogmnl-wash
@@ -467,8 +463,6 @@ facility_id,property_id,value
 130,excludes-stop,node-forhl-splatstairs-lobby
 130,excludes-stop,node-forhl-splatstairs-platform
 131,direction,up
-131,excludes-stop,9070002
-131,excludes-stop,9070003
 131,excludes-stop,node-grnst-131-lobby
 131,excludes-stop,node-grnst-131-platform
 131,excludes-stop,node-grnst-844-lobby
@@ -478,8 +472,6 @@ facility_id,property_id,value
 131,excludes-stop,node-grnst-stairs-lobby
 131,excludes-stop,node-grnst-stairs-platform
 132,direction,up
-132,excludes-stop,9070004
-132,excludes-stop,9070005
 132,excludes-stop,node-sbmnl-132-lobby
 132,excludes-stop,node-sbmnl-132-platform
 132,excludes-stop,node-sbmnl-845-lobby
@@ -490,7 +482,6 @@ facility_id,property_id,value
 132,excludes-stop,node-sbmnl-stairs-platform
 133,direction,up
 133,excludes-stop,11531
-133,excludes-stop,9070007
 133,excludes-stop,node-jaksn-133-lobby
 133,excludes-stop,node-jaksn-133-platform
 133,excludes-stop,node-jaksn-846-lobby
@@ -500,8 +491,6 @@ facility_id,property_id,value
 133,excludes-stop,node-jaksn-stairs-lobby
 133,excludes-stop,node-jaksn-stairs-platform
 134,direction,up
-134,excludes-stop,1258
-134,excludes-stop,1323
 134,excludes-stop,node-rcmnl-134-lobby
 134,excludes-stop,node-rcmnl-134-platform
 134,excludes-stop,node-rcmnl-847-lobby
@@ -694,8 +683,6 @@ facility_id,property_id,value
 138,excludes-stop,node-rugg-olsstairs-lobby
 138,excludes-stop,node-rugg-olsstairs-platform
 139,direction,up
-139,excludes-stop,187
-139,excludes-stop,188
 139,excludes-stop,door-masta-camden
 139,excludes-stop,door-masta-corridor
 139,excludes-stop,door-masta-main
@@ -721,8 +708,6 @@ facility_id,property_id,value
 139,excludes-stop,node-masta-unpstair-exit
 139,excludes-stop,node-masta-unpstair-lobby
 140,direction,up
-140,excludes-stop,11384
-140,excludes-stop,176
 140,excludes-stop,23391
 140,excludes-stop,Back Bay
 140,excludes-stop,Back Bay-01
@@ -791,8 +776,6 @@ facility_id,property_id,value
 140,excludes-stop,node-bbsta-w57stairs-lobby
 140,excludes-stop,node-bbsta-w57stairs-platform
 141,direction,up
-141,excludes-stop,11384
-141,excludes-stop,176
 141,excludes-stop,23391
 141,excludes-stop,Back Bay
 141,excludes-stop,Back Bay-01
@@ -861,8 +844,6 @@ facility_id,property_id,value
 141,excludes-stop,node-bbsta-w57stairs-lobby
 141,excludes-stop,node-bbsta-w57stairs-platform
 142,direction,up
-142,excludes-stop,11384
-142,excludes-stop,176
 142,excludes-stop,23391
 142,excludes-stop,70014
 142,excludes-stop,70015
@@ -932,8 +913,6 @@ facility_id,property_id,value
 142,excludes-stop,node-bbsta-w57stairs-lobby
 142,excludes-stop,node-bbsta-w57stairs-platform
 143,direction,down
-143,excludes-stop,11384
-143,excludes-stop,176
 143,excludes-stop,23391
 143,excludes-stop,70014
 143,excludes-stop,70015
@@ -1003,8 +982,6 @@ facility_id,property_id,value
 143,excludes-stop,node-bbsta-w57stairs-lobby
 143,excludes-stop,node-bbsta-w57stairs-platform
 144,direction,up
-144,excludes-stop,11384
-144,excludes-stop,176
 144,excludes-stop,23391
 144,excludes-stop,70014
 144,excludes-stop,70015
@@ -1074,8 +1051,6 @@ facility_id,property_id,value
 144,excludes-stop,node-bbsta-w57stairs-lobby
 144,excludes-stop,node-bbsta-w57stairs-platform
 145,direction,up
-145,excludes-stop,49002
-145,excludes-stop,6565
 145,excludes-stop,door-tumnl-tremont
 145,excludes-stop,node-145-lobby
 145,excludes-stop,node-146-lobby
@@ -1106,8 +1081,6 @@ facility_id,property_id,value
 145,excludes-stop,node-tumnl-washsbstairs-platform
 145,excludes-stop,node-tumnl-washstairs-lobby
 146,direction,up
-146,excludes-stop,49002
-146,excludes-stop,6565
 146,excludes-stop,70016
 146,excludes-stop,door-tumnl-tremont
 146,excludes-stop,node-145-lobby
@@ -1139,8 +1112,6 @@ facility_id,property_id,value
 146,excludes-stop,node-tumnl-washsbstairs-platform
 146,excludes-stop,node-tumnl-washstairs-lobby
 147,direction,up
-147,excludes-stop,49002
-147,excludes-stop,6565
 147,excludes-stop,70017
 147,excludes-stop,door-tumnl-tremont
 147,excludes-stop,node-145-lobby
@@ -1172,8 +1143,6 @@ facility_id,property_id,value
 147,excludes-stop,node-tumnl-washsbstairs-platform
 147,excludes-stop,node-tumnl-washstairs-lobby
 148,direction,up
-148,excludes-stop,49002
-148,excludes-stop,6565
 148,excludes-stop,70016
 148,excludes-stop,door-tumnl-washington
 148,excludes-stop,node-145-lobby
@@ -1205,8 +1174,6 @@ facility_id,property_id,value
 148,excludes-stop,node-tumnl-washsbstairs-platform
 148,excludes-stop,node-tumnl-washstairs-lobby
 149,direction,up
-149,excludes-stop,49002
-149,excludes-stop,6565
 149,excludes-stop,70017
 149,excludes-stop,door-tumnl-washington
 149,excludes-stop,node-145-lobby
@@ -1359,8 +1326,6 @@ facility_id,property_id,value
 301,excludes-stop,node-andrw-sobstairs-lobby
 301,excludes-stop,node-andrw-sobstairs-platform
 302,direction,up
-302,excludes-stop,113
-302,excludes-stop,114
 302,excludes-stop,70027
 302,excludes-stop,70205
 302,excludes-stop,North Station
@@ -1381,8 +1346,6 @@ facility_id,property_id,value
 302,excludes-stop,door-north-crnashua
 302,excludes-stop,door-north-tdgarden
 303,direction,down
-303,excludes-stop,113
-303,excludes-stop,114
 303,excludes-stop,70027
 303,excludes-stop,70205
 303,excludes-stop,North Station
@@ -1403,8 +1366,6 @@ facility_id,property_id,value
 303,excludes-stop,door-north-crnashua
 303,excludes-stop,door-north-tdgarden
 304,direction,up
-304,excludes-stop,113
-304,excludes-stop,114
 304,excludes-stop,70026
 304,excludes-stop,70205
 304,excludes-stop,70206
@@ -1659,8 +1620,6 @@ facility_id,property_id,value
 313,excludes-stop,node-haecl-passogstair-platform
 315,direction,up
 315,excludes-stop,70152
-315,excludes-stop,79
-315,excludes-stop,93
 315,excludes-stop,door-hymnl-mass
 315,excludes-stop,door-hymnl-newbury
 315,excludes-stop,node-315-platform
@@ -1902,7 +1861,6 @@ facility_id,property_id,value
 327,excludes-stop,node-nqncy-spstair-platform
 329,direction,up
 330,direction,up
-330,excludes-stop,32000
 330,excludes-stop,32001
 330,excludes-stop,32002
 330,excludes-stop,32003
@@ -2578,7 +2536,6 @@ facility_id,property_id,value
 360,excludes-stop,node-cntsq-westernstair-fareunpaid
 360,excludes-stop,node-cntsq-westernstair-platform
 361,direction,up
-361,excludes-stop,2231
 361,excludes-stop,70072
 361,excludes-stop,door-knncl-nbmain
 361,excludes-stop,door-knncl-nbsecond
@@ -2608,7 +2565,6 @@ facility_id,property_id,value
 361,excludes-stop,node-knncl-sbsec-farepaid
 361,excludes-stop,node-knncl-sbsec-fareunpaid
 362,direction,up
-362,excludes-stop,2231
 362,excludes-stop,70071
 362,excludes-stop,door-knncl-nbsecond
 362,excludes-stop,door-knncl-sbmain
@@ -2811,8 +2767,6 @@ facility_id,property_id,value
 366,excludes-stop,node-chncl-ogonlystair-lobby
 366,excludes-stop,node-chncl-ogupper-landing
 367,direction,up
-367,excludes-stop,150
-367,excludes-stop,151
 367,excludes-stop,door-brdwy-traveler
 367,excludes-stop,node-367-lobby
 367,excludes-stop,node-367-platform
@@ -2827,8 +2781,6 @@ facility_id,property_id,value
 367,excludes-stop,node-brdwy-platstairs-platform
 367,excludes-stop,node-brdwy-travelerstairs-lobby
 372,direction,up
-372,excludes-stop,150
-372,excludes-stop,151
 372,excludes-stop,door-brdwy-traveler
 372,excludes-stop,node-367-lobby
 372,excludes-stop,node-367-platform
@@ -2920,7 +2872,6 @@ facility_id,property_id,value
 373,excludes-stop,node-pktrm-wintfare-paid
 373,excludes-stop,node-pktrm-wintfare-unpaid
 374,direction,up
-374,excludes-stop,65
 374,excludes-stop,door-state-congress
 374,excludes-stop,door-state-exchange
 374,excludes-stop,door-state-meeting
@@ -3026,11 +2977,7 @@ facility_id,property_id,value
 377,excludes-stop,node-chncl-ogonlystair-lobby
 377,excludes-stop,node-chncl-ogupper-landing
 378,direction,up
-378,excludes-stop,5810
-378,excludes-stop,5819
 378,excludes-stop,70056
-378,excludes-stop,9070055
-378,excludes-stop,9070056
 378,excludes-stop,node-378-lobby
 378,excludes-stop,node-378-platform
 378,excludes-stop,node-379-lobby
@@ -3046,11 +2993,7 @@ facility_id,property_id,value
 378,excludes-stop,node-bmmnl-farepaid
 378,excludes-stop,node-bmmnl-fareunpaid
 379,direction,down
-379,excludes-stop,5810
-379,excludes-stop,5819
 379,excludes-stop,70055
-379,excludes-stop,9070055
-379,excludes-stop,9070056
 379,excludes-stop,node-378-lobby
 379,excludes-stop,node-378-platform
 379,excludes-stop,node-379-lobby
@@ -3238,8 +3181,6 @@ facility_id,property_id,value
 383,excludes-stop,node-nqncy-spstair-lobby
 383,excludes-stop,node-nqncy-spstair-platform
 384,direction,up
-384,excludes-stop,113
-384,excludes-stop,114
 384,excludes-stop,North Station
 384,excludes-stop,North Station-01
 384,excludes-stop,North Station-02
@@ -3258,8 +3199,6 @@ facility_id,property_id,value
 384,excludes-stop,door-north-crnashua
 384,excludes-stop,door-north-tdgarden
 385,direction,down
-385,excludes-stop,113
-385,excludes-stop,114
 385,excludes-stop,North Station
 385,excludes-stop,North Station-01
 385,excludes-stop,North Station-02
@@ -3824,8 +3763,6 @@ facility_id,property_id,value
 390,excludes-stop,node-sstat-south-farepaid
 390,excludes-stop,node-sstat-south-fareunpaid
 391,direction,down
-391,excludes-stop,113
-391,excludes-stop,114
 391,excludes-stop,70027
 391,excludes-stop,70205
 391,excludes-stop,North Station
@@ -3845,8 +3782,6 @@ facility_id,property_id,value
 391,excludes-stop,door-north-tdgarden
 391,excludes-stop,door-north-valenti
 392,direction,up
-392,excludes-stop,113
-392,excludes-stop,114
 392,excludes-stop,70027
 392,excludes-stop,70205
 392,excludes-stop,North Station
@@ -3866,8 +3801,6 @@ facility_id,property_id,value
 392,excludes-stop,door-north-tdgarden
 392,excludes-stop,door-north-valenti
 393,direction,up
-393,excludes-stop,113
-393,excludes-stop,114
 393,excludes-stop,70026
 393,excludes-stop,70205
 393,excludes-stop,70206
@@ -5629,8 +5562,6 @@ facility_id,property_id,value
 429,excludes-stop,node-mvbcl-msqstair-lobby
 430,direction,up
 430,excludes-stop,899
-430,excludes-stop,9070150
-430,excludes-stop,9070151
 430,excludes-stop,door-kencl-beacon
 430,excludes-stop,door-kencl-commonwealth
 430,excludes-stop,node-430-landing
@@ -5661,8 +5592,6 @@ facility_id,property_id,value
 431,excludes-stop,70150
 431,excludes-stop,71150
 431,excludes-stop,899
-431,excludes-stop,9070150
-431,excludes-stop,9070151
 431,excludes-stop,door-kencl-beacon
 431,excludes-stop,door-kencl-busway
 431,excludes-stop,door-kencl-commonwealth
@@ -5694,8 +5623,6 @@ facility_id,property_id,value
 432,excludes-stop,70151
 432,excludes-stop,71151
 432,excludes-stop,899
-432,excludes-stop,9070150
-432,excludes-stop,9070151
 432,excludes-stop,door-kencl-beacon
 432,excludes-stop,door-kencl-busway
 432,excludes-stop,door-kencl-commonwealth
@@ -6024,7 +5951,6 @@ facility_id,property_id,value
 443,excludes-stop,node-astao-revplatstair-lobby
 443,excludes-stop,node-astao-revplatstair-platform
 444,direction,up
-444,excludes-stop,4510
 444,excludes-stop,70039
 444,excludes-stop,70040
 444,excludes-stop,70202
@@ -6053,7 +5979,6 @@ facility_id,property_id,value
 444,excludes-stop,node-gover-wbtransstairs-bl
 444,excludes-stop,node-gover-wbtransstairs-gl
 445,direction,up
-445,excludes-stop,4510
 445,excludes-stop,node-444-lobby
 445,excludes-stop,node-444-platform
 445,excludes-stop,node-445-lobby
@@ -6079,7 +6004,6 @@ facility_id,property_id,value
 445,excludes-stop,node-gover-wbtransstairs-bl
 445,excludes-stop,node-gover-wbtransstairs-gl
 446,direction,up
-446,excludes-stop,4510
 446,excludes-stop,70201
 446,excludes-stop,70202
 446,excludes-stop,Government Center-Brattle
@@ -6109,8 +6033,6 @@ facility_id,property_id,value
 446,excludes-stop,node-gover-wbtransstairs-bl
 446,excludes-stop,node-gover-wbtransstairs-gl
 447,direction,up
-447,excludes-stop,113
-447,excludes-stop,114
 447,excludes-stop,North Station
 447,excludes-stop,North Station-01
 447,excludes-stop,North Station-02
@@ -6131,7 +6053,6 @@ facility_id,property_id,value
 447,excludes-stop,door-north-valenti
 50,alternate-service-text,The elevator at Framingham connecting the Inbound and Outbound platforms is out of service. Please proceed to Concord street to cross over to the outbound platform.
 501,direction,up
-501,excludes-stop,65
 501,excludes-stop,70022
 501,excludes-stop,70042
 501,excludes-stop,door-state-cityhall
@@ -6141,7 +6062,6 @@ facility_id,property_id,value
 501,excludes-stop,door-state-state
 501,excludes-stop,door-state-water
 502,direction,up
-502,excludes-stop,65
 502,excludes-stop,door-state-cityhall
 502,excludes-stop,door-state-congress
 502,excludes-stop,door-state-exchange
@@ -6177,20 +6097,14 @@ facility_id,property_id,value
 503,excludes-stop,node-prmnl-wbstair-lobby
 503,excludes-stop,node-prmnl-wbstair-platform
 504,direction,down
-504,excludes-stop,23151
-504,excludes-stop,2430
 504,excludes-stop,door-portr-cracross
 504,excludes-stop,door-portr-crtransfer
 504,excludes-stop,door-portr-elevators
 505,direction,up
-505,excludes-stop,23151
-505,excludes-stop,2430
 505,excludes-stop,door-portr-cracross
 505,excludes-stop,door-portr-crtransfer
 505,excludes-stop,door-portr-elevators
 506,direction,up
-506,excludes-stop,23151
-506,excludes-stop,2430
 506,excludes-stop,70065
 506,excludes-stop,Porter Square
 506,excludes-stop,door-portr-cracross
@@ -6198,8 +6112,6 @@ facility_id,property_id,value
 506,excludes-stop,door-portr-elevators
 506,excludes-stop,door-portr-escal
 507,direction,up
-507,excludes-stop,23151
-507,excludes-stop,2430
 507,excludes-stop,70065
 507,excludes-stop,Porter Square
 507,excludes-stop,door-portr-cracross
@@ -6207,8 +6119,6 @@ facility_id,property_id,value
 507,excludes-stop,door-portr-elevators
 507,excludes-stop,door-portr-escal
 509,direction,down
-509,excludes-stop,23151
-509,excludes-stop,2430
 509,excludes-stop,Porter Square
 509,excludes-stop,door-portr-cracross
 509,excludes-stop,door-portr-crtransfer
@@ -6216,16 +6126,12 @@ facility_id,property_id,value
 509,excludes-stop,door-portr-escal
 51,alternate-service-text,The elevator at Framingham connecting the Inbound and Outbound platforms is out of service. Please proceed to Concord street to cross over to the outbound platform.
 510,direction,up
-510,excludes-stop,23151
-510,excludes-stop,2430
 510,excludes-stop,Porter Square
 510,excludes-stop,door-portr-cracross
 510,excludes-stop,door-portr-crtransfer
 510,excludes-stop,door-portr-elevators
 510,excludes-stop,door-portr-escal
 511,direction,up
-511,excludes-stop,23151
-511,excludes-stop,2430
 511,excludes-stop,Porter Square
 511,excludes-stop,door-portr-cracross
 511,excludes-stop,door-portr-crtransfer
@@ -6440,7 +6346,6 @@ facility_id,property_id,value
 516,excludes-stop,node-harsq-yardstair-lobby
 52,alternate-service-text,The elevator at Route 128 Station connecting the inbound platform to the lobby is out of service. Please see station personnel for assistance.
 523,direction,up
-523,excludes-stop,65
 523,excludes-stop,door-state-cityhall
 523,excludes-stop,door-state-congress
 523,excludes-stop,door-state-exchange
@@ -6450,7 +6355,6 @@ facility_id,property_id,value
 54,direction,up
 55,direction,up
 6,direction,up
-6,excludes-stop,65
 6,excludes-stop,70022
 6,excludes-stop,70041
 6,excludes-stop,70042
@@ -6569,7 +6473,6 @@ facility_id,property_id,value
 6476,excludes-stop,node-sstat-south-farepaid
 6476,excludes-stop,node-sstat-south-fareunpaid
 701,alternate-service-text,Please use elevator 702 or 703.
-701,excludes-stop,15778
 701,excludes-stop,15795
 701,excludes-stop,door-wondl-nshore
 701,excludes-stop,door-wondl-ocean
@@ -6616,7 +6519,6 @@ facility_id,property_id,value
 701,excludes-stop,node-wondl-oceanstairs-plaza
 701,excludes-stop,node-wondl-plazacenter
 702,alternate-service-text,Please use elevator 701 or 703.
-702,excludes-stop,15778
 702,excludes-stop,15795
 702,excludes-stop,door-wondl-nshore
 702,excludes-stop,door-wondl-ocean
@@ -6663,7 +6565,6 @@ facility_id,property_id,value
 702,excludes-stop,node-wondl-oceanstairs-plaza
 702,excludes-stop,node-wondl-plazacenter
 703,alternate-service-text,Please use elevator 701 or 702.
-703,excludes-stop,15778
 703,excludes-stop,15795
 703,excludes-stop,door-wondl-nshore
 703,excludes-stop,door-wondl-ocean
@@ -6710,7 +6611,6 @@ facility_id,property_id,value
 703,excludes-stop,node-wondl-oceanstairs-plaza
 703,excludes-stop,node-wondl-plazacenter
 708,alternate-service-text,Use walkway @ Wonderland for access between lobby & crosswalk.
-708,excludes-stop,15778
 708,excludes-stop,door-wondl-nshore
 708,excludes-stop,door-wondl-ocean
 708,excludes-stop,door-wondl-oceann
@@ -6756,7 +6656,6 @@ facility_id,property_id,value
 708,excludes-stop,node-wondl-oceanstairs-plaza
 708,excludes-stop,node-wondl-plazacenter
 709,alternate-service-text,Use ramp to elevator 708.
-709,excludes-stop,15778
 709,excludes-stop,15795
 709,excludes-stop,70060
 709,excludes-stop,door-wondl-nshore
@@ -6803,7 +6702,6 @@ facility_id,property_id,value
 709,excludes-stop,node-wondl-oceanstairs-plaza
 709,excludes-stop,node-wondl-plazacenter
 710,alternate-service-text,Use ramp to elevator 708.
-710,excludes-stop,15778
 710,excludes-stop,15795
 710,excludes-stop,70059
 710,excludes-stop,door-wondl-nshore
@@ -6850,7 +6748,6 @@ facility_id,property_id,value
 710,excludes-stop,node-wondl-oceanstairs-plaza
 710,excludes-stop,node-wondl-plazacenter
 711,alternate-service-text,Use elevator 710.
-711,excludes-stop,15778
 711,excludes-stop,door-wondl-nshore
 711,excludes-stop,door-wondl-oceann
 711,excludes-stop,door-wondl-oceannele
@@ -7113,7 +7010,6 @@ facility_id,property_id,value
 719,excludes-stop,node-astao-revplatstair-lobby
 719,excludes-stop,node-astao-revplatstair-platform
 720,alternate-service-text,Please use adjacent Government Center Elevator 721.
-720,excludes-stop,4510
 720,excludes-stop,node-444-lobby
 720,excludes-stop,node-444-platform
 720,excludes-stop,node-445-lobby
@@ -7139,7 +7035,6 @@ facility_id,property_id,value
 720,excludes-stop,node-gover-wbtransstairs-bl
 720,excludes-stop,node-gover-wbtransstairs-gl
 721,alternate-service-text,Please use adjacent Government Center Elevator 720.
-721,excludes-stop,4510
 721,excludes-stop,node-444-lobby
 721,excludes-stop,node-444-platform
 721,excludes-stop,node-445-lobby
@@ -7165,7 +7060,6 @@ facility_id,property_id,value
 721,excludes-stop,node-gover-wbtransstairs-bl
 721,excludes-stop,node-gover-wbtransstairs-gl
 722,alternate-service-text,Please use adjacent Government Center Elevator 723.
-722,excludes-stop,4510
 722,excludes-stop,70201
 722,excludes-stop,70202
 722,excludes-stop,Government Center-Brattle
@@ -7195,7 +7089,6 @@ facility_id,property_id,value
 722,excludes-stop,node-gover-wbtransstairs-bl
 722,excludes-stop,node-gover-wbtransstairs-gl
 723,alternate-service-text,Please use adjacent Government Center Elevator 722.
-723,excludes-stop,4510
 723,excludes-stop,70201
 723,excludes-stop,70202
 723,excludes-stop,Government Center-Brattle
@@ -7225,8 +7118,6 @@ facility_id,property_id,value
 723,excludes-stop,node-gover-wbtransstairs-bl
 723,excludes-stop,node-gover-wbtransstairs-gl
 731,alternate-service-text,"If exiting, travel down the passageway and use North Station Elevator 732 to reach Causeway Street. If boarding, exit through the east TD Garden entrance and follow the path to Causeway Street. At Causeway Street, turn right and use North Station Elevator 732 to reach the lobby."
-731,excludes-stop,113
-731,excludes-stop,114
 731,excludes-stop,North Station
 731,excludes-stop,North Station-01
 731,excludes-stop,North Station-02
@@ -7245,8 +7136,6 @@ facility_id,property_id,value
 731,excludes-stop,door-north-tdgarden
 731,excludes-stop,door-north-valenti
 732,alternate-service-text,"If exiting, travel down the passageway and use North Station Elevator 731 to reach Causeway Street. If boarding, exit through the east TD Garden entrance and follow the path to Causeway Street. At Causeway Street, turn right and use North Station Elevator 731 to reach the lobby."
-732,excludes-stop,113
-732,excludes-stop,114
 732,excludes-stop,North Station
 732,excludes-stop,North Station-01
 732,excludes-stop,North Station-02
@@ -7268,7 +7157,6 @@ facility_id,property_id,value
 734,alternate-service-text,"If exiting, use Wollaston Elevator 735 (platform to pedestrian bridge) and then transfer to Wollaston Elevator 733 (Pedestrian bridge to parking lot lobby). If boarding, proceed up the passageway ramp to the parking lot lobby and use Wollaston Elevator 733 (Parking lot lobby to pedestrian bridge). Transfer to Wollaston Elevator 735 (Pedestrian bridge to platform)."
 735,alternate-service-text,"If exiting, use Wollaston Elevator 734 (platform to Newport Ave lobby).Â  Proceed up the passageway ramp to the parking lot lobby.If boarding, proceed down the passageway to the Newport Ave lobby and use Wollaston Elevator 734 (Newport Ave lobby to platform)."
 800,alternate-service-text,"Customers desiring elevator service to exit at Oak Grove must exit the train at Malden Center and see station personnel for further assistance. Customer desiring elevator service to enter the station should utilize the call box for further assistance. Alternatively, use Bus Routes 132, 136, or 137 to connect between Oak Grove and Malden Center."
-800,excludes-stop,9326
 800,excludes-stop,9328
 800,excludes-stop,door-ogmnl-wash
 800,excludes-stop,node-102-lobby
@@ -7293,7 +7181,6 @@ facility_id,property_id,value
 800,excludes-stop,node-ogmnl-washstair-lobby
 800,excludes-stop,node-ogmnl-washstair-street
 801,alternate-service-text,"Customers desiring elevator service to exit at Oak Grove must exit the train at Malden Center and see station personnel for further assistance. Customer desiring elevator service to enter the station should utilize the call box system for further assistance. Alternatively, use Bus Routes 132, 136, or 137 to connect between Oak Grove and Malden Center."
-801,excludes-stop,9326
 801,excludes-stop,9328
 801,excludes-stop,door-ogmnl-wash
 801,excludes-stop,node-102-lobby
@@ -7318,7 +7205,6 @@ facility_id,property_id,value
 801,excludes-stop,node-ogmnl-washstair-lobby
 801,excludes-stop,node-ogmnl-washstair-street
 802,alternate-service-text,Please use adjacent State Street Elevator 967.
-802,excludes-stop,65
 802,excludes-stop,70022
 802,excludes-stop,70042
 802,excludes-stop,door-state-cityhall
@@ -7328,7 +7214,6 @@ facility_id,property_id,value
 802,excludes-stop,door-state-state
 802,excludes-stop,door-state-water
 803,alternate-service-text,"Please use State Street Elevator 975 at the Wonderland Blue Line lobby (53 State Street). Alternatively, if exiting, take the Orange Line to Downtown Crossing and exit to Washington Street via Downtown Crossing Elevator 892. Turn left on Washington Street and travel one-third of a mile to Washington, School, and Milk Streets."
-803,excludes-stop,65
 803,excludes-stop,door-state-cityhall
 803,excludes-stop,door-state-congress
 803,excludes-stop,door-state-exchange
@@ -7498,7 +7383,6 @@ facility_id,property_id,value
 808,excludes-stop,node-pktrm-wintfare-paid
 808,excludes-stop,node-pktrm-wintfare-unpaid
 810,alternate-service-text,"Use Bus Routes 210, 211, 212, or 215 for connections between Quincy Center and North Quincy."
-810,excludes-stop,32000
 810,excludes-stop,32001
 810,excludes-stop,32002
 810,excludes-stop,32003
@@ -8073,8 +7957,6 @@ facility_id,property_id,value
 843,excludes-stop,node-forhl-splatstairs-lobby
 843,excludes-stop,node-forhl-splatstairs-platform
 844,alternate-service-text,"If exiting, exit the Orange Line at Forest Hills and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Green Street to request assistance."
-844,excludes-stop,9070002
-844,excludes-stop,9070003
 844,excludes-stop,node-grnst-131-lobby
 844,excludes-stop,node-grnst-131-platform
 844,excludes-stop,node-grnst-844-lobby
@@ -8084,8 +7966,6 @@ facility_id,property_id,value
 844,excludes-stop,node-grnst-stairs-lobby
 844,excludes-stop,node-grnst-stairs-platform
 845,alternate-service-text,"If exiting, exit the Orange Line at Jackson Square and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Stony Brook to request assistance."
-845,excludes-stop,9070004
-845,excludes-stop,9070005
 845,excludes-stop,node-sbmnl-132-lobby
 845,excludes-stop,node-sbmnl-132-platform
 845,excludes-stop,node-sbmnl-845-lobby
@@ -8096,7 +7976,6 @@ facility_id,property_id,value
 845,excludes-stop,node-sbmnl-stairs-platform
 846,alternate-service-text,Customers requiring elevator access to exit the station must exit at Roxbury Crossing and board the Route 22 bus service to Jackson Square. Customers desiring elevator access to enter the station should board the Route 22 bus service at Jackson Square to Roxbury Crossing for Orange Line service. Please see station personnel for assistance.
 846,excludes-stop,11531
-846,excludes-stop,9070007
 846,excludes-stop,node-jaksn-133-lobby
 846,excludes-stop,node-jaksn-133-platform
 846,excludes-stop,node-jaksn-846-lobby
@@ -8106,8 +7985,6 @@ facility_id,property_id,value
 846,excludes-stop,node-jaksn-stairs-lobby
 846,excludes-stop,node-jaksn-stairs-platform
 847,alternate-service-text,Customers desiring elevator service at Roxbury Crossing must continue to Ruggles and board the Route 22 bus back to Roxbury Crossing. Customers desiring to enter the station should see station personnel for further assistance.
-847,excludes-stop,1258
-847,excludes-stop,1323
 847,excludes-stop,node-rcmnl-134-lobby
 847,excludes-stop,node-rcmnl-134-platform
 847,excludes-stop,node-rcmnl-847-lobby
@@ -8301,8 +8178,6 @@ facility_id,property_id,value
 851,excludes-stop,node-rugg-olsstairs-lobby
 851,excludes-stop,node-rugg-olsstairs-platform
 852,alternate-service-text,"If exiting, exit the Orange Line at Back Bay and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Massachusetts Avenue to request assistance."
-852,excludes-stop,187
-852,excludes-stop,188
 852,excludes-stop,door-masta-camden
 852,excludes-stop,door-masta-corridor
 852,excludes-stop,door-masta-main
@@ -8328,8 +8203,6 @@ facility_id,property_id,value
 852,excludes-stop,node-masta-unpstair-exit
 852,excludes-stop,node-masta-unpstair-lobby
 853,alternate-service-text,"If exiting, exit the Orange Line at Mass Ave and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Back Bay to request assistance."
-853,excludes-stop,11384
-853,excludes-stop,176
 853,excludes-stop,23391
 853,excludes-stop,Back Bay
 853,excludes-stop,Back Bay-01
@@ -8398,8 +8271,6 @@ facility_id,property_id,value
 853,excludes-stop,node-bbsta-w57stairs-lobby
 853,excludes-stop,node-bbsta-w57stairs-platform
 854,alternate-service-text,"Please contact station personnel or conductor for assistance. Alternatively, please board at South Station."
-854,excludes-stop,11384
-854,excludes-stop,176
 854,excludes-stop,23391
 854,excludes-stop,70014
 854,excludes-stop,70015
@@ -8469,8 +8340,6 @@ facility_id,property_id,value
 854,excludes-stop,node-bbsta-w57stairs-lobby
 854,excludes-stop,node-bbsta-w57stairs-platform
 855,alternate-service-text,"Please contact station personnel official or conductor for assistance. Alternatively, please board at South Station."
-855,excludes-stop,11384
-855,excludes-stop,176
 855,excludes-stop,23391
 855,excludes-stop,70014
 855,excludes-stop,70015
@@ -8540,8 +8409,6 @@ facility_id,property_id,value
 855,excludes-stop,node-bbsta-w57stairs-lobby
 855,excludes-stop,node-bbsta-w57stairs-platform
 856,alternate-service-text,"Please contact station personnel or conductor for assistance. Alternatively, please board at South Station."
-856,excludes-stop,11384
-856,excludes-stop,176
 856,excludes-stop,23391
 856,excludes-stop,70014
 856,excludes-stop,70015
@@ -8611,8 +8478,6 @@ facility_id,property_id,value
 856,excludes-stop,node-bbsta-w57stairs-lobby
 856,excludes-stop,node-bbsta-w57stairs-platform
 857,alternate-service-text,"If exiting, exit the Orange Line at Back Bay and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Tufts Medical Center to request assistance. Alternatively, travel to nearby Chinatown Station."
-857,excludes-stop,49002
-857,excludes-stop,6565
 857,excludes-stop,door-tumnl-tremont
 857,excludes-stop,node-145-lobby
 857,excludes-stop,node-146-lobby
@@ -8643,8 +8508,6 @@ facility_id,property_id,value
 857,excludes-stop,node-tumnl-washsbstairs-platform
 857,excludes-stop,node-tumnl-washstairs-lobby
 858,alternate-service-text,"If exiting, exit the Orange Line at Back Bay and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Tufts Medical Center to request assistance. Alternatively, travel to nearby Chinatown Station."
-858,excludes-stop,49002
-858,excludes-stop,6565
 858,excludes-stop,70016
 858,excludes-stop,door-tumnl-tremont
 858,excludes-stop,node-145-lobby
@@ -8676,8 +8539,6 @@ facility_id,property_id,value
 858,excludes-stop,node-tumnl-washsbstairs-platform
 858,excludes-stop,node-tumnl-washstairs-lobby
 859,alternate-service-text,"If exiting, exit the Orange Line at Back Bay and see station personnel for or use the call box to request assistance. If boarding, see station personnel or use the call box at Tufts Medical Center to request assistance. Alternatively, travel to nearby Chinatown Station."
-859,excludes-stop,49002
-859,excludes-stop,6565
 859,excludes-stop,70017
 859,excludes-stop,door-tumnl-tremont
 859,excludes-stop,node-145-lobby
@@ -8767,7 +8628,6 @@ facility_id,property_id,value
 861,excludes-stop,node-cntsq-westernstair-fareunpaid
 861,excludes-stop,node-cntsq-westernstair-platform
 863,alternate-service-text,"If exiting at Kendall, exit the Red Line at Charles/MGH, switch to an Alewife train, and exit at Kendall using Kendall Elevator 866. If boarding at Kendall, cross the street and use Kendall Elevator 866 to board an Alewife-bound train to Harvard Square. At Harvard Square, board an Ashmont-/Braintree-bound Red Line train. Alternatively, take the Route 68 bus connecting Harvard Square and Kendall."
-863,excludes-stop,2231
 863,excludes-stop,70072
 863,excludes-stop,door-knncl-nbmain
 863,excludes-stop,door-knncl-nbsecond
@@ -8846,7 +8706,6 @@ facility_id,property_id,value
 865,excludes-stop,node-welln-skyentry
 865,excludes-stop,node-welln-skystairs-bridge
 866,alternate-service-text,"If exiting at Kendall, exit the Red Line at Harvard Square, take an Ashmont-/Braintree-bound Red Line train to Kendall, and exit using Kendall Elevator 863. If boarding at Kendall, cross street and use Kendall Elevator 863 to board an Ashmont-/Braintree-bound train to Charles/MGH. At Charles/MGH, board an Alewife-bound Red Line train."
-866,excludes-stop,2231
 866,excludes-stop,70071
 866,excludes-stop,door-knncl-nbsecond
 866,excludes-stop,door-knncl-sbmain
@@ -8876,8 +8735,6 @@ facility_id,property_id,value
 866,excludes-stop,node-knncl-sbsec-farepaid
 866,excludes-stop,node-knncl-sbsec-fareunpaid
 867,alternate-service-text,Customers desiring elevator service at Broadway must continue to Andrew and see station personnel for further assistance. Customers desiring elevator service to enter the station should use the call box for further assistance.
-867,excludes-stop,150
-867,excludes-stop,151
 867,excludes-stop,door-brdwy-traveler
 867,excludes-stop,node-367-lobby
 867,excludes-stop,node-367-platform
@@ -8892,8 +8749,6 @@ facility_id,property_id,value
 867,excludes-stop,node-brdwy-platstairs-platform
 867,excludes-stop,node-brdwy-travelerstairs-lobby
 868,alternate-service-text,Customers desiring elevator service at Broadway must continue to Andrew and see station personnel for further assistance. Customers desiring elevator service to enter the station should use the call box for further assistance.
-868,excludes-stop,150
-868,excludes-stop,151
 868,excludes-stop,door-brdwy-traveler
 868,excludes-stop,node-367-lobby
 868,excludes-stop,node-367-platform
@@ -9056,7 +8911,6 @@ facility_id,property_id,value
 870,excludes-stop,node-dwnxg-wintwashfare-paid
 870,excludes-stop,node-dwnxg-wintwashfare-unpaid
 871,alternate-service-text,810
-871,excludes-stop,32000
 871,excludes-stop,32001
 871,excludes-stop,32002
 871,excludes-stop,32003
@@ -9234,24 +9088,16 @@ facility_id,property_id,value
 881,excludes-stop,node-sull-sbstairs-platform
 884,alternate-service-text,"If exiting, exit the Blue Line at Beachmont and switch to a Wonderland-bound train. Exit at Revere Beach using Revere Beach Elevator 885. If boarding, take Revere Beach Elevator 885 to Wonderland and switch to a Government Center-bound train."
 884,excludes-stop,70058
-884,excludes-stop,9070057
-884,excludes-stop,9070058
 884,excludes-stop,door-rbmnl-beach
 884,excludes-stop,door-rbmnl-ocean
 884,excludes-stop,door-rbmnl-shirley
 885,alternate-service-text,"If exiting, exit the Blue Line at Wonderland and switch to a Government Center-bound train. Exit at Revere Beach using Revere Beach Elevator 884. If boarding, take Revere Beach Elevator 884 to Beachmont and switch to a Wonderland-bound train."
 885,excludes-stop,70057
-885,excludes-stop,9070057
-885,excludes-stop,9070058
 885,excludes-stop,door-rbmnl-beach
 885,excludes-stop,door-rbmnl-ocean
 885,excludes-stop,door-rbmnl-shirley
 886,alternate-service-text,"If on the Blue Line, exit at Suffolk Downs and to board a Wonderland-bound train to return to Beachmont. If boarding, take a Wonderland-bound Blue Line train to Revere Beach and use the footbridge to cross over the tracks to board a Government Center-bound train."
-886,excludes-stop,5810
-886,excludes-stop,5819
 886,excludes-stop,70056
-886,excludes-stop,9070055
-886,excludes-stop,9070056
 886,excludes-stop,node-378-lobby
 886,excludes-stop,node-378-platform
 886,excludes-stop,node-379-lobby
@@ -9267,11 +9113,7 @@ facility_id,property_id,value
 886,excludes-stop,node-bmmnl-farepaid
 886,excludes-stop,node-bmmnl-fareunpaid
 887,alternate-service-text,"If on the Blue Line, exit at Revere Beach and cross over the tracks to board a Government-Center-bound train to return to Beachmont. If boarding, take a Government Center-bound train to Suffolk Downs. At Suffolk Downs, cross over the tracks and board a Wonderland-bound train."
-887,excludes-stop,5810
-887,excludes-stop,5819
 887,excludes-stop,70055
-887,excludes-stop,9070055
-887,excludes-stop,9070056
 887,excludes-stop,node-378-lobby
 887,excludes-stop,node-378-platform
 887,excludes-stop,node-379-lobby
@@ -9495,7 +9337,6 @@ facility_id,property_id,value
 892,excludes-stop,node-dwnxg-wintwashfare-paid
 892,excludes-stop,node-dwnxg-wintwashfare-unpaid
 896,alternate-service-text,"Customers coming from South Station or JFK/UMass should use the Red Line. \nFor customers coming from the Old Colony Lines, please contact the conductor to arrange a stop at Braintree. At Braintree, customers may transfer to the Red Line for Alewife-bound service to Quincy Center. Please contact station personnel for assistance."
-896,excludes-stop,32000
 896,excludes-stop,32001
 896,excludes-stop,32002
 896,excludes-stop,32003
@@ -10036,8 +9877,6 @@ facility_id,property_id,value
 908,excludes-stop,node-haecl-passogstair-passage
 908,excludes-stop,node-haecl-passogstair-platform
 909,alternate-service-text,"If exiting, travel along the Green Line platform to reach the main station lobby. Once there, pass through the fare gates. Turn right to use North Station Elevator 912 (lobby to Haverhill Street and Causeway Street) located adjacent to the fare gates. Alternatively, continue down the passageway towards the Commuter Rail to reach North Station Elevator 731 (passageway to Commuter Rail and TD Garden).\nIf boarding, travel one-tenth of a mile down Canal or Beverly Streets to the North Station entrances on Causeway Street."
-909,excludes-stop,113
-909,excludes-stop,114
 909,excludes-stop,North Station
 909,excludes-stop,North Station-01
 909,excludes-stop,North Station-02
@@ -10056,8 +9895,6 @@ facility_id,property_id,value
 909,excludes-stop,door-north-crnashua
 909,excludes-stop,door-north-tdgarden
 910,alternate-service-text,"If exiting, exit the train to Haymarket and return to North Station on an Oak Grove- (Orange Line) or Lechmere-/North Station- (Green Line) bound train. Alternatively, customers may exit at Haymarket, cross New Chardon Street, and travel three-tenths of a mile down Canal Street to North Station at Causeway Street."
-910,excludes-stop,113
-910,excludes-stop,114
 910,excludes-stop,70027
 910,excludes-stop,70205
 910,excludes-stop,North Station
@@ -10078,8 +9915,6 @@ facility_id,property_id,value
 910,excludes-stop,door-north-tdgarden
 910,excludes-stop,door-north-valenti
 911,alternate-service-text,"If exiting, take the Orange Line to Community College and return to North Station on a Forest Hills-bound train and exit using North Station Elevator 910. If boarding, use North Station Elevator 910 to board a Forest Hills-bound train. At Haymarket, switch to an Oak Grove-bound train. \nAlternatively, customers may exit at Haymarket, cross New Chardon Street, and travel three-tenths of a mile down Canal Street to North Station at Causeway Street."
-911,excludes-stop,113
-911,excludes-stop,114
 911,excludes-stop,70026
 911,excludes-stop,70205
 911,excludes-stop,70206
@@ -10101,8 +9936,6 @@ facility_id,property_id,value
 911,excludes-stop,door-north-tdgarden
 911,excludes-stop,door-north-valenti
 912,alternate-service-text,"If exiting, travel down the passageway toward the Commuter Rail and use North Station Elevator 731 (passageway to Causeway Street). Alternatively, pass through the fare gates and walk the full length of the Green Line platform to reach the opposite lobby at Valenti Way. At this lobby, use North Station Elevator 909 (lobby to Valenti Way) to reach the street level. If boarding, cross Causeway Street to use North Station Elevator 731 to reach the lobby."
-912,excludes-stop,113
-912,excludes-stop,114
 912,excludes-stop,North Station
 912,excludes-stop,North Station-01
 912,excludes-stop,North Station-02
@@ -11300,8 +11133,6 @@ facility_id,property_id,value
 940,excludes-stop,node-crtst-wtcmainstair-lobby
 940,excludes-stop,node-crtst-wtcmainstair-platform
 941,alternate-service-text,"If exiting, return to the fare lobby to use North Station Elevator 912 (lobby to Causeway Street). If boarding, cross Causeway Street to use North Station Elevator 912 (lobby to street)."
-941,excludes-stop,113
-941,excludes-stop,114
 941,excludes-stop,North Station
 941,excludes-stop,North Station-01
 941,excludes-stop,North Station-02
@@ -11414,8 +11245,6 @@ facility_id,property_id,value
 947,excludes-stop,node-shmnl-sydstair-lobby
 948,alternate-service-text,Use Kenmore Elevator 972 at the Kenmore busway.
 948,excludes-stop,899
-948,excludes-stop,9070150
-948,excludes-stop,9070151
 948,excludes-stop,door-kencl-busway
 948,excludes-stop,node-430-landing
 948,excludes-stop,node-431-lobby
@@ -11850,7 +11679,6 @@ facility_id,property_id,value
 966,excludes-stop,node-mvbcl-msqstair-entrance
 966,excludes-stop,node-mvbcl-msqstair-lobby
 967,alternate-service-text,Please use adjacent State Street Elevator 802.
-967,excludes-stop,65
 967,excludes-stop,70022
 967,excludes-stop,70042
 967,excludes-stop,door-state-cityhall
@@ -11965,8 +11793,6 @@ facility_id,property_id,value
 971,excludes-stop,70150
 971,excludes-stop,71150
 971,excludes-stop,899
-971,excludes-stop,9070150
-971,excludes-stop,9070151
 971,excludes-stop,door-kencl-beacon
 971,excludes-stop,door-kencl-busway
 971,excludes-stop,door-kencl-commonwealth
@@ -11996,8 +11822,6 @@ facility_id,property_id,value
 971,excludes-stop,node-kencl-wbstair-platform
 972,alternate-service-text,Customers desiring elevator access to exit the station on the inbound side must continue to Copley or Arlington and transfer to outbound service back to Kenmore. Customers desiring inbound service can use the outbound elevator and take the C- or D-Line one stop and transfer back to inbound service. Please see station personnel for assistance.
 972,excludes-stop,899
-972,excludes-stop,9070150
-972,excludes-stop,9070151
 972,excludes-stop,door-kencl-beacon
 972,excludes-stop,door-kencl-commonwealth
 972,excludes-stop,node-430-landing
@@ -12067,7 +11891,6 @@ facility_id,property_id,value
 973,excludes-stop,node-harsq-upperramp-upper
 973,excludes-stop,node-harsq-yardstair-lobby
 974,alternate-service-text,"If exiting, go down the ramp to the Oak Grove platform. Turn left and take elevator 967 or 802 to the Wonderland platform. From the platform take elevator 975 to reach the street. \nIf boarding, cross State Street to use elevator 975 to the Wonderland platform. Take the ramp to the Bowdoin platform, the hallway to the Forest Hills platform, or elevators 967 or 802 to the Oak Grove platform."
-974,excludes-stop,65
 974,excludes-stop,70042
 974,excludes-stop,door-state-cityhall
 974,excludes-stop,door-state-exchange
@@ -12075,7 +11898,6 @@ facility_id,property_id,value
 974,excludes-stop,door-state-state
 974,excludes-stop,door-state-water
 975,alternate-service-text,Please use State Street Elevator 974 on Government Center-bound Blue Line platform to connect to 60 State Street.
-975,excludes-stop,65
 975,excludes-stop,70041
 975,excludes-stop,door-state-cityhall
 975,excludes-stop,door-state-congress
@@ -12312,28 +12134,20 @@ facility_id,property_id,value
 981,excludes-stop,node-spmnl-sfarepaid
 981,excludes-stop,node-spmnl-sfareunpaid
 982,alternate-service-text,Please use adjacent Porter Square Elevator 985 to reach the street or the lobby.
-982,excludes-stop,23151
-982,excludes-stop,2430
 982,excludes-stop,door-portr-cracross
 982,excludes-stop,door-portr-crtransfer
 982,excludes-stop,door-portr-escal
 983,alternate-service-text,Please use adjacent Porter Square Elevator 987 to reach the platforms or the lobby.
-983,excludes-stop,23151
-983,excludes-stop,2430
 983,excludes-stop,Porter Square
 983,excludes-stop,door-portr-cracross
 983,excludes-stop,door-portr-crtransfer
 983,excludes-stop,door-portr-elevators
 983,excludes-stop,door-portr-escal
 985,alternate-service-text,Please use nearby Porter Square Elevator 982 to access the lobby or street.
-985,excludes-stop,23151
-985,excludes-stop,2430
 985,excludes-stop,door-portr-cracross
 985,excludes-stop,door-portr-crtransfer
 985,excludes-stop,door-portr-escal
 986,alternate-service-text,See station personnel or use the call box to request assistance.
-986,excludes-stop,23151
-986,excludes-stop,2430
 986,excludes-stop,70065
 986,excludes-stop,70066
 986,excludes-stop,door-portr-cracross
@@ -12341,8 +12155,6 @@ facility_id,property_id,value
 986,excludes-stop,door-portr-elevators
 986,excludes-stop,door-portr-escal
 987,alternate-service-text,Please use adjacent Porter Square Elevator 983 to reach the platforms or the lobby.
-987,excludes-stop,23151
-987,excludes-stop,2430
 987,excludes-stop,Porter Square
 987,excludes-stop,door-portr-cracross
 987,excludes-stop,door-portr-crtransfer
@@ -16190,7 +16002,7 @@ park-ER-0276,contact,"Town of Ipswich, Parking Clerk"
 park-ER-0276,contact-phone,978-356-6611
 park-ER-0276,contact-url,https://www.ipswichma.gov/616/Parking
 park-ER-0276,enclosed,2
-park-ER-0276,fee-daily,free
+park-ER-0276,fee-daily,Town permit required
 park-ER-0276,municipality,Ipswich
 park-ER-0276,note,"Town of Ipswich is responsible for parking maintenance, payments, and snow removal."
 park-ER-0276,operator,Town of Ipswich
@@ -17628,7 +17440,7 @@ park-SB-0189,contact-url,http://www.parkmbta.com/
 park-SB-0189,enclosed,2
 park-SB-0189,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-SB-0189,fee-monthly,$70
-park-SB-0189,municipality,Stoghton
+park-SB-0189,municipality,Stoughton
 park-SB-0189,operator,Republic Parking System
 park-SB-0189,overnight-allowed,no
 park-SB-0189,owner,MBTA
