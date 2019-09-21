@@ -2083,14 +2083,11 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 27,27,E Broadway @ N St,,,,42.335642,-71.031087,,,https://www.mbta.com/stops/27,,0,,1,Boston,East Broadway,N Street,3
 270,270,Columbia Rd @ P St,,,,42.332487,-71.027186,,,https://www.mbta.com/stops/270,,0,,2,Boston,Columbia Road,P Street,3
 2700,2700,Broadway @ Medford St - Magoun Sq,,,,42.397203,-71.104096,,,https://www.mbta.com/stops/2700,,0,,1,Somerville,Broadway,Medford Street,3
-2701,2701,Broadway @ Norwood Ave,,,,42.396609,-71.102275,,,https://www.mbta.com/stops/2701,,0,,0,Somerville,Broadway,Frontage Road,
 2702,2702,Broadway @ Bartlett St,,,,42.395833,-71.100118,,,https://www.mbta.com/stops/2702,,0,,1,Somerville,Broadway,Bartlett Street,3
 2703,2703,Broadway opp Main St,,,,42.394728,-71.097789,,,https://www.mbta.com/stops/2703,,0,,1,Somerville,Broadway,Main Street,3
 2704,2704,Broadway @ Thurston St,,,,42.393791,-71.095921,,,https://www.mbta.com/stops/2704,,0,,1,Somerville,Broadway,Fenwick Street,3
-2705,2705,Broadway opp Temple St,,,,42.392556,-71.093553,,,https://www.mbta.com/stops/2705,,0,,0,Somerville,Broadway,Temple Street,
 2706,2706,Broadway @ Marshall St,,,,42.392158,-71.092807,,,https://www.mbta.com/stops/2706,,0,,1,Somerville,Broadway,Record Court,3
 2707,2707,Broadway @ Montgomery Ave,,,,42.390497,-71.090264,,,https://www.mbta.com/stops/2707,,0,,1,Somerville,Broadway,Montgomery Avenue,3
-2708,2708,Broadway @ McGrath Hwy,,,,42.389745,-71.088633,,,https://www.mbta.com/stops/2708,,0,,1,Somerville,Broadway,Edmands Street,
 2709,2709,Broadway St @ MacArthur St,,,,42.389316,-71.087677,,,https://www.mbta.com/stops/2709,,0,,1,Somerville,Broadway,MacArthur Street,3
 27092,27092,Terminal B Stop 1 - Arrivals Level,Terminal B Stop 1 - Silver Line - SL1 South Station,,South Station,42.362100,-71.018820,,"Terminal B Arrivals, Door B103, Boston Logan International Airport, Boston, MA 02128",https://www.mbta.com/stops/27092,level_logan_arrivals,0,,1,Boston,Logan Airport Terminal B,,3
 2710,2710,Broadway @ Cross St,,,,42.388616,-71.086108,,,https://www.mbta.com/stops/2710,,0,,1,Somerville,Broadway,Cross Street,3
@@ -2106,14 +2103,10 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2721,2721,Broadway @ Cross St,,,,42.388711,-71.085778,,,https://www.mbta.com/stops/2721,,0,,1,Somerville,Broadway,Cross Street,3
 2722,2722,Broadway @ Kensington Ave,,,,42.389405,-71.087280,,,https://www.mbta.com/stops/2722,,0,,0,Somerville,Broadway,Kensington Avenue,3
 2723,2723,Broadway @ Fellsway W,,,,42.390738,-71.090085,,,https://www.mbta.com/stops/2723,,0,,1,Somerville,Broadway,Fellsway West,3
-2724,2724,Broadway @ Grant St,,,,42.391632,-71.091552,,,https://www.mbta.com/stops/2724,,0,,1,Somerville,Broadway,Grant Street,
 2725,2725,Broadway @ Temple St,,,,42.392521,-71.092975,,,https://www.mbta.com/stops/2725,,0,,1,Somerville,Broadway,Temple Street,3
 2726,2726,Broadway @ Winter Hill Plaza,,,,42.393489,-71.094823,,,https://www.mbta.com/stops/2726,,0,,1,Somerville,Broadway,Winter Hill Circle,3
-2727,2727,Broadway @ Fenwick St,,,,42.394013,-71.095872,,,https://www.mbta.com/stops/2727,,0,,0,Somerville,Broadway,Fenwick Street,
 2729,2729,Broadway @ Main St,,,,42.394765,-71.097355,,,https://www.mbta.com/stops/2729,,0,,1,Somerville,Broadway,Main Street,3
-2730,2730,Broadway opp Adams St,,,,42.395642,-71.099434,,,https://www.mbta.com/stops/2730,,0,,0,Somerville,Broadway,Adams Street,
 2731,2731,Broadway opp Glenwood Rd,,,,42.396300,-71.101014,,,https://www.mbta.com/stops/2731,,0,,0,Somerville,Broadway,Glenwood Road,3
-2732,2732,Broadway opp Norwood Ave,,,,42.396802,-71.102544,,,https://www.mbta.com/stops/2732,,0,,0,Somerville,Broadway,Frontage Road,
 2733,2733,Broadway @ Medford St - Magoun Sq,,,,42.397313,-71.104121,,,https://www.mbta.com/stops/2733,,0,,1,Somerville,Broadway,Medford Street,3
 2734,2734,Broadway @ William St,,,,42.397876,-71.105925,,,https://www.mbta.com/stops/2734,,0,,1,Somerville,Broadway,,3
 2735,2735,Broadway @ Alfred St,,,,42.398403,-71.107573,,,https://www.mbta.com/stops/2735,,0,,1,Somerville,Broadway,Alfred Street,3
@@ -8800,7 +8793,7 @@ node-haecl-passogstair-passage,,Haymarket,"Haymarket - Bottom of stairs between 
 node-haecl-passogstair-platform,,Haymarket,"Haymarket - Top of stairs between Oak Grove platform and Green Line, busway passageway",,,,,,,,level_-1_orange_platform,3,place-haecl,1,Boston,,,
 place-harsq,,Harvard,,,,42.373362,-71.118956,,"1400 Massachusetts Ave, Cambridge, MA",https://www.mbta.com/stops/place-harsq,,1,,1,Cambridge,,,
 2076,2076,Harvard,Harvard - Lower Busway,,Lower Busway,42.373362,-71.118956,,,https://www.mbta.com/stops/place-harsq,level_-2_low_busway,0,place-harsq,0,Cambridge,,,
-20761,20761,Harvard,Harvard - Upper Busway,,Upper Busway,42.373362,-71.118956,,,https://www.mbta.com/stops/place-harsq,level_-1_up_busway,0,place-harsq,0,Cambridge,Harvard Busway,,
+20761,20761,Harvard,Harvard - Upper Busway,,Upper Busway,42.373362,-71.118956,,,https://www.mbta.com/stops/place-harsq,level_-1_up_busway,0,place-harsq,0,Cambridge,,,
 20762,20762,Harvard,Harvard - Busway,,Busway,42.373362,-71.118956,,,https://www.mbta.com/stops/place-harsq,level_-1_up_busway,0,place-harsq,0,Cambridge,Harvard Busway,,3
 70067,70067,Harvard,Harvard - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.373362,-71.118956,,,https://www.mbta.com/stops/place-harsq,level_-2_southbound_platform,0,place-harsq,1,Cambridge,,,1
 70068,70068,Harvard,Harvard - Red Line - Alewife,,Alewife,42.373362,-71.118956,,,https://www.mbta.com/stops/place-harsq,level_-1_alewife_platform,0,place-harsq,1,Cambridge,,,1
