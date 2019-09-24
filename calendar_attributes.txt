@@ -1,7 +1,10 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality
 BUS419-10-Wdy-02,Weekday schedule,Weekday,Weekday,1
+BUS419-10-Wdy-02-SLNTrw,Weekday schedule,Weekday,Weekday,4
 BUS419-11-Sa-02,Saturday schedule,Saturday,Saturday,1
+BUS419-11-Sa-02-SLNTrw,Saturday schedule,Saturday,Saturday,4
 BUS419-12-Su-02,Sunday schedule,Sunday,Sunday,1
+BUS419-12-Su-02-SLNTrw,Sunday schedule,Sunday,Sunday,4
 BUS419-V-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1
 BUS419-W-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1
 BUS419-X-Wdy-02,Weekday schedule,Weekday,Weekday,1
@@ -74,6 +77,7 @@ LRV419-3-Su-01-BbkBCNwnHgsKnrW,Sunday schedule,Sunday,Sunday,4
 LRV419-3-Su-01-CldCrlStMr,Sunday schedule,Sunday,Sunday,4
 LRV419-3-Su-01-NwnHgsKnrW,Sunday schedule,Sunday,Sunday,4
 LRV419-5-Wdy-01,Weekday schedule,Weekday,Weekday,1
+LRV419-5-Wdy-01-AstMtn,Weekday schedule,Weekday,Weekday,4
 LRV419-5-Wdy-01-Mtn,Weekday schedule,Weekday,Weekday,4
 LRV419-6-Sa-01,Saturday schedule,Saturday,Saturday,1
 LRV419-6-Sa-01-Mtn,Saturday schedule,Saturday,Saturday,4
@@ -83,12 +87,15 @@ RTL419-1-Wdy-01,Weekday schedule,Weekday,Weekday,1
 RTL419-1-Wdy-01-OrtHgsWnd,Weekday schedule,Weekday,Weekday,4
 RTL419-5-Wdy-01,Weekday schedule,Weekday,Weekday,1
 RTL419-5-Wdy-01-FrtHlsRgs,Weekday schedule,Weekday,Weekday,4
+RTL419-5-Wdy-01-HSllTfs,Weekday schedule,Weekday,Weekday,4
 RTL419-5-Wdy-01-OkGrvSln,Weekday schedule,Weekday,Weekday,4
 RTL419-5-Wdy-01-OkGrvWln,Weekday schedule,Weekday,Weekday,4
 RTL419-6-Sa-01,Saturday schedule,Saturday,Saturday,1
 RTL419-6-Sa-01-FrtHlsRgs,Saturday schedule,Saturday,Saturday,4
+RTL419-6-Sa-01-HSllTfs,Saturday schedule,Saturday,Saturday,4
 RTL419-7-Su-01,Sunday schedule,Sunday,Sunday,1
 RTL419-7-Su-01-FrtHlsRgs,Sunday schedule,Sunday,Sunday,4
+RTL419-7-Su-01-HSllTfs,Sunday schedule,Sunday,Sunday,4
 RTL419-9-Wdy-01,Weekday schedule,Weekday,Weekday,1
 Saturday,Saturday schedule,Saturday,Saturday,1
 Sunday,Sunday schedule,Sunday,Sunday,1
