@@ -49,7 +49,7 @@ CR-Needham,0,Outbound,Needham Heights
 CR-Needham,1,Inbound,South Station
 CR-Newburyport,0,Outbound,Newburyport or Rockport
 CR-Newburyport,1,Inbound,North Station
-CR-Providence,0,Outbound,Wickford Junction
+CR-Providence,0,Outbound,Stoughton or Wickford Junction
 CR-Providence,1,Inbound,South Station
 CR-Foxboro,0,Outbound,Foxboro or Providence
 CR-Foxboro,1,Inbound,South Station or Foxboro
@@ -425,6 +425,8 @@ Shuttle-AshmontJFK,0,Outbound,Ashmont
 Shuttle-AshmontJFK,1,Inbound,Alewife
 Shuttle-AshmontMattapan,0,Outbound,Mattapan
 Shuttle-AshmontMattapan,1,Inbound,Ashmont
+Shuttle-AshmontMattapanAllStops,0,Outbound,Mattapan
+Shuttle-AshmontMattapanAllStops,1,Inbound,Ashmont
 Shuttle-BabcockBlandford,0,West,Boston College
 Shuttle-BabcockBlandford,1,East,Park Street
 Shuttle-BabcockBostonCollege,0,West,Boston College
@@ -473,6 +475,8 @@ Shuttle-FraminghamRiverside,0,Outbound,Worcester
 Shuttle-FraminghamRiverside,1,Inbound,South Station
 Shuttle-FraminghamWorcester,0,Outbound,"Southborough, Grafton, or Worcester"
 Shuttle-FraminghamWorcester,1,Inbound,South Station
+Shuttle-HaymarketSullivan,0,South,Forest Hills
+Shuttle-HaymarketSullivan,1,North,Oak Grove
 Shuttle-KendallPark,0,South,Ashmont/Braintree
 Shuttle-KendallPark,1,North,Alewife
 Shuttle-KenmoreReservoir,0,West,Riverside
