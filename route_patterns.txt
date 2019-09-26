@@ -3,8 +3,8 @@ Red-1-0,Red,0,Ashmont,,1,10010051,41527099
 Red-3-0,Red,0,Braintree,,1,10010052,41527114
 Red-1-1,Red,1,Alewife,,1,10010151,41527094
 Red-3-1,Red,1,Alewife,,1,10010152,41527109
-Mattapan-_-0,Mattapan,0,Mattapan,,1,10011000,41845181
-Mattapan-_-1,Mattapan,1,Ashmont,,1,10011100,41845179
+Mattapan-_-0,Mattapan,0,Mattapan,,1,10011000,41845433-20:45-AshmontMattapan
+Mattapan-_-1,Mattapan,1,Ashmont,,1,10011100,41845179-20:45-AshmontMattapan
 Orange-3-0,Orange,0,Forest Hills,,1,10020000,41131887-20:15-OakGroveWellington
 Orange-5-0,Orange,0,Forest Hills,Weekdays only,3,10020099,41132015-20:15-OakGroveWellington
 Orange-3-1,Orange,1,Oak Grove,,1,10020100,41131885-20:15-OakGroveWellington
@@ -29,9 +29,9 @@ Green-D-5-1,Green-D,1,Government Center,Weekday early mornings only,3,10034199,4
 Green-E-0-0,Green-E,0,Heath Street,,1,10035000,41837161-20:45-NewtonHighlandsKenmore
 Green-E-2-0,Green-E,0,Heath Street,Weekday early mornings only,3,10035099,41837009-20:45-NewtonHighlandsKenmore
 Green-E-0-1,Green-E,1,Lechmere,,1,10035100,41837191-20:45-NewtonHighlandsKenmore
-Blue-6-0,Blue,0,Bowdoin,,1,10040003,41307847-20:45-OrientHeightsWonderland
-Blue-8-0,Blue,0,Bowdoin,,3,10040096,41307908-20:45-OrientHeightsWonderland
-Blue-6-1,Blue,1,Wonderland,,1,10040100,41308053-20:45-OrientHeightsWonderland
+Blue-6-0,Blue,0,Bowdoin,,1,10040003,41307847
+Blue-8-0,Blue,0,Bowdoin,,3,10040096,41307855
+Blue-6-1,Blue,1,Wonderland,,1,10040100,41307848
 741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,42253819
 741-D-0,741,0,South Station - Logan Airport,,4,10051099,42253823-19:45-SLNoTransitway1
 741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051101,42253820
@@ -948,10 +948,14 @@ Shuttle-BabcockBostonCollege-0-0,Shuttle-BabcockBostonCollege,0,Babcock Street -
 Shuttle-BabcockBostonCollege-0-1,Shuttle-BabcockBostonCollege,1,Boston College - Babcock Street,,4,60450199,41836965-20:45-BabcockBCNewtonHighlandsKenmore1
 Shuttle-BallardvaleMaldenCenter-0-0,Shuttle-BallardvaleMaldenCenter,0,Malden Center - Ballardvale,,4,60650099,CR-Weekday-Spring-19-203-BallardvaleMaldenCenter1
 Shuttle-BallardvaleMaldenCenter-0-1,Shuttle-BallardvaleMaldenCenter,1,Ballardvale - Malden Center,,4,60650199,CR-Weekday-Spring-19-210-BallardvaleMaldenCenter1
+Shuttle-BostonCollegeWashington-0-0,Shuttle-BostonCollegeWashington,0,Washington Street - Boston College,,4,60900099,41836966-20:45-BCWashingtonNewtonHighlandsKenmore1
+Shuttle-BostonCollegeWashington-0-1,Shuttle-BostonCollegeWashington,1,Boston College - Washington Street,,4,60900199,41836965-20:45-BCWashingtonNewtonHighlandsKenmore1
 Shuttle-CapenCentral-0-0,Shuttle-CapenCentral,0,Central Ave - Capen Street,,4,61300099,41845199-20:45-Mattapan1MattapanVan
 Shuttle-CapenCentral-0-1,Shuttle-CapenCentral,1,Capen Street - Central Ave,,4,61300199,41845198-20:45-Mattapan1MattapanVan
-Shuttle-ClevelandCircleKenmore-0-0,Shuttle-ClevelandCircleKenmore,0,Saint Marys Street - Cleveland Circle,,4,61400099,41837283-RedSox-1-20:45-22:45-ClevelandCircleStMaryNewtonHighlandsKenmore1
-Shuttle-ClevelandCircleKenmore-0-1,Shuttle-ClevelandCircleKenmore,1,Cleveland Circle - Saint Marys Street,,4,61400199,41836968-RedSox-1-20:45-22:45-ClevelandCircleStMaryNewtonHighlandsKenmore1
+Shuttle-ClevelandCircleKenmore-0-0,Shuttle-ClevelandCircleKenmore,0,Kenmore - Cleveland Circle,,4,61400099,41837283-20:45-ClevelandCircleKenmoreNewtonHighlandsKenmore1
+Shuttle-ClevelandCircleKenmore-0-1,Shuttle-ClevelandCircleKenmore,1,Cleveland Circle - Kenmore,,4,61400199,41836968-20:45-ClevelandCircleKenmoreNewtonHighlandsKenmore1
+Shuttle-ClevelandCircleStMarys-0-0,Shuttle-ClevelandCircleStMarys,0,Saint Marys Street - Cleveland Circle,,4,61410099,41837283-RedSox-1-20:45-22:45-ClevelandCircleStMarysNewtonHighlandsKenmore1
+Shuttle-ClevelandCircleStMarys-0-1,Shuttle-ClevelandCircleStMarys,1,Cleveland Circle - Saint Marys Street,,4,61410199,41836968-RedSox-1-20:45-22:45-ClevelandCircleStMarysNewtonHighlandsKenmore1
 Shuttle-ForestHillsRuggles-0-0,Shuttle-ForestHillsRuggles,0,Ruggles - Forest Hills,,4,61700099,41132096-20:45-ForestHillsRuggles1
 Shuttle-ForestHillsRuggles-0-1,Shuttle-ForestHillsRuggles,1,Forest Hills - Ruggles,,4,61700199,41132122-20:45-ForestHillsRuggles1
 Shuttle-ForgeParkReadville-0-0,Shuttle-ForgeParkReadville,0,Readville - Forge Park/495,,4,61750099,CR-Saturday-Spring-19-1703-ForgeParkReadvilleForgeParkSouthStation1
