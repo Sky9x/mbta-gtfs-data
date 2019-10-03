@@ -494,6 +494,8 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 1241,1241,Charles St S @ Park Plaza,,,,42.351748,-71.067101,,,https://www.mbta.com/stops/1241,,0,,1,Boston,Charles Street South,Park Plaza,3
 1242,1242,Tremont St @ Charles St S,,,,42.348777,-71.066481,,,https://www.mbta.com/stops/1242,,0,,0,Boston,Tremont Street,Jefferson Street,3
 12432,12432,West Service Rd @ Spring St,,,,42.408189,-71.169767,,,https://www.mbta.com/stops/12432,,0,,0,Arlington,Frontage Road,Ramp - Frontage Rd To Rt 2 Westbound,3
+12439,12439,Prospect St @ Cambridge St,,,,42.373780,-71.097963,,,https://www.mbta.com/stops/12439,,0,,0,Cambridge,Prospect Street,Clary Street,3
+12451,12451,Prospect St @ Cambridge St,,,,42.373622,-71.097843,,,https://www.mbta.com/stops/12451,,0,,0,Cambridge,Prospect Street,Clary Street,3
 1246,1246,Tremont St @ Union Pk,,,,42.343673,-71.072264,,,https://www.mbta.com/stops/1246,,0,,1,Boston,Tremont Street,Union Park,3
 12465,12465,Wadsworth Rd @ Appleton St,,,,42.417136,-71.199535,,,https://www.mbta.com/stops/12465,,0,,0,Arlington,Wadsworth Rd,Appleton Street,3
 12468,12468,Appleton St @ Virginia Rd,,,,42.418807,-71.191934,,,https://www.mbta.com/stops/12468,,0,,0,Arlington,Appleton Street,Wollaston Avenue,3
@@ -503,8 +505,10 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 125,125,Massachusetts Ave @ Clapp St,,,,42.323479,-71.063945,,,https://www.mbta.com/stops/125,,0,,0,Boston,Massachusetts Avenue,Clapp Street,3
 1250,1250,Tremont St @ Worcester St,,,,42.340187,-71.078787,,,https://www.mbta.com/stops/1250,,0,,1,Boston,Tremont Street,Worcester Street,3
 1251,1251,Tremont St @ W Springfield St,,,,42.339703,-71.079768,,,https://www.mbta.com/stops/1251,,0,,1,Boston,Tremont Street,West Springfield Street,3
+12512,12512,Prospect St @ Oak St,,,,42.376160,-71.096266,,,https://www.mbta.com/stops/12512,,0,,0,Somerville,Prospect Street,Oak Street,3
 1252,1252,Tremont St @ Northampton St,,,,42.338955,-71.081129,,,https://www.mbta.com/stops/1252,,0,,1,Boston,Tremont Street,Northampton Street,3
 1253,1253,Tremont St @ Douglas Pk,,,,42.337824,-71.083178,,,https://www.mbta.com/stops/1253,,0,,1,Boston,Tremont Street,,3
+12530,12530,Prospect St @ Webster Ave,,,,42.376669,-71.095686,,,https://www.mbta.com/stops/12530,,0,,0,Somerville,Prospect Street,Concord Avenue,3
 1254,1254,Tremont St @ Burke St,,,,42.336908,-71.084800,,,https://www.mbta.com/stops/1254,,0,,1,Boston,Tremont Street,Burke Street,3
 1255,1255,Tremont St @ Columbus Ave,,,,42.335779,-71.086948,,,https://www.mbta.com/stops/1255,,0,,1,Boston,Tremont Street,Melnea Cass Boulevard,3
 1257,1257,Tremont St @ Prentiss St,,,,42.333071,-71.092378,,,https://www.mbta.com/stops/1257,,0,,1,Boston,Tremont Street,Prentiss Street,3
@@ -547,7 +551,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 1275,1275,Wahington St @ Evans Rd,,,,42.341042,-71.137945,,,https://www.mbta.com/stops/1275,,0,,0,Brookline,Washington Street,Evans Road,3
 12759,12759,Washington St @ Myrtle St - Cobble Hill Apt,,,,42.381697,-71.084052,,,https://www.mbta.com/stops/12759,,0,,0,Somerville,Washington Street,Myrtle Street,3
 1276,1276,Washington St @ Beacon St,,,,42.339516,-71.135747,,,https://www.mbta.com/stops/1276,,0,,0,Brookline,Washington Street,Beacon Street,3
-12767,12767,Springfield St opp Houghton St,,,,42.375283,-71.100063,,,https://www.mbta.com/stops/12767,,0,,0,Somerville,Springfield Street,Houghton Street,3
+12767,12767,Springfield St opp Houghton St,,,,42.375283,-71.100063,,,https://www.mbta.com/stops/12767,,0,,0,Somerville,Springfield Street,Houghton Street,
 1277,1277,684 Washington St,,,,42.338723,-71.134258,,,https://www.mbta.com/stops/1277,,0,,0,Brookline,Washington Street,,3
 1278,1278,Washington St @ Winthrop Path,,,,42.338307,-71.131602,,,https://www.mbta.com/stops/1278,,0,,1,Brookline,Washington Street,Fairbanks Street,3
 12783,12783,Gordon Ave @ Summer St,,,,42.256320,-71.125999,,,https://www.mbta.com/stops/12783,,0,,0,Boston,Gordon Avenue,Summer Street,3
@@ -1160,7 +1164,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 17093,17093,Terminal B Stop 2 - Arrivals Level,Terminal B Stop 2 - Silver Line - SL1 South Station,,South Station,42.361657,-71.017833,,"Terminal B Arrivals, Door B110, Boston Logan International Airport, Boston, MA 02128",https://www.mbta.com/stops/17093,level_logan_arrivals,0,,1,Boston,Logan Airport Terminal B,,3
 17094,17094,Terminal C - Arrivals Level,Terminal C - Silver Line - SL1 South Station,,South Station,42.366494,-71.017289,,"Terminal C Arrivals, Door C106, Boston Logan International Airport, Boston, MA 02128",https://www.mbta.com/stops/17094,level_logan_arrivals,0,,1,Boston,Logan Airport Terminal C,Logan Airport Terminal B,3
 17095,17095,Terminal E - Arrivals Level,Terminal E - Silver Line - SL1 South Station,,South Station,42.369344,-71.020238,,"Terminal E Arrivals, Door E106, Boston Logan International Airport, Boston, MA 02128",https://www.mbta.com/stops/17095,level_logan_arrivals,0,,1,Boston,Logan Airport Terminal E,,3
-17096,17096,Congress @ World Trade Center Sta,Congress @ World Trade Center Sta - Silver Line - South Station,,South Station,42.348769,-71.042336,,,https://www.mbta.com/stops/17096,level_in_street,0,,1,Boston,Congress Street,Seaport Lane,3
+17096,17096,Congress @ World Trade Center Sta,Congress @ World Trade Center Sta - Silver Line - South Station,,South Station,42.348866,-71.042553,,,https://www.mbta.com/stops/17096,level_in_street,0,,1,Boston,Congress Street,Seaport Lane,3
 171,171,Berkeley St @ Columbus Ave,,,,42.348569,-71.071717,,,https://www.mbta.com/stops/171,,0,,1,Boston,Berkeley Street,Columbus Avenue,3
 1710,1710,Blue Hill Ave @ Johnston Rd,,,,42.287168,-71.090663,,,https://www.mbta.com/stops/1710,,0,,1,Boston,Blue Hill Avenue,Johnston Road,3
 17100,17100,Dodge St @ Enon St,,,,42.582568,-70.884449,,,https://www.mbta.com/stops/17100,,0,,0,Beverly,Dodge Street,Enon Street,3
@@ -1797,7 +1801,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2431,2431,Somerville Ave opp Mossland St,,,,42.387227,-71.116851,,,https://www.mbta.com/stops/2431,,0,,0,Somerville,Somerville Avenue,Mossland Street,3
 2432,2432,Somerville Ave opp Elm St,,,,42.385855,-71.114425,,,https://www.mbta.com/stops/2432,,0,,0,Somerville,Somerville Avenue,Elm Street,3
 2433,2433,Park St @ Beacon St,,,,42.380360,-71.108538,,,https://www.mbta.com/stops/2433,,0,,0,Somerville,Park Avenue,Beacon Street,3
-2434,2434,Opp 159 Beacon St,,,,42.379401,-71.107879,,,https://www.mbta.com/stops/2434,,0,,1,Somerville,Beacon Street,Properzi Way,3
+2434,2434,Opp 159 Beacon St,,,,42.379401,-71.107879,,,https://www.mbta.com/stops/2434,,0,,1,Somerville,Beacon Street,Properzi Way,
 2435,2435,Beacon St @ Washington St,,,,42.378376,-71.106605,,,https://www.mbta.com/stops/2435,,0,,1,Somerville,Beacon Street,Washington Street,3
 2436,2436,Beacon St @ Smith Ave,,,,42.377147,-71.105099,,,https://www.mbta.com/stops/2436,,0,,1,Somerville,Beacon Street,Calvin Street,3
 2437,2437,Beacon St @ Cooney St,,,,42.376237,-71.103995,,,https://www.mbta.com/stops/2437,,0,,1,Somerville,Beacon Street,Cooney Street,3
@@ -1905,7 +1909,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2527,2527,Webster Ave @ Columbia St,,,,42.375026,-71.094913,,,https://www.mbta.com/stops/2527,,0,,0,Somerville,Webster Avenue,Norfolk Street,3
 2528,2528,Webster Ave @ Prospect St,,,,42.376883,-71.095500,,,https://www.mbta.com/stops/2528,,0,,0,Somerville,Webster Avenue,Concord Avenue,3
 253,253,W 7th St @ D St,,,,42.336252,-71.054025,,,https://www.mbta.com/stops/253,,0,,1,Boston,West Seventh Street,D Street,3
-2530,2530,Newton St @ Webster Ave,,,,42.377686,-71.095985,,,https://www.mbta.com/stops/2530,,0,,0,Somerville,Newton Street,,3
+2530,2530,Newton St @ Webster Ave,,,,42.377686,-71.095985,,,https://www.mbta.com/stops/2530,,0,,0,Somerville,Newton Street,,
 2531,2531,34 Prospect St,,,,42.378120,-71.094670,,,https://www.mbta.com/stops/2531,,0,,0,Somerville,Prospect Street,Bennett Street,3
 2532,2532,117 Summer St,,,,42.385276,-71.102857,,,https://www.mbta.com/stops/2532,,0,,0,Somerville,Summer Street,Greene Street,3
 2533,2533,Summer St @ School St,,,,42.384301,-71.100279,,,https://www.mbta.com/stops/2533,,0,,0,Somerville,Summer Street,School Street,3
@@ -2128,13 +2132,13 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2761,2761,Washington St @ Tufts St,,,,42.381038,-71.087483,,,https://www.mbta.com/stops/2761,,0,,1,Somerville,Washington Street,Knowlton Street,3
 27618,27618,Washington St @ Guild St,,,,42.191284,-71.202528,,,https://www.mbta.com/stops/27618,,0,,1,Norwood,Washington Street,Guild Street,3
 2763,2763,Washington St @ Boston St,,,,42.379859,-71.090824,,,https://www.mbta.com/stops/2763,,0,,1,Somerville,Washington Street,Boston Street,3
-2765,2765,Newton St @ Clark St,,,,42.377485,-71.096607,,,https://www.mbta.com/stops/2765,,0,,0,Somerville,Newton Street,Clark Street,3
-2766,2766,Newton St @ Concord Sq,,,,42.376862,-71.098084,,,https://www.mbta.com/stops/2766,,0,,0,Somerville,Newton Street,,3
-2767,2767,Springfield St @ Newton St,,,,42.376368,-71.099615,,,https://www.mbta.com/stops/2767,,0,,0,Somerville,Springfield Street,Concord Avenue,3
-2768,2768,Springfield St @ Houghton St,,,,42.375313,-71.099918,,,https://www.mbta.com/stops/2768,,0,,0,Somerville,Springfield Street,Houghton Street,3
-2769,2769,Springfield St @ Newton St,,,,42.376403,-71.099471,,,https://www.mbta.com/stops/2769,,0,,0,Somerville,Springfield Street,Concord Avenue,3
+2765,2765,Newton St @ Clark St,,,,42.377485,-71.096607,,,https://www.mbta.com/stops/2765,,0,,0,Somerville,Newton Street,Clark Street,
+2766,2766,Newton St @ Concord Sq,,,,42.376862,-71.098084,,,https://www.mbta.com/stops/2766,,0,,0,Somerville,Newton Street,,
+2767,2767,Springfield St @ Newton St,,,,42.376368,-71.099615,,,https://www.mbta.com/stops/2767,,0,,0,Somerville,Springfield Street,Concord Avenue,
+2768,2768,Springfield St @ Houghton St,,,,42.375313,-71.099918,,,https://www.mbta.com/stops/2768,,0,,0,Somerville,Springfield Street,Houghton Street,
+2769,2769,Springfield St @ Newton St,,,,42.376403,-71.099471,,,https://www.mbta.com/stops/2769,,0,,0,Somerville,Springfield Street,Concord Avenue,
 277,277,E 8th St @ M St,,,,42.331537,-71.033111,,,https://www.mbta.com/stops/277,,0,,1,Boston,East Eighth Street,M Street,3
-2770,2770,Newton St @ Concord Sq,,,,42.376774,-71.098055,,,https://www.mbta.com/stops/2770,,0,,0,Somerville,Newton Street,,3
+2770,2770,Newton St @ Concord Sq,,,,42.376774,-71.098055,,,https://www.mbta.com/stops/2770,,0,,0,Somerville,Newton Street,,
 2773,2773,Washington St @ Merriam St,,,,42.379411,-71.092286,,,https://www.mbta.com/stops/2773,,0,,0,Somerville,Washington Street,Washington Terrace,3
 2774,2774,Washington St @ McGrath Hwy,,,,42.379792,-71.089974,,,https://www.mbta.com/stops/2774,,0,,1,Somerville,Washington Street,McGrath Highway,3
 2776,2776,Washington St @ New Washington St,,,,42.381241,-71.086308,,,https://www.mbta.com/stops/2776,,0,,0,Somerville,Washington Street,Franklin Street,3
@@ -3731,7 +3735,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 4495,4495,Salem Tnpk @ Ballard St,,,,42.449412,-70.980847,,,https://www.mbta.com/stops/4495,,0,,0,Saugus,Salem Turnpike,,3
 4497,4497,Broadway @ Ward St,,,,42.422285,-71.003972,,,https://www.mbta.com/stops/4497,,0,,1,Revere,Broadway,Ward Street,3
 4498,4498,462 American Legion Hwy,,,,42.420606,-71.003376,,,https://www.mbta.com/stops/4498,,0,,1,Revere,American Legion Highway,Albert J Brown Circle,3
-4499,4499,American Legion Hwy @ Hutchinson St,,,,42.418946,-71.002215,,,https://www.mbta.com/stops/4499,,0,,0,Revere,American Legion Highway,Hutchinson Street,3
+4499,4499,American Legion Hwy @ Hutchinson St,,,,42.418946,-71.002215,,,https://www.mbta.com/stops/4499,,0,,0,Revere,American Legion Highway,Hutchinson Street,
 45,45,E Broadway @ G St,,,,42.335505,-71.044151,,,https://www.mbta.com/stops/45,,0,,0,Boston,East Broadway,G Street,3
 450,450,Norfolk St @ Milton Ave,,,,42.287206,-71.078640,,,https://www.mbta.com/stops/450,,0,,0,Boston,Norfolk Street,Milton Avenue,3
 4500,4500,American Legion Hwy @ Revere St,,,,42.416661,-71.003437,,,https://www.mbta.com/stops/4500,,0,,1,Revere,American Legion Highway,Revere Street,3
@@ -7159,15 +7163,9 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070004,9070004,Stony Brook,Boylston St @ Stony Brook - Orange Line Forest Hills Shuttle,,Forest Hills Shuttle,42.316940,-71.104203,,,https://www.mbta.com/stops/9070004,,0,,1,Boston,,,3
 9070005,9070005,Stony Brook,Boylston St @ Stony Brook - Orange Line Oak Grove Shuttle,,Oak Grove Shuttle,42.317082,-71.104428,,,https://www.mbta.com/stops/9070005,,0,,1,Boston,,,3
 9070007,9070007,Jackson Square,Centre St opp Jackson Square Busway - Orange Line Oak Grove Shuttle,,Oak Grove Shuttle,42.322675,-71.099969,,,https://www.mbta.com/stops/9070007,,0,,1,Boston,,,3
-9070027,9070027,North Station,North Station - Orange Line Shuttle - N Washington St opp Medford St,,Sullivan Shuttle,42.366425,-71.058351,,,https://www.mbta.com/stops/9070027,,0,,1,Boston,,,3
-9070028,9070028,Community College,Community College - Orange Line Shuttle - Rutherford Ave @ Austin St,,Haymarket Shuttle,42.374534,-71.068247,,,https://www.mbta.com/stops/9070028,,0,,1,Boston,,,3
+9070027,9070027,North Station,North Station - Orange Line Shuttle - N Washington St opp Medford St,,Sullivan Shuttle,42.366075,-71.058308,,,https://www.mbta.com/stops/9070027,,0,,1,Boston,,,3
+9070028,9070028,Community College,Community College - Orange Line Shuttle - Rutherford Ave @ Austin St,,Haymarket Shuttle,42.374668,-71.068320,,,https://www.mbta.com/stops/9070028,,0,,1,Boston,,,3
 9070029,9070029,Community College,Community College - Orange Line Shuttle - Rutherford Ave @ Austin St,,Sullivan Shuttle,42.374714,-71.067764,,,https://www.mbta.com/stops/9070029,,0,,1,Boston,,,3
-9070053,9070053,Suffolk Downs,Suffolk Downs - Blue Line Southbound Shuttle,,Southbound Shuttle,42.390264,-70.996908,,,https://www.mbta.com/stops/9070053,,0,,1,Boston,,,3
-9070054,9070054,Suffolk Downs,Suffolk Downs - Blue Line Wonderland Shuttle,,Wonderland Shuttle,42.390137,-70.996810,,,https://www.mbta.com/stops/9070054,,0,,1,Boston,,,3
-9070055,9070055,Beachmont,Beachmont - Blue Line Southbound Shuttle,,Southbound Shuttle,42.397706,-70.992052,,,https://www.mbta.com/stops/9070055,,0,,1,Revere,,,3
-9070056,9070056,Beachmont,Beachmont - Blue Line Wonderland Shuttle,,Wonderland Shuttle,42.397243,-70.991903,,,https://www.mbta.com/stops/9070056,,0,,1,Revere,,,3
-9070057,9070057,Revere Beach,Revere Beach - Blue Line Southbound Shuttle,,Southbound Shuttle,42.408469,-70.992724,,,https://www.mbta.com/stops/9070057,,0,,1,Revere,,,3
-9070058,9070058,Revere Beach,Revere Beach - Blue Line Wonderland Shuttle,,Wonderland Shuttle,42.408580,-70.992596,,,https://www.mbta.com/stops/9070058,,0,,1,Revere,,,3
 9070107,9070107,Boston College,Boston College - Green Line Shuttle,,Green Line Shuttle,42.340070,-71.166492,,,https://www.mbta.com/stops/9070107,,0,,1,Boston,,,3
 9070110,9070110,South Street,South Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.339278,-71.157041,,,https://www.mbta.com/stops/9070110,,0,,1,Boston,,,3
 9070111,9070111,South Street,South Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.339669,-71.157486,,,https://www.mbta.com/stops/9070111,,0,,1,Boston,,,3
@@ -7231,7 +7229,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070270,9070270,Central Ave,Central Ave - Mattapan Line Shuttle - Eliot St @ Central Ave,,Ashmont Shuttle,42.269480,-71.072991,,,https://www.mbta.com/stops/9070270,,0,,1,Milton,,,3
 9070271,9070271,Valley Road,Valley Road - Mattapan Line Central Avenue Van Shuttle,,Central Ave Van Shuttle,42.267945,-71.081113,,,https://www.mbta.com/stops/9070271,,0,,1,Milton,,,3
 9070272,9070272,Valley Road,Valley Road - Mattapan Line Capen Street Van Shuttle,,Capen St Van Shuttle,42.267815,-71.081089,,,https://www.mbta.com/stops/9070272,,0,,1,Milton,,,3
-9070273,9070273,Capen Street,Capen Street - Mattapan Line Van Shuttle,,Mattapan Line Van Shuttle,42.267053,-71.086621,,,https://www.mbta.com/stops/9070273,,0,,1,Milton,,,3
 9070274,9070274,Capen Street,Capen Street - Mattapan Line Ashmont Shuttle,,Ashmont Shuttle,42.266107,-71.085341,,,https://www.mbta.com/stops/9070274,,0,,1,Milton,,,3
 9071,9071,Warren St @ Melrose St,,,,42.468798,-71.074237,,,https://www.mbta.com/stops/9071,,0,,1,Melrose,Warren Street,Melrose Street,3
 9073,9073,Franklin St @ Warren St,,,,42.469465,-71.073595,,,https://www.mbta.com/stops/9073,,0,,0,Melrose,Franklin Street,Warren Street,3
@@ -9895,8 +9892,8 @@ node-wimnl-obpaidstairs-platform,,Wood Island,Wood Island - Bottom of stairs for
 node-wimnl-obunpaidstairs-bridge,,Wood Island,Wood Island - Top of stairs for Lovell Street,,,,,,,,level_1_bridge,3,place-wimnl,1,Boston,,,
 node-wimnl-obunpaidstairs-street,,Wood Island,Wood Island - Bottom of stairs for Lovell Street,,,,,,,,level_in_street,3,place-wimnl,1,Boston,,,
 place-wlsta,,Wollaston,,,,42.266514,-71.020337,,"90 Woodbine St, Quincy, MA 02171",https://www.mbta.com/stops/place-wlsta,,1,,1,Quincy,,,
-70099,70099,Wollaston,Wollaston - Red Line - Braintree,,Braintree,42.266514,-71.020337,,,https://www.mbta.com/stops/place-wlsta,level_1_platform,0,place-wlsta,2,Quincy,,,1
-70100,70100,Wollaston,Wollaston - Red Line - Alewife,,Alewife,42.266514,-71.020337,,,https://www.mbta.com/stops/place-wlsta,level_1_platform,0,place-wlsta,2,Quincy,,,1
+70099,70099,Wollaston,Wollaston - Red Line - Braintree,,Braintree,42.266514,-71.020337,,,https://www.mbta.com/stops/place-wlsta,level_1_platform,0,place-wlsta,1,Quincy,,,1
+70100,70100,Wollaston,Wollaston - Red Line - Alewife,,Alewife,42.266514,-71.020337,,,https://www.mbta.com/stops/place-wlsta,level_1_platform,0,place-wlsta,1,Quincy,,,1
 place-wondl,,Wonderland,,,,42.413420,-70.991648,,"1300 North Shore Rd, Revere, MA 02151",https://www.mbta.com/stops/place-wondl,,1,,1,Revere,,,
 15795,15795,Wonderland,Wonderland - Busway,,Busway,42.413385,-70.992050,,,https://www.mbta.com/stops/place-wondl,level_ground,0,place-wondl,0,Revere,,,3
 70059,70059,Wonderland,Wonderland - Blue Line - Bowdoin,1,Bowdoin,42.413513,-70.991737,,,https://www.mbta.com/stops/place-wondl,level_0_platform,0,place-wondl,1,Revere,,,1
