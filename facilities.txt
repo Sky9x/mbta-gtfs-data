@@ -161,8 +161,8 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 445,445,1,escalator,place-gover,"Copley & West, Blue Line platforms to street","Government Center Escalator 445 (Copley & West, Blue Line platforms to street)",,,,2
 446,446,1,escalator,place-gover,Blue Line platform to Green Line platform,Government Center Escalator 446 (Blue Line platform to Green Line platform),,,,2
 447,447,1,escalator,place-north,"Passageway to Commuter Rail, TD Garden","North Station Escalator 447 (Passageway to Commuter Rail, TD Garden)",,,,2
-448,448,1,escalator,place-wlsta,Paid Lobby of Parking Lot Headhouse to Pedestrian Bridge,Wollaston Escalator 448 (Paid Lobby of Parking Lot Headhouse to Pedestrian Bridge),,,,2
-449,449,1,escalator,place-wlsta,Platform to Pedestrian Bridge,Wollaston Escalator 449 (Platform to Pedestrian Bridge),,,,2
+448,448,1,escalator,place-wlsta,Paid lobby to pedestrian bridge,Wollaston Escalator 448 (Paid lobby to pedestrian bridge),,,,2
+449,449,1,escalator,place-wlsta,Platform to pedestrian bridge,Wollaston Escalator 449 (Platform to pedestrian bridge),,,,2
 50,50,1,elevator,place-WML-0214,Outbound platform to pedestrian bridge,Framingham Elevator 50 (Outbound platform to pedestrian bridge),,,,1
 501,501,1,escalator,place-state,Oak Grove platform to Wonderland platform,State Escalator 501 (Oak Grove platform to Wonderland platform),,,,2
 502,502,1,escalator,place-state,Wonderland platform to Old State House,State Escalator 502 (Wonderland platform to Old State House),,,,2
@@ -356,8 +356,8 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 977,977,1,elevator,place-coecl,"Kenmore & West, Heath Street lobby to street","Copley Elevator 977 (Kenmore & West, Heath Street lobby to street)",,,,1
 978,978,1,elevator,place-pktrm,Copley & West platform to street,Park Street Elevator 978 (Copley & West platform to street),,,,1
 979,979,1,elevator,place-pktrm,Red Line center platform to Copley & West platform,Park Street Elevator 979 (Red Line center platform to Copley & West platform),,,,1
-980,980,1,elevator,place-spmnl,Copley & West platform to lobby,Science Park Elevator 980 (Copley & West platform to lobby),,,,1
-981,981,1,elevator,place-spmnl,Lechmere platform to lobby,Science Park Elevator 981 (Lechmere platform to lobby),,,,1
+980,980,1,elevator,place-spmnl,Copley & West platform to lobby,Science Park/West End Elevator 980 (Copley & West platform to lobby),,,,1
+981,981,1,elevator,place-spmnl,Lechmere platform to lobby,Science Park/West End Elevator 981 (Lechmere platform to lobby),,,,1
 982,982,1,elevator,place-portr,Lobby to street,Porter Elevator 982 (Lobby to street),,,,1
 983,983,1,elevator,place-portr,Red Line platforms to lobby,Porter Elevator 983 (Red Line platforms to lobby),,,,1
 985,985,1,elevator,place-portr,Lobby to street,Porter Elevator 985 (Lobby to street),,,,1
@@ -774,8 +774,8 @@ fvm-201202,,4,fare-vending-machine,place-brntn,Fare vending machine 201202,Brain
 fvm-201203,,4,fare-vending-machine,place-lech,Fare vending machine 201203,Lechmere fare vending machine 201203,,42.3709330,-71.0775770,0
 fvm-201204,,4,fare-vending-machine,place-lech,Fare vending machine 201204,Lechmere fare vending machine 201204,,42.3709330,-71.0775770,0
 fvm-201205,,4,fare-vending-machine,place-lech,Fare vending machine 201205,Lechmere fare vending machine 201205,,42.3709330,-71.0775770,0
-fvm-201206,,4,fare-vending-machine,place-spmnl,Fare vending machine 201206,Science Park fare vending machine 201206,,,,0
-fvm-201207,,4,fare-vending-machine,place-spmnl,Fare vending machine 201207,Science Park fare vending machine 201207,,,,0
+fvm-201206,,4,fare-vending-machine,place-spmnl,Fare vending machine 201206,Science Park/West End fare vending machine 201206,,,,0
+fvm-201207,,4,fare-vending-machine,place-spmnl,Fare vending machine 201207,Science Park/West End fare vending machine 201207,,,,0
 fvm-201209,,4,fare-vending-machine,place-haecl,Fare vending machine 201209,Haymarket fare vending machine 201209,,,,0
 fvm-201210,,4,fare-vending-machine,place-haecl,Fare vending machine 201210,Haymarket fare vending machine 201210,,,,0
 fvm-201211,,4,fare-vending-machine,place-haecl,Fare vending machine 201211,Haymarket fare vending machine 201211,,,,0
@@ -918,8 +918,8 @@ fvm-201364,,4,fare-vending-machine,place-state,Fare vending machine 201364,State
 fvm-201365,,4,fare-vending-machine,place-state,Fare vending machine 201365,State fare vending machine 201365,,,,0
 fvm-201366,,4,fare-vending-machine,place-state,Fare vending machine 201366,State fare vending machine 201366,,,,0
 fvm-201376,,4,fare-vending-machine,place-asmnl,Fare vending machine 201376,Ashmont fare vending machine 201376,,,,0
-fvm-201377,,4,fare-vending-machine,place-spmnl,Fare vending machine 201377,Science Park fare vending machine 201377,,,,0
-fvm-201378,,4,fare-vending-machine,place-spmnl,Fare vending machine 201378,Science Park fare vending machine 201378,,,,0
+fvm-201377,,4,fare-vending-machine,place-spmnl,Fare vending machine 201377,Science Park/West End fare vending machine 201377,,,,0
+fvm-201378,,4,fare-vending-machine,place-spmnl,Fare vending machine 201378,Science Park/West End fare vending machine 201378,,,,0
 fvm-201380,,4,fare-vending-machine,place-forhl,Fare vending machine 201380,Forest Hills fare vending machine 201380,,,,0
 fvm-201381,,4,fare-vending-machine,place-forhl,Fare vending machine 201381,Forest Hills fare vending machine 201381,,,,0
 fvm-201382,,4,fare-vending-machine,place-forhl,Fare vending machine 201382,Forest Hills fare vending machine 201382,,,,0
@@ -1042,7 +1042,7 @@ fvm-202137,,4,fare-vending-machine,place-qamnl,Fare vending machine 202137,Quinc
 fvm-202140,,4,fare-vending-machine,place-brntn,Fare vending machine 202140,Braintree fare vending machine 202140,,,,0
 fvm-202142,,4,fare-vending-machine,place-brntn,Fare vending machine 202142,Braintree fare vending machine 202142,,,,0
 fvm-202143,,4,fare-vending-machine,place-brntn,Fare vending machine 202143,Braintree fare vending machine 202143,,,,0
-fvm-202146,,4,fare-vending-machine,place-spmnl,Fare vending machine 202146,Science Park fare vending machine 202146,,,,0
+fvm-202146,,4,fare-vending-machine,place-spmnl,Fare vending machine 202146,Science Park/West End fare vending machine 202146,,,,0
 fvm-202147,,4,fare-vending-machine,place-haecl,Fare vending machine 202147,Haymarket fare vending machine 202147,,,,0
 fvm-202148,,4,fare-vending-machine,place-haecl,Fare vending machine 202148,Haymarket fare vending machine 202148,,,,0
 fvm-202149,,4,fare-vending-machine,place-haecl,Fare vending machine 202149,Haymarket fare vending machine 202149,,,,0
@@ -1074,7 +1074,7 @@ fvm-202176,,4,fare-vending-machine,place-kencl,Fare vending machine 202176,Kenmo
 fvm-202177,,4,fare-vending-machine,place-dudly,Fare vending machine 202177,Dudley Square fare vending machine 202177,,,,0
 fvm-202178,,4,fare-vending-machine,place-crtst,Fare vending machine 202178,Courthouse fare vending machine 202178,,,,0
 fvm-202179,,4,fare-vending-machine,place-crtst,Fare vending machine 202179,Courthouse fare vending machine 202179,,,,0
-fvm-202180,,4,fare-vending-machine,place-spmnl,Fare vending machine 202180,Science Park fare vending machine 202180,,,,0
+fvm-202180,,4,fare-vending-machine,place-spmnl,Fare vending machine 202180,Science Park/West End fare vending machine 202180,,,,0
 fvm-202181,,4,fare-vending-machine,17091,Fare vending machine 202181,Terminal A fare vending machine 202181,,,,0
 fvm-202182,,4,fare-vending-machine,27092,Fare vending machine 202182,Terminal B Stop 1 - Arrivals Level fare vending machine 202182,,,,0
 fvm-202183,,4,fare-vending-machine,17093,Fare vending machine 202183,Terminal B Stop 2 - Arrivals Level fare vending machine 202183,,,,0
@@ -1187,7 +1187,6 @@ park-Boat-Hingham,,3,parking-area,Boat-Hingham,Parking Lot,Hingham Parking Lot,,
 park-Boat-Hull,,3,parking-area,Boat-Hull,Parking Lot,Hull Parking Lot,,42.3044440,-70.9182990,0
 park-DB-0095,,3,parking-area,place-DB-0095,Parking Lot,Readville Parking Lot,,42.2385870,-71.1341000,0
 park-DB-2205,,3,parking-area,place-DB-2205,Parking Lot,Fairmount Parking Lot,,42.2535520,-71.1197020,0
-park-DB-2240-garage,,3,parking-area,place-DB-2240,Garage,Talbot Avenue Garage,,41.7276060,-71.4427740,0
 park-DB-2258,,3,parking-area,place-DB-2258,Parking Lot,Uphams Corner Parking Lot,,42.3198330,-71.0686950,0
 park-ER-0115-garage,,3,parking-area,place-ER-0115,Garage,Lynn Garage,,42.4622960,-70.9457370,0
 park-ER-0128,,3,parking-area,place-ER-0128,Parking Lot,Swampscott Parking Lot,,42.4735630,-70.9225480,0
@@ -1253,6 +1252,7 @@ park-NB-0120,,3,parking-area,place-NB-0120,Parking Lot,Needham Junction Parking 
 park-NB-0127,,3,parking-area,place-NB-0127,Parking Lot,Needham Center Parking Lot,,42.2812300,-71.2372710,0
 park-NB-0137,,3,parking-area,place-NB-0137,Parking Lot,Needham Heights Parking Lot,,42.2935150,-71.2362770,0
 park-NEC-1659,,3,parking-area,place-NEC-1659,Parking Lot,Wickford Junction Parking Lot,,41.5816700,-71.4914700,0
+park-NEC-1768-garage,,3,parking-area,place-NEC-1768,Garage,TF Green Airport Garage,,41.7276060,-71.4427740,0
 park-NEC-1851-garage,,3,parking-area,place-NEC-1851,Garage,Providence Garage,,41.8291570,-71.4127430,0
 park-NEC-1919,,3,parking-area,place-NEC-1919,Parking Lot,South Attleboro Parking Lot,,41.8983570,-71.3557510,0
 park-NEC-1969,,3,parking-area,place-NEC-1969,Parking Lot,Attleboro Parking Lot,,41.9403490,-71.2859900,0
@@ -1669,8 +1669,8 @@ subplat-miltt-1,,2,elevated-subplatform,place-miltt,Mini-high platform (Ashmont)
 subplat-newto,,2,elevated-subplatform,place-newto,Mini-high platform (Park Street & North),Newton Centre mini-high platform (Park Street & North),,,,1
 subplat-portr,,2,elevated-subplatform,place-portr,Mini-high platform (Commuter Rail),Porter mini-high platform (Commuter Rail),,,,1
 subplat-smary,,2,elevated-subplatform,place-smary,Mini-high platform (Cleveland Circle),Saint Marys Street mini-high platform (Cleveland Circle),,,,1
-subplat-spmnl-0,,2,elevated-subplatform,place-spmnl,Mini-high platform (Lechmere),Science Park mini-high platform (Lechmere),,,,1
-subplat-spmnl-1,,2,elevated-subplatform,place-spmnl,Mini-high platform (Copley & West),Science Park mini-high platform (Copley & West),,,,1
+subplat-spmnl-0,,2,elevated-subplatform,place-spmnl,Mini-high platform (Lechmere),Science Park/West End mini-high platform (Lechmere),,,,1
+subplat-spmnl-1,,2,elevated-subplatform,place-spmnl,Mini-high platform (Copley & West),Science Park/West End mini-high platform (Copley & West),,,,1
 subplat-wascm-0,,2,elevated-subplatform,place-wascm,Mini-high platform (Park Street & North),Washington Street mini-high platform (Park Street & North),,,,1
 subplat-wascm-1,,2,elevated-subplatform,place-wascm,Mini-high platform (Boston College),Washington Street mini-high platform (Boston College),,,,1
 ticket-bbsta,,4,ticket-window,place-bbsta,Commuter Rail ticket window,Keolis Commuter Rail Back Bay ticket window,,42.3472490,-71.0753270,0
