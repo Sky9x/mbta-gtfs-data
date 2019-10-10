@@ -2,7 +2,7 @@ service_id,service_description,service_schedule_name,service_schedule_type,servi
 BUS419-10-Wdy-02,Weekday schedule,Weekday,Weekday,1
 BUS419-10-Wdy-02-1-SLNTrw,Weekday schedule,Weekday,Weekday,4
 BUS419-11-Sa-02,Saturday schedule,Saturday,Saturday,1
-BUS419-11-Sa-02-3-SLNTrw,Saturday schedule,Saturday,Saturday,4
+BUS419-11-Sa-02-2-SLNTrw,Saturday schedule,Saturday,Saturday,4
 BUS419-11-Sa-02-SLNTrw,Saturday schedule,Saturday,Saturday,4
 BUS419-12-Su-02,Sunday schedule,Sunday,Sunday,1
 BUS419-12-Su-02-SLNTrw,Sunday schedule,Sunday,Sunday,4
@@ -20,7 +20,6 @@ Boat-F1-WkdSmr,Weekday schedule (summer),Weekday,Weekday,1
 Boat-F4-Wkd,Weekday schedule,Weekday,Weekday,1
 CR-Foxboro-Su-1625,Special event schedule,Special event,Other,2
 CR-Foxboro-Su-2020,Special event schedule,Special event,Other,2
-CR-Foxboro-SuDetour-1700,Special event schedule,Special event,Other,2
 CR-Sa-Fairmount-Spr-19,Saturday schedule,Saturday,Saturday,1
 CR-Sa-Fitchburg-Spr-19,Saturday schedule,Saturday,Saturday,1
 CR-Sa-Fitchburg-Spr-19-FtgGLX,Saturday schedule,Saturday,Saturday,4
@@ -30,6 +29,7 @@ CR-Sa-Haverhill-Spr-19,Saturday schedule,Saturday,Saturday,1
 CR-Sa-Kingston-Spr-19,Saturday schedule,Saturday,Saturday,1
 CR-Sa-Lowell-Spr-19,Saturday schedule,Saturday,Saturday,1
 CR-Sa-Middleborough-Spr-19,Saturday schedule,Saturday,Saturday,1
+CR-Sa-Needham-OLExtra-19,Saturday schedule,Saturday,Saturday,1
 CR-Sa-Needham-Spr-19,Saturday schedule,Saturday,Saturday,1
 CR-Sa-Newburyport-HauntedFll-19,Saturday schedule,Saturday,Saturday,1
 CR-Sa-Newburyport-HauntedSpr-19,Saturday schedule,Saturday,Saturday,1
@@ -45,6 +45,7 @@ CR-Su-Haverhill-Spr-19,Sunday schedule,Sunday,Sunday,1
 CR-Su-Kingston-Spr-19,Sunday schedule,Sunday,Sunday,1
 CR-Su-Lowell-Spr-19,Sunday schedule,Sunday,Sunday,1
 CR-Su-Middleborough-Spr-19,Sunday schedule,Sunday,Sunday,1
+CR-Su-Needham-OLExtra-19,Sunday schedule,Sunday,Sunday,1
 CR-Su-Newburyport-HauntedFll-19,Sunday schedule,Sunday,Sunday,1
 CR-Su-Newburyport-HauntedSpr-19,Sunday schedule,Sunday,Sunday,1
 CR-Su-Newburyport-Spr-19,Sunday schedule,Sunday,Sunday,1
@@ -66,23 +67,19 @@ CR-Wdy-Worcester-Spr-19,Weekday schedule,Weekday,Weekday,1
 CRSaFranklinSpr19FrgPrkRdlFrgPrkSthStn,Saturday schedule,Saturday,Saturday,4
 CRSuFranklinSpr19FrgPrkRdlFrgPrkSthStn,Sunday schedule,Sunday,Sunday,4
 ColumbusDay-VeteransDay-DayafterThanksgivingDay,Weekday schedule (no school),Weekday (no school),Weekday,1
-LRV419-1-RedSox-01,Weekday schedule,Weekday,Weekday,4
 LRV419-1-Wdy-01,Weekday schedule,Weekday,Weekday,1
-LRV419-1-Wdy-01-4-BCWsnNwnHgsKnr,Weekday schedule,Weekday,Weekday,4
 LRV419-1-Wdy-01-4-BbkBCNwnHgsKnr,Weekday schedule,Weekday,Weekday,4
 LRV419-1-Wdy-01-4-CldCrlKnrNwnHgsKnr,Weekday schedule,Weekday,Weekday,4
 LRV419-1-Wdy-01-4-NwnHgsKnr,Weekday schedule,Weekday,Weekday,4
 LRV419-2-Sa-01,Saturday schedule,Saturday,Saturday,1
-LRV419-2-Sa-01-BCWsnNwnHgsKnrW,Saturday schedule,Saturday,Saturday,4
 LRV419-2-Sa-01-BbkBCNwnHgsKnrW,Saturday schedule,Saturday,Saturday,4
 LRV419-2-Sa-01-CldCrlKnrNwnHgsKnrW,Saturday schedule,Saturday,Saturday,4
-LRV419-2-Sa-01-CldCrlStMrs,Saturday schedule,Saturday,Saturday,4
+LRV419-2-Sa-01-KnrRsr,Saturday schedule,Saturday,Saturday,4
 LRV419-2-Sa-01-NwnHgsKnrW,Saturday schedule,Saturday,Saturday,4
 LRV419-3-Su-01,Sunday schedule,Sunday,Sunday,1
-LRV419-3-Su-01-BCWsnNwnHgsKnrW,Sunday schedule,Sunday,Sunday,4
 LRV419-3-Su-01-BbkBCNwnHgsKnrW,Sunday schedule,Sunday,Sunday,4
 LRV419-3-Su-01-CldCrlKnrNwnHgsKnrW,Sunday schedule,Sunday,Sunday,4
-LRV419-3-Su-01-CldCrlStMrs,Sunday schedule,Sunday,Sunday,4
+LRV419-3-Su-01-KnrRsr,Sunday schedule,Sunday,Sunday,4
 LRV419-3-Su-01-NwnHgsKnrW,Sunday schedule,Sunday,Sunday,4
 LRV419-5-Wdy-01,Weekday schedule,Weekday,Weekday,1
 LRV419-5-Wdy-01-4-AstMtn,Weekday schedule,Weekday,Weekday,4
@@ -92,15 +89,12 @@ LRV419-7-Su-01,Sunday schedule,Sunday,Sunday,1
 LRV419-7-Su-01-AstMtn,Sunday schedule,Sunday,Sunday,4
 RTL419-1-Wdy-01,Weekday schedule,Weekday,Weekday,1
 RTL419-5-Wdy-01,Weekday schedule,Weekday,Weekday,1
-RTL419-5-Wdy-01-2-OkGrvSln,Weekday schedule,Weekday,Weekday,4
-RTL419-5-Wdy-01-2-OkGrvWln,Weekday schedule,Weekday,Weekday,4
-RTL419-5-Wdy-01-4-FrtHlsRgs,Weekday schedule,Weekday,Weekday,4
+RTL419-5-Wdy-01-3-OkGrvSln,Weekday schedule,Weekday,Weekday,4
+RTL419-5-Wdy-01-3-OkGrvWln,Weekday schedule,Weekday,Weekday,4
 RTL419-5-Wdy-01-4-HSllTfs,Weekday schedule,Weekday,Weekday,4
 RTL419-6-Sa-01,Saturday schedule,Saturday,Saturday,1
-RTL419-6-Sa-01-FrtHlsRgs,Saturday schedule,Saturday,Saturday,4
 RTL419-6-Sa-01-HSllTfs,Saturday schedule,Saturday,Saturday,4
 RTL419-7-Su-01,Sunday schedule,Sunday,Sunday,1
-RTL419-7-Su-01-FrtHlsRgs,Sunday schedule,Sunday,Sunday,4
 RTL419-7-Su-01-HSllTfs,Sunday schedule,Sunday,Sunday,4
 RTL419-9-Wdy-01,Weekday schedule,Weekday,Weekday,1
 Saturday,Saturday schedule,Saturday,Saturday,1
