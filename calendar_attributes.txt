@@ -1,8 +1,8 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality
 BUS419-10-Wdy-02,Weekday schedule,Weekday,Weekday,1
-BUS419-10-Wdy-02-1-SLNTrw,Weekday schedule,Weekday,Weekday,4
+BUS419-10-Wdy-02-2-SLNTrw,Weekday schedule,Weekday,Weekday,4
 BUS419-11-Sa-02,Saturday schedule,Saturday,Saturday,1
-BUS419-11-Sa-02-2-SLNTrw,Saturday schedule,Saturday,Saturday,4
+BUS419-11-Sa-02-4-SLNTrw,Saturday schedule,Saturday,Saturday,4
 BUS419-11-Sa-02-SLNTrw,Saturday schedule,Saturday,Saturday,4
 BUS419-12-Su-02,Sunday schedule,Sunday,Sunday,1
 BUS419-12-Su-02-SLNTrw,Sunday schedule,Sunday,Sunday,4
@@ -68,9 +68,9 @@ CRSaFranklinSpr19FrgPrkRdlFrgPrkSthStn,Saturday schedule,Saturday,Saturday,4
 CRSuFranklinSpr19FrgPrkRdlFrgPrkSthStn,Sunday schedule,Sunday,Sunday,4
 ColumbusDay-VeteransDay-DayafterThanksgivingDay,Weekday schedule (no school),Weekday (no school),Weekday,1
 LRV419-1-Wdy-01,Weekday schedule,Weekday,Weekday,1
-LRV419-1-Wdy-01-4-BbkBCNwnHgsKnr,Weekday schedule,Weekday,Weekday,4
-LRV419-1-Wdy-01-4-CldCrlKnrNwnHgsKnr,Weekday schedule,Weekday,Weekday,4
-LRV419-1-Wdy-01-4-NwnHgsKnr,Weekday schedule,Weekday,Weekday,4
+LRV419-1-Wdy-01-1-BbkBCNwnHgsKnr,Weekday schedule,Weekday,Weekday,4
+LRV419-1-Wdy-01-1-CldCrlKnrNwnHgsKnr,Weekday schedule,Weekday,Weekday,4
+LRV419-1-Wdy-01-1-NwnHgsKnr,Weekday schedule,Weekday,Weekday,4
 LRV419-2-Sa-01,Saturday schedule,Saturday,Saturday,1
 LRV419-2-Sa-01-BbkBCNwnHgsKnrW,Saturday schedule,Saturday,Saturday,4
 LRV419-2-Sa-01-CldCrlKnrNwnHgsKnrW,Saturday schedule,Saturday,Saturday,4
@@ -82,16 +82,14 @@ LRV419-3-Su-01-CldCrlKnrNwnHgsKnrW,Sunday schedule,Sunday,Sunday,4
 LRV419-3-Su-01-KnrRsr,Sunday schedule,Sunday,Sunday,4
 LRV419-3-Su-01-NwnHgsKnrW,Sunday schedule,Sunday,Sunday,4
 LRV419-5-Wdy-01,Weekday schedule,Weekday,Weekday,1
-LRV419-5-Wdy-01-4-AstMtn,Weekday schedule,Weekday,Weekday,4
 LRV419-6-Sa-01,Saturday schedule,Saturday,Saturday,1
 LRV419-6-Sa-01-AstMtn,Saturday schedule,Saturday,Saturday,4
 LRV419-7-Su-01,Sunday schedule,Sunday,Sunday,1
 LRV419-7-Su-01-AstMtn,Sunday schedule,Sunday,Sunday,4
 RTL419-1-Wdy-01,Weekday schedule,Weekday,Weekday,1
 RTL419-5-Wdy-01,Weekday schedule,Weekday,Weekday,1
-RTL419-5-Wdy-01-3-OkGrvSln,Weekday schedule,Weekday,Weekday,4
+RTL419-5-Wdy-01-1-HSllTfs,Weekday schedule,Weekday,Weekday,4
 RTL419-5-Wdy-01-3-OkGrvWln,Weekday schedule,Weekday,Weekday,4
-RTL419-5-Wdy-01-4-HSllTfs,Weekday schedule,Weekday,Weekday,4
 RTL419-6-Sa-01,Saturday schedule,Saturday,Saturday,1
 RTL419-6-Sa-01-HSllTfs,Saturday schedule,Saturday,Saturday,4
 RTL419-7-Su-01,Sunday schedule,Sunday,Sunday,1
