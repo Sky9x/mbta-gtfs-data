@@ -7212,15 +7212,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070236,9070236,Englewood Avenue,Englewood Avenue - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.336781,-71.145835,,,https://www.mbta.com/stops/9070236,,0,,1,Brookline,,,3
 9070237,9070237,Cleveland Circle,Cleveland Circle - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.336612,-71.148524,,,https://www.mbta.com/stops/9070237,,0,,1,Brookline,,,3
 9070238,9070238,Cleveland Circle,Cleveland Circle - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.336033,-71.149119,,,https://www.mbta.com/stops/9070238,,0,,1,Boston,,,3
-9070263,9070263,Cedar Grove,Cedar Grove - Mattapan Line Mattapan Shuttle,,Mattapan Shuttle,42.278778,-71.059606,,,https://www.mbta.com/stops/9070263,,0,,1,Boston,,,3
-9070264,9070264,Cedar Grove,Cedar Grove - Mattapan Line Ashmont Shuttle,,Ashmont Shuttle,42.278619,-71.059552,,,https://www.mbta.com/stops/9070264,,0,,1,Boston,,,3
-9070265,9070265,Butler,Butler - Mattapan Line Mattapan Shuttle,,Mattapan Shuttle,42.273336,-71.064076,,,https://www.mbta.com/stops/9070265,,0,,1,Boston,,,3
-9070266,9070266,Butler,Butler - Mattapan Line Ashmont Shuttle,,Ashmont Shuttle,42.273205,-71.064127,,,https://www.mbta.com/stops/9070266,,0,,1,Boston,,,3
-9070269,9070269,Central Ave,Central Ave - Mattapan Line Shuttle - Eliot St @ Central Ave,,Mattapan Shuttle,42.269584,-71.073269,,,https://www.mbta.com/stops/9070269,,0,,1,Milton,,,3
-9070270,9070270,Central Ave,Central Ave - Mattapan Line Shuttle - Eliot St @ Central Ave,,Ashmont Shuttle,42.269480,-71.072991,,,https://www.mbta.com/stops/9070270,,0,,1,Milton,,,3
-9070271,9070271,Valley Road,Valley Road - Mattapan Line Central Avenue Van Shuttle,,Central Ave Van Shuttle,42.267945,-71.081113,,,https://www.mbta.com/stops/9070271,,0,,1,Milton,,,3
-9070272,9070272,Valley Road,Valley Road - Mattapan Line Capen Street Van Shuttle,,Capen St Van Shuttle,42.267815,-71.081089,,,https://www.mbta.com/stops/9070272,,0,,1,Milton,,,3
-9070274,9070274,Capen Street,Capen Street - Mattapan Line Ashmont Shuttle,,Ashmont Shuttle,42.266107,-71.085341,,,https://www.mbta.com/stops/9070274,,0,,1,Milton,,,3
 9071,9071,Warren St @ Melrose St,,,,42.468798,-71.074237,,,https://www.mbta.com/stops/9071,,0,,1,Melrose,Warren Street,Melrose Street,3
 9073,9073,Franklin St @ Warren St,,,,42.469465,-71.073595,,,https://www.mbta.com/stops/9073,,0,,0,Melrose,Franklin Street,Warren Street,3
 9074,9074,Franklin St opp Greenwood St,,,,42.468688,-71.069631,,,https://www.mbta.com/stops/9074,,0,,0,Melrose,Franklin Street,Greenwood Street,3
@@ -7325,7 +7316,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9169,9169,Riverside Ave @ Pembroke St,,,,42.413540,-71.098291,,,https://www.mbta.com/stops/9169,,0,,0,Medford,Riverside Avenue,Maverick Street,3
 917,917,Washington St @ Foster St,,,,42.349007,-71.157011,,,https://www.mbta.com/stops/917,,0,,1,Boston,Washington Street,Foster Street,3
 9170,9170,Riverside Ave @ Park St,,,,42.414773,-71.100883,,,https://www.mbta.com/stops/9170,,0,,0,Medford,Riverside Avenue,Marine Street,3
-9170273,9170273,Capen Street,Capen Street - Mattapan Line Shuttle - Eliot St @ Capen St,,Mattapan Shuttle,42.266088,-71.085606,,,https://www.mbta.com/stops/9170273,,0,,1,Milton,,,3
 9171,9171,Riverside Ave @ Pleasant St,,,,42.415712,-71.102573,,,https://www.mbta.com/stops/9171,,0,,0,Medford,Riverside Avenue,Pleasant Street,3
 9172,9172,116 Riverside Ave,,,,42.416769,-71.105122,,,https://www.mbta.com/stops/9172,,0,,0,Medford,Riverside Avenue,Sables Court,3
 9174,9174,Winthrop St @ Lawrence Rd,,,,42.423885,-71.120863,,,https://www.mbta.com/stops/9174,,0,,0,Medford,Winthrop Street,Suffolk Street,3
@@ -7676,8 +7666,8 @@ place-FR-0494,,Fitchburg,,,,42.580720,-71.792611,CR-zone-8,"150 Main St, Fitchbu
 Fitchburg,,Fitchburg,Fitchburg - Commuter Rail,,Commuter Rail,42.580720,-71.792611,CR-zone-8,,https://www.mbta.com/stops/place-FR-0494,,0,place-FR-0494,1,Fitchburg,,,2
 place-FR-3338,,Wachusett,,,,42.553477,-71.848488,CR-zone-8,"55 Authority Dr, Fitchburg, MA 01420",https://www.mbta.com/stops/place-FR-3338,,1,,1,Fitchburg,,,
 Wachusett,,Wachusett,Wachusett - Commuter Rail,,Commuter Rail,42.553477,-71.848488,CR-zone-8,,https://www.mbta.com/stops/place-FR-3338,,0,place-FR-3338,1,Fitchburg,,,2
-place-FS-0049,,Foxboro,,,,42.095100,-71.261510,CR-zone-special,"Gillette Stadium near Lots 3 and 4, Foxborough, MA 02035",https://www.mbta.com/stops/place-FS-0049,,1,,1,Foxborough,,,
-Foxboro,,Foxboro,Foxboro - Commuter Rail,,Commuter Rail,42.095100,-71.261510,CR-zone-special,,https://www.mbta.com/stops/place-FS-0049,,0,place-FS-0049,1,Foxborough,,,2
+place-FS-0049,,Foxboro,,,,42.095100,-71.261510,CR-zone-4,"Gillette Stadium near Lots 3 and 4, Foxborough, MA 02035",https://www.mbta.com/stops/place-FS-0049,,1,,1,Foxborough,,,
+Foxboro,,Foxboro,Foxboro - Commuter Rail,,Commuter Rail,42.095100,-71.261510,CR-zone-4,,https://www.mbta.com/stops/place-FS-0049,,0,place-FS-0049,1,Foxborough,,,2
 place-GB-0198,,Montserrat,,,,42.562171,-70.869254,CR-zone-4,"180 Essex St, Beverly, MA 01915",https://www.mbta.com/stops/place-GB-0198,,1,,1,Beverly,,,
 Montserrat,,Montserrat,Montserrat - Commuter Rail,,Commuter Rail,42.562171,-70.869254,CR-zone-4,,https://www.mbta.com/stops/place-GB-0198,,0,place-GB-0198,1,Beverly,,,2
 place-GB-0222,,Prides Crossing,,,,42.559446,-70.825541,CR-zone-5,"600 Hale St, Beverly, MA 01915",https://www.mbta.com/stops/place-GB-0222,,1,,2,Beverly,,,
