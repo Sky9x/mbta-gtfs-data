@@ -331,6 +331,7 @@ facility_id,property_id,value
 127,excludes-stop,Forest Hills-01
 127,excludes-stop,Forest Hills-02
 127,excludes-stop,door-forhl-arborway
+127,excludes-stop,door-forhl-south
 127,excludes-stop,door-forhl-upper
 127,excludes-stop,node-127-busway
 127,excludes-stop,node-127-lobby
@@ -366,6 +367,7 @@ facility_id,property_id,value
 128,excludes-stop,Forest Hills-01
 128,excludes-stop,Forest Hills-02
 128,excludes-stop,door-forhl-arborway
+128,excludes-stop,door-forhl-south
 128,excludes-stop,door-forhl-upper
 128,excludes-stop,node-127-busway
 128,excludes-stop,node-127-lobby
@@ -400,6 +402,7 @@ facility_id,property_id,value
 129,excludes-stop,Forest Hills
 129,excludes-stop,door-forhl-arborway
 129,excludes-stop,door-forhl-lower
+129,excludes-stop,door-forhl-south
 129,excludes-stop,door-forhl-upper
 129,excludes-stop,node-127-busway
 129,excludes-stop,node-127-lobby
@@ -434,6 +437,7 @@ facility_id,property_id,value
 130,excludes-stop,Forest Hills
 130,excludes-stop,door-forhl-arborway
 130,excludes-stop,door-forhl-lower
+130,excludes-stop,door-forhl-south
 130,excludes-stop,door-forhl-upper
 130,excludes-stop,node-127-busway
 130,excludes-stop,node-127-lobby
@@ -7117,6 +7121,39 @@ facility_id,property_id,value
 723,excludes-stop,node-gover-sentrancestairs-platform
 723,excludes-stop,node-gover-wbtransstairs-bl
 723,excludes-stop,node-gover-wbtransstairs-gl
+724,excludes-stop,10642
+724,excludes-stop,875
+724,excludes-stop,Forest Hills
+724,excludes-stop,door-forhl-arborway
+724,excludes-stop,door-forhl-lower
+724,excludes-stop,door-forhl-upper
+724,excludes-stop,node-127-busway
+724,excludes-stop,node-127-lobby
+724,excludes-stop,node-128-busway
+724,excludes-stop,node-128-lobby
+724,excludes-stop,node-129-lobby
+724,excludes-stop,node-129-platform
+724,excludes-stop,node-130-lobby
+724,excludes-stop,node-130-platform
+724,excludes-stop,node-841-lobby
+724,excludes-stop,node-841-platform
+724,excludes-stop,node-842-lobby
+724,excludes-stop,node-842-platform
+724,excludes-stop,node-843-busway
+724,excludes-stop,node-843-lobby
+724,excludes-stop,node-forhl-busfarepaid
+724,excludes-stop,node-forhl-busfareunpaid
+724,excludes-stop,node-forhl-crstairs-lobby
+724,excludes-stop,node-forhl-crstairs-platform
+724,excludes-stop,node-forhl-exitstairs-platform
+724,excludes-stop,node-forhl-nlowbusstairs-busway
+724,excludes-stop,node-forhl-nlowbusstairs-lobby
+724,excludes-stop,node-forhl-nplatstairs-lobby
+724,excludes-stop,node-forhl-nplatstairs-platform
+724,excludes-stop,node-forhl-slowbusstairs-busway
+724,excludes-stop,node-forhl-slowbusstairs-lobby
+724,excludes-stop,node-forhl-splatstairs-lobby
+724,excludes-stop,node-forhl-splatstairs-platform
 731,alternate-service-text,"If exiting, travel down the passageway and use North Station Elevator 732 to reach Causeway Street. If boarding, exit through the east TD Garden entrance and follow the path to Causeway Street. At Causeway Street, turn right and use North Station Elevator 732 to reach the lobby."
 731,excludes-stop,North Station
 731,excludes-stop,North Station-01
@@ -7859,6 +7896,7 @@ facility_id,property_id,value
 841,excludes-stop,Forest Hills-02
 841,excludes-stop,door-forhl-arborway
 841,excludes-stop,door-forhl-lower
+841,excludes-stop,door-forhl-south
 841,excludes-stop,door-forhl-upper
 841,excludes-stop,node-127-busway
 841,excludes-stop,node-127-lobby
@@ -7893,6 +7931,7 @@ facility_id,property_id,value
 842,excludes-stop,Forest Hills
 842,excludes-stop,door-forhl-arborway
 842,excludes-stop,door-forhl-lower
+842,excludes-stop,door-forhl-south
 842,excludes-stop,door-forhl-upper
 842,excludes-stop,node-127-busway
 842,excludes-stop,node-127-lobby
@@ -7928,6 +7967,7 @@ facility_id,property_id,value
 843,excludes-stop,Forest Hills-01
 843,excludes-stop,Forest Hills-02
 843,excludes-stop,door-forhl-arborway
+843,excludes-stop,door-forhl-south
 843,excludes-stop,door-forhl-upper
 843,excludes-stop,node-127-busway
 843,excludes-stop,node-127-lobby
