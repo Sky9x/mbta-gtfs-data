@@ -5,9 +5,9 @@ Red-1-1,Red,1,Ashmont - Alewife,,1,10010151,41527094
 Red-3-1,Red,1,Braintree - Alewife,,1,10010152,41527109
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,41845181
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,41845179
-Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,41131887-20:15-OakGroveWellington
-Orange-5-0,Orange,0,Wellington - Forest Hills,Weekdays only,3,10020099,41132015-20:15-OakGroveWellington
-Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,41131885-20:15-OakGroveWellington
+Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,41131859
+Orange-5-0,Orange,0,Wellington - Forest Hills,Weekdays only,3,10020099,41131856
+Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,41131857
 Green-B-3-0,Green-B,0,Park Street - Boston College,,1,10032000,41838474-20:45-NewtonHighlandsKenmore
 Green-B-0-0,Green-B,0,Lechmere - Boston College,Weekend early mornings only,3,10032099,41845673
 Green-B-3-1,Green-B,1,Boston College - Park Street,,1,10032100,41838612-20:45-NewtonHighlandsKenmore
@@ -33,33 +33,33 @@ Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040003,41307847
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040096,41307855
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,41307848
 741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,42253819
-741-D-0,741,0,South Station - Logan Airport,,4,10051099,42253823-19:45-SLNoTransitway1
+741-D-0,741,0,South Station - Logan Airport,,4,10051099,42253830-20:45-SLNoTransitway1
 741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051101,42253820
 741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Early mornings and late nights only,3,10051198,42253818
-741-D-1,741,1,Logan Airport - South Station,,4,10051199,42253820-19:45-SLNoTransitway1
+741-D-1,741,1,Logan Airport - South Station,,4,10051199,42253820-20:45-SLNoTransitway1
 742-1-0,742,0,South Station - Drydock Ave (AM Route),,1,10052058,42253504
 742-_-0,742,0,South Station - Drydock Ave (PM Route),,2,10052059,42253517
 742-D-0,742,0,South Station - Drydock,,4,10052099,42254565-SLNoTransitway1
-742-E-0,742,0,South Station - Drydock,,4,10052099,42253517-19:45-SLNoTransitway1
+742-E-0,742,0,South Station - Drydock,,4,10052099,42253517-20:45-SLNoTransitway1
 742-_-1,742,1,Drydock Ave - South Station (PM Route),,1,10052146,42253519
 742-1-1,742,1,Drydock Ave - South Station (AM Route),,1,10052159,42253505
 742-3-1,742,1,Drydock Ave - South Station (PM - Omits 88 Black Falcon Ave),Evenings only,3,10052194,42253516
 742-D-1,742,1,Drydock - South Station,,4,10052199,42254531-SLNoTransitway1
-742-E-1,742,1,Drydock - South Station,,4,10052199,42253532-19:45-SLNoTransitway1
-742-F-1,742,1,Drydock - South Station,,4,10052199,42253516-19:45-SLNoTransitway1
+742-E-1,742,1,Drydock - South Station,,4,10052199,42254535-SLNoTransitway1
+742-F-1,742,1,Drydock - South Station,,4,10052199,42253516-20:45-SLNoTransitway1
 743-_-0,743,0,South Station - Chelsea Station,,1,10053000,42253248
-743-D-0,743,0,South Station - Chelsea,,4,10053099,42253248-19:45-SLNoTransitway1
+743-D-0,743,0,South Station - Chelsea,,4,10053099,42253248-20:45-SLNoTransitway1
 743-_-1,743,1,Chelsea Station - South Station,,1,10053101,42253247
 743-1-1,743,1,Chelsea Station - South Station (Surface Route),Late nights only,3,10053198,42253255
-743-D-1,743,1,Chelsea - South Station,,4,10053199,42253247-19:45-SLNoTransitway1
+743-D-1,743,1,Chelsea - South Station,,4,10053199,42253247-20:45-SLNoTransitway1
 751-_-0,751,0,South Station - Dudley Station,,1,10055000,42252702
 751-_-1,751,1,Dudley Station - South Station,,1,10055100,42252701
 749-_-0,749,0,Temple Place - Dudley Station,,1,10056000,42252444
 749-_-1,749,1,Dudley Station - Temple Place,,1,10056100,42252443
 746-_-0,746,0,South Station - Silver Line Way,,1,10057000,42253142
-746-D-0,746,0,South Station - Silver Line Way,,4,10057099,42253268-19:45-SLNoTransitway1
+746-D-0,746,0,South Station - Silver Line Way,,4,10057099,42253287-20:45-SLNoTransitway1
 746-_-1,746,1,Silver Line Way - South Station,,1,10057100,42253135
-746-D-1,746,1,Silver Line Way - South Station,,4,10057199,42253257-19:45-SLNoTransitway1
+746-D-1,746,1,Silver Line Way - South Station,,4,10057199,42254361-SLNoTransitway1
 CR-Fairmount-0-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,20001000,CR-Weekday-Fall-19-769
 CR-Fairmount-0-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-Weekday-Fall-19-766
 CR-Fitchburg-0-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-Weekday-Fall-19-425
@@ -75,10 +75,10 @@ CR-Franklin-2-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,20004102,C
 CR-Franklin-3-1,CR-Franklin,1,Foxboro - South Station via Fairmount,,3,20004103,CR-Weekday-Fall-19-740
 CR-Greenbush-0-0,CR-Greenbush,0,South Station - Greenbush,,1,20005000,CR-Weekday-Fall-19-085
 CR-Greenbush-0-1,CR-Greenbush,1,Greenbush - South Station,,1,20005100,CR-Weekday-Fall-19-070
-CR-Haverhill-0-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,20006000,CR-Weekday-Fall-19-229-BallardvaleMaldenCenter
-CR-Haverhill-1-0,CR-Haverhill,0,North Station - Haverhill via Anderson/Woburn,,3,20006001,CR-Weekday-Fall-19-221-BallardvaleMaldenCenter
-CR-Haverhill-0-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,20006100,CR-Weekday-Fall-19-200-BallardvaleMaldenCenter
-CR-Haverhill-1-1,CR-Haverhill,1,Haverhill - North Station via Anderson/Woburn,,3,20006101,CR-Weekday-Fall-19-208-BallardvaleMaldenCenter
+CR-Haverhill-0-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,20006000,CR-Weekday-Fall-19-201
+CR-Haverhill-1-0,CR-Haverhill,0,North Station - Haverhill via Anderson/Woburn,,3,20006001,CR-Weekday-Fall-19-221
+CR-Haverhill-0-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,20006100,CR-Weekday-Fall-19-200
+CR-Haverhill-1-1,CR-Haverhill,1,Haverhill - North Station via Anderson/Woburn,,3,20006101,CR-Weekday-Fall-19-208
 CR-Kingston-0-0,CR-Kingston,0,South Station - Kingston,,1,20007000,CR-Weekday-Fall-19-047
 CR-Kingston-1-0,CR-Kingston,0,South Station - Plymouth,,1,20007001,CR-Weekday-Fall-19-063
 CR-Kingston-2-0,CR-Kingston,0,South Station - Plymouth via Kingston,,2,20007002,CR-Weekday-Fall-19-065
@@ -943,8 +943,6 @@ Shuttle-BabcockBostonCollege-0-0,Shuttle-BabcockBostonCollege,0,Babcock Street -
 Shuttle-BabcockBostonCollege-0-1,Shuttle-BabcockBostonCollege,1,Boston College - Babcock Street,,4,60450199,41836965-20:45-BabcockBCNewtonHighlandsKenmore1
 Shuttle-BallardvaleMaldenCenter-0-0,Shuttle-BallardvaleMaldenCenter,0,Malden Center - Ballardvale,,4,60650099,CR-Weekday-Fall-19-203-BallardvaleMaldenCenter1
 Shuttle-BallardvaleMaldenCenter-0-1,Shuttle-BallardvaleMaldenCenter,1,Ballardvale - Malden Center,,4,60650199,CR-Weekday-Fall-19-210-BallardvaleMaldenCenter1
-Shuttle-ClevelandCircleKenmore-0-0,Shuttle-ClevelandCircleKenmore,0,Kenmore - Cleveland Circle,,4,61400099,41837283-20:45-ClevelandCircleKenmoreNewtonHighlandsKenmore1
-Shuttle-ClevelandCircleKenmore-0-1,Shuttle-ClevelandCircleKenmore,1,Cleveland Circle - Kenmore,,4,61400199,41836968-20:45-ClevelandCircleKenmoreNewtonHighlandsKenmore1
 Shuttle-FenwayNewtonHighlands-0-0,Shuttle-FenwayNewtonHighlands,0,Fenway - Newton Highlands,,4,61490099,39988545-20:45-BabcockBCFenwayNewtonHighlands1
 Shuttle-FenwayNewtonHighlands-0-1,Shuttle-FenwayNewtonHighlands,1,Newton Highlands - Fenway,,4,61490199,39989659-20:45-BabcockBCFenwayNewtonHighlands1
 Shuttle-ForgeParkReadville-0-0,Shuttle-ForgeParkReadville,0,Readville - Forge Park/495,,4,61750099,CR-Saturday-Fall-19-1703-ForgeParkReadvilleForgeParkSouthStation1
