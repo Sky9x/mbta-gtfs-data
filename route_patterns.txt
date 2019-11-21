@@ -1,65 +1,78 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010051,41527099
 Red-3-0,Red,0,Alewife - Braintree,,1,10010052,41527114
+Red-1-0_70071_70081_0,Red,0,Alewife - Kendall/MIT,,4,10010099,41527268-20:45-BroadwayKendall0
+Red-1-0_70071_70081_2,Red,0,Broadway - Ashmont,,4,10010099,41527268-20:45-BroadwayKendall2
+Red-3-0_70071_70081_0,Red,0,Alewife - Kendall/MIT,,4,10010099,41527423-20:45-BroadwayKendall0
+Red-3-0_70071_70081_2,Red,0,Broadway - Braintree,,4,10010099,41527423-20:45-BroadwayKendall2
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010151,41527094
 Red-3-1,Red,1,Braintree - Alewife,,1,10010152,41527109
+Red-1-1_70082_70072_0,Red,1,Ashmont - Broadway,,4,10010199,41527249-20:45-BroadwayKendall0
+Red-1-1_70082_70072_2,Red,1,Kendall/MIT - Alewife,,4,10010199,41527249-20:45-BroadwayKendall2
+Red-3-1_70082_70072_0,Red,1,Braintree - Broadway,,4,10010199,41527495-20:45-BroadwayKendall0
+Red-3-1_70082_70072_2,Red,1,Kendall/MIT - Alewife,,4,10010199,41527495-20:45-BroadwayKendall2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,41845181
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,41845179
-Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,41131887-20:15-OakGroveWellington
-Orange-5-0,Orange,0,Wellington - Forest Hills,Weekdays only,3,10020099,41132015-20:15-OakGroveWellington
-Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,41131885-20:15-OakGroveWellington
-Green-B-3-0,Green-B,0,Park Street - Boston College,,1,10032000,41838474-20:45-NewtonHighlandsKenmore
+Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,41131859
+Orange-3-0_70036_70032_2,Orange,0,Wellington - Forest Hills,,4,10020099,41132096-20:15-OakGroveWellington2
+Orange-5-0,Orange,0,Wellington - Forest Hills,Weekdays only,3,10020099,41131856
+Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,41131857
+Orange-3-1_70033_70036_0,Orange,1,Forest Hills - Wellington,,4,10020199,41132119-20:15-OakGroveWellington0
+Green-B-3-0,Green-B,0,Park Street - Boston College,,1,10032000,39988510
 Green-B-0-0,Green-B,0,Lechmere - Boston College,Weekend early mornings only,3,10032099,41845673
-Green-B-3-1,Green-B,1,Boston College - Park Street,,1,10032100,41838612-20:45-NewtonHighlandsKenmore
+Green-B-0-0_70137_70107_0,Green-B,0,Lechmere - Babcock Street,,4,10032099,41840125-BabcockBCFenwayNewtonHighlands0
+Green-B-3-0_70137_70107_0,Green-B,0,Park Street - Babcock Street,,4,10032099,39988510-20:45-BabcockBCFenwayNewtonHighlands0
+Green-B-3-1,Green-B,1,Boston College - Park Street,,1,10032100,39988448
 Green-B-0-1,Green-B,1,Boston College - Lechmere,Weekend early mornings only,3,10032199,41845672
-Green-C-1-0,Green-C,0,North Station - Cleveland Circle,,1,10033000,41837070-20:45-NewtonHighlandsKenmore
-Green-C-0-0,Green-C,0,Lechmere - Cleveland Circle,,3,10033099,41836915-20:45-NewtonHighlandsKenmore
-Green-C-1-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,41837343-20:45-NewtonHighlandsKenmore
-Green-C-0-1,Green-C,1,Cleveland Circle - Lechmere,Early mornings only,3,10033199,41836905-20:45-NewtonHighlandsKenmore
-Green-D-2-0,Green-D,0,Government Center - Riverside,,1,10034003,41837503-20:45-NewtonHighlandsKenmore
-Green-D-4-0,Green-D,0,Lechmere - Reservoir,Weekdays only,3,10034098,41837318-20:45-NewtonHighlandsKenmore
+Green-B-0-1_70106_70136_2,Green-B,1,Babcock Street - Lechmere,,4,10032199,41840124-BabcockBCFenwayNewtonHighlands2
+Green-B-3-1_70106_70136_2,Green-B,1,Babcock Street - Park Street,,4,10032199,39988509-20:45-BabcockBCFenwayNewtonHighlands2
+Green-C-1-0,Green-C,0,North Station - Cleveland Circle,,1,10033000,39988461
+Green-C-0-0,Green-C,0,Lechmere - Cleveland Circle,,3,10033099,39988459
+Green-C-1-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,39988450
+Green-C-0-1,Green-C,1,Cleveland Circle - Lechmere,Early mornings only,3,10033199,39988449
+Green-D-2-0,Green-D,0,Government Center - Riverside,,1,10034003,39988545
+Green-D-4-0,Green-D,0,Lechmere - Reservoir,Weekdays only,3,10034098,39988822
 Green-D-6-0,Green-D,0,Newton Highlands - Riverside,Weekday evenings only,3,10034098,41839097-20:45-NewtonHighlandsKenmore2
-Green-D-0-0,Green-D,0,Lechmere - Riverside,Weekdays only,3,10034099,41838310-20:45-NewtonHighlandsKenmore
-Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034103,41837714-20:45-NewtonHighlandsKenmore
-Green-D-4-1,Green-D,1,Reservoir - Lechmere,Weekdays only,3,10034198,41837322-20:45-NewtonHighlandsKenmore
+Green-D-0-0,Green-D,0,Lechmere - Riverside,Weekdays only,3,10034099,39990678
+Green-D-2-0_70151_70169_0,Green-D,0,Government Center - Kenmore,,4,10034099,41840225-NewtonHighlandsKenmoreW0
+Green-D-2-0_70151_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,41840225-NewtonHighlandsKenmoreW2
+Green-D-2-0_70169_70161_0,Green-D,0,Government Center - Newton Highlands,,4,10034099,39988545-20:45-NewtonHighlandsRiverside0
+Green-D-2-0_70187_70169_0,Green-D,0,Government Center - Fenway,,4,10034099,39988545-20:45-BabcockBCFenwayNewtonHighlands0
+Green-D-2-0_70187_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,39988545-20:45-BabcockBCFenwayNewtonHighlands2
+Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034103,39988440
+Green-D-4-1,Green-D,1,Reservoir - Lechmere,Weekdays only,3,10034198,39988811
 Green-D-6-1,Green-D,1,Riverside - Newton Highlands,Weekday evenings only,3,10034198,41839076-20:45-NewtonHighlandsKenmore
-Green-D-0-1,Green-D,1,Riverside - Lechmere,Weekday early mornings only,3,10034199,41838308-20:45-NewtonHighlandsKenmore
+Green-D-0-1,Green-D,1,Riverside - Lechmere,Weekday early mornings only,3,10034199,39990676
 Green-D-1-1,Green-D,1,Riverside - North Station,Weekday evenings only,3,10034199,41837717-20:45-NewtonHighlandsKenmore
-Green-D-5-1,Green-D,1,Reservoir - Government Center,Weekday early mornings only,3,10034199,41837263-20:45-NewtonHighlandsKenmore
-Green-E-0-0,Green-E,0,Lechmere - Heath Street,,1,10035000,41837161-20:45-NewtonHighlandsKenmore
-Green-E-2-0,Green-E,0,Government Center - Heath Street,Weekday early mornings only,3,10035099,41837009-20:45-NewtonHighlandsKenmore
-Green-E-0-1,Green-E,1,Heath Street - Lechmere,,1,10035100,41837191-20:45-NewtonHighlandsKenmore
+Green-D-2-1_70160_70168_2,Green-D,1,Newton Highlands - Government Center,,4,10034199,39989659-20:45-NewtonHighlandsRiverside2
+Green-D-2-1_70168_70150_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,41840189-NewtonHighlandsKenmoreW0
+Green-D-2-1_70168_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,41840189-NewtonHighlandsKenmoreW2
+Green-D-2-1_70168_70186_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,39989659-20:45-BabcockBCFenwayNewtonHighlands0
+Green-D-2-1_70168_70186_2,Green-D,1,Fenway - Government Center,,4,10034199,39989659-20:45-BabcockBCFenwayNewtonHighlands2
+Green-D-5-1,Green-D,1,Reservoir - Government Center,Weekday early mornings only,3,10034199,39988808
+Green-E-0-0,Green-E,0,Lechmere - Heath Street,,1,10035000,39988483
+Green-E-2-0,Green-E,0,Government Center - Heath Street,Weekday early mornings only,3,10035099,39988554
+Green-E-0-1,Green-E,1,Heath Street - Lechmere,,1,10035100,39988557
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040003,41307847
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040096,41307855
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,41307848
 741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,42253819
-741-D-0,741,0,South Station - Logan Airport,,4,10051099,42253830-20:45-SLNoTransitway1
 741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051101,42253820
 741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Early mornings and late nights only,3,10051198,42253818
-741-D-1,741,1,Logan Airport - South Station,,4,10051199,42253820-20:45-SLNoTransitway1
 742-1-0,742,0,South Station - Drydock Ave (AM Route),,1,10052058,42253504
 742-_-0,742,0,South Station - Drydock Ave (PM Route),,2,10052059,42253517
-742-D-0,742,0,South Station - Drydock,,4,10052099,42254565-SLNoTransitway1
-742-E-0,742,0,South Station - Drydock,,4,10052099,42253517-20:45-SLNoTransitway1
 742-_-1,742,1,Drydock Ave - South Station (PM Route),,1,10052146,42253519
 742-1-1,742,1,Drydock Ave - South Station (AM Route),,1,10052159,42253505
 742-3-1,742,1,Drydock Ave - South Station (PM - Omits 88 Black Falcon Ave),Evenings only,3,10052194,42253516
-742-D-1,742,1,Drydock - South Station,,4,10052199,42254531-SLNoTransitway1
-742-E-1,742,1,Drydock - South Station,,4,10052199,42254535-SLNoTransitway1
-742-F-1,742,1,Drydock - South Station,,4,10052199,42253516-20:45-SLNoTransitway1
 743-_-0,743,0,South Station - Chelsea Station,,1,10053000,42253248
-743-D-0,743,0,South Station - Chelsea,,4,10053099,42253248-20:45-SLNoTransitway1
 743-_-1,743,1,Chelsea Station - South Station,,1,10053101,42253247
 743-1-1,743,1,Chelsea Station - South Station (Surface Route),Late nights only,3,10053198,42253255
-743-D-1,743,1,Chelsea - South Station,,4,10053199,42253247-20:45-SLNoTransitway1
 751-_-0,751,0,South Station - Dudley Station,,1,10055000,42252702
 751-_-1,751,1,Dudley Station - South Station,,1,10055100,42252701
 749-_-0,749,0,Temple Place - Dudley Station,,1,10056000,42252444
 749-_-1,749,1,Dudley Station - Temple Place,,1,10056100,42252443
 746-_-0,746,0,South Station - Silver Line Way,,1,10057000,42253142
-746-D-0,746,0,South Station - Silver Line Way,,4,10057099,42253287-20:45-SLNoTransitway1
 746-_-1,746,1,Silver Line Way - South Station,,1,10057100,42253135
-746-D-1,746,1,Silver Line Way - South Station,,4,10057199,42254361-SLNoTransitway1
 CR-Fairmount-0-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,20001000,CR-Weekday-Fall-19-769
 CR-Fairmount-0-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-Weekday-Fall-19-766
 CR-Fitchburg-0-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-Weekday-Fall-19-425
@@ -629,7 +642,7 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-Week
 201-7-1,201,1,North Quincy Station - Fields Corner Station via Adams St,Weekends only,3,52010195,41951636
 201-1-1,201,1,Adams St & Gallivan Blvd - Fields Corner via Adams St,School days only,3,52010199,41892480_1
 202-5-0,202,0,Fields Corner Station - Keystone Apts via Adams St,Weekdays only,1,52020012,41952358
-202-A-0,202,0,Fields Corner - Adams St & Gallivan Blvd via Adams St,School days only,3,52020094,41892472_2
+202-A-0,202,0,Fields Corner - Adams St & Gallivan Blvd via Adams St,School days only,3,52020094,41892468_2
 202-7-0,202,0,Fields Corner - North Quincy via Keystone Apts & Adams St,Weekends only,3,52020095,41951680
 202-4-0,202,0,Fields Corner Station - Hallett Square via Adams St,Weekday early mornings only,3,52020097,41952097
 202-8-0,202,0,North Quincy Station - Quincy Bus Garage,Saturday afternoons only,3,52020099,41950268
@@ -941,8 +954,6 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-Week
 716-1-1,716,1,Cobbs Corner - Mattapan Station (Omits Royall St),Saturdays only,3,57160196,42270655
 Shuttle-BabcockBostonCollege-0-0,Shuttle-BabcockBostonCollege,0,Babcock Street - Boston College,,4,60450099,39988510-20:45-BabcockBCFenwayNewtonHighlands1
 Shuttle-BabcockBostonCollege-0-1,Shuttle-BabcockBostonCollege,1,Boston College - Babcock Street,,4,60450199,39988509-20:45-BabcockBCFenwayNewtonHighlands1
-Shuttle-BallardvaleMaldenCenter-0-0,Shuttle-BallardvaleMaldenCenter,0,Malden Center - Ballardvale,,4,60650099,CR-Weekday-Fall-19-203-BallardvaleMaldenCenter1
-Shuttle-BallardvaleMaldenCenter-0-1,Shuttle-BallardvaleMaldenCenter,1,Ballardvale - Malden Center,,4,60650199,CR-Weekday-Fall-19-210-BallardvaleMaldenCenter1
 Shuttle-BroadwayKendall-0-0,Shuttle-BroadwayKendall,0,Kendall/MIT - Broadway,,4,61050099,41527268-20:45-BroadwayKendall1
 Shuttle-BroadwayKendall-0-1,Shuttle-BroadwayKendall,1,Broadway - Kendall/MIT,,4,61050199,41527249-20:45-BroadwayKendall1
 Shuttle-FenwayNewtonHighlands-0-0,Shuttle-FenwayNewtonHighlands,0,Fenway - Newton Highlands,,4,61490099,39988545-20:45-BabcockBCFenwayNewtonHighlands1
@@ -951,11 +962,10 @@ Shuttle-ForgeParkReadville-0-0,Shuttle-ForgeParkReadville,0,Readville - Forge Pa
 Shuttle-ForgeParkReadville-0-1,Shuttle-ForgeParkReadville,1,Forge Park/495 - Readville,,4,61750199,CR-Saturday-Fall-19-1702-ForgeParkReadvilleForgeParkSouthStation1
 Shuttle-ForgeParkSouthStation-0-0,Shuttle-ForgeParkSouthStation,0,South Station - Forge Park/495,,4,61760099,CR-Saturday-Fall-19-1719-ForgeParkReadvilleForgeParkSouthStation1
 Shuttle-ForgeParkSouthStation-0-1,Shuttle-ForgeParkSouthStation,1,Forge Park/495 - South Station,,4,61760199,CR-Saturday-Fall-19-1716-ForgeParkReadvilleForgeParkSouthStation1
-Shuttle-HaymarketSullivan-0-0,Shuttle-HaymarketSullivan,0,Sullivan - Haymarket,,4,61975099,41132096-20:45-HaySullTufts1
-Shuttle-HaymarketSullivan-0-1,Shuttle-HaymarketSullivan,1,Haymarket - Sullivan,,4,61975199,41132122-20:45-HaySullTufts1
+Shuttle-GreenbushSouthStation-0-1,Shuttle-GreenbushSouthStation,1,Greenbush - South Station,,4,61960199,CR-Saturday-Fall-19-1070-GreenbushBraintree1
 Shuttle-NewtonHighlandsKenmore-0-0,Shuttle-NewtonHighlandsKenmore,0,Kenmore - Newton Highlands,,4,62090099,extra_shuttle_trip_fall-20:45-NewtonHighlandsKenmore
 Shuttle-NewtonHighlandsKenmore-0-1,Shuttle-NewtonHighlandsKenmore,1,Newton Highlands - Kenmore,,4,62090199,41839078-20:45-NewtonHighlandsKenmore1
+Shuttle-NewtonHighlandsRiverside-0-0,Shuttle-NewtonHighlandsRiverside,0,Newton Highlands - Riverside,,4,62100099,39988545-20:45-NewtonHighlandsRiverside1
+Shuttle-NewtonHighlandsRiverside-0-1,Shuttle-NewtonHighlandsRiverside,1,Riverside - Newton Highlands,,4,62100199,39989659-20:45-NewtonHighlandsRiverside1
 Shuttle-OakGroveWellington-0-0,Shuttle-OakGroveWellington,0,Oak Grove - Wellington,,4,62300099,41132096-20:15-OakGroveWellington1
 Shuttle-OakGroveWellington-0-1,Shuttle-OakGroveWellington,1,Wellington - Oak Grove,,4,62300199,41132119-20:15-OakGroveWellington1
-Shuttle-RugglesSullivan-0-0,Shuttle-RugglesSullivan,0,Sullivan - Ruggles,,4,62450099,41132096-20:45-RugglesSullivan1
-Shuttle-RugglesSullivan-0-1,Shuttle-RugglesSullivan,1,Ruggles - Sullivan,,4,62450199,41132122-20:45-RugglesSullivan1
