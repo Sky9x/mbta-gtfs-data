@@ -1,12 +1,9 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality
-BUS419-10-Sa-02,Saturday schedule,Saturday,Saturday,1
-BUS419-11-Su-02,Sunday schedule,Sunday,Sunday,1
-BUS419-W-Wdy-02,Weekday schedule,Weekday,Weekday,1
-BUS419-X-Sa-02,Saturday schedule,Saturday,Saturday,1
-BUS419-Y-Su-02,Sunday schedule,Sunday,Sunday,1
-BUS419-Z-Wdy-02,Weekday schedule,Weekday,Weekday,1
+BUS419-10-Su-02,Sunday schedule,Sunday,Sunday,1
+BUS419-W-Sa-02,Saturday schedule,Saturday,Saturday,1
+BUS419-X-Su-02,Sunday schedule,Sunday,Sunday,1
+BUS419-Z-Sa-02,Saturday schedule,Saturday,Saturday,1
 Boat-F1-Frd,Friday schedule,Friday,Weekday,1
-Boat-F1-ThgEv,Weekday schedule (modified),Pre-holiday,Weekday,2
 Boat-F1-Wkd,Weekday schedule,Weekday,Weekday,1
 Boat-F4-Wkd,Weekday schedule,Weekday,Weekday,1
 CR-Foxboro-Su-1625,Special event schedule,Special event,Other,2
@@ -68,6 +65,7 @@ RTL419-A-Sa-01,Saturday schedule,Saturday,Saturday,1
 RTL419-A-Sa-01-BrwKnl,Saturday schedule,Saturday,Saturday,4
 RTL419-B-Su-01,Sunday schedule,Sunday,Sunday,1
 RTL419-B-Su-01-BrwKnl,Sunday schedule,Sunday,Sunday,4
+RTL419-B-Su-01-BrwKnlDTX,Sunday schedule,Sunday,Sunday,4
 Saturday,Saturday schedule,Saturday,Saturday,1
 Sunday,Sunday schedule,Sunday,Sunday,1
 ThanksgivingDay,Holiday (Sunday schedule),Holiday,Sunday,3
