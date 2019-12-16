@@ -19,6 +19,7 @@ BUS120-S-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20191
 BUS120-T-Wdy-02,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
 BUS120-Y-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20191222,20200314,Winter
 BUS120-Z-Wdy-02,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
+Boat-F1-ChsEvC0,Holiday (Weekday schedule (modified)),Holiday,Weekday,3,,,
 Boat-F1-Frd,Friday schedule,Friday,Weekday,1,20190701,,
 Boat-F1-Wkd,Weekday schedule,Weekday,Weekday,1,20190701,,
 Boat-F4-Snd,Sunday schedule,Sunday,Sunday,1,20190701,,
@@ -48,7 +49,6 @@ CR-Sa-Needham-Fll-19,Saturday schedule,Saturday,Saturday,1,20191021,,Fall
 CR-Sa-Needham-Fll-19C0,Holiday (Saturday schedule),Holiday,Saturday,3,,,
 CR-Sa-Newburyport-Fll-19,Saturday schedule,Saturday,Saturday,1,20191021,,Fall
 CR-Sa-Newburyport-Fll-19C0,Holiday (Saturday schedule),Holiday,Saturday,3,,,
-CR-Sa-Providence-Fll-19,Saturday schedule,Saturday,Saturday,1,20191021,,Fall
 CR-Sa-Providence-FllProvA-19,Saturday schedule,Saturday,Saturday,1,20191021,20191215,Fall
 CR-Sa-Providence-FllProvB-19,Saturday schedule,Saturday,Saturday,1,20191216,,Fall
 CR-Sa-Providence-FllProvB-19C0,Holiday (Saturday schedule),Holiday,Saturday,3,,,
@@ -73,7 +73,6 @@ CR-Su-Middleborough-Fll-19,Sunday schedule,Sunday,Sunday,1,20191021,,Fall
 CR-Su-Middleborough-Fll-19C0,Holiday (Sunday schedule),Holiday,Sunday,3,,,
 CR-Su-Newburyport-Fll-19,Sunday schedule,Sunday,Sunday,1,20191021,,Fall
 CR-Su-Newburyport-Fll-19C0,Holiday (Sunday schedule),Holiday,Sunday,3,,,
-CR-Su-Providence-Fll-19,Sunday schedule,Sunday,Sunday,1,20191021,,Fall
 CR-Su-Providence-FllProvA-19,Sunday schedule,Sunday,Sunday,1,20191021,20191215,Fall
 CR-Su-Providence-FllProvB-19,Sunday schedule,Sunday,Sunday,1,20191216,,Fall
 CR-Su-Providence-FllProvB-19C0,Holiday (Sunday schedule),Holiday,Sunday,3,,,
@@ -137,7 +136,6 @@ RTL419-7-Wdy-01,Weekday schedule,Weekday,Weekday,1,20190901,20191221,Fall
 RTL419-7-Wdy-01-BrwKnl,Weekday schedule,Weekday,Weekday,4,,,
 RTL419-8-Sa-01,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 RTL419-8-Sa-01-BrwKnl,Saturday schedule,Saturday,Saturday,4,,,
-RTL419-9-Su-01-BrwKnl,Sunday schedule,Sunday,Sunday,4,,,
-RTL419-9-Su-01-BrwKnlDTX,Sunday schedule,Sunday,Sunday,4,,,
+RTL419-9-Su-01,Sunday schedule,Sunday,Sunday,4,,,
 WinterSaturday,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
 WinterSunday,Sunday schedule,Sunday,Sunday,1,20191222,20200314,Winter
