@@ -19,21 +19,13 @@ BUS120-S-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20191
 BUS120-T-Wdy-02,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
 BUS120-Y-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20191222,20200314,Winter
 BUS120-Z-Wdy-02,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-BUS419-3-Sa-02,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 BUS419-4-Su-02,Sunday schedule,Sunday,Sunday,1,20190901,20191221,Fall
-BUS419-6-Sa-02,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 BUS419-7-Su-02,Sunday schedule,Sunday,Sunday,1,20190901,20191221,Fall
-BUS419-A-Sa-02,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 BUS419-B-Su-02,Sunday schedule,Sunday,Sunday,1,20190901,20191221,Fall
-BUS419-D-Sa-02,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 BUS419-E-Su-02,Sunday schedule,Sunday,Sunday,1,20190901,20191221,Fall
-BUS419-G-Sa-02,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 BUS419-H-Su-02,Sunday schedule,Sunday,Sunday,1,20190901,20191221,Fall
-BUS419-J-Sa-02,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 BUS419-K-Su-02,Sunday schedule,Sunday,Sunday,1,20190901,20191221,Fall
-BUS419-M-Sa-02,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 BUS419-N-Su-02,Sunday schedule,Sunday,Sunday,1,20190901,20191221,Fall
-BUS419-P-Sa-02,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 Boat-F1-ChsEvC0,Holiday (Weekday schedule (modified)),Holiday,Weekday,3,20190701,,
 Boat-F1-Frd,Friday schedule,Friday,Weekday,1,20190701,,
 Boat-F1-Wkd,Weekday schedule,Weekday,Weekday,1,20190701,,
@@ -109,13 +101,14 @@ CR-Wdy-Worcester-Fll-19,Weekday schedule,Weekday,Weekday,1,20191021,,Fall
 CRSaFranklinFll19FrgPrkRdlFrgPrkSthStn,Saturday schedule,Saturday,Saturday,4,20191021,,Fall
 CRSuFranklinFll19FrgPrkRdlFrgPrkSthStn,Sunday schedule,Sunday,Sunday,4,20191021,,Fall
 ChristmasDay-NewYearsDay,Holiday (Sunday schedule),Holiday,Sunday,3,20191222,20200314,Winter
+FallSaturday,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 FallWeekday,Weekday schedule,Weekday,Weekday,1,20190901,20191221,Fall
 LRV120-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-LRV120-1-Wdy-01-NwnHgsKnrW,Weekday schedule,Weekday,Weekday,4,20191222,20200314,Winter
+LRV120-1-Wdy-01-KnrRsr,Weekday schedule,Weekday,Weekday,4,20191222,20200314,Winter
 LRV120-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
-LRV120-2-Sa-01-NwnHgsKnrW,Saturday schedule,Saturday,Saturday,4,20191222,20200314,Winter
+LRV120-2-Sa-01-KnrRsr,Saturday schedule,Saturday,Saturday,4,20191222,20200314,Winter
 LRV120-3-Su-01,Sunday schedule,Sunday,Sunday,1,20191222,20200314,Winter
-LRV120-3-Su-01-NwnHgsKnrW,Sunday schedule,Sunday,Sunday,4,20191222,20200314,Winter
+LRV120-3-Su-01-KnrRsr,Sunday schedule,Sunday,Sunday,4,20191222,20200314,Winter
 LRV120-4-Wdy-01,New Year's Eve schedule,New Year's Eve,Weekday,2,20191222,20200314,Winter
 LRV120-6-Su-01,Holiday (Sunday schedule),Holiday,Sunday,3,20191222,20200314,Winter
 LRV120-7-Su-01,Holiday (Sunday schedule),Holiday,Sunday,3,20191222,20200314,Winter
@@ -124,11 +117,12 @@ LRV120-B-Wdy-01,New Year's Eve schedule,New Year's Eve,Weekday,2,20191222,202003
 LRV120-D-Su-01,Holiday (Sunday schedule),Holiday,Sunday,3,20191222,20200314,Winter
 LRV120-E-Su-01,Holiday (Sunday schedule),Holiday,Sunday,3,20191222,20200314,Winter
 LRV219-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20190317,20190622,Spring
+LRV219-1-Wdy-01-KnrRsr,Weekday schedule,Weekday,Weekday,4,20190317,20190622,Spring
 LRV219-1-Wdy-01-NwnHgsRvd,Weekday schedule,Weekday,Weekday,4,20190317,20190622,Spring
 LRV419-1-Wdy-01,Weekday schedule,Weekday,Weekday,4,20190901,20191221,Fall
-LRV419-2-Sa-01,Saturday schedule,Saturday,Saturday,4,20190901,20191221,Fall
+LRV419-2-Sa-01-KnrRsr,Saturday schedule,Saturday,Saturday,4,20190901,20191221,Fall
+LRV419-2-Sa-01-NwnHgsKnrW,Saturday schedule,Saturday,Saturday,4,20190901,20191221,Fall
 LRV419-3-Su-01,Sunday schedule,Sunday,Sunday,4,20190901,20191221,Fall
-LRV419-5-Sa-01,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 LRV419-6-Su-01,Sunday schedule,Sunday,Sunday,1,20190901,20191221,Fall
 MartinLutherKingDay-WashingtonsBirthday,Holiday (Saturday schedule),Holiday,Saturday,3,20191222,20200314,Winter
 PRIV120-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
@@ -138,22 +132,21 @@ PRIV120-4-Sa-01,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
 PRIV120-5-Su-01,Sunday schedule,Sunday,Sunday,1,20191222,20200314,Winter
 PRIV120-6-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
 PRIV120-B-Wdy-01,Weekday schedule (no school),Weekday (no school),Weekday,1,20191222,20200314,Winter
-PRIV419-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
-PRIV419-4-Sa-01,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 PRIV419-5-Su-01,Sunday schedule,Sunday,Sunday,1,20190901,20191221,Fall
-PRIV419-7-Sa-01,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 PRIV419-8-Su-01,Sunday schedule,Sunday,Sunday,1,20190901,20191221,Fall
 RTL120-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
 RTL120-4-Wdy-01,New Year's Eve schedule,New Year's Eve,Weekday,2,20191222,20200314,Winter
 RTL120-7-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
 RTL120-A-Wdy-01,New Year's Eve schedule,New Year's Eve,Weekday,2,20191222,20200314,Winter
 RTL120-D-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
+RTL120-E-Sa-01,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
+RTL120-E-Sa-01-AlfHrd,Saturday schedule,Saturday,Saturday,4,20191222,20200314,Winter
+RTL120-F-Su-01,Sunday schedule,Sunday,Sunday,1,20191222,20200314,Winter
+RTL120-F-Su-01-AlfHrd,Sunday schedule,Sunday,Sunday,4,20191222,20200314,Winter
 RTL120-G-Wdy-01,New Year's Eve schedule,New Year's Eve,Weekday,2,20191222,20200314,Winter
-RTL419-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 RTL419-3-Su-01,Sunday schedule,Sunday,Sunday,1,20190901,20191221,Fall
 RTL419-4-Wdy-01,Weekday schedule,Weekday,Weekday,1,20190901,20191221,Fall
 RTL419-4-Wdy-01-OkGrvWln,Weekday schedule,Weekday,Weekday,4,20190901,20191221,Fall
-RTL419-5-Sa-01,Saturday schedule,Saturday,Saturday,1,20190901,20191221,Fall
 RTL419-6-Su-01,Sunday schedule,Sunday,Sunday,4,20190901,20191221,Fall
 RTL419-7-Wdy-01,Weekday schedule,Weekday,Weekday,1,20190901,20191221,Fall
 RTL419-7-Wdy-01-BrwKnl,Weekday schedule,Weekday,Weekday,4,20190901,20191221,Fall

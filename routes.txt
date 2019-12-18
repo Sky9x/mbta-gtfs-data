@@ -60,7 +60,7 @@ Boat-F1,1,,Hingham/Hull Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F1,008
 34,1,34,Dedham Line - Forest Hills,Local Bus,3,https://www.mbta.com/schedules/34,FFC72C,000000,50340,Local Bus,line-3434E,
 34E,1,34E,Walpole - Forest Hills,Local Bus,3,https://www.mbta.com/schedules/34E,FFC72C,000000,50341,Local Bus,line-3434E,
 35,1,35,Dedham Mall - Forest Hills,Local Bus,3,https://www.mbta.com/schedules/35,FFC72C,000000,50350,Local Bus,line-35,
-36,1,36,Charles River Loop - Forest Hills,Local Bus,3,https://www.mbta.com/schedules/36,FFC72C,000000,50360,Local Bus,line-36,
+36,1,36,Millennium Park or VA Hospital - Forest Hills,Local Bus,3,https://www.mbta.com/schedules/36,FFC72C,000000,50360,Local Bus,line-36,
 37,1,37,Baker Street & Vermont Street - Forest Hills,Local Bus,3,https://www.mbta.com/schedules/37,FFC72C,000000,50370,Local Bus,line-37,
 3738,1,37/38,Baker Street & Vermont Street - Forest Hills via South Street,Supplemental Bus,3,,FFC72C,000000,50371,Local Bus,line-38,1
 38,1,38,Wren Street - Forest Hills,Local Bus,3,https://www.mbta.com/schedules/38,FFC72C,000000,50380,Local Bus,line-38,
@@ -97,7 +97,7 @@ Boat-F1,1,,Hingham/Hull Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F1,008
 725,1,72/75,Belmont Center - Harvard via Huron Avenue,Local Bus,3,,FFC72C,000000,50721,Local Bus,line-727475,1
 73,1,73,Waverley Square - Harvard,Key Bus,3,https://www.mbta.com/schedules/73,FFC72C,000000,50730,Local Bus,line-73,
 74,1,74,Belmont Center - Harvard via Concord Avenue,Local Bus,3,https://www.mbta.com/schedules/74,FFC72C,000000,50740,Local Bus,line-727475,
-75,1,75,Belmont Center - Harvard via Fresh Pond Parkway,Local Bus,3,https://www.mbta.com/schedules/75,FFC72C,000000,50750,Local Bus,line-727475,
+75,1,75,Belmont Center - Harvard via Huron Ave,Local Bus,3,https://www.mbta.com/schedules/75,FFC72C,000000,50750,Local Bus,line-727475,
 76,1,76,Lincoln Lab/Hanscom Air Force Base - Alewife,Local Bus,3,https://www.mbta.com/schedules/76,FFC72C,000000,50760,Local Bus,line-6276,
 77,1,77,Arlington Heights - Harvard,Key Bus,3,https://www.mbta.com/schedules/77,FFC72C,000000,50770,Local Bus,line-77,
 78,1,78,Arlmont Village - Harvard,Local Bus,3,https://www.mbta.com/schedules/78,FFC72C,000000,50780,Local Bus,line-7884,
@@ -158,7 +158,7 @@ Boat-F1,1,,Hingham/Hull Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F1,008
 220,1,220,Hingham Depot - Quincy Center,Local Bus,3,https://www.mbta.com/schedules/220,FFC72C,000000,52200,Local Bus,line-220221222,
 221,1,221,Fort Point - Quincy Center,Commuter Bus,3,https://www.mbta.com/schedules/221,FFC72C,000000,52210,Local Bus,line-220221222,
 222,1,222,East Weymouth - Quincy Center,Local Bus,3,https://www.mbta.com/schedules/222,FFC72C,000000,52220,Local Bus,line-220221222,
-225,1,225,Weymouth Landing or Columbian Square - Quincy Center,Local Bus,3,https://www.mbta.com/schedules/225,FFC72C,000000,52250,Local Bus,line-225226,
+225,1,225,Weymouth Landing - Quincy Center,Local Bus,3,https://www.mbta.com/schedules/225,FFC72C,000000,52250,Local Bus,line-225226,
 226,1,226,Columbian Square - Braintree,Local Bus,3,https://www.mbta.com/schedules/226,FFC72C,000000,52260,Local Bus,line-225226,
 230,1,230,Montello Commuter Rail Station - Quincy Center,Local Bus,3,https://www.mbta.com/schedules/230,FFC72C,000000,52300,Local Bus,line-230,
 236,1,236,South Shore Plaza - Quincy Center,Local Bus,3,https://www.mbta.com/schedules/236,FFC72C,000000,52360,Local Bus,line-236,
@@ -203,6 +203,7 @@ Boat-F1,1,,Hingham/Hull Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F1,008
 713,1,713,"Point Shirley, Winthrop - Orient Heights via Winthrop Center",Local Bus,3,https://www.mbta.com/schedules/713,FFC72C,000000,57130,Local Bus,line-712713,
 714,1,714,"Pemberton Point, Hull - Hingham",Local Bus,3,https://www.mbta.com/schedules/714,FFC72C,000000,57140,Local Bus,line-714,
 716,1,716,Cobbs Corner - Mattapan,Local Bus,3,https://www.mbta.com/schedules/716,FFC72C,000000,57160,Local Bus,line-716,
+Shuttle-AlewifeHarvard,1,,Red Line Shuttle,Rail Replacement Bus,3,,FFC72C,000000,60200,Free,line-Red,1
 Shuttle-BroadwayKendall,1,,Red Line Shuttle,Rail Replacement Bus,3,,FFC72C,000000,61050,Free,line-Red,1
 Shuttle-ForgeParkReadville,1,,Franklin Line Shuttle,Rail Replacement Bus,3,,FFC72C,000000,61750,Free,line-Franklin,1
 Shuttle-ForgeParkSouthStation,1,,Franklin Line Shuttle,Rail Replacement Bus,3,,FFC72C,000000,61760,Free,line-Franklin,1
@@ -236,6 +237,7 @@ Shuttle-Generic-Red-Ashmont,1,,Red Line Shuttle,Rail Replacement Bus,3,,FFC72C,0
 Shuttle-Generic-Red-Braintree,1,,Red Line Shuttle,Rail Replacement Bus,3,,FFC72C,000000,61937,Free,line-Red,1
 Shuttle-Generic-Red-Trunk,1,,Red Line Shuttle,Rail Replacement Bus,3,,FFC72C,000000,61938,Free,line-Red,1
 Shuttle-Generic-Worcester,1,,Framingham/Worcester Line Shuttle,Rail Replacement Bus,3,,FFC72C,000000,61939,Free,line-Worcester,1
+Shuttle-KenmoreReservoir,1,,Green Line D Shuttle,Rail Replacement Bus,3,,FFC72C,000000,62010,Free,line-Green,1
 Shuttle-NewtonHighlandsKenmore,1,,Green Line D Shuttle,Rail Replacement Bus,3,,FFC72C,000000,62090,Free,line-Green,1
 Shuttle-NewtonHighlandsRiverside,1,,Green Line D Shuttle,Rail Replacement Bus,3,,FFC72C,000000,62100,Free,line-Green,1
 Shuttle-OakGroveWellington,1,,Orange Line Shuttle,Rail Replacement Bus,3,,FFC72C,000000,62300,Free,line-Orange,1
