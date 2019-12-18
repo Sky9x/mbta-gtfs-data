@@ -2,8 +2,11 @@ service_id,date,exception_type,holiday_name
 CR-Sa-Fitchburg-Fll-19,20191214,1,
 CR-Su-Fitchburg-Fll-19,20191215,1,
 RTL419-7-Wdy-01,20191220,1,
+RTL120-F-Su-01,20191222,1,
+LRV120-1-Wdy-01,20191223,1,
 Boat-F1-ChsEvC0,20191224,1,Christmas Eve
 Boat-F1-Wkd,20191224,2,Christmas Eve
+LRV120-1-Wdy-01,20191224,1,Christmas Eve
 Boat-F1-Wkd,20191225,2,Christmas Day
 Boat-F4-Wkd,20191225,2,Christmas Day
 CR-Su-Fairmount-Fll-19C0,20191225,1,Christmas Day
@@ -30,7 +33,6 @@ CR-Wdy-Newburyport-Fll-19,20191225,2,Christmas Day
 CR-Wdy-Providence-FllProvB-19,20191225,2,Christmas Day
 CR-Wdy-Worcester-Fll-19,20191225,2,Christmas Day
 ChristmasDay-NewYearsDay,20191225,1,Christmas Day
-LRV120-1-Wdy-01,20191225,2,Christmas Day
 LRV120-7-Su-01,20191225,1,Christmas Day
 LRV120-8-Wdy-01,20191225,2,Christmas Day
 LRV120-E-Su-01,20191225,1,Christmas Day
@@ -40,12 +42,17 @@ PRIV120-5-Su-01,20191225,1,Christmas Day
 RTL120-1-Wdy-01,20191225,2,Christmas Day
 RTL120-7-Wdy-01,20191225,2,Christmas Day
 RTL120-D-Wdy-01,20191225,2,Christmas Day
-LRV120-1-Wdy-01,20191227,2,
+LRV120-1-Wdy-01,20191226,1,
+LRV120-1-Wdy-01-KnrRsr,20191227,1,
 CR-Sa-Fitchburg-Fll-19,20191228,1,
 CR-Sa-Fitchburg-Fll-19-FtgGLX,20191228,2,
+CRSaFranklinFll19FrgPrkRdlFrgPrkSthStn,20191228,2,
+RTL120-E-Sa-01,20191228,1,
 CR-Su-Fitchburg-Fll-19,20191229,1,
 CR-Su-Fitchburg-Fll-19-FtgGLX,20191229,2,
-LRV120-1-Wdy-01,20191231,2,
+CRSuFranklinFll19FrgPrkRdlFrgPrkSthStn,20191229,2,
+RTL120-F-Su-01,20191229,1,
+LRV120-1-Wdy-01,20191230,1,
 LRV120-8-Wdy-01,20191231,2,
 RTL120-1-Wdy-01,20191231,2,
 RTL120-7-Wdy-01,20191231,2,
@@ -77,7 +84,6 @@ CR-Wdy-Newburyport-Fll-19,20200101,2,New Year's Day
 CR-Wdy-Providence-FllProvB-19,20200101,2,New Year's Day
 CR-Wdy-Worcester-Fll-19,20200101,2,New Year's Day
 ChristmasDay-NewYearsDay,20200101,1,New Year's Day
-LRV120-1-Wdy-01,20200101,2,New Year's Day
 LRV120-6-Su-01,20200101,1,New Year's Day
 LRV120-8-Wdy-01,20200101,2,New Year's Day
 LRV120-D-Su-01,20200101,1,New Year's Day
@@ -87,6 +93,12 @@ PRIV120-5-Su-01,20200101,1,New Year's Day
 RTL120-1-Wdy-01,20200101,2,New Year's Day
 RTL120-7-Wdy-01,20200101,2,New Year's Day
 RTL120-D-Wdy-01,20200101,2,New Year's Day
+LRV120-1-Wdy-01,20200102,1,
+LRV120-1-Wdy-01,20200103,1,
+CRSaFranklinFll19FrgPrkRdlFrgPrkSthStn,20200104,2,
+RTL120-E-Sa-01,20200104,1,
+CRSuFranklinFll19FrgPrkRdlFrgPrkSthStn,20200105,2,
+RTL120-F-Su-01,20200105,1,
 BUS120-1-Wdy-02,20200120,2,Martin Luther King Day
 BUS120-15-Wdy-02,20200120,2,Martin Luther King Day
 BUS120-1B-Wdy-02,20200120,2,Martin Luther King Day
@@ -97,7 +109,6 @@ BUS120-H-Wdy-02,20200120,2,Martin Luther King Day
 BUS120-N-Wdy-02,20200120,2,Martin Luther King Day
 BUS120-T-Wdy-02,20200120,2,Martin Luther King Day
 BUS120-Z-Wdy-02,20200120,2,Martin Luther King Day
-LRV120-1-Wdy-01,20200120,2,Martin Luther King Day
 LRV120-8-Wdy-01,20200120,2,Martin Luther King Day
 MartinLutherKingDay-WashingtonsBirthday,20200120,1,Martin Luther King Day
 PRIV120-1-Wdy-01,20200120,2,Martin Luther King Day
