@@ -57,7 +57,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 1049,1049,Western Ave @ Everett St,,,,42.363093,-71.135443,,,https://www.mbta.com/stops/1049,,0,,0,Boston,Western Avenue,Everett Street,3
 1051,1051,Western Ave @ Travis St,,,,42.363248,-71.128518,,,https://www.mbta.com/stops/1051,,0,,1,Boston,Western Avenue,Travis Street,3
 1052,1052,130 Western Ave,,,,42.363526,-71.125043,,,https://www.mbta.com/stops/1052,,0,,1,Boston,Western Avenue,,3
-10522,10522,Circuit Dr @ Glen Ln,,,,42.305104,-71.094684,,,https://www.mbta.com/stops/10522,,0,,1,Boston,Jewish War Veterans Drive,Pierpoint Road,3
+10522,10522,Circuit Dr @ Glen Ln,,,,42.305104,-71.094684,,,https://www.mbta.com/stops/10522,,0,,2,Boston,Jewish War Veterans Drive,Pierpoint Road,3
 1053,1053,Western Ave @ Genzyme,,,,42.363915,-71.119805,,,https://www.mbta.com/stops/1053,,0,,1,Boston,Western Avenue,,3
 10540,10540,Morton St @ Evans St,,,,42.280886,-71.084654,,,https://www.mbta.com/stops/10540,,0,,1,Boston,Morton Street,Evans Street,3
 1055,1055,River St opp Blackstone St,,,,42.361913,-71.114378,,,https://www.mbta.com/stops/1055,,0,,0,Cambridge,River Street,Blackstone Street,3
@@ -7664,16 +7664,22 @@ place-WML-0102,,Auburndale,,,,42.345725,-71.250826,CR-zone-2,"Auburn St and Wood
 Auburndale,,Auburndale,Auburndale - Commuter Rail,,Commuter Rail,42.345725,-71.250826,CR-zone-2,,https://www.mbta.com/stops/place-WML-0102,,0,place-WML-0102,2,Newton,,,2
 place-WML-0125,,Wellesley Farms,,,,42.323608,-71.272288,CR-zone-3,"90 Croton St, Wellesley, MA 02481",https://www.mbta.com/stops/place-WML-0125,,1,,2,Wellesley,,,
 Wellesley Farms,,Wellesley Farms,Wellesley Farms - Commuter Rail,,Commuter Rail,42.323608,-71.272288,CR-zone-3,,https://www.mbta.com/stops/place-WML-0125,,0,place-WML-0125,2,Wellesley,,,2
+Wellesley Farms-S,,Wellesley Farms,Wellesley Farms - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.322112,-71.271940,,,https://www.mbta.com/stops/place-WML-0125,,0,place-WML-0125,1,Wellesley,,,3
 place-WML-0135,,Wellesley Hills,,,,42.310370,-71.277044,CR-zone-3,"341 Washington St, Wellesley, MA 02481",https://www.mbta.com/stops/place-WML-0135,,1,,2,Wellesley,,,
 Wellesley Hills,,Wellesley Hills,Wellesley Hills - Commuter Rail,,Commuter Rail,42.310370,-71.277044,CR-zone-3,,https://www.mbta.com/stops/place-WML-0135,,0,place-WML-0135,2,Wellesley,,,2
+Wellesley Hills-S,,Wellesley Hills,Wellesley Hills - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.309947,-71.277442,,,https://www.mbta.com/stops/place-WML-0135,,0,place-WML-0135,1,Wellesley,,,3
 place-WML-0147,,Wellesley Square,,,,42.297526,-71.294173,CR-zone-3,"1 Grove St, Wellesley, MA 02482",https://www.mbta.com/stops/place-WML-0147,,1,,2,Wellesley,,,
 Wellesley Square,,Wellesley Square,Wellesley Square - Commuter Rail,,Commuter Rail,42.297526,-71.294173,CR-zone-3,,https://www.mbta.com/stops/place-WML-0147,,0,place-WML-0147,2,Wellesley,,,2
+Wellesley Square-S,,Wellesley Square,Wellesley Square - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.297041,-71.294720,,,https://www.mbta.com/stops/place-WML-0147,,0,place-WML-0147,1,Wellesley,,,3
 place-WML-0177,,Natick Center,,,,42.285719,-71.347133,CR-zone-4,"1 Walnut St, Natick, MA 01760",https://www.mbta.com/stops/place-WML-0177,,1,,2,Natick,,,
 Natick Center,,Natick Center,Natick Center - Commuter Rail,,Commuter Rail,42.285719,-71.347133,CR-zone-4,,https://www.mbta.com/stops/place-WML-0177,,0,place-WML-0177,2,Natick,,,2
+Natick Center-S,,Natick Center,Natick Center - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.285586,-71.347751,,,https://www.mbta.com/stops/place-WML-0177,,0,place-WML-0177,1,Natick,,,3
 place-WML-0199,,West Natick,,,,42.283064,-71.391797,CR-zone-4,"249 W Central St, Natick, MA 01760",https://www.mbta.com/stops/place-WML-0199,,1,,1,Natick,,,
 West Natick,,West Natick,West Natick - Commuter Rail,,Commuter Rail,42.283064,-71.391797,CR-zone-4,,https://www.mbta.com/stops/place-WML-0199,,0,place-WML-0199,1,Natick,,,2
+West Natick-S,,West Natick,West Natick - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.282883,-71.392737,,,https://www.mbta.com/stops/place-WML-0199,,0,place-WML-0199,1,Natick,,,3
 place-WML-0214,,Framingham,,,,42.276108,-71.420055,CR-zone-5,"417 Waverly St, Framingham, MA 01702",https://www.mbta.com/stops/place-WML-0214,,1,,1,Framingham,,,
 Framingham,,Framingham,Framingham - Commuter Rail,,Commuter Rail,42.276108,-71.420055,CR-zone-5,,https://www.mbta.com/stops/place-WML-0214,,0,place-WML-0214,1,Framingham,,,2
+Framingham-S,,Framingham,Framingham - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.276154,-71.418804,,,https://www.mbta.com/stops/place-WML-0214,,0,place-WML-0214,1,Framingham,,,3
 place-WML-0252,,Ashland,,,,42.261490,-71.482161,CR-zone-6,"Pleasant St and Cordaville Rd, Ashland, MA 01721",https://www.mbta.com/stops/place-WML-0252,,1,,1,Ashland,,,
 Ashland,,Ashland,Ashland - Commuter Rail,,Commuter Rail,42.261490,-71.482161,CR-zone-6,,https://www.mbta.com/stops/place-WML-0252,,0,place-WML-0252,1,Ashland,,,2
 place-WML-0274,,Southborough,,,,42.267024,-71.524371,CR-zone-6,"87 Southville Rd, Southborough, MA 01772",https://www.mbta.com/stops/place-WML-0274,,1,,1,Southborough,,,
