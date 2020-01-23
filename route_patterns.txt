@@ -29,7 +29,6 @@ Green-D-0-0,Green-D,0,Lechmere - Riverside,Weekday early mornings only,3,1003409
 Green-D-2-0_70151_70175_0,Green-D,0,Government Center - Kenmore,,4,10034099,43021150-KenmoreReservoir0
 Green-D-2-0_70151_70175_2,Green-D,0,Reservoir - Riverside,,4,10034099,43021150-KenmoreReservoir2
 Green-D-4-0,Green-D,0,Lechmere - Reservoir,Weekdays only,3,10034099,43020247
-Green-D-4-0_70151_70175_0,Green-D,0,Lechmere - Kenmore,,4,10034099,43020418-20:45-KenmoreReservoir0
 Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034100,43019080
 Green-D-0-1,Green-D,1,Riverside - Lechmere,Weekday early mornings only,3,10034199,43020318
 Green-D-2-1_70174_70150_0,Green-D,1,Riverside - Reservoir,,4,10034199,43021114-KenmoreReservoir0
@@ -62,7 +61,9 @@ CR-Fairmount-0-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001
 CR-Fitchburg-0-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-Weekday-Fall-19-425
 CR-Fitchburg-0-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-Weekday-Fall-19-402
 CR-Worcester-0-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-Weekday-Fall-19-501
+CR-Worcester-0-0_Back Bay_Framingham_2,CR-Worcester,0,Framingham - Worcester,,4,20003099,CR-Saturday-DivWorcesterPTC-20-1501-BackBayFramingham2BackBayFraminghamLocal
 CR-Worcester-0-1,CR-Worcester,1,Worcester - South Station,,1,20003100,CR-Weekday-Fall-19-500
+CR-Worcester-0-1_Framingham_Back Bay_0,CR-Worcester,1,Worcester - Framingham,,4,20003199,CR-Saturday-DivWorcesterPTC-20-1500-BackBayFramingham0BackBayFraminghamLocal
 CR-Franklin-0-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,20004000,CR-Weekday-Fall-19-729
 CR-Franklin-2-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,20004002,CR-Weekday-Fall-19-753
 CR-Franklin-3-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004003,CR-Weekday-Fall-19-749
@@ -903,6 +904,10 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-Week
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,43205538
 Shuttle-AlewifeHarvard-0-0,Shuttle-AlewifeHarvard,0,Alewife - Harvard,,4,60200099,43145895-AlewifeHarvard1
 Shuttle-AlewifeHarvard-0-1,Shuttle-AlewifeHarvard,1,Harvard - Alewife,,4,60200199,43145809-AlewifeHarvard1
+Shuttle-BackBayFraminghamExpress-0-0,Shuttle-BackBayFraminghamExpress,0,Back Bay - Framingham,,4,60533099,CR-Saturday-DivWorcesterPTC-20-1503-BackBayFramingham1BackBayFraminghamExpress
+Shuttle-BackBayFraminghamExpress-0-1,Shuttle-BackBayFraminghamExpress,1,Framingham - Back Bay,,4,60533199,CR-Saturday-DivWorcesterPTC-20-1500-BackBayFramingham1BackBayFraminghamExpress
+Shuttle-BackBayFraminghamLocal-0-0,Shuttle-BackBayFraminghamLocal,0,Back Bay - Framingham,,4,60566099,CR-Saturday-DivWorcesterPTC-20-1501-BackBayFramingham1BackBayFraminghamLocal
+Shuttle-BackBayFraminghamLocal-0-1,Shuttle-BackBayFraminghamLocal,1,Framingham - Back Bay,,4,60566199,CR-Saturday-DivWorcesterPTC-20-1500-BackBayFramingham1BackBayFraminghamLocal
 Shuttle-ForgeParkReadville-0-0,Shuttle-ForgeParkReadville,0,Readville - Forge Park/495,,4,61750099,CR-Saturday-Fall-19-1703-ForgeParkReadvilleForgeParkSouthStation1
 Shuttle-ForgeParkReadville-0-1,Shuttle-ForgeParkReadville,1,Forge Park/495 - Readville,,4,61750199,CR-Saturday-Fall-19-1702-ForgeParkReadvilleForgeParkSouthStation1
 Shuttle-ForgeParkSouthStation-0-0,Shuttle-ForgeParkSouthStation,0,South Station - Forge Park/495,,4,61760099,CR-Saturday-Fall-19-1719-ForgeParkReadvilleForgeParkSouthStation1
