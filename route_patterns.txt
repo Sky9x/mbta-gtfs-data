@@ -26,13 +26,18 @@ Green-C-1-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,43019514
 Green-C-0-1,Green-C,1,Cleveland Circle - Lechmere,Early mornings only,3,10033199,43019510
 Green-D-2-0,Green-D,0,Government Center - Riverside,,1,10034000,43018762
 Green-D-0-0,Green-D,0,Lechmere - Riverside,Weekday early mornings only,3,10034099,43020316
-Green-D-2-0_70151_70175_0,Green-D,0,Government Center - Kenmore,,4,10034099,43021150-KenmoreReservoir0
-Green-D-2-0_70151_70175_2,Green-D,0,Reservoir - Riverside,,4,10034099,43021150-KenmoreReservoir2
+Green-D-2-0_70151_70175_0,Green-D,0,Government Center - Kenmore,,4,10034099,43019032-20:45-KenmoreReservoir0
+Green-D-2-0_70151_70175_2,Green-D,0,Reservoir - Riverside,,4,10034099,43019032-20:45-KenmoreReservoir2
+Green-D-2-0_70179_70169_0,Green-D,0,Government Center - Brookline Hills,,4,10034099,43019032-20:45-NewtonHighlandsBrooklineHills0
+Green-D-2-0_70179_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,43019032-20:45-NewtonHighlandsBrooklineHills2
 Green-D-4-0,Green-D,0,Lechmere - Reservoir,Weekdays only,3,10034099,43020247
+Green-D-4-0_70151_70175_0,Green-D,0,Lechmere - Kenmore,,4,10034099,43020418-20:45-KenmoreReservoir0
 Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034100,43019080
 Green-D-0-1,Green-D,1,Riverside - Lechmere,Weekday early mornings only,3,10034199,43020318
-Green-D-2-1_70174_70150_0,Green-D,1,Riverside - Reservoir,,4,10034199,43021114-KenmoreReservoir0
-Green-D-2-1_70174_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,43021114-KenmoreReservoir2
+Green-D-2-1_70168_70178_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,43019360-20:45-NewtonHighlandsBrooklineHills0
+Green-D-2-1_70168_70178_2,Green-D,1,Brookline Hills - Government Center,,4,10034199,43019360-20:45-NewtonHighlandsBrooklineHills2
+Green-D-2-1_70174_70150_0,Green-D,1,Riverside - Reservoir,,4,10034199,43019360-20:45-KenmoreReservoir0
+Green-D-2-1_70174_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,43019360-20:45-KenmoreReservoir2
 Green-D-4-1,Green-D,1,Reservoir - Lechmere,Weekdays only,3,10034199,43020183
 Green-D-5-1,Green-D,1,Reservoir - Government Center,Weekday early mornings only,3,10034199,43020168
 Green-E-0-0,Green-E,0,Lechmere - Heath Street,,1,10035000,43020163
@@ -908,11 +913,13 @@ Shuttle-BackBayFraminghamExpress-0-0,Shuttle-BackBayFraminghamExpress,0,Back Bay
 Shuttle-BackBayFraminghamExpress-0-1,Shuttle-BackBayFraminghamExpress,1,Framingham - Back Bay,,4,60533199,CR-Saturday-DivWorcesterPTC-20-1500-BackBayFramingham1BackBayFraminghamExpress
 Shuttle-BackBayFraminghamLocal-0-0,Shuttle-BackBayFraminghamLocal,0,Back Bay - Framingham,,4,60566099,CR-Saturday-DivWorcesterPTC-20-1501-BackBayFramingham1BackBayFraminghamLocal
 Shuttle-BackBayFraminghamLocal-0-1,Shuttle-BackBayFraminghamLocal,1,Framingham - Back Bay,,4,60566199,CR-Saturday-DivWorcesterPTC-20-1500-BackBayFramingham1BackBayFraminghamLocal
+Shuttle-BrooklineHillsNewtonHighlands-0-0,Shuttle-BrooklineHillsNewtonHighlands,0,Brookline Hills - Newton Highlands,,4,61150099,43019032-20:45-NewtonHighlandsBrooklineHills1
+Shuttle-BrooklineHillsNewtonHighlands-0-1,Shuttle-BrooklineHillsNewtonHighlands,1,Newton Highlands - Brookline Hills,,4,61150199,43019360-20:45-NewtonHighlandsBrooklineHills1
 Shuttle-ForgeParkReadville-0-0,Shuttle-ForgeParkReadville,0,Readville - Forge Park/495,,4,61750099,CR-Saturday-Fall-19-1703-ForgeParkReadvilleForgeParkSouthStation1
 Shuttle-ForgeParkReadville-0-1,Shuttle-ForgeParkReadville,1,Forge Park/495 - Readville,,4,61750199,CR-Saturday-Fall-19-1702-ForgeParkReadvilleForgeParkSouthStation1
 Shuttle-ForgeParkSouthStation-0-0,Shuttle-ForgeParkSouthStation,0,South Station - Forge Park/495,,4,61760099,CR-Saturday-Fall-19-1719-ForgeParkReadvilleForgeParkSouthStation1
 Shuttle-ForgeParkSouthStation-0-1,Shuttle-ForgeParkSouthStation,1,Forge Park/495 - South Station,,4,61760199,CR-Saturday-Fall-19-1716-ForgeParkReadvilleForgeParkSouthStation1
 Shuttle-HaymarketSullivan-0-0,Shuttle-HaymarketSullivan,0,Sullivan - Haymarket,,4,61975099,43032078-20:45-HaySullTufts1
 Shuttle-HaymarketSullivan-0-1,Shuttle-HaymarketSullivan,1,Haymarket - Sullivan,,4,61975199,43032203-20:45-HaySullTufts1
-Shuttle-KenmoreReservoir-0-0,Shuttle-KenmoreReservoir,0,Kenmore - Reservoir,,4,62010099,43021150-KenmoreReservoir1
-Shuttle-KenmoreReservoir-0-1,Shuttle-KenmoreReservoir,1,Reservoir - Kenmore,,4,62010199,43021114-KenmoreReservoir1
+Shuttle-KenmoreReservoir-0-0,Shuttle-KenmoreReservoir,0,Kenmore - Reservoir,,4,62010099,43019032-20:45-KenmoreReservoir1
+Shuttle-KenmoreReservoir-0-1,Shuttle-KenmoreReservoir,1,Reservoir - Kenmore,,4,62010199,43019360-20:45-KenmoreReservoir1
