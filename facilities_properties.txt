@@ -16699,8 +16699,8 @@ park-FR-0451-garage,contact,MART
 park-FR-0451-garage,contact-phone,978-345-7711
 park-FR-0451-garage,contact-url,http://www.mrta.us
 park-FR-0451-garage,enclosed,1
-park-FR-0451-garage,fee-daily,$3
-park-FR-0451-garage,fee-monthly,$50
+park-FR-0451-garage,fee-daily,$4
+park-FR-0451-garage,fee-monthly,$65
 park-FR-0451-garage,municipality,Leominster
 park-FR-0451-garage,note,"Montachusett Regional Transit Authority is responsible for parking maintenance, payments, and snow removal."
 park-FR-0451-garage,operator,Montachusett Regional Transit Authority
@@ -16714,8 +16714,8 @@ park-FR-0494-garage,contact,MART
 park-FR-0494-garage,contact-phone,978-345-7711
 park-FR-0494-garage,contact-url,http://www.mrta.us/about/locations/commuter-rail-parking
 park-FR-0494-garage,enclosed,1
-park-FR-0494-garage,fee-daily,$3
-park-FR-0494-garage,fee-monthly,$50
+park-FR-0494-garage,fee-daily,$4
+park-FR-0494-garage,fee-monthly,$65
 park-FR-0494-garage,municipality,Fitchburg
 park-FR-0494-garage,note,"Montachusett RTA is responsible for parking maintenance, payments, and snow removal."
 park-FR-0494-garage,operator,Montachusett Regional Transit Authority
@@ -16729,8 +16729,8 @@ park-FR-3338-garage,contact,MRTA MART Transit
 park-FR-3338-garage,contact-phone,978-345-7711
 park-FR-3338-garage,contact-url,http://www.mrta.us
 park-FR-3338-garage,enclosed,1
-park-FR-3338-garage,fee-daily,$3
-park-FR-3338-garage,fee-monthly,$50
+park-FR-3338-garage,fee-daily,$4
+park-FR-3338-garage,fee-monthly,$65
 park-FR-3338-garage,municipality,Fitchburg
 park-FR-3338-garage,note,"Monthly passes can only be purchased the 1st of the month through the 7th of the month. After the 7th of the month passes can only be purchased daily. Passes are only valid for that month it was purchased. Monthly passes are only sold for that present calendar month. Holidays and weekends are free. For overnight parking, tickets must be purchased for 2 days. Montachusett RTA is responsible for parking lot snow removal, maintenance and fee collection. Please contact MBTA Customer Service regarding platform snow removal, cleanliness, and maintenance issues."
 park-FR-3338-garage,operator,Montachusett Regional Transit Authority
@@ -18914,10 +18914,12 @@ portlift-bcnwa-1,note,"Significant barriers exist at station, but customers may 
 portlift-brkhl-0,excludes-stop,70179
 portlift-brkhl-0,excludes-stop,9070178
 portlift-brkhl-0,excludes-stop,9070179
+portlift-brkhl-0,excludes-stop,9170178
 portlift-brkhl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brkhl-1,excludes-stop,70178
 portlift-brkhl-1,excludes-stop,9070178
 portlift-brkhl-1,excludes-stop,9070179
+portlift-brkhl-1,excludes-stop,9170178
 portlift-brkhl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brmnl-0,excludes-stop,70250
 portlift-brmnl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
@@ -18977,10 +18979,14 @@ portlift-lngmd-1,note,"Significant barriers exist at station, but customers may 
 portlift-mfa,excludes-stop,70245
 portlift-mfa,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newtn-0,excludes-stop,70169
+portlift-newtn-0,excludes-stop,9070168
 portlift-newtn-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newtn-1,excludes-stop,70168
+portlift-newtn-1,excludes-stop,9070168
 portlift-newtn-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newto,excludes-stop,70170
+portlift-newto,excludes-stop,9070170
+portlift-newto,excludes-stop,9070171
 portlift-newto,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-north-0,excludes-stop,113
 portlift-north-0,excludes-stop,114
@@ -20000,6 +20006,8 @@ subplat-miltt-0,note,Mini high level platform is available to provide level boar
 subplat-miltt-1,excludes-stop,70267
 subplat-miltt-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-newto,excludes-stop,70171
+subplat-newto,excludes-stop,9070170
+subplat-newto,excludes-stop,9070171
 subplat-newto,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-portr,excludes-stop,23151
 subplat-portr,excludes-stop,2430
