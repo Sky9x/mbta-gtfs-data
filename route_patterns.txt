@@ -1,15 +1,17 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010050,43206839
 Red-3-0,Red,0,Alewife - Braintree,,1,10010051,43206854
-Red-_-0,Red,0,Alewife - Quincy Center,Evenings only,3,10010098,43859671
+Red-_-0,Red,0,Alewife - Quincy Center,Evenings only,3,10010098,43871033
 Red-1-0_70061_70067_2,Red,0,Harvard - Ashmont,,4,10010099,43870741-AlewifeHarvard2
 Red-3-0_70061_70067_2,Red,0,Harvard - Braintree,,4,10010099,43870912-AlewifeHarvard2
+Red-3-0_70101_70105_0,Red,0,Alewife - Quincy Center,,4,10010099,43870912-BraintreeQuincyCenter0
 Red-_-0_70061_70067_2,Red,0,Harvard - Quincy Center,,4,10010099,43871033-AlewifeHarvard2
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010151,43206834
 Red-3-1,Red,1,Braintree - Alewife,,1,10010152,43206849
 Red-1-1_70068_70061_0,Red,1,Ashmont - Harvard,,4,10010199,43870655-AlewifeHarvard0
 Red-3-1_70068_70061_0,Red,1,Braintree - Harvard,,4,10010199,43870827-AlewifeHarvard0
-Red-_-1,Red,1,Quincy Center - Alewife,Evenings only,3,10010199,43859677
+Red-3-1_70105_70102_2,Red,1,Quincy Center - Alewife,,4,10010199,43870827-BraintreeQuincyCenter2
+Red-_-1,Red,1,Quincy Center - Alewife,Evenings only,3,10010199,43871165
 Red-_-1_70068_70061_0,Red,1,Quincy Center - Harvard,,4,10010199,43871165-AlewifeHarvard0
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,43000504
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,43000502
@@ -922,6 +924,8 @@ Shuttle-BackBayFraminghamExpress-0-0,Shuttle-BackBayFraminghamExpress,0,Back Bay
 Shuttle-BackBayFraminghamExpress-0-1,Shuttle-BackBayFraminghamExpress,1,Framingham - Back Bay,,4,60533199,CR-Saturday-DivWorcesterPTC-20-1500-BackBayFramingham1BackBayFraminghamExpress
 Shuttle-BackBayFraminghamLocal-0-0,Shuttle-BackBayFraminghamLocal,0,Back Bay - Framingham,,4,60566099,CR-Saturday-DivWorcesterPTC-20-1501-BackBayFramingham1BackBayFraminghamLocal
 Shuttle-BackBayFraminghamLocal-0-1,Shuttle-BackBayFraminghamLocal,1,Framingham - Back Bay,,4,60566199,CR-Saturday-DivWorcesterPTC-20-1500-BackBayFramingham1BackBayFraminghamLocal
+Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,4,61000099,43859671-20:45-BraintreeQuincyCenter1
+Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,4,61000199,43859677-20:45-BraintreeQuincyCenter1
 Shuttle-ForgeParkReadville-0-0,Shuttle-ForgeParkReadville,0,Readville - Forge Park/495,,4,61750099,CR-Saturday-Fall-19-1703-ForgeParkReadvilleForgeParkSouthStation1
 Shuttle-ForgeParkReadville-0-1,Shuttle-ForgeParkReadville,1,Forge Park/495 - Readville,,4,61750199,CR-Saturday-Fall-19-1702-ForgeParkReadvilleForgeParkSouthStation1
 Shuttle-ForgeParkSouthStation-0-0,Shuttle-ForgeParkSouthStation,0,South Station - Forge Park/495,,4,61760099,CR-Saturday-Fall-19-1719-ForgeParkReadvilleForgeParkSouthStation1
