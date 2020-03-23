@@ -1,22 +1,4 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-BUS120-1-Wdy-02,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-BUS120-2-Wdy-02,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-BUS120-3-Sa-02,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
-BUS120-4-Wdy-02,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-BUS120-5-Sa-02,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
-BUS120-6-Wdy-02,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-BUS120-7-Wdy-02,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-BUS120-8-Sa-02,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
-BUS120-9-Wdy-02,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-BUS120-A-Sa-02,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
-BUS120-B-Wdy-02,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-BUS120-C-Sa-02,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
-BUS120-D-Wdy-02,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-BUS120-E-Sa-02,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
-BUS120-F-Wdy-02,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-BUS120-G-Sa-02,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
-BUS120-H-Wdy-02,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-BUS120-I-Sa-02,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
 BUS220-1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20200315,20200514,Spring
 BUS220-11-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20200315,20200514,Spring
 BUS220-12-Sa-02,Storm schedule (reduced service),Storm (reduced service),Weekday,5,20200315,20200514,Spring
@@ -73,39 +55,48 @@ CR-Su-Providence-FllProvB-19,Sunday schedule,Sunday,Sunday,1,20191216,,Fall
 CR-Su-Worcester-DivWorcesterPTC-20,Sunday schedule,Sunday,Sunday,4,20190215,,Fall
 CR-Wdy-Fairmount-Fll-19,Weekday schedule,Weekday,Weekday,1,20191021,,Fall
 CR-Wdy-Fairmount-Storm-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20191021,,Fall (Storm)
+CR-Wdy-Fairmount-StormB-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200325,,Fall (Storm)
 CR-Wdy-Fitchburg-Fll-19,Weekday schedule,Weekday,Weekday,1,20191021,,Fall
 CR-Wdy-Fitchburg-Storm-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20191021,,Fall (Storm)
+CR-Wdy-Fitchburg-StormB-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200325,,Fall (Storm)
 CR-Wdy-Franklin-Fll-19,Weekday schedule,Weekday,Weekday,1,20191021,,Fall
 CR-Wdy-Franklin-Storm-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20191021,,Fall (Storm)
+CR-Wdy-Franklin-StormB-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200325,,Fall (Storm)
 CR-Wdy-Greenbush-Fll-19,Weekday schedule,Weekday,Weekday,1,20191021,,Fall
 CR-Wdy-Greenbush-Storm-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20191021,,Fall (Storm)
+CR-Wdy-Greenbush-StormB-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200325,,Fall (Storm)
 CR-Wdy-Haverhill-Fll-19,Weekday schedule,Weekday,Weekday,1,20191021,,Fall
 CR-Wdy-Haverhill-Storm-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20191021,,Fall (Storm)
+CR-Wdy-Haverhill-StormB-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200325,,Fall (Storm)
 CR-Wdy-Kingston-Fll-19,Weekday schedule,Weekday,Weekday,1,20191021,,Fall
 CR-Wdy-Kingston-Storm-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20191021,,Fall (Storm)
+CR-Wdy-Kingston-StormB-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200325,,Fall (Storm)
 CR-Wdy-Lowell-Fll-19,Weekday schedule,Weekday,Weekday,1,20191021,,Fall
 CR-Wdy-Lowell-Storm-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20191021,,Fall (Storm)
+CR-Wdy-Lowell-StormB-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200325,,Fall (Storm)
 CR-Wdy-Middleborough-Fll-19,Weekday schedule,Weekday,Weekday,1,20191021,,Fall
 CR-Wdy-Middleborough-Storm-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20191021,,Fall (Storm)
+CR-Wdy-Middleborough-StormB-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200325,,Fall (Storm)
 CR-Wdy-Needham-Fll-19,Weekday schedule,Weekday,Weekday,1,20191021,,Fall
 CR-Wdy-Needham-Storm-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20191021,,Fall (Storm)
+CR-Wdy-Needham-StormB-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200325,,Fall (Storm)
 CR-Wdy-Newburyport-Fll-19,Weekday schedule,Weekday,Weekday,1,20191021,,Fall
 CR-Wdy-Newburyport-Storm-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20191021,,Fall (Storm)
+CR-Wdy-Newburyport-StormB-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200325,,Fall (Storm)
 CR-Wdy-Providence-FllProvB-19,Weekday schedule,Weekday,Weekday,1,20191216,,Fall
 CR-Wdy-Providence-Storm-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20191021,,Fall (Storm)
+CR-Wdy-Providence-StormB-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200325,,Fall (Storm)
 CR-Wdy-Worcester-Fll-19,Weekday schedule,Weekday,Weekday,1,20191021,,Fall
 CR-Wdy-Worcester-Storm-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20191021,,Fall (Storm)
+CR-Wdy-Worcester-StormB-19C0,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200325,,Fall (Storm)
 CRSaFranklinFll19FrgPrkRdlFrgPrkSthStn,Saturday schedule,Saturday,Saturday,4,20191021,,Fall
 CRSuFranklinFll19FrgPrkRdlFrgPrkSthStn,Sunday schedule,Sunday,Sunday,4,20191021,,Fall
 LRV120-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-LRV120-1-Wdy-01-2-NwnHgsKnrW,Weekday schedule,Weekday,Weekday,4,20191222,20200314,Winter
-LRV120-2-Sa-01,Saturday schedule,Saturday,Saturday,4,20191222,20200314,Winter
-LRV120-3-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-LRV120-4-Sa-01,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
 LRV220-1-Wdy-01-2-NwnHgsKnr,Weekday schedule,Weekday,Weekday,4,20200315,20200514,Spring
 LRV220-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20200315,20200514,Spring
 LRV220-2-Sa-01-NwnHStMKnrCNwnHStMKnrD,Saturday schedule,Saturday,Saturday,4,20200315,20200514,Spring
 LRV220-2-Sa-01-NwnHgsKnrW,Saturday schedule,Saturday,Saturday,4,20200315,20200514,Spring
+LRV220-2-Sa-01C0,Weekday schedule (reduced service),Weekday (reduced service),Saturday,5,20200315,20200514,Spring
 LRV220-2-Sa-01C0-2-NwnHgsKnrW,Weekday schedule (reduced service),Weekday (reduced service),Saturday,4,20200315,20200514,Spring
 LRV220-3-Su-01,Sunday schedule,Sunday,Sunday,1,20200315,20200514,Spring
 LRV220-3-Su-01-NwnHStMKnrCNwnHStMKnrD,Sunday schedule,Sunday,Sunday,4,20200315,20200514,Spring
@@ -116,27 +107,14 @@ LRV220-5-Sa-01C0-1-MtnBsMtnVn,Weekday schedule (reduced service),Weekday (reduce
 LRV220-5-Sa-01C0-MtnBsMtnVn,Weekday schedule (reduced service),Weekday (reduced service),Saturday,4,20200315,20200514,Spring
 LRV2201Wdy012NwnHStMKnrCNwnHStMKnrX,Weekday schedule,Weekday,Weekday,4,20200315,20200514,Spring
 LRV2202Sa01C02NwnHStMKnrCNwnHStMKnrX,Weekday schedule (reduced service),Weekday (reduced service),Saturday,4,20200315,20200514,Spring
-PRIV120-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-PRIV120-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
-PRIV120-3-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-PRIV120-3-Wdy-01S0,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-PRIV120-4-Sa-01,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
-PRIV120-5-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-PRIV120-6-Sa-01,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
 PRIV220-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20200315,20200514,Spring
 PRIV220-3-Wdy-01,Weekday schedule,Weekday,Weekday,1,20200315,20200514,Spring
 PRIV220-3-Wdy-01S0,Weekday schedule,Weekday,Weekday,1,20200315,20200514,Spring
 PRIV220-6-Wdy-01,Weekday schedule,Weekday,Weekday,1,20200315,20200514,Spring
 PRIV220-7-Sa-01,Saturday schedule,Saturday,Saturday,1,20200315,20200514,Spring
 PRIV220-9-Wdy-01,Weekday schedule (no school),Weekday (no school),Weekday,1,20200315,20200514,Spring
-RTL120-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-RTL120-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
-RTL120-3-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-RTL120-4-Sa-01,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
-RTL120-5-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
-RTL120-6-Sa-01,Saturday schedule,Saturday,Saturday,1,20191222,20200314,Winter
-RTL120-7-Su-01,Sunday schedule,Sunday,Sunday,1,20191222,20200314,Winter
-RTL120-7-Su-01-AlfHrd,Sunday schedule,Sunday,Sunday,4,20191222,20200314,Winter
+RTL120-1-Su-01,Sunday schedule,Sunday,Sunday,1,20191222,20200314,Winter
+RTL120-1-Su-01-AlfHrd,Sunday schedule,Sunday,Sunday,4,20191222,20200314,Winter
 RTL220-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20200315,20200514,Spring
 RTL220-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20200315,20200514,Spring
 RTL220-2-Sa-01-ArtMvk,Saturday schedule,Saturday,Saturday,4,20200315,20200514,Spring
