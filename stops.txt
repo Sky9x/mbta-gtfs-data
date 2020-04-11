@@ -362,7 +362,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 11593,11593,Ruggles St opp Kerr Way,,,,42.333186,-71.086016,LocalBus,,https://www.mbta.com/stops/11593,,0,,1,Boston,Ruggles Street,Kerr Place,3
 11599,11599,Seaport Blvd @ Sleeper St,,,,42.352775,-71.047419,LocalBus,,https://www.mbta.com/stops/11599,,0,,0,Boston,Seaport Boulevard,Thompson Place,3
 1160,1160,S Huntington Ave @ Moraine St,,,,42.319618,-71.111729,LocalBus,,https://www.mbta.com/stops/1160,,0,,0,Boston,South Huntington Avenue,Moraine Street,3
-11609,11609,Centre St @ S Huntington Ave,,,,42.320086,-71.111338,LocalBus,,https://www.mbta.com/stops/11609,,0,,1,Boston,Centre Street,Oakview Terrace,3
 1161,1161,Centre St @ Lochstead Ave,,,,42.317365,-71.113229,LocalBus,,https://www.mbta.com/stops/1161,,0,,1,Boston,Centre Street,Goldsmith Place,3
 11613,11613,W Boundary Rd @ Washington St,,,,42.267432,-71.149989,LocalBus,,https://www.mbta.com/stops/11613,,0,,0,Boston,West Boundary Road,Washington Street,3
 11618,11618,Georgetowne Dr @ Georgetowne Pl,,,,42.255640,-71.143709,LocalBus,,https://www.mbta.com/stops/11618,,0,,0,Boston,Georgetowne Drive,,3
@@ -1442,6 +1441,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2071,2071,Mt Auburn St opp Sparks St,,,,42.374625,-71.130712,LocalBus,,https://www.mbta.com/stops/2071,,0,,0,Cambridge,Mount Auburn Street,Sparks Street,3
 2073,2073,Mt Auburn St @ Brewer St,,,,42.373956,-71.124752,LocalBus,,https://www.mbta.com/stops/2073,,0,,1,Cambridge,Mount Auburn Street,Brewer Street,3
 2074,2074,Mt Auburn St @ University Rd,,,,42.373051,-71.122407,LocalBus,,https://www.mbta.com/stops/2074,,0,,0,Cambridge,Mount Auburn Street,Harvard Busway,3
+20763,20763,Brattle St @ Palmer St,,,,42.373369,-71.120265,LocalBus,,https://www.mbta.com/stops/20763,,0,,1,Cambridge,Brattle Street,Palmer Street,3
 2077,2077,Aberdeen Ave @ Mt Auburn St,,,,42.375543,-71.145767,LocalBus,,https://www.mbta.com/stops/2077,,0,,1,Cambridge,Aberdeen Avenue,Aberdeen Court,3
 2078,2078,61 Aberdeen Ave,,,,42.376545,-71.146202,LocalBus,,https://www.mbta.com/stops/2078,,0,,1,Cambridge,Aberdeen Avenue,Aberdeen Court,3
 208,208,Summer St @ Powerhouse St,,,,42.339963,-71.035615,LocalBus,,https://www.mbta.com/stops/208,,0,,0,Boston,Summer Street,Power House Street,3
@@ -8632,7 +8632,7 @@ node-haecl-passfhstair-platform,,Haymarket,"Haymarket - Top of stairs between Fo
 node-haecl-passogstair-passage,,Haymarket,"Haymarket - Bottom of stairs between Oak Grove platform and Green Line, busway passageway",,,,,,,,level_-2_passageway,3,place-haecl,1,Boston,,,
 node-haecl-passogstair-platform,,Haymarket,"Haymarket - Top of stairs between Oak Grove platform and Green Line, busway passageway",,,,,,,,level_-1_orange_platform,3,place-haecl,1,Boston,,,
 place-harsq,,Harvard,,,,42.373362,-71.118956,,"1400 Massachusetts Ave, Cambridge, MA",https://www.mbta.com/stops/place-harsq,,1,,1,Cambridge,,,
-2076,2076,Harvard,Harvard - Lower Busway,,Lower Busway,42.373362,-71.118956,LocalBus,,https://www.mbta.com/stops/place-harsq,level_-2_low_busway,0,place-harsq,0,Cambridge,Harvard Busway,,3
+2076,2076,Harvard,Harvard - Lower Busway,,Lower Busway,42.373362,-71.118956,,,https://www.mbta.com/stops/place-harsq,level_-2_low_busway,0,place-harsq,0,Cambridge,Harvard Busway,,
 20761,20761,Harvard,Harvard - Upper Busway,,Upper Busway,42.373362,-71.118956,LocalBus,,https://www.mbta.com/stops/place-harsq,level_-1_up_busway,0,place-harsq,0,Cambridge,Harvard Busway,,3
 20762,20762,Harvard,Harvard - Busway,,Busway,42.373362,-71.118956,,,https://www.mbta.com/stops/place-harsq,level_-1_up_busway,0,place-harsq,0,Cambridge,Harvard Busway,,
 70067,70067,Harvard,Harvard - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.373362,-71.118956,RapidTransit,,https://www.mbta.com/stops/place-harsq,level_-2_southbound_platform,0,place-harsq,1,Cambridge,,,1
