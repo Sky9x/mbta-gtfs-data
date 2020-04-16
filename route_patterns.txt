@@ -2,11 +2,11 @@ route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_des
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010050,43870741C0
 Red-3-0,Red,0,Alewife - Braintree,,1,10010051,43870912C0
 Red-3-0_70101_70105_0,Red,0,Alewife - Quincy Center,,4,10010099,43870422-20:45-BraintreeQuincyCenter0
-Red-_-0,Red,0,Alewife - Quincy Center,Evenings only,3,10010099,43859671
+Red-_-0,Red,0,Alewife - Quincy Center,Evenings only,3,10010099,43871033
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010151,43870655C0
 Red-3-1,Red,1,Braintree - Alewife,,1,10010152,43870827C0
 Red-3-1_70105_70102_2,Red,1,Quincy Center - Alewife,,4,10010199,43870453-20:45-BraintreeQuincyCenter2
-Red-_-1,Red,1,Quincy Center - Alewife,Evenings only,3,10010199,43859677
+Red-_-1,Red,1,Quincy Center - Alewife,Evenings only,3,10010199,43871165
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,43820489C0
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,43820488C0
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,43869445C0
@@ -476,7 +476,7 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-Week
 89-5-0,89,0,Sullivan Square Station - Clarendon Hill (Detour),,2,50890087,44609824
 89-6-1,89,1,Davis Station - Sullivan Square Station (Detour),,1,50890113,44609752
 89-5-1,89,1,Clarendon Hill - Sullivan Square Station (Detour),,2,50890186,44609791
-8993-1-0,8993,0,Haymarket Station - Clarendon Hill (Detour),Early mornings only,1,50891000,43906853
+8993-1-0,8993,0,Haymarket Station - Clarendon Hill (Detour),Early mornings only,1,50891000,44557368
 8993-1-1,8993,1,Clarendon Hill - Haymarket Station (Detour),Early mornings only,1,50891100,44608963
 90-_-0,90,0,Assembly Row - Davis Station,,1,50900000,44609838
 90-_-1,90,1,Davis Station - Assembly Row,,1,50900100,44609843
@@ -551,10 +551,10 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-Week
 111-2-1,111,1,Cary Square - Haymarket Station,,1,51110157,44609341
 111-6-1,111,1,Washington Ave & Revere Beach Pkwy - Haymarket Station,Weekdays only,3,51110195,43903510
 112-_-0,112,0,Wood Island Station - Wellington Station via Mystic Mall,,1,51120001,44609176
-112-1-0,112,0,Wood Island Station - Wellington Station (Omits Mystic Mall),Middays only,3,51120098,43907685
+112-1-0,112,0,Wood Island Station - Wellington Station (Omits Mystic Mall),Middays only,3,51120098,44558200
 112-3-0,112,0,Wood Island Station - Wellington Station (Omits Quigley),Weekday early mornings only,3,51120099,43903156
 112-_-1,112,1,Wellington Station - Wood Island Station via Mystic Mall,,1,51120102,44609177
-112-1-1,112,1,Wellington Station - Wood Island Station (Omits Mystic Mall),,3,51120197,43907686
+112-1-1,112,1,Wellington Station - Wood Island Station (Omits Mystic Mall),,3,51120197,44558201
 114-1-0,114,0,Maverick Station - Mystic Mall,Weekday middays only,1,51140000,43586895
 114-1-1,114,1,Mystic Mall - Maverick Station,Weekdays only,1,51140100,43586896
 116-4-0,116,0,Maverick Station - Wonderland Station,,1,51160000,44166570
@@ -596,14 +596,14 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-Week
 134-5-0,134,0,Wellington Station - North Woburn,,2,51340074,44609021
 134-3-0,134,0,Wellington Station - North Woburn via Trade Center,Weekdays only,2,51340087,43749110
 134-7-0,134,0,Wellington Station - Medford Square,,3,51340092,44609000
-134-9-0,134,0,Wellington Station - Woburn Square,,3,51340093,43906724
+134-9-0,134,0,Wellington Station - Woburn Square,,3,51340093,44557239
 134-2-0,134,0,Wellington - North Woburn via Trade Ctr & Veterans Ctr,Weekday middays only,3,51340097,43749127
 134-4-0,134,0,Middlesex Ave - Winthrop St & Brooks St,School days only,3,51340098,43748469
 134-6-1,134,1,Winthrop St & Playstead Rd - Wellington Station,,1,51340156,44609018
 134-5-1,134,1,North Woburn - Wellington Station,,2,51340175,44609022
 134-3-1,134,1,North Woburn - Wellington Station via Trade Center,Weekdays only,2,51340186,43749111
 134-7-1,134,1,Medford Square - Wellington Station,,3,51340192,44608946
-134-9-1,134,1,Woburn Square - Wellington Station,,3,51340193,43906854
+134-9-1,134,1,Woburn Square - Wellington Station,,3,51340193,44557369
 134-4-1,134,1,Winthrop St & Brooks St - Middlesex Ave,School days only,3,51340197,43748470
 134-2-1,134,1,North Woburn - Wellington via Trade Ctr & Veterans Ctr,Weekday middays only,3,51340198,43749114
 136-5-0,136,0,Malden Center Station - Reading Depot,,1,51360014,44609277
@@ -923,8 +923,8 @@ Shuttle-BackBayFraminghamExpress-0-0,Shuttle-BackBayFraminghamExpress,0,Back Bay
 Shuttle-BackBayFraminghamExpress-0-1,Shuttle-BackBayFraminghamExpress,1,Framingham - Back Bay,,4,60533199,CR-Saturday-DivWorcesterPTC-20-1500-BackBayFramingham1BackBayFraminghamExpress
 Shuttle-BackBayFraminghamLocal-0-0,Shuttle-BackBayFraminghamLocal,0,Back Bay - Framingham,,4,60566099,CR-Saturday-DivWorcesterPTC-20-1501-BackBayFramingham1BackBayFraminghamLocal
 Shuttle-BackBayFraminghamLocal-0-1,Shuttle-BackBayFraminghamLocal,1,Framingham - Back Bay,,4,60566199,CR-Saturday-DivWorcesterPTC-20-1500-BackBayFramingham1BackBayFraminghamLocal
-Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,4,61000099,43870422-20:45-BraintreeQuincyCenter1
-Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,4,61000199,43870453-20:45-BraintreeQuincyCenter1
+Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,4,61000099,43859671-20:45-BraintreeQuincyCenter1
+Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,4,61000199,43859677-20:45-BraintreeQuincyCenter1
 Shuttle-ForgeParkReadville-0-0,Shuttle-ForgeParkReadville,0,Readville - Forge Park/495,,4,61750099,CR-Saturday-Fall-19-1703-ForgeParkReadvilleForgeParkSouthStation1
 Shuttle-ForgeParkReadville-0-1,Shuttle-ForgeParkReadville,1,Forge Park/495 - Readville,,4,61750199,CR-Saturday-Fall-19-1702-ForgeParkReadvilleForgeParkSouthStation1
 Shuttle-ForgeParkSouthStation-0-0,Shuttle-ForgeParkSouthStation,0,South Station - Forge Park/495,,4,61760099,CR-Saturday-Fall-19-1719-ForgeParkReadvilleForgeParkSouthStation1
