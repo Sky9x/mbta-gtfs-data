@@ -7061,6 +7061,11 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9069,9069,Salem St @ Revere St,,,,42.437257,-71.025457,LocalBus,,https://www.mbta.com/stops/9069,,0,,1,Malden,Salem Street,Revere Street,3
 907,907,Tremont St @ Pembroke St,,,,42.352946,-71.176810,LocalBus,,https://www.mbta.com/stops/907,,0,,1,Newton,Tremont Street,Playstead Road,3
 9070,9070,Salem St @ Lynn St,,,,42.436065,-71.021736,LocalBus,,https://www.mbta.com/stops/9070,,0,,0,Malden,Salem Street,Lynn Street,3
+9070038,9070038,Bowdoin,Bowdoin - Blue Line Shuttle,,Blue Line Shuttle,42.361285,-71.062014,LocalBus,,https://www.mbta.com/stops/9070038,,0,,1,Boston,Cambridge Street,New Chardon Street,3
+9070043,9070043,Aquarium,Aquarium - Blue Line Shuttle,,Blue Line Shuttle,42.359434,-71.053261,LocalBus,,https://www.mbta.com/stops/9070043,,0,,1,Boston,State Street,McKinley Square,3
+9070090,9070090,North Station,North Station - Green Line Shuttle,,Green Line Shuttle,42.365730,-71.063989,LocalBus,,https://www.mbta.com/stops/9070090,,0,,1,Boston,,,3
+9070091,9070091,Science Park,Science Park - Green Line Lechmere Shuttle,,Lechmere Shuttle,42.367708,-71.066371,LocalBus,,https://www.mbta.com/stops/9070091,,0,,1,Boston,,,3
+9070093,9070093,Science Park,Science Park - Green Line North Station Shuttle,,North Station Shuttle,42.366105,-71.066986,LocalBus,,https://www.mbta.com/stops/9070093,,0,,1,Boston,,,3
 9070107,9070107,Boston College,Boston College - Green Line Shuttle,,Green Line Shuttle,42.340070,-71.166492,LocalBus,,https://www.mbta.com/stops/9070107,,0,,1,Boston,,,3
 9070110,9070110,South Street,South Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.339278,-71.157041,LocalBus,,https://www.mbta.com/stops/9070110,,0,,1,Boston,,,3
 9070111,9070111,South Street,South Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.339669,-71.157486,LocalBus,,https://www.mbta.com/stops/9070111,,0,,1,Boston,,,3
@@ -7558,19 +7563,26 @@ Gloucester,,Gloucester,Gloucester - Commuter Rail,,Commuter Rail,42.616799,-70.6
 place-GB-0353,,Rockport,,,,42.655491,-70.627055,CR-zone-8,"17 Railroad Ave, Rockport, MA 01966",https://www.mbta.com/stops/place-GB-0353,,1,,1,Rockport,,,
 Rockport,,Rockport,Rockport - Commuter Rail,,Commuter Rail,42.655491,-70.627055,CR-zone-8,,https://www.mbta.com/stops/place-GB-0353,,0,place-GB-0353,1,Rockport,,,2
 place-GRB-0118,,Weymouth Landing/East Braintree,,,,42.221503,-70.968152,CR-zone-2,"121 Commercial St, Weymouth, MA 02184",https://www.mbta.com/stops/place-GRB-0118,,1,,1,Weymouth,,,
+Weymouth Landing / East Braintree-S,,Weymouth Landing/East Braintree,Weymouth Landing/East Braintree - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.221370,-70.968083,LocalBus,,https://www.mbta.com/stops/place-GRB-0118,,0,place-GRB-0118,1,Weymouth,,,3
 Weymouth Landing/ East Braintree,,Weymouth Landing/East Braintree,Weymouth Landing/East Braintree - Commuter Rail,,Commuter Rail,42.221503,-70.968152,CR-zone-2,,https://www.mbta.com/stops/place-GRB-0118,,0,place-GRB-0118,1,Weymouth,,,2
 place-GRB-0146,,East Weymouth,,,,42.219100,-70.921400,CR-zone-2,"1590 Commercial St, East Weymouth, MA 02189",https://www.mbta.com/stops/place-GRB-0146,,1,,1,Weymouth,,,
 East Weymouth,,East Weymouth,East Weymouth - Commuter Rail,,Commuter Rail,42.219100,-70.921400,CR-zone-2,,https://www.mbta.com/stops/place-GRB-0146,,0,place-GRB-0146,1,Weymouth,,,2
+East Weymouth-S,,East Weymouth,East Weymouth - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.219112,-70.922271,LocalBus,,https://www.mbta.com/stops/place-GRB-0146,,0,place-GRB-0146,1,Weymouth,,,3
 place-GRB-0162,,West Hingham,,,,42.235838,-70.902708,CR-zone-3,"20 Fort Hill Rd, Hingham, MA 02043",https://www.mbta.com/stops/place-GRB-0162,,1,,1,Hingham,,,
 West Hingham,,West Hingham,West Hingham - Commuter Rail,,Commuter Rail,42.235838,-70.902708,CR-zone-3,,https://www.mbta.com/stops/place-GRB-0162,,0,place-GRB-0162,1,Hingham,,,2
+West Hingham-S,,West Hingham,West Hingham - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.235864,-70.903624,LocalBus,,https://www.mbta.com/stops/place-GRB-0162,,0,place-GRB-0162,1,Hingham,,,3
 place-GRB-0183,,Nantasket Junction,,,,42.244959,-70.869205,CR-zone-4,"190 Summer St, Hingham, MA 02043",https://www.mbta.com/stops/place-GRB-0183,,1,,1,Hingham,,,
 Nantasket Junction,,Nantasket Junction,Nantasket Junction - Commuter Rail,,Commuter Rail,42.244959,-70.869205,CR-zone-4,,https://www.mbta.com/stops/place-GRB-0183,,0,place-GRB-0183,1,Hingham,,,2
+Nantasket Junction-S,,Nantasket Junction,Nantasket Junction - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.245144,-70.868347,LocalBus,,https://www.mbta.com/stops/place-GRB-0183,,0,place-GRB-0183,1,Hingham,,,3
 place-GRB-0199,,Cohasset,,,,42.244210,-70.837529,CR-zone-4,"110 Chief Justice Cushing Hwy, Cohasset, MA 02025",https://www.mbta.com/stops/place-GRB-0199,,1,,1,Cohasset,,,
 Cohasset,,Cohasset,Cohasset - Commuter Rail,,Commuter Rail,42.244210,-70.837529,CR-zone-4,,https://www.mbta.com/stops/place-GRB-0199,,0,place-GRB-0199,1,Cohasset,,,2
+Cohasset-S,,Cohasset,Cohasset - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.243915,-70.838161,LocalBus,,https://www.mbta.com/stops/place-GRB-0199,,0,place-GRB-0199,1,Cohasset,,,3
 place-GRB-0233,,North Scituate,,,,42.219528,-70.788602,CR-zone-5,"777 Country Way, Scituate, MA 02066",https://www.mbta.com/stops/place-GRB-0233,,1,,1,Scituate,,,
 North Scituate,,North Scituate,North Scituate - Commuter Rail,,Commuter Rail,42.219528,-70.788602,CR-zone-5,,https://www.mbta.com/stops/place-GRB-0233,,0,place-GRB-0233,1,Scituate,,,2
+North Scituate-S,,North Scituate,North Scituate - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.219460,-70.787928,LocalBus,,https://www.mbta.com/stops/place-GRB-0233,,0,place-GRB-0233,1,Scituate,,,3
 place-GRB-0276,,Greenbush,,,,42.178776,-70.746641,CR-zone-6,"247 Old Drifway, Scituate, MA 02066",https://www.mbta.com/stops/place-GRB-0276,,1,,1,Scituate,,,
 Greenbush,,Greenbush,Greenbush - Commuter Rail,,Commuter Rail,42.178776,-70.746641,CR-zone-6,,https://www.mbta.com/stops/place-GRB-0276,,0,place-GRB-0276,1,Scituate,,,2
+Greenbush-S,,Greenbush,Greenbush - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.178778,-70.747028,LocalBus,,https://www.mbta.com/stops/place-GRB-0276,,0,place-GRB-0276,1,Scituate,,,3
 place-KB-0351,,Kingston,,,,41.977620,-70.721709,CR-zone-8,"134 Marion Dr, Kingston, MA 02364",https://www.mbta.com/stops/place-KB-0351,,1,,1,Kingston,,,
 Kingston,,Kingston,Kingston - Commuter Rail,,Commuter Rail,41.977620,-70.721709,CR-zone-8,,https://www.mbta.com/stops/place-KB-0351,,0,place-KB-0351,1,Kingston,,,2
 place-MM-0150,,Holbrook/Randolph,,,,42.156343,-71.027371,CR-zone-3,"Union St and Center St, Randolph, MA 02368",https://www.mbta.com/stops/place-MM-0150,,1,,1,Randolph,,,
@@ -7769,6 +7781,7 @@ place-aport,,Airport,,,,42.374262,-71.030395,,"Transportation Way and Service Rd
 70048,70048,Airport,Airport - Blue Line - Wonderland,,Wonderland,42.374262,-71.030395,RapidTransit,,https://www.mbta.com/stops/place-aport,level_0_platform,0,place-aport,1,Boston,,,1
 7096,7096,Airport,Airport - Silver Line - SL3 Chelsea,B,Chelsea,42.374693,-71.029333,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-aport,level_ground,0,place-aport,1,Boston,Airport Station Bus Access,,3
 7097,7097,Airport,Airport - Silver Line - SL3 South Station,A,South Station,42.374518,-71.029532,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-aport,level_ground,0,place-aport,1,Boston,Airport Station Bus Access,,3
+9070047,9070047,Airport,Airport - Blue Line Shuttle,,Blue Line Shuttle,42.374955,-71.029323,LocalBus,,https://www.mbta.com/stops/place-aport,level_ground,0,place-aport,1,Boston,,,3
 door-aport-bremen,,Airport - Bremen St,Airport - Bremen St,,,42.374553,-71.030306,,,,level_ground,2,place-aport,1,Boston,,,
 door-aport-buses,,"Airport - Buses, Airport","Airport - Buses, Airport",,,42.373984,-71.030031,,,,level_ground,2,place-aport,1,Boston,,,
 node-407-bridge,,Airport,Airport - Top of Escalator 407,,,,,,,,level_1_bridge,3,place-aport,1,Boston,,,
@@ -8862,6 +8875,7 @@ place-lech,,Lechmere,,,,42.370772,-71.076536,,"Cambridge St and O'Brien Hwy, Cam
 14150,14150,Lechmere,Lechmere - Busway,,Busway,42.371019,-71.077039,LocalBus,,https://www.mbta.com/stops/place-lech,level_ground,0,place-lech,0,Cambridge,Busway,,3
 70209,70209,Lechmere,Lechmere - Green Line - Exit Only,,Exit Only,42.370952,-71.077007,RapidTransit,,https://www.mbta.com/stops/place-lech,level_ground,0,place-lech,1,Cambridge,,,0
 70210,70210,Lechmere,Lechmere - Green Line - Copley & West,,Copley & West,42.370911,-71.077095,RapidTransit,,https://www.mbta.com/stops/place-lech,level_ground,0,place-lech,1,Cambridge,,,0
+9070092,9070092,Lechmere,Lechmere - Green Line Shuttle,,Green Line Shuttle,42.370864,-71.077534,LocalBus,,https://www.mbta.com/stops/place-lech,,0,place-lech,1,Cambridge,,,3
 door-lech-entrance,,Lechmere - Entrance,Lechmere - Entrance,,,42.370914,-71.077483,,,,level_ground,2,place-lech,1,Cambridge,,,
 door-lech-exit,,Lechmere - Exit Only,Lechmere - Exit Only,,,42.371139,-71.077292,,,,level_ground,2,place-lech,1,Cambridge,,,
 node-lech-farepaid,,Lechmere,Lechmere - Paid side of fare gates,,,,,,,,level_ground,3,place-lech,1,Cambridge,,,
@@ -9495,6 +9509,7 @@ South Station-10,,South Station,South Station - Commuter Rail - Track 10,10,Comm
 South Station-11,,South Station,South Station - Commuter Rail - Track 11,11,Commuter Rail - Track 11,42.351081,-71.054914,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1,Boston,,,2
 South Station-12,,South Station,South Station - Commuter Rail - Track 12,12,Commuter Rail - Track 12,42.350778,-71.054938,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1,Boston,,,2
 South Station-13,,South Station,South Station - Commuter Rail - Track 13,13,Commuter Rail - Track 13,42.350778,-71.054938,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1,Boston,,,2
+South Station-S,,South Station,South Station - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.352293,-71.055529,LocalBus,,https://www.mbta.com/stops/place-sstat,,0,place-sstat,1,Boston,,,3
 door-sstat-atlantic,,South Station - Atlantic Ave,South Station - Atlantic Ave,,,42.351551,-71.055716,,,,level_in_street,2,place-sstat,1,Boston,,,
 door-sstat-bus,,South Station - South Station Bus Terminal,South Station - South Station Bus Terminal,,,42.350690,-71.056121,,,,level_ground,2,place-sstat,1,Boston,,,
 door-sstat-dewey,,"South Station - Dewey Sq (Summer St, Atlantic Ave)","South Station - Dewey Sq (Summer St, Atlantic Ave)",,,42.352886,-71.055505,,,,level_in_street,2,place-sstat,1,Boston,,,
