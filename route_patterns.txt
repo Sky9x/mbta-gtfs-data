@@ -1,11 +1,11 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,43870741C0
 Red-3-0,Red,0,Alewife - Braintree,,1,10010005,43870912C0
-Red-_-0,Red,0,Alewife - Quincy Center,Evenings only,3,10010008,43871360-20:45-BraintreeQuincyCenter
+Red-_-0,Red,0,Alewife - Quincy Center,Evenings only,3,10010008,43871360
 Red-3-0_70101_70105_0,Red,0,Alewife - Quincy Center,,4,10010099,43870977C0-20:45-BraintreeQuincyCenter0
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010104,43870655C0
 Red-3-1,Red,1,Braintree - Alewife,,1,10010105,43870827C0
-Red-_-1,Red,1,Quincy Center - Alewife,Evenings only,3,10010108,43871492-20:45-BraintreeQuincyCenter
+Red-_-1,Red,1,Quincy Center - Alewife,Evenings only,3,10010108,43871492
 Red-3-1_70105_70102_2,Red,1,Quincy Center - Alewife,,4,10010199,43870827C0-20:45-BraintreeQuincyCenter2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,43820489C0
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,43820488C0
@@ -15,13 +15,13 @@ Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,43869446C0
 Green-B-3-0,Green-B,0,Park Street - Boston College,,1,10032000,43830130C0
 Green-B-0-0,Green-B,0,Lechmere - Boston College,Early mornings only,3,10032004,43829906C0
 Green-B-0-0_70210_70206_2,Green-B,0,North Station - Boston College,,4,10032099,43833212-LechmereNorthStation2
-Green-B-0-0_70210_70206_2_70137_70107_0,Green-B,0,North Station - Babcock Street,,4,10032099,43829906-BabcockBCLechmereNorthStationNewtonHighlandsKenmoreW20
-Green-B-3-0_70137_70107_0,Green-B,0,Park Street - Babcock Street,,4,10032099,43830310C0-20:45-BabcockBCLechmereNorthStationNewtonHighlandsKenmoreW0
+Green-B-0-0_70210_70206_2_70137_70107_0,Green-B,0,North Station - Babcock Street,,4,10032099,43829906-BabcockBCFenwayNewtonHighlandsLechmereNorthStation20
+Green-B-3-0_70137_70107_0,Green-B,0,Park Street - Babcock Street,,4,10032099,43830310C0-20:45-BabcockBCFenwayNewtonHighlandsLechmereNorthStation0
 Green-B-3-1,Green-B,1,Boston College - Park Street,,1,10032100,43830125C0
 Green-B-0-1,Green-B,1,Boston College - Lechmere,Early mornings only,3,10032104,43829905C0
 Green-B-0-1_70205_70209_0,Green-B,1,Boston College - North Station,,4,10032199,43833211-LechmereNorthStation0
-Green-B-0-1_70205_70209_0_70106_70136_2,Green-B,1,Babcock Street - North Station,,4,10032199,43829905-BabcockBCLechmereNorthStationNewtonHighlandsKenmoreW02
-Green-B-3-1_70106_70136_2,Green-B,1,Babcock Street - Park Street,,4,10032199,43830283C0-20:45-BabcockBCLechmereNorthStationNewtonHighlandsKenmoreW2
+Green-B-0-1_70205_70209_0_70106_70136_2,Green-B,1,Babcock Street - North Station,,4,10032199,43829905-BabcockBCFenwayNewtonHighlandsLechmereNorthStation02
+Green-B-3-1_70106_70136_2,Green-B,1,Babcock Street - Park Street,,4,10032199,43830283C0-20:45-BabcockBCFenwayNewtonHighlandsLechmereNorthStation2
 Green-C-1-0,Green-C,0,North Station - Cleveland Circle,,1,10033000,43829788C0
 Green-C-0-0,Green-C,0,Lechmere - Cleveland Circle,Early mornings only,3,10033004,43829810C0
 Green-C-0-0_70210_70206_2,Green-C,0,North Station - Cleveland Circle,,4,10033099,43833216-LechmereNorthStation2
@@ -30,10 +30,8 @@ Green-C-0-1,Green-C,1,Cleveland Circle - Lechmere,Early mornings only,3,10033104
 Green-C-0-1_70205_70209_0,Green-C,1,Cleveland Circle - North Station,,4,10033199,43833215-LechmereNorthStation0
 Green-D-2-0,Green-D,0,Government Center - Riverside,,1,10034000,43830006C0
 Green-D-0-0_70210_70206_2,Green-D,0,North Station - Riverside,,4,10034099,43020316-20:45-LechmereNorthStationReservoirRiverside2
-Green-D-2-0_70151_70169_0,Green-D,0,Government Center - Kenmore,,4,10034099,43830006C0-20:45-NewtonHighlandsKenmoreW0
-Green-D-2-0_70151_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,43830006C0-20:45-NewtonHighlandsKenmoreW2
-Green-D-2-0_70151_70175_0,Green-D,0,Government Center - Kenmore,,4,10034099,43830006-KenmoreReservoir0
-Green-D-2-0_70151_70175_2,Green-D,0,Reservoir - Riverside,,4,10034099,43830006-KenmoreReservoir2
+Green-D-2-0_70151_70169_0,Green-D,0,Government Center - Kenmore,,4,10034099,43830006C0-20:45-LechmereNorthStationNewtonHighlandsKenmoreW0
+Green-D-2-0_70151_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,43830006C0-20:45-LechmereNorthStationNewtonHighlandsKenmoreW2
 Green-D-2-0_70175_70161_0,Green-D,0,Government Center - Reservoir,,4,10034099,43830006C0-20:45-BabcockBCLechmereNorthStationReservoirRiverside0
 Green-D-2-0_70187_70169_0,Green-D,0,Government Center - Fenway,,4,10034099,43830006C0-20:45-BabcockBCFenwayNewtonHighlandsLechmereNorthStation0
 Green-D-2-0_70187_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,43830006C0-20:45-BabcockBCFenwayNewtonHighlandsLechmereNorthStation2
@@ -42,12 +40,10 @@ Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034100,43829970C0
 Green-D-5-1,Green-D,1,Reservoir - Government Center,Weekday early mornings only,3,10034110,43020168-20:45-LechmereNorthStationReservoirRiverside
 Green-D-0-1_70205_70209_0,Green-D,1,Riverside - North Station,,4,10034199,43020318-20:45-LechmereNorthStationReservoirRiverside0
 Green-D-2-1_70160_70174_2,Green-D,1,Reservoir - Government Center,,4,10034199,43829978C0-20:45-BabcockBCLechmereNorthStationReservoirRiverside2
-Green-D-2-1_70168_70150_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,43829978C0-20:45-NewtonHighlandsKenmoreW0
-Green-D-2-1_70168_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,43829978C0-20:45-NewtonHighlandsKenmoreW2
+Green-D-2-1_70168_70150_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,43829978C0-20:45-LechmereNorthStationNewtonHighlandsKenmoreW0
+Green-D-2-1_70168_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,43829978C0-20:45-LechmereNorthStationNewtonHighlandsKenmoreW2
 Green-D-2-1_70168_70186_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,43829978C0-20:45-BabcockBCFenwayNewtonHighlandsLechmereNorthStation0
 Green-D-2-1_70168_70186_2,Green-D,1,Fenway - Government Center,,4,10034199,43829978C0-20:45-BabcockBCFenwayNewtonHighlandsLechmereNorthStation2
-Green-D-2-1_70174_70150_0,Green-D,1,Riverside - Reservoir,,4,10034199,43829970-KenmoreReservoir0
-Green-D-2-1_70174_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,43829970-KenmoreReservoir2
 Green-D-4-1_70205_70209_0,Green-D,1,Reservoir - North Station,,4,10034199,43020183-20:45-LechmereNorthStationReservoirRiverside0
 Green-E-0-0,Green-E,0,Lechmere - Heath Street,,1,10035000,43829907C0
 Green-E-2-0,Green-E,0,Government Center - Heath Street,Weekday early mornings only,3,10035004,43020170-20:45-LechmereNorthStationReservoirRiverside
@@ -125,26 +121,25 @@ CR-Worcester-a498bb89-1,CR-Worcester,1,Worcester - South Station,,3,20003114,CR-
 CR-Worcester-07874425-1_Framingham_Back Bay_0,CR-Worcester,1,Worcester - Framingham,,4,20003199,CR-Saturday-DivWorcesterPTC-20-1500-BackBayFramingham0BackBayFraminghamLocal
 CR-Franklin-6a351fe6-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,20004000,CR-Sunday-Fall-19-2707C0
 CR-Franklin-cae4a4f3-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004003,CR-Weekday-Fall-19-715
-CR-Franklin-Foxboro-bd9901a4-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004004,CR-Weekday-Fall-19-747
-CR-Franklin-5499dade-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004006,CR-Weekday-Fall-19-713
-CR-Franklin-59148bf1-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004007,CR-Weekday-Fall-19-705
-CR-Franklin-72233d46-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,20004008,CR-Weekday-Fall-19-753
-CR-Franklin-Foxboro-1bdbfe4f-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004009,CR-Weekday-Fall-19-749
-CR-Franklin-Foxboro-dfb2928e-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004010,CR-Weekday-Fall-19-743
-CR-Franklin-ae4afc12-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004011,CR-Weekday-Fall-19-719
-CR-Franklin-b2aeecfe-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,20004012,CR-Weekday-Fall-19-745
-CR-Franklin-b3fd9219-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004013,CR-Weekday-Fall-19-721
-CR-Franklin-d6222dc3-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,20004014,CR-Weekday-Fall-19-751
-CR-Franklin-f7dc0bf0-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004015,CR-Weekday-Fall-19-707
-CR-Franklin-9d3d0bfb-0,CR-Franklin,0,South Station - Forge Park/495,,3,20004016,CR-Weekday-Fall-19-701
-CR-Franklin-Foxboro-5753e97d-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004017,CR-Weekday-Fall-19-741
-CR-Franklin-Foxboro-eb4bb68e-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004018,CR-Weekday-Fall-19-757
+CR-Franklin-Foxboro-bd9901a4-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004004,CR-Weekday-Fall-19-741
+CR-Franklin-Foxboro-eb4bb68e-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004006,CR-Weekday-Fall-19-749
+CR-Franklin-5499dade-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004008,CR-Weekday-Fall-19-713
+CR-Franklin-59148bf1-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004009,CR-Weekday-Fall-19-705
+CR-Franklin-72233d46-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,20004010,CR-Weekday-Fall-19-753
+CR-Franklin-Foxboro-f48906d8-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004011,CR-Weekday-Fall-19-743
+CR-Franklin-ae4afc12-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004012,CR-Weekday-Fall-19-719
+CR-Franklin-b2aeecfe-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,20004013,CR-Weekday-Fall-19-745
+CR-Franklin-b3fd9219-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004014,CR-Weekday-Fall-19-721
+CR-Franklin-d6222dc3-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,20004015,CR-Weekday-Fall-19-751
+CR-Franklin-f7dc0bf0-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004016,CR-Weekday-Fall-19-707
+CR-Franklin-9d3d0bfb-0,CR-Franklin,0,South Station - Forge Park/495,,3,20004017,CR-Weekday-Fall-19-701
+CR-Franklin-Foxboro-5753e97d-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004018,CR-Weekday-Fall-19-755
 CR-Franklin-cd1e7d36-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004019,CR-Weekday-Fall-19-729
 CR-Franklin-1e812434-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004020,CR-Weekday-StormB-19-1703C0
 CR-Franklin-89282342-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,20004021,CR-Weekday-StormB-19-7741C0
 CR-Franklin-Foxboro-851f0a6b-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004022,CR-Weekday-StormB-19-7743C0
 CR-Franklin-1934650a-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,20004100,CR-Sunday-Fall-19-2706C0
-CR-Franklin-Foxboro-dc54c1e6-1,CR-Franklin,1,Foxboro - South Station via Fairmount,,2,20004103,CR-Weekday-Fall-19-746
+CR-Franklin-Foxboro-cab0b827-1,CR-Franklin,1,Foxboro - South Station via Fairmount,,2,20004103,CR-Weekday-Fall-19-746
 CR-Franklin-2a6574ac-1,CR-Franklin,1,Forge Park/495 - South Station via Fairmount,,2,20004105,CR-Weekday-Fall-19-726
 CR-Franklin-1396ec62-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004106,CR-Weekday-Fall-19-720
 CR-Franklin-740bc7b4-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004107,CR-Weekday-Fall-19-712
@@ -156,7 +151,7 @@ CR-Franklin-69e05c6e-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,200
 CR-Franklin-75c54449-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004114,CR-Weekday-Fall-19-704
 CR-Franklin-9aa2a6d0-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004115,CR-Weekday-Fall-19-708
 CR-Franklin-b8a071d5-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004116,CR-Weekday-Fall-19-706
-CR-Franklin-Foxboro-cab0b827-1,CR-Franklin,1,Foxboro - South Station via Fairmount,,3,20004117,CR-Weekday-Fall-19-740
+CR-Franklin-Foxboro-dc54c1e6-1,CR-Franklin,1,Foxboro - South Station via Fairmount,,3,20004117,CR-Weekday-Fall-19-740
 CR-Franklin-d5fbe599-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004118,CR-Weekday-Fall-19-724
 CR-Franklin-593044dd-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,20004119,CR-Weekday-Fall-19-756
 CR-Franklin-00517395-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004120,CR-Weekday-StormB-19-1702C0
@@ -1099,8 +1094,8 @@ Shuttle-AirportBowdoinLocal-0-0,Shuttle-AirportBowdoinLocal,0,Airport via Maveri
 Shuttle-AirportBowdoinLocal-0-1,Shuttle-AirportBowdoinLocal,1,Government Center via Maverick - Airport via Maverick,,4,60150199,43868340C0-AirportBowdoinAirportBowdoin
 Shuttle-AirportBowdoinExpress-0-0,Shuttle-AirportBowdoinExpress,0,Airport (Express shuttle) - Government Center (Express shuttle),,4,60155099,43868339C0-AirportBowdoin01
 Shuttle-AirportBowdoinExpress-0-1,Shuttle-AirportBowdoinExpress,1,Government Center (Express shuttle) - Airport (Express shuttle),,4,60155199,43868340C0-AirportBowdoin21
-Shuttle-BabcockBostonCollege-0-0,Shuttle-BabcockBostonCollege,0,Babcock Street - Boston College,,4,60450099,43830310C0-20:45-BabcockBCLechmereNorthStationNewtonHighlandsKenmoreWBabcockBC
-Shuttle-BabcockBostonCollege-0-1,Shuttle-BabcockBostonCollege,1,Boston College - Babcock Street,,4,60450199,43830283C0-20:45-BabcockBCLechmereNorthStationNewtonHighlandsKenmoreWBabcockBC
+Shuttle-BabcockBostonCollege-0-0,Shuttle-BabcockBostonCollege,0,Babcock Street - Boston College,,4,60450099,43830310C0-20:45-BabcockBCFenwayNewtonHighlandsLechmereNorthStationBabcockBC
+Shuttle-BabcockBostonCollege-0-1,Shuttle-BabcockBostonCollege,1,Boston College - Babcock Street,,4,60450199,43830283C0-20:45-BabcockBCFenwayNewtonHighlandsLechmereNorthStationBabcockBC
 Shuttle-BackBayFraminghamExpress-0-0,Shuttle-BackBayFraminghamExpress,0,Back Bay - Framingham,,4,60533099,CR-Saturday-DivWorcesterPTC-20-1511-BackBayFramingham1BackBayFraminghamExpress
 Shuttle-BackBayFraminghamExpress-0-1,Shuttle-BackBayFraminghamExpress,1,Framingham - Back Bay,,4,60533199,CR-Saturday-DivWorcesterPTC-20-1500-BackBayFramingham1BackBayFraminghamExpress
 Shuttle-BackBayFraminghamLocal-0-0,Shuttle-BackBayFraminghamLocal,0,Back Bay - Framingham,,4,60566099,CR-Saturday-DivWorcesterPTC-20-1511-BackBayFramingham1BackBayFraminghamLocal
@@ -1109,12 +1104,10 @@ Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center 
 Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,4,61000199,43870827C0-20:45-BraintreeQuincyCenter1
 Shuttle-FenwayNewtonHighlands-0-0,Shuttle-FenwayNewtonHighlands,0,Fenway - Newton Highlands,,4,61490099,43830006C0-20:45-BabcockBCFenwayNewtonHighlandsLechmereNorthStationFenwayNewtonHighlands
 Shuttle-FenwayNewtonHighlands-0-1,Shuttle-FenwayNewtonHighlands,1,Newton Highlands - Fenway,,4,61490199,43829978C0-20:45-BabcockBCFenwayNewtonHighlandsLechmereNorthStationFenwayNewtonHighlands
-Shuttle-GreenbushSouthStation-0-0,Shuttle-GreenbushSouthStation,0,South Station - Greenbush,,4,61960099,CR-Weekday-StormB-19-1071C0-GreenbushSouthStation1
-Shuttle-GreenbushSouthStation-0-1,Shuttle-GreenbushSouthStation,1,Greenbush - South Station,,4,61960199,CR-Weekday-StormB-19-1070C0-GreenbushSouthStation1
-Shuttle-KenmoreReservoir-0-0,Shuttle-KenmoreReservoir,0,Kenmore - Reservoir,,4,62010099,43830006-KenmoreReservoir1
-Shuttle-KenmoreReservoir-0-1,Shuttle-KenmoreReservoir,1,Reservoir - Kenmore,,4,62010199,43829970-KenmoreReservoir1
+Shuttle-GreenbushSouthStation-0-0,Shuttle-GreenbushSouthStation,0,South Station - Greenbush,,4,61960099,CR-Weekday-StormB-19-1073C0-GreenbushSouthStation1
+Shuttle-GreenbushSouthStation-0-1,Shuttle-GreenbushSouthStation,1,Greenbush - South Station,,4,61960199,CR-Weekday-StormB-19-1072C0-GreenbushSouthStation1
 Shuttle-NewtonHighlandsKenmore-0-0,Shuttle-NewtonHighlandsKenmore,0,Kenmore - Newton Highlands,,4,62090099,extra_shuttle_trip
-Shuttle-NewtonHighlandsKenmore-0-1,Shuttle-NewtonHighlandsKenmore,1,Newton Highlands - Kenmore,,4,62090199,43829978C0-20:45-NewtonHighlandsKenmoreW1
+Shuttle-NewtonHighlandsKenmore-0-1,Shuttle-NewtonHighlandsKenmore,1,Newton Highlands - Kenmore,,4,62090199,43829978C0-20:45-LechmereNorthStationNewtonHighlandsKenmoreWNewtonHighlandsKenmoreW
 Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,43830006C0-20:45-BabcockBCLechmereNorthStationReservoirRiversideReservoirRiverside
 Shuttle-ReservoirRiverside-0-1,Shuttle-ReservoirRiverside,1,Riverside - Reservoir,,4,62400199,43829978C0-20:45-BabcockBCLechmereNorthStationReservoirRiversideReservoirRiverside
 Shuttle-LechmereNorthStation-0-0,Shuttle-LechmereNorthStation,0,Lechmere - North Station,,4,62550099,43833212-LechmereNorthStation1
