@@ -2631,7 +2631,7 @@ facility_id,property_id,value
 362,excludes-stop,node-knncl-sbmain-fareunpaid
 362,excludes-stop,node-knncl-sbsec-farepaid
 362,excludes-stop,node-knncl-sbsec-fareunpaid
-364,alternate-service-text,"If exiting, travel down the concourse and use the elevator located through the glass doors and to the left of the MBTA's CharlieCard store. This elevator will take you to the lobby of 101 Arch Street, located off of Summer Street.\nIf boarding, travel to 101 Arch Street (located to the right of Men's Wearhouse on Summer Street). Take the elevator in the back left corner of the lobby to the concourse. Take a right and find the Oak Grove-bound platform ahead."
+364,alternate-service-text,"If exiting, travel down the concourse and use the elevator located through the glass doors and to the left of the MBTA's CharlieCard store. This elevator will take you to the lobby of 101 Arch Street, located off of Summer Street. If boarding, travel to 101 Arch Street (located to the right of Men's Wearhouse on Summer Street). Take the elevator in the back left corner of the lobby to the concourse. Take a right and find the Oak Grove-bound platform ahead."
 364,direction,up
 364,excludes-stop,door-dwnxg-101arch
 364,excludes-stop,door-dwnxg-chauncy
@@ -6479,7 +6479,7 @@ facility_id,property_id,value
 6,excludes-stop,door-state-exchange
 6,excludes-stop,door-state-meeting
 6,excludes-stop,door-state-water
-6476,alternate-service-text,"If exiting the station, use South Station Elevator 926 in the subway lobby across from the fare gates and to left of the subway monitoring station.\nIf entering the station, use South Station Elevator 926 located in front of the main South Station entrance at the corner Atlantic Ave. & Summer St"
+6476,alternate-service-text,"To exit, use South Station Elevator 926 located on the unpaid side of the faregates, to the left of the subway monitoring office. To board, use South Station Elevator 926 located in front of the main South Station entrance at the corner Atlantic Ave and Summer St."
 6476,excludes-stop,South Station
 6476,excludes-stop,South Station-01
 6476,excludes-stop,South Station-02
@@ -6588,7 +6588,7 @@ facility_id,property_id,value
 6476,excludes-stop,node-sstat-reservestair-lobby
 6476,excludes-stop,node-sstat-south-farepaid
 6476,excludes-stop,node-sstat-south-fareunpaid
-701,alternate-service-text,Please use elevator 702 or 703.
+701,alternate-service-text,Please use nearby Wonderland Elevators 702 or 703.
 701,excludes-stop,15795
 701,excludes-stop,door-wondl-nshore
 701,excludes-stop,door-wondl-ocean
@@ -6634,7 +6634,7 @@ facility_id,property_id,value
 701,excludes-stop,node-wondl-oceanramp-bottom
 701,excludes-stop,node-wondl-oceanstairs-plaza
 701,excludes-stop,node-wondl-plazacenter
-702,alternate-service-text,Please use elevator 701 or 703.
+702,alternate-service-text,Please use nearby Wonderland Elevators 701 or 703.
 702,excludes-stop,15795
 702,excludes-stop,door-wondl-nshore
 702,excludes-stop,door-wondl-ocean
@@ -6680,7 +6680,7 @@ facility_id,property_id,value
 702,excludes-stop,node-wondl-oceanramp-bottom
 702,excludes-stop,node-wondl-oceanstairs-plaza
 702,excludes-stop,node-wondl-plazacenter
-703,alternate-service-text,Please use elevator 701 or 702.
+703,alternate-service-text,Please use nearby Wonderland Elevators 701 or 702.
 703,excludes-stop,15795
 703,excludes-stop,door-wondl-nshore
 703,excludes-stop,door-wondl-ocean
@@ -6726,7 +6726,7 @@ facility_id,property_id,value
 703,excludes-stop,node-wondl-oceanramp-bottom
 703,excludes-stop,node-wondl-oceanstairs-plaza
 703,excludes-stop,node-wondl-plazacenter
-708,alternate-service-text,Use walkway @ Wonderland for access between lobby & crosswalk.
+708,alternate-service-text,"To access the pedestrian bridge from the main lobby, use Wonderland Elevators 701, 702 or 703. Exit the elevator at level 2, then turn left and proceed to the pedestrian bridge. To access the main lobby from the pedestrian bridge, proceed to the parking garage--level 2, and use Wonderland Elevators 701, 702 or 703."
 708,excludes-stop,door-wondl-nshore
 708,excludes-stop,door-wondl-ocean
 708,excludes-stop,door-wondl-oceann
@@ -6771,7 +6771,7 @@ facility_id,property_id,value
 708,excludes-stop,node-wondl-oceanramp-bottom
 708,excludes-stop,node-wondl-oceanstairs-plaza
 708,excludes-stop,node-wondl-plazacenter
-709,alternate-service-text,Use ramp to elevator 708.
+709,alternate-service-text,"To access the pedestrian plaza from the North Shore Rd entrance, enter the lobby and use Wonderland Garage Elevators 701, 702 or 703. Exit the elevator at level 2, turn right and  proceed to the pedestrian plaza. To access North Shore Rd from the pedestrian plaza, travel up the ramp to Wonderland garage--level 2 and use Wonderland Elevators 701, 702 or 703. Exit the elevator at ground level, turn right and proceed to the main lobby entrance."
 709,excludes-stop,15795
 709,excludes-stop,70060
 709,excludes-stop,door-wondl-nshore
@@ -6817,7 +6817,7 @@ facility_id,property_id,value
 709,excludes-stop,node-wondl-oceanramp-bottom
 709,excludes-stop,node-wondl-oceanstairs-plaza
 709,excludes-stop,node-wondl-plazacenter
-710,alternate-service-text,Use ramp to elevator 708.
+710,alternate-service-text,"To access the pedestrian plaza from the Wonderland outbound platform, exit through the gate and travel up the ramp to the pedestrian bridge. Proceed across the pedestrian bridge, then turn right and continue straight to the doors leading to the plaza. To access the main lobby from the pedestrian bridge, use Wonderland Elevators 701, 702 or 703, and exit at ground level. To access the Wonderland outbound platform from the pedestrian plaza, travel up the ramp to Wonderland garage--level 2, then continue straight to the pedestrian bridge. Proceed across the pedestrian bridge, then travel down the ramp to the Wonderland outbound platform."
 710,excludes-stop,15795
 710,excludes-stop,70059
 710,excludes-stop,door-wondl-nshore
@@ -6863,7 +6863,7 @@ facility_id,property_id,value
 710,excludes-stop,node-wondl-oceanramp-bottom
 710,excludes-stop,node-wondl-oceanstairs-plaza
 710,excludes-stop,node-wondl-plazacenter
-711,alternate-service-text,Use elevator 710.
+711,alternate-service-text,"To access Ocean Blvd from the pedestrian plaza, travel along the plaza towards the station and use Wonderland Elevator 710 to access the Wonderland outbound platform. At the platform, exit through the gate and continue along the pathway to Ocean Blvd. To access the pedestrian plaza from Ocean Blvd, travel south on Ocean Blvd for approximately 300 feet, then turn right at the Wonderland pathway. Proceed to the Wonderland platform and use Wonderland Elevator 710."
 711,excludes-stop,door-wondl-nshore
 711,excludes-stop,door-wondl-oceann
 711,excludes-stop,door-wondl-oceannele
@@ -6907,7 +6907,7 @@ facility_id,property_id,value
 711,excludes-stop,node-wondl-oceanramp-bottom
 711,excludes-stop,node-wondl-oceanstairs-plaza
 711,excludes-stop,node-wondl-plazacenter
-712,alternate-service-text,Please use elevator 713 in unpaid lobby.
+712,alternate-service-text,"To access the Wonderland platform or Saratoga St busway from the Bowdoin platform, use Orient Heights Elevator 713 located in the Bennington St busway. To access the Bowdoin platform or Bennington St busway from the Wonderland platform, use Orient Heights Elevator 715 located in the Saratoga St busway."
 712,excludes-stop,15880
 712,excludes-stop,5879
 712,excludes-stop,5880
@@ -6937,7 +6937,7 @@ facility_id,property_id,value
 712,excludes-stop,node-orhte-obunpaidstairs-street
 712,excludes-stop,node-orhte-sara-farepaid
 712,excludes-stop,node-orhte-sara-fareunpaid
-713,alternate-service-text,Please use elevator 712 in paid lobby.
+713,alternate-service-text,"To access the Wonderland platform or Saratoga St busway from the Bennington busway, use Orient Heights Elevator 712 located in the paid area of the Bowdoin platform. To access the Bowdoin platform or Bennington St busway from the Saratoga St busway, use Orient Heights Elevator 714 located in the paid area of the Wonderland platform. See station personnel or use a station call box to gain entry at the faregate."
 713,excludes-stop,70051
 713,excludes-stop,70052
 713,excludes-stop,node-440-bridge
@@ -6964,7 +6964,7 @@ facility_id,property_id,value
 713,excludes-stop,node-orhte-obunpaidstairs-street
 713,excludes-stop,node-orhte-sara-farepaid
 713,excludes-stop,node-orhte-sara-fareunpaid
-714,alternate-service-text,Please use elevator 715 in unpaid lobby.
+714,alternate-service-text,"To access the Bowdoin platform or Bennington St busway from the Wonderland platform, use Orient Heights Elevator 715 located in the Saratoga St busway. To access the Wonderland platform or Saratoga St busway from the Bowdoin platform, use Orient Heights Elevator 713 located in the Bennington St busway."
 714,excludes-stop,15880
 714,excludes-stop,5879
 714,excludes-stop,5880
@@ -6994,7 +6994,7 @@ facility_id,property_id,value
 714,excludes-stop,node-orhte-obunpaidstairs-street
 714,excludes-stop,node-orhte-sara-farepaid
 714,excludes-stop,node-orhte-sara-fareunpaid
-715,alternate-service-text,Please use elevator 714 in paid lobby.
+715,alternate-service-text,"To access the Bowdoin platform or Bennington St busway from the Saratoga St busway, use Orient Heights Elevator 714 located in the paid section of the Wonderland platform. To access the Wonderland platform or Saratoga St busway from the Bennington St busway, use Orient Heights Elevator 712 located in the paid section of the Bowdoin platform. See station personnel or use a station call box to gain entry at the faregate."
 715,excludes-stop,70051
 715,excludes-stop,70052
 715,excludes-stop,node-440-bridge
@@ -7021,7 +7021,7 @@ facility_id,property_id,value
 715,excludes-stop,node-orhte-obunpaidstairs-street
 715,excludes-stop,node-orhte-sara-farepaid
 715,excludes-stop,node-orhte-sara-fareunpaid
-716,alternate-service-text,"If exiting the station, please use Assembly Elevator 719 located at the opposite end of the platform."
+716,alternate-service-text,"To exit, proceed to the south end of the platform and use Assembly Elevator 719, then use Assembly Elevator 718 to access Revolution Dr. To board, travel to the Revolution Dr entrance and use Assembly Elevator 718, then use Assembly Elevator 719 to access the platform."
 716,excludes-stop,door-astao-revol
 716,excludes-stop,node-astao-442-ground
 716,excludes-stop,node-astao-442-lobby
@@ -7047,7 +7047,7 @@ facility_id,property_id,value
 716,excludes-stop,node-astao-revdoorstair-lobby
 716,excludes-stop,node-astao-revplatstair-lobby
 716,excludes-stop,node-astao-revplatstair-platform
-717,alternate-service-text,"If exiting the station, please use Assembly Elevator 719 located at the opposite end of the platform. Take Assembly Elevator 718 from the lobby to the entrance at Revolution Dr.\nIf entering the station, please use Assembly Elevator 718 located at the entrance at Revolution Dr. Take Elevator 719 from the lobby to the south end of the platform."
+717,alternate-service-text,"To exit, proceed to the south end of the platform and use Assembly Elevator 719, then use Assembly Elevator 718 to access Revolution Dr. To board, travel to the Revolution Dr entrance and use Assembly Elevator 718, then use Assembly Elevator 719 to access the platform."
 717,excludes-stop,door-astao-revol
 717,excludes-stop,node-astao-442-ground
 717,excludes-stop,node-astao-442-lobby
@@ -7073,7 +7073,7 @@ facility_id,property_id,value
 717,excludes-stop,node-astao-revdoorstair-lobby
 717,excludes-stop,node-astao-revplatstair-lobby
 717,excludes-stop,node-astao-revplatstair-platform
-718,alternate-service-text,"If exiting the station, please use Assembly elevator 717 located at the opposite end of the platform. Take Assembly elevator 716 from the lobby to the entrance at Foley St.\nIf entering the station, please use Assembly elevator 716 located at the entrance at Foley St. Take elevator 717 from the lobby to the north end of the platform."
+718,alternate-service-text,"To exit, proceed to the north end of the platform and use Assembly Elevator 717, then use Assembly Elevator 716 to access Foley St. To board, travel to the Foley St entrance and use Assembly Elevator 716, then use Assembly Elevator 717 to access the platform."
 718,excludes-stop,door-astao-foley
 718,excludes-stop,node-astao-442-ground
 718,excludes-stop,node-astao-442-lobby
@@ -7099,7 +7099,7 @@ facility_id,property_id,value
 718,excludes-stop,node-astao-revdoorstair-lobby
 718,excludes-stop,node-astao-revplatstair-lobby
 718,excludes-stop,node-astao-revplatstair-platform
-719,alternate-service-text,"If exiting the station, please use Assembly Elevator 717 located at the opposite end of the platform. Take Assembly Elevator 716 from the lobby to the entrance at Foley St.\nIf entering the station, please use Assembly Elevator 716 located at the entrance at Foley St. Take Elevator 717 from the lobby to the north end of the platform."
+719,alternate-service-text,"To exit, proceed to the north end of the platform and use Assembly Elevator 717, then use Assembly Elevator 716 to access Foley St. To board, travel to the Foley St entrance and use Assembly Elevator 716, then use Assembly Elevator 717 to access the platform."
 719,excludes-stop,door-astao-foley
 719,excludes-stop,node-astao-442-ground
 719,excludes-stop,node-astao-442-lobby
@@ -7125,7 +7125,7 @@ facility_id,property_id,value
 719,excludes-stop,node-astao-revdoorstair-lobby
 719,excludes-stop,node-astao-revplatstair-lobby
 719,excludes-stop,node-astao-revplatstair-platform
-720,alternate-service-text,Please use adjacent Government Center Elevator 721.
+720,alternate-service-text,Please use nearby Government Center Elevator 721.
 720,excludes-stop,node-444-lobby
 720,excludes-stop,node-444-platform
 720,excludes-stop,node-445-lobby
@@ -7150,7 +7150,7 @@ facility_id,property_id,value
 720,excludes-stop,node-gover-sentrancestairs-platform
 720,excludes-stop,node-gover-wbtransstairs-bl
 720,excludes-stop,node-gover-wbtransstairs-gl
-721,alternate-service-text,Please use adjacent Government Center Elevator 720.
+721,alternate-service-text,Please use nearby Government Center Elevator 720.
 721,excludes-stop,node-444-lobby
 721,excludes-stop,node-444-platform
 721,excludes-stop,node-445-lobby
@@ -7175,7 +7175,7 @@ facility_id,property_id,value
 721,excludes-stop,node-gover-sentrancestairs-platform
 721,excludes-stop,node-gover-wbtransstairs-bl
 721,excludes-stop,node-gover-wbtransstairs-gl
-722,alternate-service-text,Please use adjacent Government Center Elevator 723.
+722,alternate-service-text,Please use nearby Government Center Elevator 723.
 722,excludes-stop,70201
 722,excludes-stop,70202
 722,excludes-stop,Government Center-Brattle
@@ -7204,7 +7204,7 @@ facility_id,property_id,value
 722,excludes-stop,node-gover-sentrancestairs-platform
 722,excludes-stop,node-gover-wbtransstairs-bl
 722,excludes-stop,node-gover-wbtransstairs-gl
-723,alternate-service-text,Please use adjacent Government Center Elevator 722.
+723,alternate-service-text,Please use nearby Government Center Elevator 722.
 723,excludes-stop,70201
 723,excludes-stop,70202
 723,excludes-stop,Government Center-Brattle
@@ -7233,6 +7233,7 @@ facility_id,property_id,value
 723,excludes-stop,node-gover-sentrancestairs-platform
 723,excludes-stop,node-gover-wbtransstairs-bl
 723,excludes-stop,node-gover-wbtransstairs-gl
+724,alternate-service-text,"To exit, use Forest Hills Elevator 842 located at the opposite end of the platform to access the main lobby. To board, travel to the intersection of Arborway and Washington St, and turn left on Washington St. Proceed on Washington St to main station entrance and use Forest Hills Elevator 842."
 724,excludes-stop,10642
 724,excludes-stop,875
 724,excludes-stop,Forest Hills
@@ -7266,7 +7267,7 @@ facility_id,property_id,value
 724,excludes-stop,node-forhl-slowbusstairs-lobby
 724,excludes-stop,node-forhl-splatstairs-lobby
 724,excludes-stop,node-forhl-splatstairs-platform
-731,alternate-service-text,"If exiting, travel down the passageway and use North Station Elevator 732 to reach Causeway Street. If boarding, exit through the east TD Garden entrance and follow the path to Causeway Street. At Causeway Street, turn right and use North Station Elevator 732 to reach the lobby."
+731,alternate-service-text,"To exit, use North Station Elevator 912 located in the lobby to access the corner of Haverhill St and Causeway St. To board, cross Causeway St, and at the corner of Haverhill St and Causeway St, use North Station Elevator 912 to access the lobby."
 731,excludes-stop,North Station
 731,excludes-stop,North Station-01
 731,excludes-stop,North Station-02
@@ -7284,7 +7285,7 @@ facility_id,property_id,value
 731,excludes-stop,door-north-crnashua
 731,excludes-stop,door-north-tdgarden
 731,excludes-stop,door-north-valenti
-732,alternate-service-text,"If exiting, travel down the passageway and use North Station Elevator 731 to reach Causeway Street. If boarding, exit through the east TD Garden entrance and follow the path to Causeway Street. At Causeway Street, turn right and use North Station Elevator 731 to reach the lobby."
+732,alternate-service-text,"To exit, travel down the passageway and use North Station Elevator 731 to access Causeway St. To board, exit the main TD Garden entrance to Causeway St. At Causeway St, turn left and use North Station Elevator 731 to access the passageway."
 732,excludes-stop,North Station
 732,excludes-stop,North Station-01
 732,excludes-stop,North Station-02
@@ -7302,7 +7303,7 @@ facility_id,property_id,value
 732,excludes-stop,door-north-crnashua
 732,excludes-stop,door-north-tdgarden
 732,excludes-stop,door-north-valenti
-733,alternate-service-text,"If exiting, use Wollaston Elevator 734 (platform to Newport Ave lobby).Â  Proceed up the passageway ramp to the parking lot lobby.If boarding, proceed down the passageway from to the Newport Ave lobby and use Wollaston Elevator 734 (Newport Ave lobby to platform)."
+733,alternate-service-text,"To exit, use Wollaston Elevator 734 to access the Newport Ave lobby. At the lobby, proceed up the passageway ramp to the parking lot lobby. To board, proceed down the passageway ramp to the Newport Ave lobby and use Wollaston Elevator 734 to access the platform."
 733,excludes-stop,door-wlsta-beale
 733,excludes-stop,door-wlsta-newpnorth
 733,excludes-stop,door-wlsta-newpsouth
@@ -7341,7 +7342,7 @@ facility_id,property_id,value
 733,excludes-stop,node-wlsta-stair6gate-fareunpaid
 733,excludes-stop,node-wlsta-stair7-lobby
 733,excludes-stop,node-wlsta-stair7-street
-734,alternate-service-text,"If exiting, use Wollaston Elevator 735 (platform to pedestrian bridge) and then transfer to Wollaston Elevator 733 (Pedestrian bridge to parking lot lobby). If boarding, proceed up the passageway ramp to the parking lot lobby and use Wollaston Elevator 733 (Parking lot lobby to pedestrian bridge). Transfer to Wollaston Elevator 735 (Pedestrian bridge to platform)."
+734,alternate-service-text,"To exit, use Wollaston Elevator 735 to access the pedestrian bridge. At the pedestrian bridge, use Wollaston Elevator 733 to access to parking lot lobby and Newport Ave lobby. To board, proceed up the passageway ramp to the parking lot lobby and use Wollaston Elevator 733 to access the pedestrian bridge. At the pedestrian bridge, use Wollaston Elevator 735 to access the platform."
 734,excludes-stop,door-wlsta-beale
 734,excludes-stop,door-wlsta-newpnorth
 734,excludes-stop,door-wlsta-newpsouth
@@ -7380,7 +7381,7 @@ facility_id,property_id,value
 734,excludes-stop,node-wlsta-stair6gate-fareunpaid
 734,excludes-stop,node-wlsta-stair7-lobby
 734,excludes-stop,node-wlsta-stair7-street
-735,alternate-service-text,"If exiting, use Wollaston Elevator 734 (platform to Newport Ave lobby).Â  Proceed up the passageway ramp to the parking lot lobby.If boarding, proceed down the passageway to the Newport Ave lobby and use Wollaston Elevator 734 (Newport Ave lobby to platform)."
+735,alternate-service-text,"To exit, use Wollaston Elevator 734 to access the Newport Ave lobby. At the lobby, proceed up the passageway ramp to the parking lot lobby. To board, proceed down the passageway ramp to the Newport Ave lobby and use Wollaston Elevator 734 to access the platform."
 735,excludes-stop,door-wlsta-beale
 735,excludes-stop,door-wlsta-newpnorth
 735,excludes-stop,door-wlsta-newpsouth
@@ -7419,7 +7420,7 @@ facility_id,property_id,value
 735,excludes-stop,node-wlsta-stair6gate-fareunpaid
 735,excludes-stop,node-wlsta-stair7-lobby
 735,excludes-stop,node-wlsta-stair7-street
-800,alternate-service-text,"Customers desiring elevator service to exit at Oak Grove must exit the train at Malden Center and see station personnel for further assistance. Customer desiring elevator service to enter the station should utilize the call box for further assistance. Alternatively, use Bus Routes 132, 136, or 137 to connect between Oak Grove and Malden Center."
+800,alternate-service-text,"A shuttle bus will be available to transport customers between Oak Grove and Malden Center. To exit, exit the train at Malden Center and find station personnel or use a station call box to request the shuttle bus to Oak Grove. To board, find station personnel or use a station call box to request the shuttle bus to Malden Center. Alternatively, customers may also use Bus Routes 136, 137 or 132 for transportation between Oak Grove and Malden Center."
 800,excludes-stop,9328
 800,excludes-stop,door-ogmnl-wash
 800,excludes-stop,node-102-lobby
@@ -7443,7 +7444,7 @@ facility_id,property_id,value
 800,excludes-stop,node-ogmnl-olstair-platform
 800,excludes-stop,node-ogmnl-washstair-lobby
 800,excludes-stop,node-ogmnl-washstair-street
-801,alternate-service-text,"Customers desiring elevator service to exit at Oak Grove must exit the train at Malden Center and see station personnel for further assistance. Customer desiring elevator service to enter the station should utilize the call box system for further assistance. Alternatively, use Bus Routes 132, 136, or 137 to connect between Oak Grove and Malden Center."
+801,alternate-service-text,"A shuttle bus will be available to transport customers between Oak Grove and Malden Center. To exit at Oak Grove, exit the train at Malden Center and find station personnel or use a station call box to request the shuttle bus to Oak Grove. To board the Orange Line, find station personnel or use a station call box to request the shuttle bus to Malden Center. Alternatively, customers may also use Bus Routes 136, 137 or 132 for transportation between Oak Grove and Malden Center."
 801,excludes-stop,9328
 801,excludes-stop,door-ogmnl-wash
 801,excludes-stop,node-102-lobby
@@ -7467,7 +7468,7 @@ facility_id,property_id,value
 801,excludes-stop,node-ogmnl-olstair-platform
 801,excludes-stop,node-ogmnl-washstair-lobby
 801,excludes-stop,node-ogmnl-washstair-street
-802,alternate-service-text,Please use adjacent State Street Elevator 967.
+802,alternate-service-text,Please use nearby State Elevator 967. 
 802,excludes-stop,70022
 802,excludes-stop,70042
 802,excludes-stop,door-state-cityhall
@@ -7476,13 +7477,13 @@ facility_id,property_id,value
 802,excludes-stop,door-state-meeting
 802,excludes-stop,door-state-state
 802,excludes-stop,door-state-water
-803,alternate-service-text,"Please use State Street Elevator 975 at the Wonderland Blue Line lobby (53 State Street). Alternatively, if exiting, take the Orange Line to Downtown Crossing and exit to Washington Street via Downtown Crossing Elevator 892. Turn left on Washington Street and travel one-third of a mile to Washington, School, and Milk Streets."
+803,alternate-service-text,"To exit, proceed to the end of the Forest Hills platform and continue down the hallway (follow signs for Oak Grove and Blue Line) to the Wonderland platform. At the Wonderland platform, proceed to the 53 State St lobby and use State Elevator 975. To board a Forest Hills-bound train, cross Milk St and proceed south on Washington St for one-tenth of a mile to the intersection of Washington St and Winter St, and use Downtown Crossing Elevator 892. To board an Oak Grove-bound train, cross Milk St and proceed south on Washington St for one block to the intersection of Washington St and Franklin St, and use Downtown Crossing Elevator 891 to access the Oak Grove platform."
 803,excludes-stop,door-state-cityhall
 803,excludes-stop,door-state-congress
 803,excludes-stop,door-state-exchange
 803,excludes-stop,door-state-state
 803,excludes-stop,door-state-water
-804,alternate-service-text,Use Park St Elev 892 @ Winter & Washington Sts or Elev 978 on Boston Common.
+804,alternate-service-text,"To exit, travel down the Winter St concourse towards Downtown Crossing. At the end of the concourse, exit through the faregate and use Downtown Crossing Elevator 892 to access the corner of Washington St and Winter St. To board, travel down Winter St towards Downtown Crossing to the corner of Washington St and Winter St, and use Downtown Crossing 892 to access the Downtown Crossing lobby. At the lobby, exit through the faregate, turn left and proceed up the Winter St concourse to Park Street. Alternatively, cross Tremont St to the Boston Common and use Park Street Elevator 978 to access the Green Line Copley and westbound platform."
 804,excludes-stop,70196
 804,excludes-stop,70197
 804,excludes-stop,70198
@@ -7556,19 +7557,19 @@ facility_id,property_id,value
 804,excludes-stop,node-pktrm-weststairs-lobby
 804,excludes-stop,node-pktrm-wintfare-paid
 804,excludes-stop,node-pktrm-wintfare-unpaid
-805,alternate-service-text,"If exiting the Red Line, exit at Quincy Center and see station personnel for assistance. If boarding at Quincy Adams, use the call box or see station personnel for assistance. Alternatively, use Bus Route 238 to connect between Quincy Adams and Quincy Center."
+805,alternate-service-text,"A shuttle bus will be available to transport customers between Quincy Adams and Quincy Center. To exit, exit the train at Quincy Center and find station personnel or use a station call box to request the shuttle bus to Quincy Center. To board, find station personnel or use a station call box at Quincy Adams to request the shuttle bus to Quincy Center. Alternatively, customers may also use Bus Routes 230 and 238 for transportation between Quincy Center and Quincy Adams (bus stop at Independence Ave and Verchild St)."
 805,excludes-stop,door-qamnl-burgin
 805,excludes-stop,door-qamnl-indep
 805,excludes-stop,door-qamnl-pickup
-806,alternate-service-text,Customers should use adjacent Quincy Adams Elevator 807.
+806,alternate-service-text,Please use the nearby Quincy Adams Elevator 807.
 806,excludes-stop,door-qamnl-burgin
 806,excludes-stop,door-qamnl-indep
 806,excludes-stop,door-qamnl-pickup
-807,alternate-service-text,Customers should use adjacent Quincy Adams Elevator 806.
+807,alternate-service-text,Please use the nearby Quincy Adams Elevator 806.
 807,excludes-stop,door-qamnl-burgin
 807,excludes-stop,door-qamnl-indep
 807,excludes-stop,door-qamnl-pickup
-808,alternate-service-text,"Use Elevator 979 connecting Red Line center platform to Green Line west, & add'l elevator to street"
+808,alternate-service-text,"To exit, use Park Street Elevator 979 located on the Red Line center platform to access the Green Line westbound platform. At the Green Line platform, exit through the faregates and use Park Street Elevator 978 to access the Boston Common. To board the Red Line, use Park Street Elevator 978 located on the Boston Common to access the Green Line westbound lobby. At the lobby, enter throught the faregates, turn left, and use Park Street Elevator 979 to access the Red Line center platform."
 808,excludes-stop,70196
 808,excludes-stop,70197
 808,excludes-stop,70198
@@ -7645,7 +7646,7 @@ facility_id,property_id,value
 808,excludes-stop,node-pktrm-weststairs-lobby
 808,excludes-stop,node-pktrm-wintfare-paid
 808,excludes-stop,node-pktrm-wintfare-unpaid
-810,alternate-service-text,"Use Bus Routes 210, 211, 212, or 215 for connections between Quincy Center and North Quincy."
+810,alternate-service-text,"A shuttle bus will be available to transport customers between Quincy Center and Quincy Adams. To exit the Red Line, exit the train at Quincy Adams and find station personnel or use a station call box to request the shuttle bus to Quincy Center. To board the Red Line, find station personnel or use a station call box at Quincy Center to request the shuttle bus to Quincy Adams. Alternatively, customers may also use Bus Routes 210, 211 and 212 for transportation between Quincy Center and North Quincy."
 810,excludes-stop,32001
 810,excludes-stop,32002
 810,excludes-stop,32003
@@ -7670,7 +7671,7 @@ facility_id,property_id,value
 810,excludes-stop,node-qnctr-fareunpaid
 810,excludes-stop,node-qnctr-rdstair-entrance
 810,excludes-stop,node-qnctr-rdstair-platform
-811,alternate-service-text,"If exiting the Red Line, exit at Quincy Adams and see station personnel for assistance. If boarding at Braintree, use the call box or see station personnel for assistance. Alternatively, use Bus Routes 230 or 236 to connect between Braintree and Quincy Center."
+811,alternate-service-text,"A shuttle bus will be available to transport customers between Braintree and Quincy Adams. To exit, exit the train at Quincy Adams and find station personnel or use a station call box to request the shuttle bus to Braintree. To board, find station personnel or use a station call box at Braintree to request the shuttle bus to Quincy Adams. Alternatively, customers may also use Bus Routes 230 and 236 for transportation between Braintree and Quincy Center."
 811,excludes-stop,38671
 811,excludes-stop,Braintree
 811,excludes-stop,door-brntn-busway
@@ -7694,7 +7695,7 @@ facility_id,property_id,value
 811,excludes-stop,node-brntn-parking
 811,excludes-stop,node-brntn-splatstairs-lobby
 811,excludes-stop,node-brntn-splatstairs-platform
-812,alternate-service-text,Use Elevs 978 & 804 at street to switch btwn Green Line platforms.
+812,alternate-service-text,"To access the westbound platform (to Copley) from the northbound platform (to Government Center), proceed to the Winter St concourse and take Park Street Elevator 808 to the Red Line center platform, then use Park Street Elevator 979. To access the northbound platform (to Government Center) from the westbound platform (to Copley), proceed to the end of the platform towards the faregates and take Park Street Elevator 979 to the Red Line center platform. At the Red Line platform, proceed to the end of the platform and use Park Street Elevator 808 to access Winter St concourse and Green Line northbound platform."
 812,excludes-stop,70075
 812,excludes-stop,70076
 812,excludes-stop,70196
@@ -7771,28 +7772,28 @@ facility_id,property_id,value
 812,excludes-stop,node-pktrm-weststairs-lobby
 812,excludes-stop,node-pktrm-wintfare-paid
 812,excludes-stop,node-pktrm-wintfare-unpaid
-813,alternate-service-text,Use Elevator 961 at the opposite end of the platform/lobby.
+813,alternate-service-text,"To exit, use Elevator 961 located at the opposite end of the platform. To board, travel east down the Alewife Linear Path to the Russell Field entrance, and use Elevator 961."
 813,excludes-stop,141
 813,excludes-stop,door-alfcl-alewife
 813,excludes-stop,door-alfcl-busway
 813,excludes-stop,door-alfcl-cambridgepark
 813,excludes-stop,door-alfcl-russell
 813,excludes-stop,door-alfcl-steel
-814,alternate-service-text,Please use the adjacent Alewife Elevator 815.
+814,alternate-service-text,Please use the nearby Alewife Elevator 815.
 814,excludes-stop,141
 814,excludes-stop,door-alfcl-alewife
 814,excludes-stop,door-alfcl-busway
 814,excludes-stop,door-alfcl-cambridgepark
 814,excludes-stop,door-alfcl-russell
 814,excludes-stop,door-alfcl-steel
-815,alternate-service-text,Please use the adjacent Alewife Elevator 814.
+815,alternate-service-text,Please use the nearby Alewife Elevator 814.
 815,excludes-stop,141
 815,excludes-stop,door-alfcl-alewife
 815,excludes-stop,door-alfcl-busway
 815,excludes-stop,door-alfcl-cambridgepark
 815,excludes-stop,door-alfcl-russell
 815,excludes-stop,door-alfcl-steel
-816,alternate-service-text,"If exiting at Davis Square, exit the Red Line at Harvard Square and take the Route 96 bus service to Davis Square or ask station personnel for assistance. If boarding at Davis Square, take the Route 96 bus service to Harvard Square and board the Red Line."
+816,alternate-service-text,"A shuttle bus will be available to transport customers between Harvard and Davis. To exit, exit the train at Harvard and find station personnel or use a station call box to request the shuttle bus to Davis. To board, find station personnel or use a station call box at Davis to request the shuttle bus to Harvard. Alternatively, customers may also use Bus Route 96 for transportation between Harvard and Davis."
 816,excludes-stop,5104
 816,excludes-stop,door-davis-busway
 816,excludes-stop,door-davis-holland
@@ -7828,7 +7829,7 @@ facility_id,property_id,value
 816,excludes-stop,node-davis-fareunpaid
 816,excludes-stop,node-davis-holland-entrance
 816,excludes-stop,node-davis-holland-lobby
-817,alternate-service-text,"If exiting at Davis Square, exit the Red Line at Harvard Square and take the Route 96 bus service to Davis Square or ask station personnel for assistance. If boarding at Davis Square, take the Route 96 bus service to Harvard Square and board the Red Line."
+817,alternate-service-text,"A shuttle bus will be available to transport customers between Harvard and Davis. To exit, exit the train at Harvard and find station personnel or use a station call box to request the shuttle bus to Davis. To board, find station personnel or use a station call box at Davis to request the shuttle bus to Harvard. Alternatively, customers may also use the Route 96 bus for transportation between Harvard and Davis."
 817,excludes-stop,5104
 817,excludes-stop,door-davis-holland
 817,excludes-stop,node-336-entrance
@@ -7863,7 +7864,7 @@ facility_id,property_id,value
 817,excludes-stop,node-davis-fareunpaid
 817,excludes-stop,node-davis-holland-entrance
 817,excludes-stop,node-davis-holland-lobby
-821,alternate-service-text,Please use Harvard Square Elevator 973 at end of upper busway (Brattle Square at Brattle and Mount Auburn Streets).
+821,alternate-service-text,"To exit, use Harvard Elevator 973 located at the end of upper busway. To board, use Harvard Elevator 973 located at the corner of Brattle St and Brattle Sq."
 821,excludes-stop,20762
 821,excludes-stop,70067
 821,excludes-stop,70068
@@ -7905,7 +7906,7 @@ facility_id,property_id,value
 821,excludes-stop,node-harsq-upperramp-lobby
 821,excludes-stop,node-harsq-upperramp-upper
 821,excludes-stop,node-harsq-yardstair-lobby
-823,alternate-service-text,Use Elevs 978 & 804 at street to go btwn Green Line platforms.
+823,alternate-service-text,"To access the westbound platform (to Copley) from the northbound platform (to Government Center), proceed to the Winter St concourse and take Park Street Elevator 808 to the Red Line center platform, then use Park Street Elevator 979. To access the northbound platform (to Government Center) from the westbound platform (to Copley), proceed to the end of the platform and take Park Street Elevator 979 to the Red Line center platform. At the Red Line platform, proceed to the end of the platform and use Park Street Elevator 808 to access Winter St concourse and Green Line northbound platform."
 823,excludes-stop,70075
 823,excludes-stop,70076
 823,excludes-stop,70200
@@ -7980,7 +7981,7 @@ facility_id,property_id,value
 823,excludes-stop,node-pktrm-weststairs-lobby
 823,excludes-stop,node-pktrm-wintfare-paid
 823,excludes-stop,node-pktrm-wintfare-unpaid
-830,alternate-service-text,"If exiting the station, take the Red Line to JFK/UMass via an Ashmont-bound train and use JFK/UMass Elevator 831. If coming from Quincy/Braintree, continue on the Red Line to Andrew. At Andrew, take an Ashmont-bound train to JFK/UMass and use JFK/UMass Elevator 831. \nIf boarding, take an Alewife-bound train to Andrew. At Andrew, board a Braintree-bound train."
+830,alternate-service-text,"To exit when coming from Boston/Cambridge, take an Ashmont-bound train to JFK/UMass, exit onto the Ashmont platform, and use JFK/UMass Elevator 831. To exit when coming from Quincy/Braintree, exit the train at Andrew, then take an Ashmont-bound train to JFK/UMass and use JFK/UMass Elevator 831. To board, use JFK/UMass Elevator 831 to access the Ashmont Branch platform. Take an Alewife-bound train to Andrew, then transfer to an Ashmont-bound train."
 830,excludes-stop,121
 830,excludes-stop,70085
 830,excludes-stop,70086
@@ -8029,7 +8030,7 @@ facility_id,property_id,value
 830,excludes-stop,node-jfk-sydfareunpaid
 830,excludes-stop,node-jfk-sydneynstair-lobby
 830,excludes-stop,node-jfk-sydneysstair-lobby
-831,alternate-service-text,"If exiting the station, take the Red Line to JFK/UMass via a Braintree-bound train and use JFK/UMass Elevator 830. For customers coming from Ashmont, continue on the Red Line to Andrew. At Andrew, take a Braintree-bound train to JFK/UMass and use JFK/UMass Elevator 830.\nIf boarding, take an Alewife-bound train to Andrew. At Andrew, board an Ashmont-bound train."
+831,alternate-service-text,"To exit when coming from Boston/Cambridge, take a Braintree-bound train to JFK/UMass, exit onto the Braintree platform, and use JFK/UMass Elevator 830. To exit when traveling from Quincy/Braintree, exit the train at Andrew, then take a Braintree-bound train to JFK/UMass and use JFK/UMass Elevator 830. To board, use JFK/UMass Elevator 830 to access the Braintree Branch platform. Take an Alewife-bound train to Andrew, then transfer to an Braintree-bound train."
 831,excludes-stop,121
 831,excludes-stop,70085
 831,excludes-stop,70086
@@ -8078,7 +8079,7 @@ facility_id,property_id,value
 831,excludes-stop,node-jfk-sydfareunpaid
 831,excludes-stop,node-jfk-sydneynstair-lobby
 831,excludes-stop,node-jfk-sydneysstair-lobby
-840,alternate-service-text,"If exiting, exit the train and at the opposite side of the platform, wait for an Oak Grove train to arrive. Cross through the train to the opposite platform and use Sullivan Square Elevator 881 to reach the lobby. \nIf boarding, please use Sullivan Square Elevator 881 to the Oak Grove-bound platform. As you exit the elevator at the platform level, turn left to wait for an Oak Grove-bound train. Cross through the train to the opposite platform and wait for a Forest Hills-bound train."
+840,alternate-service-text,"To exit when traveling on a Forest Hills-bound train, exit onto the center platform and wait for an Oak Grove train to arrive. When the train arrives, cross through the train over to the opposite platform and use Sullivan Elevator 881. To exit the train when traveling on an Oak Grove-bound train, exit the right side of the train onto the Oak Grove platform and use Sullivan Elevator 881. To board a Forest Hills-bound train, use Sullivan Elevator 881 to access the Oak Grove platform, then wait for an Oak Grove-bound train to arrive. When the train arrives, cross through the train over to the center platform."
 840,excludes-stop,29001
 840,excludes-stop,29002
 840,excludes-stop,29003
@@ -8112,7 +8113,7 @@ facility_id,property_id,value
 840,excludes-stop,node-sull-nbstairs-platform
 840,excludes-stop,node-sull-sbstairs-lobby
 840,excludes-stop,node-sull-sbstairs-platform
-841,alternate-service-text,"Please contact station personnel or conductor for assistance. For inbound commuter rail riders, please disembark at Back Bay and return to Forest Hills via the Orange Line.\nFor outbound customers, please take the Orange Line to Back Bay and board the commuter rail at Back Bay. Please contact station personnel for assistance."
+841,alternate-service-text,"Please see station personnel or a train conductor for assistance. To exit, exit the train at Ruggles or Back Bay, then take a Forest Hills-bound train to Forest Hills and use Forest Hills Elevator 842. To board, use Forest Hills Elevator 842 to access the Orange Line platform, then take a Oak Grove-bound train to Ruggles or Back Bay and transfer to the Commuter Rail. Check the Commuter Rail train schedules for train arrival/departure times at Ruggles and Back Bay by visiting mbta.com/schedules."
 841,excludes-stop,10642
 841,excludes-stop,70001
 841,excludes-stop,875
@@ -8149,7 +8150,7 @@ facility_id,property_id,value
 841,excludes-stop,node-forhl-slowbusstairs-lobby
 841,excludes-stop,node-forhl-splatstairs-lobby
 841,excludes-stop,node-forhl-splatstairs-platform
-842,alternate-service-text,"If exiting, exit the Orange Line at Green Street and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Forest Hills to request assistance. Alternatively, the Route 39 bus service operates from Back Bay to Forest Hills every fifteen minutes or less."
+842,alternate-service-text,"To exit, use Forest Hills Elevator 724 located at the opposite end of the platform to access the Southwest Corridor Park lobby. To board, use the Washington St exit, turn right and proceed to the intersection of Washington St and Arborway. Cross Arborway, turn right, then continue to the Southwest Corridor Park entrance and use Forest Hills Elevator 724."
 842,excludes-stop,10642
 842,excludes-stop,875
 842,excludes-stop,Forest Hills
@@ -8184,7 +8185,7 @@ facility_id,property_id,value
 842,excludes-stop,node-forhl-slowbusstairs-lobby
 842,excludes-stop,node-forhl-splatstairs-lobby
 842,excludes-stop,node-forhl-splatstairs-platform
-843,alternate-service-text,"If exiting the station, exit using the Washington Street/Arboretum exit and turn right down the ramp to Hyde Park Avenue. If entering the station from Hyde Park Avenue, turn right to go up the ramp and bear left to the Washington Street/Arboretum entrance."
+843,alternate-service-text,"To exit, use the Arborway exit, turn right and travel across the plaza towards Hyde Park Ave. At Hyde Park Ave, turn right onto the pathway that leads to the Lower Busway. To board, exit the busway, turn left onto Hyde Park Ave and travel up the ramp towards Arborway. At Arborway, turn left and proceed across the plaza to the station entrance. Please find station personnel or use a station call box or for assistance navigating between the lobby and lower busway."
 843,excludes-stop,10642
 843,excludes-stop,70001
 843,excludes-stop,Forest Hills
@@ -8220,7 +8221,7 @@ facility_id,property_id,value
 843,excludes-stop,node-forhl-slowbusstairs-lobby
 843,excludes-stop,node-forhl-splatstairs-lobby
 843,excludes-stop,node-forhl-splatstairs-platform
-844,alternate-service-text,"If exiting, exit the Orange Line at Forest Hills and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Green Street to request assistance."
+844,alternate-service-text,"A shuttle bus will be available to transport customers between Green Street and Forest Hills. To exit, exit the train at Forest Hills and find station personnel or use a station call box to request the shuttle bus to Green Street. To board, find station personnel or use a station call box at Green Street to request the shuttle bus to Forest Hills."
 844,excludes-stop,node-grnst-131-lobby
 844,excludes-stop,node-grnst-131-platform
 844,excludes-stop,node-grnst-844-lobby
@@ -8229,7 +8230,7 @@ facility_id,property_id,value
 844,excludes-stop,node-grnst-fareunpaid
 844,excludes-stop,node-grnst-stairs-lobby
 844,excludes-stop,node-grnst-stairs-platform
-845,alternate-service-text,"If exiting, exit the Orange Line at Jackson Square and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Stony Brook to request assistance."
+845,alternate-service-text,"A shuttle bus will be available to transport customers between Stony Brook and Jackson Square. To exit, exit the train at Jackson Square and find station personnel or use a station call box to request the shuttle bus to Stony Brook. To board, find station personnel or use a station call box at Stony Brook to request the shuttle bus to Jackson Square."
 845,excludes-stop,node-sbmnl-132-lobby
 845,excludes-stop,node-sbmnl-132-platform
 845,excludes-stop,node-sbmnl-845-lobby
@@ -8238,7 +8239,7 @@ facility_id,property_id,value
 845,excludes-stop,node-sbmnl-fareunpaid
 845,excludes-stop,node-sbmnl-stairs-lobby
 845,excludes-stop,node-sbmnl-stairs-platform
-846,alternate-service-text,Customers requiring elevator access to exit the station must exit at Roxbury Crossing and board the Route 22 bus service to Jackson Square. Customers desiring elevator access to enter the station should board the Route 22 bus service at Jackson Square to Roxbury Crossing for Orange Line service. Please see station personnel for assistance.
+846,alternate-service-text,"A shuttle bus will be available to transport customers between Jackson Square and Stony Brook. To exit, exit the train at Stony Brook and find station personnel or use a station call box to request the shuttle bus to Jackson Square. To board, find station personnel or use a station call box at Jackson Square to request the shuttle bus to Stony Brook. Alternatively, customers may also use Bus Route 22 for transportation between Jackson Square and Roxbury Crossing."
 846,excludes-stop,11531
 846,excludes-stop,node-jaksn-133-lobby
 846,excludes-stop,node-jaksn-133-platform
@@ -8248,7 +8249,7 @@ facility_id,property_id,value
 846,excludes-stop,node-jaksn-fareunpaid
 846,excludes-stop,node-jaksn-stairs-lobby
 846,excludes-stop,node-jaksn-stairs-platform
-847,alternate-service-text,Customers desiring elevator service at Roxbury Crossing must continue to Ruggles and board the Route 22 bus back to Roxbury Crossing. Customers desiring to enter the station should see station personnel for further assistance.
+847,alternate-service-text,"A shuttle bus will be available to transport customers between Roxbury Crossing and Ruggles. To exit, exit the train at Ruggles and find station personnel or use a station call box to request the shuttle bus to Roxbury Crossing. To board, find station personnel or use a station call box at Roxbury Crossing to request the shuttle bus to Ruggles. Alternatively, customers may also use Bus Route 22 for transportation between Roxbury Crossing and Ruggles."
 847,excludes-stop,node-rcmnl-134-lobby
 847,excludes-stop,node-rcmnl-134-platform
 847,excludes-stop,node-rcmnl-847-lobby
@@ -8257,7 +8258,7 @@ facility_id,property_id,value
 847,excludes-stop,node-rcmnl-fareunpaid
 847,excludes-stop,node-rcmnl-stairs-lobby
 847,excludes-stop,node-rcmnl-stairs-platform
-848,alternate-service-text,Please use the call box or see station personnel for assistance traveling around the station to the lower busway.
+848,alternate-service-text,"To exit, use Ruggles Elevator 728 located on the opposite side of the lobby. To board, cross the inner busway lane to the center platform and use Ruggles Elevator 728."
 848,excludes-stop,17861
 848,excludes-stop,70010
 848,excludes-stop,70011
@@ -8304,7 +8305,7 @@ facility_id,property_id,value
 848,excludes-stop,node-rugg-olnstairs-platform
 848,excludes-stop,node-rugg-olsstairs-lobby
 848,excludes-stop,node-rugg-olsstairs-platform
-849,alternate-service-text,"Please contact station personnel or conductor for assistance. For inbound commuter rail riders, please disembark at Back Bay and return to Ruggles via the Orange Line. \nFor outbound customers, please take the Orange Line to Back Bay and board the commuter rail at Back Bay. Please contact station personnel for assistance."
+849,alternate-service-text,"Please see station personnel or a train conductor for assistance. To exit, exit the train at Back Bay, then take a Forest Hills-bound train to Ruggles and use Ruggles Elevator 850. To board, use Ruggles Elevator 850 to access the Orange Line platform, then take a Oak Grove-bound train to Back Bay and transfer to the Commuter Rail. Check the Commuter Rail train schedules for train arrival/departure times at Back Bay by visiting mbta.com/schedules."
 849,excludes-stop,17861
 849,excludes-stop,17862
 849,excludes-stop,17863
@@ -8352,7 +8353,7 @@ facility_id,property_id,value
 849,excludes-stop,node-rugg-olnstairs-platform
 849,excludes-stop,node-rugg-olsstairs-lobby
 849,excludes-stop,node-rugg-olsstairs-platform
-850,alternate-service-text,Customers desiring to exit the station must continue to Jackson Square and see station personnel or the call box to utilize bus service back to Ruggles. Customers desiring elevator service to enter the station must see station personnel for further assistance.
+850,alternate-service-text,"A shuttle bus will be available to transport customers between Ruggles and Jackson Square. To exit, exit the train at Jackson Square and find station personnel or use a station call box to request the shuttle bus to Ruggles. To board, find station personnel or use a station call box at Ruggles to request the shuttle bus to Jackson Square, or Roxbury Crossing, upon request. Alternatively, customers may also use Bus Route 22 for transportation between Ruggles, Jackson Square and Roxbury Crossing."
 850,excludes-stop,17861
 850,excludes-stop,17862
 850,excludes-stop,17863
@@ -8399,7 +8400,7 @@ facility_id,property_id,value
 850,excludes-stop,node-rugg-olnstairs-platform
 850,excludes-stop,node-rugg-olsstairs-lobby
 850,excludes-stop,node-rugg-olsstairs-platform
-851,alternate-service-text,Please use the call box or see station personnel for assistance traveling around the station for the alternate entrance/exit.
+851,alternate-service-text,"A shuttle bus will be available to transport customers between Forsyth St entrance and the Ruggles upper busway (lobby). Please see station personnel or use a station call box to request the shuttle bus. Alternatively, upon request, assistance navigating between the Forsyth St entrance and the Ruggles upper busway can be provided."
 851,excludes-stop,Ruggles-01
 851,excludes-stop,Ruggles-02
 851,excludes-stop,Ruggles-03
@@ -8441,7 +8442,7 @@ facility_id,property_id,value
 851,excludes-stop,node-rugg-olnstairs-platform
 851,excludes-stop,node-rugg-olsstairs-lobby
 851,excludes-stop,node-rugg-olsstairs-platform
-852,alternate-service-text,"If exiting, exit the Orange Line at Back Bay and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Massachusetts Avenue to request assistance."
+852,alternate-service-text,"A shuttle bus will be available to transport customers between Massachusetts Avenue and Back Bay. To exit, exit the train at Back Bay and find station personnel or use a station call box to request the shuttle bus to Massachusetts Avenue. To board, find station personnel or use a station call box at Massachusetts Avenue to request the shuttle bus to Back Bay."
 852,excludes-stop,door-masta-camden
 852,excludes-stop,door-masta-corridor
 852,excludes-stop,door-masta-main
@@ -8466,7 +8467,7 @@ facility_id,property_id,value
 852,excludes-stop,node-masta-unpramp-lobby
 852,excludes-stop,node-masta-unpstair-exit
 852,excludes-stop,node-masta-unpstair-lobby
-853,alternate-service-text,"If exiting, exit the Orange Line at Mass Ave and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Back Bay to request assistance."
+853,alternate-service-text,"A shuttle bus will be available to transport customers between Back Bay and Massachusetts Avenue. To exit, exit the train at Massachusetts Avenue and find station personnel or use a station call box to request the shuttle bus to Back Bay. To board, find station personnel or use a station call box at Back Bay to request the shuttle bus to Massachusetts Avenue."
 853,excludes-stop,23391
 853,excludes-stop,Back Bay
 853,excludes-stop,Back Bay-01
@@ -8534,7 +8535,7 @@ facility_id,property_id,value
 853,excludes-stop,node-bbsta-upper-fareunpaid
 853,excludes-stop,node-bbsta-w57stairs-lobby
 853,excludes-stop,node-bbsta-w57stairs-platform
-854,alternate-service-text,"Please contact station personnel or conductor for assistance. Alternatively, please board at South Station."
+854,alternate-service-text,"To exit, exit the train at Ruggles or Forest Hills, then take an Oak Grove-bound train to Back Bay and use Back Bay Elevator 853. To board the Commuter Rail, use Back Bay Elevator 853 to access the Orange Line platform, then take a Forest Hills-bound train to Ruggles or Forest Hills and transfer to the Commuter Rail. Alternatively, board or exit Commuter Rail trains at South Station. Please see station personnel or a train conductor for assistance. In addition, check the Commuter Rail train schedules for train arrival/departure times at Ruggles and Forest Hills by visiting mbta.com/schedules."
 854,excludes-stop,23391
 854,excludes-stop,70014
 854,excludes-stop,70015
@@ -8603,7 +8604,7 @@ facility_id,property_id,value
 854,excludes-stop,node-bbsta-upper-fareunpaid
 854,excludes-stop,node-bbsta-w57stairs-lobby
 854,excludes-stop,node-bbsta-w57stairs-platform
-855,alternate-service-text,"Please contact station personnel official or conductor for assistance. Alternatively, please board at South Station."
+855,alternate-service-text,"To exit, exit the train at Ruggles or Forest Hills, then take an Oak Grove-bound train to Back Bay and use Back Bay Elevator 853. To board the Commuter Rail, use Back Bay Elevator 853 to access the Orange Line platform, then take a Forest Hills-bound train to Ruggles or Forest Hills and transfer to the Commuter Rail. Alternatively, board or exit Commuter Rail trains at South Station. Please see station personnel or a train conductor for assistance. In addition, check the Commuter Rail train schedules for train arrival/departure times at Ruggles and Forest Hills by visiting mbta.com/schedules."
 855,excludes-stop,23391
 855,excludes-stop,70014
 855,excludes-stop,70015
@@ -8672,7 +8673,7 @@ facility_id,property_id,value
 855,excludes-stop,node-bbsta-upper-fareunpaid
 855,excludes-stop,node-bbsta-w57stairs-lobby
 855,excludes-stop,node-bbsta-w57stairs-platform
-856,alternate-service-text,"Please contact station personnel or conductor for assistance. Alternatively, please board at South Station."
+856,alternate-service-text,"To exit, exit the train at Ruggles or Forest Hills, then take an Oak Grove-bound train to Back Bay and use Back Bay Elevator 853. To board the Commuter Rail, use Back Bay Elevator 853 to access the Orange Line platform, then take a Forest Hills-bound train to Ruggles or Forest Hills and transfer to the Commuter Rail. Alternatively, board or exit Commuter Rail trains at South Station. Please see station personnel or a train conductor for assistance. In addition, check the Commuter Rail train schedules for train arrival/departure times at Ruggles and Forest Hills by visiting mbta.com/schedules."
 856,excludes-stop,23391
 856,excludes-stop,70014
 856,excludes-stop,70015
@@ -8741,7 +8742,7 @@ facility_id,property_id,value
 856,excludes-stop,node-bbsta-upper-fareunpaid
 856,excludes-stop,node-bbsta-w57stairs-lobby
 856,excludes-stop,node-bbsta-w57stairs-platform
-857,alternate-service-text,"If exiting, exit the Orange Line at Back Bay and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Tufts Medical Center to request assistance. Alternatively, travel to nearby Chinatown Station."
+857,alternate-service-text,"A shuttle bus will be available to transport customers between Tufts Medical Center and Back Bay. To exit, exit the train at Back Bay and find station personnel or use a station call box to request the shuttle bus to Tufts Medical Center. To board, find station personnel or use a station call box at Tufts Medical Center to request the shuttle bus to Back Bay. Alternatively, cross Washington St, then take a Silver Line SL4 or SL5 bus to Washington St and Essex St (Chinatown Station)."
 857,excludes-stop,door-tumnl-tremont
 857,excludes-stop,node-145-lobby
 857,excludes-stop,node-146-lobby
@@ -8771,7 +8772,7 @@ facility_id,property_id,value
 857,excludes-stop,node-tumnl-washsbstairs-lobby
 857,excludes-stop,node-tumnl-washsbstairs-platform
 857,excludes-stop,node-tumnl-washstairs-lobby
-858,alternate-service-text,"If exiting, exit the Orange Line at Back Bay and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Tufts Medical Center to request assistance. Alternatively, travel to nearby Chinatown Station."
+858,alternate-service-text,"A shuttle bus will be available to transport customers between Tufts Medical Center and Back Bay. To exit, exit the train at Back Bay and find station personnel or use a station call box to request the shuttle bus to Tufts Medical Center. To board, find station personnel or use a station call box at Tufts Medical Center to request the shuttle bus to Back Bay. Alternatively, use Tufts Medical Center Elevator 858 to access the Forest Hills platform. Take an Forest Hills-bound train to Back Bay and transfer to an Oak Grove-bound train."
 858,excludes-stop,70016
 858,excludes-stop,door-tumnl-tremont
 858,excludes-stop,node-145-lobby
@@ -8802,7 +8803,7 @@ facility_id,property_id,value
 858,excludes-stop,node-tumnl-washsbstairs-lobby
 858,excludes-stop,node-tumnl-washsbstairs-platform
 858,excludes-stop,node-tumnl-washstairs-lobby
-859,alternate-service-text,"If exiting, exit the Orange Line at Back Bay and see station personnel for or use the call box to request assistance. If boarding, see station personnel or use the call box at Tufts Medical Center to request assistance. Alternatively, travel to nearby Chinatown Station."
+859,alternate-service-text,"A shuttle bus will be available to transport customers between Tufts Medical Center and Back Bay. To exit, exit the train at Back Bay and find station personnel or use a station call box to request the shuttle bus to Tufts Medical Center. To board, find station personnel or use a station call box at Tufts Medical Center to request the shuttle bus to Back Bay. Alternatively, cross Washington St, then take a Silver Line SL4 or SL5 bus to Washington St and Essex St (Chinatown Station)."
 859,excludes-stop,70017
 859,excludes-stop,door-tumnl-tremont
 859,excludes-stop,node-145-lobby
@@ -8833,7 +8834,7 @@ facility_id,property_id,value
 859,excludes-stop,node-tumnl-washsbstairs-lobby
 859,excludes-stop,node-tumnl-washsbstairs-platform
 859,excludes-stop,node-tumnl-washstairs-lobby
-860,alternate-service-text,"If exiting at Central Square, exit the Red Line at Harvard Square, switch to an Ashmont-/Braintree-bound train, and exit at Central Square. If boarding at Central Square, take the Route 1 bus service to Harvard Square and board the Red Line."
+860,alternate-service-text,"To exit, exit the train at Harvard, then take an Ashmont or Braintree-bound train to Central and use Central Elevator 861. To board, cross Mass Ave to the Route 1 bus stop at Mass Ave and Prospect St, and take a Route 1 (Harvard) bus to Harvard to access the Red Line."
 860,excludes-stop,70069
 860,excludes-stop,door-cntsq-essex
 860,excludes-stop,door-cntsq-obmass
@@ -8862,7 +8863,7 @@ facility_id,property_id,value
 860,excludes-stop,node-cntsq-westernstair-farepaid
 860,excludes-stop,node-cntsq-westernstair-fareunpaid
 860,excludes-stop,node-cntsq-westernstair-platform
-861,alternate-service-text,"If exiting at Central Square, exit the Red Line at Harvard Square and take the Route 1 bus service to Central Square. Alternatively, exit at Kendall, take an Alewife-bound train to Central Square, and exit using Central Square Elevator 860. If boarding at Central Square, cross the street and take Elevator 860 to the Alewife-bound platform. Take the Red Line to Harvard Square and switch to an Ashmont-/Braintree-bound train."
+861,alternate-service-text,"To exit, exit the train at Harvard, then proceed to the Route 1 bus stop at Mass Ave and Holyoke St, and take a Route 1 (Dudley) bus to Mass Ave and Pearl St (Central). Alternatively, exit the train at Kendall/MIT and take an Alewife-bound train to Central, and use Central Elevator 860. To board, cross Mass Ave and use Central Elevator 860 to access the Alewife platform. Take an Alewife-bound train to Harvard and transfer to an Ashmont or Braintree-bound train."
 861,excludes-stop,70070
 861,excludes-stop,door-cntsq-essex
 861,excludes-stop,door-cntsq-obmass
@@ -8891,7 +8892,7 @@ facility_id,property_id,value
 861,excludes-stop,node-cntsq-westernstair-farepaid
 861,excludes-stop,node-cntsq-westernstair-fareunpaid
 861,excludes-stop,node-cntsq-westernstair-platform
-863,alternate-service-text,"If exiting at Kendall, exit the Red Line at Charles/MGH, switch to an Alewife train, and exit at Kendall using Kendall Elevator 866. If boarding at Kendall, cross the street and use Kendall Elevator 866 to board an Alewife-bound train to Harvard Square. At Harvard Square, board an Ashmont-/Braintree-bound Red Line train. Alternatively, take the Route 68 bus connecting Harvard Square and Kendall."
+863,alternate-service-text,"To exit, exit the train Charles/MGH, then take an Alewife-bound train to Kendall/MIT and use Kendall/MIT Elevator 866. To board, cross Main St and use Kendall/MIT Elevator 866 to access the Alewife platform. Take an Alewife-bound train to Harvard, then transfer to an Ashmont or Braintree-bound train. Alternatively, take a Route 68 bus to Harvard to access the Red Line."
 863,excludes-stop,70072
 863,excludes-stop,door-knncl-nbmain
 863,excludes-stop,door-knncl-nbsecond
@@ -8920,7 +8921,7 @@ facility_id,property_id,value
 863,excludes-stop,node-knncl-sbmain-fareunpaid
 863,excludes-stop,node-knncl-sbsec-farepaid
 863,excludes-stop,node-knncl-sbsec-fareunpaid
-864,alternate-service-text,"If exiting, exit the train on the left and use Wellington Elevator 865 on the Forest Hills-bound platform. If boarding, use Wellington Elevator 865 to the Forest Hills platform. As you exit the elevator at the platform level, turn right to board an Oak Grove-bound train."
+864,alternate-service-text,"To exit, exit the left side of the train onto the center platform and use Wellington Elevator 865. To board, use Wellington Elevator 865 to access the center platform."
 864,excludes-stop,5271
 864,excludes-stop,70032
 864,excludes-stop,70033
@@ -8945,7 +8946,7 @@ facility_id,property_id,value
 864,excludes-stop,node-welln-skyelev-bridge
 864,excludes-stop,node-welln-skyentry
 864,excludes-stop,node-welln-skystairs-bridge
-865,alternate-service-text,"If exiting, exit the train and at the opposite side of the platform, wait for an Oak Grove train to arrive. Cross through the train to the opposite platform and use Wellington Elevator 864 to reach lobby.\nIf boarding, please use Wellington Elevator 864 to the Oak Grove-bound platform and cross to the Forest Hills platform through an Oak Grove train."
+865,alternate-service-text,"To exit when traveling on a Forest Hills-bound train, exit onto the center platform and wait for an Oak Grove train to arrive. When the train arrives, cross through the train over to the opposite platform and use Wellington Elevator 864. To exit the train when traveling on an Oak Grove-bound train, exit the right side of the train onto the Oak Grove platform and use Wellington Elevator 864. To board a Forest Hills-bound train, use Wellington Elevator 864 to access the Oak Grove platform, then wait for an Oak Grove-bound train to arrive. When the train arrives, cross through the train over to the center platform."
 865,excludes-stop,5271
 865,excludes-stop,70033
 865,excludes-stop,door-welln-busway
@@ -8969,7 +8970,7 @@ facility_id,property_id,value
 865,excludes-stop,node-welln-skyelev-bridge
 865,excludes-stop,node-welln-skyentry
 865,excludes-stop,node-welln-skystairs-bridge
-866,alternate-service-text,"If exiting at Kendall, exit the Red Line at Harvard Square, take an Ashmont-/Braintree-bound Red Line train to Kendall, and exit using Kendall Elevator 863. If boarding at Kendall, cross street and use Kendall Elevator 863 to board an Ashmont-/Braintree-bound train to Charles/MGH. At Charles/MGH, board an Alewife-bound Red Line train."
+866,alternate-service-text,"To exit, exit the train Harvard, then take an Ashmont or Braintree-bound train to Kendall/MIT and use Kendall/MIT Elevator 863. To board, cross Main St and use Kendall/MIT Elevator 863 to access the Ashmont/Braintree platform. Take an Ashmont or Braintree-bound train to Charles/MGH, then transfer to an Alewife-bound train."
 866,excludes-stop,70071
 866,excludes-stop,door-knncl-nbsecond
 866,excludes-stop,door-knncl-sbmain
@@ -8998,7 +8999,7 @@ facility_id,property_id,value
 866,excludes-stop,node-knncl-sbmain-fareunpaid
 866,excludes-stop,node-knncl-sbsec-farepaid
 866,excludes-stop,node-knncl-sbsec-fareunpaid
-867,alternate-service-text,Customers desiring elevator service at Broadway must continue to Andrew and see station personnel for further assistance. Customers desiring elevator service to enter the station should use the call box for further assistance.
+867,alternate-service-text,"A shuttle bus will be available to transport customers between Broadway and Andrew. To exit, exit the train at Andrew and find station personnel or use a station call box to request the shuttle bus to Broadway. To board, find station personnel or use a station call box at Broadway to request the shuttle bus to Andrew."
 867,excludes-stop,door-brdwy-traveler
 867,excludes-stop,node-367-lobby
 867,excludes-stop,node-367-platform
@@ -9012,7 +9013,7 @@ facility_id,property_id,value
 867,excludes-stop,node-brdwy-platstairs-lobby
 867,excludes-stop,node-brdwy-platstairs-platform
 867,excludes-stop,node-brdwy-travelerstairs-lobby
-868,alternate-service-text,Customers desiring elevator service at Broadway must continue to Andrew and see station personnel for further assistance. Customers desiring elevator service to enter the station should use the call box for further assistance.
+868,alternate-service-text,"A shuttle bus will be available to transport customers between Broadway and Andrew. To exit, exit the train at Andrew and find station personnel or use a station call box to request the shuttle bus to Broadway. To board, find station personnel or use a station call box at Broadway to request the shuttle bus to Andrew."
 868,excludes-stop,door-brdwy-traveler
 868,excludes-stop,node-367-lobby
 868,excludes-stop,node-367-platform
@@ -9026,7 +9027,7 @@ facility_id,property_id,value
 868,excludes-stop,node-brdwy-platstairs-lobby
 868,excludes-stop,node-brdwy-platstairs-platform
 868,excludes-stop,node-brdwy-travelerstairs-lobby
-869,alternate-service-text,"If exiting, travel to the north end of the platform to the Orange Line-Red Line passageway and use Downtown Crossing Elevator 998 or 999.  Both elevators will transport you to the paid fare area of the Orange Line Oak Grove-bound platform.\nIf entering, travel down the Downtown Crossing concourse to the Oak Grove-bound platform and use Downtown Crossing Elevator 998 or 999 located in the paid fare area.  Both elevators will transport you to Orange Line-Red Line passageway."
+869,alternate-service-text,"To exit, travel to the north end of the platform to the Orange Line-Red Line passageway and use Downtown Crossing Elevator 998 or 999 to access the Orange Line Oak Grove platform. To board the Red Line, travel down the Downtown Crossing Summer St concourse to the Orange Line Oak Grove platform and use Downtown Crossing Elevator 998 or 999 to access the Orange Line-Red Line passageway."
 869,excludes-stop,70020
 869,excludes-stop,70021
 869,excludes-stop,70077
@@ -9100,7 +9101,7 @@ facility_id,property_id,value
 869,excludes-stop,node-dwnxg-wintexitfare-unpaid
 869,excludes-stop,node-dwnxg-wintwashfare-paid
 869,excludes-stop,node-dwnxg-wintwashfare-unpaid
-870,alternate-service-text,"To exit the Red Line nearby, exit the train at Park Street using the center platform. Take the Park Street Elevator 808 to the lobby, take a left, and travel down the Winter Street Concourse toward the Orange Line. Exit through the fare gates and take Downtown Crossing Elevator 892 to the street.\nTo access Ashmont/Braintree Red Line service, take an Alewife train one stop to Park Street and exit on the left to transfer to Ashmont/Braintree service."
+870,alternate-service-text,"To exit, exit the train at Park Street onto the Red Line center platform and use Park Street Elevator 979 to access the Green Line westbound platform. At the Green Line platform, exit through the faregates and use Park Street Elevator 978 to access the Boston Common. To board the Red Line, take an Alewife-bound train to Park Street, exit onto the center platform, and transfer to an Ashmont/Braintree-bound train."
 870,excludes-stop,70020
 870,excludes-stop,70021
 870,excludes-stop,70078
@@ -9174,32 +9175,7 @@ facility_id,property_id,value
 870,excludes-stop,node-dwnxg-wintexitfare-unpaid
 870,excludes-stop,node-dwnxg-wintwashfare-paid
 870,excludes-stop,node-dwnxg-wintwashfare-unpaid
-871,alternate-service-text,810
-871,excludes-stop,32001
-871,excludes-stop,32002
-871,excludes-stop,32003
-871,excludes-stop,32004
-871,excludes-stop,32005
-871,excludes-stop,Quincy Center
-871,excludes-stop,door-qnctr-burgin
-871,excludes-stop,door-qnctr-busway
-871,excludes-stop,node-330-entrance
-871,excludes-stop,node-330-platform
-871,excludes-stop,node-810-entrance
-871,excludes-stop,node-810-platform
-871,excludes-stop,node-896-entrance
-871,excludes-stop,node-896-platform
-871,excludes-stop,node-qnctr-burgin-door
-871,excludes-stop,node-qnctr-center-lobby
-871,excludes-stop,node-qnctr-crstair-entrance
-871,excludes-stop,node-qnctr-crstair-platform
-871,excludes-stop,node-qnctr-elevfarepaid
-871,excludes-stop,node-qnctr-elevfareunpaid
-871,excludes-stop,node-qnctr-farepaid
-871,excludes-stop,node-qnctr-fareunpaid
-871,excludes-stop,node-qnctr-rdstair-entrance
-871,excludes-stop,node-qnctr-rdstair-platform
-872,alternate-service-text,Customers desiring elevator service at Andrew must exit at Broadway and see station personnel for further assistance. Customers desiring elevator service to enter the station should use the call box for further assistance.
+872,alternate-service-text,"A shuttle bus will be available to transport customers between Andrew and Broadway. To exit at Andrew, exit the train at Broadway and find station personnel or use a station call box to request the shuttle bus to Andrew. To board the Red Line, find station personnel or use a station call box to request the shuttle bus to Broadway."
 872,excludes-stop,13
 872,excludes-stop,door-andrw-busway
 872,excludes-stop,door-andrw-dotave
@@ -9229,7 +9205,7 @@ facility_id,property_id,value
 872,excludes-stop,node-andrw-slobbycenter
 872,excludes-stop,node-andrw-sobstairs-lobby
 872,excludes-stop,node-andrw-sobstairs-platform
-876,alternate-service-text,"If exiting, exit the Orange Line at Tufts Medical Center. Take the elevators to the street. At the street, cross Washington Street to take the Silver Line to Chinatown. Alternatively, if you are able, exit at Downtown Crossing and follow Washington Street one-quarter of a mile south to Boylston and Essex Streets. \nIf boarding, use Chinatown Elevator 922 and take the Forest Hills-bound train to Tufts Medical Center. At Tufts, switch to an Oak Grove-bound train."
+876,alternate-service-text,"To exit, exit the train at Tufts Medical Center and proceed to the Washington St exit. At street level, cross Washington St, then take a Silver Line SL4 or SL5 bus to Washington St and Essex St (Chinatown Station). Alternatively, if possible, travel 0.2 miles north on Washington St to Chinatown Station. To board, use Chinatown Elevator 922 to access the Forest Hills platform. Take an Forest Hills-bound train to Tufts Medical Center transfer to an Oak Grove-bound train."
 876,excludes-stop,70018
 876,excludes-stop,door-chncl-fhelevator
 876,excludes-stop,door-chncl-foresthills
@@ -9251,7 +9227,7 @@ facility_id,property_id,value
 876,excludes-stop,node-chncl-oglower-lobby
 876,excludes-stop,node-chncl-ogonlystair-lobby
 876,excludes-stop,node-chncl-ogupper-landing
-879,alternate-service-text,"If exiting the station, exit at JFK/UMass and switch to an Alewife-bound train. Use Andrew Elevator 880 to reach the lobby. If boarding at Andrew, take Andrew Elevator 880 to an Alewife-bound train. Exit at Broadway, cross the center platform, and board an Ashmont-/Braintree-bound train."
+879,alternate-service-text,"To exit, exit the train at JFK/UMass, then take an Alewife-bound train to Andrew and use Andrew Elevator 880. To board, use Andrew Elevator 880 to access the Alewife platform. Take an Alewife-bound train to Broadway, transfer to an Ashmont/Braintree-bound train."
 879,excludes-stop,13
 879,excludes-stop,70084
 879,excludes-stop,door-andrw-busway
@@ -9282,7 +9258,7 @@ facility_id,property_id,value
 879,excludes-stop,node-andrw-slobbycenter
 879,excludes-stop,node-andrw-sobstairs-lobby
 879,excludes-stop,node-andrw-sobstairs-platform
-880,alternate-service-text,"If exiting the station, exit at Broadway and switch to an Ashmont-/Braintree-bound train. Exit the train at Andrew and use Andrew Elevator 879 to reach the lobby. If boarding at Andrew, take Andrew Elevator 879 to an Ashmont/Braintree train. Exit at JFK/UMass and switch to an Alewife-bound train."
+880,alternate-service-text,"To exit, exit the train at Broadway, then take an Ashmont or Braintree-bound train to Andrew and use Andrew Elevator 879. To board, use Andrew Elevator 879 to access the Ashmont/Braintree platform. Take an Ashmont or Braintree-bound train to JFK/UMass, transfer to an Alewife-bound train."
 880,excludes-stop,13
 880,excludes-stop,70083
 880,excludes-stop,door-andrw-busway
@@ -9313,7 +9289,7 @@ facility_id,property_id,value
 880,excludes-stop,node-andrw-slobbycenter
 880,excludes-stop,node-andrw-sobstairs-lobby
 880,excludes-stop,node-andrw-sobstairs-platform
-881,alternate-service-text,"If exiting, please exit the train on the left (Forest Hills-bound platform) to access Sullivan Square Elevator 840. \nIf boarding, please use Sullivan Square Elevator 840 to the Forest Hills-bound platform. As you exit the elevator at the platform level, turn right to board an Oak Grove-bound train."
+881,alternate-service-text,"To exit, exit the left side of the train onto the center platform and use Sullivan Elevator 840. To board, use Sullivan Elevator 840 to access the center platform."
 881,excludes-stop,29001
 881,excludes-stop,29002
 881,excludes-stop,29003
@@ -9348,7 +9324,7 @@ facility_id,property_id,value
 881,excludes-stop,node-sull-nbstairs-platform
 881,excludes-stop,node-sull-sbstairs-lobby
 881,excludes-stop,node-sull-sbstairs-platform
-884,alternate-service-text,"If exiting, exit the Blue Line at Beachmont and switch to a Wonderland-bound train. Exit at Revere Beach using Revere Beach Elevator 885. If boarding, take Revere Beach Elevator 885 to Wonderland and switch to a Government Center-bound train."
+884,alternate-service-text,"To access Ocean Blvd from the pedestrian plaza, travel along the plaza towards the station and use Wonderland Elevator 710 to access the Wonderland outbound platform. At the platform, exit through the gate and continue along the pathway to Ocean Blvd. To access the pedestrian plaza from Ocean Blvd, travel south on Ocean Blvd for approximately 300 feet, then turn right at the Wonderland pathway. Proceed to the Wondeland platform and use Wonderland Elevator 710."
 884,excludes-stop,70058
 884,excludes-stop,door-rbmnl-beach
 884,excludes-stop,door-rbmnl-ocean
@@ -9370,7 +9346,7 @@ facility_id,property_id,value
 884,excludes-stop,node-rbmnl-shirleyfarepaid
 884,excludes-stop,node-rbmnl-shirleyfareunpaid
 884,excludes-stop,node-rbmnl-shirleystair
-885,alternate-service-text,"If exiting, exit the Blue Line at Wonderland and switch to a Government Center-bound train. Exit at Revere Beach using Revere Beach Elevator 884. If boarding, take Revere Beach Elevator 884 to Beachmont and switch to a Wonderland-bound train."
+885,alternate-service-text,"To exit, exit the train at Wonderland, then take a Bowdoin-bound train to Revere Beach and use Revere Beach Elevator 884. To board, use Revere Beach Elevator 884 to access the Bowdoin platform. Take a Bowdoin-bound train to Beachmont, then transfer to a Wonderland-bound train."
 885,excludes-stop,70057
 885,excludes-stop,door-rbmnl-beach
 885,excludes-stop,door-rbmnl-ocean
@@ -9392,7 +9368,7 @@ facility_id,property_id,value
 885,excludes-stop,node-rbmnl-shirleyfarepaid
 885,excludes-stop,node-rbmnl-shirleyfareunpaid
 885,excludes-stop,node-rbmnl-shirleystair
-886,alternate-service-text,"If on the Blue Line, exit at Suffolk Downs and to board a Wonderland-bound train to return to Beachmont. If boarding, take a Wonderland-bound Blue Line train to Revere Beach and use the footbridge to cross over the tracks to board a Government Center-bound train."
+886,alternate-service-text,"To exit, exit the train at Suffolk Downs, then take a Wonderland-bound train to Beachmont and use Beachmont Elevator 887. To board, use Beachmont Elevator 887 to access the Wonderland platform. Take a Wonderland-bound train to Revere Beach, then transfer to a Bowdoin-bound train."
 886,excludes-stop,70056
 886,excludes-stop,node-378-lobby
 886,excludes-stop,node-378-platform
@@ -9408,7 +9384,7 @@ facility_id,property_id,value
 886,excludes-stop,node-bmmnl-379stair-platform
 886,excludes-stop,node-bmmnl-farepaid
 886,excludes-stop,node-bmmnl-fareunpaid
-887,alternate-service-text,"If on the Blue Line, exit at Revere Beach and cross over the tracks to board a Government-Center-bound train to return to Beachmont. If boarding, take a Government Center-bound train to Suffolk Downs. At Suffolk Downs, cross over the tracks and board a Wonderland-bound train."
+887,alternate-service-text,"To exit, exit the train at Revere Beach, then take a Bowdoin-bound train to Beachmont and use Beachmont Elevator 886. To board, use Beachmont Elevator 886 to access the Bowdoin platform. Take a Bowdoin-bound train to Suffolk Downs, then transfer to a Wonderland-bound train."
 887,excludes-stop,70055
 887,excludes-stop,node-378-lobby
 887,excludes-stop,node-378-platform
@@ -9424,7 +9400,7 @@ facility_id,property_id,value
 887,excludes-stop,node-bmmnl-379stair-platform
 887,excludes-stop,node-bmmnl-farepaid
 887,excludes-stop,node-bmmnl-fareunpaid
-889,alternate-service-text,"If exiting, exit the Blue Line at Orient Heights and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Wood Island to request assistance. Alternatively, use the Route 120 bus service to connect between Wood Island and Orient Heights."
+889,alternate-service-text,"To access the Wonderland platform or Lovell St from the Bowdoin platform, take a Bowdoin-bound train to Airport, then transfer to a Wonderland-bound train and exit at Wood Island. To access the Bowdoin platform or Bennington St busway from the Wonderland platform, take a Wonderland-bound train to Orient Heights, then transfer to a Bowdoin-bound train and exit at Wood Island."
 889,excludes-stop,5666
 889,excludes-stop,70050
 889,excludes-stop,door-wimnl-benning
@@ -9452,7 +9428,7 @@ facility_id,property_id,value
 889,excludes-stop,node-wimnl-obpaidstairs-platform
 889,excludes-stop,node-wimnl-obunpaidstairs-bridge
 889,excludes-stop,node-wimnl-obunpaidstairs-street
-890,alternate-service-text,"If exiting, exit the Blue Line at Orient Heights and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Wood Island to request assistance. Alternatively, use the Route 120 bus service to connect between Wood Island and Orient Heights."
+890,alternate-service-text,"To access the Bowdoin platform or Bennington St busway from the Wonderland platform, take a Wonderland-bound train to Orient Heights, then transfer to a Bowdoin-bound train and exit at Wood Island. To access the Wonderland platform or Lovell St from the Bowdoin platform, take a Bowdoin-bound train to Airport, then transfer to a Wonderland-bound train and exit at Wood Island."
 890,excludes-stop,5666
 890,excludes-stop,70049
 890,excludes-stop,door-wimnl-benning
@@ -9480,6 +9456,7 @@ facility_id,property_id,value
 890,excludes-stop,node-wimnl-obpaidstairs-platform
 890,excludes-stop,node-wimnl-obunpaidstairs-bridge
 890,excludes-stop,node-wimnl-obunpaidstairs-street
+891,alternate-service-text,"To exit, travel down the Summer St concourse towards the Charlie Card Store and Red Line, then turn left through the set of glass doors located next to the Charlie Card Store. Continue to the elevator that connects to the 101 Arch St lobby, then proceed to the Summer St exit. To board, travel to 101 Arch St on Summer St (across from Macy's) and use the elevator located in the rear-left corner of the lobby of access the Summer St concourse. At the concourse, turn right and proceed to the Oak Grove platform."
 891,excludes-stop,70020
 891,excludes-stop,70021
 891,excludes-stop,70077
@@ -9557,7 +9534,7 @@ facility_id,property_id,value
 891,excludes-stop,node-dwnxg-wintexitfare-unpaid
 891,excludes-stop,node-dwnxg-wintwashfare-paid
 891,excludes-stop,node-dwnxg-wintwashfare-unpaid
-892,alternate-service-text,"If exiting, travel down the Winter Street Concourse. Take Park Street Elevator 804 on your left to the street. \nIf boarding, take Park Street Elevator 804 (located at the intersection of Winter Street and Tremont Street) down to the lobby. Take a right and travel down the Winter Street Concourse."
+892,alternate-service-text,"To exit, travel up the Winter St concourse towards Park Street. At the end of the concourse, exit through the faregate and use Park Street Elevator 804 to access the corner of Tremont St and Winter St. To board, travel up Winter St towards the Boston Common to the corner of Tremont St and Winter St and use Park Street Elevator 804 to access the Winter St concourse. At the concourse, turn right and proceed to the Forest Hills platform."
 892,excludes-stop,door-dwnxg-101arch
 892,excludes-stop,door-dwnxg-chauncy
 892,excludes-stop,door-dwnxg-franklin
@@ -9632,7 +9609,7 @@ facility_id,property_id,value
 892,excludes-stop,node-dwnxg-wintexitfare-unpaid
 892,excludes-stop,node-dwnxg-wintwashfare-paid
 892,excludes-stop,node-dwnxg-wintwashfare-unpaid
-896,alternate-service-text,"Customers coming from South Station or JFK/UMass should use the Red Line. \nFor customers coming from the Old Colony Lines, please contact the conductor to arrange a stop at Braintree. At Braintree, customers may transfer to the Red Line for Alewife-bound service to Quincy Center. Please contact station personnel for assistance."
+896,alternate-service-text,"To exit when traveling from South Station or JFK/UMass, take a Braintree-bound Red Line train to Quincy Center and use Quincy Center Elevator 810. To exit when traveling inbound on the Middleboro, Kingston or Greenbush Line, notify a Commuter Rail conductor as soon as possible so arrangements can be made for the train to stop at Braintree. At Braintree, take an Alewife-bound Red Line train to Quincy Center and use Quincy Center Elevator 810. Please contact station personnel for assistance. To board the Commuter Rail, take a Braintree-bound Red Line train to Braintree, then transfer to a Middleboro, Kingston or Greenbush Line train.  Alternatively, if traveling to South Station or JFK/UMass, take an Alewife-bound Red Line train."
 896,excludes-stop,32001
 896,excludes-stop,32002
 896,excludes-stop,32003
@@ -9692,7 +9669,7 @@ facility_id,property_id,value
 897,excludes-stop,node-nqncy-sfareunpaid
 897,excludes-stop,node-nqncy-spstair-lobby
 897,excludes-stop,node-nqncy-spstair-platform
-898,alternate-service-text,"Customers desiring to enter and exit the station can utilize North Quincy Elevator 897 (Hancock Street parking to north lobby). For assistance traveling around the station, use the call box or see station personnel."
+898,alternate-service-text,"To exit, use North Quincy Elevator 900 to access the main lobby at West Squantum St. Upon exiting the main lobby, turn right onto West Squantum St, then turn right on the ramp to Newport Ave Extension. Continue for approx. 900 feet to the Newport Ave parking lot entrance. To board, exit the Newport Ave parking lot, turn left and travel approx. 900 ft. along Newport Ave Extension and up the ramp to West Squantum St. At West Squantum St, turn left and continue to the North Quincy main entrance and use North Quincy Elevator 900. See station personnel or use a station call box to request assistance."
 898,excludes-stop,3125
 898,excludes-stop,door-nqncy-hancock
 898,excludes-stop,door-nqncy-squantum
@@ -9793,7 +9770,7 @@ facility_id,property_id,value
 900,excludes-stop,node-nqncy-sfareunpaid
 900,excludes-stop,node-nqncy-spstair-lobby
 900,excludes-stop,node-nqncy-spstair-platform
-901,alternate-service-text,"To exit to the street or reach the platforms, customers can use South Station Elevator 918 in the lobby."
+901,alternate-service-text,"To exit the Red Line, use nearby South Station Elevator 918. To exit the Silver Line, take South Station Elevator 927 to the Alewife platform, then take South Station Elevator 919 to the Airport/Design Center/Chelsea platform. At the Silver Line platform, use South Station Elevator 918 to access the lobby. To board the Red Line, use South Station Elevator 918 located on the opposide side of the lobby."
 901,excludes-stop,South Station
 901,excludes-stop,South Station-01
 901,excludes-stop,South Station-02
@@ -9902,7 +9879,7 @@ facility_id,property_id,value
 901,excludes-stop,node-sstat-reservestair-lobby
 901,excludes-stop,node-sstat-south-farepaid
 901,excludes-stop,node-sstat-south-fareunpaid
-903,alternate-service-text,"If exiting the station, take elevator 906, turn right, and take elevator 905 to the Oak Grove platform. \nIf boarding from the street, use Elevator 904 to the Forest Hills platform, then elevators 905 and 906 to cross under the Orange Line tracks."
+903,alternate-service-text,"To exit, take Haymarket Elevator 907 to the Orange Line underpass, then proceed to the end of the hallway and use Haymarket Elevator 906 to access the Green Line platform. At the Green Line platform, turn right and proceed to the lobby and use Haymarket Elevator 908 to access the busway. To board the Orange Line, take Haymarket Elevator 904 to the Forest Hills platform, then proceed to the end of the platform and use Haymarket Elevator 905 to access the Orange Line underpass. At the underpass, use Haymarket Elevator 907 to access the Oak Grove platform."
 903,excludes-stop,70024
 903,excludes-stop,8310
 903,excludes-stop,door-haecl-busway
@@ -9947,7 +9924,7 @@ facility_id,property_id,value
 903,excludes-stop,node-haecl-passfhstair-platform
 903,excludes-stop,node-haecl-passogstair-passage
 903,excludes-stop,node-haecl-passogstair-platform
-904,alternate-service-text,"If exiting, take elevator 905, then turn right to reach Haymarket Elevator 906. Take 906 to the sub level, exit fare gates, and use elevator 908 to exit to the street. \nIf boarding, use Haymarket Elevator 903 to the Oak Grove platform, then 907 to cross under the Orange Line tracks, then 905 to reach the platform."
+904,alternate-service-text,"To exit, take Haymarket Elevator 905 to the Orange Line underpass, then proceed to the end of the hallway and use Haymarket Elevator 906 to access the Green Line platform. At the Green Line platform, turn right and proceed to the lobby and use Haymarket Elevator 908 to access the busway. To board the Orange Line, take Haymarket Elevator 903 to the Oak Grove platform, then proceed to the end of the platform and use Haymarket Elevator 907 to access the Orange Line underpass.  At the underpass, use Haymarket Elevator 905 to access the Forest Hills platform."
 904,excludes-stop,70025
 904,excludes-stop,8310
 904,excludes-stop,door-haecl-busway
@@ -9992,7 +9969,7 @@ facility_id,property_id,value
 904,excludes-stop,node-haecl-passfhstair-platform
 904,excludes-stop,node-haecl-passogstair-passage
 904,excludes-stop,node-haecl-passogstair-platform
-905,alternate-service-text,"If exiting, please use Haymarket Elevator 904 to go up to the lobby at Congress Street. If you are transferring to the Green Line, take Haymarket Elevator 904 up to the lobby. At the lobby, take Haymarket Elevator 903 down to the Oak Grove platform. Exit to the right and travel to the end of the platform to use Haymarket Elevator 907 to cross under the Orange Line tracks. Upon exiting Haymarket Elevator 907, turn right and proceed to Haymarket Elevator 906 to reach the Green Line platform."
+905,alternate-service-text,"To board or exit, use Haymarket Elevator 904 to travel between the Forest Hills platform and the Congress St. lobby. To transfer to the Green Line, take Haymarket Elevator 904 to the Congress St lobby, then use Haymarket Elevator 903 to access the Oak Grove platform. At the Oak Grove platform, proceed to the end of platform and take Haymarket Elevator 907 to the Orange Line underpass, then proceed to the end of the hallway and use Haymarket Elevator 906 to access the Green Line platform."
 905,excludes-stop,70025
 905,excludes-stop,8310
 905,excludes-stop,door-haecl-busway
@@ -10037,7 +10014,7 @@ facility_id,property_id,value
 905,excludes-stop,node-haecl-passfhstair-platform
 905,excludes-stop,node-haecl-passogstair-passage
 905,excludes-stop,node-haecl-passogstair-platform
-906,alternate-service-text,"If boarding/exiting the Green Line, use Haymarket Elevator 908 at the New Sudbury and New Chardon Streets entrance to enter the Green Line. If boarding/exiting the Orange Line, use Elevators 903 or 904 at the Congress Street entrance."
+906,alternate-service-text,"To board or exit the Green Line, use Haymarket Elevator 908 to travel between the Green Line lobby and the busway located at Sudbury St and New Chardon St. To board or exit the Orange Line, use Elevators 903 (Oak Grove platform) or 904 (Forest Hills platform) to access the Congress St lobby."
 906,excludes-stop,8310
 906,excludes-stop,door-haecl-busway
 906,excludes-stop,door-haecl-congress
@@ -10081,7 +10058,7 @@ facility_id,property_id,value
 906,excludes-stop,node-haecl-passfhstair-platform
 906,excludes-stop,node-haecl-passogstair-passage
 906,excludes-stop,node-haecl-passogstair-platform
-907,alternate-service-text,"If exiting, please use Haymarket Elevator 903 to go up to the lobby at Congress Street. \nIf you are transferring to the Green Line, take Haymarket Elevator 903 up to the lobby. At the lobby, take Haymarket Elevator 904 down to the Forest Hills platform. Exit to the left and travel to the end of the platform to use Haymarket Elevator 905 up to the sub level to exit. Turn right and proceed to Haymarket Elevator 906 to reach the Green Line platform."
+907,alternate-service-text,"To board or exit, use Haymarket Elevator 903 to travel between the Oak Grove platform and the Congress St lobby. To transfer to the Green Line, take Haymarket Elevator 903 to the Congress St lobby, then use Haymarket Elevator 904 to access the Forest Hills platform. At the Forest Hills platform, proceed to the end of platform and take Haymarket Elevator 905 to the Orange Line underpass, then proceed to the end of the hallway and use Haymarket Elevator 906 to access the Green Line platform."
 907,excludes-stop,70024
 907,excludes-stop,8310
 907,excludes-stop,door-haecl-busway
@@ -10126,7 +10103,7 @@ facility_id,property_id,value
 907,excludes-stop,node-haecl-passfhstair-platform
 907,excludes-stop,node-haecl-passogstair-passage
 907,excludes-stop,node-haecl-passogstair-platform
-908,alternate-service-text,"If exiting the Green Line, take elevator 906 down, then elevator 905 up, and elevator 904 to the exit.\nIf boarding use the Orange Line lobby at Congress Street."
+908,alternate-service-text,"To exit the Green Line, take Haymarket Elevator 906 to the Orange Line underpass, then proceed to Haymarket Elevator 905 to access the Forest Hills platform. At the Forest Hills platform, use Haymarket Elevator 904 for access the Congress St lobby. To board the Green Line, travel to the intersection of New Sudbury St and Congress St, and turn left on Congress St. Proceed on Congress St to the Congress St lobby and use Haymarket Elevator 903 to access the Oak Groves platform. At the Oak Grove platform, proceed to the end of platform and take Haymarket Elevator 907 to the Orange Line underpass, then proceed to the end of the hallway and use Haymarket Elevator 906 to access the Green Line platform. To board or exit the Orange Line, use Elevators 903 (Oak Grove platform) or 904 (Forest Hills platform) to access the Congress St lobby."
 908,excludes-stop,70024
 908,excludes-stop,70025
 908,excludes-stop,8310
@@ -10172,7 +10149,7 @@ facility_id,property_id,value
 908,excludes-stop,node-haecl-passfhstair-platform
 908,excludes-stop,node-haecl-passogstair-passage
 908,excludes-stop,node-haecl-passogstair-platform
-909,alternate-service-text,"If exiting, travel along the Green Line platform to reach the main station lobby. Once there, pass through the fare gates. Turn right to use North Station Elevator 912 (lobby to Haverhill Street and Causeway Street) located adjacent to the fare gates. Alternatively, continue down the passageway towards the Commuter Rail to reach North Station Elevator 731 (passageway to Commuter Rail and TD Garden).\nIf boarding, travel one-tenth of a mile down Canal or Beverly Streets to the North Station entrances on Causeway Street."
+909,alternate-service-text,"To exit, travel along the Green Line platform to the main lobby and use North Station Elevator 912 located on the unpaid side of the faregates. Alternatively, from the main lobby, proceeed up the passageway (to TD Garden) and use North Station Elevator 731. To board, travel north along Haverhill St towards Causeway St and use North Station Elevator 912 located at the corner of Haverhill St and Causeway St. "
 909,excludes-stop,North Station
 909,excludes-stop,North Station-01
 909,excludes-stop,North Station-02
@@ -10190,7 +10167,7 @@ facility_id,property_id,value
 909,excludes-stop,door-north-crcauseway
 909,excludes-stop,door-north-crnashua
 909,excludes-stop,door-north-tdgarden
-910,alternate-service-text,"If exiting, exit the train to Haymarket and return to North Station on an Oak Grove- (Orange Line) or Lechmere-/North Station- (Green Line) bound train. Alternatively, customers may exit at Haymarket, cross New Chardon Street, and travel three-tenths of a mile down Canal Street to North Station at Causeway Street."
+910,alternate-service-text,"To exit, exit the train at Haymarket and take an Orange Line Oak Grove-bound train or a Green Line North Station/Lechmere-bound train to North Station and use North Station Elevator 911. To board, use North Station Elevator to access the Oak Grove platform. Take an Oak Grove-bound train to Community College, then transfer to a Forest Hills-bound train. For customers seeking to board a Green Line Copley/Westbound train, exit at the North Station Forest Hills platform and proceed to the Copley and West platform."
 910,excludes-stop,70027
 910,excludes-stop,70205
 910,excludes-stop,North Station
@@ -10210,7 +10187,7 @@ facility_id,property_id,value
 910,excludes-stop,door-north-crnashua
 910,excludes-stop,door-north-tdgarden
 910,excludes-stop,door-north-valenti
-911,alternate-service-text,"If exiting, take the Orange Line to Community College and return to North Station on a Forest Hills-bound train and exit using North Station Elevator 910. If boarding, use North Station Elevator 910 to board a Forest Hills-bound train. At Haymarket, switch to an Oak Grove-bound train. \nAlternatively, customers may exit at Haymarket, cross New Chardon Street, and travel three-tenths of a mile down Canal Street to North Station at Causeway Street."
+911,alternate-service-text,"To exit, exit the train at Community College, then take a Forest Hills-bound train to North Station and use North Station Elevator 910. To board, use North Station Elevator 910 to access the Forest Hills platform, then take a Forest Hills-bound train to Haymarket. At Haymarket, proceed to the end of the platform and use Haymarket Elevator 905 to access the Orange Line underpass, then use Haymarket Elevator 907 to access the Oak Grove platform."
 911,excludes-stop,70026
 911,excludes-stop,70205
 911,excludes-stop,70206
@@ -10231,7 +10208,7 @@ facility_id,property_id,value
 911,excludes-stop,door-north-crnashua
 911,excludes-stop,door-north-tdgarden
 911,excludes-stop,door-north-valenti
-912,alternate-service-text,"If exiting, travel down the passageway toward the Commuter Rail and use North Station Elevator 731 (passageway to Causeway Street). Alternatively, pass through the fare gates and walk the full length of the Green Line platform to reach the opposite lobby at Valenti Way. At this lobby, use North Station Elevator 909 (lobby to Valenti Way) to reach the street level. If boarding, cross Causeway Street to use North Station Elevator 731 to reach the lobby."
+912,alternate-service-text,"To exit, proceed up the passageway (to TD Garden) and use North Station Elevator 731 to access Causeway St. Alternatively, pass through the fare gates and walk the full length of the Green Line platform to reach the opposite lobby at Valenti Way. At this lobby, use North Station Elevator 909 (lobby to Valenti Way) to reach the street level. To board, cross Causeway St and use North Station Elevator 731 to access the passageway and lobby. Alternatively, enter the main TD Garden entrance, turn right and use North Station Elevator 732 to access the passageway."
 912,excludes-stop,North Station
 912,excludes-stop,North Station-01
 912,excludes-stop,North Station-02
@@ -10249,7 +10226,7 @@ facility_id,property_id,value
 912,excludes-stop,door-north-crnashua
 912,excludes-stop,door-north-tdgarden
 912,excludes-stop,door-north-valenti
-913,alternate-service-text,"If exiting, please use Aquarium Elevator 924 at the opposite end of the platform. If boarding, cross the Rose Kennedy Greenway and use the main entrance at the New England Aquarium and Long Wharf Marriot."
+913,alternate-service-text,"To exit, use Aquarium Elevator 924 located at the opposite end of the platform to access the Atlantic Ave lobby. To board, travel west along State St towards Long Wharf, then cross the Rose Kennedy Greenway.  Continue to the Aquarium Atlantic Ave entrance and use Aquarium Elevator 924 located on the rear side of the station headhouse."
 913,excludes-stop,70043
 913,excludes-stop,door-aqucl-atlantic
 913,excludes-stop,door-aqucl-atlanticelev
@@ -10295,7 +10272,7 @@ facility_id,property_id,value
 913,excludes-stop,node-aqucl-wbatlanticstairs-platform
 913,excludes-stop,node-aqucl-wbstatestairs-lobby
 913,excludes-stop,node-aqucl-wbstatestairs-platform
-914,alternate-service-text,"If exiting, please use Aquarium Elevator 923 at the opposite end of the platform. If boarding, cross the Rose Kennedy Greenway and use the station elevator at the main entrance near the New England Aquarium and Long Wharf Marriot."
+914,alternate-service-text,"To exit, use Aquarium Elevator 923 located at the opposite end of the platform to access the Atlantic Ave lobby. To board, travel west along State St towards Long Wharf, then cross the Rose Kennedy Greenway.  Continue to the Aquarium Atlantic Ave entrance and use Aquarium Elevator 925 located on the rear side of the station headhouse."
 914,excludes-stop,70044
 914,excludes-stop,door-aqucl-atlantic
 914,excludes-stop,door-aqucl-atlanticelev
@@ -10341,7 +10318,7 @@ facility_id,property_id,value
 914,excludes-stop,node-aqucl-wbatlanticstairs-platform
 914,excludes-stop,node-aqucl-wbstatestairs-lobby
 914,excludes-stop,node-aqucl-wbstatestairs-platform
-915,alternate-service-text,"If exiting, use Aquarium Elevator 925 in the main lobby at Long Wharf by traveling to the opposite end of the platform. If boarding, cross the Rose Kennedy Greenway and use the opposite Aquarium entrance."
+915,alternate-service-text,"To exit, use Aquarium Elevator 924 (Wonderland platform) or Aquarium Elevator 923 (Bowdoin platform) located at the opposite end of the platform to access the Atlantic Ave lobby, then use Aquarium Elevator 925 to access Long Wharf.n/To board, travel west along State St towards Long Wharf, then cross the Rose Kennedy Greenway.  Continue to the Aquarium Atlantic Ave entrance and use Aquarium Elevator 925 located on the rear side of the station headhouse."
 915,excludes-stop,door-aqucl-atlantic
 915,excludes-stop,door-aqucl-atlanticelev
 915,excludes-stop,door-aqucl-mcknorth
@@ -10386,7 +10363,7 @@ facility_id,property_id,value
 915,excludes-stop,node-aqucl-wbatlanticstairs-platform
 915,excludes-stop,node-aqucl-wbstatestairs-lobby
 915,excludes-stop,node-aqucl-wbstatestairs-platform
-917,alternate-service-text,"If exiting, exit the Green Line at Northeastern University and board the Route 39 bus service to Prudential. If boarding, take the Route 39 bus service to Northeastern University and board the Green Line."
+917,alternate-service-text,"To exit, exit the train at Northeastern and proceed to the Route 39 (Back Bay) bus stop at 360 Huntington Ave and take a Route 39 bus to Belvidere St and Huntington Ave (Prudential Center). To board, travel to the Route 39 (Forest Hills) bus stop at Huntington Ave and Belvidere St, and take a Route 39 bus to Huntington Ave and Opera Pl. Proceed to the Northeastern eastbound platform and transfer to an eastbound train."
 917,excludes-stop,door-prmnl-huntington
 917,excludes-stop,node-150-lobby
 917,excludes-stop,node-150-street
@@ -10415,7 +10392,7 @@ facility_id,property_id,value
 917,excludes-stop,node-prmnl-prustair-street
 917,excludes-stop,node-prmnl-wbstair-lobby
 917,excludes-stop,node-prmnl-wbstair-platform
-918,alternate-service-text,"To exit to the street or reach the platforms, use South Station Elevator 901 in the lobby."
+918,alternate-service-text,"To exit the Red Line, use nearby South Station Elevator 901. To board the Red Line, use South Station Elevator 901 located on the opposide side of the lobby. To board the Silver Line, take Elevator 901 to the Silver Line drop-off platform, then take South Station Elevator 927 to the Alewife platform. At the Alewife platform, use nearby South Station Elevator 919 to access the Airport/Design Center/Chelsea platform."
 918,excludes-stop,South Station
 918,excludes-stop,South Station-01
 918,excludes-stop,South Station-02
@@ -10524,7 +10501,7 @@ facility_id,property_id,value
 918,excludes-stop,node-sstat-reservestair-lobby
 918,excludes-stop,node-sstat-south-farepaid
 918,excludes-stop,node-sstat-south-fareunpaid
-919,alternate-service-text,"If exiting the Red Line, use South Station Elevator 927 to the P1 Level of the Silver Line. Exit the elevator, go straight past the stairs, and turn right to South Station Elevator 901. Exit at the lobby. \nIf boarding, cross the lobby and take South Station Elevator 901 down to the Silver Line platform. Take South Station Elevator 927 to the Red Line platform to Alewife."
+919,alternate-service-text,"To exit the Red Line, take nearby South Station Elevator 927 to the Silver Line drop-off platform, then use South Station Elevator 901 to access the lobby. To board the Red Line, use South Station Elevator 901 located in the lobby, on the paid side of the faregates, to access the Silver Line drop-off platform. At the Silver Line platform, use South Station Elevator 927 to access the Alewife platform."
 919,excludes-stop,70079
 919,excludes-stop,74617
 919,excludes-stop,South Station
@@ -10635,7 +10612,7 @@ facility_id,property_id,value
 919,excludes-stop,node-sstat-reservestair-lobby
 919,excludes-stop,node-sstat-south-farepaid
 919,excludes-stop,node-sstat-south-fareunpaid
-920,alternate-service-text,"If exiting, please exit the Green Line at Northeastern University and transfer to inbound E-Line train service back to Prudential. If boarding, use the inbound Prudential Elevator 921 and take the Green Line to Arlington. Then transfer to outbound service. Alternatively, use Route 39 bus service to connect between Prudential and Back Bay."
+920,alternate-service-text,"To exit, exit the train at Northeastern and proceed to the Lechmere platform, then take a Lechmere-bound train to Prudential and use Prudential Elevator 921. To board, use Prudential Elevator 921 to access the Lechmere platform.  Take a Lechmere-bound train to Copley, then cross Boylston St to the westbound platform and transfer to a Heath Street-bound train. See station personnel at the Copley westbound lobby to gain entry at the faregate."
 920,excludes-stop,70240
 920,excludes-stop,door-prmnl-huntington
 920,excludes-stop,node-150-lobby
@@ -10665,7 +10642,7 @@ facility_id,property_id,value
 920,excludes-stop,node-prmnl-prustair-street
 920,excludes-stop,node-prmnl-wbstair-lobby
 920,excludes-stop,node-prmnl-wbstair-platform
-921,alternate-service-text,"If exiting, exit the Green Line at Copley and transfer to outbound E-Line train for service back to Prudential. If boarding, enter using outbound Prudential Elevator 920. Take the train to Northeastern and transfer to inbound service.\nAlternatively, use the Route 39 bus service to connect between Prudential and Back Bay."
+921,alternate-service-text,"To exit, exit the train at Copley, then cross Boylston St to the westbound platform. Take a Heath Street-bound train to Prudential and use Prudential Elevator 920. See station personnel at the Copley westbound lobby to gain entry at the faregate. To board, use Prudential Elevator 920 to access the Heath Street platform. Take a Heath Street-bound train to Northeastern, then proceed to the Lechmere platform and transfer to a Lechmere-bound train."
 921,excludes-stop,70239
 921,excludes-stop,door-prmnl-huntington
 921,excludes-stop,node-150-lobby
@@ -10695,7 +10672,7 @@ facility_id,property_id,value
 921,excludes-stop,node-prmnl-prustair-street
 921,excludes-stop,node-prmnl-wbstair-lobby
 921,excludes-stop,node-prmnl-wbstair-platform
-922,alternate-service-text,"If exiting, exit the train at Tufts Medical Center and switch to an Oak Grove-bound train. Exit at Chinatown using Chinatown Elevator 876. If boarding, take the Silver Line to Tufts Medical Center. Alternatively, if you are able, follow Washington Street for one-quarter of a mile to Downtown Crossing Elevator 892 (corner of Winter and Washington Streets)."
+922,alternate-service-text,"To exit, exit the train at Tufts Mediical Center, then take an Oak Grove-bound train to Chinatown and use Chinatown Elevator 876. To board, proceed to the Silver Line SL5 bus stop at Washington St and Essex St, and take an SL5 (Downtown) bus to Tufts Medical Center (stay on bus past the Temple Pl stop). Alternatively, if possible, travel 0.2 miles south on Washington St to Tufts Medical Center."
 922,excludes-stop,70019
 922,excludes-stop,door-chncl-foresthills
 922,excludes-stop,door-chncl-ogelevator
@@ -10717,7 +10694,7 @@ facility_id,property_id,value
 922,excludes-stop,node-chncl-oglower-lobby
 922,excludes-stop,node-chncl-ogonlystair-lobby
 922,excludes-stop,node-chncl-ogupper-landing
-923,alternate-service-text,Please use Aquarium Elevator 914 at the opposite end of the platform.
+923,alternate-service-text,"To exit, use Aquarium Elevator 914 located at the opposite end of the platform to access the State St lobby. To board, cross the Rose Kennedy Greenway, then continue west along State St to the Aquarium State St entrance and use Aquarium Elevator 915."
 923,excludes-stop,70044
 923,excludes-stop,door-aqucl-atlanticelev
 923,excludes-stop,door-aqucl-mcknorth
@@ -10763,7 +10740,7 @@ facility_id,property_id,value
 923,excludes-stop,node-aqucl-wbatlanticstairs-platform
 923,excludes-stop,node-aqucl-wbstatestairs-lobby
 923,excludes-stop,node-aqucl-wbstatestairs-platform
-924,alternate-service-text,"If exiting, use Aquarium Elevator 913 at the opposite end of the platform. If boarding, cross the Rose Kennedy Greenway and use the opposite Aquarium entrance at 200 State Street."
+924,alternate-service-text,"To exit, use Aquarium Elevator 913 located at the opposite end of the platform to access the State St lobby. To board, cross the Rose Kennedy Greenway, then continue west along State St to the Aquarium State St entrance and use Aquarium Elevator 915."
 924,excludes-stop,70043
 924,excludes-stop,door-aqucl-atlanticelev
 924,excludes-stop,door-aqucl-mcknorth
@@ -10809,7 +10786,7 @@ facility_id,property_id,value
 924,excludes-stop,node-aqucl-wbatlanticstairs-platform
 924,excludes-stop,node-aqucl-wbstatestairs-lobby
 924,excludes-stop,node-aqucl-wbstatestairs-platform
-925,alternate-service-text,"If exiting, please use Aquarium Elevator 915 at the opposite end of the platform. If boarding, cross the Rose Kennedy Greenway and use the opposite Aquarium entrance at 200 State Street."
+925,alternate-service-text,"To exit, use Aquarium Elevator 913 (Wonderland platform) or Aquarium Elevator 914 (Bowdoin platform) located at the opposite end of the platform to access the State St lobby, then use Aquarium Elevator 915 to access the street. To board, cross the Rose Kennedy Greenway, then continue west along State St to the Aquarium State St entrance and use Aquarium Elevator 915."
 925,excludes-stop,door-aqucl-atlantic
 925,excludes-stop,door-aqucl-atlanticelev
 925,excludes-stop,door-aqucl-mcknorth
@@ -10855,7 +10832,7 @@ facility_id,property_id,value
 925,excludes-stop,node-aqucl-wbatlanticstairs-platform
 925,excludes-stop,node-aqucl-wbstatestairs-lobby
 925,excludes-stop,node-aqucl-wbstatestairs-platform
-926,alternate-service-text,"If exiting the station, use South Station Elevator 949 on the opposite side of the lobby or go up the ramp to use the commuter rail elevator. The commuter rail elevator is located 200 feet down a hall that starts at the stairs and escalators to the commuter rail, next to the Shoe & Key shop. \nIf entering the station, cross Atlantic Avenue to reach South Station Elevator 949."
+926,alternate-service-text,"To exit, South Station Elevator 949 located on the opposite side of the lobby. Alternatively, travel up the ramp towards the Commuter Rail Concourse, and at the base of the escalator, turn left and proceed down the hallway. At the end of the hallway, use South Station Elevator 6476 to access the Commuter Rail Concourse. To board, cross Atlantic Ave towards Dewey Sq and use South Station Elevator 949."
 926,excludes-stop,South Station
 926,excludes-stop,South Station-01
 926,excludes-stop,South Station-02
@@ -10963,7 +10940,7 @@ facility_id,property_id,value
 926,excludes-stop,node-sstat-reservestair-lobby
 926,excludes-stop,node-sstat-south-farepaid
 926,excludes-stop,node-sstat-south-fareunpaid
-927,alternate-service-text,"If exiting, use South Station Elevator 919 up to the P1 Level of the Silver Line. Take South Station Elevator 918 up to the lobby. \nIf boarding, use South Station Elevator 918 to the P1 level of the Silver Line. Take South Station Elevator 919 to the Red Line P2 Alewife platform."
+927,alternate-service-text,"To exit the Red Line, take nearby South Station Elevator 919 to the Airport/Design Center/Chelsea platform, then use South Station Elevator 918 to access the lobby. To board the Red Line, take South Station Elevator 918 to the Airport/Design Center/Chelsea platform, then use South Station Elevator 919 to access the Alewife platform."
 927,excludes-stop,70079
 927,excludes-stop,74611
 927,excludes-stop,South Station
@@ -11076,11 +11053,11 @@ facility_id,property_id,value
 927,excludes-stop,node-sstat-south-fareunpaid
 928,alternate-service-text,Please contact station personnel or conductor for assistance.
 928,excludes-stop,14748
-929,alternate-service-text,Please use Lynn Parking Garage Elevator 930.
+929,alternate-service-text,Please nearby Lynn Elevator 930.
 929,excludes-stop,14748
-930,alternate-service-text,Please use Lynn Parking Garage Elevator 929.
+930,alternate-service-text,Please nearby Lynn Elevator 929. 
 930,excludes-stop,14748
-931,alternate-service-text,"To go from the Wonderland platform to the mezzanine, use Airport Elevator 956 (Athletic Fields to overpass) and take the ramp to Airport Elevator 955 (Bremen Street to overpass) to the Bowdoin platform."
+931,alternate-service-text,"To access the Bowdoin platform or Bremen St lobby from the Wonderland platform, use Airport Elevator 956 located in the unpaid section of the busway lobby. To access the Wonderland platform or Airport busway from the Bowdoin platform, use Airport Elevator 955 located in the unpaid section of the Bremen St lobby."
 931,excludes-stop,70047
 931,excludes-stop,7096
 931,excludes-stop,7097
@@ -11114,7 +11091,7 @@ facility_id,property_id,value
 931,excludes-stop,node-aport-ebpaidstairs-platform
 931,excludes-stop,node-aport-wbpaidstairs-bridge
 931,excludes-stop,node-aport-wbpaidstairs-platform
-932,alternate-service-text,"To go from the Bowdoin platform to the mezzanine, take Airport Elevator 955 to Airport Elevator 956 to Wonderland or exit to Athletic Field."
+932,alternate-service-text,"To access the Wonderland platform or Airport busway from the Bowdoin platform, use Airport Elevator 955 located in the unpaid section of the Bremen St lobby. To access the Bowdoin platform or Bremen St lobby from the Wonderland platform, use Airport Elevator 956 located in the unpaid section of the busway lobby."
 932,excludes-stop,70048
 932,excludes-stop,7096
 932,excludes-stop,7097
@@ -11148,7 +11125,7 @@ facility_id,property_id,value
 932,excludes-stop,node-aport-ebpaidstairs-platform
 932,excludes-stop,node-aport-wbpaidstairs-bridge
 932,excludes-stop,node-aport-wbpaidstairs-platform
-933,alternate-service-text,"If exiting, exit the Orange Line at North Station and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Community College to request assistance."
+933,alternate-service-text,"A shuttle bus will be available to transport customers between Community College and Sullivan. To exit, exit the train at Sullivan and find station personnel or use a station call box to request the shuttle bus to Community College. To board, find station personnel or use a station call box at Community College to request the shuttle bus to Sullivan."
 933,excludes-stop,node-ccmnl-305-lobby
 933,excludes-stop,node-ccmnl-305-platform
 933,excludes-stop,node-ccmnl-933-lobby
@@ -11158,7 +11135,7 @@ facility_id,property_id,value
 933,excludes-stop,node-ccmnl-lobby
 933,excludes-stop,node-ccmnl-stairs-lobby
 933,excludes-stop,node-ccmnl-stairs-platform
-934,alternate-service-text,Customers desiring elevator access to the viaduct are asked to take the Route 7 bus service from South Station.
+934,alternate-service-text,"To access World Trade Center Ave from the lobby, use World Trade Center Elevator 935 to access the South Station platform. Take an SL1, SL2 or SL3 bus inbound to South Station, then proceed to the Route 7 bus stop located on Summer St. Take a Route 7 (City Point) bus to Summer St opposite WTC Ave. To access the lobby from World Trade Center Ave, travel south on World Trade Center Ave to  the Route 7 bus stop at Summer St & WTC Ave, and take a Route 7 (Otis & Summer) bus to Summer St & Atlantic Ave. Proceed to the South Station Silver Line platform, then take an SL1, SL2 or SL3 bus outbound to World Trade Center and use World Trade Center Elevator 935."
 934,excludes-stop,door-wtcst-congress
 934,excludes-stop,node-401-landing
 934,excludes-stop,node-401-top
@@ -11184,7 +11161,7 @@ facility_id,property_id,value
 934,excludes-stop,node-wtcst-wtcbstairs-lobby
 934,excludes-stop,node-wtcst-wtctstairs-landing
 934,excludes-stop,node-wtcst-wtctstairs-top
-935,alternate-service-text,"If exiting, exit the Silver Line at Courthouse. At Courthouse, board any Silver Line outbound service back to World Trade Center. If boarding, use the outbound elevator and service to Silver Line Way Station and then transfer to inbound service."
+935,alternate-service-text,"To exit, exit the bus at Courthouse and proceed to the Airport/Design Center/Chelsea platform, then take an SL1, SL2 or SL3 bus outbound to World Trade Center and use World Trade Center Elevator 936. To board, use World Trade Center Elevator 936 to access the Airport/Design Center/Chelsea platform. Take an SL1, SL2 or SL3 bus outbound to Silver Line Way, then proceed to the South Station platform and transfer to an inbound SL1, SL2 or SL3 bus."
 935,excludes-stop,74613
 935,excludes-stop,door-wtcst-congress
 935,excludes-stop,door-wtcst-wtc
@@ -11212,7 +11189,7 @@ facility_id,property_id,value
 935,excludes-stop,node-wtcst-wtcbstairs-lobby
 935,excludes-stop,node-wtcst-wtctstairs-landing
 935,excludes-stop,node-wtcst-wtctstairs-top
-936,alternate-service-text,"If exiting, exit the Silver Line at Silver Line Way. At Silver Line Way, board any Silver Line inbound service back to World Trade Center. If boarding, use the inbound elevator and service to Courthouse and transfer to outbound service."
+936,alternate-service-text,"To exit, exit the bus at Silver Line Way and proceed to the inbound platform, then take an SL1, SL2 or SL3 bus inbound to World Trade Center and use World Trade Center Elevator 935. To board, use World Trade Center Elevator 935 to access the South Station platform. Take an SL1, SL2 or SL3 bus inbound to Courthouse, then proceed to the Airport/Design Center/Chelsea platform and transfer to an inbound SL1, SL2 or SL3 bus."
 936,excludes-stop,74615
 936,excludes-stop,door-wtcst-congress
 936,excludes-stop,door-wtcst-wtc
@@ -11240,7 +11217,7 @@ facility_id,property_id,value
 936,excludes-stop,node-wtcst-wtcbstairs-lobby
 936,excludes-stop,node-wtcst-wtctstairs-landing
 936,excludes-stop,node-wtcst-wtctstairs-top
-937,alternate-service-text,"If exiting, exit the Silver Line at South Station and transfer to outbound service back to Courthouse. If boarding, board outbound service to World Trade Center and switch to inbound service."
+937,alternate-service-text,"To exit, exit the bus at South Station and proceed to the Airport/Design Center/Chelsea platform, then take an SL1, SL2 or SL3 bus outbound to Courthouse and use Courthouse Elevator 938. To board, use Courthouse Elevator 938 to access the Airport/Design Center/Chelsea platform. Take an SL1, SL2 or SL3 bus outbound to World Trade Center, then proceed to the South Station platform and transfer to an inbound SL1, SL2 or SL3 bus."
 937,excludes-stop,74612
 937,excludes-stop,door-crtst-north
 937,excludes-stop,door-crtst-south
@@ -11288,7 +11265,7 @@ facility_id,property_id,value
 937,excludes-stop,node-crtst-wtcmain-fareunpaid
 937,excludes-stop,node-crtst-wtcmainstair-lobby
 937,excludes-stop,node-crtst-wtcmainstair-platform
-938,alternate-service-text,Customers desiring to enter on the outbound side must utilize the inbound elevator and service to South Station and then transfer to outbound service. Customers desiring elevator access to exit on the outbound side must continue to World Trade Center and transfer to inbound service back to Courthouse. Please see station personnel for assistance.
+938,alternate-service-text,"To exit, exit the bus at World Trade Center and proceed to the South Station platform, then take an SL1, SL2 or SL3 bus inbound to Courthouse and use Courthouse Elevator 937. To board, use Courthouse Elevator 937 to access the South Station platform. Take an SL1, SL2 or SL3 bus inbound to South Station, then proceed to the Airport/Design Center/Chelsea platform and transfer to an outbound SL1, SL2 or SL3 bus."
 938,excludes-stop,74616
 938,excludes-stop,door-crtst-north
 938,excludes-stop,door-crtst-south
@@ -11336,7 +11313,7 @@ facility_id,property_id,value
 938,excludes-stop,node-crtst-wtcmain-fareunpaid
 938,excludes-stop,node-crtst-wtcmainstair-lobby
 938,excludes-stop,node-crtst-wtcmainstair-platform
-939,alternate-service-text,"Please use Courthouse Elevator 940 to exit/enter Courthouse. This elevator is located on the opposite side of the lobby. At the street, cross Seaport Boulevard to use Courthouse Elevator 940."
+939,alternate-service-text,"To exit, use Courthouse Elevator 940 located at the opposite side of the lobby. To board, cross Seaport Blvd at Thomson Pl and use Courthouse Elevator 940."
 939,excludes-stop,door-crtst-north
 939,excludes-stop,node-412-landing
 939,excludes-stop,node-412-lobby
@@ -11382,7 +11359,7 @@ facility_id,property_id,value
 939,excludes-stop,node-crtst-wtcmain-fareunpaid
 939,excludes-stop,node-crtst-wtcmainstair-lobby
 939,excludes-stop,node-crtst-wtcmainstair-platform
-940,alternate-service-text,"Please use Courthouse Elevator 939 to exit/enter Courthouse. This elevator is located on the opposite side of the lobby. At the street, cross Seaport Boulevard to use Courthouse Elevator 939."
+940,alternate-service-text,"To exit, use Courthouse Elevator 939 located at the opposite side of the lobby. To board, cross Seaport Blvd at Fan Pier Blvd and use Courthouse Elevator 939."
 940,excludes-stop,door-crtst-south
 940,excludes-stop,node-412-landing
 940,excludes-stop,node-412-lobby
@@ -11428,26 +11405,7 @@ facility_id,property_id,value
 940,excludes-stop,node-crtst-wtcmain-fareunpaid
 940,excludes-stop,node-crtst-wtcmainstair-lobby
 940,excludes-stop,node-crtst-wtcmainstair-platform
-941,alternate-service-text,"If exiting, return to the fare lobby to use North Station Elevator 912 (lobby to Causeway Street). If boarding, cross Causeway Street to use North Station Elevator 912 (lobby to street)."
-941,excludes-stop,North Station
-941,excludes-stop,North Station-01
-941,excludes-stop,North Station-02
-941,excludes-stop,North Station-03
-941,excludes-stop,North Station-04
-941,excludes-stop,North Station-05
-941,excludes-stop,North Station-06
-941,excludes-stop,North Station-07
-941,excludes-stop,North Station-08
-941,excludes-stop,North Station-09
-941,excludes-stop,North Station-10
-941,excludes-stop,door-north-causewaye
-941,excludes-stop,door-north-causeways
-941,excludes-stop,door-north-crcanal
-941,excludes-stop,door-north-crcauseway
-941,excludes-stop,door-north-crnashua
-941,excludes-stop,door-north-tdgarden
-941,excludes-stop,door-north-valenti
-944,alternate-service-text,"Customers coming from North Station should use the Orange Line to Malden Center. For customers coming inbound on the Haverhill Line, please contact the conductor for assistance."
+944,alternate-service-text,"To exit the Commuter Rail when traveling from North Station, take an Oak Grove-bound Orange Line train to Malden Center and use Malden Center Elevator 945. To exit Commuter Rail when traveling to North Station, exit the train at North Station, then transfer to an Oak Grove-bound Orange Line train to Malden Center and use Malden Center Elevator 945. To board the Commuter Rail, take a Forest Hills-bound Orange Line train to North Station, then transfer to a Haverhill Line train. Please notify station personnel or a train conductor if assistance is required."
 944,excludes-stop,5072
 944,excludes-stop,5327
 944,excludes-stop,53270
@@ -11477,7 +11435,7 @@ facility_id,property_id,value
 944,excludes-stop,node-mlmnl-olstairs-lobby
 944,excludes-stop,node-mlmnl-olstairs-platform
 944,excludes-stop,node-mlmnl-ramptop
-945,alternate-service-text,"Customers desiring service to exit the station must continue to Oak Grove and board any of the following bus routes back to Malden: Route 131, 132, 136, or 137. Customers desiring service to enter the station should see station personnel for further assistance."
+945,alternate-service-text,"A shuttle bus will be available to transport customers between Malden Center and Oak Grove. To exit the Orange Line, exit the train at Oak Grove and find station personnel or use a station call box to request the shuttle bus to Malden Center. To board the Orange Line, find station personnel or use a station call box at Malden Center to request the shuttle bus to Oak Grove. Alternatively, customers may also use Bus Routes 132, 136 or 137 for transportation between Malden Center and Oak Grove."
 945,excludes-stop,5072
 945,excludes-stop,5327
 945,excludes-stop,53270
@@ -11506,7 +11464,7 @@ facility_id,property_id,value
 945,excludes-stop,node-mlmnl-olstairs-lobby
 945,excludes-stop,node-mlmnl-olstairs-platform
 945,excludes-stop,node-mlmnl-ramptop
-946,alternate-service-text,Customers desiring elevator service at Savin Hill must exit at JFK/UMass and see station personnel for further assistance. Customers desiring elevator service to enter the station should use the call box for further assistance.
+946,alternate-service-text,"A shuttle bus will be available to transport customers between Savin Hill and JFK/UMass. To exit, exit the train at JFK/UMass and find station personnel or use a station call box to request the shuttle bus to Savin Hill. To board, find station personnel or use a station call box at Savin Hill to request the shuttle bus to JFK/UMass."
 946,excludes-stop,door-shmnl-savin
 946,excludes-stop,door-shmnl-sydney
 946,excludes-stop,node-423-lobby
@@ -11523,7 +11481,7 @@ facility_id,property_id,value
 946,excludes-stop,node-shmnl-syd-farepaid
 946,excludes-stop,node-shmnl-syd-fareunpaid
 946,excludes-stop,node-shmnl-sydstair-lobby
-947,alternate-service-text,"To access the station, please use the main entrance on Savin Hill Avenue by exiting the parking lot and turning right to go up the hill to the main entrance. Please contact a station personnel for assistance."
+947,alternate-service-text,"To exit, use the main station entrance at Savin Hill Ave. To board, exit the parking lot, turn right and travel up South Sydney St. At Savin Hill Ave, turn right, and travel a short distance to the Savin Hill main entrance. Please see station personnel or use a station call box if you require assistance."
 947,excludes-stop,door-shmnl-savin
 947,excludes-stop,node-423-lobby
 947,excludes-stop,node-423-platform
@@ -11539,7 +11497,7 @@ facility_id,property_id,value
 947,excludes-stop,node-shmnl-syd-farepaid
 947,excludes-stop,node-shmnl-syd-fareunpaid
 947,excludes-stop,node-shmnl-sydstair-lobby
-948,alternate-service-text,Use Kenmore Elevator 972 at the Kenmore busway.
+948,alternate-service-text,"To exit, proceed up the ramp to the busway lobby and use Kenmore Elevator 972 to access the busway. To board, cross Commonwealth Ave to the busway and use Kenmore Elevator 972."
 948,excludes-stop,899
 948,excludes-stop,door-kencl-busway
 948,excludes-stop,node-430-landing
@@ -11566,7 +11524,7 @@ facility_id,property_id,value
 948,excludes-stop,node-kencl-fvmstair-lobby
 948,excludes-stop,node-kencl-wbstair-lobby
 948,excludes-stop,node-kencl-wbstair-platform
-949,alternate-service-text,"If exiting the station, use South Station Elevator 926 on the opposite side of the lobby or go up the ramp to use the commuter rail elevator. The commuter rail elevator is located 200 feet down a hall that starts at the stairs and escalators to the commuter rail, next to the Shoe & Key shop. \nIf entering the station, cross Atlantic Avenue to reach South Station Elevator 926 or go into the commuter rail lobby and use the elevator near the information desk."
+949,alternate-service-text,"To exit, use South Station Elevator 926 located on opposite side of the lobby, to the left of the subway monitoring office. Alternatively, travel up the ramp towards the Commuter Rail Concourse, and at the base of the escalator, turn left and continue down the hallway. At the end of the hallway, use South Station Elevator 6476 to access the Commuter Rail Concourse. To board, cross Atlantic Ave towards the South Station main entrance and Elevator 926 to access the subway lobby.  Alternatively, enter the South Station Commuter Rail Concourse and use Elevator 6476 located to the left of the information desk."
 949,excludes-stop,South Station
 949,excludes-stop,South Station-01
 949,excludes-stop,South Station-02
@@ -11674,7 +11632,7 @@ facility_id,property_id,value
 949,excludes-stop,node-sstat-reservestair-lobby
 949,excludes-stop,node-sstat-south-farepaid
 949,excludes-stop,node-sstat-south-fareunpaid
-951,alternate-service-text,"If exiting at Charles/MGH, exit the train at Park Street and switch to an Alewife-bound Red Line train. Exit Charles/MGH using Charles/MGH Elevator 952. If boarding at Charles/MGH, take an Alewife-bound Red Line train to Kendall and see station personnel for assistance boarding an Ashmont-/Braintree-bound train."
+951,alternate-service-text,"To exit, exit the train at Park Street onto the center platform, then take to an Alewife-bound train to Charles/MGH and use Charles/MGH Elevator 952. To board, take an Alewife-bound train to Kendall/MIT, then transfer to an Ashmont or Braintree-bound train. See station personnel or use a station call box at Kendall/MIT to gain entry at the faregate."
 951,excludes-stop,70073
 951,excludes-stop,70074
 951,excludes-stop,node-425-lobby
@@ -11691,7 +11649,7 @@ facility_id,property_id,value
 951,excludes-stop,node-chmnl-nbstairs-platform
 951,excludes-stop,node-chmnl-sbstairs-lobby
 951,excludes-stop,node-chmnl-sbstairs-platform
-952,alternate-service-text,"If exiting at Charles/MGH, exit the train at Kendall and see station personnel for assistance switching to an Ashmont-/Braintree-bound train. Exit at Charles/MGH using Charles/MGH Elevator 951. If boarding at Charles/MGH, use Charles/MGH Elevator 951 to take an Ashmont-/Braintree-bound train to Park Street and switch to an Alewife-bound train."
+952,alternate-service-text,"To exit, exit the train at Kendall/MIT, then take an Ashmont/Braintree-bound train to Charles/MGH and use Charles/MGH Elevator 951. See station personnel or use a station call box at Kendall/MIT to gain entry at the faregate. To board, take an Ashmont or Braintree-bound train to Park Street, exit onto the center platform, and transfer to an Alewife-bound train."
 952,excludes-stop,70073
 952,excludes-stop,node-425-lobby
 952,excludes-stop,node-425-platform
@@ -11707,7 +11665,7 @@ facility_id,property_id,value
 952,excludes-stop,node-chmnl-nbstairs-platform
 952,excludes-stop,node-chmnl-sbstairs-lobby
 952,excludes-stop,node-chmnl-sbstairs-platform
-953,alternate-service-text,"If exiting the station, exit the Red Line at Fields corner and switch to an Ashmont-bound train. Exit at Shawmut and use Shawmut Elevator 954. If boarding, use Shawmut Elevator 954 and take an Ashmont-bound train to Ashmont. Then switch to an Alewife-bound train."
+953,alternate-service-text,"To exit, exit the train at Fields Corner, then take an Ashmont-bound train to Shawmut and use Shawmut Elevator 954. To board, use Shawmut Elevator 954 to access the Ashmont platform. Take an Ashmont-bound train to Ashmont, then transfer to an Alewife-bound train."
 953,excludes-stop,70092
 953,excludes-stop,node-smmnl-953-lobby
 953,excludes-stop,node-smmnl-953-platform
@@ -11719,7 +11677,7 @@ facility_id,property_id,value
 953,excludes-stop,node-smmnl-nbstairs-platform
 953,excludes-stop,node-smmnl-sbstairs-lobby
 953,excludes-stop,node-smmnl-sbstairs-platform
-954,alternate-service-text,"If exiting the station, exit the Red Line at Ashmont and switch to an Alewife-bound train. Exit at Shawmut and use Shawmut Elevator 953. If boarding, use Shawmut Elevator 953 and take an Alewife-bound train to Fields Corner to switch to an Ashmont-bound train."
+954,alternate-service-text,"To exit, exit the train at Ashmont, then take an Alewife-bound train to Shawmut and use Shawmut Elevator 953. To board, use Shawmut Elevator 953 to access the Alewife platform. Take an Alewife-bound train to Fields Corner, then transfer to an Ashmont-bound train."
 954,excludes-stop,70091
 954,excludes-stop,node-smmnl-953-lobby
 954,excludes-stop,node-smmnl-953-platform
@@ -11731,7 +11689,7 @@ facility_id,property_id,value
 954,excludes-stop,node-smmnl-nbstairs-platform
 954,excludes-stop,node-smmnl-sbstairs-lobby
 954,excludes-stop,node-smmnl-sbstairs-platform
-955,alternate-service-text,"To go from the Bowdoin platform to the mezzanine, take Airport Elevator 932 to Airport Elevator 931 to Wonderland or exit to Athletic Field."
+955,alternate-service-text,"To access the Wonderland platform or Airport busway from the Bremen St lobby, use Airport Elevator 932 located on the Bowdoin platform. To access the Bowdoin platform or Bremen St lobby from the busway lobby, use Airport Elevator 931 located on the Wonderland platform. See station personnel or use a station call box to gain entry at the faregate."
 955,excludes-stop,70047
 955,excludes-stop,70048
 955,excludes-stop,7096
@@ -11764,7 +11722,7 @@ facility_id,property_id,value
 955,excludes-stop,node-aport-ebpaidstairs-platform
 955,excludes-stop,node-aport-wbpaidstairs-bridge
 955,excludes-stop,node-aport-wbpaidstairs-platform
-956,alternate-service-text,"To go from the Wonderland platform to the mezzanine, use Airport Elevator 931 (Athletic Field to overpass) and take the ramp to Airport Elevator 932 (Bremen Street to overpass) to the Bowdoin platform."
+956,alternate-service-text,"To access the Bowdoin platform or Bremen St lobby from the busway lobby, use Airport Elevator 931 located on the Wonderland platform. To access the Wonderland platform or Airport busway from the Bremen St lobby, use Airport Elevator 932 located on the Bowdoin platform. See station personnel or use a station call box to gain entry at the faregate."
 956,excludes-stop,70047
 956,excludes-stop,70048
 956,excludes-stop,7096
@@ -11797,7 +11755,7 @@ facility_id,property_id,value
 956,excludes-stop,node-aport-ebpaidstairs-platform
 956,excludes-stop,node-aport-wbpaidstairs-bridge
 956,excludes-stop,node-aport-wbpaidstairs-platform
-957,alternate-service-text,"If exiting the station, exit the Red Line at Savin Hill and switch to an Ashmont-bound train. Exit using Fields Corner Elevator 958. If boarding, use Fields Corner Elevator 958 to board an Ashmont-bound train. Exit at Shawmut and board an Alewife-bound train."
+957,alternate-service-text,"To exit, exit the train at Savin Hill, then take an Ashmont-bound train to Fields Corner and use Fields Corner Elevator 958. To board, use Fields Corner Elevator 958 to access the Ashmont platform. Take an Ashmont-bound train to Shawmut, then transfer to an Alewife-bound train. "
 957,excludes-stop,323
 957,excludes-stop,70089
 957,excludes-stop,door-fldcr-busway
@@ -11816,7 +11774,7 @@ facility_id,property_id,value
 957,excludes-stop,node-fldcr-charlesstairs-lobby
 957,excludes-stop,node-fldcr-farepaid
 957,excludes-stop,node-fldcr-fareunpaid
-958,alternate-service-text,"If exiting the station, exit the Red Line at Shawmut and switch to an Alewife-bound train. Exit using Fields Corner Elevator 957. If boarding, use Fields Corner Elevator 957 to board an Alewife-bound train. Exit at Savin Hill and board an Ashmont-bound train."
+958,alternate-service-text,"To exit, exit the train at Shawmut, then take an Alewife-bound train to Fields Corner and use Fields Corner Elevator 957. To board, use Fields Corner Elevator 957 to access the Alewife platform. Take an Alewife-bound train to Savin Hill, then transfer to an Ashmont-bound train."
 958,excludes-stop,323
 958,excludes-stop,70090
 958,excludes-stop,door-fldcr-busway
@@ -11835,13 +11793,13 @@ facility_id,property_id,value
 958,excludes-stop,node-fldcr-charlesstairs-lobby
 958,excludes-stop,node-fldcr-farepaid
 958,excludes-stop,node-fldcr-fareunpaid
-961,alternate-service-text,Please use Elevator 813 located at the opposite end of platform/lobby.
+961,alternate-service-text,"To exit, use Elevator 813 located at the opposite end of the platform to access the main lobby. To board, travel west down the Alewife Linear Path to the main station entrance and use Elevator 813."
 961,excludes-stop,141
 961,excludes-stop,door-alfcl-alewife
 961,excludes-stop,door-alfcl-busway
 961,excludes-stop,door-alfcl-cambridgepark
 961,excludes-stop,door-alfcl-steel
-962,alternate-service-text,"If exiting, exit the Green Line at Copley and transfer to inbound service back to Arlington to utilize Arlington Elevator 963. If boarding, use Arlington Elevator 963 to access an inbound train to Park Street and switch to an outbound train."
+962,alternate-service-text,"To exit, exit the train at Copley, then cross Boylston St to the eastbound entrance. Proceed to the eastbound platform, then take an eastbound train to Arlington and use Arlington Elevator 963. See station personnel at the Copley eastbound lobby to gain entry at the faregate. To board, use Arlington Elevator 963 to access the eastbound platform. Take an eastbound train to Park Street, then proceed to the westbound platform and transfer to a westbound train."
 962,excludes-stop,70156
 962,excludes-stop,door-armnl-arlte
 962,excludes-stop,door-armnl-arltw
@@ -11870,7 +11828,7 @@ facility_id,property_id,value
 962,excludes-stop,node-armnl-wbstairs-platform
 962,excludes-stop,node-armnl-wescstairs-escalator
 962,excludes-stop,node-armnl-wescstairs-lobby
-963,alternate-service-text,"If exiting, exit the Green Line at Park Street and transfer to an outbound train. Use Arlington Elevator 962 to exit at Arlington. If boarding, use Arlington Elevator 962 to access an outbound train. Exit at Copley and switch to an inbound train."
+963,alternate-service-text,"To exit, exit the train at Park Steet and proceed to the westbound platform, then take a westbound train to Arlington and use Arlington Elevator 962. To board, use Arlington Elevator 962 to access the westbound platform.  Take a westbound train to Copley, then cross Boylston St to the eastbound platform and transfer to an eastbound train. See station personnel at the Copley eastbound lobby to gain entry at the faregate."
 963,excludes-stop,70157
 963,excludes-stop,door-armnl-arlte
 963,excludes-stop,door-armnl-arltw
@@ -11899,7 +11857,7 @@ facility_id,property_id,value
 963,excludes-stop,node-armnl-wbstairs-platform
 963,excludes-stop,node-armnl-wescstairs-escalator
 963,excludes-stop,node-armnl-wescstairs-lobby
-964,alternate-service-text,"If exiting, exit the Green Line at Copley and see station personnel or use the call box to request assistance. If boarding, see station personnel or use the call box at Arlington to request assistance."
+964,alternate-service-text,"A shuttle bus will be available to transport customers between Arlington and Copley. To exit, exit the train at Copley and find station personnel or use a station call box to request the shuttle bus to Arlington. To board, find station personnel or use a station call box at Arlington to request the shuttle bus to Copley."
 964,excludes-stop,door-armnl-arlte
 964,excludes-stop,door-armnl-arltw
 964,excludes-stop,door-armnl-garden
@@ -11926,7 +11884,7 @@ facility_id,property_id,value
 964,excludes-stop,node-armnl-wbstairs-platform
 964,excludes-stop,node-armnl-wescstairs-escalator
 964,excludes-stop,node-armnl-wescstairs-lobby
-965,alternate-service-text,Please use Maverick Elevator 966 at Lewis Courtyard.
+965,alternate-service-text,"To exit, use Maverick Elevator 966 located at the opposite end of the platform to access the Lewis Courtyard lobby. To board, cross Sumner St and continue traveling southwest along the pedestrian mall to the Maverick Lewis Courtyard entrance and use Maverick Elevator 966."
 965,excludes-stop,5740
 965,excludes-stop,57400
 965,excludes-stop,door-mvbcl-lewis
@@ -11950,7 +11908,7 @@ facility_id,property_id,value
 965,excludes-stop,node-mvbcl-msqfareunpaid
 965,excludes-stop,node-mvbcl-msqstair-entrance
 965,excludes-stop,node-mvbcl-msqstair-lobby
-966,alternate-service-text,Please use Maverick Elevator 965 at Maverick Square busway.
+966,alternate-service-text,"To exit, use Maverick Elevator 965 located at the opposite end of the platform to access Maverick Sq. To board, travel northeast along the pedestrian mall towards Maverick Sq, then cross Sumner St to the main Maverick entrance and use Maverick Elevator 965."
 966,excludes-stop,5740
 966,excludes-stop,57400
 966,excludes-stop,door-mvbcl-square
@@ -11974,7 +11932,7 @@ facility_id,property_id,value
 966,excludes-stop,node-mvbcl-msqfareunpaid
 966,excludes-stop,node-mvbcl-msqstair-entrance
 966,excludes-stop,node-mvbcl-msqstair-lobby
-967,alternate-service-text,Please use adjacent State Street Elevator 802.
+967,alternate-service-text,Please use nearby State Street Elevator 802. 
 967,excludes-stop,70022
 967,excludes-stop,70042
 967,excludes-stop,door-state-cityhall
@@ -11983,7 +11941,7 @@ facility_id,property_id,value
 967,excludes-stop,door-state-meeting
 967,excludes-stop,door-state-state
 967,excludes-stop,door-state-water
-968,alternate-service-text,"At the lobby level, travel along the busway to the Mattapan trolley/bus arrival lobby. At the lobby, use Ashmont Elevator 969 to reach the Alewife-bound platform."
+968,alternate-service-text,"To board, travel along the busway to the Mattapan trolley/busway lobby and use Ashmont Elevator 969."
 968,excludes-stop,334
 968,excludes-stop,70093
 968,excludes-stop,70261
@@ -12017,7 +11975,7 @@ facility_id,property_id,value
 968,excludes-stop,node-asmnl-radfordramp
 968,excludes-stop,node-asmnl-rdexstair-lobby
 968,excludes-stop,node-asmnl-rdexstair-platform
-969,alternate-service-text,"At the lobby level, travel along the busway to the Peabody Square lobby. At the Peabody Square lobby, use Ashmont Elevator 968 to reach the Alewife-bound platform."
+969,alternate-service-text,"To board, travel along the busway to the Peabody Sq lobby and use Ashmont Elevator 968."
 969,excludes-stop,334
 969,excludes-stop,70093
 969,excludes-stop,70261
@@ -12051,7 +12009,7 @@ facility_id,property_id,value
 969,excludes-stop,node-asmnl-radfordramp
 969,excludes-stop,node-asmnl-rdexstair-lobby
 969,excludes-stop,node-asmnl-rdexstair-platform
-970,alternate-service-text,"At the platform Level, contact the Motorperson for assistance. Alternatively, use the Beale Street walkway to travel to Dorchester Avenue, the busway, and Peabody Square."
+970,alternate-service-text,"To exit the platform, notify a train motorperson or use a station call box to request assistance. Alternatively, travel to the Beale St walkway to access Dorchester Ave, the busway, and Peabody Sq."
 970,excludes-stop,334
 970,excludes-stop,70094
 970,excludes-stop,70261
@@ -12085,7 +12043,7 @@ facility_id,property_id,value
 970,excludes-stop,node-asmnl-radfordramp
 970,excludes-stop,node-asmnl-rdexstair-lobby
 970,excludes-stop,node-asmnl-rdexstair-platform
-971,alternate-service-text,"Customers desiring to exit the station must continue to St. Mary's (C-Line), or Fenway (D-Line) and transfer to inbound service back to Kenmore. \nCustomers desiring to enter the station for outbound service must use the inbound elevator and service to Copley or Arlington. Then transfer to outbound service."
+971,alternate-service-text,"To exit when traveling on a Cleveland Circle or Riverside-bound train, exit the train at the first stop after Kenmore. Proceed to the eastbound platform, then take an eastbound train to Kenmore and use Kenmore Elevator 972. To exit when traveling on a Boston College-bound train, exit the train at Boston University East. Proceed to the eastbound platform, then take an eastbound train to Kenmore and use Kenmore Elevator 972. To board, use Kenmore Elevator 972 to access the eastbound platform.  Take a eastound train to Copley, then cross Boylston St to the westbound platform and transfer to an westbound train. See station personnel at the Copley westbound lobby to gain entry at the faregate."
 971,excludes-stop,70150
 971,excludes-stop,71150
 971,excludes-stop,899
@@ -12116,7 +12074,7 @@ facility_id,property_id,value
 971,excludes-stop,node-kencl-fvmstair-lobby
 971,excludes-stop,node-kencl-wbstair-lobby
 971,excludes-stop,node-kencl-wbstair-platform
-972,alternate-service-text,Customers desiring elevator access to exit the station on the inbound side must continue to Copley or Arlington and transfer to outbound service back to Kenmore. Customers desiring inbound service can use the outbound elevator and take the C- or D-Line one stop and transfer back to inbound service. Please see station personnel for assistance.
+972,alternate-service-text,"To exit, exit the train at Copley, then cross Boylston St to the westbound platform. Take a Boston College, Cleveland Circle or Riverside-bound train to Kenmore and use Kenmore Elevator 971. See station personnel at the Copley westbound lobby to gain entry at the faregate. To board, use Kenmore Elevator 971 to access the westbound platform. Take a Cleveland Circle or Riverside-bound train one stop, then proceed to the eastbound platform and transfer to an eastbound train."
 972,excludes-stop,899
 972,excludes-stop,door-kencl-beacon
 972,excludes-stop,door-kencl-commonwealth
@@ -12144,7 +12102,7 @@ facility_id,property_id,value
 972,excludes-stop,node-kencl-fvmstair-lobby
 972,excludes-stop,node-kencl-wbstair-lobby
 972,excludes-stop,node-kencl-wbstair-platform
-973,alternate-service-text,"Please use Harvard Square Elevator 821 to connect to the main lobby and the corner of JFK, Brattle, and Mount Auburn Streets."
+973,alternate-service-text,"To exit, use Harvard Elevator 821 located in the main lobby. To board, use Harvard Elevator 821 located at the corner of JFK St, Brattle St and Mass Ave (Harvard Sq)."
 973,excludes-stop,20762
 973,excludes-stop,70067
 973,excludes-stop,70068
@@ -12186,21 +12144,21 @@ facility_id,property_id,value
 973,excludes-stop,node-harsq-upperramp-lobby
 973,excludes-stop,node-harsq-upperramp-upper
 973,excludes-stop,node-harsq-yardstair-lobby
-974,alternate-service-text,"If exiting, go down the ramp to the Oak Grove platform. Turn left and take elevator 967 or 802 to the Wonderland platform. From the platform take elevator 975 to reach the street. \nIf boarding, cross State Street to use elevator 975 to the Wonderland platform. Take the ramp to the Bowdoin platform, the hallway to the Forest Hills platform, or elevators 967 or 802 to the Oak Grove platform."
+974,alternate-service-text,"To exit, travel down the nearby ramp to the Orange Line Oak Grove platform, turn left, then use State Elevator 967 or 802 to access the Wonderland platform. Continue along the Wonderland platform to the 53 State St lobby and use State Elevator 975 to access the street. To board, cross State St, then proceed to the station entrance at 53 State St and use State Elevator 975 to access the Wonderland platform. At the Wonderland platform, turn left and proceed to the end of the platform (follow signs for Orange Line and Government Center/Bowdoin) and use State Elevator 967 or 802 to access the Orange Line Oak Grove platform. At the Oak Grove platform, turn right and travel up the nearby ramp to the Blue Line Bowdoin platform."
 974,excludes-stop,70042
 974,excludes-stop,door-state-cityhall
 974,excludes-stop,door-state-exchange
 974,excludes-stop,door-state-meeting
 974,excludes-stop,door-state-state
 974,excludes-stop,door-state-water
-975,alternate-service-text,Please use State Street Elevator 974 on Government Center-bound Blue Line platform to connect to 60 State Street.
+975,alternate-service-text,"To exit, proceed to the end of the platform (follow signs for Orange Line and Government Center/Bowdoin) and use State Elevator 967 or 802 to access the Orange Line Oak Grove platform. At the Oak Grove platform, turn right, travel up the nearby ramp to the Blue Line Bowdoin platform, then proceed to the 60 State St lobby and use State Elevator 974. To board, cross State St, then proceed to the entrance at 60 State St and use State Elevator 974 to access the Bowdoin platform. At the Bowdoin platform, turn right and proceed down the ramp to the Oak Grove platform. At the Oak Grove platform, turn left, then use State Elevator 967 or 802 to access the Wonderland platform."
 975,excludes-stop,70041
 975,excludes-stop,door-state-cityhall
 975,excludes-stop,door-state-congress
 975,excludes-stop,door-state-meeting
 975,excludes-stop,door-state-state
 975,excludes-stop,door-state-water
-976,alternate-service-text,"Customers desiring to enter the station for inbound service must use the outbound elevator, utilize the B-, C-, or D-Line service to Kenmore, and then transfer to inbound service. Customers desiring to exit on the inbound side must continue to Arlington and transfer to outbound service back to Copley."
+976,alternate-service-text,"To exit, exit the train at Arlington and proceed to the westbound platform, then take a westbound train to Copley and use Copley Elevator 977. To board, cross Boylston St and use Copley Elevator 977 to access the westbound platform.  Take a Boston College, Cleveland Circle or Riverside-bound train to Kenmore, then proceed to the eastbound platform and transfer to an eastbound train."
 976,excludes-stop,70155
 976,excludes-stop,door-coecl-church
 976,excludes-stop,door-coecl-east
@@ -12214,7 +12172,7 @@ facility_id,property_id,value
 976,excludes-stop,node-coecl-ebfareunpaid
 976,excludes-stop,node-coecl-wbfarepaid
 976,excludes-stop,node-coecl-wbfareunpaid
-977,alternate-service-text,Customers desiring to enter the station must use the inbound elevator and utilize service to Arlington for westbound service. Customers desiring to exit on the westbound side must continue to Kenmore and transfer to inbound service to Copley.
+977,alternate-service-text,"To exit a Boston College, Cleveland Circle or Riverside-bound train, exit the train at Kenmore and proceed to the eastbound platform, then take an eastbound train to Copley and use Copley Elevator 976. To exit a Heath Street-bound train, exit the train at Prudential and proceed to the eastbound platform, then take an eastbound train to Copley and use Copley Elevator 976. To board, cross Boylston St and use Copley Elevator 976 to access the eastbound platform.  Take a eastbound train to Arlington, then proceed to the westbound platform and transfer to a westbound train."
 977,excludes-stop,70154
 977,excludes-stop,door-coecl-bpl
 977,excludes-stop,door-coecl-east
@@ -12228,7 +12186,7 @@ facility_id,property_id,value
 977,excludes-stop,node-coecl-ebfareunpaid
 977,excludes-stop,node-coecl-wbfarepaid
 977,excludes-stop,node-coecl-wbfareunpaid
-978,alternate-service-text,Use Elevator 804 for Red/Green Line lobby to street level.
+978,alternate-service-text,"To exit, enter throught the faregates, turn left, and use Park Street Elevator 979 to access the Red Line center platform. At the Red Line platform, proceed to the end of the platform and take Park Street Elevator 808 to the Winter St concourse, then exit through the nearby faregate and use Park Street Elevator 804 to access the corner of Tremont St and Winter St. To board, cross Tremont St to the corner of Tremont St and Winter St, and take Park Street Elevator 804 to the Winter St concourse. At the Winter St concourse, exit through the faregate, then take Park Street Elevator 808 to the Red Line center platform and use Park Street Elevator 979 to access Green Line westbound platform."
 978,excludes-stop,70200
 978,excludes-stop,71199
 978,excludes-stop,door-pktrm-elevatoreb
@@ -12300,7 +12258,7 @@ facility_id,property_id,value
 978,excludes-stop,node-pktrm-weststairs-lobby
 978,excludes-stop,node-pktrm-wintfare-paid
 978,excludes-stop,node-pktrm-wintfare-unpaid
-979,alternate-service-text,Use Elevator 808 at end of Red Line platform connecting to lobby.
+979,alternate-service-text,"To exit, use Park Street Elevator 808 located at the end of the Red Line center platform to access the Winter St concourse. At the Winter St concourse, use Park Street Elevator 804 to access Tremont St. To board the Red Line, use Park Street Elevator 804 located at the corner of Tremont St and Winter St to access the Winter St concourse. At the Winter St concourse, use Park Street Elevator 808 to access the Red Line center platform."
 979,excludes-stop,70196
 979,excludes-stop,70197
 979,excludes-stop,70198
@@ -12377,7 +12335,7 @@ facility_id,property_id,value
 979,excludes-stop,node-pktrm-weststairs-lobby
 979,excludes-stop,node-pktrm-wintfare-paid
 979,excludes-stop,node-pktrm-wintfare-unpaid
-980,alternate-service-text,Customers desiring elevator service to enter on the inbound side must use the outbound elevator and utilize service to Lechmere for inbound service. Customers desiring to exit on the inbound side must continue to North Station and transfer to outbound service back to Science Park.
+980,alternate-service-text,Science Park Elevator 980 (street to inbound platform) is out of service. Customers desiring elevator service to enter on the inbound side must use the outbound elevator and utilize service to Lechmere for inbound service. Customers desiring to exit on the inbound side must continue to North Station and transfer to outbound service back to Science Park.
 980,excludes-stop,70207
 980,excludes-stop,door-spmnl-nashua
 980,excludes-stop,door-spmnl-nashuael
@@ -12403,7 +12361,7 @@ facility_id,property_id,value
 980,excludes-stop,node-spmnl-ofareunpaid
 980,excludes-stop,node-spmnl-sfarepaid
 980,excludes-stop,node-spmnl-sfareunpaid
-981,alternate-service-text,Customers desiring to enter the station for outbound service must use the inbound elevator to North Station and transfer to outbound service to Lechmere. Customers desiring to exit at Science Park must continue to Lechmere and transfer to inbound service back to Science Park.
+981,alternate-service-text,Science Park Elevator 981 (street to outbound platform) is out of service. Customers desiring to enter the station for outbound service must use the inbound elevator to North Station and transfer to outbound service to Lechmere. Customers desiring to exit at Science Park must continue to Lechmere and transfer to inbound service back to Science Park. 
 981,excludes-stop,70208
 981,excludes-stop,door-spmnl-nashua
 981,excludes-stop,door-spmnl-nashuael
@@ -12429,34 +12387,34 @@ facility_id,property_id,value
 981,excludes-stop,node-spmnl-ofareunpaid
 981,excludes-stop,node-spmnl-sfarepaid
 981,excludes-stop,node-spmnl-sfareunpaid
-982,alternate-service-text,Please use adjacent Porter Square Elevator 985 to reach the street or the lobby.
+982,alternate-service-text,"To exit, use Elevator 985 located nearby. To board, use the Elevator 985 located on Somerville Ave."
 982,excludes-stop,door-portr-cracross
 982,excludes-stop,door-portr-crtransfer
 982,excludes-stop,door-portr-escal
-983,alternate-service-text,Please use adjacent Porter Square Elevator 987 to reach the platforms or the lobby.
+983,alternate-service-text,Please use nearby Porter Elevator 987 to access the Red Line platforms or lobby.
 983,excludes-stop,Porter Square
 983,excludes-stop,door-portr-cracross
 983,excludes-stop,door-portr-crtransfer
 983,excludes-stop,door-portr-elevators
 983,excludes-stop,door-portr-escal
-985,alternate-service-text,Please use nearby Porter Square Elevator 982 to access the lobby or street.
+985,alternate-service-text,"To exit, use Elevator 982 located near the escalators and stairs. To board, use the Elevator 982 located on Somerville Ave."
 985,excludes-stop,door-portr-cracross
 985,excludes-stop,door-portr-crtransfer
 985,excludes-stop,door-portr-escal
-986,alternate-service-text,See station personnel or use the call box to request assistance.
+986,alternate-service-text,"A shuttle bus will be available to transport customers between Porter and Waltham Station. To request the shuttle, notify a Commuter Rail conductor before arriving at Waltham, or, if at Porter, see station personnel or use a station call box. Alternatively, to exit the Commuter Rail, exit the train at North Station and take a Forest Hills-bound Orange Line train to Downtown Crossing. At Downtown Crossing, travel down the Winter St concourse to Park Street and take an Alewife-bound Red Line to Porter. To board the Commuter Rail, take an Ashmont or Braintree-bound Red Line train to Downtown Crossing. At Downtown Crossing, transfer to an Oak Grove-bound Orange Line train to North Station, and board any Fitchburg-bound Commuter Rail train."
 986,excludes-stop,70065
 986,excludes-stop,70066
 986,excludes-stop,door-portr-cracross
 986,excludes-stop,door-portr-crtransfer
 986,excludes-stop,door-portr-elevators
 986,excludes-stop,door-portr-escal
-987,alternate-service-text,Please use adjacent Porter Square Elevator 983 to reach the platforms or the lobby.
+987,alternate-service-text,Please use nearby Porter Elevator 983 to access the Red Line platforms or lobby.
 987,excludes-stop,Porter Square
 987,excludes-stop,door-portr-cracross
 987,excludes-stop,door-portr-crtransfer
 987,excludes-stop,door-portr-elevators
 987,excludes-stop,door-portr-escal
-998,alternate-service-text,Please use adjacent Downtown Crossing Elevator 999.
+998,alternate-service-text,Please use nearby Downtown Crossing Elevator 999.
 998,excludes-stop,70020
 998,excludes-stop,70077
 998,excludes-stop,door-dwnxg-101arch
@@ -12534,7 +12492,7 @@ facility_id,property_id,value
 998,excludes-stop,node-dwnxg-wintexitfare-unpaid
 998,excludes-stop,node-dwnxg-wintwashfare-paid
 998,excludes-stop,node-dwnxg-wintwashfare-unpaid
-999,alternate-service-text,Please use adjacent Downtown Crossing Elevator 998.
+999,alternate-service-text,Please use nearby Downtown Crossing Elevator 998.
 999,excludes-stop,70020
 999,excludes-stop,70077
 999,excludes-stop,door-dwnxg-101arch
