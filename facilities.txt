@@ -186,18 +186,18 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 54,54,1,escalator,place-NEC-2173,South Station platform to lobby,Route 128 Escalator 54 (South Station platform to lobby),,,,2
 55,55,1,escalator,place-NEC-2173,Outbound platform to lobby,Route 128 Escalator 55 (Outbound platform to lobby),,,,2
 6,6,1,escalator,place-state,Oak Grove platform to Old State House lobby,State Escalator 6 (Oak Grove platform to Old State House lobby),,,,2
-6476,6476,1,elevator,place-sstat,"Red Line, Airport/Design Center lobby to Commuter Rail lobby","South Station Elevator 6476 (Red Line, Airport/Design Center lobby to Commuter Rail lobby)",,,,1
+6476,6476,1,elevator,place-sstat,"Red Line, Silver Line SL1/SL3 lobby to Commuter Rail lobby","South Station Elevator 6476 (Red Line, Silver Line SL1/SL3 lobby to Commuter Rail lobby)",,,,1
 701,701,1,elevator,place-wondl,Main lobby to garage,Wonderland Elevator 701 (Main lobby to garage),,,,1
 702,702,1,elevator,place-wondl,Main lobby to garage,Wonderland Elevator 702 (Main lobby to garage),,,,1
 703,703,1,elevator,place-wondl,Main lobby to garage,Wonderland Elevator 703 (Main lobby to garage),,,,1
 708,708,1,elevator,place-wondl,Main lobby to pedestrian bridge,Wonderland Elevator 708 (Main lobby to pedestrian bridge),,,,1
-709,709,1,elevator,place-wondl,Bowdoin platform to pedestrian plaza,Wonderland Elevator 709 (Bowdoin platform to pedestrian plaza),,,,1
+709,709,1,elevator,place-wondl,North Shore Road Busway to pedestrian plaza,Wonderland Elevator 709 (North Shore Road Busway to pedestrian plaza),,,,1
 710,710,1,elevator,place-wondl,Wonderland platform to pedestrian plaza,Wonderland Elevator 710 (Wonderland platform to pedestrian plaza),,,,1
 711,711,1,elevator,place-wondl,Ocean Avenue to pedestrian plaza,Wonderland Elevator 711 (Ocean Avenue to pedestrian plaza),,,,1
 712,712,1,elevator,place-orhte,Bowdoin platform to paid pedestrian bridge,Orient Heights Elevator 712 (Bowdoin platform to paid pedestrian bridge),,,,1
-713,713,1,elevator,place-orhte,Bennington Street to unpaid pedestrian bridge,Orient Heights Elevator 713 (Bennington Street to unpaid pedestrian bridge),,,,1
+713,713,1,elevator,place-orhte,Bennington Street Busway to unpaid pedestrian bridge,Orient Heights Elevator 713 (Bennington Street Busway to unpaid pedestrian bridge),,,,1
 714,714,1,elevator,place-orhte,Wonderland platform to paid pedestrian bridge,Orient Heights Elevator 714 (Wonderland platform to paid pedestrian bridge),,,,1
-715,715,1,elevator,place-orhte,Saratoga Street to unpaid pedestrian bridge,Orient Heights Elevator 715 (Saratoga Street to unpaid pedestrian bridge),,,,1
+715,715,1,elevator,place-orhte,Saratoga Street Busway to unpaid pedestrian bridge,Orient Heights Elevator 715 (Saratoga Street Busway to unpaid pedestrian bridge),,,,1
 716,716,1,elevator,place-astao,Foley Street to unpaid lobby,Assembly Elevator 716 (Foley Street to unpaid lobby),,,,1
 717,717,1,elevator,place-astao,Platform to Foley Street paid lobby,Assembly Elevator 717 (Platform to Foley Street paid lobby),,,,1
 718,718,1,elevator,place-astao,Revolution Drive to unpaid lobby,Assembly Elevator 718 (Revolution Drive to unpaid lobby),,,,1
@@ -226,17 +226,17 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 808,808,1,elevator,place-pktrm,"Red Line center platform to Government Center & North platform, Winter Street Concourse","Park Street Elevator 808 (Red Line center platform to Government Center & North platform, Winter Street Concourse)",,,,1
 810,810,1,elevator,place-qnctr,Red Line platform to lobby,Quincy Center Elevator 810 (Red Line platform to lobby),,,,1
 811,811,1,elevator,place-brntn,Red Line platform to lobby,Braintree Elevator 811 (Red Line platform to lobby),,,,1
-812,812,1,elevator,place-pktrm,Green Line underpass to Lechmere platform,Park Street Elevator 812 (Green Line underpass to Lechmere platform),,,,1
+812,812,1,elevator,place-pktrm,Green Line underpass to Government Center & North platform,Park Street Elevator 812 (Green Line underpass to Government Center & North platform),,,,1
 813,813,1,elevator,place-alfcl,Platform to main lobby,Alewife Elevator 813 (Platform to main lobby),,,,1
-814,814,1,elevator,place-alfcl,Main lobby to parking garage,Alewife Elevator 814 (Main lobby to parking garage),,,,1
-815,815,1,elevator,place-alfcl,Main lobby to parking garage,Alewife Elevator 815 (Main lobby to parking garage),,,,1
+814,814,1,elevator,place-alfcl,"Main lobby to street, parking garage","Alewife Elevator 814 (Main lobby to street, parking garage)",,,,1
+815,815,1,elevator,place-alfcl,"Main lobby to street, parking garage","Alewife Elevator 815 (Main lobby to street, parking garage)",,,,1
 816,816,1,elevator,place-davis,Platform to lobby,Davis Elevator 816 (Platform to lobby),,,,1
 817,817,1,elevator,place-davis,Lobby to College Avenue,Davis Elevator 817 (Lobby to College Avenue),,,,1
 821,821,1,elevator,place-harsq,Lobby to Harvard Square,Harvard Elevator 821 (Lobby to Harvard Square),,,,1
 823,823,1,elevator,place-pktrm,Green Line underpass to Copley & West platform,Park Street Elevator 823 (Green Line underpass to Copley & West platform),,,,1
 830,830,1,elevator,place-jfk,Braintree branch platform to lobby,JFK/UMass Elevator 830 (Braintree branch platform to lobby),,,,1
 831,831,1,elevator,place-jfk,Ashmont branch platform to lobby,JFK/UMass Elevator 831 (Ashmont branch platform to lobby),,,,1
-840,840,1,elevator,place-sull,Platform to lobby,Sullivan Square Elevator 840 (Platform to lobby),,,,1
+840,840,1,elevator,place-sull,Center platform to lobby,Sullivan Square Elevator 840 (Center platform to lobby),,,,1
 841,841,1,elevator,place-forhl,Commuter Rail platform to lobby,Forest Hills Elevator 841 (Commuter Rail platform to lobby),,,,1
 842,842,1,elevator,place-forhl,Orange Line platform to main upper lobby,Forest Hills Elevator 842 (Orange Line platform to main upper lobby),,,,1
 843,843,1,elevator,place-forhl,Lower busway to upper lobby,Forest Hills Elevator 843 (Lower busway to upper lobby),,,,1
@@ -244,7 +244,7 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 845,845,1,elevator,place-sbmnl,Platform to paid lobby,Stony Brook Elevator 845 (Platform to paid lobby),,,,1
 846,846,1,elevator,place-jaksn,Platform to paid lobby,Jackson Square Elevator 846 (Platform to paid lobby),,,,1
 847,847,1,elevator,place-rcmnl,Platform to paid lobby,Roxbury Crossing Elevator 847 (Platform to paid lobby),,,,1
-848,848,1,elevator,place-rugg,Lower busway to upper lobby,Ruggles Elevator 848 (Lower busway to upper lobby),,,,1
+848,848,1,elevator,place-rugg,Lobby to lower busway center island,Ruggles Elevator 848 (Lobby to lower busway center island),,,,1
 849,849,1,elevator,place-rugg,Commuter Rail platform to upper lobby,Ruggles Elevator 849 (Commuter Rail platform to upper lobby),,,,1
 850,850,1,elevator,place-rugg,Orange Line platform to upper lobby,Ruggles Elevator 850 (Orange Line platform to upper lobby),,,,1
 851,851,1,elevator,place-rugg,Forsyth Street to upper lobby,Ruggles Elevator 851 (Forsyth Street to upper lobby),,,,1
@@ -253,25 +253,24 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 854,854,1,elevator,place-bbsta,Commuter Rail track 2 to lobby,Back Bay Elevator 854 (Commuter Rail track 2 to lobby),,,,1
 855,855,1,elevator,place-bbsta,Commuter Rail tracks 1 and 3 to lobby,Back Bay Elevator 855 (Commuter Rail tracks 1 and 3 to lobby),,,,1
 856,856,1,elevator,place-bbsta,Commuter Rail tracks 5 and 7 to lobby,Back Bay Elevator 856 (Commuter Rail tracks 5 and 7 to lobby),,,,1
-857,857,1,elevator,place-tumnl,Washington Street lobby to street,Tufts Medical Center Elevator 857 (Washington Street lobby to street),,,,1
+857,857,1,elevator,place-tumnl,Lobby to Washington Street,Tufts Medical Center Elevator 857 (Lobby to Washington Street),,,,1
 858,858,1,elevator,place-tumnl,Oak Grove platform to Washington Street lobby,Tufts Medical Center Elevator 858 (Oak Grove platform to Washington Street lobby),,,,1
 859,859,1,elevator,place-tumnl,Forest Hills platform to Washington Street lobby,Tufts Medical Center Elevator 859 (Forest Hills platform to Washington Street lobby),,,,1
-860,860,1,elevator,place-cntsq,Alewife platform to street,Central Elevator 860 (Alewife platform to street),,,,1
-861,861,1,elevator,place-cntsq,Ashmont/Braintree platform to street,Central Elevator 861 (Ashmont/Braintree platform to street),,,,1
-863,863,1,elevator,place-knncl,Ashmont/Braintree platform to street,Kendall/MIT Elevator 863 (Ashmont/Braintree platform to street),,,,1
+860,860,1,elevator,place-cntsq,Alewife platform to Mass Avenue,Central Elevator 860 (Alewife platform to Mass Avenue),,,,1
+861,861,1,elevator,place-cntsq,Ashmont/Braintree platform to Mass Avenue,Central Elevator 861 (Ashmont/Braintree platform to Mass Avenue),,,,1
+863,863,1,elevator,place-knncl,Ashmont/Braintree platform to Main Street,Kendall/MIT Elevator 863 (Ashmont/Braintree platform to Main Street),,,,1
 864,864,1,elevator,place-welln,Oak Grove platform to lobby,Wellington Elevator 864 (Oak Grove platform to lobby),,,,1
 865,865,1,elevator,place-welln,Forest Hills platform to lobby,Wellington Elevator 865 (Forest Hills platform to lobby),,,,1
-866,866,1,elevator,place-knncl,Alewife platform to street,Kendall/MIT Elevator 866 (Alewife platform to street),,,,1
+866,866,1,elevator,place-knncl,Alewife platform to Main Street,Kendall/MIT Elevator 866 (Alewife platform to Main Street),,,,1
 867,867,1,elevator,place-brdwy,Platform to lobby,Broadway Elevator 867 (Platform to lobby),,,,1
 868,868,1,elevator,place-brdwy,Lobby to street,Broadway Elevator 868 (Lobby to street),,,,1
 869,869,1,elevator,place-dwnxg,Alewife platform to Summer Street Concourse,Downtown Crossing Elevator 869 (Alewife platform to Summer Street Concourse),,,,1
 870,870,1,elevator,place-dwnxg,Ashmont/Braintree platform to Summer Street Concourse,Downtown Crossing Elevator 870 (Ashmont/Braintree platform to Summer Street Concourse),,,,1
-871,871,1,elevator,place-qnctr,Lobby to parking garage,Quincy Center Elevator 871 (Lobby to parking garage),,,,1
-872,872,1,elevator,place-andrw,Unpaid lobby to street,Andrew Elevator 872 (Unpaid lobby to street),,,,1
-876,876,1,elevator,place-chncl,Oak Grove platform to street,Chinatown Elevator 876 (Oak Grove platform to street),,,,1
-879,879,1,elevator,place-andrw,Ashmont/Braintree platform to paid lobby,Andrew Elevator 879 (Ashmont/Braintree platform to paid lobby),,,,1
-880,880,1,elevator,place-andrw,Alewife platform to paid lobby,Andrew Elevator 880 (Alewife platform to paid lobby),,,,1
-881,881,1,elevator,place-sull,Lobby to Oak Grove platform,Sullivan Square Elevator 881 (Lobby to Oak Grove platform),,,,1
+872,872,1,elevator,place-andrw,Lobby to street,Andrew Elevator 872 (Lobby to street),,,,1
+876,876,1,elevator,place-chncl,"Oak Grove platform to Washington St, Essex St","Chinatown Elevator 876 (Oak Grove platform to Washington St, Essex St)",,,,1
+879,879,1,elevator,place-andrw,Ashmont/Braintree platform to lobby,Andrew Elevator 879 (Ashmont/Braintree platform to lobby),,,,1
+880,880,1,elevator,place-andrw,Alewife platform to lobby,Andrew Elevator 880 (Alewife platform to lobby),,,,1
+881,881,1,elevator,place-sull,Oak Grove platform to lobby,Sullivan Square Elevator 881 (Oak Grove platform to lobby),,,,1
 884,884,1,elevator,place-rbmnl,Bowdoin platform to lobby,Revere Beach Elevator 884 (Bowdoin platform to lobby),,,,1
 885,885,1,elevator,place-rbmnl,Wonderland platform to lobby,Revere Beach Elevator 885 (Wonderland platform to lobby),,,,1
 886,886,1,elevator,place-bmmnl,Bowdoin platform to lobby,Beachmont Elevator 886 (Bowdoin platform to lobby),,,,1
@@ -285,7 +284,7 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 898,898,1,elevator,place-nqncy,Newport Avenue parking to northern lobby,North Quincy Elevator 898 (Newport Avenue parking to northern lobby),,,,1
 899,899,1,elevator,place-nqncy,Platform to northern lobby,North Quincy Elevator 899 (Platform to northern lobby),,,,1
 900,900,1,elevator,place-nqncy,"Platform to main lobby, busway","North Quincy Elevator 900 (Platform to main lobby, busway)",,,,1
-901,901,1,elevator,place-sstat,"Ashmont/Braintree platform to lobby, Airport/Design Center platform","South Station Elevator 901 (Ashmont/Braintree platform to lobby, Airport/Design Center platform)",,,,1
+901,901,1,elevator,place-sstat,Ashmont/Braintree platform to Silver Line drop-off platform and lobby,South Station Elevator 901 (Ashmont/Braintree platform to Silver Line drop-off platform and lobby),,,,1
 903,903,1,elevator,place-haecl,Oak Grove platform to Congress Street lobby,Haymarket Elevator 903 (Oak Grove platform to Congress Street lobby),,,,1
 904,904,1,elevator,place-haecl,Forest Hills platform to Congress Street lobby,Haymarket Elevator 904 (Forest Hills platform to Congress Street lobby),,,,1
 905,905,1,elevator,place-haecl,Underpass to Forest Hills platform,Haymarket Elevator 905 (Underpass to Forest Hills platform),,,,1
@@ -299,31 +298,30 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 913,913,1,elevator,place-aqucl,Wonderland platform to State Street lobby,Aquarium Elevator 913 (Wonderland platform to State Street lobby),,,,1
 914,914,1,elevator,place-aqucl,Bowdoin platform to State Street lobby,Aquarium Elevator 914 (Bowdoin platform to State Street lobby),,,,1
 915,915,1,elevator,place-aqucl,State Street lobby to street,Aquarium Elevator 915 (State Street lobby to street),,,,1
-917,917,1,elevator,place-prmnl,Lobby to Prudential Center,Prudential Elevator 917 (Lobby to Prudential Center),,,,1
-918,918,1,elevator,place-sstat,"Ashmont/Braintree platform to lobby, Airport/Design Center platform","South Station Elevator 918 (Ashmont/Braintree platform to lobby, Airport/Design Center platform)",,,,1
-919,919,1,elevator,place-sstat,Alewife platform to Airport/Design Center platform,South Station Elevator 919 (Alewife platform to Airport/Design Center platform),,,,1
+917,917,1,elevator,place-prmnl,Lobby to Huntington Avenue,Prudential Elevator 917 (Lobby to Huntington Avenue),,,,1
+918,918,1,elevator,place-sstat,Ashmont/Braintree platform to Airport/Design Center/Chelsea platform and lobby,South Station Elevator 918 (Ashmont/Braintree platform to Airport/Design Center/Chelsea platform and lobby),,,,1
+919,919,1,elevator,place-sstat,Alewife platform to Airport/Design Center/Chelsea platform,South Station Elevator 919 (Alewife platform to Airport/Design Center/Chelsea platform),,,,1
 920,920,1,elevator,place-prmnl,Heath Street platform to lobby,Prudential Elevator 920 (Heath Street platform to lobby),,,,1
-921,921,1,elevator,place-prmnl,Park Street & North platform to lobby,Prudential Elevator 921 (Park Street & North platform to lobby),,,,1
-922,922,1,elevator,place-chncl,Forest Hills platform to street,Chinatown Elevator 922 (Forest Hills platform to street),,,,1
+921,921,1,elevator,place-prmnl,Lechmere platform to lobby,Prudential Elevator 921 (Lechmere platform to lobby),,,,1
+922,922,1,elevator,place-chncl,"Forest Hills platform to Boylston St, Washington St","Chinatown Elevator 922 (Forest Hills platform to Boylston St, Washington St)",,,,1
 923,923,1,elevator,place-aqucl,Bowdoin platform to Atlantic Avenue lobby,Aquarium Elevator 923 (Bowdoin platform to Atlantic Avenue lobby),,,,1
 924,924,1,elevator,place-aqucl,Wonderland platform to Atlantic Avenue lobby,Aquarium Elevator 924 (Wonderland platform to Atlantic Avenue lobby),,,,1
 925,925,1,elevator,place-aqucl,Atlantic Avenue lobby to Long Wharf,Aquarium Elevator 925 (Atlantic Avenue lobby to Long Wharf),,,,1
-926,926,1,elevator,place-sstat,Lobby to street outside main entrance,South Station Elevator 926 (Lobby to street outside main entrance),,,,1
-927,927,1,elevator,place-sstat,South Station platform to Alewife platform,South Station Elevator 927 (South Station platform to Alewife platform),,,,1
+926,926,1,elevator,place-sstat,"Subway Lobby to Atlantic Avenue, Summer Street","South Station Elevator 926 (Subway Lobby to Atlantic Avenue, Summer Street)",,,,1
+927,927,1,elevator,place-sstat,Alewife platform to Silver Line Drop-off platform,South Station Elevator 927 (Alewife platform to Silver Line Drop-off platform),,,,1
 928,928,1,elevator,place-ER-0115,Platform to lobby,Lynn Elevator 928 (Platform to lobby),,,,1
 929,929,1,elevator,place-ER-0115,Street to parking garage,Lynn Elevator 929 (Street to parking garage),,,,1
 930,930,1,elevator,place-ER-0115,Street to parking garage,Lynn Elevator 930 (Street to parking garage),,,,1
-931,931,1,elevator,place-aport,Wonderland platform to paid mezzanine,Airport Elevator 931 (Wonderland platform to paid mezzanine),,,,1
-932,932,1,elevator,place-aport,Bowdoin platform to paid mezzanine,Airport Elevator 932 (Bowdoin platform to paid mezzanine),,,,1
+931,931,1,elevator,place-aport,Wonderland platform to paid pedestrian bridge,Airport Elevator 931 (Wonderland platform to paid pedestrian bridge),,,,1
+932,932,1,elevator,place-aport,Bowdoin platform to paid pedestrian bridge,Airport Elevator 932 (Bowdoin platform to paid pedestrian bridge),,,,1
 933,933,1,elevator,place-ccmnl,Paid lobby to platform,Community College Elevator 933 (Paid lobby to platform),,,,1
 934,934,1,elevator,place-wtcst,Lobby to World Trade Center Avenue,World Trade Center Elevator 934 (Lobby to World Trade Center Avenue),,,,1
 935,935,1,elevator,place-wtcst,South Station platform to lobby,World Trade Center Elevator 935 (South Station platform to lobby),,,,1
-936,936,1,elevator,place-wtcst,Airport/Design Center platform to lobby,World Trade Center Elevator 936 (Airport/Design Center platform to lobby),,,,1
+936,936,1,elevator,place-wtcst,Airport/Design Center/Chelsea platform to lobby,World Trade Center Elevator 936 (Airport/Design Center/Chelsea platform to lobby),,,,1
 937,937,1,elevator,place-crtst,South Station platform to lobby,Courthouse Elevator 937 (South Station platform to lobby),,,,1
-938,938,1,elevator,place-crtst,Airport/Design Center platform to lobby,Courthouse Elevator 938 (Airport/Design Center platform to lobby),,,,1
+938,938,1,elevator,place-crtst,Airport/Design Center/Chelsea platform to lobby,Courthouse Elevator 938 (Airport/Design Center/Chelsea platform to lobby),,,,1
 939,939,1,elevator,place-crtst,"Lobby to Seaport Boulevard, Thomson Place","Courthouse Elevator 939 (Lobby to Seaport Boulevard, Thomson Place)",,,,1
 940,940,1,elevator,place-crtst,"Lobby to Seaport Boulevard, Fan Pier Boulevard","Courthouse Elevator 940 (Lobby to Seaport Boulevard, Fan Pier Boulevard)",,,,1
-941,941,1,elevator,place-north,"Orange Line, Green Line lobby to Commuter Rail, TD Garden","North Station Elevator 941 (Orange Line, Green Line lobby to Commuter Rail, TD Garden)",,,,1
 944,944,1,elevator,place-mlmnl,Lobby to Commuter Rail platform,Malden Center Elevator 944 (Lobby to Commuter Rail platform),,,,1
 945,945,1,elevator,place-mlmnl,Lobby to Orange Line platform,Malden Center Elevator 945 (Lobby to Orange Line platform),,,,1
 946,946,1,elevator,place-shmnl,Platform to paid lobby,Savin Hill Elevator 946 (Platform to paid lobby),,,,1
@@ -334,34 +332,34 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 952,952,1,elevator,place-chmnl,Alewife platform to lobby,Charles/MGH Elevator 952 (Alewife platform to lobby),,,,1
 953,953,1,elevator,place-smmnl,Alewife platform to lobby,Shawmut Elevator 953 (Alewife platform to lobby),,,,1
 954,954,1,elevator,place-smmnl,Ashmont platform to lobby,Shawmut Elevator 954 (Ashmont platform to lobby),,,,1
-955,955,1,elevator,place-aport,Bremen Street to unpaid mezzanine,Airport Elevator 955 (Bremen Street to unpaid mezzanine),,,,1
-956,956,1,elevator,place-aport,"Buses, Airport to unpaid mezzanine","Airport Elevator 956 (Buses, Airport to unpaid mezzanine)",,,,1
+955,955,1,elevator,place-aport,Bremen Street lobby to unpaid pedestrian bridge,Airport Elevator 955 (Bremen Street lobby to unpaid pedestrian bridge),,,,1
+956,956,1,elevator,place-aport,Busway lobby to unpaid pedestrian bridge,Airport Elevator 956 (Busway lobby to unpaid pedestrian bridge),,,,1
 957,957,1,elevator,place-fldcr,Paid lobby to Alewife platform,Fields Corner Elevator 957 (Paid lobby to Alewife platform),,,,1
 958,958,1,elevator,place-fldcr,Paid lobby to Ashmont platform,Fields Corner Elevator 958 (Paid lobby to Ashmont platform),,,,1
-961,961,1,elevator,place-alfcl,"Platform to Russell Field, Rindge Avenue","Alewife Elevator 961 (Platform to Russell Field, Rindge Avenue)",,,,1
+961,961,1,elevator,place-alfcl,"Platform to Russell Field, Rindge Avenue lobby","Alewife Elevator 961 (Platform to Russell Field, Rindge Avenue lobby)",,,,1
 962,962,1,elevator,place-armnl,Copley & West platform to lobby,Arlington Elevator 962 (Copley & West platform to lobby),,,,1
 963,963,1,elevator,place-armnl,Park Street & North platform to lobby,Arlington Elevator 963 (Park Street & North platform to lobby),,,,1
-964,964,1,elevator,place-armnl,Lobby to street,Arlington Elevator 964 (Lobby to street),,,,1
+964,964,1,elevator,place-armnl,Lobby to Boylston Street,Arlington Elevator 964 (Lobby to Boylston Street),,,,1
 965,965,1,elevator,place-mvbcl,"Platform to Maverick Square, busway","Maverick Elevator 965 (Platform to Maverick Square, busway)",,,,1
 966,966,1,elevator,place-mvbcl,Platform to Lewis Courtyard,Maverick Elevator 966 (Platform to Lewis Courtyard),,,,1
 967,967,1,elevator,place-state,"Oak Grove platform to Forest Hills, Wonderland platforms","State Elevator 967 (Oak Grove platform to Forest Hills, Wonderland platforms)",,,,1
-968,968,1,elevator,place-asmnl,Peabody Square lobby to Alewife platform,Ashmont Elevator 968 (Peabody Square lobby to Alewife platform),,,,1
-969,969,1,elevator,place-asmnl,Mattapan Line lobby to Alewife platform,Ashmont Elevator 969 (Mattapan Line lobby to Alewife platform),,,,1
+968,968,1,elevator,place-asmnl,Alewife platform to Peabody Square lobby,Ashmont Elevator 968 (Alewife platform to Peabody Square lobby),,,,1
+969,969,1,elevator,place-asmnl,Alewife platform to Mattapan Line lobby,Ashmont Elevator 969 (Alewife platform to Mattapan Line lobby),,,,1
 970,970,1,elevator,place-asmnl,"Ashmont platform to Mattapan Line lobby, busway","Ashmont Elevator 970 (Ashmont platform to Mattapan Line lobby, busway)",,,,1
 971,971,1,elevator,place-kencl,Westbound platform to lobby,Kenmore Elevator 971 (Westbound platform to lobby),,,,1
 972,972,1,elevator,place-kencl,"Park Street & North platform to lobby, busway","Kenmore Elevator 972 (Park Street & North platform to lobby, busway)",,,,1
 973,973,1,elevator,place-harsq,Upper busway to Brattle Square,Harvard Elevator 973 (Upper busway to Brattle Square),,,,1
-974,974,1,elevator,place-state,"Bowdoin platform to Congress Street, State Street","State Elevator 974 (Bowdoin platform to Congress Street, State Street)",,,,1
-975,975,1,elevator,place-state,"Wonderland platform to Congress Street, Exchange Place","State Elevator 975 (Wonderland platform to Congress Street, Exchange Place)",,,,1
-976,976,1,elevator,place-coecl,Park Street & North lobby to street,Copley Elevator 976 (Park Street & North lobby to street),,,,1
-977,977,1,elevator,place-coecl,"Kenmore & West, Heath Street lobby to street","Copley Elevator 977 (Kenmore & West, Heath Street lobby to street)",,,,1
-978,978,1,elevator,place-pktrm,Copley & West platform to street,Park Street Elevator 978 (Copley & West platform to street),,,,1
+974,974,1,elevator,place-state,"Bowdoin platform to Congress Street, 60 State Street","State Elevator 974 (Bowdoin platform to Congress Street, 60 State Street)",,,,1
+975,975,1,elevator,place-state,"Wonderland platform to Congress Street, 53 State Street","State Elevator 975 (Wonderland platform to Congress Street, 53 State Street)",,,,1
+976,976,1,elevator,place-coecl,Park Street & North platform to Boylston Street,Copley Elevator 976 (Park Street & North platform to Boylston Street),,,,1
+977,977,1,elevator,place-coecl,"Kenmore & West, Heath Street platform to Boylston Street","Copley Elevator 977 (Kenmore & West, Heath Street platform to Boylston Street)",,,,1
+978,978,1,elevator,place-pktrm,Copley & West platform to Boston Common,Park Street Elevator 978 (Copley & West platform to Boston Common),,,,1
 979,979,1,elevator,place-pktrm,Red Line center platform to Copley & West platform,Park Street Elevator 979 (Red Line center platform to Copley & West platform),,,,1
 980,980,1,elevator,place-spmnl,Copley & West platform to lobby,Science Park/West End Elevator 980 (Copley & West platform to lobby),,,,1
 981,981,1,elevator,place-spmnl,Lechmere platform to lobby,Science Park/West End Elevator 981 (Lechmere platform to lobby),,,,1
-982,982,1,elevator,place-portr,Lobby to street,Porter Elevator 982 (Lobby to street),,,,1
+982,982,1,elevator,place-portr,Lobby to Somerville Avenue & Mass Avenue,Porter Elevator 982 (Lobby to Somerville Avenue & Mass Avenue),,,,1
 983,983,1,elevator,place-portr,Red Line platforms to lobby,Porter Elevator 983 (Red Line platforms to lobby),,,,1
-985,985,1,elevator,place-portr,Lobby to street,Porter Elevator 985 (Lobby to street),,,,1
+985,985,1,elevator,place-portr,Lobby to Somerville Avenue,Porter Elevator 985 (Lobby to Somerville Avenue),,,,1
 986,986,1,elevator,place-portr,Commuter Rail platform to lobby,Porter Elevator 986 (Commuter Rail platform to lobby),,,,1
 987,987,1,elevator,place-portr,Red Line platforms to lobby,Porter Elevator 987 (Red Line platforms to lobby),,,,1
 990,990,1,elevator,place-WML-0025,Street to South Station platform 2 and bridge,Lansdowne Elevator 990 (Street to South Station platform 2 and bridge),,,,1
