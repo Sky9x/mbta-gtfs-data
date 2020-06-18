@@ -1,10 +1,10 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
-Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,43870741C0
-Red-3-0,Red,0,Alewife - Braintree,,1,10010005,43870912C0
+Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,43206839
+Red-3-0,Red,0,Alewife - Braintree,,1,10010005,43206854
 Red-_-0,Red,0,Alewife - Quincy Center,Evenings only,3,10010008,44080142-20:45-BraintreeQuincyCenterBraintreeQuincyCenterExtended0
 Red-3-0_70101_70105_0,Red,0,Alewife - Quincy Center,,4,10010099,43870912C0-20:45-BraintreeQuincyCenterBraintreeQuincyCenterExtended0
-Red-1-1,Red,1,Ashmont - Alewife,,1,10010104,43870655C0
-Red-3-1,Red,1,Braintree - Alewife,,1,10010105,43870827C0
+Red-1-1,Red,1,Ashmont - Alewife,,1,10010104,43206834
+Red-3-1,Red,1,Braintree - Alewife,,1,10010105,43206849
 Red-_-1,Red,1,Quincy Center - Alewife,Evenings only,3,10010108,44080148-20:45-BraintreeQuincyCenterBraintreeQuincyCenterExtended2
 Red-3-1_70105_70102_2,Red,1,Quincy Center - Alewife,,4,10010199,43870827C0-20:45-BraintreeQuincyCenterBraintreeQuincyCenterExtended2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,43820489C0
@@ -12,36 +12,44 @@ Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,43820488C0
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,43869445C0
 Orange-5-0,Orange,0,Wellington - Forest Hills,Weekdays only,3,10020004,44080744
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,43869446C0
-Green-B-3-0,Green-B,0,Park Street - Boston College,,1,10032000,45106273
+Green-B-3-0,Green-B,0,Park Street - Boston College,,1,10032000,45109077
 Green-B-1-0,Green-B,0,North Station - Boston College,Weekend early mornings only,3,10032007,45109056
-Green-B-0-0_70210_70206_2,Green-B,0,North Station - Boston College,,4,10032099,43829906C0-07:00-09:00-16:00-18:30-AKenmoreRiversideLechmereNorthStationP2
-Green-B-3-1,Green-B,1,Boston College - Park Street,,1,10032100,45106115
+Green-B-0-0_70210_70206_2,Green-B,0,North Station - Boston College,,4,10032099,43829906C0-LechmereNorthStation2
+Green-B-3-1,Green-B,1,Boston College - Park Street,,1,10032100,45109075
 Green-B-1-1,Green-B,1,Boston College - North Station,Weekend early mornings only,3,10032107,45109055
-Green-B-0-1_70205_70209_0,Green-B,1,Boston College - North Station,,4,10032199,43829905C0-07:00-09:00-16:00-18:30-AKenmoreRiversideLechmereNorthStationP0
-Green-C-1-0,Green-C,0,North Station - Cleveland Circle,,1,10033000,45106204
-Green-C-0-0_70210_70206_2,Green-C,0,North Station - Cleveland Circle,,4,10033099,43829810C0-07:00-09:00-16:00-18:30-AKenmoreRiversideLechmereNorthStationP2
-Green-C-1-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,45106203
-Green-C-0-1_70205_70209_0,Green-C,1,Cleveland Circle - North Station,,4,10033199,43829809C0-07:00-09:00-16:00-18:30-AKenmoreRiversideLechmereNorthStationP0
-Green-D-2-0,Green-D,0,Government Center - Riverside,,1,10034000,45106199
-Green-D-5-0,Green-D,0,Government Center - Reservoir,Weekday evenings only,3,10034004,45106200
-Green-D-3-0,Green-D,0,North Station - Reservoir,Weekday evenings only,3,10034008,45108260
-Green-D-1-0,Green-D,0,North Station - Riverside,Weekday early mornings only,3,10034009,45106219
-Green-D-1-0_70151_70161_0,Green-D,0,North Station - Kenmore,,4,10034099,45106219-07:00-09:00-16:00-18:30-AKenmoreRiversidePR0
-Green-D-2-0_70151_70161_0,Green-D,0,Government Center - Kenmore,,4,10034099,43830006C0-07:00-09:00-16:00-18:30-AKenmoreRiversideLechmereNorthStationP0
-Green-D-3-0_70151_70175_0,Green-D,0,North Station - Kenmore,,4,10034099,45108260-07:00-09:00-16:00-18:30-AKenmoreRiversidePR0
-Green-D-5-0_70151_70175_0,Green-D,0,Government Center - Kenmore,,4,10034099,45106200-07:00-09:00-16:00-18:30-AKenmoreRiversidePR0
-Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034100,45106201
-Green-D-5-1,Green-D,1,Reservoir - Government Center,Weekdays only,3,10034104,45106202
-Green-D-3-1,Green-D,1,Reservoir - North Station,Weekday mornings only,3,10034108,45108233
-Green-D-1-1,Green-D,1,Riverside - North Station,Weekdays only,3,10034110,45106220
-Green-D-1-1_70160_70150_2,Green-D,1,Kenmore - North Station,,4,10034199,45106220-07:00-09:00-16:00-18:30-AKenmoreRiversidePR2
-Green-D-2-1_70160_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,43829970C0-07:00-09:00-16:00-18:30-AKenmoreRiversideLechmereNorthStationP2
-Green-D-3-1_70174_70150_2,Green-D,1,Kenmore - North Station,,4,10034199,45108233-07:00-09:00-16:00-18:30-AKenmoreRiversidePR2
-Green-D-5-1_70174_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,45106202-07:00-09:00-16:00-18:30-AKenmoreRiversidePR2
-Green-E-1-0,Green-E,0,North Station - Heath Street,,1,10035000,45106211
-Green-E-0-0_70210_70206_2,Green-E,0,North Station - Heath Street,,1,10035099,43829907C0-07:00-09:00-16:00-18:30-AKenmoreRiversideLechmereNorthStationP2
-Green-E-1-1,Green-E,1,Heath Street - North Station,,1,10035100,45106212
-Green-E-0-1_70205_70209_0,Green-E,1,Heath Street - North Station,,1,10035199,43830026C0-07:00-09:00-16:00-18:30-AKenmoreRiversideLechmereNorthStationP0
+Green-B-0-1_70205_70209_0,Green-B,1,Boston College - North Station,,4,10032199,43829905C0-LechmereNorthStation0
+Green-C-1-0,Green-C,0,North Station - Cleveland Circle,,1,10033000,45109041
+Green-C-0-0_70210_70206_2,Green-C,0,North Station - Cleveland Circle,,4,10033099,43829810C0-LechmereNorthStation2
+Green-C-0-0_70210_70206_2_70151_70211_0,Green-C,0,North Station - Kenmore,,4,10033099,43829810-KSmRCKSmRDKSmRRLechmereNorthStation20
+Green-C-0-0_70210_70206_2_70151_70211_2,Green-C,0,Saint Marys Street - Cleveland Circle,,4,10033099,43829810-KSmRCKSmRDKSmRRLechmereNorthStation22
+Green-C-1-0_70151_70211_0,Green-C,0,North Station - Kenmore,,4,10033099,45106204-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP0
+Green-C-1-0_70151_70211_2,Green-C,0,Saint Marys Street - Cleveland Circle,,4,10033099,45106204-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP2
+Green-C-1-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,45109040
+Green-C-0-1_70205_70209_0,Green-C,1,Cleveland Circle - North Station,,4,10033199,43829809C0-LechmereNorthStation0
+Green-C-0-1_70205_70209_0_70212_70150_0,Green-C,1,Cleveland Circle - Saint Marys Street,,4,10033199,43829809-KSmRCKSmRDKSmRRLechmereNorthStation00
+Green-C-0-1_70205_70209_0_70212_70150_2,Green-C,1,Kenmore - North Station,,4,10033199,43829809-KSmRCKSmRDKSmRRLechmereNorthStation02
+Green-C-1-1_70212_70150_0,Green-C,1,Cleveland Circle - Saint Marys Street,,4,10033199,45106203-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP0
+Green-C-1-1_70212_70150_2,Green-C,1,Kenmore - North Station,,4,10033199,45106203-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP2
+Green-D-2-0,Green-D,0,Government Center - Riverside,,1,10034000,45109079
+Green-D-5-0,Green-D,0,Government Center - Reservoir,Weekday evenings only,3,10034004,45112629-20:45-ReservoirRiversideExtend
+Green-D-3-0,Green-D,0,North Station - Reservoir,Weekday evenings only,3,10034008,45108260-20:25-norm
+Green-D-1-0,Green-D,0,North Station - Riverside,Weekday early mornings only,3,10034009,45106219-20:25-norm
+Green-D-1-0_70151_70161_0,Green-D,0,North Station - Kenmore,,4,10034099,45106219-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP0
+Green-D-2-0_70151_70161_0,Green-D,0,Government Center - Kenmore,,4,10034099,45106199-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP0
+Green-D-3-0_70151_70175_0,Green-D,0,North Station - Kenmore,,4,10034099,45108260-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP0
+Green-D-5-0_70151_70175_0,Green-D,0,Government Center - Kenmore,,4,10034099,45106200-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP0
+Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034100,45109058
+Green-D-5-1,Green-D,1,Reservoir - Government Center,Weekdays only,3,10034104,45112329-20:45-ReservoirRiversideExtend2
+Green-D-3-1,Green-D,1,Reservoir - North Station,Weekday mornings only,3,10034108,45108237-20:25-norm
+Green-D-1-1,Green-D,1,Riverside - North Station,Weekdays only,3,10034110,45106220-20:25-norm
+Green-D-1-1_70160_70150_2,Green-D,1,Kenmore - North Station,,4,10034199,45106220-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP2
+Green-D-2-1_70160_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,45106201-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP2
+Green-D-3-1_70174_70150_2,Green-D,1,Kenmore - North Station,,4,10034199,45108233-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP2
+Green-D-5-1_70174_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,45106202-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP2
+Green-E-1-0,Green-E,0,North Station - Heath Street,,1,10035000,45109057
+Green-E-0-0_70210_70206_2,Green-E,0,North Station - Heath Street,,1,10035099,43829907C0-LechmereNorthStation2
+Green-E-1-1,Green-E,1,Heath Street - North Station,,1,10035100,45109065
+Green-E-0-1_70205_70209_0,Green-E,1,Heath Street - North Station,,1,10035199,43830026C0-LechmereNorthStation0
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,43868339C0
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040004,43868338C0
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,43868340C0
@@ -208,23 +216,14 @@ CapeFlyer-0-0,CapeFlyer,0,South Station - Hyannis,,1,21000000,CapeFlyer-Friday-9
 CapeFlyer-0-1,CapeFlyer,1,Hyannis - South Station,,1,21000100,CapeFlyer-Friday-9002
 Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-0630-Long-Weekday
 Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,30001100,Boat-F4-0645-Charlestown-Weekday
-Boat-F1-0-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport & Hull,,1,30002000,Boat-F1-1100-Long-WeekdaySummer
-Boat-F1-1-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,30002001,Boat-F1-0650-Rowes-WeekdaySummer
-Boat-F1-2-0,Boat-F1,0,Long Wharf - Hingham via Hull,,2,30002002,Boat-F1-1540-Long-WeekdaySummer
-Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,30002003,Boat-F1-0800-Long-WeekdaySummer
-Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,30002004,Boat-F1-0910-Long-WeekdaySummer
-Boat-F1-5-0,Boat-F1,0,Long Wharf - Hingham via Georges Island & Hull,Summer weekday middays only,2,30002005,Boat-F1-1300-Long-WeekdaySummer
-Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,30002006,Boat-F1-1215-Long-WeekdaySummer
-Boat-F1-7-0,Boat-F1,0,Long Wharf - Hingham via Georges Island,Summer weekends only,2,30002007,Boat-F1-1200-Long-Sunday
-Boat-F1-9-0,Boat-F1,0,Long Wharf - Hull via Logan Airport,,2,30002009,Boat-F1-0625-Long-WeekdaySummer
-Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,30002100,Boat-F1-1300-Hingham-WeekdaySummer
-Boat-F1-1-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,30002101,Boat-F1-0600-Hingham-WeekdaySummer
-Boat-F1-2-1,Boat-F1,1,Hingham - Long Wharf via Hull,,2,30002102,Boat-F1-0540-Hingham-WeekdaySummer
-Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,30002103,Boat-F1-0730-Hull-WeekdaySummer
-Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,30002104,Boat-F1-1545-Hingham-WeekdaySummer
-Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-WeekdaySummer
-Boat-F1-7-1,Boat-F1,1,Hingham - Long Wharf via Georges Island,Summer weekends only,2,30002107,Boat-F1-0900-Hingham-Sunday
-Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Summer weekday middays only,2,30002108,Boat-F1-1000-Hingham-WeekdaySummer
+Boat-F1-1-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,30002001,Boat-F1-0650-Rowes-WeekdayLimited
+Boat-F1-2-0,Boat-F1,0,Long Wharf - Hingham via Hull,,2,30002002,Boat-F1-1100-Long-WeekdayLimited
+Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,30002003,Boat-F1-0625-Long-WeekdayLimited
+Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,30002006,Boat-F1-0910-Long-WeekdayLimited
+Boat-F1-1-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,30002101,Boat-F1-0600-Hingham-WeekdayLimited
+Boat-F1-2-1,Boat-F1,1,Hingham - Long Wharf via Hull,,2,30002102,Boat-F1-0540-Hingham-WeekdayLimited
+Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,30002103,Boat-F1-0730-Hull-WeekdayLimited
+Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-WeekdayLimited
 747-_-0,747,0,Ruggles Station - Sullivan Square Station,Weekdays only,1,40020000,44902271
 747-_-1,747,1,Sullivan Square Station - Ruggles Station,Weekdays only,1,40020100,44902272
 708-_-0,708,0,Andrew Station - Brookline Ave,Weekdays only,1,40030000,44902253
@@ -255,9 +254,9 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 10-5-0,10,0,Copley Station - City Point,Late nights only,3,50100005,44172389
 10-9-1,10,1,City Point - Copley Square via South Bay Center,,1,50100100,44172323
 11-3-0,11,0,Bedford St & Chauncy St - City Point,,1,50110000,44171009
-11-2-0,11,0,Tufts Medical Center - City Point,,3,50110004,43759457
+11-2-0,11,0,Tufts Medical Center - City Point,,3,50110004,44921660
 11-3-1,11,1,City Point - Bedford St & Chauncy St,,1,50110100,44171008
-11-2-1,11,1,City Point - Tufts Medical Center,,3,50110104,43759454
+11-2-1,11,1,City Point - Tufts Medical Center,,3,50110104,44921657
 14-_-0,14,0,Heath St - Roslindale Square,,1,50140000,44196373
 14-1-0,14,0,Dudley Station - Roslindale Square,Weekday early mornings only,3,50140004,44914375
 14-_-1,14,1,Roslindale Square - Heath St,,1,50140100,44196374
@@ -520,7 +519,7 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 89-2-1,89,1,Davis Station - Sullivan Square Station,,1,50890100,44609752
 89-5-1,89,1,Clarendon Hill - Sullivan Square Station (Detour),,2,50890104,44609791
 89-_-1,89,1,Clarendon Hill - Sullivan Square Station,Weekdays only,3,50890108,44731797
-8993-1-0,8993,0,Haymarket Station - Clarendon Hill (Detour),Early mornings only,1,50891000,44557368
+8993-1-0,8993,0,Haymarket Station - Clarendon Hill (Detour),Early mornings only,1,50891000,44751487
 8993-1-1,8993,1,Clarendon Hill - Haymarket Station (Detour),Early mornings only,1,50891100,44608963
 90-_-0,90,0,Assembly Row - Davis Station,,1,50900000,44609838
 90-_-1,90,1,Davis Station - Assembly Row,,1,50900100,44609843
@@ -590,24 +589,24 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 111-2-1,111,1,Cary Square - Haymarket Station,,1,51110104,44609341
 111-6-1,111,1,Washington Ave & Revere Beach Pkwy - Haymarket Station,Weekdays only,3,51110108,44731107
 112-_-0,112,0,Wood Island Station - Wellington Station via Mystic Mall,,1,51120000,44609176
-112-1-0,112,0,Wood Island Station - Wellington Station (Omits Mystic Mall),Middays only,3,51120004,44558200
+112-1-0,112,0,Wood Island Station - Wellington Station (Omits Mystic Mall),Middays only,3,51120004,44752319
 112-_-1,112,1,Wellington Station - Wood Island Station via Mystic Mall,,1,51120100,44609177
-112-1-1,112,1,Wellington Station - Wood Island Station (Omits Mystic Mall),,3,51120104,44558201
+112-1-1,112,1,Wellington Station - Wood Island Station (Omits Mystic Mall),,3,51120104,44752320
 114-1-0,114,0,Maverick Station - Mystic Mall,Weekday middays only,1,51140000,44930911
 114-1-1,114,1,Mystic Mall - Maverick Station,Weekdays only,1,51140100,44930912
 116-4-0,116,0,Maverick Station - Wonderland Station,,1,51160000,44166570
-116-9-0,116,0,Broadway & Central Ave - Wonderland Station,Early mornings only,3,51160004,43589304
+116-9-0,116,0,Broadway & Central Ave - Wonderland Station,Early mornings only,3,51160004,44927762
 116-4-1,116,1,Wonderland Station - Maverick Station,,1,51160100,44166637
 116117-7-0,116117,0,Maverick Station - Bellingham Square,Weekday mornings only,1,51161000,44931361
 116117-7-1,116117,1,Bellingham Square - Maverick Station,Weekday mornings only,1,51161100,44931338
 117-5-0,117,0,Maverick Station - Wonderland Station,,1,51170000,44166569
 117-1-0,117,0,"Haymarket Station - Logan Airport, Terminal C",Early mornings only,3,51170004,44166568
 117-3-0,117,0,Haymarket Station - Lynn Bus Garage via Maverick Station,Late nights only,3,51170007,44166851
-117-2-0,117,0,Haymarket Station - Maverick Station,Early mornings only,3,51170010,43589189
+117-2-0,117,0,Haymarket Station - Maverick Station,Early mornings only,3,51170010,44927647
 117-5-1,117,1,Wonderland Station - Maverick Station,,1,51170100,44166652
 117-3-1,117,1,Lynn Bus Garage - Haymarket Station via Maverick Station,Early mornings only,3,51170104,44166651
 117-8-1,117,1,Broadway & Central Ave - Haymarket Station,Early mornings only,3,51170107,45034923
-117-_-1,117,1,Wonderland Station - Haymarket Station,Early mornings only,3,51170110,43589303
+117-_-1,117,1,Wonderland Station - Haymarket Station,Early mornings only,3,51170110,44927761
 119-3-0,119,0,Beachmont Station - Northgate Shopping Ctr via Tomasello Way,,1,51190000,44166512
 119-1-0,119,0,Beachmont Station - Northgate Shopping Center,Weekdays only,2,51190004,44930930
 119-3-1,119,1,Northgate Shopping Ctr - Beachmont Station via Tomasello Way,,1,51190100,44166511
@@ -631,14 +630,14 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 134-6-0,134,0,Wellington Station - Winthrop St & Playstead Rd,,1,51340000,44609017
 134-5-0,134,0,Wellington Station - North Woburn,,2,51340004,44609021
 134-3-0,134,0,Wellington Station - North Woburn via Trade Center,Weekdays only,2,51340008,44734520
-134-9-0,134,0,Wellington Station - Woburn Square,,3,51340009,44557239
+134-9-0,134,0,Wellington Station - Woburn Square,,3,51340009,44751358
 134-7-0,134,0,Wellington Station - Medford Square,,3,51340012,44609000
 134-2-0,134,0,Wellington - North Woburn via Trade Ctr & Veterans Ctr,Weekday middays only,3,51340016,44734537
 134-6-1,134,1,Winthrop St & Playstead Rd - Wellington Station,,1,51340100,44609018
 134-5-1,134,1,North Woburn - Wellington Station,,2,51340104,44609022
 134-3-1,134,1,North Woburn - Wellington Station via Trade Center,Weekdays only,2,51340108,44734521
 134-7-1,134,1,Medford Square - Wellington Station,,3,51340110,44608946
-134-9-1,134,1,Woburn Square - Wellington Station,,3,51340114,44557369
+134-9-1,134,1,Woburn Square - Wellington Station,,3,51340114,44751488
 134-2-1,134,1,North Woburn - Wellington via Trade Ctr & Veterans Ctr,Weekday middays only,3,51340119,44734524
 136-5-0,136,0,Malden Center Station - Reading Depot,,1,51360000,44609277
 136-6-0,136,0,Oak Grove Station - Reading Depot,PM peak hours only,2,51360004,44734026
@@ -668,9 +667,9 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 210-3-1,210,1,Quincy Center Station - Fields Corner Station,Weekdays only,1,52100100,44808181
 210-_-1,210,1,Quincy Center Station - North Quincy Station,,2,52100102,44168043
 211-_-0,211,0,Squantum - Quincy Center Station,,1,52110000,44168046
-211-7-0,211,0,Squantum - Quincy Center Station via Billings Rd,,3,52110004,43798632
+211-7-0,211,0,Squantum - Quincy Center Station via Billings Rd,,3,52110004,44814046
 211-_-1,211,1,Quincy Center Station - Squantum,,1,52110100,44168044
-211-7-1,211,1,Quincy Center Station - Squantum via Billings Rd,,3,52110104,43798633
+211-7-1,211,1,Quincy Center Station - Squantum via Billings Rd,,3,52110104,44814047
 212-2-0,212,0,North Quincy Station - Quincy Center Station,,1,52120000,44168042
 212-2-1,212,1,Quincy Center Station - North Quincy Station,,1,52120100,44168098
 214-1-0,214,0,Quincy Center Station - Germantown via Coddington St,Weekdays only,1,52140000,44808381
@@ -680,10 +679,10 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 214216-2-0,214216,0,Quincy Center Station - Houghs Neck via Germantown,,1,52141000,44168085
 214216-4-0,214216,0,Quincy Center - Houghs Neck via McGrath Hwy & Germantown,,2,52141004,44168095
 215-1-0,215,0,Ashmont Station - Quincy Center Station,,1,52150000,44167983
-215-3-0,215,0,Fields Corner Station - Quincy Center Station,,3,52150004,43798403
+215-3-0,215,0,Fields Corner Station - Quincy Center Station,,3,52150004,44813817
 215-_-0,215,0,North Quincy Station - Quincy Center Station,Early mornings only,3,52150009,44168316
 215-1-1,215,1,Quincy Center Station - Ashmont Station,,1,52150100,44168008
-215-3-1,215,1,Quincy Center Station - Fields Corner Station,,3,52150104,43798431
+215-3-1,215,1,Quincy Center Station - Fields Corner Station,,3,52150104,44813845
 215-_-1,215,1,Quincy Center Station - North Quincy Station,Early mornings only,3,52150109,44168315
 216-_-0,216,0,Quincy Center Station - Houghs Neck,Weekdays only,1,52160000,44808445
 216-_-1,216,1,Houghs Neck - Quincy Center Station,,1,52160100,44168075
@@ -722,10 +721,10 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 238-9-0,238,0,Quincy Center Station - Holbrook/Randolph Station,Weekdays only,1,52380000,44808537
 238-7-0,238,0,Quincy Center Station - Crawford Square,,2,52380002,44168500
 238-3-0,238,0,Quincy Center Station - Avon Square,,3,52380006,44808599
-238-5-0,238,0,Quincy Center - Crawford Square (Omits South Shore Plaza),Early mornings only,3,52380010,43798724
+238-5-0,238,0,Quincy Center - Crawford Square (Omits South Shore Plaza),Early mornings only,3,52380010,44814138
 238-9-1,238,1,Holbrook/Randolph Station - Quincy Center Station,Weekdays only,1,52380100,44808532
 238-7-1,238,1,Crawford Square - Quincy Center Station,,2,52380102,44168499
-238-3-1,238,1,Avon Square - Quincy Center Station,,3,52380106,43798700
+238-3-1,238,1,Avon Square - Quincy Center Station,,3,52380106,44814114
 240-1-0,240,0,Ashmont Station - Avon Square,,1,52400000,44168503
 240-9-0,240,0,Ashmont Station - Holbrook/Randolph Station,Weekdays only,2,52400004,44808546
 240-_-0,240,0,Ashmont Station - Crawford Square,,2,52400006,44168512
@@ -932,13 +931,15 @@ Shuttle-BackBayFraminghamLocal-0-0,Shuttle-BackBayFraminghamLocal,0,Back Bay - F
 Shuttle-BackBayFraminghamLocal-0-1,Shuttle-BackBayFraminghamLocal,1,Framingham - Back Bay,,4,60566199,CR-Saturday-DivWorcesterPTC-20-1500-BackBayFramingham1BackBayFraminghamLocal
 Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,4,61000099,43870912C0-20:45-BraintreeQuincyCenterBraintreeQuincyCenterExtended1
 Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,4,61000199,43870827C0-20:45-BraintreeQuincyCenterBraintreeQuincyCenterExtendedBraintreeQuincyCenter
-Shuttle-CopleyRiversideExpress-0-0,Shuttle-CopleyRiversideExpress,0,Copley (Express shuttle) - Riverside (Express shuttle),,4,61450099,43830906C0-07:00-09:00-16:00-18:30-AKenmoreRiversideLechmereNorthStationP01
-Shuttle-CopleyRiversideExpress-0-1,Shuttle-CopleyRiversideExpress,1,Riverside (Express shuttle) - Copley (Express shuttle),,4,61450199,43830915C0-07:00-09:00-16:00-18:30-AKenmoreRiversideLechmereNorthStationP21
+Shuttle-CopleyRiversideExpress-0-0,Shuttle-CopleyRiversideExpress,0,Copley (Express shuttle) - Riverside (Express shuttle),,4,61450099,45107695-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP01
+Shuttle-CopleyRiversideExpress-0-1,Shuttle-CopleyRiversideExpress,1,Riverside (Express shuttle) - Copley (Express shuttle),,4,61450199,45107569-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP21
 Shuttle-GreenbushSouthStation-0-0,Shuttle-GreenbushSouthStation,0,South Station - Greenbush,,4,61960099,CR-Weekday-StormB-19-1073C0-GreenbushSouthStation1
 Shuttle-GreenbushSouthStation-0-1,Shuttle-GreenbushSouthStation,1,Greenbush - South Station,,4,61960199,CR-Weekday-StormB-19-1072C0-GreenbushSouthStation1
 Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,4,62012099,43830006C0-07:00-09:00-16:00-18:30-AKenmoreRiversideLechmereNorthStationPKenmoreRiverside
 Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,4,62012199,43829970C0-07:00-09:00-16:00-18:30-AKenmoreRiversideLechmereNorthStationPKenmoreRiverside
+Shuttle-KenmoreStMarysRiverside-0-0,Shuttle-KenmoreStMarysRiverside,0,Kenmore via St Mary's St - Riverside via St Mary's St,,4,62015099,45106204-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP1
+Shuttle-KenmoreStMarysRiverside-0-1,Shuttle-KenmoreStMarysRiverside,1,Riverside via St Mary's St - Kenmore via St Mary's St,,4,62015199,45106203-07:00-09:00-16:00-18:30-AKSmRCKSmRDKSmRRP1
 Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,45113023-20:45-ReservoirRiversideExtend1
 Shuttle-ReservoirRiverside-0-1,Shuttle-ReservoirRiverside,1,Riverside - Reservoir,,4,62400199,45112329-20:45-ReservoirRiversideExtend1
-Shuttle-LechmereNorthStation-0-0,Shuttle-LechmereNorthStation,0,Lechmere - North Station,,4,62550099,43829906C0-07:00-09:00-16:00-18:30-AKenmoreRiversideLechmereNorthStationP1
-Shuttle-LechmereNorthStation-0-1,Shuttle-LechmereNorthStation,1,North Station - Lechmere,,4,62550199,43829905C0-07:00-09:00-16:00-18:30-AKenmoreRiversideLechmereNorthStationP1
+Shuttle-LechmereNorthStation-0-0,Shuttle-LechmereNorthStation,0,Lechmere - North Station,,4,62550099,43829906C0-LechmereNorthStation1
+Shuttle-LechmereNorthStation-0-1,Shuttle-LechmereNorthStation,1,North Station - Lechmere,,4,62550199,43829905C0-LechmereNorthStation1
