@@ -1,15 +1,22 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-BUS320-11-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
-BUS320-12-Sa-02,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
-BUS320-13-Sa-02,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
-BUS320-16-Sa-02,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
+BUS320-12-Su-02,Holiday (Sunday schedule),Holiday,Sunday,3,20200621,20200829,Summer
+BUS320-13-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
+BUS320-17-Su-02,Holiday (Sunday schedule),Holiday,Sunday,3,20200621,20200829,Summer
+BUS320-18-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
+BUS320-19-Sa-02,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
+BUS320-1A-Sa-02,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
+BUS320-1D-Sa-02,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
 BUS320-2-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
 BUS320-6-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
-BUS320-B-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
-BUS320-E-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
-BUS320-I-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
-BUS320-N-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
-BUS320-S-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
+BUS320-7-Su-02,Holiday (Sunday schedule),Holiday,Sunday,3,20200621,20200829,Summer
+BUS320-C-Su-02,Holiday (Sunday schedule),Holiday,Sunday,3,20200621,20200829,Summer
+BUS320-D-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
+BUS320-G-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
+BUS320-K-Su-02,Holiday (Sunday schedule),Holiday,Sunday,3,20200621,20200829,Summer
+BUS320-L-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
+BUS320-Q-Su-02,Holiday (Sunday schedule),Holiday,Sunday,3,20200621,20200829,Summer
+BUS320-R-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
+BUS320-V-Su-02,Holiday (Sunday schedule),Holiday,Sunday,3,20200621,20200829,Summer
 BUS320-X-Sa-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
 Boat-F1-WkdLmd,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20190701,,
 Boat-F4-Wkd,Weekday schedule,Weekday,Weekday,1,20190701,,
@@ -70,7 +77,6 @@ CR-Wdy-Worcester-DivWorcesterPTC-20,Weekday schedule,Weekday,Weekday,1,20190215,
 CR-Wdy-Worcester-Smr-20,Weekday schedule,Weekday,Weekday,1,20200622,,Summer
 CRSaMiddleboroughDivMidd20C0MddStpBrr,Saturday schedule,Saturday,Saturday,4,20191021,,Fall
 CRSuMiddleboroughDivMidd20C0MddStpBrr,Sunday schedule,Sunday,Sunday,4,20191021,,Fall
-CRWdySouthShoreLtdGreenLineExpress20,Weekday schedule,Weekday,Weekday,4,20200622,,Summer (Express shuttle)
 CapeFlyer-1,Friday schedule,Friday,Weekday,1,,,
 CapeFlyer-2,Sunday schedule,Sunday,Sunday,1,,,
 CapeFlyer-3,Saturday schedule,Saturday,Saturday,1,,,
@@ -79,10 +85,8 @@ Green-C-Shuttle-Sat,Saturday schedule (construction),Saturday (construction),Sat
 Green-C-Shuttle-Sun,Sunday schedule (construction),Sunday (construction),Sunday,5,20200621,20200829,Summer
 Green-C-Shuttle-Wkdy,Weekday schedule (construction),Weekday (construction),Weekday,5,20200621,20200829,Summer
 IndependenceDay(Observed),Holiday (Saturday schedule),Holiday,Saturday,3,20200621,20200829,Summer
-LRV320-1-Wdy-01-KSmRDKSmRR,Weekday schedule,Weekday,Weekday,4,20200621,20200829,Summer
-LRV320-1-Wdy-01-norm,Weekday schedule,Weekday,Weekday,4,20200621,20200829,Summer
+LRV320-1-Wdy-01,Weekday schedule,Weekday,Weekday,4,20200621,20200829,Summer
 LRV320-1-Wdy-01S0,Weekday schedule,Weekday,Weekday,1,20200621,20200829,Summer
-LRV320-1-Wdy-01S0-KSmRC,Weekday schedule,Weekday,Weekday,4,20200621,20200829,Summer
 LRV320-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
 LRV320-2-Sa-01-KSmRDKSmRR,Saturday schedule,Saturday,Saturday,4,20200621,20200829,Summer
 LRV320-2-Sa-01S0,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
@@ -101,14 +105,19 @@ LRV320-8-Sa-01S0,Saturday schedule,Saturday,Saturday,4,20200621,20200829,Summer
 LRV320-9-Su-01,Sunday schedule,Sunday,Sunday,4,20200621,20200829,Summer
 LRV320-9-Su-01S0,Sunday schedule,Sunday,Sunday,4,20200621,20200829,Summer
 LRV320-A-Wdy-01,Weekday schedule,Weekday,Weekday,1,20200621,20200829,Summer
+LRV320-B-Sa-01,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
 PRIV320-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
 PRIV320-4-Sa-01,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
+PRIV320-5-Su-01,Sunday schedule,Sunday,Sunday,1,20200621,20200829,Summer
 PRIV320-6-Wdy-01,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
 PRIV320-8-Sa-01,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
-PRIV320-D-Sa-01,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
+PRIV320-9-Su-01,Sunday schedule,Sunday,Sunday,1,20200621,20200829,Summer
+PRIV320-D-Su-01,Holiday (Sunday schedule),Holiday,Sunday,3,20200621,20200829,Summer
+PRIV320-E-Sa-01,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200621,20200829,Summer
 RTL120-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20191222,20200314,Winter
 RTL120-2-Su-01,Sunday schedule,Sunday,Sunday,1,20191222,20200314,Winter
 RTL320-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20200621,20200829,Summer
+RTL320-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
 RTL320-4-Wdy-01,Weekday schedule,Weekday,Weekday,1,20200621,20200829,Summer
 RTL320-4-Wdy-01-OrgSkpNrhStnNrd,Weekday schedule,Weekday,Weekday,4,20200621,20200829,Summer
 RTL320-4-Wdy-01-OrgSkpNrhStnStd,Weekday schedule,Weekday,Weekday,4,20200621,20200829,Summer
@@ -123,7 +132,6 @@ RTL320-7-Sa-01-BrrQncCnr,Saturday schedule,Saturday,Saturday,4,20200621,20200829
 RTL320-8-Su-01-BrrQncCnrBrrQncCnrExd,Sunday schedule,Sunday,Sunday,4,20200621,20200829,Summer
 RTL320-8-Su-01-BrrQncCnrExd,Sunday schedule,Sunday,Sunday,4,20200621,20200829,Summer
 RTL320-9-Wdy-01,Weekday schedule,Weekday,Weekday,1,20200621,20200829,Summer
-RTL320-9-Wdy-01-BrrQncCnr,Weekday schedule,Weekday,Weekday,4,20200621,20200829,Summer
 RTL320-A-Wdy-01-BrrQncCnrBrrQncCnrExd,Weekday schedule,Weekday,Weekday,4,20200621,20200829,Summer
 RTL320-A-Wdy-01-BrrQncCnrExd,Weekday schedule,Weekday,Weekday,4,20200621,20200829,Summer
 SummerSaturday,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
