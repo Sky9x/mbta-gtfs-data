@@ -33,7 +33,6 @@ CR-Sa-Greenbush-Smr-20C0,Holiday (Saturday schedule),Holiday,Saturday,3,20200622
 CR-Sa-Haverhill-Smr-20,Saturday schedule,Saturday,Saturday,1,20200622,,Summer
 CR-Sa-Haverhill-Smr-20C0,Holiday (Saturday schedule),Holiday,Saturday,3,20200622,,Summer
 CR-Sa-Kingston-Smr-20,Saturday schedule,Saturday,Saturday,1,20200622,,Summer
-CR-Sa-Kingston-Smr-20-KnnStpAtBrr,Saturday schedule,Saturday,Saturday,4,20200622,,Summer
 CR-Sa-Kingston-Smr-20C0,Holiday (Saturday schedule),Holiday,Saturday,3,20200622,,Summer
 CR-Sa-Lowell-Smr-20,Saturday schedule,Saturday,Saturday,1,20200622,,Summer
 CR-Sa-Lowell-Smr-20C0,Holiday (Saturday schedule),Holiday,Saturday,3,20200622,,Summer
@@ -55,7 +54,6 @@ CR-Su-Greenbush-Smr-20,Sunday schedule,Sunday,Sunday,1,20200622,,Summer
 CR-Su-Greenbush-Smr-20-GrhSthStn,Sunday schedule (construction),Sunday (construction),Sunday,4,20200622,,Summer
 CR-Su-Haverhill-Smr-20,Sunday schedule,Sunday,Sunday,1,20200622,,Summer
 CR-Su-Kingston-Smr-20,Sunday schedule,Sunday,Sunday,1,20200622,,Summer
-CR-Su-Kingston-Smr-20-KnnStpAtBrr,Sunday schedule,Sunday,Sunday,4,20200622,,Summer
 CR-Su-Lowell-Smr-20,Sunday schedule,Sunday,Sunday,1,20200622,,Summer
 CR-Su-Middleborough-Smr-20,Sunday schedule,Sunday,Sunday,1,20200622,,Summer
 CR-Su-Newburyport-Smr-20,Sunday schedule,Sunday,Sunday,1,20200622,,Summer
@@ -75,8 +73,6 @@ CR-Wdy-Newburyport-Smr-20,Weekday schedule,Weekday,Weekday,1,20200622,,Summer
 CR-Wdy-Providence-Smr-20,Weekday schedule,Weekday,Weekday,1,20200622,,Summer
 CR-Wdy-Worcester-DivWorcesterPTC-20,Weekday schedule,Weekday,Weekday,1,20190215,,Fall
 CR-Wdy-Worcester-Smr-20,Weekday schedule,Weekday,Weekday,1,20200622,,Summer
-CRSaMiddleboroughDivMidd20C0MddStpBrr,Saturday schedule,Saturday,Saturday,4,20191021,,Fall
-CRSuMiddleboroughDivMidd20C0MddStpBrr,Sunday schedule,Sunday,Sunday,4,20191021,,Fall
 CapeFlyer-1,Friday schedule,Friday,Weekday,1,,,
 CapeFlyer-2,Sunday schedule,Sunday,Sunday,1,,,
 CapeFlyer-3,Saturday schedule,Saturday,Saturday,1,,,
@@ -88,12 +84,8 @@ IndependenceDay(Observed),Holiday (Saturday schedule),Holiday,Saturday,3,2020062
 LRV320-1-Wdy-01,Weekday schedule,Weekday,Weekday,4,20200621,20200829,Summer
 LRV320-1-Wdy-01S0,Weekday schedule,Weekday,Weekday,1,20200621,20200829,Summer
 LRV320-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
-LRV320-2-Sa-01-KSmRDKSmRR,Saturday schedule,Saturday,Saturday,4,20200621,20200829,Summer
 LRV320-2-Sa-01S0,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
-LRV320-2-Sa-01S0-KSmRC,Saturday schedule,Saturday,Saturday,4,20200621,20200829,Summer
-LRV320-3-Su-01,Sunday schedule,Sunday,Sunday,4,20200621,20200829,Summer
 LRV320-3-Su-01S0-CldCrlKnr,Sunday schedule,Sunday,Sunday,4,20200621,20200829,Summer
-LRV320-3-Su-01S0-KSmRC,Sunday schedule,Sunday,Sunday,4,20200621,20200829,Summer
 LRV320-4-Wdy-01-RsrRvdExd,Weekday schedule,Weekday,Weekday,4,20200621,20200829,Summer
 LRV320-4-Wdy-01-norm,Weekday schedule,Weekday,Weekday,4,20200621,20200829,Summer
 LRV320-5-Sa-01,Saturday schedule,Saturday,Saturday,4,20200621,20200829,Summer
@@ -128,9 +120,7 @@ RTL320-6-Su-01,Sunday schedule,Sunday,Sunday,1,20200621,20200829,Summer
 RTL320-6-Su-01-OrgSkpNrhStnNrd,Sunday schedule,Sunday,Sunday,4,20200621,20200829,Summer
 RTL320-6-Su-01-OrgSkpNrhStnStd,Sunday schedule,Sunday,Sunday,4,20200621,20200829,Summer
 RTL320-7-Sa-01,Saturday schedule,Saturday,Saturday,1,20200621,20200829,Summer
-RTL320-7-Sa-01-BrrQncCnr,Saturday schedule,Saturday,Saturday,4,20200621,20200829,Summer
-RTL320-8-Su-01-BrrQncCnrBrrQncCnrExd,Sunday schedule,Sunday,Sunday,4,20200621,20200829,Summer
-RTL320-8-Su-01-BrrQncCnrExd,Sunday schedule,Sunday,Sunday,4,20200621,20200829,Summer
+RTL320-8-Su-01,Sunday schedule,Sunday,Sunday,4,20200621,20200829,Summer
 RTL320-9-Wdy-01,Weekday schedule,Weekday,Weekday,1,20200621,20200829,Summer
 RTL320-A-Wdy-01-BrrQncCnrBrrQncCnrExd,Weekday schedule,Weekday,Weekday,4,20200621,20200829,Summer
 RTL320-A-Wdy-01-BrrQncCnrExd,Weekday schedule,Weekday,Weekday,4,20200621,20200829,Summer
