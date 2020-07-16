@@ -4579,6 +4579,7 @@ facility_id,property_id,value
 407,excludes-stop,70047
 407,excludes-stop,7096
 407,excludes-stop,7097
+407,excludes-stop,9070047
 407,excludes-stop,door-aport-bremen
 407,excludes-stop,door-aport-buses
 407,excludes-stop,node-407-bridge
@@ -4613,6 +4614,7 @@ facility_id,property_id,value
 408,excludes-stop,70047
 408,excludes-stop,7096
 408,excludes-stop,7097
+408,excludes-stop,9070047
 408,excludes-stop,door-aport-bremen
 408,excludes-stop,door-aport-buses
 408,excludes-stop,node-407-bridge
@@ -4647,6 +4649,7 @@ facility_id,property_id,value
 409,excludes-stop,70048
 409,excludes-stop,7096
 409,excludes-stop,7097
+409,excludes-stop,9070047
 409,excludes-stop,door-aport-bremen
 409,excludes-stop,door-aport-buses
 409,excludes-stop,node-407-bridge
@@ -4681,6 +4684,7 @@ facility_id,property_id,value
 410,excludes-stop,70048
 410,excludes-stop,7096
 410,excludes-stop,7097
+410,excludes-stop,9070047
 410,excludes-stop,door-aport-bremen
 410,excludes-stop,door-aport-buses
 410,excludes-stop,node-407-bridge
@@ -11061,6 +11065,7 @@ facility_id,property_id,value
 931,excludes-stop,70047
 931,excludes-stop,7096
 931,excludes-stop,7097
+931,excludes-stop,9070047
 931,excludes-stop,door-aport-bremen
 931,excludes-stop,door-aport-buses
 931,excludes-stop,node-407-bridge
@@ -11095,6 +11100,7 @@ facility_id,property_id,value
 932,excludes-stop,70048
 932,excludes-stop,7096
 932,excludes-stop,7097
+932,excludes-stop,9070047
 932,excludes-stop,door-aport-bremen
 932,excludes-stop,door-aport-buses
 932,excludes-stop,node-407-bridge
@@ -11694,6 +11700,7 @@ facility_id,property_id,value
 955,excludes-stop,70048
 955,excludes-stop,7096
 955,excludes-stop,7097
+955,excludes-stop,9070047
 955,excludes-stop,node-407-bridge
 955,excludes-stop,node-407-platform
 955,excludes-stop,node-408-bridge
@@ -11727,6 +11734,7 @@ facility_id,property_id,value
 956,excludes-stop,70048
 956,excludes-stop,7096
 956,excludes-stop,7097
+956,excludes-stop,9070047
 956,excludes-stop,node-407-bridge
 956,excludes-stop,node-407-platform
 956,excludes-stop,node-408-bridge
@@ -12336,7 +12344,6 @@ facility_id,property_id,value
 979,excludes-stop,node-pktrm-wintfare-paid
 979,excludes-stop,node-pktrm-wintfare-unpaid
 980,alternate-service-text,Science Park Elevator 980 (street to inbound platform) is out of service. Customers desiring elevator service to enter on the inbound side must use the outbound elevator and utilize service to Lechmere for inbound service. Customers desiring to exit on the inbound side must continue to North Station and transfer to outbound service back to Science Park.
-980,excludes-stop,70207
 980,excludes-stop,door-spmnl-nashua
 980,excludes-stop,door-spmnl-nashuael
 980,excludes-stop,door-spmnl-obrien
@@ -12362,7 +12369,6 @@ facility_id,property_id,value
 980,excludes-stop,node-spmnl-sfarepaid
 980,excludes-stop,node-spmnl-sfareunpaid
 981,alternate-service-text,Science Park Elevator 981 (street to outbound platform) is out of service. Customers desiring to enter the station for outbound service must use the inbound elevator to North Station and transfer to outbound service to Lechmere. Customers desiring to exit at Science Park must continue to Lechmere and transfer to inbound service back to Science Park. 
-981,excludes-stop,70208
 981,excludes-stop,door-spmnl-nashua
 981,excludes-stop,door-spmnl-nashuael
 981,excludes-stop,door-spmnl-obrien
@@ -18953,10 +18959,8 @@ portlift-hsmnl,note,"Significant barriers exist at station, but customers may be
 portlift-kencl,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-lake,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-lech-0,excludes-stop,14150
-portlift-lech-0,excludes-stop,70210
 portlift-lech-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-lech-1,excludes-stop,14150
-portlift-lech-1,excludes-stop,70209
 portlift-lech-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-lngmd-0,excludes-stop,70248
 portlift-lngmd-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
@@ -20010,9 +20014,7 @@ subplat-smary,excludes-stop,70212
 subplat-smary,excludes-stop,9070211
 subplat-smary,excludes-stop,9070212
 subplat-smary,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-spmnl-0,excludes-stop,70208
 subplat-spmnl-0,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-spmnl-1,excludes-stop,70207
 subplat-spmnl-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-wascm-0,excludes-stop,70121
 subplat-wascm-0,note,Mini high level platform is available to provide level boarding to certain cars in a train set
