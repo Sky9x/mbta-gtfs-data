@@ -1951,7 +1951,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2607,2607,McGrath Hwy @ Poplar St,,,,42.377092,-71.088178,LocalBus,,https://www.mbta.com/stops/2607,,0,,1,Somerville,McGrath Highway,Poplar Street,3
 2609,2609,Somerville Ave at McGrath Hwy,,,,42.377585,-71.089844,LocalBus,,https://www.mbta.com/stops/2609,,0,,1,Somerville,Somerville Avenue,Mansfield Street,3
 261,261,E 8th St @ G St,,,,42.331243,-71.043908,LocalBus,,https://www.mbta.com/stops/261,,0,,0,Boston,East Eighth Street,G Street,3
-2610,2610,Washington St @ Washington Terr,,,,42.379510,-71.092273,LocalBus,,https://www.mbta.com/stops/2610,,0,,0,Somerville,Washington Street,Washington Terrace,3
+2610,2610,Washington St @ Washington Terr,,,,42.379510,-71.092273,,,https://www.mbta.com/stops/2610,,0,,0,Somerville,Washington Street,Washington Terrace,
 2612,2612,Somerville Ave @ Stone Ave,,,,42.379547,-71.095164,LocalBus,,https://www.mbta.com/stops/2612,,0,,1,Somerville,Somerville Avenue,Stone Avenue,3
 2613,2613,Washington St @ Webster Ave,,,,42.379610,-71.096874,LocalBus,,https://www.mbta.com/stops/2613,,0,,1,Somerville,Washington Street,Kingman Road,3
 26131,26131,Bow St @ Warren Ave,,,,42.380273,-71.096622,LocalBus,,https://www.mbta.com/stops/26131,,0,,1,Somerville,Bow Street,,3
@@ -2107,11 +2107,11 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2760,2760,Washington St @ Franklin St,,,,42.381448,-71.085797,LocalBus,,https://www.mbta.com/stops/2760,,0,,1,Somerville,Washington Street,Cobble Hill Road,3
 2761,2761,Washington St @ Tufts St,,,,42.381038,-71.087483,LocalBus,,https://www.mbta.com/stops/2761,,0,,1,Somerville,Washington Street,Knowlton Street,3
 27618,27618,Washington St @ Guild St,,,,42.191284,-71.202528,LocalBus,,https://www.mbta.com/stops/27618,,0,,1,Norwood,Washington Street,Guild Street,3
-2762,2762,Washington St @ McGrath Hwy,,,,42.380330,-71.089759,LocalBus,,https://www.mbta.com/stops/2762,,0,,0,Somerville,Washington Street,McGrath Highway,3
-2763,2763,Washington St @ Boston St,,,,42.379859,-71.090824,LocalBus,,https://www.mbta.com/stops/2763,,0,,1,Somerville,Washington Street,Boston Street,3
+2762,2762,Washington St @ McGrath Hwy,,,,42.379482,-71.089831,LocalBus,,https://www.mbta.com/stops/2762,,0,,0,Somerville,Washington Street,McGrath Highway,3
+2763,2763,Washington St @ Boston St,,,,42.379859,-71.090824,,,https://www.mbta.com/stops/2763,,0,,1,Somerville,Washington Street,Boston Street,
 277,277,E 8th St @ M St,,,,42.331537,-71.033111,LocalBus,,https://www.mbta.com/stops/277,,0,,1,Boston,East Eighth Street,M Street,3
-2773,2773,Washington St @ Merriam St,,,,42.379411,-71.092286,LocalBus,,https://www.mbta.com/stops/2773,,0,,0,Somerville,Washington Street,Washington Terrace,3
-2774,2774,Washington St @ McGrath Hwy,,,,42.379792,-71.089974,LocalBus,,https://www.mbta.com/stops/2774,,0,,1,Somerville,Washington Street,McGrath Highway,3
+2773,2773,Washington St @ Merriam St,,,,42.379411,-71.092286,,,https://www.mbta.com/stops/2773,,0,,0,Somerville,Washington Street,Washington Terrace,
+2774,2774,Washington St @ McGrath Hwy,,,,42.379792,-71.089974,,,https://www.mbta.com/stops/2774,,0,,1,Somerville,Washington Street,McGrath Highway,
 2775,2775,Washington St @ Joy St,,,,42.380569,-71.088666,LocalBus,,https://www.mbta.com/stops/2775,,0,,1,Somerville,Washington Street,Joy Street,3
 2776,2776,Washington St @ New Washington St,,,,42.381241,-71.086308,LocalBus,,https://www.mbta.com/stops/2776,,0,,0,Somerville,Washington Street,Franklin Street,3
 2777,2777,Washington St @ Inner Belt Rd,,,,42.382012,-71.081316,LocalBus,,https://www.mbta.com/stops/2777,,0,,0,Somerville,Washington Street,Inner Belt Road,3
@@ -7023,9 +7023,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070,9070,Salem St @ Lynn St,,,,42.436065,-71.021736,LocalBus,,https://www.mbta.com/stops/9070,,0,,0,Malden,Salem Street,Lynn Street,3
 9070043,9070043,Aquarium,Aquarium - Blue Line Shuttle,,Blue Line Shuttle,42.359434,-71.053261,LocalBus,,https://www.mbta.com/stops/9070043,,0,,1,Boston,State Street,McKinley Square,3
 9070150,9070150,Kenmore,Kenmore - Green Line Shuttle,,Green Line Shuttle,42.348712,-71.095526,LocalBus,,https://www.mbta.com/stops/9070150,,0,,1,Boston,,,3
-9070162,9070162,Woodland,Woodland Station - Green Line Shuttle,,Green Line Shuttle,42.332973,-71.243286,LocalBus,,https://www.mbta.com/stops/9070162,,0,,1,Newton,,,3
-9070164,9070164,Waban,Waban Station - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.326601,-71.230560,LocalBus,,https://www.mbta.com/stops/9070164,,0,,1,Newton,,,3
-9070165,9070165,Waban,Waban Station - Green Line Westbound Shuttle,,Riverside Shuttle,42.326954,-71.230295,LocalBus,,https://www.mbta.com/stops/9070165,,0,,1,Newton,,,3
 9070211,9070211,St Marys St,St Marys St - Green Line Westbound Shuttle,,Westbound Shuttle,42.346095,-71.107571,LocalBus,,https://www.mbta.com/stops/9070211,,0,,1,Brookline,,,3
 9070212,9070212,St Marys St,St Marys St - Green Line Kenmore Shuttle,,Kenmore Shuttle,42.345892,-71.107009,LocalBus,,https://www.mbta.com/stops/9070212,,0,,1,Brookline,,,3
 9070213,9070213,Hawes Street,Hawes Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.345234,-71.110831,LocalBus,,https://www.mbta.com/stops/9070213,,0,,1,Brookline,,,3
@@ -7149,10 +7146,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9169,9169,Riverside Ave @ Pembroke St,,,,42.413540,-71.098291,LocalBus,,https://www.mbta.com/stops/9169,,0,,0,Medford,Riverside Avenue,Maverick Street,3
 917,917,Washington St @ Foster St,,,,42.349007,-71.157011,LocalBus,,https://www.mbta.com/stops/917,,0,,1,Boston,Washington Street,Foster Street,3
 9170,9170,Riverside Ave @ Park St,,,,42.414773,-71.100883,LocalBus,,https://www.mbta.com/stops/9170,,0,,0,Medford,Riverside Avenue,Marine Street,3
-9170168,9170168,Newton Highlands,Newton Highlands - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.321660,-71.206241,LocalBus,,https://www.mbta.com/stops/9170168,,0,,1,Newton,,,3
-9170169,9170169,Newton Highlands,Newton Highlands - Green Line Westbound Shuttle,,Riverside Shuttle,42.321751,-71.206079,LocalBus,,https://www.mbta.com/stops/9170169,,0,,1,Newton,,,3
-9170170,9170170,Newton Centre,Newton Centre - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.330311,-71.192684,LocalBus,,https://www.mbta.com/stops/9170170,,0,,1,Newton,,,3
-9170171,9170171,Newton Centre,Newton Centre - Green Line Westbound Shuttle,,Riverside Shuttle,42.330412,-71.192966,LocalBus,,https://www.mbta.com/stops/9170171,,0,,1,Newton,,,3
 9171,9171,Riverside Ave @ Pleasant St,,,,42.415712,-71.102573,LocalBus,,https://www.mbta.com/stops/9171,,0,,0,Medford,Riverside Avenue,Pleasant Street,3
 9172,9172,116 Riverside Ave,,,,42.416769,-71.105122,LocalBus,,https://www.mbta.com/stops/9172,,0,,0,Medford,Riverside Avenue,Sables Court,3
 9174,9174,Winthrop St @ Lawrence Rd,,,,42.423885,-71.120863,LocalBus,,https://www.mbta.com/stops/9174,,0,,0,Medford,Winthrop Street,Suffolk Street,3

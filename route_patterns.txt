@@ -14,14 +14,12 @@ Green-B-3-0,Green-B,0,Park Street - Boston College,,1,10032000,45112345-20:25-no
 Green-B-1-0,Green-B,0,North Station - Boston College,Weekend early mornings only,3,10032003,45114699
 Green-B-3-1,Green-B,1,Boston College - Park Street,,1,10032100,45112288-20:25-norm
 Green-B-1-1,Green-B,1,Boston College - North Station,Weekend early mornings only,3,10032103,45114698
-Green-C-1-0,Green-C,0,North Station - Cleveland Circle,,1,10033000,45117790-20:45-ReservoirRiversideExtend
-Green-C-1-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,45117789-20:45-ReservoirRiversideExtend
+Green-C-1-0,Green-C,0,North Station - Cleveland Circle,,1,10033000,45117790-20:25-norm
+Green-C-1-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,45117789-20:25-norm
 Green-D-2-0,Green-D,0,Government Center - Riverside,,1,10034000,45112326-20:25-norm
-Green-D-5-0,Green-D,0,Government Center - Reservoir,Weekday evenings only,3,10034003,45117786-20:45-ReservoirRiversideExtend0
 Green-D-3-0,Green-D,0,North Station - Reservoir,Weekday evenings only,3,10034004,45113021-20:25-norm
 Green-D-1-0,Green-D,0,North Station - Riverside,Weekday early mornings only,3,10034005,45112338-20:25-norm
 Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034100,45112328-20:25-norm
-Green-D-5-1,Green-D,1,Reservoir - Government Center,Weekday evenings only,3,10034103,45117788-20:45-ReservoirRiversideExtend2
 Green-D-3-1,Green-D,1,Reservoir - North Station,Weekday mornings only,3,10034104,45112994-20:25-norm
 Green-D-1-1,Green-D,1,Riverside - North Station,Weekday early mornings only,3,10034106,45112339-20:25-norm
 Green-E-1-0,Green-E,0,North Station - Heath Street,,1,10035000,45112330-20:25-norm
@@ -55,18 +53,23 @@ CR-Fitchburg-0196402e-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-
 CR-Fitchburg-c7a7bb18-0,CR-Fitchburg,0,North Station - Wachusett,,2,20002002,CR-Weekday-Summer-20-425
 CR-Fitchburg-9439bc9e-0,CR-Fitchburg,0,North Station - Wachusett,,2,20002004,CR-Weekday-Summer-20-419
 CR-Fitchburg-dc53534f-0,CR-Fitchburg,0,North Station - Wachusett,,2,20002005,CR-Weekday-Summer-20-409
-CR-Fitchburg-4cf3756a-0,CR-Fitchburg,0,North Station - Wachusett,,3,20002006,CR-Saturday-Summer-20-1401
+CR-Fitchburg-4cf3756a-0,CR-Fitchburg,0,North Station - Wachusett,,3,20002006,CR-Saturday-Summer-20-1401-FitchburgGLX2
 CR-Fitchburg-06182b05-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-Weekday-Summer-20-416
 CR-Fitchburg-410695c5-1,CR-Fitchburg,1,Wachusett - North Station,,2,20002102,CR-Weekday-Summer-20-410
 CR-Fitchburg-f806ca96-1,CR-Fitchburg,1,Wachusett - North Station,,2,20002104,CR-Weekday-Summer-20-402
-CR-Fitchburg-6feabb2f-1,CR-Fitchburg,1,Wachusett - North Station,,2,20002105,CR-Saturday-Summer-20-1400
+CR-Fitchburg-6feabb2f-1,CR-Fitchburg,1,Wachusett - North Station,,2,20002105,CR-Saturday-Summer-20-1400-FitchburgGLX0
 CR-Fitchburg-878773fe-1,CR-Fitchburg,1,Wachusett - North Station,,3,20002106,CR-Weekday-Summer-20-400
 CR-Worcester-c9f70cfa-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-Weekday-Summer-20-501
 CR-Worcester-6e54f093-0,CR-Worcester,0,South Station - Worcester,,2,20003003,CR-Weekday-Summer-20-509
+CR-Worcester-5c51a507-0,CR-Worcester,0,South Station - Worcester,,3,20003005,CR-Weekday-DivWorcesterPTC-20-509
+CR-Worcester-c1310030-0,CR-Worcester,0,South Station - Worcester,,3,20003006,CR-Weekday-DivWorcesterPTC-20-511
 CR-Worcester-d053d1dd-0_Back Bay_Framingham_2,CR-Worcester,0,Framingham - Worcester,,4,20003099,CR-Saturday-DivWorcesterPTC-20-1501-BackBayFramingham2BackBayFraminghamLocal
 CR-Worcester-46173ad9-1,CR-Worcester,1,Worcester - South Station,,1,20003100,CR-Weekday-Summer-20-500
 CR-Worcester-1eb162f4-1,CR-Worcester,1,Worcester - South Station,,2,20003103,CR-Weekday-Summer-20-518
 CR-Worcester-f35f5d98-1,CR-Worcester,1,Worcester - South Station,,3,20003105,CR-Weekday-Summer-20-7552
+CR-Worcester-5b0b7af3-1,CR-Worcester,1,Worcester - South Station,,3,20003107,CR-Weekday-DivWorcesterPTC-20-518
+CR-Worcester-66e778ec-1,CR-Worcester,1,Worcester - South Station,,3,20003108,CR-Weekday-DivWorcesterPTC-20-500
+CR-Worcester-a65e4d39-1,CR-Worcester,1,Worcester - South Station,,3,20003109,CR-Weekday-DivWorcesterPTC-20-7552
 CR-Worcester-07874425-1_Framingham_Back Bay_0,CR-Worcester,1,Worcester - Framingham,,4,20003199,CR-Saturday-DivWorcesterPTC-20-1500-BackBayFramingham0BackBayFraminghamLocal
 CR-Franklin-68fb51e7-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,20004000,CR-Weekday-Summer-20-709
 CR-Franklin-c63d3181-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,2,20004003,CR-Weekday-Summer-20-729
@@ -849,30 +852,30 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 710-1-1,710,1,North Medford - Fellsway Plaza,Weekdays only,1,57100100,45172302
 710-4-1,710,1,North Medford - Wellington Station (Omits Meadow Glen Mall),Weekdays only,2,57100101,45172298
 710-_-1,710,1,North Medford - Wellington Station,PM peak hours only,2,57100103,45172315
-712-_-0,712,0,"Orient Heights Station, South Busway - Point Shirley",,1,57120000,45161740
+712-_-0,712,0,"Orient Heights Station, South Busway - Point Shirley",,1,57120000,45161086
 712-1-0,712,0,"Orient Heights Station, South Busway - Winthrop Beach",,2,57120004,45161091
 712-2-0,712,0,"Orient Heights Station, North Busway - Point Shirley",Weekdays only,2,57120008,45161032
 712-3-0,712,0,"Orient Heights Station, North Busway - Winthrop Beach",Weekday mornings only,3,57120010,45161090
-712-_-1,712,1,"Point Shirley - Orient Heights Station, South Busway",,1,57120100,45161673
-712-1-1,712,1,"Winthrop Beach - Orient Heights Station, South Busway",,2,57120104,45161769
+712-_-1,712,1,"Point Shirley - Orient Heights Station, South Busway",,1,57120100,45161088
+712-1-1,712,1,"Winthrop Beach - Orient Heights Station, South Busway",,2,57120104,45161034
 712-3-1,712,1,"Winthrop Beach - Orient Heights Station, North Busway",Weekdays only,2,57120108,45161033
 712-2-1,712,1,"Point Shirley - Orient Heights Station, North Busway",Weekday mornings only,3,57120110,45161085
-713-_-0,713,0,Orient Heights Station  - Point Shirley (South Busway),,1,57130000,45161667
-713-1-0,713,0,"Orient Heights Station, South Busway - Winthrop Beach",,2,57130004,45161765
+713-_-0,713,0,Orient Heights Station  - Point Shirley (South Busway),,1,57130000,45161128
+713-1-0,713,0,"Orient Heights Station, South Busway - Winthrop Beach",,2,57130004,45161145
 713-3-0,713,0,"Orient Heights Station, North Busway - Winthrop Beach",Weekdays only,2,57130008,45161131
 713-2-0,713,0,"Orient Heights Station, North Busway - Point Shirley",Weekday mornings only,3,57130010,45161126
-713-_-1,713,1,Point Shirley - Orient Heights Station  (South Busway),,1,57130100,45161716
+713-_-1,713,1,Point Shirley - Orient Heights Station  (South Busway),,1,57130100,45161008
 713-1-1,713,1,"Winthrop Beach - Orient Heights Station, South Busway",,2,57130104,45161093
 713-3-1,713,1,"Winthrop Beach - Orient Heights Station, North Busway",Weekdays only,2,57130108,45161078
 713-2-1,713,1,"Point Shirley - Orient Heights Station, North Busway",Weekdays only,2,57130110,45161004
-714-_-0,714,0,Hingham Depot - Pemberton Point,,1,57140000,45172279
+714-_-0,714,0,Hingham Depot - Pemberton Point,,1,57140000,45172252
 714-1-0,714,0,Hingham Depot - Pemberton Point via Hull Medical Center,Weekdays only,2,57140003,45172251
 714-2-0,714,0,Hingham Depot - Pemberton Point via Washington Blvd,Weekdays only,2,57140004,45172268
-714-_-1,714,1,Pemberton Point - Hingham Depot,,1,57140100,45172280
+714-_-1,714,1,Pemberton Point - Hingham Depot,,1,57140100,45172262
 714-1-1,714,1,Pemberton Point - Hingham Depot via Hull Medical Center,Weekday middays only,2,57140103,45172253
 714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140104,45172254
-716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,45172210
-716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,45172215
+716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,45172198
+716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,45172193
 602-1-0,602,0,Lechmere - Nashua St @ North Station,,1,60200000,45171678
 602-1-1,602,1,Nashua St @ North Station - Lechmere,,1,60200100,45171690
 Shuttle-AirportBowdoinLocal-0-0,Shuttle-AirportBowdoinLocal,0,Airport via Maverick - Government Center via Maverick,,4,60205099,44604780-AirportBowdoinAirportBowdoin
@@ -887,7 +890,5 @@ Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center 
 Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,4,61000199,44080148-20:45-BraintreeQuincyCenterExtended1
 Shuttle-GreenbushSouthStation-0-0,Shuttle-GreenbushSouthStation,0,South Station - Greenbush,,4,61960099,CR-Saturday-Summer-20-1071-GreenbushSouthStation1
 Shuttle-GreenbushSouthStation-0-1,Shuttle-GreenbushSouthStation,1,Greenbush - South Station,,4,61960199,CR-Saturday-Summer-20-1070-GreenbushSouthStation1
-Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,45117786-20:45-ReservoirRiversideExtend1
-Shuttle-ReservoirRiverside-0-1,Shuttle-ReservoirRiverside,1,Riverside - Reservoir,,4,62400199,45117788-20:45-ReservoirRiversideExtend1
 Shuttle-ClevelandCircleKenmoreDyn-0-0,Shuttle-ClevelandCircleKenmoreDyn,0,Kenmore - Cleveland Circle,,4,63550099,CCKenmore-Shuttle-Wk-0-05:20:00
 Shuttle-ClevelandCircleKenmoreDyn-0-1,Shuttle-ClevelandCircleKenmoreDyn,1,Cleveland Circle - Kenmore,,4,63550199,CCKenmore-Shuttle-Wk-1-04:56:00
