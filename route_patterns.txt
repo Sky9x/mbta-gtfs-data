@@ -23,8 +23,6 @@ Green-C-1-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,45809668
 Green-D-2-0,Green-D,0,Government Center - Riverside,,1,10034000,45809766
 Green-D-3-0,Green-D,0,North Station - Reservoir,Evenings only,3,10034005,45805609
 Green-D-1-0,Green-D,0,North Station - Riverside,Weekday early mornings only,3,10034007,45803757
-Green-D-2-0_70151_70169_0,Green-D,0,Government Center - Kenmore,,4,10034099,45807817-NewtonHighlandsKenmoreW0
-Green-D-2-0_70151_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,45807817-NewtonHighlandsKenmoreW2
 Green-D-2-0_70169_70161_0,Green-D,0,Government Center - Newton Highlands,,4,10034099,45804940-20:45-NewtonHighlandsRiverside0
 Green-D-2-0_70175_70161_0,Green-D,0,Government Center - Reservoir,,4,10034099,45804940-20:45-ReservoirRiverside0
 Green-D-2-0_70187_70169_0,Green-D,0,Government Center - Fenway,,4,10034099,45804940-20:45-FenwayNewtonHighlands0
@@ -34,18 +32,16 @@ Green-D-3-1,Green-D,1,Reservoir - North Station,,3,10034105,45805593
 Green-D-1-1,Green-D,1,Riverside - North Station,Weekday early mornings only,3,10034108,45803758
 Green-D-2-1_70160_70168_2,Green-D,1,Newton Highlands - Government Center,,4,10034199,45804948-20:45-NewtonHighlandsRiverside2
 Green-D-2-1_70160_70174_2,Green-D,1,Reservoir - Government Center,,4,10034199,45804948-20:45-ReservoirRiverside2
-Green-D-2-1_70168_70150_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,45807802-NewtonHighlandsKenmoreW0
-Green-D-2-1_70168_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,45807802-NewtonHighlandsKenmoreW2
 Green-D-2-1_70168_70186_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,45804948-20:45-FenwayNewtonHighlands0
 Green-D-2-1_70168_70186_2,Green-D,1,Fenway - Government Center,,4,10034199,45804948-20:45-FenwayNewtonHighlands2
 Green-E-1-0,Green-E,0,North Station - Heath Street,,1,10035000,45809752
 Green-E-1-1,Green-E,1,Heath Street - North Station,,1,10035100,45809755
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,44605044
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040003,44605272
-Blue-6-0_70047_70838_0,Blue,0,Wonderland - Airport,,4,10040099,44604781-AirportBowdoin00
-Blue-8-0_70047_70838_0,Blue,0,Orient Heights - Airport,,4,10040099,44604780-AirportBowdoin00
+Blue-6-0_70047_70838_0,Blue,0,Wonderland - Airport,,4,10040099,45391032-AirportBowdoin00
+Blue-8-0_70047_70838_0,Blue,0,Orient Heights - Airport,,4,10040099,45391031-AirportBowdoin00
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,44605096
-Blue-6-1_70038_70048_2,Blue,1,Airport - Wonderland,,4,10040199,44604782-AirportBowdoin22
+Blue-6-1_70038_70048_2,Blue,1,Airport - Wonderland,,4,10040199,45391033-AirportBowdoin22
 741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,44811008
 741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051100,44811007
 741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Late nights only,3,10051104,44812508
@@ -930,10 +926,10 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,45172193
 602-1-0,602,0,Lechmere - Nashua St @ North Station,,1,60200000,45171678
 602-1-1,602,1,Nashua St @ North Station - Lechmere,,1,60200100,45171690
-Shuttle-AirportBowdoinLocal-0-0,Shuttle-AirportBowdoinLocal,0,Airport via Maverick - Government Center via Maverick,,4,60205099,44604780-AirportBowdoinAirportBowdoin
-Shuttle-AirportBowdoinLocal-0-1,Shuttle-AirportBowdoinLocal,1,Government Center via Maverick - Airport via Maverick,,4,60205199,44604782-AirportBowdoinAirportBowdoin
-Shuttle-AirportBowdoinExpress-0-0,Shuttle-AirportBowdoinExpress,0,Airport (Express shuttle) - Government Center (Express shuttle),,4,60210099,44604780-AirportBowdoin01
-Shuttle-AirportBowdoinExpress-0-1,Shuttle-AirportBowdoinExpress,1,Government Center (Express shuttle) - Airport (Express shuttle),,4,60210199,44604782-AirportBowdoin21
+Shuttle-AirportBowdoinLocal-0-0,Shuttle-AirportBowdoinLocal,0,Airport via Maverick - Government Center via Maverick,,4,60205099,45391031-AirportBowdoinAirportBowdoin
+Shuttle-AirportBowdoinLocal-0-1,Shuttle-AirportBowdoinLocal,1,Government Center via Maverick - Airport via Maverick,,4,60205199,45391033-AirportBowdoinAirportBowdoin
+Shuttle-AirportBowdoinExpress-0-0,Shuttle-AirportBowdoinExpress,0,Airport (Express shuttle) - Government Center (Express shuttle),,4,60210099,45391031-AirportBowdoin01
+Shuttle-AirportBowdoinExpress-0-1,Shuttle-AirportBowdoinExpress,1,Government Center (Express shuttle) - Airport (Express shuttle),,4,60210199,45391033-AirportBowdoin21
 Shuttle-BabcockBostonCollege-0-0,Shuttle-BabcockBostonCollege,0,Babcock Street - Boston College,,4,60450099,45120582-BabcockBCHeathPru1
 Shuttle-BabcockBostonCollege-0-1,Shuttle-BabcockBostonCollege,1,Boston College - Babcock Street,,4,60450199,45120581-BabcockBCHeathPru1
 Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,4,61000099,44080142-20:45-BraintreeQuincyCenterExtended1
@@ -942,8 +938,6 @@ Shuttle-FenwayNewtonHighlands-0-0,Shuttle-FenwayNewtonHighlands,0,Fenway - Newto
 Shuttle-FenwayNewtonHighlands-0-1,Shuttle-FenwayNewtonHighlands,1,Newton Highlands - Fenway,,4,61490199,45804948-20:45-FenwayNewtonHighlands1
 Shuttle-HeathPrudential-0-0,Shuttle-HeathPrudential,0,Prudential - Heath Street,,4,61985099,45117797-20:25-HeathPrunorm1
 Shuttle-HeathPrudential-0-1,Shuttle-HeathPrudential,1,Heath Street - Prudential,,4,61985199,45117798-20:25-HeathPrunorm1
-Shuttle-NewtonHighlandsKenmore-0-0,Shuttle-NewtonHighlandsKenmore,0,Kenmore - Newton Highlands,,4,62090099,45807817-NewtonHighlandsKenmoreW1
-Shuttle-NewtonHighlandsKenmore-0-1,Shuttle-NewtonHighlandsKenmore,1,Newton Highlands - Kenmore,,4,62090199,45807802-NewtonHighlandsKenmoreW1
 Shuttle-NewtonHighlandsRiverside-0-0,Shuttle-NewtonHighlandsRiverside,0,Newton Highlands - Riverside,,4,62100099,45804940-20:45-NewtonHighlandsRiverside1
 Shuttle-NewtonHighlandsRiverside-0-1,Shuttle-NewtonHighlandsRiverside,1,Riverside - Newton Highlands,,4,62100199,45804948-20:45-NewtonHighlandsRiverside1
 Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,45804940-20:45-ReservoirRiverside1
