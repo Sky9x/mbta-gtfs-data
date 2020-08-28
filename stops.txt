@@ -1449,7 +1449,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2124,2124,Belmont St @ Payson Rd,,,,42.377259,-71.166350,LocalBus,,https://www.mbta.com/stops/2124,,0,,1,Belmont,Belmont Street,Payson Road,3
 21248,21248,Huron Ave @ Fountain Terrace,,,,42.379196,-71.150265,LocalBus,,https://www.mbta.com/stops/21248,,0,,0,Cambridge,Huron Avenue,Fountain Terrace,3
 2125,2125,Belmont St @ Oakley Rd,,,,42.377820,-71.169553,LocalBus,,https://www.mbta.com/stops/2125,,0,,0,Belmont,Belmont Street,Oakley Road,3
-2126,2126,TRAPELO ROAD / WILLOW STREET,,,,42.379740,-71.172840,LocalBus,,https://www.mbta.com/stops/2126,,0,,1,Belmont,Trapelo Road,Willow Street,3
+2126,2126,Trapelo Rd @ Willow St,,,,42.379740,-71.172840,LocalBus,,https://www.mbta.com/stops/2126,,0,,1,Belmont,Trapelo Road,Willow Street,3
 2127,2127,Trapelo Rd opp Williston Rd - Cushing Square,,,,42.381068,-71.175691,LocalBus,,https://www.mbta.com/stops/2127,,0,,1,Belmont,Trapelo Road,Williston Road,3
 2128,2128,Trapelo Rd opp Poplar St,,,,42.381743,-71.178011,LocalBus,,https://www.mbta.com/stops/2128,,0,,0,Belmont,Trapelo Road,Poplar Street,3
 2129,2129,Trapelo Rd @ Slade St,,,,42.382659,-71.180186,LocalBus,,https://www.mbta.com/stops/2129,,0,,0,Belmont,Trapelo Road,Harriet Avenue,3
@@ -6748,27 +6748,23 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070,9070,Salem St @ Lynn St,,,,42.436065,-71.021736,LocalBus,,https://www.mbta.com/stops/9070,,0,,0,Malden,Salem Street,Lynn Street,3
 9070043,9070043,Aquarium,Aquarium - Blue Line Shuttle,,Blue Line Shuttle,42.359434,-71.053261,LocalBus,,https://www.mbta.com/stops/9070043,,0,,1,Boston,State Street,McKinley Square,3
 9070107,9070107,Boston College,Boston College - Green Line Shuttle,,Green Line Shuttle,42.340070,-71.166492,LocalBus,,https://www.mbta.com/stops/9070107,,0,,1,Boston,,,3
-9070110,9070110,South Street,South Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.339278,-71.157041,LocalBus,,https://www.mbta.com/stops/9070110,,0,,1,Boston,,,3
+9070110,9070110,South Street,South Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.339555,-71.158058,LocalBus,,https://www.mbta.com/stops/9070110,,0,,1,Boston,,,3
 9070111,9070111,South Street,South Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.339669,-71.157486,LocalBus,,https://www.mbta.com/stops/9070111,,0,,1,Boston,,,3
-9070112,9070112,Chestnut Hill Avenue,Chestnut Hill Avenue - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.338667,-71.152467,LocalBus,,https://www.mbta.com/stops/9070112,,0,,1,Boston,,,3
-9070113,9070113,Chestnut Hill Avenue,Chestnut Hill Avenue - Green Line Westbound Shuttle,,Boston College Shuttle,42.338332,-71.153181,LocalBus,,https://www.mbta.com/stops/9070113,,0,,1,Boston,,,3
-9070114,9070114,Chiswick Road,Chiswick Road - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.340768,-71.150539,LocalBus,,https://www.mbta.com/stops/9070114,,0,,1,Boston,,,3
+9070112,9070112,Chestnut Hill Avenue,Chestnut Hill Avenue - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.338001,-71.154084,LocalBus,,https://www.mbta.com/stops/9070112,,0,,1,Boston,,,3
+9070113,9070113,Chestnut Hill Avenue,Chestnut Hill Avenue - Green Line Westbound Shuttle,,Boston College Shuttle,42.338296,-71.153994,LocalBus,,https://www.mbta.com/stops/9070113,,0,,1,Boston,,,3
+9070114,9070114,Chiswick Road,Chiswick Road - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.340378,-71.150962,LocalBus,,https://www.mbta.com/stops/9070114,,0,,1,Boston,,,3
 9070115,9070115,Chiswick Road,Chiswick Road - Green Line Westbound Shuttle,,Boston College Shuttle,42.340555,-71.151273,LocalBus,,https://www.mbta.com/stops/9070115,,0,,1,Boston,,,3
-9070116,9070116,Sutherland Road,Sutherland Road - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.341536,-71.145947,LocalBus,,https://www.mbta.com/stops/9070116,,0,,1,Boston,,,3
-9070117,9070117,Sutherland Road,Sutherland Road - Green Line Westbound Shuttle,,Boston College Shuttle,42.341661,-71.146714,LocalBus,,https://www.mbta.com/stops/9070117,,0,,1,Boston,,,3
-9070120,9070120,Washington Street,Washington Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.343972,-71.142520,LocalBus,,https://www.mbta.com/stops/9070120,,0,,1,Boston,,,3
-9070121,9070121,Washington Street,Washington Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.344110,-71.142797,LocalBus,,https://www.mbta.com/stops/9070121,,0,,1,Boston,,,3
-9070124,9070124,Warren Street,Warren Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.348432,-71.140169,LocalBus,,https://www.mbta.com/stops/9070124,,0,,1,Boston,,,3
-9070125,9070125,Warren Street,Warren Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.348444,-71.140537,LocalBus,,https://www.mbta.com/stops/9070125,,0,,1,Boston,,,3
-9070126,9070126,Allston Street,Allston Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.348475,-71.137871,LocalBus,,https://www.mbta.com/stops/9070126,,0,,1,Boston,,,3
-9070127,9070127,Allston Street,Allston Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.348796,-71.138399,LocalBus,,https://www.mbta.com/stops/9070127,,0,,1,Boston,,,3
-9070128,9070128,Griggs Street,Griggs Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.348687,-71.134238,LocalBus,,https://www.mbta.com/stops/9070128,,0,,1,Boston,,,3
-9070129,9070129,Griggs Street,Griggs Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.348901,-71.134118,LocalBus,,https://www.mbta.com/stops/9070129,,0,,1,Boston,,,3
+9070116,9070116,Sutherland Road,Sutherland Road - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.341459,-71.145883,LocalBus,,https://www.mbta.com/stops/9070116,,0,,1,Boston,,,3
+9070117,9070117,Sutherland Road,Sutherland Road - Green Line Westbound Shuttle,,Boston College Shuttle,42.341805,-71.146004,LocalBus,,https://www.mbta.com/stops/9070117,,0,,1,Boston,,,3
+9070120,9070120,Washington Street,Washington Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.343850,-71.142476,LocalBus,,https://www.mbta.com/stops/9070120,,0,,1,Boston,,,3
+9070121,9070121,Washington Street,Washington Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.343924,-71.142985,LocalBus,,https://www.mbta.com/stops/9070121,,0,,1,Boston,,,3
+9070124,9070124,Warren Street,Warren Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.348366,-71.139974,LocalBus,,https://www.mbta.com/stops/9070124,,0,,1,Boston,,,3
+9070125,9070125,Warren Street,Warren Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.348793,-71.139954,LocalBus,,https://www.mbta.com/stops/9070125,,0,,1,Boston,,,3
 9070130,9070130,Harvard Avenue,Harvard Avenue - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.350191,-71.131085,LocalBus,,https://www.mbta.com/stops/9070130,,0,,1,Boston,,,3
 9070131,9070131,Harvard Avenue,Harvard Avenue - Green Line Westbound Shuttle,,Boston College Shuttle,42.350490,-71.130739,LocalBus,,https://www.mbta.com/stops/9070131,,0,,1,Boston,,,3
-9070134,9070134,Packards Corner,Packards Corner - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.351947,-71.124667,LocalBus,,https://www.mbta.com/stops/9070134,,0,,1,Boston,,,3
-9070135,9070135,Packards Corner,Packards Corner - Green Line Westbound Shuttle,,Boston College Shuttle,42.351925,-71.124976,LocalBus,,https://www.mbta.com/stops/9070135,,0,,1,Boston,,,3
 9070136,9070136,Babcock Street,Babcock Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.351656,-71.121509,LocalBus,,https://www.mbta.com/stops/9070136,,0,,1,Boston,,,3
+9070150,9070150,Kenmore,Kenmore - Green Line Shuttle,,Green Line Shuttle,42.348712,-71.095526,LocalBus,,https://www.mbta.com/stops/9070150,,0,,1,Boston,,,3
+9070151,9070151,Kenmore,Kenmore - Green Line Westbound Shuttle,,Green Line Shuttle,42.349196,-71.095826,LocalBus,,https://www.mbta.com/stops/9070151,,0,,1,Boston,,,3
 9070162,9070162,Woodland,Woodland Station - Green Line Shuttle,,Green Line Shuttle,42.332973,-71.243286,LocalBus,,https://www.mbta.com/stops/9070162,,0,,1,Newton,,,3
 9070164,9070164,Waban,Waban Station - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.326601,-71.230560,LocalBus,,https://www.mbta.com/stops/9070164,,0,,1,Newton,,,3
 9070165,9070165,Waban,Waban Station - Green Line Westbound Shuttle,,Riverside Shuttle,42.326954,-71.230295,LocalBus,,https://www.mbta.com/stops/9070165,,0,,1,Newton,,,3
@@ -6882,8 +6878,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9170,9170,Riverside Ave @ Park St,,,,42.414773,-71.100883,LocalBus,,https://www.mbta.com/stops/9170,,0,,0,Medford,Riverside Avenue,Marine Street,3
 9170168,9170168,Newton Highlands,Newton Highlands - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.321660,-71.206241,LocalBus,,https://www.mbta.com/stops/9170168,,0,,1,Newton,,,3
 9170169,9170169,Newton Highlands,Newton Highlands - Green Line Westbound Shuttle,,Riverside Shuttle,42.321751,-71.206079,LocalBus,,https://www.mbta.com/stops/9170169,,0,,1,Newton,,,3
-9170170,9170170,Newton Centre,Newton Centre - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.330311,-71.192684,LocalBus,,https://www.mbta.com/stops/9170170,,0,,1,Newton,,,3
-9170171,9170171,Newton Centre,Newton Centre - Green Line Westbound Shuttle,,Riverside Shuttle,42.330412,-71.192966,LocalBus,,https://www.mbta.com/stops/9170171,,0,,1,Newton,,,3
 9171,9171,Riverside Ave @ Pleasant St,,,,42.415712,-71.102573,LocalBus,,https://www.mbta.com/stops/9171,,0,,0,Medford,Riverside Avenue,Pleasant Street,3
 9172,9172,116 Riverside Ave,,,,42.416769,-71.105122,LocalBus,,https://www.mbta.com/stops/9172,,0,,0,Medford,Riverside Avenue,Sables Court,3
 9174,9174,Winthrop St @ Lawrence Rd,,,,42.423885,-71.120863,LocalBus,,https://www.mbta.com/stops/9174,,0,,0,Medford,Winthrop Street,Suffolk Street,3
@@ -8287,10 +8281,10 @@ node-grnst-fareunpaid,,Green Street,Green Street - Unpaid side of fare gates,,,,
 node-grnst-stairs-lobby,,Green Street,Green Street - Top of stairs,,,,,,,,level_in_street,3,place-grnst,1,Boston,,,
 node-grnst-stairs-platform,,Green Street,Green Street - Bottom of stairs,,,,,,,,level_-1_platform,3,place-grnst,1,Boston,,,
 place-haecl,,Haymarket,,,,42.363021,-71.058290,,"136 Blackstone St, Boston, MA 02109",https://www.mbta.com/stops/place-haecl,,1,,1,Boston,,,
-70024,70024,Haymarket,Haymarket - Orange Line - Forest Hills,3,Forest Hills,42.363021,-71.058290,RapidTransit,,https://www.mbta.com/stops/place-haecl,level_-1_orange_platform,0,place-haecl,1,Boston,,,1
-70025,70025,Haymarket,Haymarket - Orange Line - Oak Grove,4,Oak Grove,42.363021,-71.058290,RapidTransit,,https://www.mbta.com/stops/place-haecl,level_-1_orange_platform,0,place-haecl,1,Boston,,,1
-70203,70203,Haymarket,Haymarket - Green Line - North Station & North,2,North Station & North,42.363021,-71.058290,RapidTransit,,https://www.mbta.com/stops/place-haecl,level_-1_green_platform,0,place-haecl,1,Boston,,,0
-70204,70204,Haymarket,Haymarket - Green Line - Copley & West,1,Copley & West,42.363021,-71.058290,RapidTransit,,https://www.mbta.com/stops/place-haecl,level_-1_green_platform,0,place-haecl,1,Boston,,,0
+70024,70024,Haymarket,Haymarket - Orange Line - Forest Hills,,Forest Hills,42.363021,-71.058290,RapidTransit,,https://www.mbta.com/stops/place-haecl,level_-1_orange_platform,0,place-haecl,1,Boston,,,1
+70025,70025,Haymarket,Haymarket - Orange Line - Oak Grove,,Oak Grove,42.363021,-71.058290,RapidTransit,,https://www.mbta.com/stops/place-haecl,level_-1_orange_platform,0,place-haecl,1,Boston,,,1
+70203,70203,Haymarket,Haymarket - Green Line - North Station & North,,North Station & North,42.363021,-71.058290,RapidTransit,,https://www.mbta.com/stops/place-haecl,level_-1_green_platform,0,place-haecl,1,Boston,,,0
+70204,70204,Haymarket,Haymarket - Green Line - Copley & West,,Copley & West,42.363021,-71.058290,RapidTransit,,https://www.mbta.com/stops/place-haecl,level_-1_green_platform,0,place-haecl,1,Boston,,,0
 8310,8310,Haymarket,Haymarket - Busway,,Busway,42.363097,-71.058166,ExpressBus-Downtown,,https://www.mbta.com/stops/place-haecl,level_ground,0,place-haecl,1,Boston,Haymarket Place,,3
 door-haecl-busway,,"Haymarket - RMV, Sudbury St, New Chardon St","Haymarket - RMV, Sudbury St, New Chardon St",,,42.362900,-71.058138,,,,level_in_street,2,place-haecl,1,Boston,,,
 door-haecl-congress,,"Haymarket - RMV, City Hall, Faneuil Hall Marketplace","Haymarket - RMV, City Hall, Faneuil Hall Marketplace",,,42.361977,-71.057805,,,,level_in_street,2,place-haecl,1,Boston,,,
@@ -8801,14 +8795,14 @@ node-orhte-obunpaidstairs-street,,Orient Heights,Orient Heights - Bottom of stai
 node-orhte-sara-farepaid,,Orient Heights,Orient Heights - Paid side of fare gates,,,,,,,,level_0_platform,3,place-orhte,1,Boston,,,
 node-orhte-sara-fareunpaid,,Orient Heights,Orient Heights - Unpaid side of fare gates,,,,,,,,level_ground,3,place-orhte,1,Boston,,,
 place-pktrm,,Park Street,,,,42.356395,-71.062424,,"Tremont St and Winter St, Boston, MA 02108",https://www.mbta.com/stops/place-pktrm,,1,,1,Boston,,,
-70075,70075,Park Street,Park Street - Red Line - Ashmont/Braintree,5,Ashmont/Braintree,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-2_red_platform,0,place-pktrm,1,Boston,,,1
-70076,70076,Park Street,Park Street - Red Line - Alewife,6,Alewife,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-2_red_platform,0,place-pktrm,1,Boston,,,1
-70196,70196,Park Street,Park Street - Green Line - (B) Boston College,2,Boston College,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1,Boston,,,0
-70197,70197,Park Street,Park Street - Green Line - (C) Cleveland Circle,1,Cleveland Circle,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1,Boston,,,0
-70198,70198,Park Street,Park Street - Green Line - (D) Riverside,2,Riverside,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1,Boston,,,0
-70199,70199,Park Street,Park Street - Green Line - (E) Heath Street,1,Heath Street,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1,Boston,,,0
-70200,70200,Park Street,Park Street - Green Line - Government Center & North,4,Government Center & North,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1,Boston,,,0
-71199,71199,Park Street,Park Street - Green Line - Drop-off Only,3,Drop-off Only,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1,Boston,,,0
+70075,70075,Park Street,Park Street - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-2_red_platform,0,place-pktrm,1,Boston,,,1
+70076,70076,Park Street,Park Street - Red Line - Alewife,,Alewife,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-2_red_platform,0,place-pktrm,1,Boston,,,1
+70196,70196,Park Street,Park Street - Green Line - (B) Boston College,,Boston College,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1,Boston,,,0
+70197,70197,Park Street,Park Street - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1,Boston,,,0
+70198,70198,Park Street,Park Street - Green Line - (D) Riverside,,Riverside,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1,Boston,,,0
+70199,70199,Park Street,Park Street - Green Line - (E) Heath Street,,Heath Street,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1,Boston,,,0
+70200,70200,Park Street,Park Street - Green Line - Government Center & North,,Government Center & North,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1,Boston,,,0
+71199,71199,Park Street,Park Street - Green Line - Drop-off Only,,Drop-off Only,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-1_green_platform,0,place-pktrm,1,Boston,,,0
 door-pktrm-elevatoreb,,Park Street - Tremont St to Lobby (Elevator 804),Park Street - Tremont St to Lobby (Elevator 804),,,42.356172,-71.062239,,,,level_in_street,2,place-pktrm,1,Boston,,,
 door-pktrm-elevatorwb,,"Park Street - Elevator, Tremont St","Park Street - Elevator, Tremont St",,,42.356331,-71.062675,,,,level_in_street,2,place-pktrm,1,Boston,,,
 door-pktrm-exitalewife,,Park Street - Escalator to Tremont St (North),Park Street - Escalator to Tremont St (North),,,42.356504,-71.061904,,,,level_in_street,2,place-pktrm,2,Boston,,,

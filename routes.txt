@@ -192,10 +192,10 @@ Boat-F1,1,,Hingham/Hull Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F1,008
 503,1,503,Brighton Center - Copley Square,Commuter Bus,3,https://www.mbta.com/schedules/503,FFC72C,000000,55030,Inner Express,line-501503,
 504,1,504,Watertown Yard - Federal Street & Franklin Street,Commuter Bus,3,https://www.mbta.com/schedules/504,FFC72C,000000,55040,Inner Express,line-502504,
 505,1,505,Waltham Center - Federal Street & Franklin Street,Commuter Bus,3,https://www.mbta.com/schedules/505,FFC72C,000000,55050,Outer Express,line-505553554,
-553,1,553,Roberts - Newton Corner,Local Bus,3,https://www.mbta.com/schedules/553,FFC72C,000000,55530,Inner Express,line-505553554,
-554,1,554,Waverley Square - Newton Corner,Local Bus,3,https://www.mbta.com/schedules/554,FFC72C,000000,55540,Inner Express,line-505553554,
-556,1,556,Waltham Highlands - Newton Corner,Commuter Bus,3,https://www.mbta.com/schedules/556,FFC72C,000000,55560,Inner Express,line-556558,
-558,1,558,Riverside Station - Newton Corner,Commuter Bus,3,https://www.mbta.com/schedules/558,FFC72C,000000,55580,Inner Express,line-556558,
+553,1,553,Roberts - Newton Corner,Local Bus,3,https://www.mbta.com/schedules/553,FFC72C,000000,55530,Local Bus,line-505553554,
+554,1,554,Waverley Square - Newton Corner,Local Bus,3,https://www.mbta.com/schedules/554,FFC72C,000000,55540,Local Bus,line-505553554,
+556,1,556,Waltham Highlands - Newton Corner,Commuter Bus,3,https://www.mbta.com/schedules/556,FFC72C,000000,55560,Local Bus,line-556558,
+558,1,558,Riverside Station - Newton Corner,Commuter Bus,3,https://www.mbta.com/schedules/558,FFC72C,000000,55580,Local Bus,line-556558,
 710,1,710,North Medford - Wellington Station,Local Bus,3,https://www.mbta.com/schedules/710,FFC72C,000000,57100,Local Bus,line-710,
 712,1,712,Point Shirley - Orient Heights Station via Revere Street,Local Bus,3,https://www.mbta.com/schedules/712,FFC72C,000000,57120,Local Bus,line-712713,
 713,1,713,Point Shirley - Orient Heights Station via Winthrop Center,Local Bus,3,https://www.mbta.com/schedules/713,FFC72C,000000,57130,Local Bus,line-712713,
@@ -238,5 +238,5 @@ Shuttle-Generic-Red-Braintree,1,,Red Line Shuttle,Rail Replacement Bus,3,,FFC72C
 Shuttle-Generic-Red-Trunk,1,,Red Line Shuttle,Rail Replacement Bus,3,,FFC72C,000000,61938,Free,line-Red,1
 Shuttle-Generic-Worcester,1,,Framingham/Worcester Line Shuttle,Rail Replacement Bus,3,,FFC72C,000000,61939,Free,line-Worcester,1
 Shuttle-HeathPrudential,1,,Green Line E Shuttle,Rail Replacement Bus,3,,FFC72C,000000,61985,Free,line-Green,1
+Shuttle-NewtonHighlandsKenmore,1,,Green Line D Shuttle,Rail Replacement Bus,3,,FFC72C,000000,62090,Free,line-Green,1
 Shuttle-NewtonHighlandsRiverside,1,,Green Line D Shuttle,Rail Replacement Bus,3,,FFC72C,000000,62100,Free,line-Green,1
-Shuttle-ReservoirRiverside,1,,Green Line D Shuttle,Rail Replacement Bus,3,,FFC72C,000000,62400,Free,line-Green,1
