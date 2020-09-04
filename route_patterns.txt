@@ -1,11 +1,9 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010003,45295219
 Red-3-0,Red,0,Alewife - Braintree,,1,10010004,45295375
-Red-_-0,Red,0,Alewife - Quincy Center,Evenings only,3,10010006,44080142-20:45-BraintreeQuincyCenterExtended0
 Red-3-0_70101_70105_0,Red,0,Alewife - Quincy Center,,4,10010099,45295508-20:45-BraintreeQuincyCenter0
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010103,45295220
 Red-3-1,Red,1,Braintree - Alewife,,1,10010104,45295355
-Red-_-1,Red,1,Quincy Center - Alewife,Evenings only,3,10010106,44080148-20:45-BraintreeQuincyCenterExtended2
 Red-3-1_70105_70102_2,Red,1,Quincy Center - Alewife,,4,10010199,45295539-20:45-BraintreeQuincyCenter2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,45616687
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,45616685
@@ -27,13 +25,13 @@ Green-D-3-0,Green-D,0,North Station - Reservoir,Evenings only,3,10034005,4580560
 Green-D-1-0,Green-D,0,North Station - Riverside,Weekday early mornings only,3,10034007,45803757
 Green-D-2-0_70151_70169_0,Green-D,0,Government Center - Kenmore,,4,10034099,45804940-20:45-NewtonHighlandsKenmoreW0
 Green-D-2-0_70151_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,45804940-20:45-NewtonHighlandsKenmoreW2
-Green-D-2-0_70151_70187_0,Green-D,0,Government Center - Kenmore,,4,10034099,45804940-20:45-FenwayKenmore0
-Green-D-2-0_70151_70187_2,Green-D,0,Fenway - Riverside,,4,10034099,45804940-20:45-FenwayKenmore2
+Green-D-2-0_70151_70179_0,Green-D,0,Government Center - Kenmore,,4,10034099,45804940-20:45-BrooklineHillsKenmore0
+Green-D-2-0_70151_70179_2,Green-D,0,Brookline Hills - Riverside,,4,10034099,45804940-20:45-BrooklineHillsKenmore2
 Green-D-2-0_70169_70161_0,Green-D,0,Government Center - Newton Highlands,,4,10034099,45804940-20:45-NewtonHighlandsRiverside0
 Green-D-2-0_70187_70169_0,Green-D,0,Government Center - Fenway,,4,10034099,45804940-20:45-FenwayNewtonHighlands0
 Green-D-2-0_70187_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,45804940-20:45-FenwayNewtonHighlands2
-Green-D-3-0_70151_70187_0,Green-D,0,North Station - Kenmore,,4,10034099,45805609-20:45-FenwayKenmore0
-Green-D-3-0_70151_70187_2,Green-D,0,Fenway - Reservoir,,4,10034099,45805609-20:45-FenwayKenmore2
+Green-D-3-0_70151_70179_0,Green-D,0,North Station - Kenmore,,4,10034099,45805609-20:45-BrooklineHillsKenmore0
+Green-D-3-0_70151_70179_2,Green-D,0,Brookline Hills - Reservoir,,4,10034099,45805609-20:45-BrooklineHillsKenmore2
 Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034100,45804732
 Green-D-3-1,Green-D,1,Reservoir - North Station,,3,10034105,45805593
 Green-D-1-1,Green-D,1,Riverside - North Station,Weekday early mornings only,3,10034108,45803758
@@ -42,16 +40,16 @@ Green-D-2-1_70168_70150_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,458
 Green-D-2-1_70168_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,45804948-20:45-NewtonHighlandsKenmoreW2
 Green-D-2-1_70168_70186_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,45804948-20:45-FenwayNewtonHighlands0
 Green-D-2-1_70168_70186_2,Green-D,1,Fenway - Government Center,,4,10034199,45804948-20:45-FenwayNewtonHighlands2
-Green-D-2-1_70186_70150_0,Green-D,1,Riverside - Fenway,,4,10034199,45804948-20:45-FenwayKenmore0
-Green-D-2-1_70186_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,45804948-20:45-FenwayKenmore2
+Green-D-2-1_70178_70150_0,Green-D,1,Riverside - Brookline Hills,,4,10034199,45804948-20:45-BrooklineHillsKenmore0
+Green-D-2-1_70178_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,45804948-20:45-BrooklineHillsKenmore2
 Green-E-1-0,Green-E,0,North Station - Heath Street,,1,10035000,45803749
 Green-E-1-1,Green-E,1,Heath Street - North Station,,1,10035100,45803750
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,45741334
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040003,45741560
-Blue-6-0_70047_70838_0,Blue,0,Wonderland - Airport,,4,10040099,45391032-AirportBowdoin00
-Blue-8-0_70047_70838_0,Blue,0,Orient Heights - Airport,,4,10040099,45391031-AirportBowdoin00
+Blue-6-0_70047_70838_0,Blue,0,Wonderland - Airport,,4,10040099,45391032-AirportBowdoin0
+Blue-8-0_70047_70838_0,Blue,0,Orient Heights - Airport,,4,10040099,45391031-AirportBowdoin0
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,45741386
-Blue-6-1_70038_70048_2,Blue,1,Airport - Wonderland,,4,10040199,45391033-AirportBowdoin22
+Blue-6-1_70038_70048_2,Blue,1,Airport - Wonderland,,4,10040199,45391033-AirportBowdoin2
 741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,45964688
 741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051100,45964689
 741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Late nights only,3,10051104,45964893
@@ -715,7 +713,7 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 214-1-1,214,1,Germantown - Quincy Center Station via Coddington St,Weekdays only,1,52140100,45830885
 214-2-1,214,1,Germantown - Quincy Center Station via McGrath Hwy,Weekdays only,2,52140102,45830884
 214216-2-0,214216,0,Quincy Center Station - Houghs Neck via Germantown,,1,52141000,45830932
-214216-4-0,214216,0,Quincy Center - Houghs Neck via McGrath Hwy & Germantown,,2,52141004,44851081
+214216-4-0,214216,0,Quincy Center - Houghs Neck via McGrath Hwy & Germantown,,2,52141004,44850324
 215-1-0,215,0,Ashmont Station - Quincy Center Station,,1,52150000,45830822
 215-3-0,215,0,Fields Corner Station - Quincy Center Station,Sundays only,3,52150004,45833371
 215-_-0,215,0,North Quincy Station - Quincy Center Station,Early mornings only,3,52150006,45830828
@@ -728,7 +726,7 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 216-1-0,216,0,Calvin Rd & Moffat Rd - Houghs Neck,School days only,3,52160002,45830927
 216-3-0,216,0,Coddington St & Newcomb St - Houghs Neck,School days only,3,52160003,45830928
 216-_-1,216,1,Houghs Neck - Quincy Center Station,,1,52160100,45830929
-216-4-1,216,1,Houghs Neck - Quincy Center Station via McGrath Hwy,,2,52160104,44851288
+216-4-1,216,1,Houghs Neck - Quincy Center Station via McGrath Hwy,,2,52160104,44850531
 217-9-0,217,0,Ashmont Station - Quincy Center Station,Weekdays only,1,52170000,45830400
 217-1-0,217,0,Ashmont - Quincy Center via North Quincy & Hollis Ave,AM peak hours only,2,52170001,45830411
 217-8-0,217,0,Ashmont Station - Quincy Center Station via North Quincy,AM peak hours only,2,52170002,45830404
@@ -777,11 +775,11 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 240-3-1,240,1,Holbrook/Randolph Station - North Randolph,Weekdays only,3,52400109,45831045
 240-2-1,240,1,Crawford Square - North Randolph,,3,52400111,45831049
 245-_-0,245,0,Mattapan Station - Quincy Center Station via Edge Hill Rd,Weekdays only,1,52450000,45830396
-245-1-0,245,0,Mattapan Station - Quincy Center Station via Brook Rd,Peak hours only,2,52450003,44851627
+245-1-0,245,0,Mattapan Station - Quincy Center Station via Brook Rd,Peak hours only,2,52450003,44850870
 245-8-0,245,0,Mattapan - Quincy Center via Alleyne St & Edge Hill Rd,AM peak hours only,3,52450005,45830361
-245-2-0,245,0,Mattapan Station - Quincy Center Station via Canton Ave,Weekday middays only,3,52450007,44851633
+245-2-0,245,0,Mattapan Station - Quincy Center Station via Canton Ave,Weekday middays only,3,52450007,44850876
 245-_-1,245,1,Quincy Center Station - Mattapan Station via Edge Hill Rd,Weekdays only,1,52450100,45830360
-245-1-1,245,1,Quincy Center Station - Mattapan Station via Brook Rd,Weekdays only,2,52450103,44851643
+245-1-1,245,1,Quincy Center Station - Mattapan Station via Brook Rd,Weekdays only,2,52450103,44850886
 245-5-1,245,1,Hancock St & St Anns Rd - Newport Ave & Beale St,School days only,3,52450105,45830415
 350-5-0,350,0,Alewife Station - North Burlington via Burlington Mall,,1,53500000,45593430
 350-7-0,350,0,Alewife Station - North Burlington via Burlington Mall Rd,Mornings only,2,53500004,45593456
@@ -938,14 +936,12 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 602-1-1,602,1,Nashua St @ North Station - Lechmere,,1,60200100,46001157
 Shuttle-AirportBowdoinLocal-0-0,Shuttle-AirportBowdoinLocal,0,Airport via Maverick - Government Center via Maverick,,4,60205099,45391031-AirportBowdoinAirportBowdoin
 Shuttle-AirportBowdoinLocal-0-1,Shuttle-AirportBowdoinLocal,1,Government Center via Maverick - Airport via Maverick,,4,60205199,45391033-AirportBowdoinAirportBowdoin
-Shuttle-AirportBowdoinExpress-0-0,Shuttle-AirportBowdoinExpress,0,Airport (Express shuttle) - Government Center (Express shuttle),,4,60210099,45391031-AirportBowdoin01
-Shuttle-AirportBowdoinExpress-0-1,Shuttle-AirportBowdoinExpress,1,Government Center (Express shuttle) - Airport (Express shuttle),,4,60210199,45391033-AirportBowdoin21
 Shuttle-BabcockBostonCollege-0-0,Shuttle-BabcockBostonCollege,0,Babcock Street - Boston College,,4,60450099,45807800-BabcockBC1
 Shuttle-BabcockBostonCollege-0-1,Shuttle-BabcockBostonCollege,1,Boston College - Babcock Street,,4,60450199,45807799-BabcockBC1
 Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,4,61000099,45295508-20:45-BraintreeQuincyCenter1
 Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,4,61000199,45295539-20:45-BraintreeQuincyCenter1
-Shuttle-FenwayKenmore-0-0,Shuttle-FenwayKenmore,0,Kenmore - Fenway,,4,61475099,45804940-20:45-FenwayKenmore1
-Shuttle-FenwayKenmore-0-1,Shuttle-FenwayKenmore,1,Fenway - Kenmore,,4,61475199,45804948-20:45-FenwayKenmore1
+Shuttle-BrooklineHillsKenmore-0-0,Shuttle-BrooklineHillsKenmore,0,Kenmore - Brookline Hills,,4,61100099,45804940-20:45-BrooklineHillsKenmore1
+Shuttle-BrooklineHillsKenmore-0-1,Shuttle-BrooklineHillsKenmore,1,Brookline Hills - Kenmore,,4,61100199,45804948-20:45-BrooklineHillsKenmore1
 Shuttle-FenwayNewtonHighlands-0-0,Shuttle-FenwayNewtonHighlands,0,Fenway - Newton Highlands,,4,61490099,45804940-20:45-FenwayNewtonHighlands1
 Shuttle-FenwayNewtonHighlands-0-1,Shuttle-FenwayNewtonHighlands,1,Newton Highlands - Fenway,,4,61490199,45804948-20:45-FenwayNewtonHighlands1
 Shuttle-HeathPrudential-0-0,Shuttle-HeathPrudential,0,Prudential - Heath Street,,4,61985099,45117797-20:25-HeathPrunorm1
