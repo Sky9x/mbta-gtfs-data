@@ -6659,7 +6659,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9069,9069,Salem St @ Revere St,,,,42.437257,-71.025457,LocalBus,,https://www.mbta.com/stops/9069,,0,,1,Malden,Salem Street,Revere Street,3
 907,907,Tremont St @ Pembroke St,,,,42.352946,-71.176810,LocalBus,,https://www.mbta.com/stops/907,,0,,1,Newton,Tremont Street,Playstead Road,3
 9070,9070,Salem St @ Lynn St,,,,42.436065,-71.021736,LocalBus,,https://www.mbta.com/stops/9070,,0,,0,Malden,Salem Street,Lynn Street,3
-9070043,9070043,Aquarium,Aquarium - Blue Line Shuttle,,Blue Line Shuttle,42.359434,-71.053261,LocalBus,,https://www.mbta.com/stops/9070043,,0,,1,Boston,State Street,McKinley Square,3
 9070107,9070107,Boston College,Boston College - Green Line Shuttle,,Green Line Shuttle,42.340070,-71.166492,LocalBus,,https://www.mbta.com/stops/9070107,,0,,1,Boston,,,3
 9070110,9070110,South Street,South Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.339555,-71.158058,LocalBus,,https://www.mbta.com/stops/9070110,,0,,1,Boston,,,3
 9070111,9070111,South Street,South Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.339669,-71.157486,LocalBus,,https://www.mbta.com/stops/9070111,,0,,1,Boston,,,3
@@ -6791,6 +6790,8 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9170,9170,Riverside Ave @ Park St,,,,42.414773,-71.100883,LocalBus,,https://www.mbta.com/stops/9170,,0,,0,Medford,Riverside Avenue,Marine Street,3
 9170168,9170168,Newton Highlands,Newton Highlands - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.321660,-71.206241,LocalBus,,https://www.mbta.com/stops/9170168,,0,,1,Newton,,,3
 9170169,9170169,Newton Highlands,Newton Highlands - Green Line Shuttle,,Green Line Shuttle,42.321751,-71.206079,LocalBus,,https://www.mbta.com/stops/9170169,,0,,1,Newton,,,3
+9170170,9170170,Newton Centre,Newton Centre - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.330311,-71.192684,LocalBus,,https://www.mbta.com/stops/9170170,,0,,1,Newton,,,3
+9170171,9170171,Newton Centre,Newton Centre - Green Line Westbound Shuttle,,Riverside Shuttle,42.330412,-71.192966,LocalBus,,https://www.mbta.com/stops/9170171,,0,,1,Newton,,,3
 9170178,9170178,Brookline Hills,Brookline Hills - Green Line Shuttle,,Green Line Shuttle,42.331508,-71.126691,LocalBus,,https://www.mbta.com/stops/9170178,,0,,1,Brookline,,,3
 9171,9171,Riverside Ave @ Pleasant St,,,,42.415712,-71.102573,LocalBus,,https://www.mbta.com/stops/9171,,0,,0,Medford,Riverside Avenue,Pleasant Street,3
 9172,9172,116 Riverside Ave,,,,42.416769,-71.105122,LocalBus,,https://www.mbta.com/stops/9172,,0,,0,Medford,Riverside Avenue,Sables Court,3
@@ -7030,16 +7031,12 @@ Boat-Long-South,,Long Wharf (South),,,,42.359448,-71.050498,Boat-Long,"Long Whar
 Boat-Rowes,,Rowes Wharf,,,,42.355721,-71.049897,Boat-Rowes,"60 Rowes Wharf, Boston, MA 02110",https://www.mbta.com/stops/Boat-Rowes,,0,,1,Boston,,,4
 place-CM-0493,,Wareham Village,,,,41.758333,-70.714722,CF-zone-buzzards,"176 Merchants Way, Wareham, MA 02571",https://www.mbta.com/stops/place-CM-0493,,1,,1,Wareham,,,
 CM-0493-S,,Wareham Village,Wareham Village - CapeFLYER - Track 1 (All Trains),1,Track 1 (All Trains),41.758333,-70.714722,CF-zone-buzzards,,https://www.mbta.com/stops/place-CM-0493,,0,place-CM-0493,1,Wareham,,,2
-Wareham Village,,Wareham Village,,,,41.758333,-70.714722,CF-zone-buzzards,,https://www.mbta.com/stops/place-CM-0493,,0,place-CM-0493,1,Wareham,,,2
 place-CM-0547,,Buzzards Bay,,,,41.744805,-70.616226,CF-zone-buzzards,"70 Main Street, Buzzards Bay, MA 02532",https://www.mbta.com/stops/place-CM-0547,,1,,1,Bourne,,,
-Buzzards Bay,,Buzzards Bay,,,,41.744805,-70.616226,CF-zone-buzzards,,https://www.mbta.com/stops/place-CM-0547,,0,place-CM-0547,1,Bourne,,,2
 CM-0547-S,,Buzzards Bay,Buzzards Bay - CapeFLYER - Track 1 (All Trains),1,Track 1 (All Trains),41.744805,-70.616226,CF-zone-buzzards,,https://www.mbta.com/stops/place-CM-0547,,0,place-CM-0547,1,Bourne,,,2
 place-CM-0564,,Bourne,,,,41.746497,-70.588772,CF-zone-buzzards,"21 Bourne Bridge, Bourne, MA 02532",https://www.mbta.com/stops/place-CM-0564,,1,,1,Bourne,,,
-Bourne,,Bourne,,,,41.746497,-70.588772,CF-zone-buzzards,,https://www.mbta.com/stops/place-CM-0564,,0,place-CM-0564,1,Bourne,,,2
 CM-0564-S,,Bourne,Bourne - CapeFLYER - Track 1 (All Trains),1,Track 1 (All Trains),41.746497,-70.588772,CF-zone-buzzards,,https://www.mbta.com/stops/place-CM-0564,,0,place-CM-0564,1,Bourne,,,2
 place-CM-0790,,Hyannis,,,,41.660225,-70.276583,CF-zone-hyannis,"215 Iyannough Road, Hyannis, MA 02601",https://www.mbta.com/stops/place-CM-0790,,1,,1,Barnstable,,,
 CM-0790-S,,Hyannis,Hyannis - CapeFLYER - Track 1 (All Trains),1,Track 1 (All Trains),41.660225,-70.276583,CF-zone-hyannis,,https://www.mbta.com/stops/place-CM-0790,,0,place-CM-0790,1,Barnstable,,,2
-Hyannis,,Hyannis,,,,41.660225,-70.276583,CF-zone-hyannis,,https://www.mbta.com/stops/place-CM-0790,,0,place-CM-0790,1,Barnstable,,,2
 place-DB-0095,,Readville,,,,42.238405,-71.133246,CR-zone-2,"1800 Hyde Park Ave, Hyde Park, MA 02136",https://www.mbta.com/stops/place-DB-0095,,1,,1,Boston,,,
 DB-0095,,Readville,Readville - Commuter Rail,,Commuter Rail,42.238405,-71.133246,CR-zone-2,,https://www.mbta.com/stops/place-DB-0095,,0,place-DB-0095,1,Boston,,,2
 FB-0095-04,,Readville,Readville - Commuter Rail - Track 4,4,Track 4,42.238405,-71.133246,CR-zone-2,,https://www.mbta.com/stops/place-DB-0095,,0,place-DB-0095,1,Boston,,,2
@@ -7651,7 +7648,6 @@ place-aport,,Airport,,,,42.374262,-71.030395,,"Transportation Way and Service Rd
 70048,70048,Airport,Airport - Blue Line - Wonderland,,Wonderland,42.374262,-71.030395,RapidTransit,,https://www.mbta.com/stops/place-aport,level_0_platform,0,place-aport,1,Boston,,,1
 7096,7096,Airport,Airport - Silver Line - SL3 Chelsea,B,Chelsea,42.374693,-71.029333,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-aport,level_ground,0,place-aport,1,Boston,Airport Station Bus Access,,3
 7097,7097,Airport,Airport - Silver Line - SL3 South Station,A,South Station,42.374518,-71.029532,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-aport,level_ground,0,place-aport,1,Boston,Airport Station Bus Access,,3
-9070047,9070047,Airport,Airport - Blue Line Shuttle,,Blue Line Shuttle,42.374955,-71.029323,LocalBus,,https://www.mbta.com/stops/place-aport,level_ground,0,place-aport,1,Boston,,,3
 door-aport-bremen,,Airport - Bremen St,Airport - Bremen St,,,42.374553,-71.030306,,,,level_ground,2,place-aport,1,Boston,,,
 door-aport-buses,,"Airport - Buses, Airport","Airport - Buses, Airport",,,42.373984,-71.030031,,,,level_ground,2,place-aport,1,Boston,,,
 node-407-bridge,,Airport,Airport - Top of Escalator 407,,,,,,,,level_1_bridge,3,place-aport,1,Boston,,,
