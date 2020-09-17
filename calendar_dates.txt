@@ -1,24 +1,5 @@
 service_id,date,exception_type,holiday_name
-LRV420-hlb40016-Sa-01,20200905,1,
-RTL420-hmo40016-Sa-01,20200905,1,
-LRV420-hlb40017-Su-01,20200906,1,
-RTL420-hmo40017-Su-01,20200906,1,
-CR-Su-Fairmount-Smr-20,20200907,1,Labor Day
-CR-Su-Fitchburg-Smr-20,20200907,1,Labor Day
-CR-Su-Franklin-Smr-20,20200907,1,Labor Day
-CR-Su-Greenbush-Smr-20,20200907,1,Labor Day
-CR-Su-Haverhill-Smr-20,20200907,1,Labor Day
-CR-Su-Kingston-Smr-20,20200907,1,Labor Day
-CR-Su-Lowell-Smr-20,20200907,1,Labor Day
-CR-Su-Middleborough-Smr-20,20200907,1,Labor Day
-CR-Su-Newburyport-Smr-20,20200907,1,Labor Day
-CR-Su-Providence-Smr-20,20200907,1,Labor Day
-CR-Su-Worcester-Smr-20,20200907,1,Labor Day
-LRV420-hlb40hl7-Su-01,20200907,1,Labor Day
-LRV420-hlm40hl7-Su-01,20200907,1,Labor Day
-LaborDay-ThanksgivingDay,20200907,1,Labor Day
-PRIV420-hpj40017-Su-01,20200907,1,Labor Day
-PRIV420-hpl40017-Su-01,20200907,1,Labor Day
+RTL420-hms40011-Wdy-01-BrrQncCnr,20200910,1,
 LRV420-hlb40011-Wdy-01,20200911,1,
 RTL420-hmo40011-Wdy-01,20200911,2,
 LRV420-hlb40011-Wdy-01,20200918,1,
@@ -31,10 +12,26 @@ CR-Su-Fitchburg-Smr-20,20200927,2,
 RTL420-hmo40011-Wdy-01,20201002,2,
 CR-Sa-Fitchburg-Smr-20,20201003,2,
 CR-Su-Fitchburg-Smr-20,20201004,2,
+RTL420-hms40011-Wdy-01,20201005,2,
+RTL420-hms40011-Wdy-01,20201006,2,
+RTL420-hms40011-Wdy-01,20201007,2,
+RTL420-hms40011-Wdy-01,20201008,2,
 BUS420-hbs40sn1-Wdy-02,20201012,1,Columbus Day
 BUS420-hbs40sw1-Wdy-02,20201012,2,Columbus Day
 ColumbusDay-VeteransDay-DayafterThanksgivingDay,20201012,1,Columbus Day
 FallWeekday,20201012,2,Columbus Day
+RTL420-hms40011-Wdy-01,20201012,2,Columbus Day
+RTL420-hms40011-Wdy-01,20201013,2,
+RTL420-hms40011-Wdy-01,20201014,2,
+RTL420-hms40011-Wdy-01,20201015,2,
+RTL420-hms40011-Wdy-01,20201102,2,
+RTL420-hms40011-Wdy-01-BrrQncCnr,20201102,1,
+RTL420-hms40011-Wdy-01,20201103,2,
+RTL420-hms40011-Wdy-01-BrrQncCnr,20201103,1,
+RTL420-hms40011-Wdy-01,20201104,2,
+RTL420-hms40011-Wdy-01-BrrQncCnr,20201104,1,
+RTL420-hms40011-Wdy-01,20201105,2,
+RTL420-hms40011-Wdy-01-BrrQncCnr,20201105,1,
 BUS420-hbs40sn1-Wdy-02,20201111,1,Veterans Day
 BUS420-hbs40sw1-Wdy-02,20201111,2,Veterans Day
 ColumbusDay-VeteransDay-DayafterThanksgivingDay,20201111,1,Veterans Day
@@ -42,9 +39,7 @@ FallWeekday,20201111,2,Veterans Day
 LRV420-hlb40011-Wdy-01,20201120,2,
 LRV420-hlb40011-Wdy-01-NwnHgsRvd,20201120,1,
 BUS420-hbs40sw6-Sa-02,20201121,2,
-RTL420-hmb40016-Sa-01,20201121,2,
 BUS420-hbs40sw7-Su-02,20201122,2,
-RTL420-hmb40017-Su-01,20201122,2,
 BUS420-hbs40sw1-Wdy-02,20201123,2,
 BUS420-hbs40sw1-Wdy-02,20201124,2,
 BUS420-hbs40sw1-Wdy-02,20201125,2,
@@ -76,16 +71,14 @@ CR-Wdy-Providence-Smr-20,20201126,2,Thanksgiving Day
 CR-Wdy-Worcester-Smr-20,20201126,2,Thanksgiving Day
 FallWeekday,20201126,2,Thanksgiving Day
 LRV420-hlb40011-Wdy-01,20201126,2,Thanksgiving Day
-LRV420-hlb40th7-Su-01,20201126,1,Thanksgiving Day
 LRV420-hlm40011-Wdy-01,20201126,2,Thanksgiving Day
-LRV420-hlm40th7-Su-01,20201126,1,Thanksgiving Day
-LaborDay-ThanksgivingDay,20201126,1,Thanksgiving Day
 PRIV420-hpa40011-Wdy-01,20201126,2,Thanksgiving Day
 PRIV420-hpj40011-Wdy-01,20201126,2,Thanksgiving Day
 PRIV420-hpj40017-Su-01,20201126,1,Thanksgiving Day
 RTL420-hmb40011-Wdy-01,20201126,2,Thanksgiving Day
 RTL420-hmo40011-Wdy-01,20201126,2,Thanksgiving Day
 RTL420-hms40011-Wdy-01,20201126,2,Thanksgiving Day
+ThanksgivingDay,20201126,1,Thanksgiving Day
 BUS420-hbs40sf1-Wdy-02,20201127,1,Day after Thanksgiving Day
 BUS420-hbs40sw1-Wdy-02,20201127,2,Day after Thanksgiving Day
 ColumbusDay-VeteransDay-DayafterThanksgivingDay,20201127,1,Day after Thanksgiving Day

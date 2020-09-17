@@ -26,6 +26,7 @@ Green-D-1-0,Green-D,0,North Station - Riverside,Weekday early mornings only,3,10
 Green-D-2-0_70151_70179_0,Green-D,0,Government Center - Kenmore,,4,10034099,45804940-20:45-BrooklineHillsKenmore0
 Green-D-2-0_70151_70179_2,Green-D,0,Brookline Hills - Riverside,,4,10034099,45804940-20:45-BrooklineHillsKenmore2
 Green-D-2-0_70169_70161_0,Green-D,0,Government Center - Newton Highlands,,4,10034099,45804940-20:45-NewtonHighlandsRiverside0
+Green-D-2-0_70175_70161_0,Green-D,0,Government Center - Reservoir,,4,10034099,45804940-20:45-ReservoirRiverside0
 Green-D-2-0_70187_70169_0,Green-D,0,Government Center - Fenway,,4,10034099,45804940-20:45-FenwayNewtonHighlands0
 Green-D-2-0_70187_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,45804940-20:45-FenwayNewtonHighlands2
 Green-D-3-0_70151_70179_0,Green-D,0,North Station - Kenmore,,4,10034099,45805609-20:45-BrooklineHillsKenmore0
@@ -34,6 +35,7 @@ Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034100,45804732
 Green-D-3-1,Green-D,1,Reservoir - North Station,,3,10034105,45805593
 Green-D-1-1,Green-D,1,Riverside - North Station,Weekday early mornings only,3,10034108,45803758
 Green-D-2-1_70160_70168_2,Green-D,1,Newton Highlands - Government Center,,4,10034199,45804948-20:45-NewtonHighlandsRiverside2
+Green-D-2-1_70160_70174_2,Green-D,1,Reservoir - Government Center,,4,10034199,45804948-20:45-ReservoirRiverside2
 Green-D-2-1_70168_70186_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,45804948-20:45-FenwayNewtonHighlands0
 Green-D-2-1_70168_70186_2,Green-D,1,Fenway - Government Center,,4,10034199,45804948-20:45-FenwayNewtonHighlands2
 Green-D-2-1_70178_70150_0,Green-D,1,Riverside - Brookline Hills,,4,10034199,45804948-20:45-BrooklineHillsKenmore0
@@ -42,10 +44,7 @@ Green-E-1-0,Green-E,0,North Station - Heath Street,,1,10035000,45803749
 Green-E-1-1,Green-E,1,Heath Street - North Station,,1,10035100,45803750
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,45741334
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040003,45741560
-Blue-6-0_70047_70838_0,Blue,0,Wonderland - Airport,,4,10040099,45391032-AirportBowdoin0
-Blue-8-0_70047_70838_0,Blue,0,Orient Heights - Airport,,4,10040099,45391031-AirportBowdoin0
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,45741386
-Blue-6-1_70038_70048_2,Blue,1,Airport - Wonderland,,4,10040199,45391033-AirportBowdoin2
 741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,45964688
 741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051100,45964689
 741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Late nights only,3,10051104,45964893
@@ -198,8 +197,6 @@ CR-Providence-7304b64a-1,CR-Providence,1,Providence - South Station,,3,20012114,
 CR-Providence-804d6606-1,CR-Providence,1,Wickford Junction - South Station,,3,20012115,CR-Weekday-Summer-20-816
 CR-Providence-e26e8bbf-1,CR-Providence,1,Stoughton - South Station,,3,20012116,CR-Weekday-Summer-20-7904
 CR-Providence-00f05c39-1,CR-Providence,1,Wickford Junction - South Station,,3,20012117,CR-Weekday-Summer-20-7832
-CapeFlyer-0-0,CapeFlyer,0,South Station - Hyannis,,1,21000000,CapeFlyer-Sunday-9201
-CapeFlyer-0-1,CapeFlyer,1,Hyannis - South Station,,1,21000100,CapeFlyer-Sunday-9202
 Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-0630-Long-Weekday
 Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,30001100,Boat-F4-0645-Charlestown-Weekday
 Boat-F1-1-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,30002001,Boat-F1-0650-Rowes-WeekdayLimited
@@ -884,8 +881,6 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,46001120
 602-1-0,602,0,Lechmere - Nashua St @ North Station,,1,60200000,46001155
 602-1-1,602,1,Nashua St @ North Station - Lechmere,,1,60200100,46001157
-Shuttle-AirportBowdoinLocal-0-0,Shuttle-AirportBowdoinLocal,0,Airport via Maverick - Government Center via Maverick,,4,60205099,45391031-AirportBowdoinAirportBowdoin
-Shuttle-AirportBowdoinLocal-0-1,Shuttle-AirportBowdoinLocal,1,Government Center via Maverick - Airport via Maverick,,4,60205199,45391033-AirportBowdoinAirportBowdoin
 Shuttle-BabcockBostonCollege-0-0,Shuttle-BabcockBostonCollege,0,Babcock Street - Boston College,,4,60450099,45807800-BabcockBC1
 Shuttle-BabcockBostonCollege-0-1,Shuttle-BabcockBostonCollege,1,Boston College - Babcock Street,,4,60450199,45807799-BabcockBC1
 Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,4,61000099,45295508-20:45-BraintreeQuincyCenter1
@@ -896,3 +891,5 @@ Shuttle-FenwayNewtonHighlands-0-0,Shuttle-FenwayNewtonHighlands,0,Fenway - Newto
 Shuttle-FenwayNewtonHighlands-0-1,Shuttle-FenwayNewtonHighlands,1,Newton Highlands - Fenway,,4,61490199,45804948-20:45-FenwayNewtonHighlands1
 Shuttle-NewtonHighlandsRiverside-0-0,Shuttle-NewtonHighlandsRiverside,0,Newton Highlands - Riverside,,4,62100099,45804940-20:45-NewtonHighlandsRiverside1
 Shuttle-NewtonHighlandsRiverside-0-1,Shuttle-NewtonHighlandsRiverside,1,Riverside - Newton Highlands,,4,62100199,45804948-20:45-NewtonHighlandsRiverside1
+Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,45804940-20:45-ReservoirRiverside1
+Shuttle-ReservoirRiverside-0-1,Shuttle-ReservoirRiverside,1,Riverside - Reservoir,,4,62400199,45804948-20:45-ReservoirRiverside1
