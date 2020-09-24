@@ -669,13 +669,8 @@ facility_id,property_id,value
 137,excludes-stop,node-rugg-olsstairs-lobby
 137,excludes-stop,node-rugg-olsstairs-platform
 138,direction,up
-138,excludes-stop,NEC-2265
-138,excludes-stop,NEC-2265-01
 138,excludes-stop,NEC-2265-02
-138,excludes-stop,NEC-2265-03
-138,excludes-stop,Ruggles-01
 138,excludes-stop,Ruggles-02
-138,excludes-stop,Ruggles-03
 138,excludes-stop,door-rugg-buses
 138,excludes-stop,door-rugg-columbus
 138,excludes-stop,door-rugg-ruggles
@@ -891,15 +886,10 @@ facility_id,property_id,value
 142,excludes-stop,23391
 142,excludes-stop,70014
 142,excludes-stop,70015
-142,excludes-stop,Back Bay-01
 142,excludes-stop,Back Bay-02
-142,excludes-stop,Back Bay-03
 142,excludes-stop,Back Bay-05
 142,excludes-stop,Back Bay-07
-142,excludes-stop,NEC-2276
-142,excludes-stop,NEC-2276-01
 142,excludes-stop,NEC-2276-02
-142,excludes-stop,NEC-2276-03
 142,excludes-stop,WML-0012-05
 142,excludes-stop,WML-0012-07
 142,excludes-stop,door-bbsta-buswayn
@@ -966,15 +956,10 @@ facility_id,property_id,value
 143,excludes-stop,23391
 143,excludes-stop,70014
 143,excludes-stop,70015
-143,excludes-stop,Back Bay-01
 143,excludes-stop,Back Bay-02
-143,excludes-stop,Back Bay-03
 143,excludes-stop,Back Bay-05
 143,excludes-stop,Back Bay-07
-143,excludes-stop,NEC-2276
-143,excludes-stop,NEC-2276-01
 143,excludes-stop,NEC-2276-02
-143,excludes-stop,NEC-2276-03
 143,excludes-stop,WML-0012-05
 143,excludes-stop,WML-0012-07
 143,excludes-stop,door-bbsta-buswayn
@@ -1042,13 +1027,10 @@ facility_id,property_id,value
 144,excludes-stop,70014
 144,excludes-stop,70015
 144,excludes-stop,Back Bay-01
-144,excludes-stop,Back Bay-02
 144,excludes-stop,Back Bay-03
 144,excludes-stop,Back Bay-05
 144,excludes-stop,Back Bay-07
-144,excludes-stop,NEC-2276
 144,excludes-stop,NEC-2276-01
-144,excludes-stop,NEC-2276-02
 144,excludes-stop,NEC-2276-03
 144,excludes-stop,WML-0012-05
 144,excludes-stop,WML-0012-07
@@ -1642,7 +1624,6 @@ facility_id,property_id,value
 312,excludes-stop,53270
 312,excludes-stop,70034
 312,excludes-stop,70035
-312,excludes-stop,WR-0045-S
 312,excludes-stop,door-mlmnl-commercial
 312,excludes-stop,door-mlmnl-pleasant
 312,excludes-stop,door-mlmnl-ramp
@@ -2179,9 +2160,6 @@ facility_id,property_id,value
 333,excludes-stop,70105
 333,excludes-stop,Braintree-01
 333,excludes-stop,Braintree-02
-333,excludes-stop,MM-0109
-333,excludes-stop,MM-0109-CS
-333,excludes-stop,MM-0109-S
 333,excludes-stop,door-brntn-busway
 333,excludes-stop,door-brntn-faregates
 333,excludes-stop,node-333-bottom
@@ -6505,9 +6483,6 @@ facility_id,property_id,value
 449,excludes-stop,node-wlsta-stair7-lobby
 449,excludes-stop,node-wlsta-stair7-street
 50,alternate-service-text,The elevator at Framingham connecting the Inbound and Outbound platforms is out of service. Please proceed to Concord street to cross over to the outbound platform.
-50,excludes-stop,WML-0214
-50,excludes-stop,WML-0214-01
-50,excludes-stop,WML-0214-02
 501,direction,up
 501,excludes-stop,70022
 501,excludes-stop,70042
@@ -6553,16 +6528,10 @@ facility_id,property_id,value
 503,excludes-stop,node-prmnl-wbstair-lobby
 503,excludes-stop,node-prmnl-wbstair-platform
 504,direction,down
-504,excludes-stop,FR-0034
-504,excludes-stop,FR-0034-01
-504,excludes-stop,FR-0034-02
 504,excludes-stop,door-portr-cracross
 504,excludes-stop,door-portr-crtransfer
 504,excludes-stop,door-portr-elevators
 505,direction,up
-505,excludes-stop,FR-0034
-505,excludes-stop,FR-0034-01
-505,excludes-stop,FR-0034-02
 505,excludes-stop,door-portr-cracross
 505,excludes-stop,door-portr-crtransfer
 505,excludes-stop,door-portr-elevators
@@ -6596,9 +6565,6 @@ facility_id,property_id,value
 509,excludes-stop,door-portr-elevators
 509,excludes-stop,door-portr-escal
 51,alternate-service-text,The elevator at Framingham connecting the Inbound and Outbound platforms is out of service. Please proceed to Concord street to cross over to the outbound platform.
-51,excludes-stop,WML-0214
-51,excludes-stop,WML-0214-01
-51,excludes-stop,WML-0214-02
 510,direction,up
 510,excludes-stop,FR-0034
 510,excludes-stop,FR-0034-01
@@ -6825,6 +6791,7 @@ facility_id,property_id,value
 516,excludes-stop,node-harsq-upperramp-upper
 516,excludes-stop,node-harsq-yardstair-lobby
 52,alternate-service-text,The elevator at Route 128 Station connecting the inbound platform to the lobby is out of service. Please see station personnel for assistance.
+52,excludes-stop,NEC-2173-01
 523,direction,up
 523,excludes-stop,door-state-cityhall
 523,excludes-stop,door-state-congress
@@ -6832,8 +6799,11 @@ facility_id,property_id,value
 523,excludes-stop,door-state-state
 523,excludes-stop,door-state-water
 53,alternate-service-text,The elevator at Route 128 Station connecting the outbound platform to the lobby is out of service. Please see station personnel for assistance.
+53,excludes-stop,NEC-2173-02
 54,direction,up
+54,excludes-stop,NEC-2173-01
 55,direction,up
+55,excludes-stop,NEC-2173-02
 6,direction,up
 6,excludes-stop,70022
 6,excludes-stop,70041
@@ -8527,9 +8497,6 @@ facility_id,property_id,value
 841,excludes-stop,875
 841,excludes-stop,Forest Hills-01
 841,excludes-stop,Forest Hills-02
-841,excludes-stop,NEC-2237
-841,excludes-stop,NEC-2237-03
-841,excludes-stop,NEC-2237-05
 841,excludes-stop,door-forhl-arborway
 841,excludes-stop,door-forhl-lower
 841,excludes-stop,door-forhl-south
@@ -8732,13 +8699,8 @@ facility_id,property_id,value
 849,excludes-stop,17863
 849,excludes-stop,70010
 849,excludes-stop,70011
-849,excludes-stop,NEC-2265
-849,excludes-stop,NEC-2265-01
 849,excludes-stop,NEC-2265-02
-849,excludes-stop,NEC-2265-03
-849,excludes-stop,Ruggles-01
 849,excludes-stop,Ruggles-02
-849,excludes-stop,Ruggles-03
 849,excludes-stop,door-rugg-buses
 849,excludes-stop,door-rugg-columbus
 849,excludes-stop,door-rugg-forsyth
@@ -8830,13 +8792,8 @@ facility_id,property_id,value
 850,excludes-stop,node-rugg-olsstairs-lobby
 850,excludes-stop,node-rugg-olsstairs-platform
 851,alternate-service-text,"A shuttle bus will be available to transport customers between Forsyth St entrance and the Ruggles upper busway (lobby). Please see station personnel or use a station call box to request the shuttle bus. Alternatively, upon request, assistance navigating between the Forsyth St entrance and the Ruggles upper busway can be provided."
-851,excludes-stop,NEC-2265
-851,excludes-stop,NEC-2265-01
 851,excludes-stop,NEC-2265-02
-851,excludes-stop,NEC-2265-03
-851,excludes-stop,Ruggles-01
 851,excludes-stop,Ruggles-02
-851,excludes-stop,Ruggles-03
 851,excludes-stop,door-rugg-buses
 851,excludes-stop,door-rugg-columbus
 851,excludes-stop,door-rugg-ruggles
@@ -8979,13 +8936,10 @@ facility_id,property_id,value
 854,excludes-stop,70014
 854,excludes-stop,70015
 854,excludes-stop,Back Bay-01
-854,excludes-stop,Back Bay-02
 854,excludes-stop,Back Bay-03
 854,excludes-stop,Back Bay-05
 854,excludes-stop,Back Bay-07
-854,excludes-stop,NEC-2276
 854,excludes-stop,NEC-2276-01
-854,excludes-stop,NEC-2276-02
 854,excludes-stop,NEC-2276-03
 854,excludes-stop,WML-0012-05
 854,excludes-stop,WML-0012-07
@@ -9053,15 +9007,10 @@ facility_id,property_id,value
 855,excludes-stop,23391
 855,excludes-stop,70014
 855,excludes-stop,70015
-855,excludes-stop,Back Bay-01
 855,excludes-stop,Back Bay-02
-855,excludes-stop,Back Bay-03
 855,excludes-stop,Back Bay-05
 855,excludes-stop,Back Bay-07
-855,excludes-stop,NEC-2276
-855,excludes-stop,NEC-2276-01
 855,excludes-stop,NEC-2276-02
-855,excludes-stop,NEC-2276-03
 855,excludes-stop,WML-0012-05
 855,excludes-stop,WML-0012-07
 855,excludes-stop,door-bbsta-buswayn
@@ -9131,14 +9080,9 @@ facility_id,property_id,value
 856,excludes-stop,Back Bay-01
 856,excludes-stop,Back Bay-02
 856,excludes-stop,Back Bay-03
-856,excludes-stop,Back Bay-05
-856,excludes-stop,Back Bay-07
-856,excludes-stop,NEC-2276
 856,excludes-stop,NEC-2276-01
 856,excludes-stop,NEC-2276-02
 856,excludes-stop,NEC-2276-03
-856,excludes-stop,WML-0012-05
-856,excludes-stop,WML-0012-07
 856,excludes-stop,door-bbsta-buswayn
 856,excludes-stop,door-bbsta-busways
 856,excludes-stop,door-bbsta-clarcolum
@@ -10074,7 +10018,6 @@ facility_id,property_id,value
 896,excludes-stop,32005
 896,excludes-stop,70101
 896,excludes-stop,70102
-896,excludes-stop,MM-0079-S
 896,excludes-stop,door-qnctr-burgin
 896,excludes-stop,door-qnctr-busway
 896,excludes-stop,node-330-entrance
@@ -11620,19 +11563,10 @@ facility_id,property_id,value
 927,excludes-stop,node-sstat-south-fareunpaid
 928,alternate-service-text,Please contact station personnel or conductor for assistance.
 928,excludes-stop,14748
-928,excludes-stop,ER-0115
-928,excludes-stop,ER-0115-01
-928,excludes-stop,ER-0115-02
 929,alternate-service-text,Please nearby Lynn Elevator 930.
 929,excludes-stop,14748
-929,excludes-stop,ER-0115
-929,excludes-stop,ER-0115-01
-929,excludes-stop,ER-0115-02
 930,alternate-service-text,Please nearby Lynn Elevator 929. 
 930,excludes-stop,14748
-930,excludes-stop,ER-0115
-930,excludes-stop,ER-0115-01
-930,excludes-stop,ER-0115-02
 931,alternate-service-text,"To access the Bowdoin platform or Bremen St lobby from the Wonderland platform, use Airport Elevator 956 located in the unpaid section of the busway lobby. To access the Wonderland platform or Airport busway from the Bowdoin platform, use Airport Elevator 955 located in the unpaid section of the Bremen St lobby."
 931,excludes-stop,70047
 931,excludes-stop,7096
@@ -11987,7 +11921,6 @@ facility_id,property_id,value
 944,excludes-stop,53270
 944,excludes-stop,70034
 944,excludes-stop,70035
-944,excludes-stop,WR-0045-S
 944,excludes-stop,door-mlmnl-commercial
 944,excludes-stop,door-mlmnl-pleasant
 944,excludes-stop,door-mlmnl-ramp
@@ -12977,9 +12910,6 @@ facility_id,property_id,value
 981,excludes-stop,node-spmnl-sfarepaid
 981,excludes-stop,node-spmnl-sfareunpaid
 982,alternate-service-text,"To exit, use Elevator 985 located nearby. To board, use the Elevator 985 located on Somerville Ave."
-982,excludes-stop,FR-0034
-982,excludes-stop,FR-0034-01
-982,excludes-stop,FR-0034-02
 982,excludes-stop,door-portr-cracross
 982,excludes-stop,door-portr-crtransfer
 982,excludes-stop,door-portr-escal
@@ -12993,18 +12923,12 @@ facility_id,property_id,value
 983,excludes-stop,door-portr-elevators
 983,excludes-stop,door-portr-escal
 985,alternate-service-text,"To exit, use Elevator 982 located near the escalators and stairs. To board, use the Elevator 982 located on Somerville Ave."
-985,excludes-stop,FR-0034
-985,excludes-stop,FR-0034-01
-985,excludes-stop,FR-0034-02
 985,excludes-stop,door-portr-cracross
 985,excludes-stop,door-portr-crtransfer
 985,excludes-stop,door-portr-escal
 986,alternate-service-text,"A shuttle bus will be available to transport customers between Porter and Waltham Station. To request the shuttle, notify a Commuter Rail conductor before arriving at Waltham, or, if at Porter, see station personnel or use a station call box. Alternatively, to exit the Commuter Rail, exit the train at North Station and take a Forest Hills-bound Orange Line train to Downtown Crossing. At Downtown Crossing, travel down the Winter St concourse to Park Street and take an Alewife-bound Red Line to Porter. To board the Commuter Rail, take an Ashmont or Braintree-bound Red Line train to Downtown Crossing. At Downtown Crossing, transfer to an Oak Grove-bound Orange Line train to North Station, and board any Fitchburg-bound Commuter Rail train."
 986,excludes-stop,70065
 986,excludes-stop,70066
-986,excludes-stop,FR-0034
-986,excludes-stop,FR-0034-01
-986,excludes-stop,FR-0034-02
 986,excludes-stop,door-portr-cracross
 986,excludes-stop,door-portr-crtransfer
 986,excludes-stop,door-portr-elevators
@@ -13018,6 +12942,14 @@ facility_id,property_id,value
 987,excludes-stop,door-portr-crtransfer
 987,excludes-stop,door-portr-elevators
 987,excludes-stop,door-portr-escal
+990,excludes-stop,WML-0025
+990,excludes-stop,WML-0025-07
+991,excludes-stop,WML-0025
+991,excludes-stop,WML-0025-07
+992,excludes-stop,WML-0025
+992,excludes-stop,WML-0025-05
+993,excludes-stop,WML-0025
+993,excludes-stop,WML-0025-05
 998,alternate-service-text,Please use nearby Downtown Crossing Elevator 999.
 998,excludes-stop,70020
 998,excludes-stop,70077
