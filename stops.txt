@@ -1895,11 +1895,11 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 25969,25969,Pleasant St @ Stone Pl,,,,42.443715,-71.072003,LocalBus,,https://www.mbta.com/stops/25969,,0,,0,Melrose,Pleasant Street,,3
 2597,2597,Somerville Ave @ Prospect St,,,,42.379248,-71.094819,LocalBus,,https://www.mbta.com/stops/2597,,0,,1,Somerville,Somerville Avenue,Prospect Street,3
 25974,25974,Pleasant St @ Wyoming Ave - Wyoming Sq,,,,42.452115,-71.070007,LocalBus,,https://www.mbta.com/stops/25974,,0,,0,Melrose,Pleasant Street,West Wyoming Avenue,3
-2598,2598,Somerville Ave @ Linden St,,,,42.378506,-71.092710,LocalBus,,https://www.mbta.com/stops/2598,,0,,1,Somerville,Somerville Avenue,Linden Street,3
+2598,2598,Somerville Ave @ Linden St,,,,42.378506,-71.092710,,,https://www.mbta.com/stops/2598,,0,,1,Somerville,Somerville Avenue,Linden Street,
 25986,25986,Main St @ Pleasant St,,,,42.481549,-71.100064,LocalBus,,https://www.mbta.com/stops/25986,,0,,0,Stoneham,Main Street,Pleasant Street,3
 25988,25988,Main St @ Collincote St,,,,42.491495,-71.100177,LocalBus,,https://www.mbta.com/stops/25988,,0,,0,Stoneham,Main Street,,3
 25989,25989,Redstone Shopping Center Access Rd,,,,42.494932,-71.101946,LocalBus,,https://www.mbta.com/stops/25989,,0,,0,Stoneham,,,3
-2599,2599,Somerville Ave opp Mansfield St,,,,42.377661,-71.090299,LocalBus,,https://www.mbta.com/stops/2599,,0,,1,Somerville,Somerville Avenue,Mansfield Street,3
+2599,2599,Somerville Ave opp Mansfield St,,,,42.377661,-71.090299,,,https://www.mbta.com/stops/2599,,0,,1,Somerville,Somerville Avenue,Mansfield Street,
 25990,25990,Main St @ Elm St,,,,42.486702,-71.100209,LocalBus,,https://www.mbta.com/stops/25990,,0,,0,Stoneham,Main Street,Elm Street,3
 25991,25991,Main St @ Lindenwood Rd,,,,42.484395,-71.100291,LocalBus,,https://www.mbta.com/stops/25991,,0,,0,Stoneham,Main Street,Lindenwood Road,3
 25992,25992,Main St @ Maple St,,,,42.477574,-71.100499,LocalBus,,https://www.mbta.com/stops/25992,,0,,0,Stoneham,Main Street,Maple Street,3
@@ -1913,6 +1913,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2607,2607,McGrath Hwy @ Poplar St,,,,42.377092,-71.088178,LocalBus,,https://www.mbta.com/stops/2607,,0,,1,Somerville,McGrath Highway,Poplar Street,3
 2609,2609,Somerville Ave at McGrath Hwy,,,,42.377585,-71.089844,LocalBus,,https://www.mbta.com/stops/2609,,0,,1,Somerville,Somerville Avenue,Mansfield Street,3
 261,261,E 8th St @ G St,,,,42.331243,-71.043908,LocalBus,,https://www.mbta.com/stops/261,,0,,0,Boston,East Eighth Street,G Street,3
+2610,2610,Washington St @ Washington Terr,,,,42.379510,-71.092273,LocalBus,,https://www.mbta.com/stops/2610,,0,,0,Somerville,Washington Street,Washington Terrace,3
 2612,2612,Somerville Ave @ Stone Ave,,,,42.379547,-71.095164,LocalBus,,https://www.mbta.com/stops/2612,,0,,1,Somerville,Somerville Avenue,Stone Avenue,3
 2613,2613,Washington St @ Webster Ave,,,,42.379610,-71.096874,LocalBus,,https://www.mbta.com/stops/2613,,0,,1,Somerville,Washington Street,Kingman Road,3
 26131,26131,Bow St @ Warren Ave,,,,42.380273,-71.096622,LocalBus,,https://www.mbta.com/stops/26131,,0,,1,Somerville,Bow Street,,3
@@ -2066,8 +2067,11 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2760,2760,Washington St @ Franklin St,,,,42.381448,-71.085797,LocalBus,,https://www.mbta.com/stops/2760,,0,,1,Somerville,Washington Street,Cobble Hill Road,3
 2761,2761,Washington St @ Tufts St,,,,42.381038,-71.087483,LocalBus,,https://www.mbta.com/stops/2761,,0,,1,Somerville,Washington Street,Knowlton Street,3
 27618,27618,Washington St @ Guild St,,,,42.191284,-71.202528,LocalBus,,https://www.mbta.com/stops/27618,,0,,1,Norwood,Washington Street,Guild Street,3
-2762,2762,Washington St @ McGrath Hwy,,,,42.379482,-71.089831,LocalBus,,https://www.mbta.com/stops/2762,,0,,0,Somerville,Washington Street,McGrath Highway,3
+2762,2762,Washington St @ McGrath Hwy,,,,42.380330,-71.089759,LocalBus,,https://www.mbta.com/stops/2762,,0,,0,Somerville,Washington Street,McGrath Highway,3
+2763,2763,Washington St @ Boston St,,,,42.379859,-71.090824,LocalBus,,https://www.mbta.com/stops/2763,,0,,1,Somerville,Washington Street,Boston Street,3
 277,277,E 8th St @ M St,,,,42.331537,-71.033111,LocalBus,,https://www.mbta.com/stops/277,,0,,1,Boston,East Eighth Street,M Street,3
+2773,2773,Washington St @ Merriam St,,,,42.379411,-71.092286,LocalBus,,https://www.mbta.com/stops/2773,,0,,0,Somerville,Washington Street,Washington Terrace,3
+2774,2774,Washington St @ McGrath Hwy,,,,42.379792,-71.089974,LocalBus,,https://www.mbta.com/stops/2774,,0,,1,Somerville,Washington Street,McGrath Highway,3
 2775,2775,Washington St @ Joy St,,,,42.380569,-71.088666,LocalBus,,https://www.mbta.com/stops/2775,,0,,1,Somerville,Washington Street,Joy Street,3
 2776,2776,Washington St @ New Washington St,,,,42.381241,-71.086308,LocalBus,,https://www.mbta.com/stops/2776,,0,,0,Somerville,Washington Street,Franklin Street,3
 2777,2777,Washington St @ Inner Belt Rd,,,,42.382012,-71.081316,LocalBus,,https://www.mbta.com/stops/2777,,0,,0,Somerville,Washington Street,Inner Belt Road,3
