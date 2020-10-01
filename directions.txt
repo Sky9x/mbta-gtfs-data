@@ -53,10 +53,6 @@ CR-Providence,0,Outbound,Stoughton or Wickford Junction
 CR-Providence,1,Inbound,South Station
 CR-Foxboro,0,Outbound,Foxboro or Providence
 CR-Foxboro,1,Inbound,South Station or Foxboro
-CR-SouthShoreLtd,0,Outbound,Braintree
-CR-SouthShoreLtd,1,Inbound,South Station
-CapeFlyer,0,Outbound,Hyannis
-CapeFlyer,1,Inbound,South Station
 Boat-F4,0,Outbound,Charlestown
 Boat-F4,1,Inbound,Long Wharf
 Boat-F1,0,Outbound,Hingham or Hull
@@ -405,139 +401,27 @@ Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
 714,1,Inbound,"Station Street, Hingham"
 716,0,Outbound,Cobbs Corner
 716,1,Inbound,Mattapan Station
-Shuttle-AirportBowdoinLocal,0,West,Bowdoin
-Shuttle-AirportBowdoinLocal,1,East,Wonderland
-Shuttle-AirportBowdoinExpress,0,West,Bowdoin
-Shuttle-AirportBowdoinExpress,1,East,Wonderland
-Shuttle-AirportMaverick,0,West,Bowdoin
-Shuttle-AirportMaverick,1,East,Wonderland
-Shuttle-AlewifeHarvard,0,South,Ashmont/Braintree
-Shuttle-AlewifeHarvard,1,North,Alewife
-Shuttle-AndersonWoburnNorthStation,0,Outbound,Lowell
-Shuttle-AndersonWoburnNorthStation,1,Inbound,North Station
-Shuttle-AshlandSouthStation,0,Outbound,Worcester
-Shuttle-AshlandSouthStation,1,Inbound,South Station
-Shuttle-AshmontJFK,0,Outbound,Ashmont
-Shuttle-AshmontJFK,1,Inbound,Alewife
-Shuttle-AshmontMattapan,0,Outbound,Mattapan
-Shuttle-AshmontMattapan,1,Inbound,Ashmont
-Shuttle-BabcockBlandford,0,West,Boston College
-Shuttle-BabcockBlandford,1,East,Park Street
 Shuttle-BabcockBostonCollege,0,West,Boston College
 Shuttle-BabcockBostonCollege,1,East,Park Street
-Shuttle-BackBayFraminghamExpress,0,Outbound,Worcester
-Shuttle-BackBayFraminghamExpress,1,Inbound,South Station
-Shuttle-BackBayFraminghamLocal,0,Outbound,Worcester
-Shuttle-BackBayFraminghamLocal,1,Inbound,South Station
-Shuttle-BackBayJackson,0,South,Forest Hills
-Shuttle-BackBayJackson,1,North,Oak Grove
-Shuttle-BackBayRuggles,0,South,Forest Hills
-Shuttle-BackBayRuggles,1,North,Oak Grove
-Shuttle-BallardvaleMaldenCenter,0,Outbound,Haverhill
-Shuttle-BallardvaleMaldenCenter,1,Inbound,North Station
-Shuttle-BlandfordBostonCollege,0,West,Boston College
-Shuttle-BlandfordBostonCollege,1,East,Park Street
-Shuttle-BlandfordWashington,0,West,Boston College
-Shuttle-BlandfordWashington,1,East,Park Street
-Shuttle-BostonCollegePackardsCorner,0,West,Boston College
-Shuttle-BostonCollegePackardsCorner,1,East,Park Street
-Shuttle-BostonCollegeWashington,0,West,Boston College
-Shuttle-BostonCollegeWashington,1,East,Park Street
-Shuttle-BostonUniversityEastPark,0,West,Boston College/Cleveland Circle/Riverside
-Shuttle-BostonUniversityEastPark,1,East,Park Street & North
-Shuttle-BraintreeNorthQuincy,0,South,Braintree
-Shuttle-BraintreeNorthQuincy,1,North,Alewife
 Shuttle-BraintreeQuincyCenter,0,South,Braintree
 Shuttle-BraintreeQuincyCenter,1,North,Alewife
-Shuttle-BroadwayKendall,0,South,Ashmont/Braintree
-Shuttle-BroadwayKendall,1,North,Alewife
-Shuttle-BroadwayKendallOmitDTX,0,South,Ashmont/Braintree
-Shuttle-BroadwayKendallOmitDTX,1,North,Alewife
 Shuttle-BrooklineHillsKenmore,0,West,Riverside
 Shuttle-BrooklineHillsKenmore,1,East,Government Center
-Shuttle-BrooklineHillsNewtonHighlands,0,West,Riverside
-Shuttle-BrooklineHillsNewtonHighlands,1,East,Government Center
-Shuttle-BrooklineHillsReservoir,0,West,Riverside
-Shuttle-BrooklineHillsReservoir,1,East,Government Center
 Shuttle-ClevelandCircleCoolidgeCorner,0,West,Cleveland Circle
 Shuttle-ClevelandCircleCoolidgeCorner,1,East,North Station
-Shuttle-ClevelandCircleKenmore,0,West,Cleveland Circle
-Shuttle-ClevelandCircleKenmore,1,East,North Station
-Shuttle-ClevelandCircleStMarys,0,West,Cleveland Circle
-Shuttle-ClevelandCircleStMarys,1,East,North Station
-Shuttle-CopleyRiversideExpress,0,West,Riverside
-Shuttle-CopleyRiversideExpress,1,East,Government Center
-Shuttle-CopleyWoodlandExpress,0,West,Riverside
-Shuttle-CopleyWoodlandExpress,1,East,Government Center
-Shuttle-FenwayKenmore,0,West,Riverside
-Shuttle-FenwayKenmore,1,East,Government Center
 Shuttle-FenwayNewtonHighlands,0,West,Riverside
 Shuttle-FenwayNewtonHighlands,1,East,Government Center
-Shuttle-FenwayReservoir,0,West,Riverside
-Shuttle-FenwayReservoir,1,East,Government Center
-Shuttle-ForestHillsJackson,0,South,Forest Hills
-Shuttle-ForestHillsJackson,1,North,Oak Grove
-Shuttle-ForestHillsRuggles,0,South,Forest Hills
-Shuttle-ForestHillsRuggles,1,North,Oak Grove
-Shuttle-ForgeParkReadville,0,Outbound,Forge Park/495
-Shuttle-ForgeParkReadville,1,Inbound,South Station
-Shuttle-ForgeParkSouthStation,0,Outbound,Forge Park/495
-Shuttle-ForgeParkSouthStation,1,Inbound,South Station
 Shuttle-ForgeParkWalpole,0,Outbound,Forge Park/495
 Shuttle-ForgeParkWalpole,1,Inbound,Walpole
-Shuttle-FraminghamRiverside,0,Outbound,Worcester
-Shuttle-FraminghamRiverside,1,Inbound,South Station
-Shuttle-FraminghamWorcester,0,Outbound,"Southborough, Grafton, or Worcester"
-Shuttle-FraminghamWorcester,1,Inbound,South Station
-Shuttle-GreenbushSouthStation,0,Outbound,Greenbush
-Shuttle-GreenbushSouthStation,1,Inbound,South Station
-Shuttle-HaymarketSullivan,0,South,Forest Hills
-Shuttle-HaymarketSullivan,1,North,Oak Grove
-Shuttle-HeathPark,0,West,Heath Street
-Shuttle-HeathPark,1,East,North Station
-Shuttle-HeathPrudential,0,West,Heath Street
-Shuttle-HeathPrudential,1,East,North Station
-Shuttle-KendallPark,0,South,Ashmont/Braintree
-Shuttle-KendallPark,1,North,Alewife
 Shuttle-KenmoreReservoir,0,West,Riverside
 Shuttle-KenmoreReservoir,1,East,Government Center
-Shuttle-KenmoreRiverside,0,West,Riverside
-Shuttle-KenmoreRiverside,1,East,Government Center
-Shuttle-KenmoreStMarysRiverside,0,West,Riverside
-Shuttle-KenmoreStMarysRiverside,1,East,Government Center
-Shuttle-KenmoreStMarysNotFenway,0,West,Cleveland Circle
-Shuttle-KenmoreStMarysNotFenway,1,East,North Station
-Shuttle-LittletonWachusett,0,Outbound,Wachusett
-Shuttle-LittletonWachusett,1,Inbound,North Station
-Shuttle-LowellWellington,0,Outbound,Lowell
-Shuttle-LowellWellington,1,Inbound,North Station
 Shuttle-NewtonHighlandsKenmore,0,West,Riverside
 Shuttle-NewtonHighlandsKenmore,1,East,Government Center
-Shuttle-NewtonHighlandsReservoir,0,West,Riverside
-Shuttle-NewtonHighlandsReservoir,1,East,Government Center
 Shuttle-NewtonHighlandsRiverside,0,West,Riverside
 Shuttle-NewtonHighlandsRiverside,1,East,Government Center
-Shuttle-NewtonHighlandsStMarysKenmore,0,West,Riverside
-Shuttle-NewtonHighlandsStMarysKenmore,1,East,Government Center
-Shuttle-NorthQuincyQuincyCenter,0,South,Braintree
-Shuttle-NorthQuincyQuincyCenter,1,North,Alewife
-Shuttle-NorthStationWestMedford,0,Outbound,Lowell
-Shuttle-NorthStationWestMedford,1,Inbound,North Station
-Shuttle-OakGroveSullivan,0,South,Forest Hills
-Shuttle-OakGroveSullivan,1,North,Oak Grove
 Shuttle-OakGroveWellington,0,South,Forest Hills
 Shuttle-OakGroveWellington,1,North,Oak Grove
-Shuttle-OrientHeightsWonderland,0,West,Bowdoin
-Shuttle-OrientHeightsWonderland,1,East,Wonderland
 Shuttle-ReservoirRiverside,0,West,Riverside
 Shuttle-ReservoirRiverside,1,East,Government Center
-Shuttle-RugglesSullivan,0,South,Forest Hills
-Shuttle-RugglesSullivan,1,North,Oak Grove
-Shuttle-SuffolkDownsWonderland,0,West,Bowdoin
-Shuttle-SuffolkDownsWonderland,1,East,Wonderland
-Shuttle-LechmereNorthStation,0,West,North Station
-Shuttle-LechmereNorthStation,1,East,Lechmere
 602,0,West,North Station
 602,1,East,Lechmere
-Shuttle-ClevelandCircleKenmoreDyn,0,West,Cleveland Circle
-Shuttle-ClevelandCircleKenmoreDyn,1,East,North Station
