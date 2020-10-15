@@ -9,9 +9,9 @@ Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,45616687
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,45616685
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,45616325
 Orange-5-0,Orange,0,Wellington - Forest Hills,Weekdays only,3,10020003,45616588
-Orange-3-0_70036_70032_2,Orange,0,Wellington - Forest Hills,,4,10020099,45510578-18:00-OakGroveWellington2
+Orange-3-0_70036_70032_2,Orange,0,Wellington - Forest Hills,,4,10020099,45510570-OakGroveWellington2
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,45616458
-Orange-3-1_70033_70036_0,Orange,1,Forest Hills - Wellington,,4,10020199,45510571-18:00-OakGroveWellington0
+Orange-3-1_70033_70036_0,Orange,1,Forest Hills - Wellington,,4,10020199,45510571-OakGroveWellington0
 Green-B-3-0,Green-B,0,Park Street - Boston College,,1,10032000,45803810
 Green-B-1-0,Green-B,0,North Station - Boston College,Weekend early mornings only,3,10032004,45811028
 Green-B-1-0_70202_70196_0,Green-B,0,North Station - Government Center,,4,10032099,45807800-GovtCtrParkStKenmoreReservoir0
@@ -23,11 +23,9 @@ Green-B-1-1_70200_70201_2,Green-B,1,Government Center - North Station,,4,1003219
 Green-C-1-0,Green-C,0,North Station - Cleveland Circle,,1,10033000,45803742
 Green-C-1-0_70202_70197_0,Green-C,0,North Station - Government Center,,4,10033099,45807785-GovtCtrParkStKenmoreReservoir0
 Green-C-1-0_70202_70197_2,Green-C,0,Park Street - Cleveland Circle,,4,10033099,45807785-GovtCtrParkStKenmoreReservoir2
-Green-C-1-0_70219_70237_0,Green-C,0,North Station - Coolidge Corner,,4,10033099,45807785-ClevelandCircleCoolidgeCorner0
 Green-C-1-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,45803741
 Green-C-1-1_70200_70201_0,Green-C,1,Cleveland Circle - Park Street,,4,10033199,45807784-GovtCtrParkStKenmoreReservoir0
 Green-C-1-1_70200_70201_2,Green-C,1,Government Center - North Station,,4,10033199,45807784-GovtCtrParkStKenmoreReservoir2
-Green-C-1-1_70238_70220_2,Green-C,1,Coolidge Corner - North Station,,4,10033199,45807784-ClevelandCircleCoolidgeCorner2
 Green-D-2-0,Green-D,0,Government Center - Riverside,,1,10034000,45804733
 Green-D-3-0,Green-D,0,North Station - Reservoir,Evenings only,3,10034004,45805609
 Green-D-1-0,Green-D,0,North Station - Riverside,Weekday early mornings only,3,10034006,45803757
@@ -36,6 +34,7 @@ Green-D-2-0_70151_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,458
 Green-D-2-0_70151_70179_0,Green-D,0,Government Center - Kenmore,,4,10034099,45804940-20:45-BrooklineHillsKenmore0
 Green-D-2-0_70151_70179_2,Green-D,0,Brookline Hills - Riverside,,4,10034099,45804940-20:45-BrooklineHillsKenmore2
 Green-D-2-0_70169_70161_0,Green-D,0,Government Center - Newton Highlands,,4,10034099,45804940-20:45-NewtonHighlandsRiverside0
+Green-D-2-0_70175_70161_0,Green-D,0,Government Center - Reservoir,,4,10034099,45804940-20:45-ReservoirRiverside0
 Green-D-2-0_70187_70169_0,Green-D,0,Government Center - Fenway,,4,10034099,45804940-20:45-FenwayNewtonHighlands0
 Green-D-2-0_70187_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,45804940-20:45-FenwayNewtonHighlands2
 Green-D-2-0_70202_70198_2_70151_70175_0,Green-D,0,Park Street - Kenmore,,4,10034099,45807817-GovtCtrParkStKenmoreReservoir20
@@ -48,6 +47,7 @@ Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034100,45804732
 Green-D-3-1,Green-D,1,Reservoir - North Station,,3,10034104,45805593
 Green-D-1-1,Green-D,1,Riverside - North Station,Weekday early mornings only,3,10034106,45803758
 Green-D-2-1_70160_70168_2,Green-D,1,Newton Highlands - Government Center,,4,10034199,45804948-20:45-NewtonHighlandsRiverside2
+Green-D-2-1_70160_70174_2,Green-D,1,Reservoir - Government Center,,4,10034199,45804948-20:45-ReservoirRiverside2
 Green-D-2-1_70168_70150_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,45807802-NewtonHighlandsKenmoreW0
 Green-D-2-1_70168_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,45807802-NewtonHighlandsKenmoreW2
 Green-D-2-1_70168_70186_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,45804948-20:45-FenwayNewtonHighlands0
@@ -950,8 +950,6 @@ Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center 
 Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,4,61000199,45295539-20:45-BraintreeQuincyCenter1
 Shuttle-BrooklineHillsKenmore-0-0,Shuttle-BrooklineHillsKenmore,0,Kenmore - Brookline Hills,,4,61100099,45804940-20:45-BrooklineHillsKenmore1
 Shuttle-BrooklineHillsKenmore-0-1,Shuttle-BrooklineHillsKenmore,1,Brookline Hills - Kenmore,,4,61100199,45804948-20:45-BrooklineHillsKenmore1
-Shuttle-ClevelandCircleCoolidgeCorner-0-0,Shuttle-ClevelandCircleCoolidgeCorner,0,Coolidge Corner - Cleveland Circle,,4,61300099,45807785-ClevelandCircleCoolidgeCorner1
-Shuttle-ClevelandCircleCoolidgeCorner-0-1,Shuttle-ClevelandCircleCoolidgeCorner,1,Cleveland Circle - Coolidge Corner,,4,61300199,45807784-ClevelandCircleCoolidgeCorner1
 Shuttle-FenwayNewtonHighlands-0-0,Shuttle-FenwayNewtonHighlands,0,Fenway - Newton Highlands,,4,61490099,45804940-20:45-FenwayNewtonHighlands1
 Shuttle-FenwayNewtonHighlands-0-1,Shuttle-FenwayNewtonHighlands,1,Newton Highlands - Fenway,,4,61490199,45804948-20:45-FenwayNewtonHighlands1
 Shuttle-ForgeParkWalpole-0-0,Shuttle-ForgeParkWalpole,0,Walpole - Forge Park/495,,4,61770099,CR-Saturday-Summer-20-1703-ForgeParkWalpole1
@@ -962,5 +960,7 @@ Shuttle-NewtonHighlandsKenmore-0-0,Shuttle-NewtonHighlandsKenmore,0,Kenmore - Ne
 Shuttle-NewtonHighlandsKenmore-0-1,Shuttle-NewtonHighlandsKenmore,1,Newton Highlands - Kenmore,,4,62090199,45807802-NewtonHighlandsKenmoreW1
 Shuttle-NewtonHighlandsRiverside-0-0,Shuttle-NewtonHighlandsRiverside,0,Newton Highlands - Riverside,,4,62100099,45804940-20:45-NewtonHighlandsRiverside1
 Shuttle-NewtonHighlandsRiverside-0-1,Shuttle-NewtonHighlandsRiverside,1,Riverside - Newton Highlands,,4,62100199,45804948-20:45-NewtonHighlandsRiverside1
-Shuttle-OakGroveWellington-0-0,Shuttle-OakGroveWellington,0,Oak Grove - Wellington,,4,62300099,45510578-18:00-OakGroveWellington1
-Shuttle-OakGroveWellington-0-1,Shuttle-OakGroveWellington,1,Wellington - Oak Grove,,4,62300199,45510571-18:00-OakGroveWellington1
+Shuttle-OakGroveWellington-0-0,Shuttle-OakGroveWellington,0,Oak Grove - Wellington,,4,62300099,45510570-OakGroveWellington1
+Shuttle-OakGroveWellington-0-1,Shuttle-OakGroveWellington,1,Wellington - Oak Grove,,4,62300199,45510571-OakGroveWellington1
+Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,45804940-20:45-ReservoirRiverside1
+Shuttle-ReservoirRiverside-0-1,Shuttle-ReservoirRiverside,1,Riverside - Reservoir,,4,62400199,45804948-20:45-ReservoirRiverside1
