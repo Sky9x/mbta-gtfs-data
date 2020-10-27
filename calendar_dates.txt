@@ -1,13 +1,11 @@
 service_id,date,exception_type,holiday_name
-LRV420-hlb40011-Wdy-01,20201016,1,
-CR-Wdy-Newburyport-Smr-20,20201023,2,
 LRV420-hlb40011-Wdy-01,20201023,1,
 RTL420-hmo40011-Wdy-01,20201030,2,
-CR-Su-Newburyport-Smr-20,20201101,1,
 RTL420-hms40011-Wdy-01,20201102,2,
 RTL420-hms40011-Wdy-01,20201103,2,
 RTL420-hms40011-Wdy-01,20201104,2,
 RTL420-hms40011-Wdy-01,20201105,2,
+CR-Su-Lowell-Fll-20,20201108,1,
 BUS420-hbs40sn1-Wdy-02,20201111,1,Veterans Day
 BUS420-hbs40sn1-Wdy-02S0,20201111,1,Veterans Day
 BUS420-hbs40sw1-Wdy-02,20201111,2,Veterans Day
@@ -35,7 +33,6 @@ CR-Su-Franklin-Fll-20,20201126,1,Thanksgiving Day
 CR-Su-Greenbush-Fll-20,20201126,1,Thanksgiving Day
 CR-Su-Haverhill-Fll-20,20201126,1,Thanksgiving Day
 CR-Su-Kingston-Fll-20,20201126,1,Thanksgiving Day
-CR-Su-Lowell-Fll-20,20201126,1,Thanksgiving Day
 CR-Su-Middleborough-Fll-20,20201126,1,Thanksgiving Day
 CR-Su-Newburyport-Fll-20,20201126,1,Thanksgiving Day
 CR-Su-Providence-Fll-20,20201126,1,Thanksgiving Day
@@ -70,6 +67,9 @@ FallWeekday,20201127,2,Day after Thanksgiving Day
 VeteransDay-DayafterThanksgivingDay,20201127,1,Day after Thanksgiving Day
 BUS420-hbs40sw6-Sa-02,20201128,2,
 BUS420-hbs40sw6-Sa-02S0,20201128,2,
+CR-Sa-Lowell-Fll-20,20201128,1,
+CR-Sa-Lowell-Fll-20-AnnLwl,20201128,2,
+CR-Su-Lowell-Fll-20-AnnLwl,20201129,2,
 LRV420-hlb40011-Wdy-01,20201204,2,
 LRV420-hlb40011-Wdy-01-NwnHgsRvd,20201204,1,
 LRV420-hlb40016-Sa-01-NwnHgsRvd,20201205,1,
