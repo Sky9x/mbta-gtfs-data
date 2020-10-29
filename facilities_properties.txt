@@ -17051,15 +17051,17 @@ park-ER-0168-garage,contact,MBTA Customer Support
 park-ER-0168-garage,contact-phone,617-222-3200
 park-ER-0168-garage,contact-url,https://www.mbta.com/parking
 park-ER-0168-garage,enclosed,1
-park-ER-0168-garage,fee-daily,"Mon-Fri: $5 | Sat-Sun: $2 (Prices are valid for up to 14 hours of parking. After the first 14 hours, the daily rate is $15.)"
+park-ER-0168-garage,fee-daily,Mon-Fri: $5 | Sat-Sun: $2 
 park-ER-0168-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-ER-0168-garage,municipality,Salem
 park-ER-0168-garage,operator,Republic Parking System
 park-ER-0168-garage,overnight-allowed,yes
 park-ER-0168-garage,owner,MBTA
-park-ER-0168-garage,payment-form-accepted,cash
-park-ER-0168-garage,payment-form-accepted,credit-debit-card
-park-ER-0168-garage,payment-form-accepted,tapcard
+park-ER-0168-garage,payment-app,PayByPhone
+park-ER-0168-garage,payment-app-id,4475
+park-ER-0168-garage,payment-app-url,https://www.paybyphone.com/
+park-ER-0168-garage,payment-form-accepted,invoice
+park-ER-0168-garage,payment-form-accepted,mobile-app
 park-ER-0168-garage,weekday-utilization-summary,No data
 park-ER-0183-garage,attended,1
 park-ER-0183-garage,capacity,494
@@ -17068,15 +17070,17 @@ park-ER-0183-garage,contact,MBTA Customer Support
 park-ER-0183-garage,contact-phone,617-222-3200
 park-ER-0183-garage,contact-url,https://www.mbta.com/parking
 park-ER-0183-garage,enclosed,1
-park-ER-0183-garage,fee-daily,"Mon-Fri: $4 | Sat-Sun: $2 (Prices are valid for up to 14 hours of parking. After the first 14 hours, the daily rate is $15.)"
+park-ER-0183-garage,fee-daily,Mon-Fri: $4 | Sat-Sun: $2 
 park-ER-0183-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-ER-0183-garage,municipality,Beverly
 park-ER-0183-garage,operator,Republic Parking System
 park-ER-0183-garage,overnight-allowed,yes
 park-ER-0183-garage,owner,MBTA
-park-ER-0183-garage,payment-form-accepted,cash
-park-ER-0183-garage,payment-form-accepted,credit-debit-card
-park-ER-0183-garage,payment-form-accepted,tapcard
+park-ER-0183-garage,payment-app,PayByPhone
+park-ER-0183-garage,payment-app-id,4276
+park-ER-0183-garage,payment-app-url,https://www.paybyphone.com/
+park-ER-0183-garage,payment-form-accepted,invoice
+park-ER-0183-garage,payment-form-accepted,mobile-app
 park-ER-0183-garage,weekday-typical-utilization,279
 park-ER-0183-garage,weekday-utilization-summary,Utilization never crosses 90% of capacity
 park-ER-0208,attended,2
@@ -18271,16 +18275,17 @@ park-NEC-2173-garage,contact,MBTA Customer Support
 park-NEC-2173-garage,contact-phone,617-222-3200
 park-NEC-2173-garage,contact-url,https://www.mbta.com/parking
 park-NEC-2173-garage,enclosed,1
-park-NEC-2173-garage,fee-daily,"Mon-Fri: $7 | Sat-Sun: $3 (Prices are valid for up to 14 hours of parking. After the first 14 hours, the daily rate is $15.)"
+park-NEC-2173-garage,fee-daily,Mon-Fri: $7 | Sat-Sun: $3 
 park-NEC-2173-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-NEC-2173-garage,municipality,Westwood
 park-NEC-2173-garage,operator,Republic Parking System
 park-NEC-2173-garage,overnight-allowed,yes
 park-NEC-2173-garage,owner,MBTA
-park-NEC-2173-garage,payment-form-accepted,cash
-park-NEC-2173-garage,payment-form-accepted,credit-debit-card
-park-NEC-2173-garage,payment-form-accepted,e-zpass
-park-NEC-2173-garage,payment-form-accepted,tapcard
+park-NEC-2173-garage,payment-app,PayByPhone
+park-NEC-2173-garage,payment-app-id,4280
+park-NEC-2173-garage,payment-app-url,https://www.paybyphone.com/
+park-NEC-2173-garage,payment-form-accepted,invoice
+park-NEC-2173-garage,payment-form-accepted,mobile-app
 park-NEC-2173-garage,weekday-utilization-summary,No data
 park-NEC-2203,attended,2
 park-NEC-2203,capacity,121
@@ -19084,15 +19089,17 @@ park-alfcl-garage,contact,MBTA Customer Support
 park-alfcl-garage,contact-phone,617-222-3200
 park-alfcl-garage,contact-url,https://www.mbta.com/parking
 park-alfcl-garage,enclosed,1
-park-alfcl-garage,fee-daily,"Mon-Fri: $9 | Sat-Sun: $3 (Prices are valid for up to 14 hours of parking. After the first 14 hours, the daily rate is $15.)"
+park-alfcl-garage,fee-daily,Mon-Fri: $9 | Sat-Sun: $3 
 park-alfcl-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-alfcl-garage,municipality,Cambridge
 park-alfcl-garage,operator,Republic Parking System
 park-alfcl-garage,overnight-allowed,yes
 park-alfcl-garage,owner,MBTA
-park-alfcl-garage,payment-form-accepted,cash
-park-alfcl-garage,payment-form-accepted,credit-debit-card
-park-alfcl-garage,payment-form-accepted,tapcard
+park-alfcl-garage,payment-app,PayByPhone
+park-alfcl-garage,payment-app-id,4241
+park-alfcl-garage,payment-app-url,https://www.paybyphone.com/
+park-alfcl-garage,payment-form-accepted,invoice
+park-alfcl-garage,payment-form-accepted,mobile-app
 park-alfcl-garage,weekday-utilization-summary,No data
 park-bcnfd,attended,2
 park-bcnfd,capacity,11
@@ -19155,20 +19162,16 @@ park-brntn-garage,contact,MBTA Customer Support
 park-brntn-garage,contact-phone,617-222-3200
 park-brntn-garage,contact-url,https://www.mbta.com/parking
 park-brntn-garage,enclosed,1
-park-brntn-garage,fee-daily,"Mon-Fri: $9 | Sat-Sun: $3 (Prices are valid for up to 14 hours of parking. After the first 14 hours, the daily rate is $15.)"
+park-brntn-garage,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-brntn-garage,fee-monthly,"Monthly passes are not available at MBTA garages, but premium spots are available at this garage."
 park-brntn-garage,municipality,Braintree
 park-brntn-garage,operator,Republic Parking System
 park-brntn-garage,overnight-allowed,yes
 park-brntn-garage,owner,MBTA
 park-brntn-garage,payment-app,PayByPhone
-park-brntn-garage,payment-app-id,4403
 park-brntn-garage,payment-app-url,https://www.paybyphone.com/
-park-brntn-garage,payment-form-accepted,cash
-park-brntn-garage,payment-form-accepted,credit-debit-card
 park-brntn-garage,payment-form-accepted,invoice
 park-brntn-garage,payment-form-accepted,mobile-app
-park-brntn-garage,payment-form-accepted,tapcard
 park-brntn-garage,weekday-arrive-before,07:15:00
 park-brntn-garage,weekday-utilization-summary,Arrive before a certain time
 park-brntn-lot-a,attended,2
@@ -19469,17 +19472,16 @@ park-qamnl-garage,contact,MBTA Customer Support
 park-qamnl-garage,contact-phone,617-222-3200
 park-qamnl-garage,contact-url,https://www.mbta.com/parking
 park-qamnl-garage,enclosed,1
-park-qamnl-garage,fee-daily,"Mon-Fri: $9 | Sat-Sun: $3 (Prices are valid for up to 14 hours of parking. After the first 14 hours, the daily rate is $15.)"
+park-qamnl-garage,fee-daily,Mon-Fri: $9 | Sat-Sun: $3 
 park-qamnl-garage,fee-monthly,"Monthly passes are not available at MBTA garages, but premium spots are available at this garage."
 park-qamnl-garage,municipality,Quincy
 park-qamnl-garage,operator,Republic Parking System
 park-qamnl-garage,overnight-allowed,yes
 park-qamnl-garage,owner,MBTA
-park-qamnl-garage,payment-form-accepted,cash
-park-qamnl-garage,payment-form-accepted,credit-debit-card
+park-qamnl-garage,payment-app,PayByPhone
+park-qamnl-garage,payment-app-url,https://www.paybyphone.com/
 park-qamnl-garage,payment-form-accepted,invoice
 park-qamnl-garage,payment-form-accepted,mobile-app
-park-qamnl-garage,payment-form-accepted,tapcard
 park-qamnl-garage,weekday-utilization-summary,No data
 park-qamnl-lot,attended,2
 park-qamnl-lot,capacity,278
@@ -19679,15 +19681,17 @@ park-wondl-garage,contact,MBTA Customer Support
 park-wondl-garage,contact-phone,617-222-3200
 park-wondl-garage,contact-url,https://www.mbta.com/parking
 park-wondl-garage,enclosed,1
-park-wondl-garage,fee-daily,"Mon-Fri: $7 | Sat-Sun: $2 (Prices are valid for up to 14 hours of parking. After the first 14 hours, the daily rate is $15.)"
+park-wondl-garage,fee-daily,Mon-Fri: $7 | Sat-Sun: $2
 park-wondl-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-wondl-garage,municipality,Revere
 park-wondl-garage,operator,Republic Parking System
 park-wondl-garage,overnight-allowed,yes
 park-wondl-garage,owner,MBTA
-park-wondl-garage,payment-form-accepted,cash
-park-wondl-garage,payment-form-accepted,credit-debit-card
-park-wondl-garage,payment-form-accepted,tapcard
+park-wondl-garage,payment-app,PayByPhone
+park-wondl-garage,payment-app-id,4478
+park-wondl-garage,payment-app-url,https://www.paybyphone.com/
+park-wondl-garage,payment-form-accepted,invoice
+park-wondl-garage,payment-form-accepted,mobile-app
 park-wondl-garage,weekday-utilization-summary,No data
 park-wondl-nshore,attended,2
 park-wondl-nshore,capacity,476
@@ -19716,15 +19720,17 @@ park-woodl-garage,contact,MBTA Customer Support
 park-woodl-garage,contact-phone,617-222-3200
 park-woodl-garage,contact-url,https://www.mbta.com/parking
 park-woodl-garage,enclosed,1
-park-woodl-garage,fee-daily,"Mon-Fri: $6 | Sat-Sun: $3 (Prices are valid for up to 14 hours of parking. After the first 14 hours, the daily rate is $15.)"
+park-woodl-garage,fee-daily,Mon-Fri: $6 | Sat-Sun: $3 
 park-woodl-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-woodl-garage,municipality,Newton
 park-woodl-garage,operator,Republic Parking System
 park-woodl-garage,overnight-allowed,yes
 park-woodl-garage,owner,MBTA
-park-woodl-garage,payment-form-accepted,cash
-park-woodl-garage,payment-form-accepted,credit-debit-card
-park-woodl-garage,payment-form-accepted,tapcard
+park-woodl-garage,payment-app,PayByPhone
+park-woodl-garage,payment-app-id,4477
+park-woodl-garage,payment-app-url,https://www.paybyphone.com/
+park-woodl-garage,payment-form-accepted,invoice
+park-woodl-garage,payment-form-accepted,mobile-app
 park-woodl-garage,weekday-utilization-summary,No data
 portlift-armnl-0,excludes-stop,70157
 portlift-armnl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
@@ -19745,10 +19751,12 @@ portlift-bcnwa-1,note,"Significant barriers exist at station, but customers may 
 portlift-brkhl-0,excludes-stop,70179
 portlift-brkhl-0,excludes-stop,9070178
 portlift-brkhl-0,excludes-stop,9070179
+portlift-brkhl-0,excludes-stop,9170178
 portlift-brkhl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brkhl-1,excludes-stop,70178
 portlift-brkhl-1,excludes-stop,9070178
 portlift-brkhl-1,excludes-stop,9070179
+portlift-brkhl-1,excludes-stop,9170178
 portlift-brkhl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brmnl-0,excludes-stop,70250
 portlift-brmnl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
@@ -19909,6 +19917,8 @@ portlift-rsmnl-1,excludes-stop,21917
 portlift-rsmnl-1,excludes-stop,70174
 portlift-rsmnl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-smary,excludes-stop,70211
+portlift-smary,excludes-stop,9070211
+portlift-smary,excludes-stop,9070212
 portlift-smary,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-woodl-0,excludes-stop,70163
 portlift-woodl-0,excludes-stop,9070162
@@ -20884,6 +20894,8 @@ subplat-portr,excludes-stop,70065
 subplat-portr,excludes-stop,70066
 subplat-portr,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-smary,excludes-stop,70212
+subplat-smary,excludes-stop,9070211
+subplat-smary,excludes-stop,9070212
 subplat-smary,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-spmnl-0,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-spmnl-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
