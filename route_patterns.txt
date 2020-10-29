@@ -17,25 +17,35 @@ Green-B-1-0,Green-B,0,North Station - Boston College,Weekend early mornings only
 Green-B-3-1,Green-B,1,Boston College - Park Street,,1,10032100,45803657
 Green-B-1-1,Green-B,1,Boston College - North Station,Weekend early mornings only,3,10032104,45811027
 Green-C-1-0,Green-C,0,North Station - Cleveland Circle,,1,10033000,45803742
+Green-C-1-0_70151_70211_0,Green-C,0,North Station - Kenmore,,4,10033099,45803748-20:45-NwnHiStMKnrCNwnHiStMKnrD0
+Green-C-1-0_70151_70211_2,Green-C,0,Saint Marys Street - Cleveland Circle,,4,10033099,45803748-20:45-NwnHiStMKnrCNwnHiStMKnrD2
 Green-C-1-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,45803741
+Green-C-1-1_70212_70150_0,Green-C,1,Cleveland Circle - Saint Marys Street,,4,10033199,45803746-20:45-NwnHiStMKnrCNwnHiStMKnrD0
+Green-C-1-1_70212_70150_2,Green-C,1,Kenmore - North Station,,4,10033199,45803746-20:45-NwnHiStMKnrCNwnHiStMKnrD2
 Green-D-2-0,Green-D,0,Government Center - Riverside,,1,10034000,45804733
 Green-D-3-0,Green-D,0,North Station - Reservoir,Evenings only,3,10034004,45805609
 Green-D-1-0,Green-D,0,North Station - Riverside,Weekday early mornings only,3,10034006,45803757
-Green-D-2-0_70151_70169_0,Green-D,0,Government Center - Kenmore,,4,10034099,45807817-NewtonHighlandsKenmoreW0
-Green-D-2-0_70151_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,45807817-NewtonHighlandsKenmoreW2
+Green-D-2-0_70151_70169_0,Green-D,0,Government Center - Kenmore,,4,10034099,45804940-20:45-NwnHiStMKnrCNwnHiStMKnrD0
+Green-D-2-0_70151_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,45804940-20:45-NwnHiStMKnrCNwnHiStMKnrD2
+Green-D-2-0_70151_70179_0,Green-D,0,Government Center - Kenmore,,4,10034099,45804940-20:45-BrooklineHillsKenmore0
+Green-D-2-0_70151_70179_2,Green-D,0,Brookline Hills - Riverside,,4,10034099,45804940-20:45-BrooklineHillsKenmore2
 Green-D-2-0_70169_70161_0,Green-D,0,Government Center - Newton Highlands,,4,10034099,45804940-20:45-NewtonHighlandsRiverside0
 Green-D-2-0_70175_70161_0,Green-D,0,Government Center - Reservoir,,4,10034099,45804940-20:45-ReservoirRiverside0
 Green-D-2-0_70187_70169_0,Green-D,0,Government Center - Fenway,,4,10034099,45804940-20:45-FenwayNewtonHighlands0
 Green-D-2-0_70187_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,45804940-20:45-FenwayNewtonHighlands2
+Green-D-3-0_70151_70179_0,Green-D,0,North Station - Kenmore,,4,10034099,45805609-20:45-BrooklineHillsKenmore0
+Green-D-3-0_70151_70179_2,Green-D,0,Brookline Hills - Reservoir,,4,10034099,45805609-20:45-BrooklineHillsKenmore2
 Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034100,45804732
 Green-D-3-1,Green-D,1,Reservoir - North Station,,3,10034104,45805593
 Green-D-1-1,Green-D,1,Riverside - North Station,Weekday early mornings only,3,10034106,45803758
 Green-D-2-1_70160_70168_2,Green-D,1,Newton Highlands - Government Center,,4,10034199,45804948-20:45-NewtonHighlandsRiverside2
 Green-D-2-1_70160_70174_2,Green-D,1,Reservoir - Government Center,,4,10034199,45804948-20:45-ReservoirRiverside2
-Green-D-2-1_70168_70150_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,45807802-NewtonHighlandsKenmoreW0
-Green-D-2-1_70168_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,45807802-NewtonHighlandsKenmoreW2
+Green-D-2-1_70168_70150_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,45804948-20:45-NwnHiStMKnrCNwnHiStMKnrD0
+Green-D-2-1_70168_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,45804948-20:45-NwnHiStMKnrCNwnHiStMKnrD2
 Green-D-2-1_70168_70186_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,45804948-20:45-FenwayNewtonHighlands0
 Green-D-2-1_70168_70186_2,Green-D,1,Fenway - Government Center,,4,10034199,45804948-20:45-FenwayNewtonHighlands2
+Green-D-2-1_70178_70150_0,Green-D,1,Riverside - Brookline Hills,,4,10034199,45804948-20:45-BrooklineHillsKenmore0
+Green-D-2-1_70178_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,45804948-20:45-BrooklineHillsKenmore2
 Green-E-1-0,Green-E,0,North Station - Heath Street,,1,10035000,45803749
 Green-E-1-1,Green-E,1,Heath Street - North Station,,1,10035100,45803750
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,45741334
@@ -121,19 +131,18 @@ CR-Franklin-f50e6e94-1,CR-Franklin,1,Forge Park/495 - South Station via Fairmoun
 CR-Franklin-3291dc24-1,CR-Franklin,1,Forge Park/495 - South Station via Fairmount,,2,20004107,CR-Weekday-Summer-20-726
 CR-Franklin-f2a2d454-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004108,CR-Weekday-Summer-20-716
 CR-Franklin-b70bf8ea-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004110,CR-Weekday-Summer-20-7704
-CR-Franklin-b485f73b-1,CR-Franklin,1,Norwood Central - South Station via Back Bay,,3,20004111,CR-Weekday-Fall-20-742
-CR-Franklin-d4c7f868-1,CR-Franklin,1,Walpole - South Station via Back Bay,,3,20004112,CR-Weekday-Fall-20-752
+CR-Franklin-e7875591-1,CR-Franklin,1,Walpole - South Station via Back Bay,,3,20004111,CR-Weekday-Fall-20-744
+CR-Franklin-b485f73b-1,CR-Franklin,1,Norwood Central - South Station via Back Bay,,3,20004112,CR-Weekday-Fall-20-742
 CR-Franklin-ded84319-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004113,CR-Weekday-Fall-20-706
-CR-Franklin-e7875591-1,CR-Franklin,1,Walpole - South Station via Back Bay,,3,20004114,CR-Weekday-Fall-20-744
-CR-Franklin-f562bf25-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004115,CR-Weekday-Summer-20-724
-CR-Franklin-06789195-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,20004116,CR-Weekday-Summer-20-7752
-CR-Franklin-7070d1dc-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004117,CR-Weekday-Summer-20-720
-CR-Franklin-95ecb612-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004118,CR-Weekday-Summer-20-718
-CR-Franklin-Foxboro-1de9bf7e-1,CR-Franklin,1,Foxboro - South Station via Fairmount,,3,20004119,CR-Weekday-Summer-20-7744
-CR-Franklin-80c13e64-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004120,CR-Weekday-Fall-20-702
-CR-Franklin-aca76211-1,CR-Franklin,1,Norwood Central - South Station via Back Bay,,3,20004121,CR-Weekday-Fall-20-754
-CR-Franklin-dc49acf7-1,CR-Franklin,1,Walpole - South Station via Back Bay,,3,20004122,CR-Weekday-Fall-20-740
-CR-Franklin-131bc4f0-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,20004123,CR-Weekday-Summer-20-7756
+CR-Franklin-f562bf25-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004114,CR-Weekday-Summer-20-724
+CR-Franklin-06789195-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,20004115,CR-Weekday-Summer-20-7752
+CR-Franklin-7070d1dc-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004116,CR-Weekday-Summer-20-720
+CR-Franklin-95ecb612-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004117,CR-Weekday-Summer-20-718
+CR-Franklin-Foxboro-1de9bf7e-1,CR-Franklin,1,Foxboro - South Station via Fairmount,,3,20004118,CR-Weekday-Summer-20-7744
+CR-Franklin-80c13e64-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004119,CR-Weekday-Fall-20-702
+CR-Franklin-aca76211-1,CR-Franklin,1,Norwood Central - South Station via Back Bay,,3,20004120,CR-Weekday-Fall-20-754
+CR-Franklin-dc49acf7-1,CR-Franklin,1,Walpole - South Station via Back Bay,,3,20004121,CR-Weekday-Fall-20-740
+CR-Franklin-131bc4f0-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,20004122,CR-Weekday-Summer-20-7756
 CR-Franklin-692d0a57-1_Forge Park / 495_Walpole_2,CR-Franklin,1,Walpole - South Station,,4,20004199,CR-Saturday-Summer-20-1702-ForgeParkWalpole2
 CR-Greenbush-443280ea-0,CR-Greenbush,0,South Station - Greenbush,,1,20005000,CR-Weekday-Summer-20-073
 CR-Greenbush-e3278d41-0,CR-Greenbush,0,South Station - Greenbush,,2,20005002,CR-Sunday-Fall-20-2071
@@ -953,6 +962,8 @@ Shuttle-AndersonWoburnLowell-0-0,Shuttle-AndersonWoburnLowell,0,Anderson/Woburn 
 Shuttle-AndersonWoburnLowell-0-1,Shuttle-AndersonWoburnLowell,1,Lowell - Anderson/Woburn,,4,60223199,CR-Saturday-Fall-20-1300-AndersonLowell1
 Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,4,61000099,45295508-20:45-BraintreeQuincyCenter1
 Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,4,61000199,45295539-20:45-BraintreeQuincyCenter1
+Shuttle-BrooklineHillsKenmore-0-0,Shuttle-BrooklineHillsKenmore,0,Kenmore - Brookline Hills,,4,61100099,45804940-20:45-BrooklineHillsKenmore1
+Shuttle-BrooklineHillsKenmore-0-1,Shuttle-BrooklineHillsKenmore,1,Brookline Hills - Kenmore,,4,61100199,45804948-20:45-BrooklineHillsKenmore1
 Shuttle-FenwayNewtonHighlands-0-0,Shuttle-FenwayNewtonHighlands,0,Fenway - Newton Highlands,,4,61490099,45804940-20:45-FenwayNewtonHighlands1
 Shuttle-FenwayNewtonHighlands-0-1,Shuttle-FenwayNewtonHighlands,1,Newton Highlands - Fenway,,4,61490199,45804948-20:45-FenwayNewtonHighlands1
 Shuttle-ForgeParkWalpole-0-0,Shuttle-ForgeParkWalpole,0,Walpole - Forge Park/495,,4,61770099,CR-Saturday-Summer-20-1703-ForgeParkWalpole1
@@ -963,6 +974,8 @@ Shuttle-NewtonHighlandsKenmore-0-0,Shuttle-NewtonHighlandsKenmore,0,Kenmore - Ne
 Shuttle-NewtonHighlandsKenmore-0-1,Shuttle-NewtonHighlandsKenmore,1,Newton Highlands - Kenmore,,4,62090199,45807802-NewtonHighlandsKenmoreW1
 Shuttle-NewtonHighlandsRiverside-0-0,Shuttle-NewtonHighlandsRiverside,0,Newton Highlands - Riverside,,4,62100099,45804940-20:45-NewtonHighlandsRiverside1
 Shuttle-NewtonHighlandsRiverside-0-1,Shuttle-NewtonHighlandsRiverside,1,Riverside - Newton Highlands,,4,62100199,45804948-20:45-NewtonHighlandsRiverside1
+Shuttle-NewtonHighlandsStMarysKenmore-0-0,Shuttle-NewtonHighlandsStMarysKenmore,0,Kenmore via St Mary's St - Newton Highlands via St Mary's St,,4,62110099,45803748-20:45-NwnHiStMKnrCNwnHiStMKnrD1
+Shuttle-NewtonHighlandsStMarysKenmore-0-1,Shuttle-NewtonHighlandsStMarysKenmore,1,Newton Highlands via St Mary's St - Kenmore via St Mary's St,,4,62110199,45803746-20:45-NwnHiStMKnrCNwnHiStMKnrD1
 Shuttle-OakGroveWellington-0-0,Shuttle-OakGroveWellington,0,Oak Grove - Wellington,,4,62300099,45510570-OakGroveWellington1
 Shuttle-OakGroveWellington-0-1,Shuttle-OakGroveWellington,1,Wellington - Oak Grove,,4,62300199,45510571-OakGroveWellington1
 Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,45804940-20:45-ReservoirRiverside1
