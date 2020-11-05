@@ -6671,8 +6671,8 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070171,9070171,Newton Centre,Newton Centre - Green Line Westbound Shuttle,,Westbound Shuttle,42.330073,-71.191265,LocalBus,,https://www.mbta.com/stops/9070171,,0,,1,Newton,,,3
 9070178,9070178,Brookline Hills,Boylston St @ Cypress St - Green Line Newton Highlands Shuttle,,Newton Highlands Shuttle,42.330044,-71.126602,LocalBus,,https://www.mbta.com/stops/9070178,,0,,1,Brookline,,,3
 9070179,9070179,Brookline Hills,Boylston St @ Cypress St - Green Line Kenmore Shuttle,,Kenmore Shuttle,42.330034,-71.125599,LocalBus,,https://www.mbta.com/stops/9070179,,0,,1,Brookline,,,3
-9070211,9070211,St Marys St,St Marys St - Green Line Westbound Shuttle,,Westbound Shuttle,42.346095,-71.107571,LocalBus,,https://www.mbta.com/stops/9070211,,0,,1,Brookline,,,3
-9070212,9070212,St Marys St,St Marys St - Green Line Kenmore Shuttle,,Kenmore Shuttle,42.345892,-71.107009,LocalBus,,https://www.mbta.com/stops/9070212,,0,,1,Brookline,,,3
+9070211,9070211,Saint Mary's Street,Saint Mary's Street - Green Line Westbound Shuttle,,Westbound Shuttle,42.346095,-71.107571,LocalBus,,https://www.mbta.com/stops/9070211,,0,,1,Brookline,,,3
+9070212,9070212,Saint Mary's Street,Saint Mary's Street - Green Line Kenmore Shuttle,,Kenmore Shuttle,42.345892,-71.107009,LocalBus,,https://www.mbta.com/stops/9070212,,0,,1,Brookline,,,3
 9071,9071,Warren St @ Melrose St,,,,42.468798,-71.074237,LocalBus,,https://www.mbta.com/stops/9071,,0,,1,Melrose,Warren Street,Melrose Street,3
 9073,9073,Franklin St @ Warren St,,,,42.469465,-71.073595,LocalBus,,https://www.mbta.com/stops/9073,,0,,0,Melrose,Franklin Street,Warren Street,3
 9074,9074,Franklin St opp Greenwood St,,,,42.468688,-71.069631,LocalBus,,https://www.mbta.com/stops/9074,,0,,0,Melrose,Franklin Street,Greenwood Street,3
@@ -9343,9 +9343,9 @@ node-shmnl-sh-fareunpaid,,Savin Hill,Savin Hill - Unpaid side of Savin Hill Aven
 node-shmnl-syd-farepaid,,Savin Hill,Savin Hill - Paid side of Sydney Street fare gates,,,,,,,,level_1_lobby,3,place-shmnl,1,Boston,,,
 node-shmnl-syd-fareunpaid,,Savin Hill,Savin Hill - Unpaid side of Sydney Street fare gates,,,,,,,,level_1_lobby,3,place-shmnl,1,Boston,,,
 node-shmnl-sydstair-lobby,,Savin Hill,Savin Hill - Top of stairs between Sydney Street and lobby,,,,,,,,level_1_lobby,3,place-shmnl,1,Boston,,,
-place-smary,,Saint Marys Street,,,,42.345974,-71.107353,,"Beacon St and Saint Mary's St, Boston, MA",https://www.mbta.com/stops/place-smary,,1,,1,Brookline,,,
-70211,70211,Saint Marys Street,Saint Marys Street - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.345884,-71.107697,RapidTransit,,https://www.mbta.com/stops/place-smary,level_median,0,place-smary,1,Brookline,,,0
-70212,70212,Saint Marys Street,Saint Marys Street - Green Line - Park Street & North,,Park Street & North,42.346007,-71.107166,RapidTransit,,https://www.mbta.com/stops/place-smary,level_median,0,place-smary,1,Brookline,,,0
+place-smary,,Saint Mary's Street,,,,42.345974,-71.107353,,"Beacon St and Saint Mary's St, Boston, MA",https://www.mbta.com/stops/place-smary,,1,,1,Brookline,,,
+70211,70211,Saint Mary's Street,Saint Mary's Street - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.345884,-71.107697,RapidTransit,,https://www.mbta.com/stops/place-smary,level_median,0,place-smary,1,Brookline,,,0
+70212,70212,Saint Mary's Street,Saint Mary's Street - Green Line - Park Street & North,,Park Street & North,42.346007,-71.107166,RapidTransit,,https://www.mbta.com/stops/place-smary,level_median,0,place-smary,1,Brookline,,,0
 place-smmnl,,Shawmut,,,,42.293126,-71.065738,,"Dayton St and Clementine Park, Dorchester, MA 02124",https://www.mbta.com/stops/place-smmnl,,1,,1,Boston,,,
 70091,70091,Shawmut,Shawmut - Red Line - Ashmont,,Ashmont,42.293126,-71.065738,RapidTransit,,https://www.mbta.com/stops/place-smmnl,level_-1_platform,0,place-smmnl,1,Boston,,,1
 70092,70092,Shawmut,Shawmut - Red Line - Alewife,,Alewife,42.293126,-71.065738,RapidTransit,,https://www.mbta.com/stops/place-smmnl,level_-1_platform,0,place-smmnl,1,Boston,,,1
@@ -9525,6 +9525,67 @@ door-state-exchange,,State - Congress St (Exchange Place),State - Congress St (E
 door-state-meeting,,"State - Washington St, Milk St","State - Washington St, Milk St",,,42.357150,-71.058394,,,,level_in_street,2,place-state,1,Boston,,,
 door-state-state,,"State - Old State House, State St","State - Old State House, State St",,,42.358735,-71.057298,,,,level_in_street,2,place-state,2,Boston,,,
 door-state-water,,"State - Devonshire St, Water St","State - Devonshire St, Water St",,,42.357487,-71.057412,,,,level_in_street,2,place-state,2,Boston,,,
+node-374-lobby,,State,State - Top of escalator from Oak Grove platform to City Hall,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-374-nbplatform,,State,State - Bottom of escalator from Oak Grove platform to City Hall,,,,,,,,level_-2_oak_grove_platform,3,place-state,1,Boston,,,
+node-501-nbplatform,,State,"State - Bottom of escalator from Oak Grove platform to Wonderland platform, State St, Devonshire St",,,,,,,,level_-2_oak_grove_platform,3,place-state,1,Boston,,,
+node-501-sbplatform,,State,"State - Top of escalator from Oak Grove platform to Wonderland platform, State St, Devonshire St",,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-502-landing,,State,"State - Top of escalator from Orange Line to State St, Devonshire St",,,,,,,,level_-0.5_landing,3,place-state,1,Boston,,,
+node-502-sbplatform,,State,"State - Bottom of escalator from Orange Line to State St, Devonshire St",,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-523-sbplatform,,State,State - Bottom of escalator from lobby to Milk Street,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-523-street,,State,State - Top of escalator from lobby to Milk Street,,,,,,,,level_-0.5_landing,3,place-state,1,Boston,,,
+node-6-landing,,State,"State - Top of escalator from Oak Grove platform to State St, Devonshire St",,,,,,,,level_-0.5_landing,3,place-state,1,Boston,,,
+node-6-nbplatform,,State,"State - Bottom of escalator from Oak Grove platform to State St, Devonshire St",,,,,,,,level_-2_oak_grove_platform,3,place-state,1,Boston,,,
+node-802-nbplatform,,State,"State - Bottom of Elevator 802 between Oak Grove platform and Wonderland platform, Forest Hills passageway",,,,,,,,level_-2_oak_grove_platform,3,place-state,1,Boston,,,
+node-802-sbplatform,,State,"State - Top of Elevator 802 between Oak Grove platform and Wonderland platform, Forest Hills passageway",,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-803-sbplatform,,State,State - Bottom of Elevator 803 between Milk Street to lobby,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-803-street,,State,State - Top of Elevator 803 between Milk Street to lobby,,,,,,,,level_ground,3,place-state,1,Boston,,,
+node-967-nbplatform,,State,"State - Bottom of Elevator 967 between Oak Grove platform and Wonderland platform, Forest Hills passageway",,,,,,,,level_-2_oak_grove_platform,3,place-state,1,Boston,,,
+node-967-sbplatform,,State,"State - Top of Elevator 967 between Oak Grove platform and Wonderland platform, Forest Hills passageway",,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-974-street,,State,State - Top of Elevator 974 between Congress St and Bowdoin platform,,,,,,,,level_ground,3,place-state,1,Boston,,,
+node-974-wbplatform,,State,State - Bottom of Elevator 974 between Congress St and Bowdoin platform,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-975-ebplatform,,State,State - Bottom of Elevator 975 between Congress St and Wonderland platform,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-ogcityhallstairs-lobby,,State,State - Top of stairs between Oak Grove platform and City Hall,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-ogcityhallstairs-nbplatform,,State,State - Bottom of stairs between Oak Grove platform and City Hall,,,,,,,,level_-2_oak_grove_platform,3,place-state,1,Boston,,,
+node-state-bowdoinoldstatestairs-landing,,State,"State - Top of stairs between Bowdoin platform and State St, Devonshire St",,,,,,,,level_-0.5_landing,3,place-state,1,Boston,,,
+node-state-bowdoinoldstatestairs-wbplatform,,State,"State - Bottom of stairs between Bowdoin platform and State St, Devonshire St",,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-bowdoinramp-nbplatform,,State,State - Bottom of ramp between Bowdoin platform and Oak Grove platform,,,,,,,,level_-2_oak_grove_platform,3,place-state,1,Boston,,,
+node-state-bowdoinramp-wbplatform,,State,State - Top of ramp between Bowdoin platform and Oak Grove platform,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-cityhall-farepaid,,State,State - Paid side of fare gates,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-cityhall-fareunpaid,,State,State - Unpaid side of fare gates,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-congress-farepaid,,State,State - Paid side of fare gates,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-congress-fareunpaid,,State,State - Unpaid side of fare gates,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-congressstairs-street,,State,State - Top of stairs between Congress St and Bowdoin platform,,,,,,,,level_ground,3,place-state,1,Boston,,,
+node-state-congressstairs-wbplatform,,State,State - Bottom of stairs between Congress St and Bowdoin platform,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-exchange-farepaid,,State,State - Paid side of fare gates,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-exchange-fareunpaid,,State,State - Unpaid side of fare gates,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-exchangestairs-ebplatform,,State,State - Bottom of stairs between Congress St and Wonderland platform,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-milk-farepaid,,State,State - Paid side of fare gates,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-milk-fareunpaid,,State,State - Unpaid side of fare gates,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-milkmidstairs-landing,,State,State - Top of stairs from escalator to Milk Street,,,,,,,,level_-0.5_landing,3,place-state,1,Boston,,,
+node-state-milkmidstairs-street,,State,State - Bottom of stairs from escalator to Milk Street,,,,,,,,level_ground,3,place-state,1,Boston,,,
+node-state-milkststairs-lobby,,State,State - Bottom of stairs between Milk Street and lobby,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-ogoldstatehousestairs-landing,,State,"State - Top of stairs between Oak Grove platform and State St, Devonshire St",,,,,,,,level_-0.5_landing,3,place-state,1,Boston,,,
+node-state-ogoldstatehousestairs-nbplatform,,State,"State - Bottom of stairs between Oak Grove platform and State St, Devonshire St",,,,,,,,level_-2_oak_grove_platform,3,place-state,1,Boston,,,
+node-state-oldstate-farepaid,,State,State - Paid side of fare gates,,,,,,,,level_ground,3,place-state,1,Boston,,,
+node-state-oldstate-fareunpaid,,State,State - Unpaid side of fare gates,,,,,,,,level_ground,3,place-state,1,Boston,,,
+node-state-oldstateogministairs-landing,,State,"State - Bottom of stairs between Bowdoin platform, Oak Grove platform landing and State St, Devonshire St",,,,,,,,level_-0.5_landing,3,place-state,1,Boston,,,
+node-state-oldstateogministairs-street,,State,"State - Top of stairs between Bowdoin platform, Oak Grove platform landing and State St, Devonshire St",,,,,,,,level_ground,3,place-state,1,Boston,,,
+node-state-oldstatepassageministairs-landing,,State,"State - Bottom of stairs between Wonderland platform, Orange Line landing and State St, Devonshire St",,,,,,,,level_-0.5_landing,3,place-state,1,Boston,,,
+node-state-oldstatepassageministairs-street,,State,"State - Top of stairs between Wonderland platform, Orange Line landing and State St, Devonshire St",,,,,,,,level_ground,3,place-state,1,Boston,,,
+node-state-olnbplatformstairsmain-nbplatform,,State,"State - Bottom of stairs between Oak Grove platform and Wonderland platform, State St, Devonshire St",,,,,,,,level_-2_oak_grove_platform,3,place-state,1,Boston,,,
+node-state-olnbplatformstairsmain-sbplatform,,State,"State - Top of stairs between Oak Grove platform and Wonderland platform, State St, Devonshire St",,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-olnbplatformstairssec-nbplatform,,State,"State - Bottom of stairs between Oak Grove platform and Wonderland platform, Forest Hills passageway",,,,,,,,level_-2_oak_grove_platform,3,place-state,1,Boston,,,
+node-state-olnbplatformstairssec-sbplatform,,State,"State - Top of stairs between Oak Grove platform and Wonderland platform, Forest Hills passageway",,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-olpassagestairs-nbplatform,,State,State - Bottom of stairs between Forest Hills passageway and Oak Grove platform,,,,,,,,level_-2_oak_grove_platform,3,place-state,1,Boston,,,
+node-state-olpassagestairs-sbplatform,,State,State - Top of stairs between Forest Hills passageway and Oak Grove platform,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-passageoldstatehousestairs-landing,,State,"State - Top of stairs between Orange Line and State St, Devonshire St",,,,,,,,level_-0.5_landing,3,place-state,1,Boston,,,
+node-state-passageoldstatehousestairs-sbplatform,,State,"State - Bottom of stairs between Orange Line and State St, Devonshire St",,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-statestreetstairs-lobby,,State,State - Bottom of stairs between lobby and City Hall,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-water-farepaid,,State,State - Paid side of fare gates,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-water-fareunpaid,,State,State - Unpaid side of fare gates,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-waterststairs-lobby,,State,State - Bottom of stairs between Water Street and lobby,,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-wonderlandoldstatestairs-ebplatform,,State,"State - Bottom of stairs between Wonderland platform and State St, Devonshire St",,,,,,,,level_-1_lobby,3,place-state,1,Boston,,,
+node-state-wonderlandoldstatestairs-landing,,State,"State - Top of stairs between Wonderland platform and State St, Devonshire St",,,,,,,,level_-0.5_landing,3,place-state,1,Boston,,,
 place-sthld,,Sutherland Road,,,,42.341614,-71.146202,,"Commonwealth Ave and Sutherland Rd, Boston, MA",https://www.mbta.com/stops/place-sthld,,1,,2,Boston,,,
 70116,70116,Sutherland Road,Sutherland Road - Green Line - Park Street & North,,Park Street & North,42.341589,-71.146089,RapidTransit,,https://www.mbta.com/stops/place-sthld,level_median,0,place-sthld,2,Boston,,,0
 70117,70117,Sutherland Road,Sutherland Road - Green Line - (B) Boston College,,Boston College,42.341577,-71.146607,RapidTransit,,https://www.mbta.com/stops/place-sthld,level_median,0,place-sthld,2,Boston,,,0
