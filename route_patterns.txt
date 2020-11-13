@@ -1,18 +1,16 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010003,45295219
 Red-3-0,Red,0,Alewife - Braintree,,1,10010004,45295375
-Red-3-0_70101_70105_0,Red,0,Alewife - Quincy Center,,4,10010099,45295508-20:45-BraintreeQuincyCenter0
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010103,45295220
 Red-3-1,Red,1,Braintree - Alewife,,1,10010104,45295355
-Red-3-1_70105_70102_2,Red,1,Quincy Center - Alewife,,4,10010199,45295539-20:45-BraintreeQuincyCenter2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,45616687
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,45616685
-Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,45616325
+Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,45324958
 Orange-5-0,Orange,0,Wellington - Forest Hills,Weekdays only,3,10020003,45616588
 Orange-0-0,Orange,0,Wellington - Community College,,4,10020099,45616433-20:45-CCWellShuttTrain1
 Orange-3-0_70032_70028_0,Orange,0,Oak Grove - Wellington,,4,10020099,45616433-20:45-CCWellShuttTrain0
 Orange-3-0_70032_70028_2,Orange,0,Community College - Forest Hills,,4,10020099,45616433-20:45-CCWellShuttTrain2
-Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,45616458
+Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,45324956
 Orange-0-1,Orange,1,Community College - Wellington,,4,10020199,45616558-20:45-CCWellShuttTrain1
 Orange-3-1_70029_70033_0,Orange,1,Forest Hills - Community College,,4,10020199,45616558-20:45-CCWellShuttTrain0
 Orange-3-1_70029_70033_2,Orange,1,Wellington - Oak Grove,,4,10020199,45616558-20:45-CCWellShuttTrain2
@@ -106,7 +104,6 @@ CR-Worcester-25de0d02-1,CR-Worcester,1,Worcester - South Station,,3,20003109,CR-
 CR-Worcester-5f27c027-1,CR-Worcester,1,Worcester - South Station,,3,20003110,CR-Weekday-Fall-20-522
 CR-Worcester-da31a83a-1,CR-Worcester,1,Worcester - South Station,,3,20003111,CR-Weekday-Fall-20-552
 CR-Worcester-bb425216-1,CR-Worcester,1,Worcester - South Station,,3,20003112,CR-Weekday-Fall-20-504
-CR-Worcester-f35f5d98-1,CR-Worcester,1,Worcester - South Station,,3,20003113,CR-Weekday-Summer-20-7552
 CR-Franklin-68fb51e7-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,20004000,CR-Weekday-Fall-20-705
 CR-Franklin-c63d3181-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,2,20004004,CR-Weekday-Fall-20-713
 CR-Franklin-47aaba7a-0,CR-Franklin,0,South Station - Walpole via Back Bay,,2,20004006,CR-Weekday-Fall-20-751
@@ -117,22 +114,11 @@ CR-Franklin-5e7c40e1-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay
 CR-Franklin-95022bdf-0,CR-Franklin,0,South Station - Norwood Central via Back Bay,,3,20004011,CR-Weekday-Fall-20-753
 CR-Franklin-cfe3886a-0,CR-Franklin,0,South Station - Walpole via Back Bay,,3,20004012,CR-Weekday-Fall-20-743
 CR-Franklin-ddd937d2-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004013,CR-Weekday-Fall-20-701
-CR-Franklin-21a2e550-0,CR-Franklin,0,South Station - Forge Park/495 via Fairmount,,3,20004014,CR-Weekday-Summer-20-7703
-CR-Franklin-34b183ec-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004015,CR-Weekday-Summer-20-705
-CR-Franklin-792ab8b5-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004016,CR-Weekday-Summer-20-707
-CR-Franklin-7a4d6b9d-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004017,CR-Weekday-Summer-20-713
-CR-Franklin-Foxboro-0a40e636-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004018,CR-Weekday-Summer-20-7753
-CR-Franklin-Foxboro-2a116f76-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004019,CR-Weekday-Summer-20-741
-CR-Franklin-Foxboro-3dcaeffb-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004020,CR-Weekday-Summer-20-743
-CR-Franklin-Foxboro-810ed90d-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,3,20004021,CR-Weekday-Summer-20-749
-CR-Franklin-b5947d89-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,20004022,CR-Weekday-Summer-20-745
-CR-Franklin-b77aa274-0,CR-Franklin,0,South Station - Forge Park/495,,3,20004023,CR-Weekday-Summer-20-701
+CR-Franklin-68fb51e7-0_Norwood Central_Forge Park / 495_0,CR-Franklin,0,South Station - Norwood Central,,4,20004099,CR-Saturday-Fall-20-1703-ForgeParkNorwoodCentral0
 CR-Franklin-68fb51e7-0_Walpole_Forge Park / 495_0,CR-Franklin,0,South Station - Walpole,,4,20004099,CR-Saturday-Fall-20-1703-ForgeParkWalpole0
 CR-Franklin-692d0a57-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,20004100,CR-Weekday-Fall-20-700
 CR-Franklin-88d99670-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,2,20004104,CR-Weekday-Fall-20-716
 CR-Franklin-e7875591-1,CR-Franklin,1,Walpole - South Station via Back Bay,,2,20004106,CR-Weekday-Fall-20-744
-CR-Franklin-3291dc24-1,CR-Franklin,1,Forge Park/495 - South Station via Fairmount,,2,20004107,CR-Weekday-Summer-20-726
-CR-Franklin-f50e6e94-1,CR-Franklin,1,Forge Park/495 - South Station via Fairmount,,2,20004108,CR-Weekday-Summer-20-7722
 CR-Franklin-b485f73b-1,CR-Franklin,1,Norwood Central - South Station via Back Bay,,3,20004109,CR-Weekday-Fall-20-742
 CR-Franklin-b70bf8ea-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004110,CR-Weekday-Fall-20-704
 CR-Franklin-ded84319-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004112,CR-Weekday-Fall-20-706
@@ -141,12 +127,7 @@ CR-Franklin-f562bf25-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay
 CR-Franklin-80c13e64-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004117,CR-Weekday-Fall-20-702
 CR-Franklin-aca76211-1,CR-Franklin,1,Norwood Central - South Station via Back Bay,,3,20004118,CR-Weekday-Fall-20-754
 CR-Franklin-dc49acf7-1,CR-Franklin,1,Walpole - South Station via Back Bay,,3,20004119,CR-Weekday-Fall-20-740
-CR-Franklin-06789195-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,20004120,CR-Weekday-Summer-20-7752
-CR-Franklin-131bc4f0-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,20004121,CR-Weekday-Summer-20-7756
-CR-Franklin-7070d1dc-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004122,CR-Weekday-Summer-20-720
-CR-Franklin-95ecb612-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004123,CR-Weekday-Summer-20-718
-CR-Franklin-Foxboro-1de9bf7e-1,CR-Franklin,1,Foxboro - South Station via Fairmount,,3,20004124,CR-Weekday-Summer-20-7744
-CR-Franklin-Foxboro-fe1bff6a-1,CR-Franklin,1,Foxboro - South Station via Fairmount,,3,20004125,CR-Weekday-Summer-20-740
+CR-Franklin-692d0a57-1_Forge Park / 495_Norwood Central_2,CR-Franklin,1,Norwood Central - South Station,,4,20004199,CR-Saturday-Fall-20-1702-ForgeParkNorwoodCentral2
 CR-Franklin-692d0a57-1_Forge Park / 495_Walpole_2,CR-Franklin,1,Walpole - South Station,,4,20004199,CR-Saturday-Fall-20-1702-ForgeParkWalpole2
 CR-Greenbush-443280ea-0,CR-Greenbush,0,South Station - Greenbush,,1,20005000,CR-Weekday-Fall-20-075
 CR-Greenbush-54fedb61-0,CR-Greenbush,0,South Station - Greenbush,,2,20005003,CR-Weekday-Fall-20-085
@@ -164,7 +145,6 @@ CR-Haverhill-dbdebb13-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,
 CR-Haverhill-9b05ee8f-1,CR-Haverhill,1,Reading - North Station,,2,20006104,CR-Weekday-Fall-20-292
 CR-Haverhill-1ff810ab-1,CR-Haverhill,1,Haverhill - North Station via Anderson/Woburn,,3,20006106,CR-Weekday-Fall-20-206
 CR-Haverhill-e4fcf5f2-1,CR-Haverhill,1,Haverhill - North Station,,3,20006107,CR-Weekday-Fall-20-222
-CR-Haverhill-acc75519-1,CR-Haverhill,1,Haverhill - North Station via Reading,,3,20006109,CR-Weekday-Summer-20-224
 CR-Kingston-02cd605a-0,CR-Kingston,0,South Station - Kingston,,1,20007000,CR-Weekday-Fall-20-047
 CR-Kingston-5000448d-0,CR-Kingston,0,South Station - Plymouth,,1,20007001,CR-Weekday-Fall-20-061
 CR-Kingston-34e26ad8-0,CR-Kingston,0,South Station - Kingston,,2,20007004,CR-Weekday-Fall-20-041
@@ -174,8 +154,6 @@ CR-Kingston-b3553334-0,CR-Kingston,0,South Station - Plymouth via Kingston,,3,20
 CR-Kingston-e3736638-0,CR-Kingston,0,South Station - Kingston,,3,20007012,CR-Weekday-Fall-20-045
 CR-Kingston-b65d38b0-0,CR-Kingston,0,South Station - Kingston via Plymouth,,3,20007013,CR-Sunday-Fall-20-2051
 CR-Kingston-01f9eb04-0,CR-Kingston,0,South Station - Plymouth via Kingston,,3,20007015,CR-Sunday-Fall-20-2055
-CR-Kingston-0f836f1a-0,CR-Kingston,0,South Station - Plymouth via Kingston,,3,20007017,CR-Weekday-Summer-20-065
-CR-Kingston-2ac3d416-0,CR-Kingston,0,South Station - Kingston via Plymouth,,3,20007018,CR-Weekday-Summer-20-061
 CR-Kingston-fa4e1bac-1,CR-Kingston,1,Kingston - South Station,,1,20007100,CR-Weekday-Fall-20-040
 CR-Kingston-5ff480c8-1,CR-Kingston,1,Plymouth - South Station,,1,20007101,CR-Weekday-Fall-20-064
 CR-Kingston-999313d2-1,CR-Kingston,1,Kingston - South Station,,2,20007105,CR-Weekday-Fall-20-042
@@ -184,8 +162,6 @@ CR-Kingston-b1966d18-1,CR-Kingston,1,Plymouth - South Station,,3,20007112,CR-Wee
 CR-Kingston-97062ead-1,CR-Kingston,1,Kingston - South Station,,3,20007113,CR-Sunday-Fall-20-2032
 CR-Kingston-effc3cee-1,CR-Kingston,1,Plymouth - South Station via Kingston,,3,20007115,CR-Sunday-Fall-20-2052
 CR-Kingston-0f31cf0a-1,CR-Kingston,1,Kingston - South Station via Plymouth,,3,20007117,CR-Sunday-Fall-20-2056
-CR-Kingston-7ae75978-1,CR-Kingston,1,Kingston - South Station,,3,20007119,CR-Weekday-Summer-20-032
-CR-Kingston-85fb9194-1,CR-Kingston,1,Plymouth - South Station via Kingston,,3,20007120,CR-Weekday-Summer-20-060
 CR-Lowell-78873e5a-0,CR-Lowell,0,North Station - Lowell,,1,20008000,CR-Weekday-Fall-20-301
 CR-Lowell-7eab3662-0,CR-Lowell,0,North Station - Lowell,,2,20008004,CR-Weekday-Fall-20-305
 CR-Lowell-a554598a-0,CR-Lowell,0,North Station - Lowell,,2,20008006,CR-Weekday-Fall-20-303
@@ -198,55 +174,40 @@ CR-Middleborough-98c26850-0,CR-Middleborough,0,South Station - Middleborough/Lak
 CR-Middleborough-ff21eea0-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,2,20009003,CR-Weekday-Fall-20-019
 CR-Middleborough-33775350-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,2,20009006,CR-Weekday-Fall-20-003
 CR-Middleborough-ac5e0e44-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,3,20009009,CR-Weekday-Fall-20-029
-CR-Middleborough-250ecf36-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,3,20009012,CR-Weekday-Summer-20-007
 CR-Middleborough-394fa25a-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,20009100,CR-Weekday-Fall-20-014
 CR-Middleborough-6db595cb-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,2,20009103,CR-Weekday-Fall-20-004
 CR-Middleborough-93c2135f-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,2,20009107,CR-Weekday-Fall-20-012
 CR-Middleborough-b83afe4a-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,3,20009110,CR-Weekday-Fall-20-002
 CR-Middleborough-5a92bb74-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,3,20009113,CR-Sunday-Fall-20-2002
-CR-Middleborough-a3dd3956-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,3,20009115,CR-Weekday-Summer-20-004
 CR-Needham-f17afee1-0,CR-Needham,0,South Station - Needham Heights,,1,20010000,CR-Weekday-Fall-20-601
 CR-Needham-3f07e21a-0,CR-Needham,0,South Station - Needham Heights,,3,20010004,CR-Weekday-Fall-20-603
-CR-Needham-1c32d970-0,CR-Needham,0,South Station - Needham Heights,,3,20010005,CR-Weekday-Summer-20-7603
-CR-Needham-578d31e4-0,CR-Needham,0,South Station - Needham Heights,,3,20010006,CR-Weekday-Summer-20-605
 CR-Needham-8ccb3032-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,CR-Weekday-Fall-20-600
 CR-Needham-55e48a5d-1,CR-Needham,1,Needham Heights - South Station,,2,20010104,CR-Weekday-Fall-20-616
 CR-Needham-4f8310b0-1,CR-Needham,1,Needham Heights - South Station,,3,20010106,CR-Weekday-Fall-20-624
 CR-Needham-d75ab391-1,CR-Needham,1,Needham Heights - South Station,,3,20010107,CR-Saturday-Fall-20-1618
-CR-Needham-d4e26134-1,CR-Needham,1,Needham Heights - South Station,,3,20010109,CR-Weekday-Summer-20-618
-CR-Needham-f107c12e-1,CR-Needham,1,Needham Heights - South Station,,3,20010110,CR-Weekday-Summer-20-7620
 CR-Newburyport-801f0591-0,CR-Newburyport,0,North Station - Newburyport,,1,20011000,CR-Weekday-Fall-20-145-MRRockport
-CR-Newburyport-0d0a9699-0,CR-Newburyport,0,North Station - Rockport,,1,20011001,CR-Weekday-Summer-20-105
+CR-Newburyport-73691b1b-0,CR-Newburyport,0,North Station - Manchester,,1,20011001,CR-Weekday-Fall-20-107-MRRockport
 CR-Newburyport-244c556f-0,CR-Newburyport,0,North Station - Beverly,,2,20011002,CR-Weekday-Fall-20-187-MRRockport
-CR-Newburyport-73691b1b-0,CR-Newburyport,0,North Station - Manchester,,2,20011006,CR-Weekday-Fall-20-107-MRRockport
-CR-Newburyport-2c584948-0,CR-Newburyport,0,North Station - Newburyport,,2,20011009,CR-Weekday-Fall-20-141-MRRockport
-CR-Newburyport-7dfa086f-0,CR-Newburyport,0,North Station - Manchester,,2,20011012,CR-Weekday-Fall-20-101-MRRockport
-CR-Newburyport-7b2e568b-0,CR-Newburyport,0,North Station - Manchester,,3,20011014,CR-Weekday-Fall-20-117-MRRockport
-CR-Newburyport-d1f5bcd1-0,CR-Newburyport,0,North Station - Newburyport,,3,20011015,CR-Weekday-Fall-20-157-MRRockport
-CR-Newburyport-0261ede7-0,CR-Newburyport,0,North Station - Beverly,,3,20011016,CR-Weekday-Fall-20-181-MRRockport
-CR-Newburyport-7d774217-0,CR-Newburyport,0,North Station - West Gloucester,,3,20011018,CR-Weekday-Fall-20-119-MRRockport
-CR-Newburyport-be6b010c-0,CR-Newburyport,0,North Station - Beverly,,3,20011019,CR-Weekday-Fall-20-183-MRRockport
-CR-Newburyport-d25cd73b-0,CR-Newburyport,0,North Station - Manchester,,3,20011020,CR-Weekday-Fall-20-121-MRRockport
-CR-Newburyport-33427918-0,CR-Newburyport,0,Salem - Newburyport,,3,20011021,CR-Weekday-Fall-20-171-MRRockport
-CR-Newburyport-87054f37-0,CR-Newburyport,0,North Station - West Gloucester,,3,20011022,CR-Weekday-Fall-20-125-MRRockport
-CR-Newburyport-00e37a18-0,CR-Newburyport,0,North Station - Rockport,,3,20011023,CR-Weekday-Summer-20-113
-CR-Newburyport-04e84ff6-0,CR-Newburyport,0,North Station - Newburyport,,3,20011024,CR-Weekday-Summer-20-153
-CR-Newburyport-4f18b08d-0,CR-Newburyport,0,North Station - Rockport,,3,20011025,CR-Weekday-Summer-20-103
-CR-Newburyport-85f083cf-0,CR-Newburyport,0,North Station - Rockport,,3,20011026,CR-Weekday-Summer-20-7119
+CR-Newburyport-2c584948-0,CR-Newburyport,0,North Station - Newburyport,,2,20011008,CR-Weekday-Fall-20-141-MRRockport
+CR-Newburyport-7dfa086f-0,CR-Newburyport,0,North Station - Manchester,,2,20011011,CR-Weekday-Fall-20-101-MRRockport
+CR-Newburyport-7b2e568b-0,CR-Newburyport,0,North Station - Manchester,,3,20011013,CR-Weekday-Fall-20-117-MRRockport
+CR-Newburyport-d1f5bcd1-0,CR-Newburyport,0,North Station - Newburyport,,3,20011014,CR-Weekday-Fall-20-157-MRRockport
+CR-Newburyport-0261ede7-0,CR-Newburyport,0,North Station - Beverly,,3,20011015,CR-Weekday-Fall-20-181-MRRockport
+CR-Newburyport-7d774217-0,CR-Newburyport,0,North Station - West Gloucester,,3,20011017,CR-Weekday-Fall-20-119-MRRockport
+CR-Newburyport-be6b010c-0,CR-Newburyport,0,North Station - Beverly,,3,20011018,CR-Weekday-Fall-20-183-MRRockport
+CR-Newburyport-d25cd73b-0,CR-Newburyport,0,North Station - Manchester,,3,20011019,CR-Weekday-Fall-20-121-MRRockport
+CR-Newburyport-33427918-0,CR-Newburyport,0,Salem - Newburyport,,3,20011020,CR-Weekday-Fall-20-171-MRRockport
+CR-Newburyport-87054f37-0,CR-Newburyport,0,North Station - West Gloucester,,3,20011021,CR-Weekday-Fall-20-125-MRRockport
 CR-Newburyport-0746071c-1,CR-Newburyport,1,Newburyport - North Station,,1,20011100,CR-Weekday-Fall-20-150-MRRockport
-CR-Newburyport-cba33080-1,CR-Newburyport,1,Rockport - North Station,,1,20011101,CR-Weekday-Summer-20-108
+CR-Newburyport-dd15e2a9-1,CR-Newburyport,1,West Gloucester - North Station,,1,20011101,CR-Weekday-Fall-20-110-MRRockport
 CR-Newburyport-4e22771d-1,CR-Newburyport,1,Beverly - North Station,,2,20011105,CR-Weekday-Fall-20-182-MRRockport
-CR-Newburyport-dd15e2a9-1,CR-Newburyport,1,West Gloucester - North Station,,2,20011107,CR-Weekday-Fall-20-110-MRRockport
-CR-Newburyport-b2db7a26-1,CR-Newburyport,1,Newburyport - North Station,,2,20011110,CR-Weekday-Fall-20-140-MRRockport
-CR-Newburyport-01fdebba-1,CR-Newburyport,1,West Gloucester - North Station,,2,20011113,CR-Weekday-Fall-20-100-MRRockport
-CR-Newburyport-a9e8de49-1,CR-Newburyport,1,Beverly - North Station,,3,20011115,CR-Weekday-Fall-20-184-MRRockport
-CR-Newburyport-71869efc-1,CR-Newburyport,1,Newburyport - North Station,,3,20011116,CR-Weekday-Fall-20-144-MRRockport
-CR-Newburyport-cada9e7f-1,CR-Newburyport,1,West Gloucester - North Station,,3,20011118,CR-Weekday-Fall-20-104-MRRockport
-CR-Newburyport-b50cbecb-1,CR-Newburyport,1,West Gloucester - North Station,,3,20011119,CR-Weekday-Fall-20-120-MRRockport
-CR-Newburyport-24f7da53-1,CR-Newburyport,1,West Gloucester - North Station,,3,20011120,CR-Weekday-Fall-20-102-MRRockport
-CR-Newburyport-2e76e811-1,CR-Newburyport,1,Rockport - North Station,,3,20011121,CR-Weekday-Summer-20-100
-CR-Newburyport-613e5434-1,CR-Newburyport,1,Newburyport - North Station,,3,20011122,CR-Weekday-Summer-20-7174
-CR-Newburyport-b1103993-1,CR-Newburyport,1,Rockport - North Station,,3,20011123,CR-Weekday-Summer-20-7104
+CR-Newburyport-b2db7a26-1,CR-Newburyport,1,Newburyport - North Station,,2,20011109,CR-Weekday-Fall-20-140-MRRockport
+CR-Newburyport-01fdebba-1,CR-Newburyport,1,West Gloucester - North Station,,2,20011112,CR-Weekday-Fall-20-100-MRRockport
+CR-Newburyport-a9e8de49-1,CR-Newburyport,1,Beverly - North Station,,3,20011114,CR-Weekday-Fall-20-184-MRRockport
+CR-Newburyport-71869efc-1,CR-Newburyport,1,Newburyport - North Station,,3,20011115,CR-Weekday-Fall-20-144-MRRockport
+CR-Newburyport-cada9e7f-1,CR-Newburyport,1,West Gloucester - North Station,,3,20011117,CR-Weekday-Fall-20-104-MRRockport
+CR-Newburyport-b50cbecb-1,CR-Newburyport,1,West Gloucester - North Station,,3,20011118,CR-Weekday-Fall-20-120-MRRockport
+CR-Newburyport-24f7da53-1,CR-Newburyport,1,West Gloucester - North Station,,3,20011119,CR-Weekday-Fall-20-102-MRRockport
 CR-Providence-30433cfb-0,CR-Providence,0,South Station - Stoughton,,1,20012000,CR-Weekday-Fall-20-863
 CR-Providence-0d6f15ac-0,CR-Providence,0,South Station - Wickford Junction,,1,20012001,CR-Weekday-Fall-20-805
 CR-Providence-dcbfc839-0,CR-Providence,0,South Station - Stoughton,,2,20012004,CR-Weekday-Fall-20-869
@@ -258,8 +219,6 @@ CR-Providence-67882fb3-0,CR-Providence,0,South Station - Wickford Junction,,3,20
 CR-Providence-a3c7ddc8-0,CR-Providence,0,Providence - Wickford Junction,,3,20012022,CR-Weekday-Fall-20-8801
 CR-Providence-a9953c83-0,CR-Providence,0,South Station - Providence,,3,20012025,CR-Weekday-Fall-20-827
 CR-Providence-d8296c75-0,CR-Providence,0,South Station - Wickford Junction,,3,20012026,CR-Weekday-Fall-20-825
-CR-Providence-4eac7bc9-0,CR-Providence,0,South Station - Wickford Junction,,3,20012028,CR-Weekday-Summer-20-801
-CR-Providence-6c4fde2c-0,CR-Providence,0,South Station - Stoughton,,3,20012029,CR-Weekday-Summer-20-905
 CR-Providence-85d5a06c-1,CR-Providence,1,Stoughton - South Station,,1,20012100,CR-Weekday-Fall-20-860
 CR-Providence-1c18962a-1,CR-Providence,1,Wickford Junction - South Station,,1,20012101,CR-Weekday-Fall-20-804
 CR-Providence-ebbdd97d-1,CR-Providence,1,Providence - South Station,,2,20012104,CR-Weekday-Fall-20-810
@@ -273,12 +232,6 @@ CR-Providence-b4919d87-1,CR-Providence,1,Wickford Junction - South Station,,3,20
 CR-Providence-e966b595-1,CR-Providence,1,Wickford Junction - South Station,,3,20012121,CR-Weekday-Fall-20-816
 CR-Providence-5f761c4f-1,CR-Providence,1,Providence - South Station,,3,20012123,CR-Weekday-Fall-20-836
 CR-Providence-e68d3c1b-1,CR-Providence,1,Wickford Junction - South Station,,3,20012124,CR-Weekday-Fall-20-800
-CR-Providence-411f2e2c-1,CR-Providence,1,Wickford Junction - South Station,,3,20012125,CR-Weekday-Summer-20-822
-CR-Providence-50b7fcd9-1,CR-Providence,1,Wickford Junction - South Station,,3,20012126,CR-Weekday-Summer-20-7806
-CR-Providence-665f7f3d-1,CR-Providence,1,Stoughton - South Station,,3,20012127,CR-Weekday-Summer-20-914
-CR-Providence-804d6606-1,CR-Providence,1,Wickford Junction - South Station,,3,20012128,CR-Weekday-Summer-20-816
-CR-Providence-9520a632-1,CR-Providence,1,Stoughton - South Station,,3,20012129,CR-Weekday-Summer-20-908
-CR-Providence-e26e8bbf-1,CR-Providence,1,Stoughton - South Station,,3,20012130,CR-Weekday-Summer-20-7904
 Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-0630-Long-Weekday
 Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,30001100,Boat-F4-0645-Charlestown-Weekday
 Boat-F1-1-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,30002001,Boat-F1-0650-Rowes-WeekdayLimited
@@ -349,8 +302,8 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 16-5-1,16,1,Forest Hills - McCormack Housing via South Bay Center,,2,50160100,45682526
 16-9-1,16,1,Forest Hills Station - Andrew Station via South Bay Center,,2,50160102,45682527
 16-2-1,16,1,Forest Hills Station - Harbor Point,Weekdays only,2,50160105,45682513
-16-3-1,16,1,Forest Hills Station - Andrew Station,,2,50160106,45682514
-16-8-1,16,1,Forest Hills Station - Harbor Point via South Bay Center,Weekdays only,2,50160110,45682515
+16-8-1,16,1,Forest Hills Station - Harbor Point via South Bay Center,Weekdays only,2,50160106,45682515
+16-3-1,16,1,Forest Hills Station - Andrew Station,,2,50160107,45682514
 17-_-0,17,0,Andrew Station - Fields Corner Station,,1,50170000,45682073
 17-_-1,17,1,Fields Corner Station - Andrew Station,,1,50170100,45682074
 18-_-0,18,0,Andrew Station - Ashmont Station,,1,50180000,45682085
@@ -452,8 +405,8 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 39-7-0,39,0,Huntington Ave & Longwood Ave - Forest Hills Station,Weekday middays only,3,50390004,45523718_1
 39-_-0,39,0,Haymarket Station - Cleary Square,Early mornings only,3,50390006,45522699
 39-3-1,39,1,Forest Hills Station - Back Bay Station,,1,50390100,45963919
-39-7-1,39,1,Forest Hills Station - Huntington Ave & Longwood Ave,Weekday mornings only,3,50390104,45973681
-39-_-1,39,1,Cleary Square - Haymarket Station,Early mornings only,3,50390106,45522698
+39-_-1,39,1,Cleary Square - Haymarket Station,Early mornings only,3,50390104,45522698
+39-7-1,39,1,Forest Hills Station - Huntington Ave & Longwood Ave,Weekday mornings only,3,50390106,45975747
 40-_-0,40,0,Forest Hills Station - Georgetowne via Alwin St (PM Route),,1,50400000,45523656
 40-2-0,40,0,Forest Hills Station - Georgetowne (AM Route),Weekdays only,2,50400003,45523648
 40-_-1,40,1,Georgetowne - Forest Hills Station (PM Route),,1,50400100,45523658
@@ -964,12 +917,12 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 602-1-1,602,1,North Station - Lechmere,,1,60200100,46001157
 Shuttle-AndersonWoburnLowell-0-0,Shuttle-AndersonWoburnLowell,0,Anderson/Woburn - Lowell,,4,60223099,CR-Saturday-Fall-20-1301-AndersonLowell1
 Shuttle-AndersonWoburnLowell-0-1,Shuttle-AndersonWoburnLowell,1,Lowell - Anderson/Woburn,,4,60223199,CR-Saturday-Fall-20-1300-AndersonLowell1
-Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,4,61000099,45295508-20:45-BraintreeQuincyCenter1
-Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,4,61000199,45295539-20:45-BraintreeQuincyCenter1
 Shuttle-BrooklineHillsKenmore-0-0,Shuttle-BrooklineHillsKenmore,0,Kenmore - Brookline Hills,,4,61100099,45804940-20:45-BrooklineHillsKenmore1
 Shuttle-BrooklineHillsKenmore-0-1,Shuttle-BrooklineHillsKenmore,1,Brookline Hills - Kenmore,,4,61100199,45804948-20:45-BrooklineHillsKenmore1
 Shuttle-FenwayNewtonHighlands-0-0,Shuttle-FenwayNewtonHighlands,0,Fenway - Newton Highlands,,4,61490099,45804940-20:45-FenwayNewtonHighlands1
 Shuttle-FenwayNewtonHighlands-0-1,Shuttle-FenwayNewtonHighlands,1,Newton Highlands - Fenway,,4,61490199,45804948-20:45-FenwayNewtonHighlands1
+Shuttle-ForgeParkNorwoodCentral-0-0,Shuttle-ForgeParkNorwoodCentral,0,Norwood Central - Forge Park/495,,4,61740099,CR-Saturday-Fall-20-1703-ForgeParkNorwoodCentral1
+Shuttle-ForgeParkNorwoodCentral-0-1,Shuttle-ForgeParkNorwoodCentral,1,Forge Park/495 - Norwood Central,,4,61740199,CR-Saturday-Fall-20-1702-ForgeParkNorwoodCentral1
 Shuttle-ForgeParkWalpole-0-0,Shuttle-ForgeParkWalpole,0,Walpole - Forge Park/495,,4,61770099,CR-Saturday-Fall-20-1703-ForgeParkWalpole1
 Shuttle-ForgeParkWalpole-0-1,Shuttle-ForgeParkWalpole,1,Forge Park/495 - Walpole,,4,61770199,CR-Saturday-Fall-20-1702-ForgeParkWalpole1
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-Weekday-Fall-20-101-MRRockportB1
@@ -982,5 +935,5 @@ Shuttle-NewtonHighlandsStMarysKenmore-0-0,Shuttle-NewtonHighlandsStMarysKenmore,
 Shuttle-NewtonHighlandsStMarysKenmore-0-1,Shuttle-NewtonHighlandsStMarysKenmore,1,Newton Highlands via Saint Mary's Street - Kenmore via Saint Mary's Street,,4,62110199,45803746-20:45-NwnHiStMKnrCNwnHiStMKnrD1
 Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,45804940-20:45-ReservoirRiverside1
 Shuttle-ReservoirRiverside-0-1,Shuttle-ReservoirRiverside,1,Riverside - Reservoir,,4,62400199,45804948-20:45-ReservoirRiverside1
-Shuttle-RockportWestGloucester-0-0,Shuttle-RockportWestGloucester,0,West Gloucester - Rockport,,4,62410099,CR-Weekday-Fall-20-119-MRRockportB1
-Shuttle-RockportWestGloucester-0-1,Shuttle-RockportWestGloucester,1,Rockport - West Gloucester,,4,62410199,CR-Weekday-Fall-20-100-MRRockportB1
+Shuttle-RockportWestGloucester-0-0,Shuttle-RockportWestGloucester,0,West Gloucester - Rockport,,1,62410099,CR-Weekday-Fall-20-119-MRRockportB1
+Shuttle-RockportWestGloucester-0-1,Shuttle-RockportWestGloucester,1,Rockport - West Gloucester,,1,62410199,CR-Weekday-Fall-20-100-MRRockportB1
