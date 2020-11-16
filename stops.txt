@@ -5242,7 +5242,8 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 6649,6649,Lynnway @ Surfside Rd,,,,42.457755,-70.937640,LocalBus,,https://www.mbta.com/stops/6649,,0,,1,Lynn,Lynnway,Surfside Road,3
 6650,6650,Lynnway @ Newhall St,,,,42.458466,-70.939513,LocalBus,,https://www.mbta.com/stops/6650,,0,,1,Lynn,Lynnway,Newhall Street,3
 66500,66500,American Legion Hwy @ Walk Hill St,,,,42.287713,-71.106444,LocalBus,,https://www.mbta.com/stops/66500,,0,,0,Boston,American Legion Highway,Walk Hill Street,3
-6669,6669,Mt Vernon @ Exchange St,,,,42.463686,-70.943050,LocalBus,,https://www.mbta.com/stops/6669,,0,,1,Lynn,Mount Vernon Street,Spring Street,3
+6669,6669,Mt Vernon @ Exchange St,,,,42.463686,-70.943050,,,https://www.mbta.com/stops/6669,,0,,1,Lynn,Mount Vernon Street,Spring Street,
+6670,6670,Buffum St @ 4 Freeman Square,,,,42.465453,-70.943537,LocalBus,,https://www.mbta.com/stops/6670,,0,,0,Lynn,Buffum Street,Blake Street,3
 66721,66721,Oxford St @ Washington St,,,,42.463901,-70.946636,LocalBus,,https://www.mbta.com/stops/66721,,0,,1,Lynn,Oxford Street,Washington Street,3
 66731,66731,Oxford St @ Market St,,,,42.462577,-70.948082,LocalBus,,https://www.mbta.com/stops/66731,,0,,0,Lynn,Oxford Street,Market Street,3
 66734,66734,O'Callaghan Way opp Walnut Pk,,,,42.471556,-70.986077,LocalBus,,https://www.mbta.com/stops/66734,,0,,1,Lynn,O'Callaghan Way,Walnut Park,3
@@ -5420,7 +5421,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 7223,7223,Eastern Ave @ Sheldon St,,,,42.475177,-70.929290,LocalBus,,https://www.mbta.com/stops/7223,,0,,0,Lynn,Eastern Avenue,Sheldon Street,3
 7233,7233,Union St @ Union Ct,,,,42.467951,-70.939210,LocalBus,,https://www.mbta.com/stops/7233,,0,,1,Lynn,Union Street,Union Court,3
 7234,7234,Union St @ Joyce St,,,,42.467024,-70.941538,LocalBus,,https://www.mbta.com/stops/7234,,0,,0,Lynn,Union Street,Smith Street,3
-7236,7236,Silsbee St @ Union St,,,,42.464978,-70.942316,LocalBus,,https://www.mbta.com/stops/7236,,0,,1,Lynn,Silsbee Street,Ellis Street,3
+7236,7236,Silsbee St @ Union St,,,,42.464978,-70.942316,,,https://www.mbta.com/stops/7236,,0,,1,Lynn,Silsbee Street,Ellis Street,
 7240,7240,Washington St @ Essex St,,,,42.465888,-70.949959,LocalBus,,https://www.mbta.com/stops/7240,,0,,0,Lynn,Washington Street,Essex Street,3
 7242,7242,Washington St @ Beacon Hill Ave,,,,42.467861,-70.953569,LocalBus,,https://www.mbta.com/stops/7242,,0,,0,Lynn,Washington Street,Beacon Hill Avenue,3
 7245,7245,Washington St @ Western Ave,,,,42.469963,-70.957094,LocalBus,,https://www.mbta.com/stops/7245,,0,,0,Lynn,Washington Street,,3
@@ -6945,7 +6946,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 94321,94321,Neptune Blvd @ Blossom St,,,,42.460796,-70.954323,LocalBus,,https://www.mbta.com/stops/94321,,0,,0,Lynn,Neptune Boulevard,Blossom Street,3
 94322,94322,Pleasant @ Tremont St,,,,42.461961,-70.951348,LocalBus,,https://www.mbta.com/stops/94322,,0,,1,Lynn,Pleasant Street,Tremont Street,3
 94323,94323,Tremont St opp St Mary's High School,,,,42.462859,-70.950143,LocalBus,,https://www.mbta.com/stops/94323,,0,,1,Lynn,Tremont Street,Market Street,3
-94324,94324,Liberty St @ Barker Ct,,,,42.465457,-70.947245,LocalBus,,https://www.mbta.com/stops/94324,,0,,0,Lynn,Liberty Street,Barker Court,3
+94324,94324,Liberty St @ Barker Ct,,,,42.465457,-70.947245,,,https://www.mbta.com/stops/94324,,0,,0,Lynn,Liberty Street,Barker Court,
 94325,94325,Neptune Blvd @ Commercial St,,,,42.459050,-70.959437,LocalBus,,https://www.mbta.com/stops/94325,,0,,1,Lynn,Neptune Boulevard,Commercial Street,3
 9434,9434,Park Dr @ Fenway Sta,,,,42.345304,-71.104558,LocalBus,,https://www.mbta.com/stops/9434,,0,,1,Boston,Park Drive,,3
 9441,9441,Brookline Ave @ Boylston St,,,,42.343419,-71.102432,LocalBus,,https://www.mbta.com/stops/9441,,0,,0,Boston,Brookline Avenue,Park Drive,3
@@ -9771,7 +9772,7 @@ place-wlsta,,Wollaston,,,,42.266514,-71.020337,,"90 Woodbine St, Quincy, MA 0217
 70100,70100,Wollaston,Wollaston - Red Line - Alewife,,Alewife,42.266514,-71.020337,RapidTransit,,https://www.mbta.com/stops/place-wlsta,level_1_platform,0,place-wlsta,1,Quincy,,,1
 door-wlsta-beale,,"Wollaston - Beale Street, drop-off/pick-up","Wollaston - Beale Street, drop-off/pick-up",,,42.266639,-71.019948,,,,level_ground,2,place-wlsta,1,Quincy,,,
 door-wlsta-newpnorth,,Wollaston - Newport Ave (Stairs),Wollaston - Newport Ave (Stairs),,,42.266554,-71.020523,,,,level_ground,2,place-wlsta,2,Quincy,,,
-door-wlsta-newpsouth,,Wollaston - Newport Ave (Ramp),Wollaston - Newport Ave (Ramp),,,42.266551,-71.020303,,,,level_ground,2,place-wlsta,1,Quincy,,,
+door-wlsta-newpsouth,,Wollaston - Newport Ave (Ramp),Wollaston - Newport Ave (Ramp),,,42.266222,-71.020167,,,,level_ground,2,place-wlsta,1,Quincy,,,
 door-wlsta-parking,,"Wollaston - Parking, drop-off/pick-up","Wollaston - Parking, drop-off/pick-up",,,42.266783,-71.020104,,,,level_ground,2,place-wlsta,1,Quincy,,,
 node-448-bridge,,Wollaston,Wollaston - Top of escalator from parking lobby to bridge,,,,,,,,level_2_bridge,3,place-wlsta,1,Quincy,,,
 node-448-lobby,,Wollaston,Wollaston - Bottom of escalator from parking lobby to bridge,,,,,,,,level_ground,3,place-wlsta,1,Quincy,,,
