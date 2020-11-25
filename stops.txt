@@ -6661,6 +6661,9 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9069,9069,Salem St @ Revere St,,,,42.437257,-71.025457,LocalBus,,https://www.mbta.com/stops/9069,,0,,1,Malden,Salem Street,Revere Street,3
 907,907,Tremont St @ Pembroke St,,,,42.352946,-71.176810,LocalBus,,https://www.mbta.com/stops/907,,0,,1,Newton,Tremont Street,Playstead Road,3
 9070,9070,Salem St @ Lynn St,,,,42.436065,-71.021736,LocalBus,,https://www.mbta.com/stops/9070,,0,,0,Malden,Salem Street,Lynn Street,3
+9070027,9070027,North Station,North Station - Orange Line Shuttle - N Washington St opp Medford St,,Sullivan Shuttle,42.365460,-71.058239,LocalBus,,https://www.mbta.com/stops/9070027,,0,,1,Boston,,,3
+9070028,9070028,Community College,Community College - Orange Line Shuttle - Rutherford Ave @ Austin St,,Haymarket Shuttle,42.374668,-71.068320,LocalBus,,https://www.mbta.com/stops/9070028,,0,,1,Boston,,,3
+9070029,9070029,Community College,Community College - Orange Line Shuttle - Rutherford Ave @ Austin St,,Sullivan Shuttle,42.374714,-71.067764,LocalBus,,https://www.mbta.com/stops/9070029,,0,,1,Boston,,,3
 9070150,9070150,Kenmore,Kenmore - Green Line Shuttle,,Green Line Shuttle,42.348712,-71.095526,LocalBus,,https://www.mbta.com/stops/9070150,,0,,1,Boston,,,3
 9070151,9070151,Kenmore,Kenmore - Green Line Westbound Shuttle,,Green Line Shuttle,42.349196,-71.095826,LocalBus,,https://www.mbta.com/stops/9070151,,0,,1,Boston,,,3
 9070162,9070162,Woodland,Woodland Station - Green Line Shuttle,,Green Line Shuttle,42.332973,-71.243286,LocalBus,,https://www.mbta.com/stops/9070162,,0,,1,Newton,,,3
@@ -6780,7 +6783,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9170169,9170169,Newton Highlands,Newton Highlands - Green Line Shuttle,,Green Line Shuttle,42.321751,-71.206079,LocalBus,,https://www.mbta.com/stops/9170169,,0,,1,Newton,,,3
 9170170,9170170,Newton Centre,Newton Centre - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.330311,-71.192684,LocalBus,,https://www.mbta.com/stops/9170170,,0,,1,Newton,,,3
 9170171,9170171,Newton Centre,Newton Centre - Green Line Westbound Shuttle,,Riverside Shuttle,42.330412,-71.192966,LocalBus,,https://www.mbta.com/stops/9170171,,0,,1,Newton,,,3
-9170178,9170178,Brookline Hills,Brookline Hills - Green Line Shuttle,,Green Line Shuttle,42.331508,-71.126691,LocalBus,,https://www.mbta.com/stops/9170178,,0,,1,Brookline,,,3
 9171,9171,Riverside Ave @ Pleasant St,,,,42.415712,-71.102573,LocalBus,,https://www.mbta.com/stops/9171,,0,,0,Medford,Riverside Avenue,Pleasant Street,3
 9172,9172,116 Riverside Ave,,,,42.416769,-71.105122,LocalBus,,https://www.mbta.com/stops/9172,,0,,0,Medford,Riverside Avenue,Sables Court,3
 9174,9174,Winthrop St @ Lawrence Rd,,,,42.423885,-71.120863,LocalBus,,https://www.mbta.com/stops/9174,,0,,0,Medford,Winthrop Street,Suffolk Street,3
@@ -7145,11 +7147,9 @@ FB-0148,,Norwood Central,Norwood Central - Commuter Rail,,Commuter Rail,42.18877
 FB-0148-01,,Norwood Central,Norwood Central - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.188775,-71.199665,CR-zone-3,,https://www.mbta.com/stops/place-FB-0148,,0,place-FB-0148,1,Norwood,,,2
 FB-0148-02,,Norwood Central,Norwood Central - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.188775,-71.199665,CR-zone-3,,https://www.mbta.com/stops/place-FB-0148,,0,place-FB-0148,1,Norwood,,,2
 Norwood Central,,Norwood Central,Norwood Central - Commuter Rail,,Commuter Rail,42.188775,-71.199665,CR-zone-3,,https://www.mbta.com/stops/place-FB-0148,,0,place-FB-0148,1,Norwood,,,2
-Norwood Central-S,,Norwood Central,Norwood Central - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.188775,-71.199665,LocalBus,,https://www.mbta.com/stops/place-FB-0148,,0,place-FB-0148,1,Norwood,,,3
 place-FB-0166,,Windsor Gardens,,,,42.172127,-71.219366,CR-zone-4,"Buckminster Dr and Engamore Ln, Norwood, MA 02062",https://www.mbta.com/stops/place-FB-0166,,1,,2,Norwood,,,
 FB-0166-S,,Windsor Gardens,Windsor Gardens - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.172127,-71.219366,CR-zone-4,,https://www.mbta.com/stops/place-FB-0166,,0,place-FB-0166,2,Norwood,,,2
 Windsor Gardens,,Windsor Gardens,Windsor Gardens - Commuter Rail,,Commuter Rail,42.172127,-71.219366,CR-zone-4,,https://www.mbta.com/stops/place-FB-0166,,0,place-FB-0166,2,Norwood,,,2
-Windsor Gardens-S,,Windsor Gardens,Windsor Gardens - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.172127,-71.219366,LocalBus,,https://www.mbta.com/stops/place-FB-0166,,0,place-FB-0166,1,Norwood,,,3
 place-FB-0177,,Plimptonville,,,,42.159123,-71.236125,CR-zone-4,"185 Plimpton St, Walpole, MA 02081",https://www.mbta.com/stops/place-FB-0177,,1,,2,Walpole,,,
 FB-0177-S,,Plimptonville,Plimptonville - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.159123,-71.236125,CR-zone-4,,https://www.mbta.com/stops/place-FB-0177,,0,place-FB-0177,2,Walpole,,,2
 Plimptonville,,Plimptonville,Plimptonville - Commuter Rail,,Commuter Rail,42.159123,-71.236125,CR-zone-4,,https://www.mbta.com/stops/place-FB-0177,,0,place-FB-0177,2,Walpole,,,2

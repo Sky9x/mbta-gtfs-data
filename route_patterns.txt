@@ -8,10 +8,14 @@ Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,45616685
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,45324958
 Orange-5-0,Orange,0,Wellington - Forest Hills,Weekdays only,3,10020003,45616588
 Orange-0-0,Orange,0,Wellington - Community College,,4,10020099,45616433-20:45-CCWellShuttTrain1
+Orange-3-0_70030_70016_0,Orange,0,Oak Grove - Sullivan Square,,4,10020099,45510570-HaySullTufts0
+Orange-3-0_70030_70016_2,Orange,0,Tufts Medical Center - Forest Hills,,4,10020099,45510570-HaySullTufts2
 Orange-3-0_70032_70028_0,Orange,0,Oak Grove - Wellington,,4,10020099,45616433-20:45-CCWellShuttTrain0
 Orange-3-0_70032_70028_2,Orange,0,Community College - Forest Hills,,4,10020099,45616433-20:45-CCWellShuttTrain2
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,45324956
 Orange-0-1,Orange,1,Community College - Wellington,,4,10020199,45616558-20:45-CCWellShuttTrain1
+Orange-3-1_70017_70031_0,Orange,1,Forest Hills - Tufts Medical Center,,4,10020199,45510571-HaySullTufts0
+Orange-3-1_70017_70031_2,Orange,1,Sullivan Square - Oak Grove,,4,10020199,45510571-HaySullTufts2
 Orange-3-1_70029_70033_0,Orange,1,Forest Hills - Community College,,4,10020199,45616558-20:45-CCWellShuttTrain0
 Orange-3-1_70029_70033_2,Orange,1,Wellington - Oak Grove,,4,10020199,45616558-20:45-CCWellShuttTrain2
 Green-B-3-0,Green-B,0,Park Street - Boston College,,1,10032000,45811046
@@ -29,14 +33,10 @@ Green-D-3-0,Green-D,0,North Station - Reservoir,Evenings only,3,10034004,4580560
 Green-D-1-0,Green-D,0,North Station - Riverside,Weekday early mornings only,3,10034006,45803757
 Green-D-2-0_70151_70169_0,Green-D,0,Government Center - Kenmore,,4,10034099,45804940-20:45-NwnHiStMKnrCNwnHiStMKnrD0
 Green-D-2-0_70151_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,45804940-20:45-NwnHiStMKnrCNwnHiStMKnrD2
-Green-D-2-0_70151_70179_0,Green-D,0,Government Center - Kenmore,,4,10034099,45804940-20:45-BrooklineHillsKenmore0
-Green-D-2-0_70151_70179_2,Green-D,0,Brookline Hills - Riverside,,4,10034099,45804940-20:45-BrooklineHillsKenmore2
 Green-D-2-0_70169_70161_0,Green-D,0,Government Center - Newton Highlands,,4,10034099,45804940-20:45-NewtonHighlandsRiverside0
 Green-D-2-0_70175_70161_0,Green-D,0,Government Center - Reservoir,,4,10034099,45804940-20:45-ReservoirRiverside0
 Green-D-2-0_70187_70169_0,Green-D,0,Government Center - Fenway,,4,10034099,45804940-20:45-FenwayNewtonHighlands0
 Green-D-2-0_70187_70169_2,Green-D,0,Newton Highlands - Riverside,,4,10034099,45804940-20:45-FenwayNewtonHighlands2
-Green-D-3-0_70151_70179_0,Green-D,0,North Station - Kenmore,,4,10034099,45805609-20:45-BrooklineHillsKenmore0
-Green-D-3-0_70151_70179_2,Green-D,0,Brookline Hills - Reservoir,,4,10034099,45805609-20:45-BrooklineHillsKenmore2
 Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034100,45811125
 Green-D-3-1,Green-D,1,Reservoir - North Station,,3,10034104,45805593
 Green-D-1-1,Green-D,1,Riverside - North Station,Weekday early mornings only,3,10034106,45803758
@@ -46,30 +46,28 @@ Green-D-2-1_70168_70150_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,458
 Green-D-2-1_70168_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,45804948-20:45-NwnHiStMKnrCNwnHiStMKnrD2
 Green-D-2-1_70168_70186_0,Green-D,1,Riverside - Newton Highlands,,4,10034199,45804948-20:45-FenwayNewtonHighlands0
 Green-D-2-1_70168_70186_2,Green-D,1,Fenway - Government Center,,4,10034199,45804948-20:45-FenwayNewtonHighlands2
-Green-D-2-1_70178_70150_0,Green-D,1,Riverside - Brookline Hills,,4,10034199,45804948-20:45-BrooklineHillsKenmore0
-Green-D-2-1_70178_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,45804948-20:45-BrooklineHillsKenmore2
 Green-E-1-0,Green-E,0,North Station - Heath Street,,1,10035000,45811113
 Green-E-1-1,Green-E,1,Heath Street - North Station,,1,10035100,45811116
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,45741334
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040003,45741560
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,45741386
-741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,45964688
-741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051100,45964689
-741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Late nights only,3,10051104,45964893
-742-1-0,742,0,South Station - Drydock Ave (AM Route),,1,10052004,45965370
-742-_-0,742,0,South Station - Drydock Ave (PM Route),,2,10052005,45965290
-742-_-1,742,1,Drydock Ave - South Station (PM Route),,1,10052100,45965299
-742-1-1,742,1,Drydock Ave - South Station (AM Route),,1,10052104,45965371
-742-3-1,742,1,Drydock Ave - South Station (PM - Omits 88 Black Falcon Ave),Evenings only,3,10052108,45965288
-743-_-0,743,0,South Station - Chelsea Station,,1,10053000,45965564
-743-_-1,743,1,Chelsea Station - South Station,,1,10053100,45965571
-743-1-1,743,1,Chelsea Station - South Station (Surface Route),Late nights only,3,10053104,45965803
-751-_-0,751,0,South Station - Nubian Station,,1,10055000,45963803
-751-_-1,751,1,Nubian Station - South Station,,1,10055100,45963802
-749-_-0,749,0,Temple Place - Nubian Station,,1,10056000,45963767
-749-_-1,749,1,Nubian Station - Temple Place,,1,10056100,45963768
-746-_-0,746,0,South Station - Silver Line Way,,1,10057000,45963901
-746-_-1,746,1,Silver Line Way - South Station,,1,10057100,45963900
+741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,45975756
+741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051100,45975757
+741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Late nights only,3,10051104,45976022
+742-1-0,742,0,South Station - Drydock Ave (AM Route),,1,10052004,45976457
+742-_-0,742,0,South Station - Drydock Ave (PM Route),,2,10052005,45976299
+742-_-1,742,1,Drydock Ave - South Station (PM Route),,1,10052100,45976334
+742-1-1,742,1,Drydock Ave - South Station (AM Route),,1,10052104,45976456
+742-3-1,742,1,Drydock Ave - South Station (PM - Omits 88 Black Falcon Ave),Evenings only,3,10052108,45976298
+743-_-0,743,0,South Station - Chelsea Station,,1,10053000,45976576
+743-_-1,743,1,Chelsea Station - South Station,,1,10053100,45976577
+743-1-1,743,1,Chelsea Station - South Station (Surface Route),Late nights only,3,10053104,45976808
+751-_-0,751,0,South Station - Nubian Station,,1,10055000,45974801
+751-_-1,751,1,Nubian Station - South Station,,1,10055100,45974800
+749-_-0,749,0,Temple Place - Nubian Station,,1,10056000,45974764
+749-_-1,749,1,Nubian Station - Temple Place,,1,10056100,45974765
+746-_-0,746,0,South Station - Silver Line Way,,1,10057000,45974899
+746-_-1,746,1,Silver Line Way - South Station,,1,10057100,45974898
 CR-Fairmount-456a6b87-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,20001000,CR-Weekday-Fall-20-905
 CR-Fairmount-3a5f00da-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-Weekday-Fall-20-900
 CR-Fitchburg-0196402e-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-Weekday-Fall-20-403
@@ -114,7 +112,6 @@ CR-Franklin-5e7c40e1-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay
 CR-Franklin-95022bdf-0,CR-Franklin,0,South Station - Norwood Central via Back Bay,,3,20004011,CR-Weekday-Fall-20-753
 CR-Franklin-cfe3886a-0,CR-Franklin,0,South Station - Walpole via Back Bay,,3,20004012,CR-Weekday-Fall-20-743
 CR-Franklin-ddd937d2-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,20004013,CR-Weekday-Fall-20-701
-CR-Franklin-68fb51e7-0_Norwood Central_Forge Park / 495_0,CR-Franklin,0,South Station - Norwood Central,,4,20004099,CR-Saturday-Fall-20-1703-ForgeParkNorwoodCentral0
 CR-Franklin-68fb51e7-0_Walpole_Forge Park / 495_0,CR-Franklin,0,South Station - Walpole,,4,20004099,CR-Saturday-Fall-20-1703-ForgeParkWalpole0
 CR-Franklin-692d0a57-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,20004100,CR-Weekday-Fall-20-700
 CR-Franklin-88d99670-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,2,20004104,CR-Weekday-Fall-20-716
@@ -127,7 +124,6 @@ CR-Franklin-f562bf25-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay
 CR-Franklin-80c13e64-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,20004117,CR-Weekday-Fall-20-702
 CR-Franklin-aca76211-1,CR-Franklin,1,Norwood Central - South Station via Back Bay,,3,20004118,CR-Weekday-Fall-20-754
 CR-Franklin-dc49acf7-1,CR-Franklin,1,Walpole - South Station via Back Bay,,3,20004119,CR-Weekday-Fall-20-740
-CR-Franklin-692d0a57-1_Forge Park / 495_Norwood Central_2,CR-Franklin,1,Norwood Central - South Station,,4,20004199,CR-Saturday-Fall-20-1702-ForgeParkNorwoodCentral2
 CR-Franklin-692d0a57-1_Forge Park / 495_Walpole_2,CR-Franklin,1,Walpole - South Station,,4,20004199,CR-Saturday-Fall-20-1702-ForgeParkWalpole2
 CR-Greenbush-443280ea-0,CR-Greenbush,0,South Station - Greenbush,,1,20005000,CR-Weekday-Fall-20-075
 CR-Greenbush-54fedb61-0,CR-Greenbush,0,South Station - Greenbush,,2,20005003,CR-Weekday-Fall-20-085
@@ -298,7 +294,7 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 16-2-0,16,0,Harbor Point - Forest Hills Station,Weekdays only,2,50160005,45682523
 16-8-0,16,0,Harbor Point - Forest Hills Station via South Bay Center,Weekdays only,2,50160006,45682522
 16-3-0,16,0,Andrew Station - Forest Hills Station,,2,50160007,45682520
-16-7-0,16,0,"Andrew Station - Forest Hills Station, Upper Busway",Weekdays only,3,50160010,45963948
+16-7-0,16,0,"Andrew Station - Forest Hills Station, Upper Busway",Weekdays only,3,50160010,45974946
 16-5-1,16,1,Forest Hills - McCormack Housing via South Bay Center,,2,50160100,45682526
 16-9-1,16,1,Forest Hills Station - Andrew Station via South Bay Center,,2,50160102,45682527
 16-2-1,16,1,Forest Hills Station - Harbor Point,Weekdays only,2,50160105,45682513
@@ -336,10 +332,10 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 26-2-1,26,1,Ashmont Station - Gallivan Blvd via Washington St,,2,50260103,45522829
 27-_-0,27,0,Ashmont Station - Mattapan Station,Weekdays only,1,50270000,45523252
 27-_-1,27,1,Mattapan Station - Ashmont Station,Weekdays only,1,50270100,45523251
-28-_-0,28,0,Ruggles Station - Mattapan Station,,1,50280000,45965031
+28-_-0,28,0,Ruggles Station - Mattapan Station,,1,50280000,45976045
 28-9-0,28,0,Ave Louis Pasteur - Mattapan Station,School days only,3,50280004,45522722
 28-6-0,28,0,Malcolm X Blvd - Mattapan Station (Omits Nubian Station),School days only,3,50280005,45682247
-28-_-1,28,1,Mattapan Station - Ruggles Station,,1,50280100,45965025
+28-_-1,28,1,Mattapan Station - Ruggles Station,,1,50280100,45976039
 28-2-1,28,1,Mattapan Station - Nubian Station,Early mornings only,3,50280104,45682177
 29-5-0,29,0,Jackson Square Station - Mattapan Station,Weekdays only,1,50290000,45522401
 29-1-0,29,0,Jackson Square Station - Mattapan Station via Franklin Field,Weekdays only,2,50290002,45522410
@@ -404,7 +400,7 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 39-3-0,39,0,Back Bay Station - Forest Hills Station,,1,50390000,45523720
 39-7-0,39,0,Huntington Ave & Longwood Ave - Forest Hills Station,Weekday middays only,3,50390004,45523718_1
 39-_-0,39,0,Haymarket Station - Cleary Square,Early mornings only,3,50390006,45522699
-39-3-1,39,1,Forest Hills Station - Back Bay Station,,1,50390100,45963919
+39-3-1,39,1,Forest Hills Station - Back Bay Station,,1,50390100,45974917
 39-_-1,39,1,Cleary Square - Haymarket Station,Early mornings only,3,50390104,45522698
 39-7-1,39,1,Forest Hills Station - Huntington Ave & Longwood Ave,Weekday mornings only,3,50390106,45975747
 40-_-0,40,0,Forest Hills Station - Georgetowne via Alwin St (PM Route),,1,50400000,45523656
@@ -917,18 +913,14 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 602-1-1,602,1,North Station - Lechmere,,1,60200100,46001157
 Shuttle-AndersonWoburnLowell-0-0,Shuttle-AndersonWoburnLowell,0,Anderson/Woburn - Lowell,,4,60223099,CR-Saturday-Fall-20-1301-AndersonLowell1
 Shuttle-AndersonWoburnLowell-0-1,Shuttle-AndersonWoburnLowell,1,Lowell - Anderson/Woburn,,4,60223199,CR-Saturday-Fall-20-1300-AndersonLowell1
-Shuttle-BrooklineHillsKenmore-0-0,Shuttle-BrooklineHillsKenmore,0,Kenmore - Brookline Hills,,4,61100099,45804940-20:45-BrooklineHillsKenmore1
-Shuttle-BrooklineHillsKenmore-0-1,Shuttle-BrooklineHillsKenmore,1,Brookline Hills - Kenmore,,4,61100199,45804948-20:45-BrooklineHillsKenmore1
 Shuttle-FenwayNewtonHighlands-0-0,Shuttle-FenwayNewtonHighlands,0,Fenway - Newton Highlands,,4,61490099,45804940-20:45-FenwayNewtonHighlands1
 Shuttle-FenwayNewtonHighlands-0-1,Shuttle-FenwayNewtonHighlands,1,Newton Highlands - Fenway,,4,61490199,45804948-20:45-FenwayNewtonHighlands1
-Shuttle-ForgeParkNorwoodCentral-0-0,Shuttle-ForgeParkNorwoodCentral,0,Norwood Central - Forge Park/495,,4,61740099,CR-Saturday-Fall-20-1703-ForgeParkNorwoodCentral1
-Shuttle-ForgeParkNorwoodCentral-0-1,Shuttle-ForgeParkNorwoodCentral,1,Forge Park/495 - Norwood Central,,4,61740199,CR-Saturday-Fall-20-1702-ForgeParkNorwoodCentral1
 Shuttle-ForgeParkWalpole-0-0,Shuttle-ForgeParkWalpole,0,Walpole - Forge Park/495,,4,61770099,CR-Saturday-Fall-20-1703-ForgeParkWalpole1
 Shuttle-ForgeParkWalpole-0-1,Shuttle-ForgeParkWalpole,1,Forge Park/495 - Walpole,,4,61770199,CR-Saturday-Fall-20-1702-ForgeParkWalpole1
+Shuttle-HaymarketSullivan-0-0,Shuttle-HaymarketSullivan,0,Sullivan - Haymarket,,4,61975099,45510570-HaySullTufts1
+Shuttle-HaymarketSullivan-0-1,Shuttle-HaymarketSullivan,1,Haymarket - Sullivan,,4,61975199,45510571-HaySullTufts1
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-Weekday-Fall-20-101-MRRockportB1
 Shuttle-ManchesterRockport-0-0,Shuttle-ManchesterRockport,0,Manchester - Rockport,,4,62060099,CR-Weekday-Fall-20-101-MRRockportC1
-Shuttle-NewtonHighlandsKenmore-0-0,Shuttle-NewtonHighlandsKenmore,0,Kenmore - Newton Highlands,,4,62090099,45807817-NewtonHighlandsKenmoreW1
-Shuttle-NewtonHighlandsKenmore-0-1,Shuttle-NewtonHighlandsKenmore,1,Newton Highlands - Kenmore,,4,62090199,45807802-NewtonHighlandsKenmoreW1
 Shuttle-NewtonHighlandsRiverside-0-0,Shuttle-NewtonHighlandsRiverside,0,Newton Highlands - Riverside,,4,62100099,45804940-20:45-NewtonHighlandsRiverside1
 Shuttle-NewtonHighlandsRiverside-0-1,Shuttle-NewtonHighlandsRiverside,1,Riverside - Newton Highlands,,4,62100199,45804948-20:45-NewtonHighlandsRiverside1
 Shuttle-NewtonHighlandsStMarysKenmore-0-0,Shuttle-NewtonHighlandsStMarysKenmore,0,Kenmore via Saint Mary's Street - Newton Highlands via Saint Mary's Street,,4,62110099,45803748-20:45-NwnHiStMKnrCNwnHiStMKnrD1
