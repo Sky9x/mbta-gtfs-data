@@ -1,10 +1,6 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-BUS420-10-Sa-02,Saturday schedule,Saturday,Saturday,1,20200830,20201219,Fall
-BUS420-10-Sa-02S0,Saturday schedule,Saturday,Saturday,1,20200830,20201219,Fall
-BUS420-11-Su-02,Sunday schedule,Sunday,Sunday,1,20200830,20201219,Fall
-BUS420-11-Su-02S0,Sunday schedule,Sunday,Sunday,1,20200830,20201219,Fall
-BUS420-15-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20200830,20201219,Fall
-BUS420-18-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20200830,20201219,Fall
+BUS420-14-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20200830,20201219,Fall
+BUS420-17-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20200830,20201219,Fall
 BUS420-2-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20200830,20201219,Fall
 BUS420-7-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20200830,20201219,Fall
 BUS420-C-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20200830,20201219,Fall
@@ -18,15 +14,14 @@ BUS420-W-Wdy-02,Weekday schedule,Weekday,Weekday,1,20200830,20201219,Fall
 BUS420-W-Wdy-02S0,Weekday schedule,Weekday,Weekday,1,20200830,20201219,Fall
 BUS420-X-Sa-02,Saturday schedule,Saturday,Saturday,1,20200830,20201219,Fall
 BUS420-X-Sa-02S0,Saturday schedule,Saturday,Saturday,1,20200830,20201219,Fall
-BUS420-Y-Su-02,Sunday schedule,Sunday,Sunday,1,20200830,20201219,Fall
-BUS420-Y-Su-02S0,Sunday schedule,Sunday,Sunday,1,20200830,20201219,Fall
-BUS420-Z-Wdy-02,Weekday schedule,Weekday,Weekday,1,20200830,20201219,Fall
-BUS420-Z-Wdy-02S0,Weekday schedule,Weekday,Weekday,1,20200830,20201219,Fall
+BUS420-Y-Wdy-02,Weekday schedule,Weekday,Weekday,1,20200830,20201219,Fall
+BUS420-Y-Wdy-02S0,Weekday schedule,Weekday,Weekday,1,20200830,20201219,Fall
+BUS420-Z-Sa-02,Saturday schedule,Saturday,Saturday,1,20200830,20201219,Fall
+BUS420-Z-Sa-02S0,Saturday schedule,Saturday,Saturday,1,20200830,20201219,Fall
 Boat-F1-WkdLmd,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20190701,,
 Boat-F4-Wkd,Weekday schedule,Weekday,Weekday,1,20190701,,
 CR-Sa-Fairmount-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,,Fall
 CR-Sa-Fitchburg-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,,Fall
-CR-Sa-Fitchburg-Fll-20-FtgGLX,Saturday schedule,Saturday,Saturday,4,20201102,,Fall
 CR-Sa-Franklin-Fll-20,Saturday schedule,Saturday,Saturday,4,20201102,,Fall
 CR-Sa-Greenbush-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,,Fall
 CR-Sa-Haverhill-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,,Fall
@@ -40,7 +35,6 @@ CR-Sa-Providence-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,,Fall
 CR-Sa-Worcester-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,,Fall
 CR-Su-Fairmount-Fll-20,Sunday schedule,Sunday,Sunday,1,20201102,,Fall
 CR-Su-Fitchburg-Fll-20,Sunday schedule,Sunday,Sunday,1,20201102,,Fall
-CR-Su-Fitchburg-Fll-20-FtgGLX,Sunday schedule,Sunday,Sunday,4,20201102,,Fall
 CR-Su-Franklin-Fll-20,Sunday schedule,Sunday,Sunday,1,20201102,,Fall
 CR-Su-Franklin-Fll-20-FrgPrkWll,Sunday schedule,Sunday,Sunday,4,20201102,,Fall
 CR-Su-Greenbush-Fll-20,Sunday schedule,Sunday,Sunday,1,20201102,,Fall
@@ -69,17 +63,14 @@ FallSunday,Sunday schedule,Sunday,Sunday,1,20200830,20201219,Fall
 FallWeekday,Weekday schedule,Weekday,Weekday,1,20200830,20201219,Fall
 LRV420-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20200830,20201219,Fall
 LRV420-1-Wdy-01-FnwNwnHgs,Weekday schedule,Weekday,Weekday,4,20200830,20201219,Fall
-LRV420-1-Wdy-01-NwnHStMKnrCNwnHStMKnrD,Weekday schedule,Weekday,Weekday,4,20200830,20201219,Fall
 LRV420-1-Wdy-01-NwnHgsRvd,Weekday schedule,Weekday,Weekday,4,20200830,20201219,Fall
 LRV420-1-Wdy-01-RsrRvd,Weekday schedule,Weekday,Weekday,4,20200830,20201219,Fall
 LRV420-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20200830,20201219,Fall
 LRV420-2-Sa-01-FnwNwnHgs,Saturday schedule,Saturday,Saturday,4,20200830,20201219,Fall
 LRV420-2-Sa-01-FnwNwnHgsNwnHgsRvd,Saturday schedule,Saturday,Saturday,4,20200830,20201219,Fall
-LRV420-2-Sa-01-NwnHStMKnrCNwnHStMKnrD,Saturday schedule,Saturday,Saturday,4,20200830,20201219,Fall
 LRV420-2-Sa-01-NwnHgsRvdRsrRvd,Saturday schedule,Saturday,Saturday,4,20200830,20201219,Fall
 LRV420-3-Su-01,Sunday schedule,Sunday,Sunday,1,20200830,20201219,Fall
 LRV420-3-Su-01-FnwNwnHgsNwnHgsRvd,Sunday schedule,Sunday,Sunday,4,20200830,20201219,Fall
-LRV420-3-Su-01-NwnHStMKnrCNwnHStMKnrD,Sunday schedule,Sunday,Sunday,4,20200830,20201219,Fall
 LRV420-3-Su-01-NwnHgsRvdRsrRvd,Sunday schedule,Sunday,Sunday,4,20200830,20201219,Fall
 LRV420-5-Wdy-01,Weekday schedule,Weekday,Weekday,1,20200830,20201219,Fall
 PRIV420-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20200830,20201219,Fall
