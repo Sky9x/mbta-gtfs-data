@@ -38,7 +38,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 104,104,Massachusetts Ave @ Bigelow St,,,,42.366779,-71.105813,LocalBus,,https://www.mbta.com/stops/104,,0,,0,Cambridge,Massachusetts Avenue,Inman Street,3
 1040,1040,Market St @ Guest St,,,,42.357313,-71.148285,LocalBus,,https://www.mbta.com/stops/1040,,0,,1,Boston,Market Street,Guest Street,3
 1041,1041,Market St @ Centola St,,,,42.359279,-71.147082,LocalBus,,https://www.mbta.com/stops/1041,,0,,1,Boston,Birmingham Parkway,Centola Street,3
-10413,10413,Columbus Ave @ Weld Ave,,,,42.315067,-71.097752,LocalBus,,https://www.mbta.com/stops/10413,,0,,0,Boston,Columbus Avenue,Weld Avenue,3
+10413,10413,Columbus Ave @ Weld Ave,,,,42.314854,-71.097483,LocalBus,,https://www.mbta.com/stops/10413,,0,,0,Boston,Columbus Avenue,Dixwell Street,3
 10417,10417,American Legion Hwy @ Blue Hill Ave,,,,42.298267,-71.087238,LocalBus,,https://www.mbta.com/stops/10417,,0,,0,Boston,American Legion Highway,Blue Hill Avenue,3
 10418,10418,American Legion Hwy opp Franklin Hill Ave,,,,42.295828,-71.092507,LocalBus,,https://www.mbta.com/stops/10418,,0,,0,Boston,American Legion Highway,Ramp - American Legion Highway To Rt 203,3
 10419,10419,American Legion Hwy @ Canterbury St,,,,42.285933,-71.109847,LocalBus,,https://www.mbta.com/stops/10419,,0,,0,Boston,American Legion Highway,Canterbury Street,3
@@ -305,6 +305,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 1134,1134,Centre St @ Paul Gore St,,,,42.321048,-71.110438,LocalBus,,https://www.mbta.com/stops/1134,,0,,1,Boston,Centre Street,Barbara Street,3
 1135,1135,Centre St @ Sheridan St,,,,42.322164,-71.109040,LocalBus,,https://www.mbta.com/stops/1135,,0,,1,Boston,Centre Street,Sheridan Street,3
 1136,1136,Centre St @ Wyman St,,,,42.322500,-71.106772,LocalBus,,https://www.mbta.com/stops/1136,,0,,1,Boston,Centre Street,Wyman Street,3
+11366,11366,Pearl St @ Brookline Village,,,,42.332725,-71.116336,LocalBus,,https://www.mbta.com/stops/11366,,0,,0,Brookline,Pearl Street,,3
 1137,1137,Centre St @ Mozart St,,,,42.322684,-71.104662,LocalBus,,https://www.mbta.com/stops/1137,,0,,1,Boston,Centre Street,Mozart Street,3
 1138,1138,Centre St @ Estrella St,,,,42.322886,-71.102796,LocalBus,,https://www.mbta.com/stops/1138,,0,,1,Boston,Centre Street,Estrella Street,3
 11384,11384,Dartmouth St @ Back Bay Sta,,,,42.347346,-71.075956,ExpressBus-Downtown,,https://www.mbta.com/stops/11384,,0,,1,Boston,Dartmouth Street,Stuart Street,3
@@ -406,7 +407,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 11860,11860,Robert St @ Belgrade Ave,,,,42.287072,-71.131820,LocalBus,,https://www.mbta.com/stops/11860,,0,,1,Boston,Robert Street,South Conway Street,3
 11868,11868,5 Walter St opp Hewlett St,,,,42.289151,-71.133832,LocalBus,,https://www.mbta.com/stops/11868,,0,,1,Boston,Walter Street,Hewlett Street,3
 1187,1187,Washington St @ Columbus Ave,,,,42.316299,-71.097858,LocalBus,,https://www.mbta.com/stops/1187,,0,,1,Boston,Washington Street,West Walnut Park,3
-1188,1188,1990 Columbus Ave,,,,42.315394,-71.097816,LocalBus,,https://www.mbta.com/stops/1188,,0,,1,Boston,Columbus Avenue,Weld Avenue,3
+1188,1188,Columbus Ave opp Weld Ave,,,,42.315274,-71.097624,LocalBus,,https://www.mbta.com/stops/1188,,0,,1,Boston,Columbus Avenue,Weld Avenue,3
 1189,1189,Cambridge St @ Mass Pike,,,,42.360808,-71.118665,LocalBus,,https://www.mbta.com/stops/1189,,0,,2,Boston,Cambridge Street,Allston Toll Plaza,3
 11891,11891,Pearl St @ Congress St,,,,42.357495,-71.056251,LocalBus,,https://www.mbta.com/stops/11891,,0,,1,Boston,Post Office Square,Water Street,3
 1190,1190,Cambridge St @ Seattle St,,,,42.358890,-71.123853,LocalBus,,https://www.mbta.com/stops/1190,,0,,1,Boston,Cambridge Street,Seattle Street,3
@@ -421,7 +422,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 11972,11972,Guest St @ Life St,,,,42.357109,-71.145623,LocalBus,,https://www.mbta.com/stops/11972,,0,,0,Boston,Guest Street,Life Street,3
 119863,119863,Shirley St @ Winthrop Ferry Terminal,,,,42.367208,-70.970606,LocalBus,,https://www.mbta.com/stops/119863,,0,,1,Winthrop,Shirley Street,,3
 119913,119913,Shirley St opp Winthrop Ferry Terminal,,,,42.367336,-70.970580,LocalBus,,https://www.mbta.com/stops/119913,,0,,0,Winthrop,Shirley Street,,3
-120,120,Rivermoor St @ Industrial Park,,,,42.277760,-71.181842,LocalBus,,https://www.mbta.com/stops/120,,0,,2,Boston,,,3
+120,120,Rivermoor St @ Industrial Park,,,,42.277603,-71.181380,LocalBus,,https://www.mbta.com/stops/120,,0,,2,Boston,,,3
 1201,1201,239 N Beacon St,,,,42.356564,-71.150426,LocalBus,,https://www.mbta.com/stops/1201,,0,,0,Boston,North Beacon Street,,3
 1202,1202,N Beacon St @ Vineland St,,,,42.357187,-71.152796,LocalBus,,https://www.mbta.com/stops/1202,,0,,0,Boston,North Beacon Street,Vineland Street,3
 1203,1203,N Beacon St @ Birmingham Pkwy,,,,42.357994,-71.154394,LocalBus,,https://www.mbta.com/stops/1203,,0,,2,Boston,North Beacon Street,Birmingham Parkway,3
@@ -455,6 +456,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 1226,1226,Tremont St @ Ruggles St,,,,42.334793,-71.088549,LocalBus,,https://www.mbta.com/stops/1226,,0,,0,Boston,Tremont Street,Ruggles Street,3
 1227,1227,Tremont St @ Melnea Cass Blvd,,,,42.335698,-71.086826,LocalBus,,https://www.mbta.com/stops/1227,,0,,0,Boston,Tremont Street,Melnea Cass Boulevard,3
 1228,1228,Tremont St @ Hammond St,,,,42.337226,-71.084022,LocalBus,,https://www.mbta.com/stops/1228,,0,,0,Boston,Tremont Street,Hammond Street,3
+12295,12295,North Cambridge Carhouse,,,,42.396704,-71.129116,LocalBus,,https://www.mbta.com/stops/12295,,0,,0,Cambridge,,,3
 123,123,Columbia Rd opp Pond St,,,,42.320046,-71.059996,LocalBus,,https://www.mbta.com/stops/123,,0,,0,Boston,Columbia Road,Pond Street,3
 1230,1230,Tremont St @ Northampton St,,,,42.338746,-71.081156,LocalBus,,https://www.mbta.com/stops/1230,,0,,1,Boston,Tremont Street,Northampton Street,3
 12301,12301,Massachusetts Ave @ Upland Rd,,,,42.388229,-71.119545,LocalBus,,https://www.mbta.com/stops/12301,,0,,1,Cambridge,Massachusetts Avenue,Upland Road,3
@@ -487,7 +489,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 1250,1250,Tremont St @ Worcester St,,,,42.340187,-71.078787,LocalBus,,https://www.mbta.com/stops/1250,,0,,1,Boston,Tremont Street,Worcester Street,3
 1251,1251,Tremont St @ W Springfield St,,,,42.339703,-71.079768,LocalBus,,https://www.mbta.com/stops/1251,,0,,1,Boston,Tremont Street,West Springfield Street,3
 12512,12512,Prospect St @ Oak St,,,,42.376160,-71.096266,LocalBus,,https://www.mbta.com/stops/12512,,0,,0,Somerville,Prospect Street,Oak Street,3
-1252,1252,Tremont St @ Northampton St,,,,42.338955,-71.081129,LocalBus,,https://www.mbta.com/stops/1252,,0,,1,Boston,Tremont Street,Northampton Street,3
+1252,1252,Tremont St @ Northampton St,,,,42.338840,-71.081337,LocalBus,,https://www.mbta.com/stops/1252,,0,,1,Boston,Tremont Street,Northampton Street,3
 1253,1253,Tremont St @ Douglas Pk,,,,42.337824,-71.083178,LocalBus,,https://www.mbta.com/stops/1253,,0,,1,Boston,Tremont Street,,3
 12530,12530,Prospect St @ Webster Ave,,,,42.376669,-71.095686,LocalBus,,https://www.mbta.com/stops/12530,,0,,0,Somerville,Prospect Street,Concord Avenue,3
 1254,1254,Tremont St @ Burke St,,,,42.336908,-71.084800,LocalBus,,https://www.mbta.com/stops/1254,,0,,1,Boston,Tremont Street,Burke Street,3
@@ -515,13 +517,13 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 12645,12645,Broadway @ Massachusetts Ave,,,,42.414341,-71.150282,LocalBus,,https://www.mbta.com/stops/12645,,0,,1,Arlington,Broadway,Alton Street,3
 12648,12648,Broadway @ Allen St,,,,42.412312,-71.145561,LocalBus,,https://www.mbta.com/stops/12648,,0,,0,Arlington,Broadway,Allen Street,3
 12649,12649,Broadway @ Tufts St,,,,42.411425,-71.143411,LocalBus,,https://www.mbta.com/stops/12649,,0,,1,Arlington,Broadway,Tufts Street,3
-1265,1265,Columbus Ave @ Dimock St,,,,42.319455,-71.098496,LocalBus,,https://www.mbta.com/stops/1265,,0,,0,Boston,Columbus Avenue,Dimock Street,3
+1265,1265,Columbus Ave @ Dimock St,,,,42.319685,-71.098533,LocalBus,,https://www.mbta.com/stops/1265,,0,,0,Boston,Columbus Avenue,Dimock Street,3
 12650,12650,Broadway @ Harlow St,,,,42.410554,-71.141394,LocalBus,,https://www.mbta.com/stops/12650,,0,,0,Arlington,Broadway,Harlow Street,3
 12651,12651,Broadway @ Oxford St,,,,42.409520,-71.139313,LocalBus,,https://www.mbta.com/stops/12651,,0,,0,Arlington,Broadway,Oxford Street,3
 12652,12652,Broadway @ Cleveland St,,,,42.408588,-71.137313,LocalBus,,https://www.mbta.com/stops/12652,,0,,0,Arlington,Broadway,Cleveland Street,3
 12653,12653,Broadway opp Silk St,,,,42.407932,-71.135960,LocalBus,,https://www.mbta.com/stops/12653,,0,,0,Arlington,Broadway,Silk Street,3
 12654,12654,Broadway opp Sunnyside Ave,,,,42.407284,-71.134563,LocalBus,,https://www.mbta.com/stops/12654,,0,,0,Arlington,Broadway,,3
-1266,1266,Columbus Ave @ W Walnut Pk,,,,42.317066,-71.098434,LocalBus,,https://www.mbta.com/stops/1266,,0,,0,Boston,Columbus Avenue,West Walnut Park,3
+1266,1266,Columbus Ave opp Bray St,,,,42.317393,-71.098446,LocalBus,,https://www.mbta.com/stops/1266,,0,,0,Boston,Columbus Avenue,West Walnut Park,3
 1267,1267,Columbus Ave @ Washington St,,,,42.315895,-71.098397,LocalBus,,https://www.mbta.com/stops/1267,,0,,0,Boston,Columbus Avenue,Washington Street,3
 1268,1268,Washington St @ Shepard St,,,,42.348224,-71.149882,LocalBus,,https://www.mbta.com/stops/1268,,0,,1,Boston,Washington Street,Shepard Street,3
 1269,1269,Washington St @ Snow St,,,,42.346880,-71.148221,LocalBus,,https://www.mbta.com/stops/1269,,0,,1,Boston,Washington Street,Snow Street,3
@@ -562,7 +564,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 12866,12866,Bunker Hill St @ Baldwin St,,,,42.382514,-71.069736,LocalBus,,https://www.mbta.com/stops/12866,,0,,1,Boston,Bunker Hill Street,Baldwin Street,3
 1287,1287,Washington St @ School St,,,,42.334491,-71.122471,LocalBus,,https://www.mbta.com/stops/1287,,0,,1,Brookline,Washington Street,Goodwin Place,3
 1288,1288,Washington St opp Greenough St,,,,42.335239,-71.124648,LocalBus,,https://www.mbta.com/stops/1288,,0,,1,Brookline,Washington Street,Greenough Circle,3
-12888,12888,Mystic Ave opp Union St,,,,42.414370,-71.109877,LocalBus,,https://www.mbta.com/stops/12888,,0,,1,Medford,Mystic Avenue,Union Street,3
+12888,12888,Mystic Ave @ Main St,,,,42.414759,-71.110199,LocalBus,,https://www.mbta.com/stops/12888,,0,,1,Medford,Mystic Avenue,Union Street,3
 1289,1289,Washington St @ Griggs Rd,,,,42.337403,-71.126747,LocalBus,,https://www.mbta.com/stops/1289,,0,,1,Brookline,Washington Street,Griggs Road,3
 12891,12891,Pearl St @ High St,,,,42.355395,-71.054079,LocalBus,,https://www.mbta.com/stops/12891,,0,,0,Boston,Pearl Street,High Street,3
 129,129,Rivermoor St @ Charles Park Rd,,,,42.278959,-71.175667,LocalBus,,https://www.mbta.com/stops/129,,0,,0,Boston,Rivermoor Street,Gardner Street,3
@@ -745,7 +747,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 1424,1424,Cambridge St @ Prospect St,,,,42.373396,-71.097980,LocalBus,,https://www.mbta.com/stops/1424,,0,,1,Cambridge,Cambridge Street,Prospect Street,3
 1425,1425,Cambridge St @ Springfield St,,,,42.373716,-71.100371,LocalBus,,https://www.mbta.com/stops/1425,,0,,1,Cambridge,Cambridge Street,Springfield Street,3
 1426,1426,Cambridge St opp Fayette St,,,,42.373943,-71.102266,LocalBus,,https://www.mbta.com/stops/1426,,0,,1,Cambridge,Cambridge Street,Fayette Street,3
-1427,1427,Cambridge St @ Camelia Ave - Cambridge Hospital,,,,42.374312,-71.105017,LocalBus,,https://www.mbta.com/stops/1427,,0,,1,Cambridge,Cambridge Street,Camelia Avenue,3
+1427,1427,Cambridge St @ Camelia Ave - Cambridge Hospital,,,,42.374280,-71.104467,LocalBus,,https://www.mbta.com/stops/1427,,0,,1,Cambridge,Cambridge Street,Highland Avenue,3
 1428,1428,Cambridge St @ Hovey Ave,,,,42.374694,-71.107961,LocalBus,,https://www.mbta.com/stops/1428,,0,,1,Cambridge,Cambridge Street,Hovey Avenue,3
 1429,1429,Cambridge St @ Trowbridge St,,,,42.374944,-71.109935,LocalBus,,https://www.mbta.com/stops/1429,,0,,1,Cambridge,Cambridge Street,Trowbridge Street,3
 143,143,Boylston St @ Clarendon St,,,,42.350593,-71.075289,ExpressBus-Downtown,,https://www.mbta.com/stops/143,,0,,1,Boston,Boylston Street,Clarendon Street,3
@@ -839,6 +841,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 15,15,Dorchester St @ Vinton St,,,,42.330711,-71.054541,LocalBus,,https://www.mbta.com/stops/15,,0,,1,Boston,Dorchester Street,Middle Street,3
 150,150,Broadway Station - Red Line,,,,42.342652,-71.057065,LocalBus,,https://www.mbta.com/stops/150,,0,,0,Boston,Dorchester Avenue,Broadway,3
 1500,1500,Dudley St @ Howard Ave,,,,42.320062,-71.071274,LocalBus,,https://www.mbta.com/stops/1500,,0,,1,Boston,Dudley Street,Howard Avenue,3
+15000,15000,Broadway Station,,,,42.342520,-71.057297,LocalBus,,https://www.mbta.com/stops/15000,,0,,0,Boston,Dorchester Avenue,Greenbaum Street,3
 15002,15002,High St @ Bradlee Rd,,,,42.418763,-71.111446,LocalBus,,https://www.mbta.com/stops/15002,,0,,1,Medford,High Street,Governors Avenue,3
 1501,1501,Dudley St @ Uphams Corner Station,,,,42.318710,-71.069253,LocalBus,,https://www.mbta.com/stops/1501,,0,,0,Boston,Dudley Street,Clifton Street,3
 1503,1503,Columbia Rd opp Cushing Ave,,,,42.316780,-71.065682,LocalBus,,https://www.mbta.com/stops/1503,,0,,1,Boston,Columbia Road,Cushing Avenue,3
@@ -919,7 +922,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 1552,1552,High St @ Cypress St,,,,42.324798,-71.121275,LocalBus,,https://www.mbta.com/stops/1552,,0,,1,Brookline,High Street,Cypress Street,3
 1553,1553,High St @ Highland Rd,,,,42.326067,-71.120199,LocalBus,,https://www.mbta.com/stops/1553,,0,,0,Brookline,High Street,Highland Road,3
 1554,1554,High St @ Cumberland Ave,,,,42.327864,-71.119112,LocalBus,,https://www.mbta.com/stops/1554,,0,,0,Brookline,High Street,Cumberland Avenue,3
-1555,1555,Washington St @ Walnut,,,,42.331549,-71.116483,LocalBus,,https://www.mbta.com/stops/1555,,0,,0,Brookline,Washington Street,Walnut Street,3
+1555,1555,Washington St @ Walnut St,,,,42.331549,-71.116483,LocalBus,,https://www.mbta.com/stops/1555,,0,,0,Brookline,Washington Street,Walnut Street,3
 1556,1556,678 Brookline Ave opp Pearl St,,,,42.332285,-71.114167,LocalBus,,https://www.mbta.com/stops/1556,,0,,1,Brookline,Brookline Avenue,,3
 15566,15566,19 Ferry St,,,,42.404575,-71.047885,LocalBus,,https://www.mbta.com/stops/15566,,0,,0,Everett,Ferry Street,Cannell Place,3
 1557,1557,Brookline Ave opp Aspinwall Ave,,,,42.334819,-71.111517,LocalBus,,https://www.mbta.com/stops/1557,,0,,1,Brookline,Brookline Avenue,Aspinwall Avenue,3
@@ -1018,7 +1021,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 16177,16177,Lafayette @ Leavitt St,,,,42.514458,-70.892459,LocalBus,,https://www.mbta.com/stops/16177,,0,,0,Salem,Lafayette Street,Leavitt Street,3
 1618,1618,84 Georgetowne Pl,,,,42.254718,-71.145182,LocalBus,,https://www.mbta.com/stops/1618,,0,,0,Boston,,,3
 162,162,W Broadway @ C St,,,,42.339917,-71.052494,LocalBus,,https://www.mbta.com/stops/162,,0,,1,Boston,West Broadway,,3
-1620,1620,Georgetowne Dr @ Margaretta Dr,,,,42.257475,-71.144938,LocalBus,,https://www.mbta.com/stops/1620,,0,,1,Boston,Georgetowne Drive,,3
+1620,1620,Georgetowne Dr @ Margaretta Dr,,,,42.258051,-71.144821,LocalBus,,https://www.mbta.com/stops/1620,,0,,1,Boston,Georgetowne Drive,,3
 1621,1621,W Boundary Rd @ Georgetowne Dr,,,,42.259345,-71.145404,LocalBus,,https://www.mbta.com/stops/1621,,0,,1,Boston,West Boundary Road,Georgetowne Drive,3
 1623,1623,W Boundary Rd @ Cedarcrest Rd,,,,42.262682,-71.146361,LocalBus,,https://www.mbta.com/stops/1623,,0,,2,Boston,West Boundary Road,,3
 1627,1627,Liberty St @ Water St,,,,42.240587,-71.005957,LocalBus,,https://www.mbta.com/stops/1627,,0,,0,Quincy,Liberty Street,Pleasant Street,3
@@ -1126,7 +1129,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 17093,17093,Terminal B Stop 2 - Arrivals Level,Terminal B Stop 2 - Silver Line - SL1 South Station,,South Station,42.361657,-71.017833,SL1-Logan,"Terminal B Arrivals, Door B110, Boston Logan International Airport, Boston, MA 02128",https://www.mbta.com/stops/17093,level_logan_arrivals,0,,1,Boston,Logan Airport Terminal B,,3
 17094,17094,Terminal C - Arrivals Level,Terminal C - Silver Line - SL1 South Station,,South Station,42.366494,-71.017289,SL1-Logan,"Terminal C Arrivals, Door C106, Boston Logan International Airport, Boston, MA 02128",https://www.mbta.com/stops/17094,level_logan_arrivals,0,,1,Boston,Logan Airport Terminal C,Logan Airport Terminal B,3
 17095,17095,Terminal E - Arrivals Level,Terminal E - Silver Line - SL1 South Station,,South Station,42.369344,-71.020238,SL1-Logan,"Terminal E Arrivals, Door E106, Boston Logan International Airport, Boston, MA 02128",https://www.mbta.com/stops/17095,level_logan_arrivals,0,,1,Boston,Logan Airport Terminal E,,3
-17096,17096,Congress @ World Trade Center Sta,Congress @ World Trade Center Sta - Silver Line - South Station,,South Station,42.348866,-71.042553,SLWaterfrontNonLogan,,https://www.mbta.com/stops/17096,level_in_street,0,,1,Boston,Congress Street,Seaport Lane,3
+17096,17096,Congress St @ World Trade Center Sta,Congress St @ World Trade Center Sta - Silver Line - South Station,,South Station,42.348769,-71.042336,SLWaterfrontNonLogan,,https://www.mbta.com/stops/17096,level_in_street,0,,1,Boston,Congress Street,Seaport Lane,3
 171,171,Berkeley St @ Columbus Ave,,,,42.348569,-71.071717,LocalBus,,https://www.mbta.com/stops/171,,0,,1,Boston,Berkeley Street,Columbus Avenue,3
 1710,1710,Blue Hill Ave @ Johnston Rd,,,,42.287168,-71.090663,LocalBus,,https://www.mbta.com/stops/1710,,0,,1,Boston,Blue Hill Avenue,Johnston Road,3
 1713,1713,Blue Hill Ave @ Goodale Rd,,,,42.282425,-71.092282,LocalBus,,https://www.mbta.com/stops/1713,,0,,1,Boston,Blue Hill Avenue,,3
@@ -1150,12 +1153,12 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 1731,1731,Blue Hill Ave @ Morton St,,,,42.284302,-71.091264,LocalBus,,https://www.mbta.com/stops/1731,,0,,1,Boston,Blue Hill Avenue,Morton Street,3
 17316,17316,Chestnut St opp Peach St,,,,42.475017,-70.945000,LocalBus,,https://www.mbta.com/stops/17316,,0,,0,Lynn,Chestnut Street,Peach Street,3
 1732,1732,Blue Hill Ave @ Woodrow Ave,,,,42.285515,-71.090795,LocalBus,,https://www.mbta.com/stops/1732,,0,,1,Boston,Blue Hill Avenue,Woodrow Avenue,3
-17325,17325,Lynnfield St @ St Marys Cemetery,,,,42.489805,-70.968929,LocalBus,,https://www.mbta.com/stops/17325,,0,,0,Lynn,Lynnfield Street,,3
+17325,17325,Lynnfield St @ St Mary Cemetery,,,,42.489805,-70.968929,LocalBus,,https://www.mbta.com/stops/17325,,0,,0,Lynn,Lynnfield Street,,3
 1733,1733,Blue Hill Ave @ Arbutus St,,,,42.287966,-71.089996,LocalBus,,https://www.mbta.com/stops/1733,,0,,1,Boston,Blue Hill Avenue,Arbutus Street,3
 1734,1734,Blue Hill Ave @ Callender St,,,,42.289583,-71.089446,LocalBus,,https://www.mbta.com/stops/1734,,0,,1,Boston,Blue Hill Avenue,Callender Street,3
 17347,17347,Lynnfield St @ Union Hospital,,,,42.502339,-70.979500,LocalBus,,https://www.mbta.com/stops/17347,,0,,1,Lynn,Lynnfield Street,Dartmouth Street,3
 1735,1735,Blue Hill Ave @ Westview St,,,,42.291296,-71.088891,LocalBus,,https://www.mbta.com/stops/1735,,0,,1,Boston,Blue Hill Avenue,Stratton Street,3
-17354,17354,Lynnfield St @ St Marys Cemetery,,,,42.489729,-70.968996,LocalBus,,https://www.mbta.com/stops/17354,,0,,0,Lynn,Lynnfield Street,,3
+17354,17354,Lynnfield St @ St Mary Cemetery,,,,42.489729,-70.968996,LocalBus,,https://www.mbta.com/stops/17354,,0,,0,Lynn,Lynnfield Street,,3
 1736,1736,Blue Hill Ave opp Health Ctr,,,,42.294063,-71.087959,LocalBus,,https://www.mbta.com/stops/1736,,0,,1,Boston,Blue Hill Avenue,,3
 1737,1737,Blue Hill Ave @ Talbot Ave,,,,42.295316,-71.087607,LocalBus,,https://www.mbta.com/stops/1737,,0,,1,Boston,Blue Hill Avenue,Talbot Avenue,3
 17370,17370,Goodridge St @ Memorial Pk Ave,,,,42.476049,-70.946021,LocalBus,,https://www.mbta.com/stops/17370,,0,,0,Lynn,Goodridge Street,Memorial Park Avenue,3
@@ -1359,32 +1362,33 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2027,2027,Mt Auburn St opp Coolidge Ave,,,,42.374972,-71.139580,LocalBus,,https://www.mbta.com/stops/2027,,0,,0,Cambridge,Mount Auburn Street,Coolidge Avenue,3
 2028,2028,Mt Auburn St @ Brattle St,,,,42.375405,-71.142976,LocalBus,,https://www.mbta.com/stops/2028,,0,,0,Cambridge,Mount Auburn Street,Brattle Street,3
 2030,2030,Mt Auburn St @ Homer Ave,,,,42.374974,-71.148307,LocalBus,,https://www.mbta.com/stops/2030,,0,,1,Cambridge,Mount Auburn Street,Homer Avenue,3
-2032,2032,Mt Auburn St @ Saint Marys St,,,,42.373852,-71.152440,LocalBus,,https://www.mbta.com/stops/2032,,0,,1,Watertown,Mount Auburn Street,Saint Mary Street,3
+2032,2032,Mt Auburn St @ Saint Marys St,,,,42.373900,-71.152444,LocalBus,,https://www.mbta.com/stops/2032,,0,,1,Watertown,Mount Auburn Street,French Terrace,3
 2033,2033,Mt Auburn St @ Keenan St,,,,42.372849,-71.155032,LocalBus,,https://www.mbta.com/stops/2033,,0,,1,Watertown,Mount Auburn Street,Keenan Street,3
 2034,2034,Mt Auburn St @ Kimball Rd,,,,42.371608,-71.157636,LocalBus,,https://www.mbta.com/stops/2034,,0,,1,Watertown,Mount Auburn Street,Kimball Road,3
 2036,2036,Mt Auburn St @ Upland Rd,,,,42.370398,-71.160617,LocalBus,,https://www.mbta.com/stops/2036,,0,,1,Watertown,Mount Auburn Street,Dexter Avenue,3
 2037,2037,Mt Auburn St @ Winsor Ave,,,,42.370899,-71.163428,LocalBus,,https://www.mbta.com/stops/2037,,0,,1,Watertown,Mount Auburn Street,Langdon Avenue,3
 2038,2038,Mt Auburn St @ Adams Ave,,,,42.370076,-71.166657,LocalBus,,https://www.mbta.com/stops/2038,,0,,1,Watertown,Mount Auburn Street,Chauncey Street,3
+204,204,Congress St opp North St,,,,42.359873,-71.057328,LocalBus,,https://www.mbta.com/stops/204,,0,,0,Boston,Congress Street,State Street,3
 2040,2040,Mt Auburn St @ Amherst Rd,,,,42.370094,-71.171006,LocalBus,,https://www.mbta.com/stops/2040,,0,,1,Watertown,Mount Auburn Street,Amherst Road,3
 2042,2042,Mt Auburn St @ Russell Ave,,,,42.368480,-71.176239,LocalBus,,https://www.mbta.com/stops/2042,,0,,1,Watertown,Mount Auburn Street,Franklin Street,3
 2043,2043,Mt Auburn St @ Marshall St,,,,42.367918,-71.179010,LocalBus,,https://www.mbta.com/stops/2043,,0,,1,Watertown,Mount Auburn Street,Marshall Street,3
 2044,2044,Mt Auburn St @ Summer St,,,,42.366608,-71.181318,LocalBus,,https://www.mbta.com/stops/2044,,0,,1,Watertown,Mount Auburn Street,Patten Street,3
-2046,2046,Mt Auburn St @ Main St,,,,42.365356,-71.184189,LocalBus,,https://www.mbta.com/stops/2046,,0,,1,Watertown,Mount Auburn Street,Main Street,3
+2046,2046,Mt Auburn St @ Main St,,,,42.365520,-71.184058,LocalBus,,https://www.mbta.com/stops/2046,,0,,1,Watertown,Mount Auburn Street,North Beacon Street,3
 2047,2047,Mt Auburn St @ Bates Rd E,,,,42.369064,-71.174098,LocalBus,,https://www.mbta.com/stops/2047,,0,,1,Watertown,Mount Auburn Street,Walnut Street,3
 2048,2048,Mt Auburn St @ Main St,,,,42.365489,-71.183729,LocalBus,,https://www.mbta.com/stops/2048,,0,,1,Watertown,Mount Auburn Street,Main Street,3
 2049,2049,Mt Auburn St @ Patten St,,,,42.366566,-71.181182,LocalBus,,https://www.mbta.com/stops/2049,,0,,1,Watertown,Mount Auburn Street,Patten Street,3
 2050,2050,Mt Auburn St @ Parker St,,,,42.367937,-71.178736,LocalBus,,https://www.mbta.com/stops/2050,,0,,1,Watertown,Mount Auburn Street,Parker Street,3
 2051,2051,Mt Auburn St @ Franklin St,,,,42.368385,-71.176092,LocalBus,,https://www.mbta.com/stops/2051,,0,,0,Watertown,Mount Auburn Street,Franklin Street,3
 2052,2052,Mt Auburn St @ Walnut St,,,,42.368947,-71.173980,LocalBus,,https://www.mbta.com/stops/2052,,0,,1,Watertown,Mount Auburn Street,Walnut Street,3
-2054,2054,Mt Auburn St @ Boylston St,,,,42.370002,-71.170729,LocalBus,,https://www.mbta.com/stops/2054,,0,,1,Watertown,Mount Auburn Street,Boylston Street,3
+2054,2054,Mt Auburn St @ Boylston St,,,,42.369970,-71.170803,LocalBus,,https://www.mbta.com/stops/2054,,0,,1,Watertown,Mount Auburn Street,Boylston Street,3
 2056,2056,Mt Auburn St @ Winthrop St,,,,42.369923,-71.167329,LocalBus,,https://www.mbta.com/stops/2056,,0,,1,Watertown,Mount Auburn Street,Winthrop Street,3
 2057,2057,Mt Auburn St @ School St,,,,42.370622,-71.164816,LocalBus,,https://www.mbta.com/stops/2057,,0,,0,Watertown,Mount Auburn Street,School Street,3
 2058,2058,Mt Auburn St @ Adams St,,,,42.370401,-71.161446,LocalBus,,https://www.mbta.com/stops/2058,,0,,1,Watertown,Mount Auburn Street,Adams Street,3
 2060,2060,Mt Auburn St @ Bigelow Ave,,,,42.371186,-71.157955,LocalBus,,https://www.mbta.com/stops/2060,,0,,1,Watertown,Mount Auburn Street,Bigelow Avenue,3
-2061,2061,Mt Auburn St opp Keenan St,,,,42.372823,-71.154724,LocalBus,,https://www.mbta.com/stops/2061,,0,,1,Watertown,Mount Auburn Street,Keenan Street,3
+2061,2061,Mt Auburn St opp Keenan St,,,,42.372730,-71.154963,LocalBus,,https://www.mbta.com/stops/2061,,0,,1,Watertown,Mount Auburn Street,Keenan Street,3
 20618,20618,Washington St opp Holiday Inn,,,,42.231509,-71.184959,LocalBus,,https://www.mbta.com/stops/20618,,0,,0,Dedham,Washington Street,,3
 20619,20619,Washington St @ Gay St,,,,42.228642,-71.186133,LocalBus,,https://www.mbta.com/stops/20619,,0,,0,Dedham,Washington Street,,3
-2062,2062,Mt Auburn St @ Ralph Piteri Terr,,,,42.373770,-71.152276,LocalBus,,https://www.mbta.com/stops/2062,,0,,1,Watertown,Mount Auburn Street,French Terrace,3
+2062,2062,Mt Auburn St @ Cottage St,,,,42.374061,-71.151351,LocalBus,,https://www.mbta.com/stops/2062,,0,,1,Watertown,Mount Auburn Street,Cottage Street,3
 20620,20620,Washington St opp Waldo Way,,,,42.222293,-71.187526,LocalBus,,https://www.mbta.com/stops/20620,,0,,0,Westwood,Washington Street,Waldo Way,3
 2064,2064,Mt Auburn St opp Homer Ave,,,,42.374908,-71.147889,LocalBus,,https://www.mbta.com/stops/2064,,0,,1,Cambridge,Mount Auburn Street,Homer Avenue,3
 2066,2066,Mt Auburn St opp Brattle St,,,,42.375348,-71.142971,LocalBus,,https://www.mbta.com/stops/2066,,0,,1,Cambridge,Mount Auburn Street,Brattle Street,3
@@ -1425,7 +1429,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 21148,21148,Malcolm X Blvd @ Tremont St,,,,42.331345,-71.093318,LocalBus,,https://www.mbta.com/stops/21148,,0,,1,Boston,Malcolm X Blvd,King Street,3
 2115,2115,Belmont St @ Prentiss St,,,,42.375529,-71.156581,LocalBus,,https://www.mbta.com/stops/2115,,0,,0,Belmont,Belmont Street,Prentiss Street,3
 21151,21151,Warren St @ Kearsarge Ave,,,,42.327349,-71.083021,LocalBus,,https://www.mbta.com/stops/21151,,0,,1,Boston,Warren Street,Kearsarge Avenue,3
-21158,21158,Harrison Ave. opp Plympton St,,,,42.339855,-71.069091,LocalBus,,https://www.mbta.com/stops/21158,,0,,1,Boston,Harrison Avenue,Plympton Street,3
+21158,21158,Harrison Ave opp Plympton St,,,,42.339855,-71.069091,LocalBus,,https://www.mbta.com/stops/21158,,0,,1,Boston,Harrison Avenue,Plympton Street,3
 2116,2116,Purchase St @ Pearl St,,,,42.354588,-71.053278,LocalBus,,https://www.mbta.com/stops/2116,,0,,1,Boston,Purchase Street,Pearl Street,3
 2117,2117,Belmont St @ St. Mary's St,,,,42.374910,-71.152670,LocalBus,,https://www.mbta.com/stops/2117,,0,,1,Cambridge,Belmont Street,Saint Mary Street,3
 2118,2118,Belmont St @ Cushing St,,,,42.374923,-71.151511,LocalBus,,https://www.mbta.com/stops/2118,,0,,1,Cambridge,Belmont Street,Cushing Street,3
@@ -1557,10 +1561,10 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 22661,22661,Massachusetts Ave @ Thorndike St,,,,42.402756,-71.138646,LocalBus,,https://www.mbta.com/stops/22661,,0,,0,Arlington,Massachusetts Avenue,Thorndike Street,3
 22671,22671,Massachusetts Ave @ Lafayette St,,,,42.401638,-71.137324,LocalBus,,https://www.mbta.com/stops/22671,,0,,1,Arlington,Massachusetts Avenue,Lafayette Street,3
 2268,2268,Massachusetts Ave @ Magoun St,,,,42.400467,-71.135318,LocalBus,,https://www.mbta.com/stops/2268,,0,,1,Cambridge,Massachusetts Avenue,Magoun Street,3
-2269,2269,Massachusetts Ave @ Cottage Park Ave,,,,42.399436,-71.133125,LocalBus,,https://www.mbta.com/stops/2269,,0,,1,Cambridge,Massachusetts Avenue,Cottage Park Avenue,3
+2269,2269,Massachusetts Ave @ Cottage Park Ave-Matignon High,,,,42.399436,-71.133125,LocalBus,,https://www.mbta.com/stops/2269,,0,,1,Cambridge,Massachusetts Avenue,Cottage Park Avenue,3
 2270,2270,Massachusetts Ave @ Cedar St,,,,42.397954,-71.131120,LocalBus,,https://www.mbta.com/stops/2270,,0,,1,Cambridge,Massachusetts Avenue,Cedar Street,3
 2271,2271,Massachusetts Ave @ Cameron Ave,,,,42.397419,-71.130055,LocalBus,,https://www.mbta.com/stops/2271,,0,,1,Cambridge,Massachusetts Avenue,Cameron Avenue,3
-2273,2273,Massachusetts Ave @ Churchill Ave,,,,42.399844,-71.133258,LocalBus,,https://www.mbta.com/stops/2273,,0,,1,Cambridge,Massachusetts Avenue,Churchill Avenue,3
+2273,2273,Massachusetts Ave @ Churchill Ave  - Matignon High,,,,42.399844,-71.133258,LocalBus,,https://www.mbta.com/stops/2273,,0,,1,Cambridge,Massachusetts Avenue,Churchill Avenue,3
 2274,2274,Massachusetts Ave @ Gladstone St,,,,42.400642,-71.135166,LocalBus,,https://www.mbta.com/stops/2274,,0,,1,Cambridge,Massachusetts Avenue,Magoun Street,3
 2275,2275,Massachusetts Ave @ Teel St,,,,42.402768,-71.138361,LocalBus,,https://www.mbta.com/stops/2275,,0,,0,Arlington,Massachusetts Avenue,Thorndike Street,3
 22751,22751,Massachusetts Ave @ Route 16,,,,42.401469,-71.136788,LocalBus,,https://www.mbta.com/stops/22751,,0,,1,Arlington,Massachusetts Avenue,Ee Road,3
@@ -1607,7 +1611,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2324,2324,Park Ave @ Wachusett Ave,,,,42.413561,-71.182156,LocalBus,,https://www.mbta.com/stops/2324,,0,,0,Arlington,Park Avenue,Wachusett Avenue,3
 2326,2326,East Service Rd @ Park Ave Shelter,,,,42.410361,-71.181260,LocalBus,,https://www.mbta.com/stops/2326,,0,,0,Belmont,Frontage Road,Park Avenue,3
 2327,2327,East Service Rd @ Lamoine St,,,,42.410136,-71.179189,LocalBus,,https://www.mbta.com/stops/2327,,0,,0,Belmont,Frontage Road,Lamoine Street,3
-2328,2328,East Service Rd @ Clifton St - Pedestrian Bridge,,,,42.409494,-71.176125,LocalBus,,https://www.mbta.com/stops/2328,,0,,0,Belmont,Frontage Road,Beatrice Circle,3
+2328,2328,East Service Rd @ Clifton St - Pedestrian Bridge,,,,42.409406,-71.175796,LocalBus,,https://www.mbta.com/stops/2328,,0,,0,Belmont,Frontage Road,Clifton Street,3
 2329,2329,East Service Rd @ Radcliffe Rd,,,,42.409000,-71.174303,LocalBus,,https://www.mbta.com/stops/2329,,0,,0,Belmont,Frontage Road,Radcliffe Road,3
 233,233,Commercial St @ Battery St,,,,42.366409,-71.051526,LocalBus,,https://www.mbta.com/stops/233,,0,,1,Boston,Commercial Street,Battery Wharf,3
 2330,2330,East Service Rd @ Stairway to Radcliffe Rd,,,,42.407873,-71.171228,LocalBus,,https://www.mbta.com/stops/2330,,0,,2,Belmont,Frontage Road,Ramp - Rt 2 Eastbound To Frontage Rd,3
@@ -1895,13 +1899,15 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 25969,25969,Pleasant St @ Stone Pl,,,,42.443715,-71.072003,LocalBus,,https://www.mbta.com/stops/25969,,0,,0,Melrose,Pleasant Street,,3
 2597,2597,Somerville Ave @ Prospect St,,,,42.379248,-71.094819,LocalBus,,https://www.mbta.com/stops/2597,,0,,1,Somerville,Somerville Avenue,Prospect Street,3
 25974,25974,Pleasant St @ Wyoming Ave - Wyoming Sq,,,,42.452115,-71.070007,LocalBus,,https://www.mbta.com/stops/25974,,0,,0,Melrose,Pleasant Street,West Wyoming Avenue,3
+25982,25982,Pond St opp Stone Zoo,,,,42.463444,-71.091729,LocalBus,,https://www.mbta.com/stops/25982,,0,,0,Stoneham,Pond Street,,3
 25986,25986,Main St @ Pleasant St,,,,42.481549,-71.100064,LocalBus,,https://www.mbta.com/stops/25986,,0,,0,Stoneham,Main Street,Pleasant Street,3
 25988,25988,Main St @ Collincote St,,,,42.491495,-71.100177,LocalBus,,https://www.mbta.com/stops/25988,,0,,0,Stoneham,Main Street,,3
 25989,25989,Redstone Shopping Center Access Rd,,,,42.494932,-71.101946,LocalBus,,https://www.mbta.com/stops/25989,,0,,0,Stoneham,,,3
 25990,25990,Main St @ Elm St,,,,42.486702,-71.100209,LocalBus,,https://www.mbta.com/stops/25990,,0,,0,Stoneham,Main Street,Elm Street,3
 25991,25991,Main St @ Lindenwood Rd,,,,42.484395,-71.100291,LocalBus,,https://www.mbta.com/stops/25991,,0,,0,Stoneham,Main Street,Lindenwood Road,3
-25992,25992,Main St @ Maple St,,,,42.477574,-71.100499,LocalBus,,https://www.mbta.com/stops/25992,,0,,0,Stoneham,Main Street,Maple Street,3
+25992,25992,Main St @ Maple St,,,,42.477620,-71.100581,LocalBus,,https://www.mbta.com/stops/25992,,0,,0,Stoneham,Main Street,Maple Street,3
 25996,25996,Main St @ South St,,,,42.465870,-71.100938,LocalBus,,https://www.mbta.com/stops/25996,,0,,1,Stoneham,Main Street,North Border Road,3
+25997,25997,Pond St @ Stone Zoo,,,,42.463181,-71.091894,LocalBus,,https://www.mbta.com/stops/25997,,0,,0,Stoneham,Pond Street,,3
 260,260,E 8th St @ Covington St,,,,42.331204,-71.045994,LocalBus,,https://www.mbta.com/stops/260,,0,,0,Boston,East Eighth Street,Covington Street,3
 2600,2600,McGrath Hwy @ Medford St,,,,42.376870,-71.088470,LocalBus,,https://www.mbta.com/stops/2600,,0,,0,Somerville,Ramp - Somerville Ave To Rt 28 Southbound,McGrath Highway,3
 2601,2601,McGrath Hwy @ Twin City Plaza,,,,42.373888,-71.082777,LocalBus,,https://www.mbta.com/stops/2601,,0,,0,Somerville,McGrath Highway,,3
@@ -1909,7 +1915,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2605,2605,McGrath Hwy opp Twin City Plaza,,,,42.374126,-71.082561,LocalBus,,https://www.mbta.com/stops/2605,,0,,1,Somerville,McGrath Highway,,3
 2606,2606,225 Msgr O'Brien Hwy,,,,42.372970,-71.080222,LocalBus,,https://www.mbta.com/stops/2606,,0,,0,Cambridge,Monsignor O'Brien Highway,Third Street,3
 2607,2607,McGrath Hwy @ Poplar St,,,,42.377092,-71.088178,LocalBus,,https://www.mbta.com/stops/2607,,0,,1,Somerville,McGrath Highway,Poplar Street,3
-2609,2609,Somerville Ave at McGrath Hwy,,,,42.377585,-71.089844,LocalBus,,https://www.mbta.com/stops/2609,,0,,1,Somerville,Somerville Avenue,Mansfield Street,3
+2609,2609,Somerville Ave @ McGrath Hwy,,,,42.377585,-71.089844,LocalBus,,https://www.mbta.com/stops/2609,,0,,1,Somerville,Somerville Avenue,Mansfield Street,3
 261,261,E 8th St @ G St,,,,42.331243,-71.043908,LocalBus,,https://www.mbta.com/stops/261,,0,,0,Boston,East Eighth Street,G Street,3
 2610,2610,Washington St @ Washington Terr,,,,42.379510,-71.092273,LocalBus,,https://www.mbta.com/stops/2610,,0,,0,Somerville,Washington Street,Washington Terrace,3
 2612,2612,Somerville Ave @ Stone Ave,,,,42.379547,-71.095164,LocalBus,,https://www.mbta.com/stops/2612,,0,,1,Somerville,Somerville Avenue,Stone Avenue,3
@@ -1939,7 +1945,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2636,2636,Broadway @ North St,,,,42.405932,-71.131478,LocalBus,,https://www.mbta.com/stops/2636,,0,,1,Somerville,Broadway,Waterhouse Street,3
 2637,2637,Clarendon Hill Busway,,,,42.405907,-71.132070,LocalBus,,https://www.mbta.com/stops/2637,,0,,1,Somerville,Busway,Broadway,3
 264,264,E 8th St @ K St,,,,42.331379,-71.037417,LocalBus,,https://www.mbta.com/stops/264,,0,,1,Boston,East Eighth Street,K Street,3
-26434,26434,Cummins Hwy opp Calvary Cemetery,,,,42.277793,-71.115134,LocalBus,,https://www.mbta.com/stops/26434,,0,,0,Boston,Cummins Highway,Mount Calvary Road,3
+26434,26434,Cummins Hwy opp Calvary Cemetery,,,,42.277595,-71.114973,LocalBus,,https://www.mbta.com/stops/26434,,0,,0,Boston,Cummins Highway,Mount Calvary Road,3
 26459,26459,Cummins Hwy @ Brockton St,,,,42.270402,-71.099359,LocalBus,,https://www.mbta.com/stops/26459,,0,,1,Boston,Cummins Highway,Brockton Street,3
 26466,26466,1344 Hyde Park Ave @ Blake Estates,,,,42.252026,-71.125219,LocalBus,,https://www.mbta.com/stops/26466,,0,,1,Boston,Hyde Park Avenue,,3
 26467,26467,1664 Hyde Park Ave,,,,42.241700,-71.130635,LocalBus,,https://www.mbta.com/stops/26467,,0,,1,Boston,Hyde Park Avenue,,3
@@ -2044,10 +2050,12 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2736,2736,Broadway @ Boston Ave - Ball Sq,,,,42.399894,-71.112006,LocalBus,,https://www.mbta.com/stops/2736,,0,,1,Somerville,Broadway,Josephine Avenue,3
 2737,2737,Broadway @ Pearson Rd,,,,42.400513,-71.113792,LocalBus,,https://www.mbta.com/stops/2737,,0,,0,Somerville,Broadway,Pearson Road,3
 2738,2738,Broadway @ Warner St - Powder House Sq,,,,42.401082,-71.116275,LocalBus,,https://www.mbta.com/stops/2738,,0,,1,Somerville,Broadway,Powder House Square,3
+2739,2739,Broadway @ Powder House Blvd,,,,42.400910,-71.117205,LocalBus,,https://www.mbta.com/stops/2739,,0,,0,Somerville,Broadway,Powder House Square,3
 2740,2740,Broadway @ Walker St,,,,42.400861,-71.117961,LocalBus,,https://www.mbta.com/stops/2740,,0,,1,Somerville,Broadway,Walker Street,3
 2741,2741,Broadway @ Leonard St,,,,42.401089,-71.120555,LocalBus,,https://www.mbta.com/stops/2741,,0,,1,Somerville,Broadway,Wallace Street,3
 2742,2742,Broadway @ Mason St,,,,42.401631,-71.122806,LocalBus,,https://www.mbta.com/stops/2742,,0,,1,Somerville,Broadway,Corinthian Road,3
 2743,2743,Broadway @ Packard Ave,,,,42.402272,-71.124828,LocalBus,,https://www.mbta.com/stops/2743,,0,,1,Somerville,Broadway,Packard Avenue,3
+2744,2744,Broadway @ Westminster Ave,,,,42.402952,-71.126364,LocalBus,,https://www.mbta.com/stops/2744,,0,,0,Somerville,Broadway,Westminster Street,3
 2745,2745,Cross St @ Pearl St,,,,42.385796,-71.087692,LocalBus,,https://www.mbta.com/stops/2745,,0,,0,Somerville,Cross Street,Pearl Street,3
 2746,2746,Cross St @ Ellsworth St,,,,42.387146,-71.086847,LocalBus,,https://www.mbta.com/stops/2746,,0,,0,Somerville,Cross Street,Otis Street,3
 2747,2747,Cross St @ Broadway,,,,42.388509,-71.085968,LocalBus,,https://www.mbta.com/stops/2747,,0,,0,Somerville,Cross Street,Broadway,3
@@ -2126,7 +2134,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2829,2829,N Washington St @ Medford St,,,,42.365749,-71.058505,ExpressBus-Downtown,,https://www.mbta.com/stops/2829,,0,,1,Boston,North Washington Street,,3
 283,283,E 8th St @ Covington St,,,,42.331295,-71.046082,LocalBus,,https://www.mbta.com/stops/283,,0,,0,Boston,East Eighth Street,Covington Street,3
 28310,28310,Cambridge St @ Saltonstall Bldg - Bowdoin Sq,,,,42.360962,-71.061654,LocalBus,,https://www.mbta.com/stops/28310,,0,,0,Boston,Cambridge Street,,3
-2832,2832,N Washington St @ Thacher St,,,,42.365195,-71.058265,LocalBus,,https://www.mbta.com/stops/2832,,0,,1,Boston,North Washington Street,Thacher Street,3
+2832,2832,N Washington St @ Cooper St,,,,42.364582,-71.058203,LocalBus,,https://www.mbta.com/stops/2832,,0,,1,Boston,North Washington Street,Cross Street,3
 2835,2835,Warren St @ Winthrop St,,,,42.373614,-71.061511,LocalBus,,https://www.mbta.com/stops/2835,,0,,1,Boston,Warren Street,Winthrop Street,3
 2836,2836,Warren St @ Church St,,,,42.375093,-71.063606,LocalBus,,https://www.mbta.com/stops/2836,,0,,0,Boston,Warren Street,,3
 2837,2837,Main St @ School St,,,,42.376677,-71.065931,LocalBus,,https://www.mbta.com/stops/2837,,0,,0,Boston,Main Street,West School Street,3
@@ -2168,22 +2176,22 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 288,288,W 6th St @ F St,,,,42.334842,-71.049900,LocalBus,,https://www.mbta.com/stops/288,,0,,0,Boston,West Sixth Street,F Street,3
 2880,2880,Mystic Ave @ Shore Dr,,,,42.397237,-71.091127,LocalBus,,https://www.mbta.com/stops/2880,,0,,0,Somerville,Mystic Avenue,Shore Drive,3
 2883,2883,Mystic Ave @ Fulbright St,,,,42.402252,-71.098132,LocalBus,,https://www.mbta.com/stops/2883,,0,,0,Medford,Mystic Avenue,Fulbright Street,3
-2884,2884,Mystic Ave opp Harvard St,,,,42.406567,-71.102216,LocalBus,,https://www.mbta.com/stops/2884,,0,,0,Medford,Mystic Avenue,Mystic Valley Parkway,3
+2884,2884,Mystic Ave opp Harvard St,,,,42.406714,-71.102326,LocalBus,,https://www.mbta.com/stops/2884,,0,,0,Medford,Mystic Avenue,Mystic Valley Parkway,3
 2885,2885,Mystic Ave opp Billings Ave,,,,42.408486,-71.104066,LocalBus,,https://www.mbta.com/stops/2885,,0,,1,Medford,Mystic Avenue,Billings Avenue,3
 2886,2886,Mystic Ave @ Reardon Rd,,,,42.412236,-71.107564,LocalBus,,https://www.mbta.com/stops/2886,,0,,0,Medford,Mystic Avenue,Reardon Road,3
 2887,2887,Mystic Ave @ James St,,,,42.413741,-71.108985,LocalBus,,https://www.mbta.com/stops/2887,,0,,0,Medford,Mystic Avenue,James Street,3
-2888,2888,Mystic Ave @ Union St,,,,42.414669,-71.109860,LocalBus,,https://www.mbta.com/stops/2888,,0,,0,Medford,Mystic Avenue,Union Street,3
+2888,2888,Mystic Ave @ Main St,,,,42.414903,-71.110066,LocalBus,,https://www.mbta.com/stops/2888,,0,,0,Medford,Mystic Avenue,,3
 2889,2889,Mystic Ave @ Columbia Rd,,,,42.413444,-71.108991,LocalBus,,https://www.mbta.com/stops/2889,,0,,0,Medford,Mystic Avenue,Columbia Road,3
 289,289,W 6th St @ E St,,,,42.335827,-71.051409,LocalBus,,https://www.mbta.com/stops/289,,0,,0,Boston,West Sixth Street,E Street,3
-2890,2890,Mystic Ave opp Reardon Rd,,,,42.412283,-71.107897,LocalBus,,https://www.mbta.com/stops/2890,,0,,0,Medford,Mystic Avenue,Reardon Road,3
-2891,2891,Mystic Ave @ Whyte St,,,,42.409608,-71.105403,LocalBus,,https://www.mbta.com/stops/2891,,0,,0,Medford,Mystic Avenue,Whyte Street,3
+2890,2890,Mystic Ave opp Reardon Rd,,,,42.412084,-71.107720,LocalBus,,https://www.mbta.com/stops/2890,,0,,0,Medford,Mystic Avenue,Reardon Road,3
+2891,2891,Mystic Ave @ Whyte St,,,,42.409450,-71.105247,LocalBus,,https://www.mbta.com/stops/2891,,0,,0,Medford,Mystic Avenue,Whyte Street,3
 2892,2892,Mystic Ave @ Billings Ave,,,,42.408336,-71.104219,LocalBus,,https://www.mbta.com/stops/2892,,0,,0,Medford,Mystic Avenue,Billings Avenue,3
-2893,2893,Mystic Ave @ Golden Ave,,,,42.407270,-71.103204,LocalBus,,https://www.mbta.com/stops/2893,,0,,0,Medford,Mystic Avenue,Golden Avenue,3
+2893,2893,Mystic Ave @ Golden Ave,,,,42.407095,-71.103043,LocalBus,,https://www.mbta.com/stops/2893,,0,,0,Medford,Mystic Avenue,Golden Avenue,3
 2894,2894,Mystic Ave @ Bonner Ave,,,,42.405134,-71.101203,LocalBus,,https://www.mbta.com/stops/2894,,0,,0,Medford,Mystic Avenue,Bonner Avenue,3
-2895,2895,Opp 326 Mystic Ave,,,,42.404312,-71.100501,LocalBus,,https://www.mbta.com/stops/2895,,0,,0,Medford,Mystic Avenue,Hicks Avenue,3
-2896,2896,Mystic Ave opp Fulbright St,,,,42.402352,-71.098621,LocalBus,,https://www.mbta.com/stops/2896,,0,,1,Medford,Mystic Avenue,Fulbright Street,3
+2895,2895,Opp 326 Mystic Ave,,,,42.403881,-71.100091,LocalBus,,https://www.mbta.com/stops/2895,,0,,0,Medford,Mystic Avenue,Fulbright Street,3
+2896,2896,Mystic Ave opp Fulbright St,,,,42.402201,-71.098480,LocalBus,,https://www.mbta.com/stops/2896,,0,,1,Medford,Mystic Avenue,Fulbright Street,3
 2897,2897,Mystic Ave @ Moreland St,,,,42.399733,-71.095532,LocalBus,,https://www.mbta.com/stops/2897,,0,,0,Somerville,Mystic Avenue,Moreland Street,3
-2898,2898,Mystic Ave @ Mystic Apartments,,,,42.399073,-71.094212,LocalBus,,https://www.mbta.com/stops/2898,,0,,0,Somerville,Mystic Avenue,Moreland Street,3
+2898,2898,Mystic Ave @ Mystic Apartments,,,,42.399063,-71.094103,LocalBus,,https://www.mbta.com/stops/2898,,0,,0,Somerville,Mystic Avenue,Moreland Street,3
 2899,2899,Mystic Ave opp Shore Dr,,,,42.397062,-71.091228,LocalBus,,https://www.mbta.com/stops/2899,,0,,0,Somerville,Mystic Avenue,Shore Drive,3
 29,29,E Broadway @ P St,,,,42.335698,-71.027303,LocalBus,,https://www.mbta.com/stops/29,,0,,1,Boston,East Broadway,P Street,3
 290,290,W 6th St @ D St,,,,42.336832,-71.053007,LocalBus,,https://www.mbta.com/stops/290,,0,,1,Boston,West Sixth Street,Orton Morotta Way,3
@@ -2239,7 +2247,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 30009,30009,Massachusetts Ave @ Magazine St,,,,42.328065,-71.068054,LocalBus,,https://www.mbta.com/stops/30009,,0,,1,Boston,Massachusetts Avenue,Magazine Street,3
 3019,3019,Hancock St opp Glover Ave,,,,42.274190,-71.026325,LocalBus,,https://www.mbta.com/stops/3019,,0,,1,Quincy,Hancock Street,Glover Avenue,3
 3020,3020,Hancock St @ Billings Rd,,,,42.273451,-71.025558,LocalBus,,https://www.mbta.com/stops/3020,,0,,1,Quincy,Hancock Street,Billings Road,3
-30203,30203,Congress St opp Hanover St,,,,42.361096,-71.057627,LocalBus,,https://www.mbta.com/stops/30203,,0,,1,Boston,Congress Street,Sudbury Street,3
+30203,30203,Congress St @ Sudbury St,,,,42.362174,-71.058498,LocalBus,,https://www.mbta.com/stops/30203,,0,,1,Boston,Congress Street,Sudbury Street,3
 3022,3022,Hancock St opp Albion Rd,,,,42.271589,-71.022667,LocalBus,,https://www.mbta.com/stops/3022,,0,,1,Quincy,Hancock Street,Albion Road,3
 3023,3023,Hancock St @ Linden St,,,,42.270446,-71.020777,LocalBus,,https://www.mbta.com/stops/3023,,0,,1,Quincy,Hancock Street,Linden Street,3
 30233,30233,Atlantic Ave @ Milk St,,,,42.358674,-71.051461,LocalBus,,https://www.mbta.com/stops/30233,,0,,0,Boston,Atlantic Avenue,India Wharf,3
@@ -2362,7 +2370,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 3143,3143,Huckins Ave @ E Squantum St,,,,42.296870,-71.014445,LocalBus,,https://www.mbta.com/stops/3143,,0,,0,Quincy,Huckins Avenue,East Squantum Street,3
 3144,3144,Huckins Ave @ Standish Rd,,,,42.297063,-71.010921,LocalBus,,https://www.mbta.com/stops/3144,,0,,0,Quincy,Huckins Avenue,Standish Road,3
 3145,3145,Huckins Ave @ Bellevue Rd,,,,42.297182,-71.008621,LocalBus,,https://www.mbta.com/stops/3145,,0,,0,Quincy,Huckins Avenue,Bellevue Road,3
-3147,3147,Bellevue Rd @ Wegdewood St,,,,42.298786,-71.009758,LocalBus,,https://www.mbta.com/stops/3147,,0,,0,Quincy,Bellevue Road,Wedgewood Street,3
+3147,3147,Bellevue Rd @ Wegdewood St,,,,42.298949,-71.009904,LocalBus,,https://www.mbta.com/stops/3147,,0,,0,Quincy,Bellevue Road,Wedgewood Street,3
 3148,3148,Bellevue Rd @ Standish Rd,,,,42.300043,-71.011541,LocalBus,,https://www.mbta.com/stops/3148,,0,,0,Quincy,Bellevue Road,Trevore Street,3
 3149,3149,Bellevue Rd @ Dorchester St,,,,42.300909,-71.013704,LocalBus,,https://www.mbta.com/stops/3149,,0,,0,Quincy,Bellevue Road,Dorchester Street,3
 3150,3150,Dorchester St opp Pratt Rd,,,,42.299195,-71.015403,LocalBus,,https://www.mbta.com/stops/3150,,0,,0,Quincy,Dorchester Street,Pratt Road,3
@@ -2939,7 +2947,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 374,374,Talbot Ave @ Talbot Station,,,,42.292015,-71.077978,LocalBus,,https://www.mbta.com/stops/374,,0,,1,Boston,Talbot Avenue,Westcott Street,3
 375,375,Talbot Ave @ Bernard St,,,,42.292436,-71.079404,LocalBus,,https://www.mbta.com/stops/375,,0,,1,Boston,Talbot Avenue,Bernard Street,3
 376,376,Talbot Ave @ Kerwin St,,,,42.293345,-71.082526,LocalBus,,https://www.mbta.com/stops/376,,0,,1,Boston,Talbot Avenue,Kerwin Street,3
-37618,37618,Washington St @ Rockhill Rd,,,,42.168575,-71.211388,LocalBus,,https://www.mbta.com/stops/37618,,0,,0,Norwood,Washington Street,Jacobs Road,3
+37618,37618,Washington St @ Rockhill St,,,,42.168575,-71.211388,LocalBus,,https://www.mbta.com/stops/37618,,0,,0,Norwood,Washington Street,Jacobs Road,3
 378,378,Talbot Ave @ Nightingale St,,,,42.294378,-71.086043,LocalBus,,https://www.mbta.com/stops/378,,0,,1,Boston,Talbot Avenue,Nightingale Street,3
 3780,3780,Pearl St @ Ivory Plaza,,,,42.203362,-70.998511,LocalBus,,https://www.mbta.com/stops/3780,,0,,0,Braintree,Pearl Street,Ivory Street,3
 3781,3781,Pearl St @ Washington St,,,,42.202279,-71.004953,LocalBus,,https://www.mbta.com/stops/3781,,0,,0,Braintree,Pearl Street,Washington Street,3
@@ -3323,7 +3331,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 416,416,Blue Hill Ave opp McLellan St,,,,42.301448,-71.085964,LocalBus,,https://www.mbta.com/stops/416,,0,,0,Boston,Blue Hill Avenue,Franklin Park Service Road,3
 4160,4160,Randolph Ave opp Hilltop St,,,,42.232031,-71.070883,LocalBus,,https://www.mbta.com/stops/4160,,0,,0,Milton,Randolph Avenue,Hilltop Street,3
 4161,4161,Randolph Ave @ Hillside St,,,,42.231296,-71.071147,LocalBus,,https://www.mbta.com/stops/4161,,0,,0,Milton,Randolph Avenue,Hillside Street,3
-41618,41618,Washington St @ Manison Dr,,,,42.163146,-71.215108,LocalBus,,https://www.mbta.com/stops/41618,,0,,0,Walpole,Washington Street,Manison Drive,3
+41618,41618,Washington St @ Mansion Dr,,,,42.163146,-71.215108,LocalBus,,https://www.mbta.com/stops/41618,,0,,0,Walpole,Washington Street,Manison Drive,3
 4162,4162,Randolph Ave opp Eager Rd,,,,42.228563,-71.071136,LocalBus,,https://www.mbta.com/stops/4162,,0,,0,Milton,Randolph Avenue,Eager Road,3
 4163,4163,Randolph Ave @ Susi Ln,,,,42.226570,-71.070983,LocalBus,,https://www.mbta.com/stops/4163,,0,,0,Milton,Randolph Avenue,,3
 4164,4164,Randolph Ave @ Chickataubut Rd,,,,42.224290,-71.070762,LocalBus,,https://www.mbta.com/stops/4164,,0,,0,Milton,Randolph Avenue,Chickatawbut Road,3
@@ -3351,14 +3359,14 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 4183,4183,N Main St @ Jasper Ln,,,,42.173299,-71.047866,LocalBus,,https://www.mbta.com/stops/4183,,0,,0,Randolph,North Main Street,,3
 41835,41835,Lee St @ Warren St,,,,42.322507,-71.138095,LocalBus,,https://www.mbta.com/stops/41835,,0,,0,Brookline,Lee Street,Warren Street,3
 41836,41836,Independence Dr @ Gerry Rd,,,,42.299997,-71.155390,LocalBus,,https://www.mbta.com/stops/41836,,0,,0,Brookline,Independence Drive,Gerry Road,3
-41839,41839,LaGrange @ Brookfarm Rd,,,,42.290994,-71.168567,LocalBus,,https://www.mbta.com/stops/41839,,0,,0,Boston,La Grange Street,Brook Farm Road,3
+41839,41839,LaGrange St @ Brookfarm Rd,,,,42.290994,-71.168567,LocalBus,,https://www.mbta.com/stops/41839,,0,,0,Boston,La Grange Street,Brook Farm Road,3
 4184,4184,N Main St @ Wales Ave,,,,42.171869,-71.047207,LocalBus,,https://www.mbta.com/stops/4184,,0,,0,Randolph,North Main Street,Wales Avenue,3
 4185,4185,N Main St opp Roel St,,,,42.170673,-71.046564,LocalBus,,https://www.mbta.com/stops/4185,,0,,0,Randolph,North Main Street,Roel Street,3
 41852,41852,Highland Ave @ Rosemary St,,,,42.287440,-71.234965,LocalBus,,https://www.mbta.com/stops/41852,,0,,1,Needham,Highland Avenue,Rosemary Street,3
 4186,4186,N Main St @ West St,,,,42.169097,-71.045626,LocalBus,,https://www.mbta.com/stops/4186,,0,,0,Randolph,North Main Street,West Street,3
 4187,4187,307 N Main St,,,,42.168099,-71.044974,LocalBus,,https://www.mbta.com/stops/4187,,0,,0,Randolph,North Main Street,Pleasant Street,3
 4188,4188,N Main St @ Depot St,,,,42.166894,-71.044223,LocalBus,,https://www.mbta.com/stops/4188,,0,,0,Randolph,North Main Street,,3
-41883,41883,326 Mystic Ave,,,,42.404516,-71.100226,LocalBus,,https://www.mbta.com/stops/41883,,0,,0,Medford,Mystic Avenue,Hicks Avenue,3
+41883,41883,326 Mystic Ave,,,,42.403931,-71.099677,LocalBus,,https://www.mbta.com/stops/41883,,0,,0,Medford,Mystic Avenue,Fulbright Street,3
 4189,4189,N Main St @ Warren St,,,,42.165748,-71.043483,LocalBus,,https://www.mbta.com/stops/4189,,0,,0,Randolph,North Main Street,Warren Street,3
 419,419,Blue Hill Ave @ Angell St,,,,42.295595,-71.087913,LocalBus,,https://www.mbta.com/stops/419,,0,,0,Boston,Blue Hill Avenue,Angell Street,3
 4190,4190,N Main St @ DiAuto Dr,,,,42.164677,-71.042818,LocalBus,,https://www.mbta.com/stops/4190,,0,,1,Randolph,North Main Street,Diauto Drive,3
@@ -3554,16 +3562,16 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 4451,4451,Market Square @ Western Ave,,,,42.462708,-70.964894,LocalBus,,https://www.mbta.com/stops/4451,,0,,1,Lynn,Market Square,,3
 4452,4452,Washington St @ Federal St,,,,42.523062,-70.896037,LocalBus,,https://www.mbta.com/stops/4452,,0,,1,Salem,Washington Street,Federal Street,3
 4453,4453,North St opp Lynde St,,,,42.521623,-70.898764,LocalBus,,https://www.mbta.com/stops/4453,,0,,0,Salem,North Street,Essex Street,3
-4454,4454,Boston St @ Nichols St,,,,42.520487,-70.912068,LocalBus,,https://www.mbta.com/stops/4454,,0,,0,Salem,Boston Street,Nichols Street,3
+4454,4454,Boston St @ Nichols St,,,,42.520387,-70.911779,LocalBus,,https://www.mbta.com/stops/4454,,0,,0,Salem,Boston Street,Nichols Street,3
 44541,44541,Boston St @ Pope St,,,,42.518683,-70.908598,LocalBus,,https://www.mbta.com/stops/44541,,0,,0,Salem,Boston Street,Pope Street,3
 4455,4455,Essex St @ Beckford St,,,,42.520620,-70.901543,LocalBus,,https://www.mbta.com/stops/4455,,0,,0,Salem,Essex Street,Beckford Street,3
 4456,4456,Essex St @ Monroe St,,,,42.520157,-70.902724,LocalBus,,https://www.mbta.com/stops/4456,,0,,1,Salem,Essex Street,Monroe Street,3
 4457,4457,Essex St @ Flint St,,,,42.519091,-70.904073,LocalBus,,https://www.mbta.com/stops/4457,,0,,1,Salem,Essex Street,Flint Street,3
-4458,4458,Essex St opp Warren St,,,,42.516619,-70.905671,LocalBus,,https://www.mbta.com/stops/4458,,0,,0,Salem,Essex Street,Highland Avenue,3
+4458,4458,Essex St opp Warren St,,,,42.516853,-70.905553,LocalBus,,https://www.mbta.com/stops/4458,,0,,0,Salem,Essex Street,Warren Street,3
 4459,4459,Highland Ave @ Proctor St,,,,42.513247,-70.907433,LocalBus,,https://www.mbta.com/stops/4459,,0,,0,Salem,Highland Avenue,Proctor Street,3
 446,446,Norfolk St @ Nelson St,,,,42.283476,-71.083052,LocalBus,,https://www.mbta.com/stops/446,,0,,0,Boston,Norfolk Street,Corbet Street,3
 4461,4461,Highland Ave @ Almeda St,,,,42.510450,-70.910029,LocalBus,,https://www.mbta.com/stops/4461,,0,,0,Salem,Highland Avenue,Almeda Street,3
-44618,44618,Washington St opp Manison Dr,,,,42.163083,-71.214986,LocalBus,,https://www.mbta.com/stops/44618,,0,,0,Walpole,Washington Street,Manison Drive,3
+44618,44618,Washington St opp Mansion Dr,,,,42.163083,-71.214986,LocalBus,,https://www.mbta.com/stops/44618,,0,,0,Walpole,Washington Street,Manison Drive,3
 4462,4462,Highland Ave @ Cherry Hill Ave,,,,42.509142,-70.911147,LocalBus,,https://www.mbta.com/stops/4462,,0,,0,Salem,Highland Avenue,Cherry Hill Avenue,3
 4463,4463,Highland Ave @ Valley St,,,,42.508524,-70.912220,LocalBus,,https://www.mbta.com/stops/4463,,0,,0,Salem,Highland Avenue,Valley Street,3
 4464,4464,Highland Ave @ Freeman Rd,,,,42.507647,-70.915103,LocalBus,,https://www.mbta.com/stops/4464,,0,,0,Salem,Highland Avenue,Freeman Road,3
@@ -3609,7 +3617,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 45059,45059,Highland Ave @ Pamela Circle,,,,42.435432,-71.085242,LocalBus,,https://www.mbta.com/stops/45059,,0,,1,Malden,Highland Avenue,Pamela Circle,3
 45079,45079,Savin St @ Fellsmere Rd,,,,42.430368,-71.086320,LocalBus,,https://www.mbta.com/stops/45079,,0,,0,Malden,Savin Street,Fellsmere Road,3
 45080,45080,Savin St @ Fellsmere Rd,,,,42.430291,-71.086220,LocalBus,,https://www.mbta.com/stops/45080,,0,,0,Malden,Savin Street,Fellsmere Road,3
-4510,4510,Cambridge St @ Government Ctr Sta,,,,42.359634,-71.059706,ExpressBus-Downtown,,https://www.mbta.com/stops/4510,,0,,1,Boston,Cambridge Street,,3
+4510,4510,Cambridge St @ Government Ctr Sta,,,,42.360043,-71.059800,ExpressBus-Downtown,,https://www.mbta.com/stops/4510,,0,,1,Boston,Cambridge Street,Court Street,3
 4511,4511,New Sudbury @ Congress St,,,,42.362361,-71.058551,ExpressBus-Downtown,,https://www.mbta.com/stops/4511,,0,,1,Boston,Sudbury Street,Merrimac Street,3
 4512,4512,American Legion Hwy @ Revere St,,,,42.416690,-71.003031,LocalBus,,https://www.mbta.com/stops/4512,,0,,0,Revere,American Legion Highway,Revere Street,3
 4513,4513,American Legion Hwy @ Hutchinson St,,,,42.418878,-71.001931,LocalBus,,https://www.mbta.com/stops/4513,,0,,0,Revere,American Legion Highway,Hutchinson Street,3
@@ -3821,7 +3829,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 4759,4759,Paradise Rd @ Shaw Rd,,,,42.471976,-70.919420,LocalBus,,https://www.mbta.com/stops/4759,,0,,0,Swampscott,Paradise Road,Berkshire Street,3
 4760,4760,Paradise Rd @ Andrew Rd,,,,42.472622,-70.918490,LocalBus,,https://www.mbta.com/stops/4760,,0,,0,Swampscott,Paradise Road,Andrew Road,3
 4761,4761,Jack Satter House @ Revere Beach Blvd,,,,42.424158,-70.984933,LocalBus,,https://www.mbta.com/stops/4761,,0,,0,Revere,Oak Island Street,Arcadia Street,3
-47618,47618,Washington St opp Rockhill Rd,,,,42.168591,-71.211237,LocalBus,,https://www.mbta.com/stops/47618,,0,,0,Norwood,Washington Street,Jacobs Road,3
+47618,47618,Washington St opp Rockhill St,,,,42.168591,-71.211237,LocalBus,,https://www.mbta.com/stops/47618,,0,,0,Norwood,Washington Street,Jacobs Road,3
 47619,47619,Washington St @ Neponset St,,,,42.207811,-71.193171,LocalBus,,https://www.mbta.com/stops/47619,,0,,0,Norwood,Washington Street,Neponset Street,3
 4762,4762,Paradise Rd @ Ellis Rd,,,,42.473552,-70.917198,LocalBus,,https://www.mbta.com/stops/4762,,0,,0,Swampscott,Paradise Road,Ellis Road,3
 47620,47620,Washington St @ Ellis Ave,,,,42.210489,-71.191213,LocalBus,,https://www.mbta.com/stops/47620,,0,,0,Norwood,Washington Street,Ellis Avenue,3
@@ -4389,7 +4397,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 5427,5427,Willow St @ Lyme St,,,,42.427340,-71.052852,LocalBus,,https://www.mbta.com/stops/5427,,0,,1,Malden,Willow Street,Lyme Street,3
 5428,5428,Lyme St @ Cross St,,,,42.427550,-71.054703,LocalBus,,https://www.mbta.com/stops/5428,,0,,1,Malden,Lyme Street,Cross Street,3
 5429,5429,420 Eastern Ave,,,,42.427994,-71.057433,LocalBus,,https://www.mbta.com/stops/5429,,0,,0,Malden,Eastern Avenue,Bryant Street,3
-543,543,Morton St @ Blue Hill Ave,,,,42.284936,-71.092533,LocalBus,,https://www.mbta.com/stops/543,,0,,1,Boston,Morton Street,Wellington Hill Street,3
+543,543,Morton St opp Greendale Rd,,,,42.284936,-71.092533,LocalBus,,https://www.mbta.com/stops/543,,0,,1,Boston,Morton Street,Wellington Hill Street,3
 5430,5430,Eastern Ave @ Franklin St,,,,42.426840,-71.059934,LocalBus,,https://www.mbta.com/stops/5430,,0,,0,Malden,Eastern Avenue,Centre Street,3
 5431,5431,Eastern Ave @ Phillips Ct,,,,42.425027,-71.063650,LocalBus,,https://www.mbta.com/stops/5431,,0,,0,Malden,Eastern Avenue,Phillips Street,3
 5432,5432,Lebanon St @ Wilbur St,,,,42.440480,-71.049136,LocalBus,,https://www.mbta.com/stops/5432,,0,,0,Malden,Lebanon Street,Pine Tree Avenue,3
@@ -4398,7 +4406,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 5435,5435,Lebanon St @ Orchard St,,,,42.435046,-71.045519,LocalBus,,https://www.mbta.com/stops/5435,,0,,1,Malden,Lebanon Street,Orchard Street,3
 5436,5436,Lebanon St @ Salem St,,,,42.433625,-71.046151,LocalBus,,https://www.mbta.com/stops/5436,,0,,1,Malden,Lebanon Street,Salem Street,3
 5440,5440,468 Salem St opp Dell St,,,,42.431371,-71.052872,LocalBus,,https://www.mbta.com/stops/5440,,0,,1,Malden,Salem Street,Hyde Street,3
-5441,5441,Salem St @ Granville AVe,,,,42.431174,-71.054536,LocalBus,,https://www.mbta.com/stops/5441,,0,,1,Malden,Salem Street,Granville Avenue,3
+5441,5441,Salem St @ Granville Ave,,,,42.431174,-71.054536,LocalBus,,https://www.mbta.com/stops/5441,,0,,1,Malden,Salem Street,Granville Avenue,3
 5442,5442,Salem St @ Pierce St,,,,42.430976,-71.057927,LocalBus,,https://www.mbta.com/stops/5442,,0,,0,Malden,Salem Street,Bryant Street,3
 5443,5443,Salem St @ Wolcott St,,,,42.429597,-71.060977,LocalBus,,https://www.mbta.com/stops/5443,,0,,1,Malden,Salem Street,Wolcott Street,3
 5444,5444,Salem St @ Tremont St,,,,42.428390,-71.063364,LocalBus,,https://www.mbta.com/stops/5444,,0,,1,Malden,Salem Street,Tremont Street,3
@@ -5110,6 +5118,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 640,640,Washington St @ Archdale Rd,,,,42.292634,-71.121390,LocalBus,,https://www.mbta.com/stops/640,,0,,0,Boston,Washington Street,Archdale Road,3
 6400,6400,Highland St @ Albion St,,,,42.252256,-71.114406,LocalBus,,https://www.mbta.com/stops/6400,,0,,0,Boston,Highland Street,Albion Street,3
 64001,64001,Highland St @ Warren Ave,,,,42.251500,-71.115692,LocalBus,,https://www.mbta.com/stops/64001,,0,,0,Boston,Highland Street,Warren Avenue,3
+64002,64002,Dudley St @ Nubian Station,,,,42.328842,-71.084633,LocalBus,,https://www.mbta.com/stops/64002,,0,,0,Boston,Dudley Street,Busway,3
 6401,6401,Highland St @ Fairmount Ave,,,,42.250875,-71.116815,LocalBus,,https://www.mbta.com/stops/6401,,0,,0,Boston,Highland Street,Fairmount Avenue,3
 6402,6402,17 Pond St,,,,42.250218,-71.117192,LocalBus,,https://www.mbta.com/stops/6402,,0,,0,Boston,Pond Street,Highland Street,3
 6403,6403,Williams St @ Summit St,,,,42.248083,-71.116594,LocalBus,,https://www.mbta.com/stops/6403,,0,,0,Boston,Williams Avenue,Summit Street,3
@@ -5246,7 +5255,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 66721,66721,Oxford St @ Washington St,,,,42.463901,-70.946636,LocalBus,,https://www.mbta.com/stops/66721,,0,,1,Lynn,Oxford Street,Washington Street,3
 66731,66731,Oxford St @ Market St,,,,42.462577,-70.948082,LocalBus,,https://www.mbta.com/stops/66731,,0,,0,Lynn,Oxford Street,Market Street,3
 66734,66734,O'Callaghan Way opp Walnut Pk,,,,42.471556,-70.986077,LocalBus,,https://www.mbta.com/stops/66734,,0,,1,Lynn,O'Callaghan Way,Walnut Park,3
-6674,6674,Market St @ City Hall Sq,,,,42.464111,-70.950899,LocalBus,,https://www.mbta.com/stops/6674,,0,,1,Lynn,Market Street,,3
+6674,6674,Market St @ Liberty St,,,,42.463479,-70.949829,LocalBus,,https://www.mbta.com/stops/6674,,0,,1,Lynn,Market Street,Liberty Street,3
 6675,6675,N Common St @ Franklin St,,,,42.464284,-70.952740,LocalBus,,https://www.mbta.com/stops/6675,,0,,1,Lynn,North Common Street,,3
 6676,6676,Franklin St @ Hanover St,,,,42.465865,-70.955076,LocalBus,,https://www.mbta.com/stops/6676,,0,,0,Lynn,Franklin Street,Hanover Street,3
 66761,66761,Franklin St @ N Common,,,,42.464568,-70.952905,LocalBus,,https://www.mbta.com/stops/66761,,0,,1,Lynn,Franklin Street,,3
@@ -5264,9 +5273,9 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 6688,6688,Boston St @ Childs St,,,,42.464835,-70.971326,LocalBus,,https://www.mbta.com/stops/6688,,0,,1,Lynn,Boston Street,Childs Street,3
 6689,6689,Boston St opp Cottage St,,,,42.464086,-70.973941,LocalBus,,https://www.mbta.com/stops/6689,,0,,1,Lynn,Boston Street,Cottage Street,3
 6690,6690,Boston St @ Myrtle St,,,,42.463736,-70.975838,LocalBus,,https://www.mbta.com/stops/6690,,0,,0,Lynn,Boston Street,Myrtle Street,3
-6691,6691,Myrtle St @ Wilfred St,,,,42.465411,-70.976094,LocalBus,,https://www.mbta.com/stops/6691,,0,,0,Lynn,Myrtle Street,Wilfred Street,3
+6691,6691,Myrtle St @ Wilfred St,,,,42.465611,-70.976108,LocalBus,,https://www.mbta.com/stops/6691,,0,,0,Lynn,Myrtle Street,Wilfred Street,3
 6692,6692,Myrtle St @ Woodbine St,,,,42.466347,-70.976190,LocalBus,,https://www.mbta.com/stops/6692,,0,,0,Lynn,Myrtle Street,Woodbine Street,3
-6694,6694,Holyoke St @ Myrtle St,,,,42.468821,-70.976727,LocalBus,,https://www.mbta.com/stops/6694,,0,,0,Lynn,Holyoke Street,Myrtle Street,3
+6694,6694,Myrtle St @ Holyoke St,,,,42.468758,-70.976432,LocalBus,,https://www.mbta.com/stops/6694,,0,,0,Lynn,Myrtle Street,Holyoke Street,3
 6695,6695,Holyoke St opp Gardiner St,,,,42.468510,-70.977551,LocalBus,,https://www.mbta.com/stops/6695,,0,,1,Lynn,Holyoke Street,Gardiner Street,3
 6696,6696,Holyoke St opp Farrell Rd,,,,42.468119,-70.978603,LocalBus,,https://www.mbta.com/stops/6696,,0,,1,Lynn,Holyoke Street,Farrell Road,3
 6697,6697,Holyoke St opp Thorpe Rd,,,,42.466589,-70.981102,LocalBus,,https://www.mbta.com/stops/6697,,0,,0,Lynn,Holyoke Street,Curwin Circle,3
@@ -5306,7 +5315,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 6749,6749,Holyoke St @ Thorpe Rd,,,,42.466658,-70.980598,LocalBus,,https://www.mbta.com/stops/6749,,0,,0,Lynn,Holyoke Street,Thorpe Road,3
 6750,6750,Holyoke St @ Farrell Rd,,,,42.468064,-70.978470,LocalBus,,https://www.mbta.com/stops/6750,,0,,0,Lynn,Holyoke Street,Farrell Road,3
 6751,6751,Holyoke St @ Gardiner St,,,,42.468457,-70.977418,LocalBus,,https://www.mbta.com/stops/6751,,0,,1,Lynn,Holyoke Street,Gardiner Street,3
-6752,6752,Myrtle St @ Holyoke St,,,,42.468679,-70.976536,LocalBus,,https://www.mbta.com/stops/6752,,0,,0,Lynn,Myrtle Street,Holyoke Street,3
+6752,6752,Holyoke St @ Myrtle St,,,,42.468743,-70.976675,LocalBus,,https://www.mbta.com/stops/6752,,0,,0,Lynn,Holyoke Street,Myrtle Street,3
 6754,6754,Myrtle St @ Florence St,,,,42.466004,-70.976282,LocalBus,,https://www.mbta.com/stops/6754,,0,,0,Lynn,Myrtle Street,Florence Street,3
 6755,6755,28 Myrtle St,,,,42.464752,-70.976129,LocalBus,,https://www.mbta.com/stops/6755,,0,,0,Lynn,Myrtle Street,Wilfred Street,3
 6756,6756,Myrtle St @ Boston St,,,,42.463753,-70.976015,LocalBus,,https://www.mbta.com/stops/6756,,0,,0,Lynn,Myrtle Street,Boston Street,3
@@ -5322,7 +5331,8 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 6767,6767,Washington St @ Western Ave,,,,42.469833,-70.957108,LocalBus,,https://www.mbta.com/stops/6767,,0,,0,Lynn,Washington Street,Western Avenue,3
 6769,6769,Washington St @ Hanover St,,,,42.467748,-70.953577,LocalBus,,https://www.mbta.com/stops/6769,,0,,0,Lynn,Washington Street,Beacon Hill Avenue,3
 6771,6771,Washington St @ Essex St,,,,42.465668,-70.949799,LocalBus,,https://www.mbta.com/stops/6771,,0,,1,Lynn,Washington Street,Essex Street,3
-6773,6773,Market St @ Andrew St,,,,42.462891,-70.948957,LocalBus,,https://www.mbta.com/stops/6773,,0,,1,Lynn,Market Street,Andrew Street,3
+6772,6772,Washington St @ Munroe St,,,,42.463623,-70.945930,LocalBus,,https://www.mbta.com/stops/6772,,0,,0,Lynn,Washington Street,Munroe Street,3
+6773,6773,Market St @ Andrew St,,,,42.463153,-70.949441,LocalBus,,https://www.mbta.com/stops/6773,,0,,1,Lynn,Market Street,Tremont Street,3
 6774,6774,Market St @ Munroe St,,,,42.462252,-70.947799,LocalBus,,https://www.mbta.com/stops/6774,,0,,1,Lynn,Market Street,Munroe Street,3
 6780,6780,N Common St @ Hanover St,,,,42.463877,-70.955208,LocalBus,,https://www.mbta.com/stops/6780,,0,,1,Lynn,North Common Street,,3
 6783,6783,N Common St @ Park St,,,,42.463589,-70.960505,LocalBus,,https://www.mbta.com/stops/6783,,0,,0,Lynn,North Common Street,Park Street,3
@@ -5420,6 +5430,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 7223,7223,Eastern Ave @ Sheldon St,,,,42.475177,-70.929290,LocalBus,,https://www.mbta.com/stops/7223,,0,,0,Lynn,Eastern Avenue,Sheldon Street,3
 7233,7233,Union St @ Union Ct,,,,42.467951,-70.939210,LocalBus,,https://www.mbta.com/stops/7233,,0,,1,Lynn,Union Street,Union Court,3
 7234,7234,Union St @ Joyce St,,,,42.467024,-70.941538,LocalBus,,https://www.mbta.com/stops/7234,,0,,0,Lynn,Union Street,Smith Street,3
+7237,7237,Buffum St @ Union St,,,,42.465441,-70.943385,LocalBus,,https://www.mbta.com/stops/7237,,0,,0,Lynn,Buffum Street,Baldwin Street,3
 7240,7240,Washington St @ Essex St,,,,42.465888,-70.949959,LocalBus,,https://www.mbta.com/stops/7240,,0,,0,Lynn,Washington Street,Essex Street,3
 7242,7242,Washington St @ Beacon Hill Ave,,,,42.467861,-70.953569,LocalBus,,https://www.mbta.com/stops/7242,,0,,0,Lynn,Washington Street,Beacon Hill Avenue,3
 7245,7245,Washington St @ Western Ave,,,,42.469963,-70.957094,LocalBus,,https://www.mbta.com/stops/7245,,0,,0,Lynn,Washington Street,,3
@@ -5624,7 +5635,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 7525,7525,Vine St @ Talbot St,,,,42.462924,-71.018679,LocalBus,,https://www.mbta.com/stops/7525,,0,,0,Saugus,Vine Street,Highland Avenue,3
 7529,7529,Square One Mall @ Sears,,,,42.459904,-71.025815,LocalBus,,https://www.mbta.com/stops/7529,,0,,1,Saugus,,,3
 7531,7531,1709 Broadway,,,,42.452905,-71.023828,LocalBus,,https://www.mbta.com/stops/7531,,0,,0,Saugus,Broadway,Bennett Highway,3
-7532,7532,Opp 1500 Broadway,,,,42.448902,-71.026730,LocalBus,,https://www.mbta.com/stops/7532,,0,,2,Saugus,Broadway,Robins Road,3
+7532,7532,Opp 1450 Broadway,,,,42.450207,-71.026352,LocalBus,,https://www.mbta.com/stops/7532,,0,,2,Saugus,Broadway,,3
 7534,7534,Broadway @ Blue Hill Ave,,,,42.443003,-71.030131,LocalBus,,https://www.mbta.com/stops/7534,,0,,1,Malden,Broadway,Blue Hill Avenue,3
 7536,7536,Broadway @ Elwell St,,,,42.440132,-71.032078,LocalBus,,https://www.mbta.com/stops/7536,,0,,1,Malden,Broadway,Elwell Street,3
 7537,7537,522 Broadway @ Cliffside Commons,,,,42.438169,-71.033938,LocalBus,,https://www.mbta.com/stops/7537,,0,,1,Malden,Broadway,Ridge Hill Avenue,3
@@ -5637,7 +5648,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 75467,75467,Hyde Park Ave @ Glenwood Ave,,,,42.248593,-71.126826,LocalBus,,https://www.mbta.com/stops/75467,,0,,1,Boston,Hyde Park Avenue,Glenwood Avenue,3
 7547,7547,665 Broadway,,,,42.443002,-71.029982,LocalBus,,https://www.mbta.com/stops/7547,,0,,0,Malden,Broadway,Blue Hill Avenue,3
 7548,7548,735 Broadway,,,,42.444317,-71.028813,LocalBus,,https://www.mbta.com/stops/7548,,0,,1,Malden,Broadway,,3
-7550,7550,1434 Broadway,,,,42.450970,-71.025154,LocalBus,,https://www.mbta.com/stops/7550,,0,,0,Saugus,Broadway,,3
+7550,7550,1450 Broadway,,,,42.449946,-71.025978,LocalBus,,https://www.mbta.com/stops/7550,,0,,0,Saugus,Broadway,,3
 7555,7555,Vine St @ Talbot St,,,,42.462628,-71.018822,LocalBus,,https://www.mbta.com/stops/7555,,0,,0,Saugus,Vine Street,Highland Avenue,3
 7556,7556,49 Vine St,,,,42.461576,-71.019186,LocalBus,,https://www.mbta.com/stops/7556,,0,,0,Saugus,Vine Street,Marr Road,3
 7557,7557,Vine St opp Beech St,,,,42.458726,-71.019363,LocalBus,,https://www.mbta.com/stops/7557,,0,,0,Saugus,Vine Street,Davis Court,3
@@ -6051,7 +6062,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 8185,8185,Watertown St opp Pearl St,,,,42.361534,-71.196810,LocalBus,,https://www.mbta.com/stops/8185,,0,,1,Newton,Watertown Street,Pearl Street,3
 81852,81852,Chestnut St @ Oak St,,,,42.276974,-71.237510,LocalBus,,https://www.mbta.com/stops/81852,,0,,0,Needham,Chestnut Street,Oak Street,3
 8186,8186,Watertown St @ Chapel St,,,,42.360878,-71.200225,LocalBus,,https://www.mbta.com/stops/8186,,0,,1,Newton,Watertown Street,Chapel Street,3
-8187,8187,Watertown St @ Adams St,,,,42.360084,-71.202315,LocalBus,,https://www.mbta.com/stops/8187,,0,,0,Newton,Watertown Street,Adams Street,3
+8187,8187,Watertown St @ Adams St,,,,42.360392,-71.201837,LocalBus,,https://www.mbta.com/stops/8187,,0,,0,Newton,Watertown Street,Bridge Street,3
 8188,8188,503 Watertown St,,,,42.357429,-71.206028,LocalBus,,https://www.mbta.com/stops/8188,,0,,0,Newton,Watertown Street,Broadway,3
 8189,8189,Walnut St @ Watertown St,,,,42.355674,-71.209014,LocalBus,,https://www.mbta.com/stops/8189,,0,,0,Newton,Walnut Street,Watertown Street,3
 81916,81916,Lee St @ Boylston St,,,,42.326155,-71.140511,LocalBus,,https://www.mbta.com/stops/81916,,0,,0,Brookline,Lee Street,Lee Street Extension,3
@@ -6271,6 +6282,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 8477,8477,Sawmill Brook Pkwy @ Keller Path,,,,42.291264,-71.185586,LocalBus,,https://www.mbta.com/stops/8477,,0,,0,Newton,Sawmill Brook Parkway,Keller Path,3
 8478,8478,Sawmill Brook Pkwy @ Spiers Rd,,,,42.290281,-71.188363,LocalBus,,https://www.mbta.com/stops/8478,,0,,1,Newton,Sawmill Brook Parkway,Spiers Road,3
 8479,8479,Sawmill Brook Pkwy @ Van Roosen Rd,,,,42.290073,-71.189827,LocalBus,,https://www.mbta.com/stops/8479,,0,,0,Newton,Sawmill Brook Parkway,Van Roosen Road,3
+84791,84791,Sawmill Brook Pkwy @ Walsh Rd,,,,42.289995,-71.191092,LocalBus,,https://www.mbta.com/stops/84791,,0,,0,Newton,Sawmill Brook Parkway,Walsh Road,3
 848,848,Lagrange St opp Pender St,,,,42.284717,-71.162432,LocalBus,,https://www.mbta.com/stops/848,,0,,0,Boston,La Grange Street,Pender Street,3
 8480,8480,Wiswall Rd @ Walsh Rd,,,,42.291262,-71.192139,LocalBus,,https://www.mbta.com/stops/8480,,0,,0,Newton,Wiswall Road,Walsh Road,3
 8481,8481,Wiswall Rd @ Chinian Path,,,,42.292809,-71.190612,LocalBus,,https://www.mbta.com/stops/8481,,0,,0,Newton,Wiswall Road,Oconnell Road,3
@@ -6350,6 +6362,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 8550,8550,Wiswall Rd @ Walsh Rd,,,,42.291271,-71.192290,LocalBus,,https://www.mbta.com/stops/8550,,0,,0,Newton,Wiswall Road,Walsh Road,3
 8551,8551,Sawmill Brook Pkwy @ Van Roosen Rd,,,,42.289985,-71.189739,LocalBus,,https://www.mbta.com/stops/8551,,0,,0,Newton,Sawmill Brook Parkway,Van Roosen Road,3
 85511,85511,Sawmill Brook Pkwy @ Spiers Rd,,,,42.290209,-71.188248,LocalBus,,https://www.mbta.com/stops/85511,,0,,0,Newton,Sawmill Brook Parkway,Spiers Road,3
+8552,8552,Sawmill Brook Pkwy @ Walsh Rd,,,,42.289904,-71.191003,LocalBus,,https://www.mbta.com/stops/8552,,0,,2,Newton,Sawmill Brook Parkway,Walsh Road,3
 8553,8553,Sawmill Brook Pkwy @ Keller Path,,,,42.291080,-71.185716,LocalBus,,https://www.mbta.com/stops/8553,,0,,1,Newton,Sawmill Brook Parkway,Keller Path,3
 8554,8554,Sawmill Brook Pkwy @ McCarthy Rd,,,,42.292321,-71.183769,LocalBus,,https://www.mbta.com/stops/8554,,0,,1,Newton,Sawmill Brook Parkway,McCarthy Road,3
 85551,85551,Fredette Rd @ Spiers Rd,,,,42.292868,-71.181257,LocalBus,,https://www.mbta.com/stops/85551,,0,,0,Newton,Fredette Road,Spiers Road,3
@@ -6413,7 +6426,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 8633,8633,Marrett Rd opp Downing Rd,,,,42.434707,-71.239452,LocalBus,,https://www.mbta.com/stops/8633,,0,,0,Lexington,Marrett Road,Downing Road,3
 8634,8634,Marrett Rd opp Prospect Hill Rd,,,,42.435307,-71.237497,LocalBus,,https://www.mbta.com/stops/8634,,0,,0,Lexington,Marrett Road,Prospect Hill Road,3
 8635,8635,Marrett Rd @ Waltham St,,,,42.435732,-71.235184,LocalBus,,https://www.mbta.com/stops/8635,,0,,0,Lexington,Marrett Road,Waltham Street,3
-8636,8636,Massachusetts Ave @ Clarke St,,,,42.448481,-71.229454,LocalBus,,https://www.mbta.com/stops/8636,,0,,1,Lexington,Massachusetts Avenue,Meriam Street,3
+8636,8636,Massachusetts Ave @ Clarke St,,,,42.448211,-71.228979,LocalBus,,https://www.mbta.com/stops/8636,,0,,1,Lexington,Massachusetts Avenue,Depot Square,3
 8637,8637,Massachusetts Ave @ Winthrop Rd,,,,42.445957,-71.222763,LocalBus,,https://www.mbta.com/stops/8637,,0,,1,Lexington,Massachusetts Avenue,Woburn Street,3
 8638,8638,Massachusetts Ave @ Slocum Rd,,,,42.444814,-71.221019,LocalBus,,https://www.mbta.com/stops/8638,,0,,0,Lexington,Massachusetts Avenue,Slocum Road,3
 8639,8639,Massachusetts Ave @ Bloomfield St,,,,42.443344,-71.219054,LocalBus,,https://www.mbta.com/stops/8639,,0,,0,Lexington,Massachusetts Avenue,Bloomfield Street,3
@@ -6422,7 +6435,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 8643,8643,Massachusetts Ave @ Plainfield St,,,,42.434460,-71.209909,LocalBus,,https://www.mbta.com/stops/8643,,0,,0,Lexington,Massachusetts Avenue,Plainfield Street,3
 86434,86434,Cummins Hwy @ Rosewood St,,,,42.269278,-71.096861,LocalBus,,https://www.mbta.com/stops/86434,,0,,0,Boston,Cummins Highway,Rosewood Street,3
 8645,8645,Massachusetts Ave @ Independence Ave,,,,42.431493,-71.207998,LocalBus,,https://www.mbta.com/stops/8645,,0,,0,Lexington,Massachusetts Avenue,Independence Avenue,3
-86458,86458,Cummins Hwy @ Calvary Cemetery,,,,42.277858,-71.115045,LocalBus,,https://www.mbta.com/stops/86458,,0,,0,Boston,Cummins Highway,Mount Calvary Road,3
+86458,86458,Cummins Hwy @ Calvary Cemetery,,,,42.277718,-71.114800,LocalBus,,https://www.mbta.com/stops/86458,,0,,0,Boston,Cummins Highway,Mount Calvary Road,3
 86459,86459,Cummins Hwy opp Pleasantview St,,,,42.275040,-71.110236,LocalBus,,https://www.mbta.com/stops/86459,,0,,1,Boston,Cummins Highway,Pleasantview Street,3
 8647,8647,Massachusetts Ave @ Pleasant St,,,,42.429320,-71.207156,LocalBus,,https://www.mbta.com/stops/8647,,0,,0,Lexington,Massachusetts Avenue,Adams School Road,3
 86500,86500,American Legion Hwy @ Franklin Hill Ave,,,,42.295767,-71.092219,LocalBus,,https://www.mbta.com/stops/86500,,0,,0,Boston,American Legion Highway,Franklin Hill Avenue,3
@@ -6437,7 +6450,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 8678,8678,Main St opp Warren St - Watertown Line,,,,42.374546,-71.210485,LocalBus,,https://www.mbta.com/stops/8678,,0,,0,Waltham,Main Street,Warren Street,3
 8679,8679,Main St opp Longfellow Rd,,,,42.373561,-71.207022,LocalBus,,https://www.mbta.com/stops/8679,,0,,0,Watertown,Main Street,Longfellow Road,3
 8680,8680,Adams St @ Centre St,,,,42.295291,-71.056269,LocalBus,,https://www.mbta.com/stops/8680,,0,,1,Boston,Adams Street,Centre Street,3
-8681,8681,Adams St @ King St,,,,42.293215,-71.057344,LocalBus,,https://www.mbta.com/stops/8681,,0,,0,Boston,Adams Street,King Street,3
+8681,8681,Adams St @ King St,,,,42.293028,-71.057347,LocalBus,,https://www.mbta.com/stops/8681,,0,,0,Boston,Adams Street,King Street,3
 8682,8682,Adams St @ Lonsdale St,,,,42.291489,-71.057297,LocalBus,,https://www.mbta.com/stops/8682,,0,,1,Boston,Adams Street,Lonsdale Street,3
 8683,8683,Adams St @ Msgr Lydon Way,,,,42.290019,-71.056239,LocalBus,,https://www.mbta.com/stops/8683,,0,,0,Boston,Adams Street,Templeton Street,3
 8684,8684,Adams St @ Ashmont St,,,,42.288290,-71.055445,LocalBus,,https://www.mbta.com/stops/8684,,0,,1,Boston,Adams Street,Ashmont Street,3
@@ -6589,7 +6602,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 89606,89606,Totten Pond Rd @ Pond End Rd,,,,42.390758,-71.241288,LocalBus,,https://www.mbta.com/stops/89606,,0,,0,Waltham,Totten Pond Road,,3
 89607,89607,Totten Pond Rd @ Rando Ln,,,,42.391520,-71.242502,LocalBus,,https://www.mbta.com/stops/89607,,0,,0,Waltham,Totten Pond Road,Rando Lane,3
 89608,89608,Totten Pond Rd opp Craig Ln,,,,42.395355,-71.247958,LocalBus,,https://www.mbta.com/stops/89608,,0,,0,Waltham,Totten Pond Road,Craig Lane,3
-89609,89609,Totten Pond Rd @ Winter St,,,,42.397564,-71.252817,LocalBus,,https://www.mbta.com/stops/89609,,0,,0,Waltham,Totten Pond Road,,3
+89609,89609,Totten Pond Rd @ Winter St,,,,42.397559,-71.253762,LocalBus,,https://www.mbta.com/stops/89609,,0,,0,Waltham,Totten Pond Road,,3
 8961,8961,Readville St @ W Milton St,,,,42.238279,-71.135767,LocalBus,,https://www.mbta.com/stops/8961,,0,,0,Boston,Readville Street,West Milton Street,3
 89610,89610,Totten Pond Rd @ Third Ave,,,,42.397050,-71.257227,LocalBus,,https://www.mbta.com/stops/89610,,0,,0,Waltham,Totten Pond Road,,3
 89612,89612,175 Wyman St,,,,42.402082,-71.258857,LocalBus,,https://www.mbta.com/stops/89612,,0,,0,Waltham,Wyman Street,,3
@@ -6729,7 +6742,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9127,9127,Main St @ Everett St,,,,42.481026,-71.150913,LocalBus,,https://www.mbta.com/stops/9127,,0,,1,Woburn,Main Street,Everett Street,3
 9128,9128,Main St @ Manning St,,,,42.485904,-71.151862,LocalBus,,https://www.mbta.com/stops/9128,,0,,0,Woburn,Main Street,Manning Street,3
 9129,9129,Main St @ Mishawum Rd,,,,42.487889,-71.152084,LocalBus,,https://www.mbta.com/stops/9129,,0,,0,Woburn,Main Street,Mishawum Road,3
-913,913,Washington St @ Breck Ave,,,,42.350405,-71.166709,LocalBus,,https://www.mbta.com/stops/913,,0,,1,Boston,Washington Street,Bigelow Street,3
+913,913,Washington St @ Breck Ave,,,,42.350418,-71.166927,LocalBus,,https://www.mbta.com/stops/913,,0,,1,Boston,Washington Street,Breck Avenue,3
 9130,9130,Main St @ Page Pl,,,,42.490032,-71.153081,LocalBus,,https://www.mbta.com/stops/9130,,0,,0,Woburn,Main Street,Charles Gardner Lane,3
 9131,9131,Main St @ Eaton Ave,,,,42.492296,-71.154162,LocalBus,,https://www.mbta.com/stops/9131,,0,,0,Woburn,Main Street,Eaton Avenue,3
 91317,91317,Huntington Ave @ Gainsborough St,,,,42.341244,-71.086510,LocalBus,,https://www.mbta.com/stops/91317,,0,,1,Boston,Huntington Avenue,Gainsborough Street,3
@@ -6745,7 +6758,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9142,9142,Main St opp Mountain St,,,,42.514720,-71.160818,LocalBus,,https://www.mbta.com/stops/9142,,0,,1,Woburn,Main Street,Mountain Street,3
 9143,9143,Main St @ Wheeling St,,,,42.517096,-71.160477,LocalBus,,https://www.mbta.com/stops/9143,,0,,0,Woburn,Main Street,Wheeling Street,3
 9144,9144,1075 Main St,,,,42.518623,-71.158938,LocalBus,,https://www.mbta.com/stops/9144,,0,,0,Woburn,Main Street,North Maple Street,3
-9145,9145,Winthrop St @ Playstead Rd,,,,42.431475,-71.130965,LocalBus,,https://www.mbta.com/stops/9145,,0,,0,Medford,Winthrop Street,Playstead Road,3
+9145,9145,Winthrop St @ Playstead Rd,,,,42.431377,-71.130914,LocalBus,,https://www.mbta.com/stops/9145,,0,,0,Medford,Winthrop Street,Arden Road,3
 9146,9146,578 Winthrop St,,,,42.429733,-71.129796,LocalBus,,https://www.mbta.com/stops/9146,,0,,0,Medford,Winthrop Street,,3
 9147,9147,Winthrop St @ Brooks St - Medford HS,,,,42.427370,-71.125920,LocalBus,,https://www.mbta.com/stops/9147,,0,,1,Medford,Winthrop Street,Brooks Street,3
 9149,9149,Winthrop St @ Exeter St,,,,42.425346,-71.123087,LocalBus,,https://www.mbta.com/stops/9149,,0,,0,Medford,Winthrop Street,Exeter Street,3
@@ -6933,7 +6946,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 935,935,Commonwealth Ave @ St Paul St,,,,42.350811,-71.114856,LocalBus,,https://www.mbta.com/stops/935,,0,,1,Boston,Commonwealth Avenue,,3
 93618,93618,710 East St opp Kendall St,,,,42.147256,-71.240311,LocalBus,,https://www.mbta.com/stops/93618,,0,,0,Walpole,East Street,,3
 937,937,Commonwealth Ave @ Carlton St,,,,42.350075,-71.108712,LocalBus,,https://www.mbta.com/stops/937,,0,,1,Boston,Commonwealth Avenue,Carlton Street,3
-938,938,Commonwealth Ave @ St Marys St,,,,42.349788,-71.106391,LocalBus,,https://www.mbta.com/stops/938,,0,,1,Boston,Commonwealth Avenue,Saint Marys Street,3
+938,938,Commonwealth Ave @ St Mary's St,,,,42.349788,-71.106391,LocalBus,,https://www.mbta.com/stops/938,,0,,1,Boston,Commonwealth Avenue,Saint Marys Street,3
 939,939,Commonwealth Ave @ Hinsdale St,,,,42.349397,-71.103055,LocalBus,,https://www.mbta.com/stops/939,,0,,0,Boston,Commonwealth Avenue,Hinsdale Street,3
 9406,9406,Morton St @ Harvard St,,,,42.287892,-71.093878,LocalBus,,https://www.mbta.com/stops/9406,,0,,1,Boston,Morton Street,,3
 941,941,Commonwealth Ave @ Blandford St,,,,42.348970,-71.099643,LocalBus,,https://www.mbta.com/stops/941,,0,,1,Boston,Commonwealth Avenue,Blandford Street,3
@@ -6956,7 +6969,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9522,9522,Weston St @ Cedarwood Ave,,,,42.372747,-71.263706,LocalBus,,https://www.mbta.com/stops/9522,,0,,0,Waltham,Weston Street,Cedarwood Avenue,3
 9525,9525,Main Shopping Center @ Marshall's,,,,42.382322,-71.261895,LocalBus,,https://www.mbta.com/stops/9525,,0,,0,Waltham,,,3
 9526,9526,Main Shopping Center @ Market Basket,,,,42.381640,-71.262237,LocalBus,,https://www.mbta.com/stops/9526,,0,,1,Waltham,,,3
-953,953,Commonwealth Ave @ St Marys St,,,,42.350162,-71.106630,LocalBus,,https://www.mbta.com/stops/953,,0,,1,Boston,Commonwealth Avenue,Saint Marys Street,3
+953,953,Commonwealth Ave @ St Mary's St,,,,42.350162,-71.106630,LocalBus,,https://www.mbta.com/stops/953,,0,,1,Boston,Commonwealth Avenue,Saint Marys Street,3
 954,954,Commonwealth Ave @ University Rd,,,,42.350453,-71.108831,LocalBus,,https://www.mbta.com/stops/954,,0,,1,Boston,Commonwealth Avenue,University Road,3
 956,956,Commonwealth Ave @ Buick St,,,,42.351310,-71.115933,LocalBus,,https://www.mbta.com/stops/956,,0,,2,Boston,Commonwealth Avenue,Buick Street,3
 95618,95618,East St @ Diamond St,,,,42.147098,-71.246662,LocalBus,,https://www.mbta.com/stops/95618,,0,,0,Walpole,East Street,Diamond Street,3
@@ -6983,7 +6996,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 975,975,Washington St @ Brock St,,,,42.348976,-71.160573,LocalBus,,https://www.mbta.com/stops/975,,0,,1,Boston,Washington Street,Lake Street,3
 97618,97618,East St @ Main St,,,,42.146977,-71.251906,LocalBus,,https://www.mbta.com/stops/97618,,0,,0,Walpole,East Street,Main Street,3
 977,977,Washington St @ Oak Square Ave,,,,42.349897,-71.164524,LocalBus,,https://www.mbta.com/stops/977,,0,,1,Boston,Washington Street,Montfern Avenue,3
-9780,9780,Washington St @ Oak Sq,,,,42.350563,-71.166650,LocalBus,,https://www.mbta.com/stops/9780,,0,,1,Boston,Washington Street,Bigelow Street,3
+9780,9780,Washington St @ Oak Sq,,,,42.350544,-71.166438,LocalBus,,https://www.mbta.com/stops/9780,,0,,1,Boston,Washington Street,Brackett Street,3
 979,979,Tremont St @ Washington St,,,,42.350609,-71.168636,LocalBus,,https://www.mbta.com/stops/979,,0,,1,Boston,Tremont Street,Washington Street,3
 981,981,Tremont St opp Tremont Pl,,,,42.350798,-71.172164,LocalBus,,https://www.mbta.com/stops/981,,0,,1,Boston,Tremont Street,Tremont Place,3
 982,982,Tremont St opp Cufflin St,,,,42.351667,-71.173976,LocalBus,,https://www.mbta.com/stops/982,,0,,1,Boston,Tremont Street,Cufflin Street,3
@@ -8543,6 +8556,7 @@ node-haecl-passfhstair-platform,,Haymarket,"Haymarket - Top of stairs between Fo
 node-haecl-passogstair-passage,,Haymarket,"Haymarket - Bottom of stairs between Oak Grove platform and Green Line, busway passageway",,,,,,,,level_-2_passageway,3,place-haecl,1,Boston,,,
 node-haecl-passogstair-platform,,Haymarket,"Haymarket - Top of stairs between Oak Grove platform and Green Line, busway passageway",,,,,,,,level_-1_orange_platform,3,place-haecl,1,Boston,,,
 place-harsq,,Harvard,,,,42.373362,-71.118956,,"1400 Massachusetts Ave, Cambridge, MA",https://www.mbta.com/stops/place-harsq,,1,,1,Cambridge,,,
+2076,2076,Harvard,Harvard - Lower Busway,,Lower Busway,42.373362,-71.118956,LocalBus,,https://www.mbta.com/stops/place-harsq,level_-2_low_busway,0,place-harsq,0,Cambridge,Harvard Busway,,3
 20761,20761,Harvard,Harvard - Upper Busway,,Upper Busway,42.373362,-71.118956,LocalBus,,https://www.mbta.com/stops/place-harsq,level_-1_up_busway,0,place-harsq,0,Cambridge,Harvard Busway,,3
 20762,20762,Harvard,Harvard - Busway,,Busway,42.373362,-71.118956,LocalBus,,https://www.mbta.com/stops/place-harsq,level_-1_up_busway,0,place-harsq,0,Cambridge,Harvard Busway,,3
 70067,70067,Harvard,Harvard - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.373362,-71.118956,RapidTransit,,https://www.mbta.com/stops/place-harsq,level_-2_southbound_platform,0,place-harsq,1,Cambridge,,,1
