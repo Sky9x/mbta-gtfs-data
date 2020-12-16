@@ -1,14 +1,14 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-BUS121-1-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
-BUS121-15-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
-BUS121-1B-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
-BUS121-3-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
-BUS121-9-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
-BUS121-F-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
-BUS121-H-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
-BUS121-N-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
-BUS121-T-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
-BUS121-Z-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
+BUS121-14-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
+BUS121-19-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
+BUS121-1D-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
+BUS121-2-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
+BUS121-8-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
+BUS121-E-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
+BUS121-G-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
+BUS121-M-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
+BUS121-S-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
+BUS121-Y-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
 BUS420-3-Sa-02,Saturday schedule,Saturday,Saturday,1,20200830,20201219,Fall
 BUS420-4-Su-02,Sunday schedule,Sunday,Sunday,1,20200830,20201219,Fall
 BUS420-6-Sa-02,Saturday schedule,Saturday,Saturday,1,20200830,20201219,Fall
@@ -85,8 +85,6 @@ ChristmasDay-NewYearsDay,Holiday (Sunday schedule),Holiday,Sunday,3,20201220,202
 FallWeekday,Weekday schedule,Weekday,Weekday,1,20200830,20201219,Fall
 LRV121-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
 LRV121-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20201220,20210313,Winter
-LRV121-3-Su-01,Sunday schedule,Sunday,Sunday,1,20201220,20210313,Winter
-LRV121-3-Su-01-BrnHlsKnr,Sunday schedule,Sunday,Sunday,4,20201220,20210313,Winter
 LRV121-5-Su-01,Holiday (Sunday schedule),Holiday,Sunday,3,20201220,20210313,Winter
 LRV121-6-Su-01,Holiday (Sunday schedule),Holiday,Sunday,3,20201220,20210313,Winter
 LRV121-7-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
@@ -95,9 +93,11 @@ LRV121-B-Su-01,Holiday (Sunday schedule),Holiday,Sunday,3,20201220,20210313,Wint
 LRV121-C-Su-01,Holiday (Sunday schedule),Holiday,Sunday,3,20201220,20210313,Winter
 LRV420-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20200830,20201219,Fall
 LRV420-1-Wdy-01-RsrRvd,Weekday schedule,Weekday,Weekday,4,20200830,20201219,Fall
-LRV420-2-Sa-01-BrnHlsKnr,Saturday schedule,Saturday,Saturday,4,20200830,20201219,Fall
+LRV420-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20200830,20201219,Fall
 LRV420-2-Sa-01-RsrRvd,Saturday schedule,Saturday,Saturday,4,20200830,20201219,Fall
 LRV420-3-Su-01,Sunday schedule,Sunday,Sunday,4,20200830,20201219,Fall
+LRV420-4-Wdy-01,Weekday schedule,Weekday,Weekday,1,20200830,20201219,Fall
+LRV420-4-Wdy-01-AstMtn,Weekday schedule,Weekday,Weekday,4,20200830,20201219,Fall
 LRV420-5-Sa-01,Saturday schedule,Saturday,Saturday,1,20200830,20201219,Fall
 LRV420-6-Su-01,Sunday schedule,Sunday,Sunday,1,20200830,20201219,Fall
 MartinLutherKingDay-WashingtonsBirthday,Holiday (Saturday schedule),Holiday,Saturday,3,20201220,20210313,Winter
@@ -109,7 +109,7 @@ PRIV121-5-Su-01,Sunday schedule,Sunday,Sunday,1,20201220,20210313,Winter
 PRIV121-6-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
 PRIV121-7-Sa-01,Saturday schedule,Saturday,Saturday,1,20201220,20210313,Winter
 PRIV121-8-Su-01,Sunday schedule,Sunday,Sunday,1,20201220,20210313,Winter
-PRIV121-9-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
+PRIV121-E-Wdy-01,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
 PRIV420-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20200830,20201219,Fall
 PRIV420-4-Sa-01,Saturday schedule,Saturday,Saturday,1,20200830,20201219,Fall
 PRIV420-5-Su-01,Sunday schedule,Sunday,Sunday,1,20200830,20201219,Fall
@@ -135,4 +135,4 @@ RTL420-8-Sa-01,Saturday schedule,Saturday,Saturday,1,20200830,20201219,Fall
 RTL420-9-Su-01,Sunday schedule,Sunday,Sunday,1,20200830,20201219,Fall
 WinterSaturday,Saturday schedule,Saturday,Saturday,1,20201220,20210313,Winter
 WinterSunday,Sunday schedule,Sunday,Sunday,1,20201220,20210313,Winter
-WinterWeekday,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
+WinterWeekday,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
