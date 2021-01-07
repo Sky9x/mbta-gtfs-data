@@ -1,44 +1,10 @@
 service_id,date,exception_type,holiday_name
-Boat-F1-WkdLmd,20201225,2,Christmas Day
-Boat-F4-Wkd,20201225,2,Christmas Day
-CR-Sunday-Fairmount-Fall-20,20201225,1,Christmas Day
-CR-Sunday-Fitchburg-Fall-20,20201225,1,Christmas Day
-CR-Sunday-Franklin-Fall-20,20201225,1,Christmas Day
-CR-Sunday-Greenbush-Fall-20,20201225,1,Christmas Day
-CR-Sunday-Haverhill-Fall-20,20201225,1,Christmas Day
-CR-Sunday-Kingston-Fall-20,20201225,1,Christmas Day
-CR-Sunday-Lowell-Fall-20,20201225,1,Christmas Day
-CR-Sunday-Middleborough-Fall-20,20201225,1,Christmas Day
-CR-Sunday-Newburyport-Fall-20,20201225,1,Christmas Day
-CR-Sunday-Providence-Fall-20,20201225,1,Christmas Day
-CR-Sunday-Worcester-Fall-20,20201225,1,Christmas Day
-ChristmasDay-NewYearsDay,20201225,1,Christmas Day
-LRV12021-hlb11011-Weekday-01,20201225,2,Christmas Day
-LRV12021-hlb11xm7-Sunday-01,20201225,1,Christmas Day
-LRV12021-hlm11011-Weekday-01,20201225,2,Christmas Day
-LRV12021-hlm11xm7-Sunday-01,20201225,1,Christmas Day
-PRIV12021-hpa11011-Weekday-01,20201225,2,Christmas Day
-PRIV12021-hpj11011-Weekday-01,20201225,2,Christmas Day
-PRIV12021-hpj11017-Sunday-01,20201225,1,Christmas Day
-PRIV12021-hpl11011-Weekday-01,20201225,2,Christmas Day
-PRIV12021-hpl11017-Sunday-01,20201225,1,Christmas Day
-RTL12021-hmb11011-Weekday-01,20201225,2,Christmas Day
-RTL12021-hmo11011-Weekday-01,20201225,2,Christmas Day
-RTL12021-hms11011-Weekday-01,20201225,2,Christmas Day
-CR-Saturday-Fitchburg-Fall-20,20201226,1,
-CR-Saturday-Lowell-Fall-20,20201226,1,
-CR-Sunday-Fitchburg-Fall-20,20201227,1,
-CR-Sunday-Lowell-Fall-20,20201227,1,
-LRV12021-hlb11011-Weekday-01,20201231,2,New Year's Eve
 LRV12021-hlb11016-Saturday-01,20201231,1,New Year's Eve
-LRV12021-hlm11011-Weekday-01,20201231,2,New Year's Eve
 LRV12021-hlm11016-Saturday-01,20201231,1,New Year's Eve
-RTL12021-hmb11011-Weekday-01,20201231,2,New Year's Eve
 RTL12021-hmb11016-Saturday-01,20201231,1,New Year's Eve
-RTL12021-hmo11011-Weekday-01,20201231,2,New Year's Eve
 RTL12021-hmo11016-Saturday-01,20201231,1,New Year's Eve
-RTL12021-hms11011-Weekday-01,20201231,2,New Year's Eve
 RTL12021-hms11016-Saturday-01,20201231,1,New Year's Eve
+WinterWeekday,20201231,1,New Year's Eve
 Boat-F1-WkdLmd,20210101,2,New Year's Day
 Boat-F4-Wkd,20210101,2,New Year's Day
 CR-Sunday-Fairmount-Fall-20,20210101,1,New Year's Day
@@ -52,34 +18,29 @@ CR-Sunday-Middleborough-Fall-20,20210101,1,New Year's Day
 CR-Sunday-Newburyport-Fall-20,20210101,1,New Year's Day
 CR-Sunday-Providence-Fall-20,20210101,1,New Year's Day
 CR-Sunday-Worcester-Fall-20,20210101,1,New Year's Day
-ChristmasDay-NewYearsDay,20210101,1,New Year's Day
-LRV12021-hlb11011-Weekday-01,20210101,2,New Year's Day
-LRV12021-hlb11hl7-Sunday-01,20210101,1,New Year's Day
-LRV12021-hlm11011-Weekday-01,20210101,2,New Year's Day
-LRV12021-hlm11hl7-Sunday-01,20210101,1,New Year's Day
+CR-Weekday-Fairmount-Storm-20,20210101,2,New Year's Day
+CR-Weekday-Fitchburg-Storm-20,20210101,2,New Year's Day
+CR-Weekday-Franklin-Storm-20,20210101,2,New Year's Day
+CR-Weekday-Greenbush-Storm-20,20210101,2,New Year's Day
+CR-Weekday-Haverhill-Storm-20,20210101,2,New Year's Day
+CR-Weekday-Kingston-Storm-20,20210101,2,New Year's Day
+CR-Weekday-Lowell-Storm-20,20210101,2,New Year's Day
+CR-Weekday-Middleborough-Storm-20,20210101,2,New Year's Day
+CR-Weekday-Needham-Storm-20,20210101,2,New Year's Day
+CR-Weekday-Newburyport-Storm-20,20210101,2,New Year's Day
+CR-Weekday-Providence-Storm-20,20210101,2,New Year's Day
+CR-Weekday-Worcester-Storm-20,20210101,2,New Year's Day
+NewYearsDay,20210101,1,New Year's Day
 PRIV12021-hpa11011-Weekday-01,20210101,2,New Year's Day
 PRIV12021-hpj11011-Weekday-01,20210101,2,New Year's Day
 PRIV12021-hpj11017-Sunday-01,20210101,1,New Year's Day
 PRIV12021-hpl11011-Weekday-01,20210101,2,New Year's Day
 PRIV12021-hpl11017-Sunday-01,20210101,1,New Year's Day
-RTL12021-hmb11011-Weekday-01,20210101,2,New Year's Day
-RTL12021-hmo11011-Weekday-01,20210101,2,New Year's Day
-RTL12021-hms11011-Weekday-01,20210101,2,New Year's Day
 CR-Saturday-Fitchburg-Fall-20,20210102,1,
 CR-Sunday-Fitchburg-Fall-20,20210103,1,
-CR-Weekday-Fairmount-Storm-20,20210108,1,
-CR-Weekday-Fitchburg-Storm-20,20210108,1,
-CR-Weekday-Franklin-Storm-20,20210108,1,
-CR-Weekday-Greenbush-Storm-20,20210108,1,
-CR-Weekday-Haverhill-Storm-20,20210108,1,
-CR-Weekday-Kingston-Storm-20,20210108,1,
-CR-Weekday-Lowell-Storm-20,20210108,1,
-CR-Weekday-Middleborough-Storm-20,20210108,1,
-CR-Weekday-Needham-Storm-20,20210108,1,
-CR-Weekday-Newburyport-Storm-20,20210108,1,
-CR-Weekday-Providence-Storm-20,20210108,1,
-CR-Weekday-Worcester-Storm-20,20210108,1,
+CR-Saturday-Fitchburg-Fall-20,20210109,1,
 CR-Saturday-Kingston-Fall-20,20210109,2,
+CR-Sunday-Fitchburg-Fall-20,20210110,1,
 CR-Sunday-Kingston-Fall-20,20210110,2,
 BUS12021-hba11011-Weekday-02,20210118,2,Martin Luther King Day
 BUS12021-hbb11011-Weekday-02,20210118,2,Martin Luther King Day
@@ -140,7 +101,6 @@ BUS12021-hbs11011-Weekday-02,20210216,2,
 BUS12021-hbt11011-Weekday-02,20210216,2,
 BUS12021-htn11011-Weekday-02,20210216,2,
 PRIV12021-hpp11011-Weekday-01,20210216,2,
-WinterWeekday,20210216,1,
 BUS12021-hba11011-Weekday-02,20210217,2,
 BUS12021-hbb11011-Weekday-02,20210217,2,
 BUS12021-hbc11011-Weekday-02,20210217,2,
@@ -152,7 +112,6 @@ BUS12021-hbs11011-Weekday-02,20210217,2,
 BUS12021-hbt11011-Weekday-02,20210217,2,
 BUS12021-htn11011-Weekday-02,20210217,2,
 PRIV12021-hpp11011-Weekday-01,20210217,2,
-WinterWeekday,20210217,1,
 BUS12021-hba11011-Weekday-02,20210218,2,
 BUS12021-hbb11011-Weekday-02,20210218,2,
 BUS12021-hbc11011-Weekday-02,20210218,2,
@@ -164,7 +123,6 @@ BUS12021-hbs11011-Weekday-02,20210218,2,
 BUS12021-hbt11011-Weekday-02,20210218,2,
 BUS12021-htn11011-Weekday-02,20210218,2,
 PRIV12021-hpp11011-Weekday-01,20210218,2,
-WinterWeekday,20210218,1,
 BUS12021-hba11011-Weekday-02,20210219,2,
 BUS12021-hbb11011-Weekday-02,20210219,2,
 BUS12021-hbc11011-Weekday-02,20210219,2,
@@ -176,4 +134,3 @@ BUS12021-hbs11011-Weekday-02,20210219,2,
 BUS12021-hbt11011-Weekday-02,20210219,2,
 BUS12021-htn11011-Weekday-02,20210219,2,
 PRIV12021-hpp11011-Weekday-01,20210219,2,
-WinterWeekday,20210219,1,
