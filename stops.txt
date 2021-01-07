@@ -7680,11 +7680,11 @@ node-armnl-wbstairs-lobby,,Arlington,Arlington - Top of westbound stairs,,,,,,,,
 node-armnl-wbstairs-platform,,Arlington,Arlington - Bottom of westbound stairs,,,,,,,,level_-2_platform,3,place-armnl,1,Boston,,,
 node-armnl-wescstairs-escalator,,Arlington,Arlington - Top of stairs from westbound escalator,,,,,,,,level_-0.5_landing,3,place-armnl,1,Boston,,,
 node-armnl-wescstairs-lobby,,Arlington,Arlington - Bottom of stairs from westbound escalator,,,,,,,,level_-1_lobby,3,place-armnl,1,Boston,,,
-place-asmnl,,Ashmont,,,,42.284652,-71.064489,,"Dorchester Ave and Ashmont St, Boston, MA 02124",https://www.mbta.com/stops/place-asmnl,,1,,1,Boston,,,
+place-asmnl,,Ashmont,,,,42.284520,-71.063777,,"Dorchester Ave and Ashmont St, Boston, MA 02124",https://www.mbta.com/stops/place-asmnl,,1,,1,Boston,,,
 334,334,Ashmont,Ashmont - Busway,,Busway,42.284195,-71.063879,LocalBus,,https://www.mbta.com/stops/place-asmnl,level_ground,0,place-asmnl,0,Boston,Busway,,3
-70093,70093,Ashmont,Ashmont - Red Line - Exit Only,,Exit Only,42.284239,-71.063601,RapidTransit,,https://www.mbta.com/stops/place-asmnl,level_-1_platform,0,place-asmnl,1,Boston,,,1
-70094,70094,Ashmont,Ashmont - Red Line - Alewife,,Alewife,42.284258,-71.063524,RapidTransit,,https://www.mbta.com/stops/place-asmnl,level_-1_platform,0,place-asmnl,1,Boston,,,1
-70261,70261,Ashmont,Ashmont - Mattapan Trolley,,Mattapan Trolley,42.284095,-71.063302,RapidTransit,,https://www.mbta.com/stops/place-asmnl,level_ground,0,place-asmnl,1,Boston,,,0
+70093,70093,Ashmont,Ashmont - Red Line - Exit Only,,Exit Only,42.284508,-71.063833,RapidTransit,,https://www.mbta.com/stops/place-asmnl,level_-1_platform,0,place-asmnl,1,Boston,,,1
+70094,70094,Ashmont,Ashmont - Red Line - Alewife,,Alewife,42.284530,-71.063725,RapidTransit,,https://www.mbta.com/stops/place-asmnl,level_-1_platform,0,place-asmnl,1,Boston,,,1
+70261,70261,Ashmont,Ashmont - Mattapan Trolley,,Mattapan Trolley,42.283768,-71.063191,RapidTransit,,https://www.mbta.com/stops/place-asmnl,level_ground,0,place-asmnl,1,Boston,,,0
 door-asmnl-beale,,Ashmont - Beale St,Ashmont - Beale St,,,42.283765,-71.063468,,,,level_-1.5_in_street,2,place-asmnl,1,Boston,,,
 door-asmnl-matpn,,Ashmont - Mattapan Line (Lobby),Ashmont - Mattapan Line (Lobby),,,42.283928,-71.063598,,,,level_ground,2,place-asmnl,1,Boston,,,
 door-asmnl-peabody,,Ashmont - Peabody Square,Ashmont - Peabody Square,,,42.285204,-71.064223,,,,level_in_street,2,place-asmnl,1,Boston,,,
@@ -7827,13 +7827,14 @@ node-bbsta-w57stairs-platform,,Back Bay,Back Bay - Bottom of Tracks 5-7 west sta
 place-bckhl,,Back of the Hill,,,,42.330139,-71.111313,,"100 S Huntington Ave, Boston, MA 02130",https://www.mbta.com/stops/place-bckhl,,1,,2,Boston,,,
 70257,70257,Back of the Hill,Back of the Hill - Green Line - (E) Heath Street,,Heath Street,42.329369,-71.111046,RapidTransit,,https://www.mbta.com/stops/place-bckhl,level_in_street,0,place-bckhl,2,Boston,,,0
 70258,70258,Back of the Hill,Back of the Hill - Green Line - Park Street & North,,Park Street & North,42.329399,-71.110931,RapidTransit,,https://www.mbta.com/stops/place-bckhl,level_in_street,0,place-bckhl,2,Boston,,,0
-place-bcnfd,,Beaconsfield,,,,42.335846,-71.140823,,"124 Beaconsfield Rd, Brookline, MA 02445",https://www.mbta.com/stops/place-bcnfd,,1,,2,Brookline,,,
-70176,70176,Beaconsfield,Beaconsfield - Green Line - Park Street & North,,Park Street & North,42.335809,-71.140841,RapidTransit,,https://www.mbta.com/stops/place-bcnfd,level_ground,0,place-bcnfd,2,Brookline,,,0
-70177,70177,Beaconsfield,Beaconsfield - Green Line - (D) Riverside,,Riverside,42.335848,-71.140826,RapidTransit,,https://www.mbta.com/stops/place-bcnfd,level_ground,0,place-bcnfd,2,Brookline,,,0
+place-bcnfd,,Beaconsfield,,,,42.335765,-71.140455,,"124 Beaconsfield Rd, Brookline, MA 02445",https://www.mbta.com/stops/place-bcnfd,,1,,2,Brookline,,,
+70176,70176,Beaconsfield,Beaconsfield - Green Line - Park Street & North,,Park Street & North,42.335625,-71.140112,RapidTransit,,https://www.mbta.com/stops/place-bcnfd,level_ground,0,place-bcnfd,2,Brookline,,,0
+70177,70177,Beaconsfield,Beaconsfield - Green Line - (D) Riverside,,Riverside,42.335912,-71.140903,RapidTransit,,https://www.mbta.com/stops/place-bcnfd,level_ground,0,place-bcnfd,2,Brookline,,,0
 door-bcnfd-bcnfield,,Beaconsfield - Beaconsfield Rd,Beaconsfield - Beaconsfield Rd,,,42.335788,-71.139930,,,,level_ground,2,place-bcnfd,1,Brookline,,,
 door-bcnfd-clark,,Beaconsfield - Clark Rd,Beaconsfield - Clark Rd,,,42.335555,-71.139970,,,,level_ground,2,place-bcnfd,1,Brookline,,,
 door-bcnfd-dean,,"Beaconsfield - Dean Rd, Beacon St","Beaconsfield - Dean Rd, Beacon St",,,42.336053,-71.141404,,,,level_1_in_street,2,place-bcnfd,2,Brookline,,,
 door-bcnfd-lot,,Beaconsfield - Parking Lot,Beaconsfield - Parking Lot,,,42.335845,-71.140420,,,,level_ground,2,place-bcnfd,2,Brookline,,,
+node-bcnfd-stairs-platform,,Beaconsfield,"Beaconsfield - Bottom of stairs to Dean Road, Beacon Street",,,42.336041,-71.141306,,,,level_ground,3,place-bcnfd,1,Brookline,,,
 place-bcnwa,,Washington Square,,,,42.339394,-71.135330,,"Beacon St and Washington St, Brookline, MA",https://www.mbta.com/stops/place-bcnwa,,1,,1,Brookline,,,
 70229,70229,Washington Square,Washington Square - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.339471,-71.135139,RapidTransit,,https://www.mbta.com/stops/place-bcnwa,level_median,0,place-bcnwa,1,Brookline,,,0
 70230,70230,Washington Square,Washington Square - Green Line - Park Street & North,,Park Street & North,42.339519,-71.134587,RapidTransit,,https://www.mbta.com/stops/place-bcnwa,level_median,0,place-bcnwa,1,Brookline,,,0
@@ -7913,9 +7914,9 @@ node-brdwy-travelerstairs-lobby,,Broadway,Broadway - Bottom of Traveler Street e
 place-brico,,Packards Corner,,,,42.351967,-71.125031,,"Commonwealth Ave and Brighton Ave, Boston, MA 02215",https://www.mbta.com/stops/place-brico,,1,,2,Boston,,,
 70134,70134,Packards Corner,Packards Corner - Green Line - Park Street & North,,Park Street & North,42.351891,-71.125067,RapidTransit,,https://www.mbta.com/stops/place-brico,level_median,0,place-brico,2,Boston,,,0
 70135,70135,Packards Corner,Packards Corner - Green Line - (B) Boston College,,Boston College,42.351651,-71.125510,RapidTransit,,https://www.mbta.com/stops/place-brico,level_median,0,place-brico,2,Boston,,,0
-place-brkhl,,Brookline Hills,,,,42.331333,-71.126999,,"Tappan St and Cypress St, Brookline, MA 02445",https://www.mbta.com/stops/place-brkhl,,1,,1,Brookline,,,
-70178,70178,Brookline Hills,Brookline Hills - Green Line - Park Street & North,,Park Street & North,42.331238,-71.127012,RapidTransit,,https://www.mbta.com/stops/place-brkhl,level_ground,0,place-brkhl,1,Brookline,,,0
-70179,70179,Brookline Hills,Brookline Hills - Green Line - (D) Riverside,,Riverside,42.331333,-71.126998,RapidTransit,,https://www.mbta.com/stops/place-brkhl,level_ground,0,place-brkhl,1,Brookline,,,0
+place-brkhl,,Brookline Hills,,,,42.331316,-71.126683,,"Tappan St and Cypress St, Brookline, MA 02445",https://www.mbta.com/stops/place-brkhl,,1,,1,Brookline,,,
+70178,70178,Brookline Hills,Brookline Hills - Green Line - Park Street & North,,Park Street & North,42.331251,-71.126414,RapidTransit,,https://www.mbta.com/stops/place-brkhl,level_ground,0,place-brkhl,1,Brookline,,,0
+70179,70179,Brookline Hills,Brookline Hills - Green Line - (D) Riverside,,Riverside,42.331371,-71.126872,RapidTransit,,https://www.mbta.com/stops/place-brkhl,level_ground,0,place-brkhl,1,Brookline,,,0
 door-brkhl-bhs,,"Brookline Hills - Tappan St, Brookline High School","Brookline Hills - Tappan St, Brookline High School",,,42.331516,-71.126922,,,,level_in_street,2,place-brkhl,1,Brookline,,,
 door-brkhl-cypress,,"Brookline Hills - Tappan St, Cypress St","Brookline Hills - Tappan St, Cypress St",,,42.331421,-71.126579,,,,level_in_street,2,place-brkhl,1,Brookline,,,
 place-brmnl,,Brigham Circle,,,,42.334229,-71.104609,,"Huntington Ave and Francis St, Boston, MA",https://www.mbta.com/stops/place-brmnl,,1,,1,Boston,,,
@@ -7957,24 +7958,26 @@ place-bucen,,Boston University Central,,,,42.350082,-71.106865,,"Commonwealth Av
 place-buest,,Boston University East,,,,42.349735,-71.103889,,"Commonwealth Ave and Granby St, Boston, MA 02215",https://www.mbta.com/stops/place-buest,,1,,1,Boston,,,
 70146,70146,Boston University East,Boston University East - Green Line - Park Street & North,,Park Street & North,42.349659,-71.103989,RapidTransit,,https://www.mbta.com/stops/place-buest,level_median,0,place-buest,1,Boston,,,0
 70147,70147,Boston University East,Boston University East - Green Line - (B) Boston College,,Boston College,42.349811,-71.104657,RapidTransit,,https://www.mbta.com/stops/place-buest,level_median,0,place-buest,1,Boston,,,0
-place-butlr,,Butler,,,,42.272343,-71.062584,,"Butler St and Branchfield St, Dorchester, MA 02124",https://www.mbta.com/stops/place-butlr,,1,,1,Boston,,,
-70265,70265,Butler,Butler - Mattapan Trolley - Mattapan,,Mattapan,42.272343,-71.062585,RapidTransit,,https://www.mbta.com/stops/place-butlr,level_ground,0,place-butlr,1,Boston,,,0
-70266,70266,Butler,Butler - Mattapan Trolley - Ashmont,,Ashmont,42.272291,-71.062500,RapidTransit,,https://www.mbta.com/stops/place-butlr,level_ground,0,place-butlr,1,Boston,,,0
-door-butlr-bearse,,"Butler - Bearse Ave, Butler St","Butler - Bearse Ave, Butler St",,,42.272115,-71.062677,,,,level_in_street,2,place-butlr,1,Boston,,,
+place-butlr,,Butler,,,,42.272429,-71.062519,,"Butler St and Branchfield St, Dorchester, MA 02124",https://www.mbta.com/stops/place-butlr,,1,,1,Boston,,,
+70265,70265,Butler,Butler - Mattapan Trolley - Mattapan,,Mattapan,42.272449,-71.062513,RapidTransit,,https://www.mbta.com/stops/place-butlr,level_ground,0,place-butlr,1,Boston,,,0
+70266,70266,Butler,Butler - Mattapan Trolley - Ashmont,,Ashmont,42.272477,-71.062438,RapidTransit,,https://www.mbta.com/stops/place-butlr,level_ground,0,place-butlr,1,Boston,,,0
+door-butlr-bearse,,"Butler - Bearse Ave, Butler St","Butler - Bearse Ave, Butler St",,,42.272115,-71.062677,,,,level_0.5_ground,2,place-butlr,1,Boston,,,
 door-butlr-branchfield,,"Butler - Branchfield St, Butler St","Butler - Branchfield St, Butler St",,,42.272469,-71.062579,,,,level_ground,2,place-butlr,1,Boston,,,
+node-butlr-ramp-platform,,Butler,Butler - Bottom of ramp for Bearse Avenue,,,42.272359,-71.062462,,,,level_ground,3,place-butlr,1,Boston,,,
 place-buwst,,Boston University West,,,,42.350941,-71.113876,,"Commonwealth Ave and Amory St, Boston, MA 02215",https://www.mbta.com/stops/place-buwst,,1,,2,Boston,,,
 70142,70142,Boston University West,Boston University West - Green Line - Park Street & North,,Park Street & North,42.350765,-71.113133,RapidTransit,,https://www.mbta.com/stops/place-buwst,level_median,0,place-buwst,2,Boston,,,0
 70143,70143,Boston University West,Boston University West - Green Line - (B) Boston College,,Boston College,42.350894,-71.113645,RapidTransit,,https://www.mbta.com/stops/place-buwst,level_median,0,place-buwst,2,Boston,,,0
-place-bvmnl,,Brookline Village,,,,42.332774,-71.116296,,"31 Station Street, Brookline, MA 02445",https://www.mbta.com/stops/place-bvmnl,,1,,1,Brookline,,,
-70180,70180,Brookline Village,Brookline Village - Green Line - Park Street & North,,Park Street & North,42.332838,-71.116234,RapidTransit,,https://www.mbta.com/stops/place-bvmnl,level_ground,0,place-bvmnl,1,Brookline,,,0
-70181,70181,Brookline Village,Brookline Village - Green Line - (D) Riverside,,Riverside,42.332871,-71.116263,RapidTransit,,https://www.mbta.com/stops/place-bvmnl,level_ground,0,place-bvmnl,1,Brookline,,,0
+place-bvmnl,,Brookline Village,,,,42.332608,-71.116857,,"31 Station Street, Brookline, MA 02445",https://www.mbta.com/stops/place-bvmnl,,1,,1,Brookline,,,
+70180,70180,Brookline Village,Brookline Village - Green Line - Park Street & North,,Park Street & North,42.332614,-71.116751,RapidTransit,,https://www.mbta.com/stops/place-bvmnl,level_ground,0,place-bvmnl,1,Brookline,,,0
+70181,70181,Brookline Village,Brookline Village - Green Line - (D) Riverside,,Riverside,42.332570,-71.117041,RapidTransit,,https://www.mbta.com/stops/place-bvmnl,level_ground,0,place-bvmnl,1,Brookline,,,0
 door-bvmnl-boylston,,"Brookline Village - Buses, Route 9","Brookline Village - Buses, Route 9",,,42.332660,-71.116542,,,,level_in_street,2,place-bvmnl,1,Brookline,,,
 door-bvmnl-kent,,"Brookline Village - Station St, Kent St","Brookline Village - Station St, Kent St",,,42.332818,-71.116610,,,,level_in_street,2,place-bvmnl,1,Brookline,,,
 door-bvmnl-place,,Brookline Village - 10 Brookline Place West,Brookline Village - 10 Brookline Place West,,,42.332177,-71.117440,,,,level_1_ground,2,place-bvmnl,2,Brookline,,,
 door-bvmnl-washington,,"Brookline Village - Station St, Washington St","Brookline Village - Station St, Washington St",,,42.332552,-71.117214,,,,level_in_street,2,place-bvmnl,1,Brookline,,,
-place-capst,,Capen Street,,,,42.267712,-71.087753,,"50 Capen St, Milton, MA 02186",https://www.mbta.com/stops/place-capst,,1,,1,Milton,,,
-70273,70273,Capen Street,Capen Street - Mattapan Trolley - Mattapan,,Mattapan,42.267712,-71.087751,RapidTransit,,https://www.mbta.com/stops/place-capst,level_ground,0,place-capst,1,Milton,,,0
-70274,70274,Capen Street,Capen Street - Mattapan Trolley - Ashmont,,Ashmont,42.267562,-71.087428,RapidTransit,,https://www.mbta.com/stops/place-capst,level_ground,0,place-capst,1,Milton,,,0
+node-bvmnl-stairs-platform,,Brookline Village,Brookline Village - Bottom of stairs for 10 Brookline Place,,,42.332215,-71.117499,,,,level_in_street,3,place-bvmnl,1,Brookline,,,
+place-capst,,Capen Street,,,,42.267563,-71.087338,,"50 Capen St, Milton, MA 02186",https://www.mbta.com/stops/place-capst,,1,,1,Milton,,,
+70273,70273,Capen Street,Capen Street - Mattapan Trolley - Mattapan,,Mattapan,42.267589,-71.087139,RapidTransit,,https://www.mbta.com/stops/place-capst,level_ground,0,place-capst,1,Milton,,,0
+70274,70274,Capen Street,Capen Street - Mattapan Trolley - Ashmont,,Ashmont,42.267563,-71.087338,RapidTransit,,https://www.mbta.com/stops/place-capst,level_ground,0,place-capst,1,Milton,,,0
 door-capst-ashmont,,Capen Street - Capen St (East),Capen Street - Capen St (East),,,42.267529,-71.087266,,,,level_in_street,2,place-capst,1,Milton,,,
 door-capst-mattapan,,Capen Street - Capen St (West),Capen Street - Capen St (West),,,42.267595,-71.087241,,,,level_in_street,2,place-capst,1,Milton,,,
 place-ccmnl,,Community College,,,,42.373622,-71.069533,,"Austin St and Rutherford Ave, Charlestown, MA",https://www.mbta.com/stops/place-ccmnl,,1,,1,Boston,,,
@@ -7990,26 +7993,28 @@ node-ccmnl-fareunpaid,,Community College,Community College - Unpaid side of fare
 node-ccmnl-lobby,,Community College,Community College - Paid lobby,,,,,,,,level_in_street,3,place-ccmnl,1,Boston,,,
 node-ccmnl-stairs-lobby,,Community College,Community College - Top of stairs,,,,,,,,level_in_street,3,place-ccmnl,1,Boston,,,
 node-ccmnl-stairs-platform,,Community College,Community College - Bottom of stairs,,,,,,,,level_-1_platform,3,place-ccmnl,1,Boston,,,
-place-cedgr,,Cedar Grove,,,,42.279682,-71.060432,,"Fellsway St and Milton St, Dorchester, MA 02124",https://www.mbta.com/stops/place-cedgr,,1,,1,Boston,,,
-70263,70263,Cedar Grove,Cedar Grove - Mattapan Trolley - Mattapan,,Mattapan,42.279680,-71.060434,RapidTransit,,https://www.mbta.com/stops/place-cedgr,level_ground,0,place-cedgr,1,Boston,,,0
-70264,70264,Cedar Grove,Cedar Grove - Mattapan Trolley - Ashmont,,Ashmont,42.279692,-71.060382,RapidTransit,,https://www.mbta.com/stops/place-cedgr,level_ground,0,place-cedgr,1,Boston,,,0
+place-cedgr,,Cedar Grove,,,,42.279629,-71.060394,,"Fellsway St and Milton St, Dorchester, MA 02124",https://www.mbta.com/stops/place-cedgr,,1,,1,Boston,,,
+70263,70263,Cedar Grove,Cedar Grove - Mattapan Trolley - Mattapan,,Mattapan,42.279546,-71.060392,RapidTransit,,https://www.mbta.com/stops/place-cedgr,level_ground,0,place-cedgr,1,Boston,,,0
+70264,70264,Cedar Grove,Cedar Grove - Mattapan Trolley - Ashmont,,Ashmont,42.279693,-71.060381,RapidTransit,,https://www.mbta.com/stops/place-cedgr,level_ground,0,place-cedgr,1,Boston,,,0
 door-cedgr-fellsway,,Cedar Grove - Fellsway St,Cedar Grove - Fellsway St,,,42.279710,-71.060360,,,,level_in_street,2,place-cedgr,1,Boston,,,
 door-cedgr-hillsdale,,Cedar Grove - Hillsdale St,Cedar Grove - Hillsdale St,,,42.279969,-71.061122,,,,level_in_street,2,place-cedgr,1,Boston,,,
-place-cenav,,Central Avenue,,,,42.270027,-71.073334,,"23 Central Ave, Milton, MA 02186",https://www.mbta.com/stops/place-cenav,,1,,1,Milton,,,
-70269,70269,Central Avenue,Central Avenue - Mattapan Trolley - Mattapan,,Mattapan,42.270027,-71.073337,RapidTransit,,https://www.mbta.com/stops/place-cenav,level_ground,0,place-cenav,1,Milton,,,0
-70270,70270,Central Avenue,Central Avenue - Mattapan Trolley - Ashmont,,Ashmont,42.269970,-71.073308,RapidTransit,,https://www.mbta.com/stops/place-cenav,level_ground,0,place-cenav,1,Milton,,,0
+place-cenav,,Central Avenue,,,,42.270027,-71.073444,,"23 Central Ave, Milton, MA 02186",https://www.mbta.com/stops/place-cenav,,1,,1,Milton,,,
+70269,70269,Central Avenue,Central Avenue - Mattapan Trolley - Mattapan,,Mattapan,42.270054,-71.073523,RapidTransit,,https://www.mbta.com/stops/place-cenav,level_ground,0,place-cenav,1,Milton,,,0
+70270,70270,Central Avenue,Central Avenue - Mattapan Trolley - Ashmont,,Ashmont,42.270001,-71.073358,RapidTransit,,https://www.mbta.com/stops/place-cenav,level_ground,0,place-cenav,1,Milton,,,0
 door-cenav-ashmont,,Central Avenue - Central Ave (South),Central Avenue - Central Ave (South),,,42.269991,-71.073299,,,,level_in_street,2,place-cenav,1,Milton,,,
 door-cenav-mattapan,,"Central Avenue - Central Ave (North), Neponset Trail","Central Avenue - Central Ave (North), Neponset Trail",,,42.270069,-71.073327,,,,level_in_street,2,place-cenav,1,Milton,,,
 place-chels,,Chelsea,,,,42.397071,-71.042102,,,https://www.mbta.com/stops/place-chels,,1,,1,Chelsea,,,
 74630,74630,Chelsea,Chelsea - Silver Line - SL3 South Station,,South Station,42.396661,-71.040290,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-chels,level_ground,0,place-chels,1,Chelsea,Chelsea Busway,,3
 74631,74631,Chelsea,Chelsea - Silver Line - Exit Only,,Exit Only,42.396820,-71.040437,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-chels,level_ground,0,place-chels,1,Chelsea,Chelsea Busway,,3
-place-chhil,,Chestnut Hill,,,,42.326653,-71.165314,,"Hammond St and Chestnut Hill Rd, Newton, MA 02467",https://www.mbta.com/stops/place-chhil,,1,,2,Newton,,,
-70172,70172,Chestnut Hill,Chestnut Hill - Green Line - Park Street & North,,Park Street & North,42.326633,-71.165299,RapidTransit,,https://www.mbta.com/stops/place-chhil,level_ground,0,place-chhil,2,Newton,,,0
-70173,70173,Chestnut Hill,Chestnut Hill - Green Line - (D) Riverside,,Riverside,42.326654,-71.165316,RapidTransit,,https://www.mbta.com/stops/place-chhil,level_ground,0,place-chhil,2,Newton,,,0
+place-chhil,,Chestnut Hill,,,,42.326753,-71.164699,,"Hammond St and Chestnut Hill Rd, Newton, MA 02467",https://www.mbta.com/stops/place-chhil,,1,,2,Newton,,,
+70172,70172,Chestnut Hill,Chestnut Hill - Green Line - Park Street & North,,Park Street & North,42.326799,-71.164146,RapidTransit,,https://www.mbta.com/stops/place-chhil,level_ground,0,place-chhil,2,Newton,,,0
+70173,70173,Chestnut Hill,Chestnut Hill - Green Line - (D) Riverside,,Riverside,42.326782,-71.164780,RapidTransit,,https://www.mbta.com/stops/place-chhil,level_ground,0,place-chhil,2,Newton,,,0
 door-chhil-bc,,"Chestnut Hill - Shopping Center, Boston College","Chestnut Hill - Shopping Center, Boston College",,,42.326808,-71.165473,,,,level_1_in_street,2,place-chhil,2,Newton,,,
 door-chhil-museum,,"Chestnut Hill - Brimmer and May, Longyear Museum","Chestnut Hill - Brimmer and May, Longyear Museum",,,42.326736,-71.164175,,,,level_ground,2,place-chhil,1,Newton,,,
 door-chhil-parke,,Chestnut Hill - Parking Lot Access (East),Chestnut Hill - Parking Lot Access (East),,,42.326909,-71.164347,,,,level_ground,2,place-chhil,1,Newton,,,
 door-chhil-parkw,,Chestnut Hill - Parking Lot Access (West),Chestnut Hill - Parking Lot Access (West),,,42.326831,-71.164840,,,,level_ground,2,place-chhil,2,Newton,,,
+node-chhil-parkstairs-platform,,Chestnut Hill,Chestnut Hill - Bottom of stairs to parking lot,,,42.326797,-71.164839,,,,level_ground,3,place-chhil,1,Newton,,,
+node-chhil-roadstairs-platform,,Chestnut Hill,Chestnut Hill - Bottom of stairs to Hammond Street,,,42.326761,-71.165281,,,,level_ground,3,place-chhil,1,Newton,,,
 place-chill,,Chestnut Hill Avenue,,,,42.338169,-71.153160,,"Commonwealth Ave and Chestnut Hill Ave, Boston, MA",https://www.mbta.com/stops/place-chill,,1,,2,Boston,,,
 70112,70112,Chestnut Hill Avenue,Chestnut Hill Avenue - Green Line - Park Street & North,,Park Street & North,42.338730,-71.152526,RapidTransit,,https://www.mbta.com/stops/place-chill,level_median,0,place-chill,2,Boston,,,0
 70113,70113,Chestnut Hill Avenue,Chestnut Hill Avenue - Green Line - (B) Boston College,,Boston College,42.338290,-71.153025,RapidTransit,,https://www.mbta.com/stops/place-chill,level_median,0,place-chill,2,Boston,,,0
@@ -8287,14 +8292,17 @@ node-dwnxg-wintexitfare-paid,,Downtown Crossing,Downtown Crossing - Paid side of
 node-dwnxg-wintexitfare-unpaid,,Downtown Crossing,Downtown Crossing - Unpaid side of exit-only gate,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
 node-dwnxg-wintwashfare-paid,,Downtown Crossing,Downtown Crossing - Paid side of fare gates,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
 node-dwnxg-wintwashfare-unpaid,,Downtown Crossing,Downtown Crossing - Unpaid side of fare gates,,,,,,,,level_-1_orange_platform,3,place-dwnxg,1,Boston,,,
-place-eliot,,Eliot,,,,42.319023,-71.216713,,"248 Lincoln St, Newton, MA 02461",https://www.mbta.com/stops/place-eliot,,1,,2,Newton,,,
-70166,70166,Eliot,Eliot - Green Line - Park Street & North,,Park Street & North,42.318957,-71.216776,RapidTransit,,https://www.mbta.com/stops/place-eliot,level_ground,0,place-eliot,2,Newton,,,0
-70167,70167,Eliot,Eliot - Green Line - (D) Riverside,,Riverside,42.319024,-71.216711,RapidTransit,,https://www.mbta.com/stops/place-eliot,level_ground,0,place-eliot,2,Newton,,,0
-door-eliot-boyle,,"Eliot - Route 9, Boylston St (Eastbound)","Eliot - Route 9, Boylston St (Eastbound)",,,42.318301,-71.215414,,,,level_boylston_st,2,place-eliot,1,Newton,,,
-door-eliot-boylwr,,"Eliot - Route 9, Boylston St (Westbound ramp)","Eliot - Route 9, Boylston St (Westbound ramp)",,,42.318555,-71.215430,,,,level_boylston_st,2,place-eliot,1,Newton,,,
-door-eliot-boylws,,"Eliot - Route 9, Boylston St (Westbound stairs)","Eliot - Route 9, Boylston St (Westbound stairs)",,,42.318488,-71.215831,,,,level_boylston_st,2,place-eliot,2,Newton,,,
+place-eliot,,Eliot,,,,42.319045,-71.216684,,"248 Lincoln St, Newton, MA 02461",https://www.mbta.com/stops/place-eliot,,1,,2,Newton,,,
+70166,70166,Eliot,Eliot - Green Line - Park Street & North,,Park Street & North,42.318871,-71.216420,RapidTransit,,https://www.mbta.com/stops/place-eliot,level_ground,0,place-eliot,2,Newton,,,0
+70167,70167,Eliot,Eliot - Green Line - (D) Riverside,,Riverside,42.319214,-71.216949,RapidTransit,,https://www.mbta.com/stops/place-eliot,level_ground,0,place-eliot,2,Newton,,,0
+door-eliot-boyle,,Eliot - Boylston St Eastbound,Eliot - Boylston St Eastbound,,,42.318301,-71.215414,,,,level_boylston_st,2,place-eliot,1,Newton,,,
+door-eliot-boylwr,,Eliot - Boylston St Westbound (Ramp,Eliot - Boylston St Westbound (Ramp,,,42.318555,-71.215430,,,,level_boylston_st,2,place-eliot,1,Newton,,,
+door-eliot-boylws,,Eliot - Boylston St Westbound (Stairs),Eliot - Boylston St Westbound (Stairs),,,42.318488,-71.215831,,,,level_boylston_st,2,place-eliot,2,Newton,,,
 door-eliot-lincoln,,"Eliot - Lincoln St, Parking","Eliot - Lincoln St, Parking",,,42.319272,-71.216878,,,,level_in_street,2,place-eliot,2,Newton,,,
 door-eliot-meredith,,Eliot - Meredith Ave,Eliot - Meredith Ave,,,42.319024,-71.216831,,,,level_in_street,2,place-eliot,1,Newton,,,
+node-eliot-boyle-bridge,,Eliot,Eliot - Top of ramp to eastbound Boylston Street,,,42.318272,-71.215228,,,,level_ground,3,place-eliot,1,Newton,,,
+node-eliot-boylwr-platform,,Eliot,Eliot - Top of ramp to westbound Boylston Street,,,42.318760,-71.215955,,,,level_ground,3,place-eliot,1,Newton,,,
+node-eliot-boylws-bridge,,Eliot,Eliot - Top of stairs to westbound Boylston Street,,,42.318572,-71.215915,,,,level_ground,3,place-eliot,1,Newton,,,
 place-engav,,Englewood Avenue,,,,42.336971,-71.145660,,"Beacon St and Englewood Ave, Brookline, MA",https://www.mbta.com/stops/place-engav,,1,,2,Brookline,,,
 70235,70235,Englewood Avenue,Englewood Avenue - Green Line - (C) Cleveland Circle,,Cleveland Circle,42.336964,-71.145867,RapidTransit,,https://www.mbta.com/stops/place-engav,level_median,0,place-engav,2,Brookline,,,0
 70236,70236,Englewood Avenue,Englewood Avenue - Green Line - Park Street & North,,Park Street & North,42.337011,-71.145368,RapidTransit,,https://www.mbta.com/stops/place-engav,level_median,0,place-engav,2,Brookline,,,0
@@ -8307,11 +8315,12 @@ place-fbkst,,Fairbanks Street,,,,42.339725,-71.131073,,"Beacon St and Fairbanks 
 place-fenwd,,Fenwood Road,,,,42.333706,-71.105728,,"Huntington Ave and Fenwood Rd, Boston, MA",https://www.mbta.com/stops/place-fenwd,,1,,2,Boston,,,
 70251,70251,Fenwood Road,Fenwood Road - Green Line - (E) Heath Street,,Heath Street,42.333740,-71.105721,RapidTransit,,https://www.mbta.com/stops/place-fenwd,level_in_street,0,place-fenwd,2,Boston,,,0
 70252,70252,Fenwood Road,Fenwood Road - Green Line - Park Street & North,,Park Street & North,42.333706,-71.105583,RapidTransit,,https://www.mbta.com/stops/place-fenwd,level_in_street,0,place-fenwd,2,Boston,,,0
-place-fenwy,,Fenway,,,,42.345394,-71.104187,,"411 Park Dr, Boston, MA 02215",https://www.mbta.com/stops/place-fenwy,,1,,1,Boston,,,
-70186,70186,Fenway,Fenway - Green Line - Park Street & North,,Park Street & North,42.345362,-71.104162,RapidTransit,,https://www.mbta.com/stops/place-fenwy,level_ground,0,place-fenwy,1,Boston,,,0
-70187,70187,Fenway,Fenway - Green Line - (D) Riverside,,Riverside,42.345395,-71.104190,RapidTransit,,https://www.mbta.com/stops/place-fenwy,level_ground,0,place-fenwy,1,Boston,,,0
-door-fenwy-longwood,,"Fenway - Fenway Park, Park Dr, Longwood","Fenway - Fenway Park, Park Dr, Longwood",,,42.345393,-71.104116,,,,level_1_in_street,2,place-fenwy,1,Boston,,,
-door-fenwy-parkdr,,Fenway - Park Dr (Stairs),Fenway - Park Dr (Stairs),,,42.345298,-71.104230,,,,level_ground,2,place-fenwy,2,Boston,,,
+place-fenwy,,Fenway,,,,42.345403,-71.104213,,"411 Park Dr, Boston, MA 02215",https://www.mbta.com/stops/place-fenwy,,1,,1,Boston,,,
+70186,70186,Fenway,Fenway - Green Line - Park Street & North,,Park Street & North,42.345328,-71.104269,RapidTransit,,https://www.mbta.com/stops/place-fenwy,level_ground,0,place-fenwy,1,Boston,,,0
+70187,70187,Fenway,Fenway - Green Line - (D) Riverside,,Riverside,42.345029,-71.104968,RapidTransit,,https://www.mbta.com/stops/place-fenwy,level_ground,0,place-fenwy,1,Boston,,,0
+door-fenwy-longwood,,"Fenway - Fenway Park, Park Dr, Longwood","Fenway - Fenway Park, Park Dr, Longwood",,,42.345393,-71.104116,,,,level_ground,2,place-fenwy,1,Boston,,,
+door-fenwy-parkdr,,Fenway - Park Dr (Stairs),Fenway - Park Dr (Stairs),,,42.345298,-71.104230,,,,level_1_in_street,2,place-fenwy,2,Boston,,,
+node-fenwy-stairs-platform,,Fenway,Fenway - Bottom of stairs for Park Drive,,,42.345340,-71.104235,,,,level_ground,3,place-fenwy,1,Boston,,,
 place-fldcr,,Fields Corner,,,,42.300093,-71.061667,,"50 Freeman St, Dorchester, MA 02122",https://www.mbta.com/stops/place-fldcr,,1,,1,Boston,,,
 323,323,Fields Corner,Fields Corner - Busway,,Busway,42.299807,-71.062219,LocalBus,,https://www.mbta.com/stops/place-fldcr,level_ground,0,place-fldcr,0,Boston,Busway,Freeman Street,3
 70089,70089,Fields Corner,Fields Corner - Red Line - Ashmont,,Ashmont,42.300093,-71.061667,RapidTransit,,https://www.mbta.com/stops/place-fldcr,level_1_platform,0,place-fldcr,1,Boston,,,1
@@ -8684,12 +8693,20 @@ node-lech-fareunpaid,,Lechmere,Lechmere - Unpaid side of fare gates,,,,,,,,level
 place-lngmd,,Longwood Medical Area,,,,42.335960,-71.100052,,"Huntington Ave and Longwood Ave, Boston, MA 02115",https://www.mbta.com/stops/place-lngmd,,1,,1,Boston,,,
 70247,70247,Longwood Medical Area,Longwood Medical Area - Green Line - (E) Heath Street,,Heath Street,42.336080,-71.099883,RapidTransit,,https://www.mbta.com/stops/place-lngmd,level_median,0,place-lngmd,1,Boston,,,0
 70248,70248,Longwood Medical Area,Longwood Medical Area - Green Line - Park Street & North,,Park Street & North,42.336217,-71.099328,RapidTransit,,https://www.mbta.com/stops/place-lngmd,level_median,0,place-lngmd,1,Boston,,,0
-place-longw,,Longwood,,,,42.341145,-71.110451,,"30 Chapel St, Brookline, MA 02446",https://www.mbta.com/stops/place-longw,,1,,1,Brookline,,,
-70182,70182,Longwood,Longwood - Green Line - Park Street & North,,Park Street & North,42.341123,-71.110393,RapidTransit,,https://www.mbta.com/stops/place-longw,level_ground,0,place-longw,1,Brookline,,,0
-70183,70183,Longwood,Longwood - Green Line - (D) Riverside,,Riverside,42.341143,-71.110447,RapidTransit,,https://www.mbta.com/stops/place-longw,level_ground,0,place-longw,1,Brookline,,,0
-door-longw-colchester,,"Longwood - Chapel St, Colchester St","Longwood - Chapel St, Colchester St",,,42.341892,-71.109897,,,,level_in_street,2,place-longw,2,Brookline,,,
+place-longw,,Longwood,,,,42.341702,-71.109956,,"30 Chapel St, Brookline, MA 02446",https://www.mbta.com/stops/place-longw,,1,,1,Brookline,,,
+70182,70182,Longwood,Longwood - Green Line - Park Street & North,,Park Street & North,42.341808,-71.109777,RapidTransit,,https://www.mbta.com/stops/place-longw,level_ground,0,place-longw,1,Brookline,,,0
+70183,70183,Longwood,Longwood - Green Line - (D) Riverside,,Riverside,42.341571,-71.110147,RapidTransit,,https://www.mbta.com/stops/place-longw,level_ground,0,place-longw,1,Brookline,,,0
+door-longw-colchester,,"Longwood - Chapel St, Colchester St","Longwood - Chapel St, Colchester St",,,42.341890,-71.109877,,,,level_in_street,2,place-longw,2,Brookline,,,
 door-longw-longwood,,"Longwood - Chapel St, Longwood Ave","Longwood - Chapel St, Longwood Ave",,,42.341542,-71.110298,,,,level_in_street,2,place-longw,1,Brookline,,,
-door-longw-necklace,,Longwood - Emerald Necklace,Longwood - Emerald Necklace,,,42.341443,-71.110099,,,,level_ground,2,place-longw,1,Brookline,,,
+door-longw-neckramp,,Longwood - Emerald Necklace (Ramp),Longwood - Emerald Necklace (Ramp),,,42.341747,-71.109610,,,,level_ground,2,place-longw,1,Brookline,,,
+door-longw-neckstairs,,Longwood - Emerald Necklace (Stairs),Longwood - Emerald Necklace (Stairs),,,42.341394,-71.110009,,,,level_ground,2,place-longw,2,Brookline,,,
+node-longw-cstairs-platform,,Longwood,Longwood - Bottom of steps for Colchester Street,,,42.341873,-71.109853,,,,level_ground,3,place-longw,1,Brookline,,,
+node-longw-eramp-landing,,Longwood,Longwood - Top of exit ramp for Emerald Necklace,,,42.341449,-71.110035,,,,level_0.5_landing,3,place-longw,1,Brookline,,,
+node-longw-estairs-landing,,Longwood,Longwood - Top of exit stairs for Emerald Necklace,,,42.341420,-71.110053,,,,level_0.5_landing,3,place-longw,1,Brookline,,,
+node-longw-pramp-landing,,Longwood,Longwood - Top of platform ramp for Emerald Necklace,,,42.341448,-71.110055,,,,level_0.5_landing,3,place-longw,1,Brookline,,,
+node-longw-pramp-platform,,Longwood,Longwood - Bottom of platform ramp for Emerald Necklace,,,42.341463,-71.110097,,,,level_ground,3,place-longw,1,Brookline,,,
+node-longw-pstairs-landing,,Longwood,Longwood - Top of platform stairs for Emerald Necklace,,,42.341433,-71.110073,,,,level_0.5_landing,3,place-longw,1,Brookline,,,
+node-longw-pstairs-platform,,Longwood,Longwood - Bottom of platform stairs for Emerald Necklace,,,42.341446,-71.110103,,,,level_ground,3,place-longw,1,Brookline,,,
 place-masta,,Massachusetts Avenue,,,,42.341512,-71.083423,,"393 Massachusetts Ave, Boston, MA 02118",https://www.mbta.com/stops/place-masta,,1,,1,Boston,,,
 70012,70012,Massachusetts Avenue,Massachusetts Avenue - Orange Line - Forest Hills,,Forest Hills,42.341512,-71.083423,RapidTransit,,https://www.mbta.com/stops/place-masta,level_-1_platform,0,place-masta,1,Boston,,,1
 70013,70013,Massachusetts Avenue,Massachusetts Avenue - Orange Line - Oak Grove,,Oak Grove,42.341512,-71.083423,RapidTransit,,https://www.mbta.com/stops/place-masta,level_-1_platform,0,place-masta,1,Boston,,,1
@@ -8717,11 +8734,11 @@ node-masta-unpramp-exit,,Massachusetts Avenue,Massachusetts Avenue - Top of ramp
 node-masta-unpramp-lobby,,Massachusetts Avenue,Massachusetts Avenue - Bottom of ramp from main entrance,,,42.341461,-71.083481,,,,level_ground,3,place-masta,1,Boston,,,
 node-masta-unpstair-exit,,Massachusetts Avenue,Massachusetts Avenue - Top of stairs from main entrance,,,42.341506,-71.083506,,,,level_ground,3,place-masta,1,Boston,,,
 node-masta-unpstair-lobby,,Massachusetts Avenue,Massachusetts Avenue - Bottom of stairs from main entrance,,,42.341489,-71.083527,,,,level_ground,3,place-masta,1,Boston,,,
-place-matt,,Mattapan,,,,42.267762,-71.092241,,"500 River St, Boston, MA 02126",https://www.mbta.com/stops/place-matt,,1,,1,Boston,,,
+place-matt,,Mattapan,,,,42.267620,-71.092486,,"500 River St, Boston, MA 02126",https://www.mbta.com/stops/place-matt,,1,,1,Boston,,,
 185,185,Mattapan,Mattapan - North Busway,,North Busway,42.267715,-71.092067,LocalBus,,https://www.mbta.com/stops/place-matt,level_ground,0,place-matt,0,Boston,,,3
 18511,18511,Mattapan,Mattapan - South Busway,,South Busway,42.267508,-71.091726,LocalBus,,https://www.mbta.com/stops/place-matt,level_ground,0,place-matt,0,Boston,,,3
-70275,70275,Mattapan,Mattapan - Mattapan Trolley - Exit Only,,Exit Only,42.267528,-71.092050,RapidTransit,,https://www.mbta.com/stops/place-matt,level_ground,0,place-matt,1,Boston,,,0
-70276,70276,Mattapan,Mattapan - Mattapan Trolley - Ashmont,,Ashmont,42.267498,-71.091983,RapidTransit,,https://www.mbta.com/stops/place-matt,level_ground,0,place-matt,1,Boston,,,0
+70275,70275,Mattapan,Mattapan - Mattapan Trolley - Exit Only,,Exit Only,42.267625,-71.092389,RapidTransit,,https://www.mbta.com/stops/place-matt,level_ground,0,place-matt,1,Boston,,,0
+70276,70276,Mattapan,Mattapan - Mattapan Trolley - Ashmont,,Ashmont,42.267559,-71.092233,RapidTransit,,https://www.mbta.com/stops/place-matt,level_ground,0,place-matt,1,Boston,,,0
 door-matt-neponset,,"Mattapan - Neponset Trail, Parking","Mattapan - Neponset Trail, Parking",,,42.267744,-71.091871,,,,level_ground,2,place-matt,1,Boston,,,
 door-matt-northbus,,Mattapan - Upper Busway,Mattapan - Upper Busway,,,42.267684,-71.092224,,,,level_ground,2,place-matt,1,Boston,,,
 door-matt-southbus,,Mattapan - Lower Busway,Mattapan - Lower Busway,,,42.267431,-71.092376,,,,level_ground,2,place-matt,1,Boston,,,
@@ -8729,12 +8746,13 @@ door-matt-square,,Mattapan - Mattapan Square,Mattapan - Mattapan Square,,,42.267
 place-mfa,,Museum of Fine Arts,,,,42.337711,-71.095512,,"Huntington Ave and Ruggles St, Boston, MA",https://www.mbta.com/stops/place-mfa,,1,,1,Boston,,,
 70245,70245,Museum of Fine Arts,Museum of Fine Arts - Green Line - (E) Heath Street,,Heath Street,42.337875,-71.095240,RapidTransit,,https://www.mbta.com/stops/place-mfa,level_median,0,place-mfa,1,Boston,,,0
 70246,70246,Museum of Fine Arts,Museum of Fine Arts - Green Line - Park Street & North,,Park Street & North,42.338017,-71.094682,RapidTransit,,https://www.mbta.com/stops/place-mfa,level_median,0,place-mfa,1,Boston,,,0
-place-miltt,,Milton,,,,42.270306,-71.067673,,"1 Adams St, Milton, MA 02186",https://www.mbta.com/stops/place-miltt,,1,,1,Milton,,,
-70267,70267,Milton,Milton - Mattapan Trolley - Mattapan,,Mattapan,42.270305,-71.067674,RapidTransit,,https://www.mbta.com/stops/place-miltt,level_ground,0,place-miltt,1,Milton,,,0
-70268,70268,Milton,Milton - Mattapan Trolley - Ashmont,,Ashmont,42.270275,-71.067666,RapidTransit,,https://www.mbta.com/stops/place-miltt,level_ground,0,place-miltt,1,Milton,,,0
+place-miltt,,Milton,,,,42.270349,-71.067266,,"1 Adams St, Milton, MA 02186",https://www.mbta.com/stops/place-miltt,,1,,1,Milton,,,
+70267,70267,Milton,Milton - Mattapan Trolley - Mattapan,,Mattapan,42.270388,-71.067253,RapidTransit,,https://www.mbta.com/stops/place-miltt,level_ground,0,place-miltt,1,Milton,,,0
+70268,70268,Milton,Milton - Mattapan Trolley - Ashmont,,Ashmont,42.270308,-71.067289,RapidTransit,,https://www.mbta.com/stops/place-miltt,level_ground,0,place-miltt,1,Milton,,,0
 door-miltt-adams,,Milton - Adams St,Milton - Adams St,,,42.270248,-71.067694,,,,level_1_in_street,2,place-miltt,2,Milton,,,
 door-miltt-trail,,Milton - Neponset Trail,Milton - Neponset Trail,,,42.270436,-71.067005,,,,level_ground,2,place-miltt,1,Milton,,,
 door-miltt-wharf,,"Milton - Parking, Wharf St","Milton - Parking, Wharf St",,,42.270275,-71.067246,,,,level_ground,2,place-miltt,1,Milton,,,
+node-miltt-adams-platform,,Milton,Milton - Bottom of stairs for Adams Street,,,42.270271,-71.067566,,,,level_ground,3,place-miltt,1,Milton,,,
 place-mispk,,Mission Park,,,,42.333195,-71.109756,,"Huntington Ave and Mission Park Dr, Boston, MA 02115",https://www.mbta.com/stops/place-mispk,,1,,2,Boston,,,
 70253,70253,Mission Park,Mission Park - Green Line - (E) Heath Street,,Heath Street,42.333279,-71.109276,RapidTransit,,https://www.mbta.com/stops/place-mispk,level_in_street,0,place-mispk,2,Boston,,,0
 70254,70254,Mission Park,Mission Park - Green Line - Park Street & North,,Park Street & North,42.333092,-71.109680,RapidTransit,,https://www.mbta.com/stops/place-mispk,level_in_street,0,place-mispk,2,Boston,,,0
@@ -8797,21 +8815,32 @@ node-mvbcl-msqfarepaid,,Maverick,Maverick - Paid side of Maverick Square fare ga
 node-mvbcl-msqfareunpaid,,Maverick,Maverick - Unpaid side of Maverick Square fare gates,,,,,,,,level_-1_platform,3,place-mvbcl,1,Boston,,,
 node-mvbcl-msqstair-entrance,,Maverick,Maverick - Top of stairs between Maverick Square and lobby,,,42.369118,-71.039522,,,,level_ground,3,place-mvbcl,1,Boston,,,
 node-mvbcl-msqstair-lobby,,Maverick,Maverick - Bottom of stairs between Maverick Square and lobby,,,,,,,,level_-1_platform,3,place-mvbcl,1,Boston,,,
-place-newtn,,Newton Highlands,,,,42.321735,-71.206116,,"60 Station Avenue, Newton, MA 02461",https://www.mbta.com/stops/place-newtn,,1,,1,Newton,,,
-70168,70168,Newton Highlands,Newton Highlands - Green Line - Park Street & North,,Park Street & North,42.321687,-71.206063,RapidTransit,,https://www.mbta.com/stops/place-newtn,level_ground,0,place-newtn,1,Newton,,,0
-70169,70169,Newton Highlands,Newton Highlands - Green Line - (D) Riverside,,Riverside,42.321734,-71.206118,RapidTransit,,https://www.mbta.com/stops/place-newtn,level_ground,0,place-newtn,1,Newton,,,0
-door-newtn-hyde,,Newton Highlands - Hyde St,Newton Highlands - Hyde St,,,42.323468,-71.204330,,,,level_1_in_street,2,place-newtn,2,Newton,,,
-door-newtn-lake,,Newton Highlands - Lake Ave,Newton Highlands - Lake Ave,,,42.322668,-71.205643,,,,level_1_in_street,2,place-newtn,1,Newton,,,
-door-newtn-station,,Newton Highlands - Station Ave,Newton Highlands - Station Ave,,,42.322594,-71.205558,,,,level_1_in_street,2,place-newtn,1,Newton,,,
-door-newtn-walnut,,Newton Highlands - Walnut St,Newton Highlands - Walnut St,,,42.321968,-71.206232,,,,level_1_in_street,2,place-newtn,1,Newton,,,
-place-newto,,Newton Centre,,,,42.329391,-71.192429,,"72 Union Street, Newton, MA 02459",https://www.mbta.com/stops/place-newto,,1,,1,Newton,,,
-70170,70170,Newton Centre,Newton Centre - Green Line - Park Street & North,,Park Street & North,42.329338,-71.192388,RapidTransit,,https://www.mbta.com/stops/place-newto,level_ground,0,place-newto,1,Newton,,,0
-70171,70171,Newton Centre,Newton Centre - Green Line - (D) Riverside,,Riverside,42.329393,-71.192430,RapidTransit,,https://www.mbta.com/stops/place-newto,level_ground,0,place-newto,1,Newton,,,0
+place-newtn,,Newton Highlands,,,,42.322381,-71.205509,,"60 Station Avenue, Newton, MA 02461",https://www.mbta.com/stops/place-newtn,,1,,1,Newton,,,
+70168,70168,Newton Highlands,Newton Highlands - Green Line - Park Street & North,,Park Street & North,42.322738,-71.205082,RapidTransit,,https://www.mbta.com/stops/place-newtn,level_ground,0,place-newtn,1,Newton,,,0
+70169,70169,Newton Highlands,Newton Highlands - Green Line - (D) Riverside,,Riverside,42.322530,-71.205421,RapidTransit,,https://www.mbta.com/stops/place-newtn,level_ground,0,place-newtn,1,Newton,,,0
+door-newtn-hyde,,Newton Highlands - Hyde St,Newton Highlands - Hyde St,,,42.323498,-71.204336,,,,level_1_in_street,2,place-newtn,2,Newton,,,
+door-newtn-lake,,"Newton Highlands - Lake Ave, Walnut St","Newton Highlands - Lake Ave, Walnut St",,,42.322676,-71.205617,,,,level_1_in_street,2,place-newtn,1,Newton,,,
+door-newtn-walnut,,"Newton Highlands - Walnut St, Station Ave, Buses","Newton Highlands - Walnut St, Station Ave, Buses",,,42.322040,-71.206245,,,,level_1_in_street,2,place-newtn,1,Newton,,,
+node-newtn-hyde-platform,,Newton Highlands,Newton Highlands - Bottom of ramp for Hyde Street,,,42.323184,-71.204705,,,,level_ground,3,place-newtn,1,Newton,,,
+node-newtn-hyde-stairs,,Newton Highlands,Newton Highlands - Bottom of stairs for Hyde Street,,,42.323408,-71.204458,,,,level_0.5_landing,3,place-newtn,1,Newton,,,
+node-newtn-lake-platform,,Newton Highlands,Newton Highlands - Bottom of ramp for Lake Avenue,,,42.322655,-71.205326,,,,level_ground,3,place-newtn,1,Newton,,,
+node-newtn-walnut-platform,,Newton Highlands,"Newton Highlands - Bottom of ramp for Walnut Street, Station Avenue",,,42.322224,-71.205753,,,,level_ground,3,place-newtn,1,Newton,,,
+place-newto,,Newton Centre,,,,42.329443,-71.192414,,"72 Union Street, Newton, MA 02459",https://www.mbta.com/stops/place-newto,,1,,1,Newton,,,
+70170,70170,Newton Centre,Newton Centre - Green Line - Park Street & North,,Park Street & North,42.329552,-71.192024,RapidTransit,,https://www.mbta.com/stops/place-newto,level_ground,0,place-newto,1,Newton,,,0
+70171,70171,Newton Centre,Newton Centre - Green Line - (D) Riverside,,Riverside,42.329400,-71.192622,RapidTransit,,https://www.mbta.com/stops/place-newto,level_ground,0,place-newto,1,Newton,,,0
 door-newto-braeland,,"Newton Centre - Braeland Ave, Langley Rd","Newton Centre - Braeland Ave, Langley Rd",,,42.329349,-71.192296,,,,level_1_in_street,2,place-newto,2,Newton,,,
-door-newto-herrick,,"Newton Centre - Union St, Herrick Rd","Newton Centre - Union St, Herrick Rd",,,42.329240,-71.193377,,,,level_1_in_street,2,place-newto,2,Newton,,,
-door-newto-langley,,Newton Centre - Langley Rd,Newton Centre - Langley Rd,,,42.329740,-71.191841,,,,level_1_in_street,2,place-newto,1,Newton,,,
+door-newto-herrick,,"Newton Centre - Union St, Herrick Rd","Newton Centre - Union St, Herrick Rd",,,42.329135,-71.193355,,,,level_1_in_street,2,place-newto,2,Newton,,,
+door-newto-langley,,Newton Centre - Langley Rd,Newton Centre - Langley Rd,,,42.329974,-71.191470,,,,level_1_in_street,2,place-newto,1,Newton,,,
+door-newto-uniones,,Newton Centre - Union St (East stairs),Newton Centre - Union St (East stairs),,,42.329620,-71.192341,,,,level_1_in_street,2,place-newto,2,Newton,,,
 door-newto-unionr,,Newton Centre - Union St (Ramp),Newton Centre - Union St (Ramp),,,42.329357,-71.193269,,,,level_1_in_street,2,place-newto,1,Newton,,,
-door-newto-unions,,Newton Centre - Union St (Stairs),Newton Centre - Union St (Stairs),,,42.329504,-71.192690,,,,level_1_in_street,2,place-newto,2,Newton,,,
+door-newto-unionws,,Newton Centre - Union St (West stairs),Newton Centre - Union St (West stairs),,,42.329494,-71.192643,,,,level_1_in_street,2,place-newto,2,Newton,,,
+node-newto-braeland-platform,,Newton Centre,Newton Centre - Bottom of stairs for Braeland Avenue,,,42.329398,-71.192328,,,,level_ground,3,place-newto,1,Newton,,,
+node-newto-herrick-landing,,Newton Centre,"Newton Centre - Bottom of stairs for Herrick Road, Union Street",,,42.329161,-71.193303,,,,level_0.5_landing,3,place-newto,1,Newton,,,
+node-newto-langley-platform,,Newton Centre,Newton Centre - Bottom of ramp for Langley Road,,,42.329726,-71.191845,,,,level_ground,3,place-newto,1,Newton,,,
+node-newto-ramp-landing,,Newton Centre,Newton Centre - Top of ramp for Union Street,,,42.329303,-71.193077,,,,level_0.5_landing,3,place-newto,1,Newton,,,
+node-newto-ramp-platform,,Newton Centre,Newton Centre - Bottom of ramp for Union Street,,,42.329414,-71.192631,,,,level_ground,3,place-newto,1,Newton,,,
+node-newto-uniones-platform,,Newton Centre,Newton Centre - Bottom of eastern stairs for Union Street,,,42.329552,-71.192299,,,,level_ground,3,place-newto,1,Newton,,,
+node-newto-unionws-platform,,Newton Centre,Newton Centre - Bottom of western stairs for Union Street,,,42.329432,-71.192594,,,,level_ground,3,place-newto,1,Newton,,,
 place-north,,North Station,,,,42.365577,-71.061290,CR-zone-1A,"135 Causeway St, Boston MA 02114",https://www.mbta.com/stops/place-north,,1,,1,Boston,,,
 70026,70026,North Station,North Station - Orange Line - Forest Hills,,Forest Hills,42.365577,-71.061290,RapidTransit,,https://www.mbta.com/stops/place-north,level_-2_low_platform,0,place-north,1,Boston,,,1
 70027,70027,North Station,North Station - Orange Line - Oak Grove,,Oak Grove,42.365577,-71.061290,RapidTransit,,https://www.mbta.com/stops/place-north,level_-2_low_platform,0,place-north,1,Boston,,,1
@@ -9037,8 +9066,52 @@ FR-0034-02,,Porter,Porter - Commuter Rail - Track 2 (Boston),2,Commuter Rail - T
 Porter Square,,Porter,Porter - Commuter Rail,,Commuter Rail,42.388401,-71.119148,CR-zone-1A,,https://www.mbta.com/stops/place-portr,level_-1_cr_platform,0,place-portr,1,Cambridge,,,2
 door-portr-cracross,,"Porter - Massachusetts Ave (West), Buses","Porter - Massachusetts Ave (West), Buses",,,42.388604,-71.119752,,,,level_in_street,2,place-portr,2,Cambridge,,,
 door-portr-crtransfer,,"Porter - Massachusetts Ave (East), Buses","Porter - Massachusetts Ave (East), Buses",,,42.388254,-71.119099,,,,level_in_street,2,place-portr,2,Cambridge,,,
-door-portr-elevators,,"Porter - Somerville Ave, Massachusetts Ave (Elevator)","Porter - Somerville Ave, Massachusetts Ave (Elevator)",,,42.388331,-71.118905,,,,level_in_street,2,place-portr,1,Cambridge,,,
+door-portr-elevator982,,"Porter - Somerville Ave, Massachusetts Ave (Elevator)","Porter - Somerville Ave, Massachusetts Ave (Elevator)",,,42.388288,-71.118866,,,,level_in_street,2,place-portr,1,Cambridge,,,
+door-portr-elevator985,,Porter - Somerville Ave (Elevator),Porter - Somerville Ave (Elevator),,,42.388389,-71.118992,,,,level_in_street,2,place-portr,1,Cambridge,,,
 door-portr-escal,,"Porter - Somerville Ave, Massachusetts Ave","Porter - Somerville Ave, Massachusetts Ave",,,42.388475,-71.119212,,,,level_in_street,2,place-portr,2,Cambridge,,,
+node-504-lobby,,Porter,Porter - Bottom of escalator from Somerville Ave to lobby,,,42.388313,-71.118950,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-504-street,,Porter,Porter - Top of escalator from Somerville Ave to lobby,,,42.388395,-71.119176,,,,level_ground,3,place-portr,1,Cambridge,,,
+node-505-lobby,,Porter,Porter - Bottom of escalator to Somerville Ave from lobby,,,42.388342,-71.118930,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-505-street,,Porter,Porter - Top of escalator to Somerville Ave from lobby,,,42.388417,-71.119161,,,,level_ground,3,place-portr,1,Cambridge,,,
+node-506-nbplatform,,Porter,Porter - Bottom of escalator from Alewife platform to Ashmont/Braintree platform,,,42.388693,-71.119035,,,,level_-4_alewife_platform,3,place-portr,1,Cambridge,,,
+node-506-sbplatform,,Porter,Porter - Top of escalator from Alewife platform to Ashmont/Braintree platform,,,42.388766,-71.119029,,,,level_-3_southbound_platform,3,place-portr,1,Cambridge,,,
+node-507-nbplatform,,Porter,Porter - Bottom of escalator from Alewife platform to Ashmont/Braintree platform,,,42.388941,-71.119037,,,,level_-4_alewife_platform,3,place-portr,1,Cambridge,,,
+node-507-sbplatform,,Porter,Porter - Top of escalator from Alewife platform to Ashmont/Braintree platform,,,42.388867,-71.119042,,,,level_-3_southbound_platform,3,place-portr,1,Cambridge,,,
+node-509-lobby,,Porter,Porter - Top of escalator from lobby to Red Line platforms,,,42.388460,-71.118780,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-509-sbplatform,,Porter,Porter - Bottom of escalator to Red Line platforms from lobby,,,42.388777,-71.118753,,,,level_-3_southbound_platform,3,place-portr,1,Cambridge,,,
+node-510-lobby,,Porter,Porter - Top of escalator to lobby from Red Line platforms,,,42.388462,-71.118802,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-510-sbplatform,,Porter,Porter - Bottom of escalator from Red Line platforms to lobby,,,42.388777,-71.118777,,,,level_-3_southbound_platform,3,place-portr,1,Cambridge,,,
+node-511-lobby,,Porter,Porter - Top of escalator to lobby from Red Line platforms,,,42.388462,-71.118825,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-511-sbplatform,,Porter,Porter - Bottom of escalator from Red Line platforms to lobby,,,42.388779,-71.118799,,,,level_-3_southbound_platform,3,place-portr,1,Cambridge,,,
+node-982-lobby,,Porter,Porter - Lobby level of Elevator 982 between street and lobby,,,42.388288,-71.118866,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-983-lobby,,Porter,Porter - Lobby level of elevator to Red Line platforms,,,42.388524,-71.119062,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-983-nbplatform,,Porter,"Porter - Alewife platform level of Red Line, lobby elevator",,,42.388524,-71.119062,,,,level_-4_alewife_platform,3,place-portr,1,Cambridge,,,
+node-983-sbplatform,,Porter,"Porter - Ashmont/Braintree platform level of Red Line, lobby elevator",,,42.388524,-71.119062,,,,level_-3_southbound_platform,3,place-portr,1,Cambridge,,,
+node-985-lobby,,Porter,Porter - Lobby level of Elevator 985 between street and lobby,,,42.388389,-71.118992,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-986-crplatform,,Porter,Porter - Commuter Rail level of elevator between lobby and Commuter Rail,,,42.388193,-71.118924,,,,level_-1_cr_platform,3,place-portr,1,Cambridge,,,
+node-986-lobby,,Porter,Porter - Lobby level of elevator between lobby and Commuter Rail,,,42.388193,-71.118924,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-987-lobby,,Porter,Porter - Lobby level of elevator to Red Line platforms,,,42.388489,-71.119066,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-987-nbplatform,,Porter,"Porter - Alewife platform level of Red Line, lobby elevator",,,42.388489,-71.119066,,,,level_-4_alewife_platform,3,place-portr,1,Cambridge,,,
+node-987-sbplatform,,Porter,"Porter - Ashmont/Braintree platform level of Red Line, lobby elevator",,,42.388489,-71.119066,,,,level_-3_southbound_platform,3,place-portr,1,Cambridge,,,
+node-portr-506stairs-nbplatform,,Porter,Porter - Bottom of stairs between Alewife platform and Ashmont/Braintree platform,,,42.388712,-71.119054,,,,level_-4_alewife_platform,3,place-portr,1,Cambridge,,,
+node-portr-506stairs-sbplatform,,Porter,Porter - Top of stairs between Alewife platform and Ashmont/Braintree platform,,,42.388761,-71.119051,,,,level_-3_southbound_platform,3,place-portr,1,Cambridge,,,
+node-portr-507stairs-nbplatform,,Porter,Porter - Bottom of stairs between Alewife platform and Ashmont/Braintree platform,,,42.388922,-71.119018,,,,level_-4_alewife_platform,3,place-portr,1,Cambridge,,,
+node-portr-507stairs-sbplatform,,Porter,Porter - Top of stairs between Alewife platform and Ashmont/Braintree platform,,,42.388872,-71.119021,,,,level_-3_southbound_platform,3,place-portr,1,Cambridge,,,
+node-portr-crramp-elevator,,Porter,Porter - Bottom of Commuter Rail platform ramp,,,42.388198,-71.118998,,,,level_-1_cr_platform,3,place-portr,1,Cambridge,,,
+node-portr-crramp-minihigh,,Porter,Porter - Top of Commuter Rail platform ramp,,,42.388241,-71.119118,,,,level_-1_cr_platform,3,place-portr,1,Cambridge,,,
+node-portr-crstairs-crplatform,,Porter,Porter - Top of stairs between Commuter Rail and lobby,,,42.388124,-71.118770,,,,level_-1_cr_platform,3,place-portr,1,Cambridge,,,
+node-portr-crstairs-lobby,,Porter,Porter - Bottom of stairs between Commuter Rail and lobby,,,42.388161,-71.118870,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-portr-eaststairs-crplatform,,Porter,Porter - Bottom of stairs between Commuter Rail platform and east side of Mass Ave,,,42.388218,-71.118983,,,,level_-1_cr_platform,3,place-portr,1,Cambridge,,,
+node-portr-farepaid,,Porter,Porter - Paid side of fare gates,,,42.388397,-71.118850,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-portr-fareunpaid,,Porter,Porter - Unpaid side of fare gates,,,42.388397,-71.118850,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-portr-lobbyrlstairs-lobby,,Porter,Porter - Top of stairs between Red Line platforms and lobby,,,42.388460,-71.118850,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-portr-lobbyrlstairs-sbplatform,,Porter,Porter - Bottom of stairs between Red Line platforms and lobby,,,42.388763,-71.118826,,,,level_-3_southbound_platform,3,place-portr,1,Cambridge,,,
+node-portr-massavestairs-crplatform,,Porter,Porter - Top of stairs between Massachusetts Ave and lobby,,,42.388267,-71.119103,,,,level_-1_cr_platform,3,place-portr,1,Cambridge,,,
+node-portr-massavestairs-lobby,,Porter,Porter - Bottom of stairs between Massachusetts Ave and lobby,,,42.388206,-71.118907,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-portr-somervilleavestairs-lobby,,Porter,Porter - Bottom of stairs between Somerville Ave and lobby,,,42.388329,-71.118943,,,,level_-2_lobby,3,place-portr,1,Cambridge,,,
+node-portr-somervilleavestairs-street,,Porter,Porter - Top of stairs between Somerville Ave and lobby,,,42.388407,-71.119170,,,,level_ground,3,place-portr,1,Cambridge,,,
+node-portr-weststairs-crplatform,,Porter,Porter - Bottom of stairs between Commuter Rail platform and west side of Mass Ave,,,42.388432,-71.119672,,,,level_-1_cr_platform,3,place-portr,1,Cambridge,,,
+node-portr-weststairs-street,,Porter,Porter - Top of stairs between Commuter Rail platform and west side of Mass Ave,,,42.388474,-71.119800,,,,level_ground,3,place-portr,1,Cambridge,,,
 place-prmnl,,Prudential,,,,42.345570,-71.081696,,"Huntington Ave and Belvidere St, Boston, MA 02199",https://www.mbta.com/stops/place-prmnl,,1,,1,Boston,,,
 70239,70239,Prudential,Prudential - Green Line - (E) Heath Street,,Heath Street,42.345570,-71.081696,RapidTransit,,https://www.mbta.com/stops/place-prmnl,level_-2_platform,0,place-prmnl,1,Boston,,,0
 70240,70240,Prudential,Prudential - Green Line - Park Street & North,,Park Street & North,42.345570,-71.081696,RapidTransit,,https://www.mbta.com/stops/place-prmnl,level_-2_platform,0,place-prmnl,1,Boston,,,0
@@ -9143,19 +9216,30 @@ node-rcmnl-farepaid,,Roxbury Crossing,Roxbury Crossing - Paid side of fare gates
 node-rcmnl-fareunpaid,,Roxbury Crossing,Roxbury Crossing - Unpaid side of fare gates,,,42.331290,-71.095567,,,,level_in_street,3,place-rcmnl,1,Boston,,,
 node-rcmnl-stairs-lobby,,Roxbury Crossing,Roxbury Crossing - Top of stairs,,,42.331234,-71.095679,,,,level_in_street,3,place-rcmnl,1,Boston,,,
 node-rcmnl-stairs-platform,,Roxbury Crossing,Roxbury Crossing - Bottom of stairs,,,42.331167,-71.095731,,,,level_-1_platform,3,place-rcmnl,1,Boston,,,
-place-river,,Riverside,,,,42.337059,-71.251742,,"367 Grove St, Newton, MA 02466",https://www.mbta.com/stops/place-river,,1,,1,Newton,,,
+place-river,,Riverside,,,,42.337352,-71.252685,,"367 Grove St, Newton, MA 02466",https://www.mbta.com/stops/place-river,,1,,1,Newton,,,
 38155,38155,Riverside,Riverside - Busway,,Busway,42.336666,-71.253304,LocalBus,,https://www.mbta.com/stops/place-river,level_ground,0,place-river,0,Newton,,,3
-70160,70160,Riverside,Riverside - Green Line - Park Street & North,,Park Street & North,42.337283,-71.252385,RapidTransit,,https://www.mbta.com/stops/place-river,level_1_platform,0,place-river,1,Newton,,,0
-70161,70161,Riverside,Riverside - Green Line - Exit Only,,Exit Only,42.337321,-71.252357,RapidTransit,,https://www.mbta.com/stops/place-river,level_1_platform,0,place-river,1,Newton,,,0
-door-river-main,,Riverside - Main,Riverside - Main,,,42.337298,-71.252671,,,,level_ground,2,place-river,1,Newton,,,
-place-rsmnl,,Reservoir,,,,42.335027,-71.148952,,"401 Chestnut Hill Ave, Brookline, MA 02445",https://www.mbta.com/stops/place-rsmnl,,1,,1,Brookline,,,
+70160,70160,Riverside,Riverside - Green Line - Park Street & North,,Park Street & North,42.337317,-71.252256,RapidTransit,,https://www.mbta.com/stops/place-river,level_1_platform,0,place-river,1,Newton,,,0
+70161,70161,Riverside,Riverside - Green Line - Exit Only,,Exit Only,42.337348,-71.252236,RapidTransit,,https://www.mbta.com/stops/place-river,level_1_platform,0,place-river,1,Newton,,,0
+door-river-estairs,,"Riverside - Grove Street, Parking","Riverside - Grove Street, Parking",,,42.337258,-71.252523,,,,level_ground,2,place-river,2,Newton,,,
+door-river-ramp,,"Riverside - Buses, Parking (Ramp)","Riverside - Buses, Parking (Ramp)",,,42.337270,-71.252948,,,,level_ground,2,place-river,1,Newton,,,
+door-river-wstairs,,"Riverside - Buses, Parking (Stairs)","Riverside - Buses, Parking (Stairs)",,,42.337328,-71.252858,,,,level_ground,2,place-river,2,Newton,,,
+node-river-estairs-lobby,,Riverside,Riverside - Top of stairs for Grove Street,,,42.337291,-71.252617,,,,level_1_lobby,3,place-river,1,Newton,,,
+node-river-farepaid,,Riverside,Riverside - Paid side of fare gates,,,42.337352,-71.252685,,,,level_1_lobby,3,place-river,1,Newton,,,
+node-river-fareunpaid,,Riverside,Riverside - Unpaid side of fare gates,,,42.337352,-71.252685,,,,level_1_lobby,3,place-river,1,Newton,,,
+node-river-ramp-lobby,,Riverside,Riverside - Top of ramp for buses,,,42.337347,-71.252761,,,,level_1_lobby,3,place-river,1,Newton,,,
+node-river-wstairs-lobby,,Riverside,Riverside - Top of stairs for buses,,,42.337330,-71.252770,,,,level_1_lobby,3,place-river,1,Newton,,,
+place-rsmnl,,Reservoir,,,,42.335088,-71.148758,,"401 Chestnut Hill Ave, Brookline, MA 02445",https://www.mbta.com/stops/place-rsmnl,,1,,1,Brookline,,,
 21917,21917,Reservoir,Reservoir - Busway,,Busway,42.335120,-71.149405,LocalBus,,https://www.mbta.com/stops/place-rsmnl,level_ground,0,place-rsmnl,0,Brookline,,,3
-70174,70174,Reservoir,Reservoir - Green Line - Park Street & North,,Park Street & North,42.334916,-71.149064,RapidTransit,,https://www.mbta.com/stops/place-rsmnl,level_-1_platform,0,place-rsmnl,1,Brookline,,,0
-70175,70175,Reservoir,Reservoir - Green Line - (D) Riverside,,Riverside,42.334954,-71.149079,RapidTransit,,https://www.mbta.com/stops/place-rsmnl,level_-1_platform,0,place-rsmnl,1,Brookline,,,0
-door-rsmnl-eramp,,"Reservoir - Chestnut Hill Ave, Cleveland Circle (Ramp)","Reservoir - Chestnut Hill Ave, Cleveland Circle (Ramp)",,,42.334958,-71.148606,,,,level_1_ground,2,place-rsmnl,1,Brookline,,,
-door-rsmnl-estairs,,"Reservoir - Chestnut Hill Ave, Buses (Park St & North)","Reservoir - Chestnut Hill Ave, Buses (Park St & North)",,,42.335034,-71.148695,,,,level_1_ground,2,place-rsmnl,2,Brookline,,,
-door-rsmnl-wramp,,Reservoir - Cleveland Circle (Ramp),Reservoir - Cleveland Circle (Ramp),,,42.335263,-71.149813,,,,level_1_in_street,2,place-rsmnl,1,Brookline,,,
-door-rsmnl-wstairs,,"Reservoir - Chestnut Hill Ave, Buses (Riverside)","Reservoir - Chestnut Hill Ave, Buses (Riverside)",,,42.335138,-71.148777,,,,level_1_ground,2,place-rsmnl,2,Brookline,,,
+70174,70174,Reservoir,Reservoir - Green Line - Park Street & North,,Park Street & North,42.335181,-71.147879,RapidTransit,,https://www.mbta.com/stops/place-rsmnl,level_-1_platform,0,place-rsmnl,1,Brookline,,,0
+70175,70175,Reservoir,Reservoir - Green Line - (D) Riverside,,Riverside,42.335163,-71.148601,RapidTransit,,https://www.mbta.com/stops/place-rsmnl,level_-1_platform,0,place-rsmnl,1,Brookline,,,0
+door-rsmnl-eramp,,"Reservoir - Chestnut Hill Ave, Cleveland Circle (Ramp)","Reservoir - Chestnut Hill Ave, Cleveland Circle (Ramp)",,,42.334975,-71.148607,,,,level_1_ground,2,place-rsmnl,1,Brookline,,,
+door-rsmnl-estairs,,"Reservoir - Chestnut Hill Ave, Buses (Park St & North)","Reservoir - Chestnut Hill Ave, Buses (Park St & North)",,,42.335051,-71.148700,,,,level_1_ground,2,place-rsmnl,2,Brookline,,,
+door-rsmnl-wramp,,Reservoir - Cleveland Circle (Ramp),Reservoir - Cleveland Circle (Ramp),,,42.335271,-71.149810,,,,level_1_in_street,2,place-rsmnl,1,Brookline,,,
+door-rsmnl-wstairs,,"Reservoir - Chestnut Hill Ave, Buses (Riverside)","Reservoir - Chestnut Hill Ave, Buses (Riverside)",,,42.335157,-71.148775,,,,level_1_ground,2,place-rsmnl,2,Brookline,,,
+node-rsmnl-eramp-platform,,Reservoir,Reservoir - Bottom of ramp for Park Street & North,,,42.335163,-71.147880,,,,level_-1_platform,3,place-rsmnl,1,Brookline,,,
+node-rsmnl-estairs-platform,,Reservoir,Reservoir - Bottom of stairs for Park Street & North,,,42.335076,-71.148542,,,,level_-1_platform,3,place-rsmnl,1,Brookline,,,
+node-rsmnl-wramp-platform,,Reservoir,Reservoir - Bottom of ramp for Cleveland Circle,,,42.335125,-71.149228,,,,level_-1_platform,3,place-rsmnl,1,Brookline,,,
+node-rsmnl-wstairs-platform,,Reservoir,Reservoir - Bottom of stairs for Riverside,,,42.335184,-71.148618,,,,level_-1_platform,3,place-rsmnl,1,Brookline,,,
 place-rugg,,Ruggles,,,,42.336377,-71.088961,CR-zone-1A,"1150 Tremont St, Roxbury, MA 02120",https://www.mbta.com/stops/place-rugg,,1,,1,Boston,,,
 17861,17861,Ruggles,Ruggles - Upper Busway,,Upper Busway,42.336572,-71.089616,LocalBus,,https://www.mbta.com/stops/place-rugg,level_ground,0,place-rugg,0,Boston,,,3
 17862,17862,Ruggles,Ruggles - Lower Busway Lane 1,1,Lower Busway Lane 1,42.336489,-71.089085,LocalBus,,https://www.mbta.com/stops/place-rugg,level_ground,0,place-rugg,0,Boston,,,3
@@ -9621,17 +9705,22 @@ node-tumnl-washnbstairs-platform,,Tufts Medical Center,"Tufts Medical Center - B
 node-tumnl-washsbstairs-lobby,,Tufts Medical Center,"Tufts Medical Center - Top of stairs for Forest Hills, Washington Street",,,,,,,,level_-1_lobby,3,place-tumnl,1,Boston,,,
 node-tumnl-washsbstairs-platform,,Tufts Medical Center,"Tufts Medical Center - Bottom of stairs for Forest Hills, Washington Street",,,,,,,,level_-2_platform,3,place-tumnl,1,Boston,,,
 node-tumnl-washstairs-lobby,,Tufts Medical Center,Tufts Medical Center - Bottom of stairs for Washington Street,,,,,,,,level_-1_lobby,3,place-tumnl,1,Boston,,,
-place-valrd,,Valley Road,,,,42.268322,-71.081566,,"291 Valley Rd, Milton, MA 02186",https://www.mbta.com/stops/place-valrd,,1,,2,Milton,,,
-70271,70271,Valley Road,Valley Road - Mattapan Trolley - Mattapan,,Mattapan,42.268322,-71.081568,RapidTransit,,https://www.mbta.com/stops/place-valrd,level_ground,0,place-valrd,2,Milton,,,0
-70272,70272,Valley Road,Valley Road - Mattapan Trolley - Ashmont,,Ashmont,42.268277,-71.081544,RapidTransit,,https://www.mbta.com/stops/place-valrd,level_ground,0,place-valrd,2,Milton,,,0
+place-valrd,,Valley Road,,,,42.268347,-71.081343,,"291 Valley Rd, Milton, MA 02186",https://www.mbta.com/stops/place-valrd,,1,,2,Milton,,,
+70271,70271,Valley Road,Valley Road - Mattapan Trolley - Mattapan,,Mattapan,42.268389,-71.081504,RapidTransit,,https://www.mbta.com/stops/place-valrd,level_ground,0,place-valrd,2,Milton,,,0
+70272,70272,Valley Road,Valley Road - Mattapan Trolley - Ashmont,,Ashmont,42.268347,-71.081343,RapidTransit,,https://www.mbta.com/stops/place-valrd,level_ground,0,place-valrd,2,Milton,,,0
 door-valrd-eliot,,Valley Road - Eliot St,Valley Road - Eliot St,,,42.267932,-71.081125,,,,level_1_in_street,2,place-valrd,2,Milton,,,
-place-waban,,Waban,,,,42.325943,-71.230728,,"Beacon St and Waban Sq, Newton, MA 02468",https://www.mbta.com/stops/place-waban,,1,,2,Newton,,,
-70164,70164,Waban,Waban - Green Line - Park Street & North,,Park Street & North,42.325899,-71.230805,RapidTransit,,https://www.mbta.com/stops/place-waban,level_ground,0,place-waban,2,Newton,,,0
-70165,70165,Waban,Waban - Green Line - (D) Riverside,,Riverside,42.325943,-71.230730,RapidTransit,,https://www.mbta.com/stops/place-waban,level_ground,0,place-waban,2,Newton,,,0
+node-valrd-stairs-platform,,Valley Road,Valley Road - Bottom of stairs,,,42.268304,-71.081497,,,,level_ground,3,place-valrd,1,Milton,,,
+node-valrd-stairs-street,,Valley Road,Valley Road - Top of stairs,,,42.268194,-71.081398,,,,level_1_in_street,3,place-valrd,1,Milton,,,
+place-waban,,Waban,,,,42.325845,-71.230609,,"Beacon St and Waban Sq, Newton, MA 02468",https://www.mbta.com/stops/place-waban,,1,,2,Newton,,,
+70164,70164,Waban,Waban - Green Line - Park Street & North,,Park Street & North,42.325695,-71.230476,RapidTransit,,https://www.mbta.com/stops/place-waban,level_ground,0,place-waban,2,Newton,,,0
+70165,70165,Waban,Waban - Green Line - (D) Riverside,,Riverside,42.325967,-71.230714,RapidTransit,,https://www.mbta.com/stops/place-waban,level_ground,0,place-waban,2,Newton,,,0
 door-waban-beacon,,Waban - Beacon St (Stairs),Waban - Beacon St (Stairs),,,42.326298,-71.230923,,,,level_beacon_st,2,place-waban,2,Newton,,,
 door-waban-parkr,,Waban - Parking (Ramp),Waban - Parking (Ramp),,,42.325748,-71.230288,,,,level_ground,2,place-waban,1,Newton,,,
-door-waban-parks,,Waban - Parking (Stairs),Waban - Parking (Stairs),,,42.326034,-71.230735,,,,level_ground,2,place-waban,2,Newton,,,
-door-waban-wyman,,Waban - Wyman St West,Waban - Wyman St West,,,42.326355,-71.230560,,,,level_in_street,2,place-waban,1,Newton,,,
+door-waban-parks,,Waban - Parking (Stairs),Waban - Parking (Stairs),,,42.326046,-71.230725,,,,level_ground,2,place-waban,2,Newton,,,
+door-waban-wyman,,Waban - Wyman St,Waban - Wyman St,,,42.326355,-71.230560,,,,level_in_street,2,place-waban,1,Newton,,,
+node-waban-beacon-ramp,,Waban,Waban - Bottom of ramp to Beacon Street stairs,,,42.326071,-71.230783,,,,level_ground,3,place-waban,1,Newton,,,
+node-waban-beacon-stairs,,Waban,Waban - Bottom of stairs to Beacon Street,,,42.326257,-71.230890,,,,level_0.5_landing,3,place-waban,1,Newton,,,
+node-waban-parkstairs-platform,,Waban,Waban - Bottom of stairs to parking lot,,,42.326048,-71.230747,,,,level_ground,3,place-waban,1,Newton,,,
 place-wascm,,Washington Street,,,,42.343864,-71.142853,,"Commonwealth Ave and Washington St, Boston, MA",https://www.mbta.com/stops/place-wascm,,1,,1,Boston,,,
 70120,70120,Washington Street,Washington Street - Green Line - Park Street & North,,Park Street & North,42.344329,-71.142385,RapidTransit,,https://www.mbta.com/stops/place-wascm,level_median,0,place-wascm,1,Boston,,,0
 70121,70121,Washington Street,Washington Street - Green Line - (B) Boston College,,Boston College,42.343974,-71.142731,RapidTransit,,https://www.mbta.com/stops/place-wascm,level_median,0,place-wascm,1,Boston,,,0
@@ -9739,48 +9828,49 @@ door-wondl-ocean,,Wonderland - Ocean Ave,Wonderland - Ocean Ave,,,42.413295,-70.
 door-wondl-oceann,,Wonderland - Ocean Ave North,Wonderland - Ocean Ave North,,,42.413372,-70.990494,,,,level_in_street,2,place-wondl,2,Revere,,,
 door-wondl-oceannele,,Wonderland - Ocean Ave North Elevator,Wonderland - Ocean Ave North Elevator,,,42.413537,-70.990558,,,,level_in_street,2,place-wondl,1,Revere,,,
 door-wondl-revere,,Wonderland - Revere Beach,Wonderland - Revere Beach,,,42.413290,-70.989770,,,,level_in_street,2,place-wondl,1,Revere,,,
-node-701-bridge,,Wonderland,Wonderland - Bridge level of garage elevator,,,,,,,,level_1_bridge,3,place-wondl,1,Revere,,,
-node-701-lobby,,Wonderland,Wonderland - Lobby level of garage elevator,,,,,,,,level_ground,3,place-wondl,1,Revere,,,
-node-701-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of garage elevator,,,,,,,,level_2_plaza,3,place-wondl,1,Revere,,,
-node-702-bridge,,Wonderland,Wonderland - Bridge level of garage elevator,,,,,,,,level_1_bridge,3,place-wondl,1,Revere,,,
-node-702-lobby,,Wonderland,Wonderland - Lobby level of garage elevator,,,,,,,,level_ground,3,place-wondl,1,Revere,,,
-node-702-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of garage elevator,,,,,,,,level_2_plaza,3,place-wondl,1,Revere,,,
-node-703-bridge,,Wonderland,Wonderland - Bridge level of garage elevator,,,,,,,,level_1_bridge,3,place-wondl,1,Revere,,,
-node-703-lobby,,Wonderland,Wonderland - Lobby level of garage elevator,,,,,,,,level_ground,3,place-wondl,1,Revere,,,
-node-703-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of garage elevator,,,,,,,,level_2_plaza,3,place-wondl,1,Revere,,,
-node-708-lobby,,Wonderland,Wonderland - Lobby level of pedestrian bridge elevator,,,,,,,,level_ground,3,place-wondl,1,Revere,,,
-node-709-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of Bowdoin-bound platform elevator,,,,,,,,level_2_plaza,3,place-wondl,1,Revere,,,
-node-709-street,,Wonderland,Wonderland - Street level of Bowdoin-bound platform elevator,,,,,,,,level_ground,3,place-wondl,1,Revere,,,
-node-710-platform,,Wonderland,Wonderland - Platform level of Wonderland-bound platform elevator,,,,,,,,level_0_platform,3,place-wondl,1,Revere,,,
-node-711-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of Ocean Ave elevator,,,,,,,,level_2_plaza,3,place-wondl,1,Revere,,,
-node-wondl-busramp-busway,,Wonderland,Wonderland - Bottom of ramp to busway door to lobby,,,,,,,,level_0_platform,3,place-wondl,1,Revere,,,
-node-wondl-busstairs-busway,,Wonderland,Wonderland - Bottom of stairs to busway door to lobby,,,,,,,,level_ground,3,place-wondl,1,Revere,,,
-node-wondl-buswaydoor,,Wonderland,Wonderland - Busway door to lobby,,,,,,,,level_ground,3,place-wondl,1,Revere,,,
-node-wondl-eplazacenter,,Wonderland,Wonderland - Revere Beach Plaza,,,,,,,,level_2_plaza,3,place-wondl,1,Revere,,,
-node-wondl-farepaid,,Wonderland,Wonderland - Paid side of fare gates,,,,,,,,level_0_platform,3,place-wondl,1,Revere,,,
-node-wondl-fareunpaid,,Wonderland,Wonderland - Unpaid side of fare gates,,,,,,,,level_0_platform,3,place-wondl,1,Revere,,,
-node-wondl-footbridgeib,,Wonderland,Wonderland - Bowdoin-bound platform end of pedestrian bridge,,,,,,,,level_1_bridge,3,place-wondl,1,Revere,,,
-node-wondl-footbridgeob,,Wonderland,Wonderland - Wonderland-bound platform end of pedestrian bridge,,,,,,,,level_1_bridge,3,place-wondl,1,Revere,,,
-node-wondl-ibfootbridgestairs-lobby,,Wonderland,Wonderland - Bottom of stairs to pedestrian bridge from Blue Line lobby,,,,,,,,level_ground,3,place-wondl,1,Revere,,,
-node-wondl-ibplazaentrance,,Wonderland,Wonderland - Revere Beach Plaza entryway from garage and pedestrian bridge,,,,,,,,level_2_plaza,3,place-wondl,1,Revere,,,
-node-wondl-ibplazastairs-bridge,,Wonderland,Wonderland - Bridge level of stairs from garage to Revere Beach Plaza,,,,,,,,level_1_bridge,3,place-wondl,1,Revere,,,
-node-wondl-ibplazastairs-lobby,,Wonderland,Wonderland - Lobby level of stairs from garage to Revere Beach Plaza,,,,,,,,level_ground,3,place-wondl,1,Revere,,,
-node-wondl-ibplazastairs-plaza,,Wonderland,Wonderland - Plaza level of stairs from garage to Revere Beach Plaza,,,,,,,,level_2_plaza,3,place-wondl,1,Revere,,,
-node-wondl-ibplazastairs-top,,Wonderland,Wonderland - Top level of stairs from garage to Revere Beach Plaza,,,,,,,,level_3_garage,3,place-wondl,1,Revere,,,
-node-wondl-lobbycenter,,Wonderland,Wonderland - Blue Line unpaid lobby,,,,,,,,level_0_platform,3,place-wondl,1,Revere,,,
-node-wondl-nshoreplazastairs-plaza,,Wonderland,Wonderland - Top of Revere Beach Plaza stairs from North Shore Road,,,,,,,,level_2_plaza,3,place-wondl,1,Revere,,,
-node-wondl-nshoreplazastairs-street,,Wonderland,Wonderland - Bottom of Revere Beach Plaza stairs from North Shore Road,,,,,,,,level_ground,3,place-wondl,1,Revere,,,
-node-wondl-nshorestairs-bottom,,Wonderland,Wonderland - Bottom of stairs to Blue Line lobby from North Shore Road,,,,,,,,level_ground,3,place-wondl,1,Revere,,,
-node-wondl-obplatstairs-platform,,Wonderland,Wonderland - Bottom of stairs from Wonderland-bound platform to pedestrian bridge,,,,,,,,level_0_platform,3,place-wondl,1,Revere,,,
-node-wondl-obplazaentrance,,Wonderland,Wonderland - Top of Revere Beach Plaza stairs to Wonderland-bound platform,,,,,,,,level_2_plaza,3,place-wondl,1,Revere,,,
-node-wondl-obplazastairs-street,,Wonderland,Wonderland - Bottom of Revere Beach Plaza stairs from Wonderland-bound platform,,,,,,,,level_0_platform,3,place-wondl,1,Revere,,,
-node-wondl-oceanaveingress,,Wonderland,Wonderland - Bowdoin-bound platform end of Revere Beach Plaza,,,,,,,,level_ground,3,place-wondl,1,Revere,,,
-node-wondl-oceanramp-bottom,,Wonderland,Wonderland - Street level of Ocean Ave ramp,,,,,,,,level_ground,3,place-wondl,1,Revere,,,
-node-wondl-oceanstairs-plaza,,Wonderland,Wonderland - Top of Revere Beach Plaza stairs from Ocean Ave,,,,,,,,level_2_plaza,3,place-wondl,1,Revere,,,
-node-wondl-plazacenter,,Wonderland,Wonderland - Revere Beach Plaza,,,,,,,,level_2_plaza,3,place-wondl,1,Revere,,,
-place-woodl,,Woodland,,,,42.333374,-71.244301,,"1940 Washington St, Newton, MA 02466",https://www.mbta.com/stops/place-woodl,,1,,1,Newton,,,
-70162,70162,Woodland,Woodland - Green Line - Park Street & North,,Park Street & North,42.333339,-71.244333,RapidTransit,,https://www.mbta.com/stops/place-woodl,level_ground,0,place-woodl,1,Newton,,,0
-70163,70163,Woodland,Woodland - Green Line - (D) Riverside,,Riverside,42.333372,-71.244303,RapidTransit,,https://www.mbta.com/stops/place-woodl,level_ground,0,place-woodl,1,Newton,,,0
+node-701-bridge,,Wonderland,Wonderland - Bridge level of garage elevator,,,42.413527,-70.991894,,,,level_1_bridge,3,place-wondl,1,Revere,,,
+node-701-lobby,,Wonderland,Wonderland - Lobby level of garage elevator,,,42.413527,-70.991894,,,,level_ground,3,place-wondl,1,Revere,,,
+node-701-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of garage elevator,,,42.413527,-70.991894,,,,level_2_plaza,3,place-wondl,1,Revere,,,
+node-702-bridge,,Wonderland,Wonderland - Bridge level of garage elevator,,,42.413499,-70.991905,,,,level_1_bridge,3,place-wondl,1,Revere,,,
+node-702-lobby,,Wonderland,Wonderland - Lobby level of garage elevator,,,42.413499,-70.991905,,,,level_ground,3,place-wondl,1,Revere,,,
+node-702-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of garage elevator,,,42.413499,-70.991905,,,,level_2_plaza,3,place-wondl,1,Revere,,,
+node-703-bridge,,Wonderland,Wonderland - Bridge level of garage elevator,,,42.413467,-70.991914,,,,level_1_bridge,3,place-wondl,1,Revere,,,
+node-703-lobby,,Wonderland,Wonderland - Lobby level of garage elevator,,,42.413467,-70.991914,,,,level_ground,3,place-wondl,1,Revere,,,
+node-703-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of garage elevator,,,42.413467,-70.991914,,,,level_2_plaza,3,place-wondl,1,Revere,,,
+node-708-lobby,,Wonderland,Wonderland - Lobby level of pedestrian bridge elevator,,,42.413306,-70.991889,,,,level_ground,3,place-wondl,1,Revere,,,
+node-709-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of Bowdoin-bound platform elevator,,,42.413786,-70.991751,,,,level_2_plaza,3,place-wondl,1,Revere,,,
+node-709-street,,Wonderland,Wonderland - Street level of Bowdoin-bound platform elevator,,,42.413786,-70.991751,,,,level_ground,3,place-wondl,1,Revere,,,
+node-710-platform,,Wonderland,Wonderland - Platform level of Wonderland-bound platform elevator,,,42.413446,-70.991592,,,,level_0_platform,3,place-wondl,1,Revere,,,
+node-710-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of Wonderland-bound platform elevator,,,42.413446,-70.991592,,,,level_2_plaza,3,place-wondl,1,Revere,,,
+node-711-plaza,,Wonderland,Wonderland - Revere Beach Plaza level of Ocean Ave elevator,,,42.413529,-70.990580,,,,level_2_plaza,3,place-wondl,1,Revere,,,
+node-wondl-busramp-busway,,Wonderland,Wonderland - Bottom of ramp to busway door to lobby,,,42.413391,-70.991987,,,,level_0_platform,3,place-wondl,1,Revere,,,
+node-wondl-busstairs-busway,,Wonderland,Wonderland - Bottom of stairs to busway door to lobby,,,42.413404,-70.991995,,,,level_ground,3,place-wondl,1,Revere,,,
+node-wondl-buswaydoor,,Wonderland,Wonderland - Busway door to lobby,,,42.413428,-70.991982,,,,level_ground,3,place-wondl,1,Revere,,,
+node-wondl-eplazacenter,,Wonderland,Wonderland - Revere Beach Plaza,,,42.413607,-70.991443,,,,level_2_plaza,3,place-wondl,1,Revere,,,
+node-wondl-farepaid,,Wonderland,Wonderland - Paid side of fare gates,,,42.413652,-70.991768,,,,level_0_platform,3,place-wondl,1,Revere,,,
+node-wondl-fareunpaid,,Wonderland,Wonderland - Unpaid side of fare gates,,,42.413652,-70.991768,,,,level_0_platform,3,place-wondl,1,Revere,,,
+node-wondl-footbridgeib,,Wonderland,Wonderland - Bowdoin-bound platform end of pedestrian bridge,,,42.413273,-70.991927,,,,level_1_bridge,3,place-wondl,1,Revere,,,
+node-wondl-footbridgeob,,Wonderland,Wonderland - Wonderland-bound platform end of pedestrian bridge,,,42.413205,-70.991700,,,,level_1_bridge,3,place-wondl,1,Revere,,,
+node-wondl-ibfootbridgestairs-lobby,,Wonderland,Wonderland - Bottom of stairs to pedestrian bridge from Blue Line lobby,,,42.413344,-70.991885,,,,level_ground,3,place-wondl,1,Revere,,,
+node-wondl-ibplazaentrance,,Wonderland,Wonderland - Revere Beach Plaza entryway from garage and pedestrian bridge,,,42.413585,-70.991876,,,,level_2_plaza,3,place-wondl,1,Revere,,,
+node-wondl-ibplazastairs-bridge,,Wonderland,Wonderland - Bridge level of stairs from garage to Revere Beach Plaza,,,42.413530,-70.991894,,,,level_1_bridge,3,place-wondl,1,Revere,,,
+node-wondl-ibplazastairs-lobby,,Wonderland,Wonderland - Lobby level of stairs from garage to Revere Beach Plaza,,,42.413530,-70.991894,,,,level_ground,3,place-wondl,1,Revere,,,
+node-wondl-ibplazastairs-plaza,,Wonderland,Wonderland - Plaza level of stairs from garage to Revere Beach Plaza,,,42.413530,-70.991894,,,,level_2_plaza,3,place-wondl,1,Revere,,,
+node-wondl-ibplazastairs-top,,Wonderland,Wonderland - Top level of stairs from garage to Revere Beach Plaza,,,42.413530,-70.991894,,,,level_3_garage,3,place-wondl,1,Revere,,,
+node-wondl-lobbycenter,,Wonderland,Wonderland - Blue Line unpaid lobby,,,42.413659,-70.991859,,,,level_0_platform,3,place-wondl,1,Revere,,,
+node-wondl-nshoreplazastairs-plaza,,Wonderland,Wonderland - Top of Revere Beach Plaza stairs from North Shore Road,,,42.413713,-70.991682,,,,level_2_plaza,3,place-wondl,1,Revere,,,
+node-wondl-nshoreplazastairs-street,,Wonderland,Wonderland - Bottom of Revere Beach Plaza stairs from North Shore Road,,,42.413754,-70.991935,,,,level_ground,3,place-wondl,1,Revere,,,
+node-wondl-nshorestairs-bottom,,Wonderland,Wonderland - Bottom of stairs to Blue Line lobby from North Shore Road,,,42.413665,-70.991982,,,,level_ground,3,place-wondl,1,Revere,,,
+node-wondl-obplatstairs-platform,,Wonderland,Wonderland - Bottom of stairs from Wonderland-bound platform to pedestrian bridge,,,42.413279,-70.991659,,,,level_0_platform,3,place-wondl,1,Revere,,,
+node-wondl-obplazaentrance,,Wonderland,Wonderland - Top of Revere Beach Plaza stairs to Wonderland-bound platform,,,42.413448,-70.991518,,,,level_2_plaza,3,place-wondl,1,Revere,,,
+node-wondl-obplazastairs-street,,Wonderland,Wonderland - Bottom of Revere Beach Plaza stairs from Wonderland-bound platform,,,42.413403,-70.991535,,,,level_0_platform,3,place-wondl,1,Revere,,,
+node-wondl-oceanaveingress,,Wonderland,Wonderland - Bowdoin-bound platform end of Revere Beach Plaza,,,42.413704,-70.991872,,,,level_ground,3,place-wondl,1,Revere,,,
+node-wondl-oceanramp-bottom,,Wonderland,Wonderland - Street level of Ocean Ave ramp,,,42.413377,-70.990498,,,,level_ground,3,place-wondl,1,Revere,,,
+node-wondl-oceanstairs-plaza,,Wonderland,Wonderland - Top of Revere Beach Plaza stairs from Ocean Ave,,,42.413438,-70.990741,,,,level_2_plaza,3,place-wondl,1,Revere,,,
+node-wondl-plazacenter,,Wonderland,Wonderland - Revere Beach Plaza,,,42.413648,-70.991613,,,,level_2_plaza,3,place-wondl,1,Revere,,,
+place-woodl,,Woodland,,,,42.332902,-71.243362,,"1940 Washington St, Newton, MA 02466",https://www.mbta.com/stops/place-woodl,,1,,1,Newton,,,
+70162,70162,Woodland,Woodland - Green Line - Park Street & North,,Park Street & North,42.332703,-71.243055,RapidTransit,,https://www.mbta.com/stops/place-woodl,level_ground,0,place-woodl,1,Newton,,,0
+70163,70163,Woodland,Woodland - Green Line - (D) Riverside,,Riverside,42.333094,-71.243659,RapidTransit,,https://www.mbta.com/stops/place-woodl,level_ground,0,place-woodl,1,Newton,,,0
 door-woodl-east,,Woodland - East,Woodland - East,,,42.332729,-71.242908,,,,level_in_street,2,place-woodl,1,Newton,,,
 door-woodl-main,,Woodland - Main,Woodland - Main,,,42.333136,-71.243720,,,,level_in_street,2,place-woodl,1,Newton,,,
 place-wrnst,,Warren Street,,,,42.348343,-71.140457,,"Commonwealth Ave and Warren St, Boston, MA",https://www.mbta.com/stops/place-wrnst,,1,,2,Boston,,,
