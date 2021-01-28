@@ -12,38 +12,15 @@ BUS121-Z-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
 Boat-F1-Wdy-Wtr-21,Weekday schedule,Weekday,Weekday,1,20210123,,Winter
 Boat-F1-WdyLimited-Smr-20,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20200622,20210122,Summer
 Boat-F4-Wdy-Smr-20,Weekday schedule,Weekday,Weekday,1,20200622,20210122,Summer
-CR-Sa-Fairmount-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,20210122,Fall
 CR-Sa-Fairmount-Wtr-21,Saturday schedule,Saturday,Saturday,1,20210123,,Winter
-CR-Sa-Fitchburg-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,20210122,Fall
-CR-Sa-Franklin-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,20210122,Fall
-CR-Sa-Greenbush-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,20210122,Fall
-CR-Sa-Haverhill-Fll-20,Saturday schedule,Saturday,Saturday,4,20201102,20210122,Fall
-CR-Sa-Kingston-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,20210122,Fall
-CR-Sa-Lowell-Fll-20,Saturday schedule,Saturday,Saturday,4,20201102,20210122,Fall
-CR-Sa-Middleborough-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,20210122,Fall
 CR-Sa-Middleborough-Wtr-21,Saturday schedule,Saturday,Saturday,1,20210123,,Winter
-CR-Sa-Needham-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,20210122,Fall
-CR-Sa-Newburyport-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,20210122,Fall
 CR-Sa-Newburyport-Wtr-21,Saturday schedule,Saturday,Saturday,1,20210123,,Winter
-CR-Sa-Providence-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,20210122,Fall
 CR-Sa-Providence-Wtr-21,Saturday schedule,Saturday,Saturday,1,20210123,,Winter
-CR-Sa-Worcester-Fll-20,Saturday schedule,Saturday,Saturday,1,20201102,20210122,Fall
 CR-Sa-Worcester-Wtr-21,Saturday schedule,Saturday,Saturday,1,20210123,,Winter
-CR-Su-Fairmount-Fll-20,Sunday schedule,Sunday,Sunday,1,20201102,20210122,Fall
 CR-Su-Fairmount-Wtr-21,Sunday schedule,Sunday,Sunday,1,20210123,,Winter
-CR-Su-Fitchburg-Fll-20,Sunday schedule,Sunday,Sunday,1,20201102,20210122,Fall
-CR-Su-Franklin-Fll-20,Sunday schedule,Sunday,Sunday,1,20201102,20210122,Fall
-CR-Su-Greenbush-Fll-20,Sunday schedule,Sunday,Sunday,1,20201102,20210122,Fall
-CR-Su-Haverhill-Fll-20,Sunday schedule,Sunday,Sunday,4,20201102,20210122,Fall
-CR-Su-Kingston-Fll-20,Sunday schedule,Sunday,Sunday,1,20201102,20210122,Fall
-CR-Su-Lowell-Fll-20,Sunday schedule,Sunday,Sunday,4,20201102,20210122,Fall
-CR-Su-Middleborough-Fll-20,Sunday schedule,Sunday,Sunday,1,20201102,20210122,Fall
 CR-Su-Middleborough-Wtr-21,Sunday schedule,Sunday,Sunday,1,20210123,,Winter
-CR-Su-Newburyport-Fll-20,Sunday schedule,Sunday,Sunday,1,20201102,20210122,Fall
 CR-Su-Newburyport-Wtr-21,Sunday schedule,Sunday,Sunday,1,20210123,,Winter
-CR-Su-Providence-Fll-20,Sunday schedule,Sunday,Sunday,1,20201102,20210122,Fall
 CR-Su-Providence-Wtr-21,Sunday schedule,Sunday,Sunday,1,20210123,,Winter
-CR-Su-Worcester-Fll-20,Sunday schedule,Sunday,Sunday,1,20201102,20210122,Fall
 CR-Su-Worcester-Wtr-21,Sunday schedule,Sunday,Sunday,1,20210123,,Winter
 CR-Wdy-Fairmount-Storm-20,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20201102,20210122,Fall (Reduced Service)
 CR-Wdy-Fairmount-Wtr-21,Weekday schedule,Weekday,Weekday,1,20210123,,Winter
@@ -73,7 +50,6 @@ CRWdyLowellStorm20AnnLwlLwlWnrLwlWnrMsm,Weekday schedule (reduced service),Weekd
 CRWdyLowellWtr21AnnLwlLwlWnrLwlWnrMsm,Weekday schedule,Weekday,Weekday,4,20210123,,Winter
 LRV121-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
 LRV121-5-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
-MartinLutherKingDay-WashingtonsBirthday,Holiday (Saturday schedule),Holiday,Saturday,3,20201220,20210313,Winter
 PRIV121-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
 PRIV121-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20201220,20210313,Winter
 PRIV121-3-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
@@ -83,8 +59,15 @@ PRIV121-7-Sa-01,Saturday schedule,Saturday,Saturday,1,20201220,20210313,Winter
 PRIV121-9-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
 RTL121-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
 RTL121-5-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
+RTL121-6-Sa-01,Saturday schedule,Saturday,Saturday,1,20201220,20210313,Winter
+RTL121-6-Sa-01-CCWllShtTrn,Saturday schedule,Saturday,Saturday,4,20201220,20210313,Winter
+RTL121-6-Sa-01-FrtHlsRgs,Saturday schedule,Saturday,Saturday,4,20201220,20210313,Winter
+RTL121-7-Su-01,Sunday schedule,Sunday,Sunday,1,20201220,20210313,Winter
+RTL121-7-Su-01-CCWllShtTrn,Sunday schedule,Sunday,Sunday,4,20201220,20210313,Winter
+RTL121-7-Su-01-FrtHlsRgs,Sunday schedule,Sunday,Sunday,4,20201220,20210313,Winter
 RTL121-9-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
 RTL121-A-Sa-01,Saturday schedule,Saturday,Saturday,1,20201220,20210313,Winter
+WashingtonsBirthday,Holiday (Saturday schedule),Holiday,Saturday,3,20201220,20210313,Winter
 WinterSaturday,Saturday schedule,Saturday,Saturday,1,20201220,20210313,Winter
 WinterSunday,Sunday schedule,Sunday,Sunday,1,20201220,20210313,Winter
 WinterWeekday,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
