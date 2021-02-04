@@ -69,9 +69,9 @@ CR-Kingston-fa4e1bac-1,CR-Kingston,1,Kingston - South Station,,1,20007100,CR-Wee
 CR-Kingston-effc3cee-1,CR-Kingston,1,Plymouth - South Station via Kingston,,1,20007101,CR-Weekday-Winter-21-1052
 CR-Kingston-97062ead-1,CR-Kingston,1,Kingston - South Station,,2,20007104,CR-Weekday-Winter-21-1032
 CR-Kingston-0f31cf0a-1,CR-Kingston,1,Kingston - South Station via Plymouth,,2,20007107,CR-Weekday-Winter-21-1056
-CR-Lowell-b490515c-0,CR-Lowell,0,North Station - Lowell,,1,20008000,CR-Weekday-Winter-21-1301-LowellWinchesterLowellWinchesterMishawum
+CR-Lowell-b490515c-0,CR-Lowell,0,North Station - Lowell,,1,20008000,CR-Weekday-Winter-21-1301-23:00-AndersonLowellLowellWinchesterLowellWinchesterMishawum
 CR-Lowell-b490515c-0_NHRML-0127_NHRML-0254_0,CR-Lowell,0,North Station - Anderson/Woburn,,4,20008099,CR-Weekday-Winter-21-1315-23:00-AndersonLowellLowellWinchesterLowellWinchesterMishawum0
-CR-Lowell-27cba5f2-1,CR-Lowell,1,Lowell - North Station,,1,20008100,CR-Weekday-Winter-21-1300-LowellWinchesterLowellWinchesterMishawum
+CR-Lowell-27cba5f2-1,CR-Lowell,1,Lowell - North Station,,1,20008100,CR-Weekday-Winter-21-1300-23:00-AndersonLowellLowellWinchesterLowellWinchesterMishawum
 CR-Middleborough-ac5e0e44-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,20009000,CR-Weekday-Winter-21-1001
 CR-Middleborough-ff21eea0-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,2,20009003,CR-Weekday-Winter-21-1003
 CR-Middleborough-5a92bb74-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,20009100,CR-Weekday-Winter-21-1002
@@ -82,25 +82,25 @@ CR-Needham-d75ab391-1,CR-Needham,1,Needham Heights - South Station,,3,20010103,C
 CR-Newburyport-2c584948-0,CR-Newburyport,0,North Station - Newburyport,,1,20011000,CR-Weekday-Winter-21-1151-BVRMRRockportWGRI
 CR-Newburyport-7dfa086f-0,CR-Newburyport,0,North Station - Manchester,,1,20011001,CR-Weekday-Winter-21-1101-BVRMRRockportWGRI
 CR-Newburyport-0261ede7-0,CR-Newburyport,0,North Station - Beverly,,2,20011009,CR-Weekday-Winter-21-7181-BVRMRRockportWGRI
+CR-Newburyport-244c556f-0,CR-Newburyport,0,North Station - Beverly,,3,20011010,CR-Saturday-Winter-21-2101-BVRMRRockportWGRI
 CR-Newburyport-801f0591-0,CR-Newburyport,0,North Station - Newburyport,,3,20011011,CR-Saturday-Winter-21-2151-BVRMRRockportWGRI
-CR-Newburyport-244c556f-0,CR-Newburyport,0,North Station - Beverly,,3,20011013,CR-Saturday-Winter-21-2101-BVRMRRockportWGRI
 CR-Newburyport-01fdebba-1,CR-Newburyport,1,West Gloucester - North Station,,1,20011100,CR-Weekday-Winter-21-1100-BVRMRRockportWGRI
 CR-Newburyport-b2db7a26-1,CR-Newburyport,1,Newburyport - North Station,,1,20011101,CR-Weekday-Winter-21-1150-BVRMRRockportWGRI
 CR-Newburyport-a9e8de49-1,CR-Newburyport,1,Beverly - North Station,,2,20011106,CR-Weekday-Winter-21-7182-BVRMRRockportWGRI
-CR-Newburyport-0746071c-1,CR-Newburyport,1,Newburyport - North Station,,3,20011108,CR-Saturday-Winter-21-2150-BVRMRRockportWGRI
-CR-Newburyport-4e22771d-1,CR-Newburyport,1,Beverly - North Station,,3,20011110,CR-Saturday-Winter-21-2100-BVRMRRockportWGRI
-CR-Providence-dcbfc839-0,CR-Providence,0,South Station - Stoughton,,1,20012000,CR-Weekday-Winter-21-7861
-CR-Providence-ace2f70a-0,CR-Providence,0,South Station - Wickford Junction,,1,20012001,CR-Weekday-Winter-21-7801
+CR-Newburyport-0746071c-1,CR-Newburyport,1,Newburyport - North Station,,3,20011107,CR-Saturday-Winter-21-2150-BVRMRRockportWGRI
+CR-Newburyport-4e22771d-1,CR-Newburyport,1,Beverly - North Station,,3,20011108,CR-Saturday-Winter-21-2100-BVRMRRockportWGRI
+CR-Providence-ace2f70a-0,CR-Providence,0,South Station - Wickford Junction,,1,20012000,CR-Weekday-Winter-21-7801
+CR-Providence-dcbfc839-0,CR-Providence,0,South Station - Stoughton,,1,20012001,CR-Weekday-Winter-21-7861
 CR-Providence-be01fe7b-0,CR-Providence,0,South Station - Providence,,2,20012002,CR-Weekday-Winter-21-1801
 CR-Providence-e26e8bbf-1,CR-Providence,1,Stoughton - South Station,,1,20012100,CR-Weekday-Winter-21-7860
 CR-Providence-da777277-1,CR-Providence,1,Wickford Junction - South Station,,1,20012101,CR-Weekday-Winter-21-7800
 CR-Providence-535d4c5e-1,CR-Providence,1,Providence - South Station,,2,20012102,CR-Weekday-Winter-21-1802
-Boat-F1-2-0,Boat-F1,0,Long Wharf - Hingham via Hull,,2,30002002,Boat-F1-1300-Long-WeekdayExtra13:00Final14:00-Winter-21
-Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,30002003,Boat-F1-0630-Long-WeekdayExtra13:00Final14:00-Winter-21
-Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,30002006,Boat-F1-0645-Long-WeekdayExtra13:00Final14:00-Winter-21
-Boat-F1-2-1,Boat-F1,1,Hingham - Long Wharf via Hull,,2,30002102,Boat-F1-0540-Hingham-WeekdayExtra13:00Final14:00-Winter-21
-Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,30002103,Boat-F1-0700-Hull-WeekdayExtra13:00Final14:00-Winter-21
-Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-0600-Hingham-WeekdayExtra13:00Final14:00-Winter-21
+Boat-F1-2-0,Boat-F1,0,Long Wharf - Hingham via Hull,,2,30002002,Boat-F1-1400-Long-Weekday-Winter-21
+Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,30002003,Boat-F1-0630-Long-Weekday-Winter-21
+Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,30002006,Boat-F1-0645-Long-Weekday-Winter-21
+Boat-F1-2-1,Boat-F1,1,Hingham - Long Wharf via Hull,,2,30002102,Boat-F1-0540-Hingham-Weekday-Winter-21
+Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,30002103,Boat-F1-0700-Hull-Weekday-Winter-21
+Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-0600-Hingham-Weekday-Winter-21
 747-_-0,747,0,Ruggles Station - Sullivan Square Station,Weekdays only,1,40020000,46488537
 747-_-1,747,1,Sullivan Square Station - Ruggles Station,Weekdays only,1,40020100,46488538
 708-_-0,708,0,Andrew Station - Brookline Ave,Weekdays only,1,40030000,46488516
