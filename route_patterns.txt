@@ -53,15 +53,17 @@ Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,46368141
 CR-Fairmount-456a6b87-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,20001000,CR-Weekday-Winter-21-1903
 CR-Fairmount-3a5f00da-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-Weekday-Winter-21-1902
 CR-Fitchburg-b3f90edb-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-Weekday-Winter-21-1401
+CR-Fitchburg-b3f90edb-0_BNT-0000_FR-0301_2,CR-Fitchburg,0,Littleton/Route 495 - Wachusett,,2,20002099,CR-Weekday-Winter-21-1401-AlewifeLittleton2AL
 CR-Fitchburg-c0027c21-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-Weekday-Winter-21-1400
+CR-Fitchburg-c0027c21-1_FR-0301_BNT-0000_0,CR-Fitchburg,1,Wachusett - Littleton/Route 495,,2,20002199,CR-Weekday-Winter-21-1400-AlewifeLittleton0AL
 CR-Worcester-c9f70cfa-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-Weekday-Winter-21-1501
 CR-Worcester-46173ad9-1,CR-Worcester,1,Worcester - South Station,,1,20003100,CR-Weekday-Winter-21-1500
 CR-Franklin-e4bee052-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,20004000,CR-Weekday-Winter-21-1703
 CR-Franklin-7cfe4c11-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,20004100,CR-Weekday-Winter-21-1702
 CR-Greenbush-e3278d41-0,CR-Greenbush,0,South Station - Greenbush,,1,20005000,CR-Weekday-Winter-21-1071
 CR-Greenbush-69dd7df3-1,CR-Greenbush,1,Greenbush - South Station,,1,20005100,CR-Weekday-Winter-21-1070
-CR-Haverhill-39788023-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,20006000,CR-Weekday-Winter-21-1201-HaverhillWinchesterMishawum
-CR-Haverhill-c7c4b0d8-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,20006100,CR-Weekday-Winter-21-1200-HaverhillWinchesterMishawum
+CR-Haverhill-39788023-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,20006000,CR-Weekday-Winter-21-1201
+CR-Haverhill-c7c4b0d8-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,20006100,CR-Weekday-Winter-21-1200
 CR-Kingston-4c631c85-0,CR-Kingston,0,South Station - Kingston,,1,20007000,CR-Weekday-Winter-21-1033
 CR-Kingston-01f9eb04-0,CR-Kingston,0,South Station - Plymouth via Kingston,,1,20007001,CR-Weekday-Winter-21-1055
 CR-Kingston-b65d38b0-0,CR-Kingston,0,South Station - Kingston via Plymouth,,2,20007004,CR-Weekday-Winter-21-1051
@@ -69,9 +71,9 @@ CR-Kingston-fa4e1bac-1,CR-Kingston,1,Kingston - South Station,,1,20007100,CR-Wee
 CR-Kingston-effc3cee-1,CR-Kingston,1,Plymouth - South Station via Kingston,,1,20007101,CR-Weekday-Winter-21-1052
 CR-Kingston-97062ead-1,CR-Kingston,1,Kingston - South Station,,2,20007104,CR-Weekday-Winter-21-1032
 CR-Kingston-0f31cf0a-1,CR-Kingston,1,Kingston - South Station via Plymouth,,2,20007107,CR-Weekday-Winter-21-1056
-CR-Lowell-b490515c-0,CR-Lowell,0,North Station - Lowell,,1,20008000,CR-Weekday-Winter-21-1301-23:00-AndersonLowellLowellWinchesterLowellWinchesterMishawum
+CR-Lowell-b490515c-0,CR-Lowell,0,North Station - Lowell,,1,20008000,CR-Weekday-Winter-21-1301
 CR-Lowell-b490515c-0_NHRML-0127_NHRML-0254_0,CR-Lowell,0,North Station - Anderson/Woburn,,4,20008099,CR-Weekday-Winter-21-1315-23:00-AndersonLowellLowellWinchesterLowellWinchesterMishawum0
-CR-Lowell-27cba5f2-1,CR-Lowell,1,Lowell - North Station,,1,20008100,CR-Weekday-Winter-21-1300-23:00-AndersonLowellLowellWinchesterLowellWinchesterMishawum
+CR-Lowell-27cba5f2-1,CR-Lowell,1,Lowell - North Station,,1,20008100,CR-Weekday-Winter-21-1300
 CR-Middleborough-ac5e0e44-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,20009000,CR-Weekday-Winter-21-1001
 CR-Middleborough-ff21eea0-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,2,20009003,CR-Weekday-Winter-21-1003
 CR-Middleborough-5a92bb74-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,20009100,CR-Weekday-Winter-21-1002
@@ -808,9 +810,11 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-0600-Hingham-Week
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,46956677
 602-1-0,602,0,Lechmere - North Station,,1,60200000,46956840
 602-1-1,602,1,North Station - Lechmere,,1,60200100,46956842
+Shuttle-AlewifeLittletonExpress-0-0,Shuttle-AlewifeLittletonExpress,0,Alewife - Littleton/Route 495 (Express),,1,60221099,CR-Weekday-Winter-21-1401-AlewifeLittleton2ALBX1
+Shuttle-AlewifeLittletonExpress-0-1,Shuttle-AlewifeLittletonExpress,1,Littleton/Route 495 - Alewife (Express),,1,60221199,CR-Weekday-Winter-21-1400-AlewifeLittleton0ALBX1
+Shuttle-AlewifeLittletonLocal-0-0,Shuttle-AlewifeLittletonLocal,0,Alewife - Littleton/Route 495 (Local),,1,60222099,CR-Weekday-Winter-21-1401-AlewifeLittleton1AL
+Shuttle-AlewifeLittletonLocal-0-1,Shuttle-AlewifeLittletonLocal,1,Littleton/Route 495 - Alewife (Local),,1,60222199,CR-Weekday-Winter-21-1400-AlewifeLittleton1AL
 Shuttle-AndersonWoburnLowell-0-0,Shuttle-AndersonWoburnLowell,0,Anderson/Woburn - Lowell,,4,60223099,CR-Weekday-Winter-21-1315-23:00-AndersonLowellLowellWinchesterLowellWinchesterMishawumAndersonLowell
-Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,4,60350099,46457048-15:00-AshmontMattapan1
-Shuttle-AshmontMattapan-0-1,Shuttle-AshmontMattapan,1,Mattapan - Ashmont,,4,60350199,46457046-15:00-AshmontMattapan1
 Shuttle-BeverlyRockport-0-0,Shuttle-BeverlyRockport,0,Beverly - Rockport,,4,60700099,CR-Saturday-Winter-21-2101-BVRMRRockportWGRIB1
 Shuttle-BeverlyRockport-0-1,Shuttle-BeverlyRockport,1,Rockport - Beverly,,4,60700199,CR-Saturday-Winter-21-2100-BVRMRRockportWGRIB1
 Shuttle-ForestHillsRuggles-0-0,Shuttle-ForestHillsRuggles,0,Ruggles - Forest Hills,,4,61700099,46226061-ForestHillsRuggles1
