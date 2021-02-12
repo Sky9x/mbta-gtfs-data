@@ -8,12 +8,12 @@ Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,46457038
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,46571159
 Orange-5-0,Orange,0,Wellington - Forest Hills,Weekday mornings only,3,10020004,46571279
 Orange-0-0,Orange,0,Wellington - Community College,,4,10020099,46226061-CCWellShuttTrain1
-Orange-3-0_70010_70001_0,Orange,0,Oak Grove - Ruggles,,4,10020099,46226061-ForestHillsRuggles0
+Orange-3-0_70006_70001_0,Orange,0,Oak Grove - Jackson Square,,4,10020099,46226061-ForestHillsJacksonSquare0
 Orange-3-0_70032_70028_0,Orange,0,Oak Grove - Wellington,,4,10020099,46226061-CCWellShuttTrain0
 Orange-3-0_70032_70028_2,Orange,0,Community College - Forest Hills,,4,10020099,46226061-CCWellShuttTrain2
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,46571217
 Orange-0-1,Orange,1,Community College - Wellington,,4,10020199,46226062-CCWellShuttTrain1
-Orange-3-1_70001_70011_2,Orange,1,Ruggles - Oak Grove,,4,10020199,46226062-ForestHillsRuggles2
+Orange-3-1_70001_70007_2,Orange,1,Jackson Square - Oak Grove,,4,10020199,46226062-ForestHillsJacksonSquare2
 Orange-3-1_70029_70033_0,Orange,1,Forest Hills - Community College,,4,10020199,46226062-CCWellShuttTrain0
 Orange-3-1_70029_70033_2,Orange,1,Wellington - Oak Grove,,4,10020199,46226062-CCWellShuttTrain2
 Green-B-3-0,Green-B,0,Park Street - Boston College,,1,10032000,46454479
@@ -72,7 +72,6 @@ CR-Kingston-effc3cee-1,CR-Kingston,1,Plymouth - South Station via Kingston,,1,20
 CR-Kingston-97062ead-1,CR-Kingston,1,Kingston - South Station,,2,20007104,CR-Weekday-Winter-21-1032
 CR-Kingston-0f31cf0a-1,CR-Kingston,1,Kingston - South Station via Plymouth,,2,20007107,CR-Weekday-Winter-21-1056
 CR-Lowell-b490515c-0,CR-Lowell,0,North Station - Lowell,,1,20008000,CR-Weekday-Winter-21-1301
-CR-Lowell-b490515c-0_NHRML-0127_NHRML-0254_0,CR-Lowell,0,North Station - Anderson/Woburn,,4,20008099,CR-Weekday-Winter-21-1315-23:00-AndersonLowellLowellWinchesterLowellWinchesterMishawum0
 CR-Lowell-27cba5f2-1,CR-Lowell,1,Lowell - North Station,,1,20008100,CR-Weekday-Winter-21-1300
 CR-Middleborough-ac5e0e44-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,20009000,CR-Weekday-Winter-21-1001
 CR-Middleborough-ff21eea0-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,2,20009003,CR-Weekday-Winter-21-1003
@@ -814,11 +813,10 @@ Shuttle-AlewifeLittletonExpress-0-0,Shuttle-AlewifeLittletonExpress,0,Alewife - 
 Shuttle-AlewifeLittletonExpress-0-1,Shuttle-AlewifeLittletonExpress,1,Littleton/Route 495 - Alewife (Express),,1,60221199,CR-Weekday-Winter-21-1400-AlewifeLittleton0ALBX1
 Shuttle-AlewifeLittletonLocal-0-0,Shuttle-AlewifeLittletonLocal,0,Alewife - Littleton/Route 495 (Local),,1,60222099,CR-Weekday-Winter-21-1401-AlewifeLittleton1AL
 Shuttle-AlewifeLittletonLocal-0-1,Shuttle-AlewifeLittletonLocal,1,Littleton/Route 495 - Alewife (Local),,1,60222199,CR-Weekday-Winter-21-1400-AlewifeLittleton1AL
-Shuttle-AndersonWoburnLowell-0-0,Shuttle-AndersonWoburnLowell,0,Anderson/Woburn - Lowell,,4,60223099,CR-Weekday-Winter-21-1315-23:00-AndersonLowellLowellWinchesterLowellWinchesterMishawumAndersonLowell
 Shuttle-BeverlyRockport-0-0,Shuttle-BeverlyRockport,0,Beverly - Rockport,,4,60700099,CR-Saturday-Winter-21-2101-BVRMRRockportWGRIB1
 Shuttle-BeverlyRockport-0-1,Shuttle-BeverlyRockport,1,Rockport - Beverly,,4,60700199,CR-Saturday-Winter-21-2100-BVRMRRockportWGRIB1
-Shuttle-ForestHillsRuggles-0-0,Shuttle-ForestHillsRuggles,0,Ruggles - Forest Hills,,4,61700099,46226061-ForestHillsRuggles1
-Shuttle-ForestHillsRuggles-0-1,Shuttle-ForestHillsRuggles,1,Forest Hills - Ruggles,,4,61700199,46226062-ForestHillsRuggles1
+Shuttle-ForestHillsJackson-0-0,Shuttle-ForestHillsJackson,0,Jackson Square - Forest Hills,,4,61600099,46226061-ForestHillsJacksonSquare1
+Shuttle-ForestHillsJackson-0-1,Shuttle-ForestHillsJackson,1,Forest Hills - Jackson Square,,4,61600199,46226062-ForestHillsJacksonSquare1
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-Weekday-Winter-21-1101-BVRMRRockportWGRIB1
 Shuttle-ManchesterRockport-0-0,Shuttle-ManchesterRockport,0,Manchester - Rockport,,4,62060099,CR-Weekday-Winter-21-1101-BVRMRRockportWGRIC1
 Shuttle-RockportWestGloucester-0-0,Shuttle-RockportWestGloucester,0,West Gloucester - Rockport,,4,62410099,CR-Weekday-Winter-21-S1101-BVRMRRockportWGRI1
