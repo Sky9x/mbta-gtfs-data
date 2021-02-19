@@ -1,14 +1,14 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-BUS121-12-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
-BUS121-16-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
-BUS121-2-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
-BUS121-7-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
-BUS121-C-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
-BUS121-E-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
-BUS121-J-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
-BUS121-O-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
-BUS121-T-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
-BUS121-Y-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
+BUS121-1-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
+BUS121-14-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
+BUS121-3-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
+BUS121-8-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
+BUS121-D-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
+BUS121-F-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
+BUS121-K-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
+BUS121-P-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
+BUS121-U-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
+BUS121-Z-Wdy-02,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
 Boat-F1-Wdy-Wtr-21,Weekday schedule,Weekday,Weekday,1,20210123,,Winter
 CR-Sa-Fairmount-Wtr-21,Saturday schedule,Saturday,Saturday,1,20210123,,Winter
 CR-Sa-Middleborough-Wtr-21,Saturday schedule,Saturday,Saturday,1,20210123,,Winter
@@ -52,7 +52,7 @@ PRIV121-3-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
 PRIV121-4-Sa-01,Saturday schedule,Saturday,Saturday,1,20201220,20210313,Winter
 PRIV121-6-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
 PRIV121-7-Sa-01,Saturday schedule,Saturday,Saturday,1,20201220,20210313,Winter
-PRIV121-D-Wdy-01,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
+PRIV121-9-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
 RTL121-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
 RTL121-5-Wdy-01,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
 RTL121-6-Sa-01,Saturday schedule,Saturday,Saturday,1,20201220,20210313,Winter
@@ -68,4 +68,4 @@ RTL121-B-Su-01-AlHrShtTrn,Sunday schedule,Sunday,Sunday,4,20201220,20210313,Wint
 WashingtonsBirthday,Holiday (Saturday schedule),Holiday,Saturday,3,20201220,20210313,Winter
 WinterSaturday,Saturday schedule,Saturday,Saturday,1,20201220,20210313,Winter
 WinterSunday,Sunday schedule,Sunday,Sunday,1,20201220,20210313,Winter
-WinterWeekday,Weekday schedule,Weekday,Weekday,1,20201220,20210313,Winter
+WinterWeekday,Weekday schedule (no school),Weekday (no school),Weekday,1,20201220,20210313,Winter
