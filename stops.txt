@@ -1398,6 +1398,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2092,2092,Huron Ave @ Chilton St,,,,42.381290,-71.138011,LocalBus,,https://www.mbta.com/stops/2092,,0,,0,Cambridge,Huron Avenue,Chilton Street,3
 2093,2093,Huron Ave @ Lakeview Ave,,,,42.380926,-71.140218,LocalBus,,https://www.mbta.com/stops/2093,,0,,0,Cambridge,Huron Avenue,Lakeview Avenue,3
 2095,2095,Huron Ave @ Larch Rd,,,,42.380242,-71.143720,LocalBus,,https://www.mbta.com/stops/2095,,0,,0,Cambridge,Huron Avenue,Larch Road,3
+2099,2099,Trapelo Rd @ Church St,,,,42.387500,-71.189976,LocalBus,,https://www.mbta.com/stops/2099,,0,,0,Belmont,Trapelo Road,Church Street,3
 21,21,E Broadway @ G St,,,,42.335407,-71.044392,LocalBus,,https://www.mbta.com/stops/21,,0,,1,Boston,East Broadway,G Street,3
 210,210,Summer St @ Drydock Ave,,,,42.344381,-71.039016,LocalBus,,https://www.mbta.com/stops/210,,0,,1,Boston,Summer Street,,3
 2101,2101,Trapelo Rd @ Sycamore St,,,,42.386537,-71.186867,LocalBus,,https://www.mbta.com/stops/2101,,0,,1,Belmont,Trapelo Road,Sycamore Street,3
@@ -1436,6 +1437,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2133,2133,Trapelo Rd @ Waverley St,,,,42.387089,-71.188115,LocalBus,,https://www.mbta.com/stops/2133,,0,,1,Belmont,Trapelo Road,Waverley Street,3
 2134,2134,Church St @ Lexington St,,,,42.387194,-71.190609,LocalBus,,https://www.mbta.com/stops/2134,,0,,0,Belmont,Church Street,Lexington Street,3
 21365,21365,S Huntington Ave @ Huntington Ave,,,,42.331803,-71.112061,LocalBus,,https://www.mbta.com/stops/21365,,0,,0,Boston,South Huntington Avenue,Huntington Avenue,3
+2137,2137,396 Concord Ave,,,,42.395391,-71.174422,LocalBus,,https://www.mbta.com/stops/2137,,0,,1,Belmont,Concord Avenue,Common Street,3
 2139,2139,Concord Ave @ Cottage St,,,,42.394334,-71.170817,LocalBus,,https://www.mbta.com/stops/2139,,0,,1,Belmont,Concord Avenue,Cottage Street,3
 214,214,Seaport Blvd @ World Trade Center opp Seaport Htl,,,,42.350241,-71.042116,LocalBus,,https://www.mbta.com/stops/214,,0,,1,Boston,Seaport Boulevard,B Street,3
 2140,2140,Concord Ave @ Myrtle St,,,,42.393894,-71.169453,LocalBus,,https://www.mbta.com/stops/2140,,0,,0,Belmont,Concord Avenue,Myrtle Street,3
@@ -1498,6 +1500,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2195,2195,Concord Ave opp Myrtle St,,,,42.394144,-71.169411,LocalBus,,https://www.mbta.com/stops/2195,,0,,0,Belmont,Concord Avenue,Goden Street,3
 2196,2196,Concord Ave opp Cottage St,,,,42.394481,-71.170464,LocalBus,,https://www.mbta.com/stops/2196,,0,,0,Belmont,Concord Avenue,Cottage Street,3
 2197,2197,385 Concord Ave,,,,42.395293,-71.173190,LocalBus,,https://www.mbta.com/stops/2197,,0,,1,Belmont,Concord Avenue,Common Street,3
+2198,2198,Concord Ave @ Leonard St - Belmont Center Sta,,,,42.395829,-71.175274,LocalBus,,https://www.mbta.com/stops/2198,,0,,1,Belmont,Concord Avenue,Common Street,3
 22,22,E Broadway @ H St,,,,42.335457,-71.041670,LocalBus,,https://www.mbta.com/stops/22,,0,,1,Boston,East Broadway,H Street,3
 221,221,Atlantic Ave @ Congress St,,,,42.353792,-71.053183,LocalBus,,https://www.mbta.com/stops/221,,0,,1,Boston,Atlantic Avenue,Pearl Street,3
 22146,22146,Huron Ave @ Grove St,,,,42.382082,-71.157606,LocalBus,,https://www.mbta.com/stops/22146,,0,,0,Cambridge,Huron Avenue,,3
@@ -7106,18 +7109,17 @@ place-FB-0303,,Forge Park/495,,,,42.089941,-71.439020,CR-zone-6,"1000 W Central 
 FB-0303-S,,Forge Park/495,Forge Park/495 - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.089941,-71.439020,CR-zone-6,,https://www.mbta.com/stops/place-FB-0303,,0,place-FB-0303,1,Franklin,,,2
 Forge Park / 495,,Forge Park/495,Forge Park/495 - Commuter Rail,,Commuter Rail,42.089941,-71.439020,CR-zone-6,,https://www.mbta.com/stops/place-FB-0303,,0,place-FB-0303,1,Franklin,,,2
 place-FR-0064,,Belmont,,,,42.395896,-71.176190,CR-zone-1,"Common St and Concord Ave, Belmont, MA 02478",https://www.mbta.com/stops/place-FR-0064,,1,,2,Belmont,,,
-2137,2137,396 Concord Ave,,,,42.395391,-71.174422,LocalBus,,https://www.mbta.com/stops/place-FR-0064,,0,place-FR-0064,1,Belmont,Concord Avenue,Common Street,3
-2198,2198,Concord Ave @ Leonard St - Belmont Center Sta,,,,42.395829,-71.175274,LocalBus,,https://www.mbta.com/stops/place-FR-0064,,0,place-FR-0064,1,Belmont,Concord Avenue,Common Street,3
 Belmont,,Belmont,Belmont - Commuter Rail,,Commuter Rail,42.395896,-71.176190,CR-zone-1,,https://www.mbta.com/stops/place-FR-0064,,0,place-FR-0064,2,Belmont,,,2
 FR-0064,,Belmont,Belmont - Commuter Rail,,Commuter Rail,42.395896,-71.176190,CR-zone-1,,https://www.mbta.com/stops/place-FR-0064,,0,place-FR-0064,2,Belmont,,,2
 FR-0064-01,,Belmont,Belmont - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.395896,-71.176190,CR-zone-1,,https://www.mbta.com/stops/place-FR-0064,,0,place-FR-0064,2,Belmont,,,2
 FR-0064-02,,Belmont,Belmont - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.395896,-71.176190,CR-zone-1,,https://www.mbta.com/stops/place-FR-0064,,0,place-FR-0064,2,Belmont,,,2
+FR-0064-B0,,Belmont,Belmont - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.396338,-71.176343,LocalBus,,https://www.mbta.com/stops/place-FR-0064,,0,place-FR-0064,1,Belmont,,,3
+FR-0064-B1,,Belmont,Belmont - Commuter Rail Boston Shuttle,,Boston Shuttle,42.396228,-71.176302,LocalBus,,https://www.mbta.com/stops/place-FR-0064,,0,place-FR-0064,1,Belmont,,,3
 place-FR-0074,,Waverley,,,,42.387600,-71.190744,CR-zone-1,"525 Trapelo Rd, Belmont, MA 02478",https://www.mbta.com/stops/place-FR-0074,,1,,2,Belmont,,,
-2099,2099,Trapelo Rd @ Church St,,,,42.387500,-71.189976,LocalBus,,https://www.mbta.com/stops/place-FR-0074,,0,place-FR-0074,0,Belmont,Trapelo Road,Church Street,3
 FR-0074,,Waverley,Waverley - Commuter Rail,,Commuter Rail,42.387600,-71.190744,CR-zone-1,,https://www.mbta.com/stops/place-FR-0074,,0,place-FR-0074,2,Belmont,,,2
 FR-0074-01,,Waverley,Waverley - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.387600,-71.190744,CR-zone-1,,https://www.mbta.com/stops/place-FR-0074,,0,place-FR-0074,2,Belmont,,,2
 FR-0074-02,,Waverley,Waverley - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.387600,-71.190744,CR-zone-1,,https://www.mbta.com/stops/place-FR-0074,,0,place-FR-0074,2,Belmont,,,2
-FR-0074-B,,Waverly,Waverly - Outbound Shuttle,,Outbound Shuttle,42.387511,-71.191096,LocalBus,,https://www.mbta.com/stops/place-FR-0074,,0,place-FR-0074,1,Belmont,,,3
+FR-0074-B,,Waverly,Waverly - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.387511,-71.191096,LocalBus,,https://www.mbta.com/stops/place-FR-0074,,0,place-FR-0074,1,Belmont,,,3
 Waverley,,Waverley,Waverley - Commuter Rail,,Commuter Rail,42.387600,-71.190744,CR-zone-1,,https://www.mbta.com/stops/place-FR-0074,,0,place-FR-0074,2,Belmont,,,2
 place-FR-0098,,Waltham,,,,42.374269,-71.235598,CR-zone-2,"75 Carter St, Waltham, MA 02453",https://www.mbta.com/stops/place-FR-0098,,1,,1,Waltham,,,
 86944,86944,Carter St @ Waltham Comm Rail Sta,,,,42.374525,-71.235692,LocalBus,,https://www.mbta.com/stops/place-FR-0098,,0,place-FR-0098,1,Waltham,Carter Street,,3
@@ -7131,7 +7133,8 @@ Brandeis/ Roberts,,Brandeis/Roberts,Brandeis/Roberts - Commuter Rail,,Commuter R
 FR-0115,,Brandeis/Roberts,Brandeis/Roberts - Commuter Rail,,Commuter Rail,42.361898,-71.260065,CR-zone-2,,https://www.mbta.com/stops/place-FR-0115,,0,place-FR-0115,1,Waltham,,,2
 FR-0115-01,,Brandeis/Roberts,Brandeis/Roberts - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.361898,-71.260065,CR-zone-2,,https://www.mbta.com/stops/place-FR-0115,,0,place-FR-0115,1,Waltham,,,2
 FR-0115-02,,Brandeis/Roberts,Brandeis/Roberts - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.361898,-71.260065,CR-zone-2,,https://www.mbta.com/stops/place-FR-0115,,0,place-FR-0115,1,Waltham,,,2
-FR-0115-B,,Brandeis/Roberts,Brandeis/Roberts - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.361727,-71.261002,LocalBus,,https://www.mbta.com/stops/place-FR-0115,,0,place-FR-0115,1,Waltham,,,3
+FR-0115-B0,,Brandeis/Roberts,Brandeis/Roberts - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.362200,-71.260587,LocalBus,,https://www.mbta.com/stops/place-FR-0115,,0,place-FR-0115,1,Waltham,,,3
+FR-0115-B1,,Brandeis/Roberts,Brandeis/Roberts - Commuter Rail Boston Shuttle,,Boston Shuttle,42.362233,-71.260361,LocalBus,,https://www.mbta.com/stops/place-FR-0115,,0,place-FR-0115,1,Waltham,,,3
 place-FR-0132,,Kendal Green,,,,42.378970,-71.282411,CR-zone-3,"198 Church St, Weston, MA",https://www.mbta.com/stops/place-FR-0132,,1,,2,Weston,,,
 FR-0132,,Kendal Green,Kendal Green - Commuter Rail,,Commuter Rail,42.378970,-71.282411,CR-zone-3,,https://www.mbta.com/stops/place-FR-0132,,0,place-FR-0132,2,Weston,,,2
 FR-0132-01,,Kendal Green,Kendal Green - Commuter Rail - Track 1,1,Track 1,42.378970,-71.282411,CR-zone-3,,https://www.mbta.com/stops/place-FR-0132,,0,place-FR-0132,2,Weston,,,2
@@ -7153,7 +7156,7 @@ place-FR-0167,,Lincoln,,,,42.413420,-71.325404,CR-zone-4,"160 Lincoln Rd, Lincol
 FR-0167,,Lincoln,Lincoln - Commuter Rail,,Commuter Rail,42.413420,-71.325404,CR-zone-4,,https://www.mbta.com/stops/place-FR-0167,,0,place-FR-0167,2,Lincoln,,,2
 FR-0167-01,,Lincoln,Lincoln - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.413420,-71.325404,CR-zone-4,,https://www.mbta.com/stops/place-FR-0167,,0,place-FR-0167,2,Lincoln,,,2
 FR-0167-02,,Lincoln,Lincoln - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.413420,-71.325404,CR-zone-4,,https://www.mbta.com/stops/place-FR-0167,,0,place-FR-0167,2,Lincoln,,,2
-FR-0167-B,,Lincoln,Lincoln - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.413812,-71.325329,LocalBus,,https://www.mbta.com/stops/place-FR-0167,,0,place-FR-0167,1,Lincoln,,,3
+FR-0167-B,,Lincoln,Lincoln - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.415079,-71.326270,LocalBus,,https://www.mbta.com/stops/place-FR-0167,,0,place-FR-0167,1,Lincoln,,,3
 Lincoln,,Lincoln,Lincoln - Commuter Rail,,Commuter Rail,42.413420,-71.325404,CR-zone-4,,https://www.mbta.com/stops/place-FR-0167,,0,place-FR-0167,2,Lincoln,,,2
 place-FR-0201,,Concord,,,,42.456565,-71.357677,CR-zone-5,"90 Thoreau St, Concord, MA 01742",https://www.mbta.com/stops/place-FR-0201,,1,,2,Concord,,,
 Concord,,Concord,Concord - Commuter Rail,,Commuter Rail,42.456565,-71.357677,CR-zone-5,,https://www.mbta.com/stops/place-FR-0201,,0,place-FR-0201,2,Concord,,,2
@@ -7161,13 +7164,13 @@ FR-0201,,Concord,Concord - Commuter Rail,,Commuter Rail,42.456565,-71.357677,CR-
 FR-0201-01,,Concord,Concord - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.456565,-71.357677,CR-zone-5,,https://www.mbta.com/stops/place-FR-0201,,0,place-FR-0201,2,Concord,,,2
 FR-0201-02,,Concord,Concord - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.456565,-71.357677,CR-zone-5,,https://www.mbta.com/stops/place-FR-0201,,0,place-FR-0201,2,Concord,,,2
 FR-0201-B0,,Concord,Concord - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.456790,-71.357253,LocalBus,,https://www.mbta.com/stops/place-FR-0201,,0,place-FR-0201,1,Concord,,,3
-FR-0201-B1,,Concord,Concord - Commuter Rail Boston Shuttle,,Boston Shuttle,42.456707,-71.357344,LocalBus,,https://www.mbta.com/stops/place-FR-0201,,0,place-FR-0201,1,Concord,,,3
+FR-0201-B1,,Concord,Concord - Commuter Rail Boston Shuttle,,Boston Shuttle,42.456678,-71.357301,LocalBus,,https://www.mbta.com/stops/place-FR-0201,,0,place-FR-0201,1,Concord,,,3
 place-FR-0219,,West Concord,,,,42.457043,-71.392892,CR-zone-5,"Commonwealth Ave and Main St, West Concord, MA 01742",https://www.mbta.com/stops/place-FR-0219,,1,,1,Concord,,,
 FR-0219,,West Concord,West Concord - Commuter Rail,,Commuter Rail,42.457043,-71.392892,CR-zone-5,,https://www.mbta.com/stops/place-FR-0219,,0,place-FR-0219,1,Concord,,,2
 FR-0219-01,,West Concord,West Concord - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.457043,-71.392892,CR-zone-5,,https://www.mbta.com/stops/place-FR-0219,,0,place-FR-0219,1,Concord,,,2
 FR-0219-02,,West Concord,West Concord - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.457043,-71.392892,CR-zone-5,,https://www.mbta.com/stops/place-FR-0219,,0,place-FR-0219,1,Concord,,,2
-FR-0219-B0,,West Concord,West Concord - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.456959,-71.394816,LocalBus,,https://www.mbta.com/stops/place-FR-0219,,0,place-FR-0219,1,Concord,,,3
-FR-0219-B1,,West Concord,West Concord - Commuter Rail Boston Shuttle,,Boston Shuttle,42.456878,-71.394953,LocalBus,,https://www.mbta.com/stops/place-FR-0219,,0,place-FR-0219,1,Concord,,,3
+FR-0219-B0,,West Concord,West Concord - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.456647,-71.393923,LocalBus,,https://www.mbta.com/stops/place-FR-0219,,0,place-FR-0219,1,Concord,,,3
+FR-0219-B1,,West Concord,West Concord - Commuter Rail Boston Shuttle,,Boston Shuttle,42.456525,-71.393800,LocalBus,,https://www.mbta.com/stops/place-FR-0219,,0,place-FR-0219,1,Concord,,,3
 West Concord,,West Concord,West Concord - Commuter Rail,,Commuter Rail,42.457043,-71.392892,CR-zone-5,,https://www.mbta.com/stops/place-FR-0219,,0,place-FR-0219,1,Concord,,,2
 place-FR-0253,,South Acton,,,,42.460375,-71.457744,CR-zone-6,"4 Central St, Acton, MA 01720",https://www.mbta.com/stops/place-FR-0253,,1,,1,Acton,,,
 FR-0253,,South Acton,South Acton - Commuter Rail,,Commuter Rail,42.460375,-71.457744,CR-zone-6,,https://www.mbta.com/stops/place-FR-0253,,0,place-FR-0253,1,Acton,,,2
@@ -7558,6 +7561,7 @@ WR-0329-02,,Haverhill,Haverhill - Commuter Rail - Track 2 (Boston),2,Track 2 (Bo
 place-alfcl,,Alewife,,,,42.395428,-71.142483,,"Alewife Brook Pkwy and Cambridge Park Dr, Cambridge, MA 02140",https://www.mbta.com/stops/place-alfcl,,1,,1,Cambridge,,,
 141,141,Alewife,Alewife - Busway,,Busway,42.395582,-71.141686,ExpressBus-Downtown,,https://www.mbta.com/stops/place-alfcl,level_ground,0,place-alfcl,0,Cambridge,,,3
 70061,70061,Alewife,Alewife - Red Line,,Red Line,42.395428,-71.142483,RapidTransit,,https://www.mbta.com/stops/place-alfcl,level_-2_platform,0,place-alfcl,1,Cambridge,,,1
+9070061,9070061,Alewife,Alewife - Busway Berth 5,5,Busway Berth 5,42.396091,-71.141886,LocalBus,,https://www.mbta.com/stops/place-alfcl,level_ground,0,place-alfcl,1,Cambridge,,,3
 Alewife-01,,Alewife,Alewife - Red Line - Track 1,1,Red Line - Track 1,42.395428,-71.142483,RapidTransit,,https://www.mbta.com/stops/place-alfcl,level_-2_platform,0,place-alfcl,1,Cambridge,,,1
 Alewife-02,,Alewife,Alewife - Red Line - Track 2,2,Red Line - Track 2,42.395428,-71.142483,RapidTransit,,https://www.mbta.com/stops/place-alfcl,level_-2_platform,0,place-alfcl,1,Cambridge,,,1
 door-alfcl-alewife,,Alewife - Alewife Path,Alewife - Alewife Path,,,42.395862,-71.140929,,,,level_ground,2,place-alfcl,1,Cambridge,,,
