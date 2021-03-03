@@ -1,14 +1,8 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,46386179
 Red-3-0,Red,0,Alewife - Braintree,,1,10010005,46386397
-Red-0-0,Red,0,Alewife - Harvard,,4,10010099,46181169-AleHarShuttTrain1
-Red-1-0_70061_70067_2,Red,0,Harvard - Ashmont,,4,10010099,46181169-AleHarShuttTrain2
-Red-3-0_70061_70067_2,Red,0,Harvard - Braintree,,4,10010099,46181340-AleHarShuttTrain2
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010104,46386178
 Red-3-1,Red,1,Braintree - Alewife,,1,10010105,46386398
-Red-0-1,Red,1,Harvard - Alewife,,4,10010199,46181083-AleHarShuttTrain1
-Red-1-1_70068_70061_0,Red,1,Ashmont - Harvard,,4,10010199,46181083-AleHarShuttTrain0
-Red-3-1_70068_70061_0,Red,1,Braintree - Harvard,,4,10010199,46181255-AleHarShuttTrain0
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,46457040
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,46457038
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,46571159
@@ -16,38 +10,42 @@ Orange-5-0,Orange,0,Wellington - Forest Hills,Weekday mornings only,3,10020004,4
 Orange-0-0,Orange,0,Wellington - Community College,,4,10020099,46226061-CCWellShuttTrain1
 Orange-3-0_70032_70028_0,Orange,0,Oak Grove - Wellington,,4,10020099,46226061-CCWellShuttTrain0
 Orange-3-0_70032_70028_2,Orange,0,Community College - Forest Hills,,4,10020099,46226061-CCWellShuttTrain2
+Orange-3-0_70036_70030_2,Orange,0,Sullivan Square - Forest Hills,,4,10020099,46571192-20:45-OakGroveSullivan2
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,46571217
 Orange-0-1,Orange,1,Community College - Wellington,,4,10020199,46226062-CCWellShuttTrain1
 Orange-3-1_70029_70033_0,Orange,1,Forest Hills - Community College,,4,10020199,46226062-CCWellShuttTrain0
 Orange-3-1_70029_70033_2,Orange,1,Wellington - Oak Grove,,4,10020199,46226062-CCWellShuttTrain2
+Orange-3-1_70031_70036_0,Orange,1,Forest Hills - Sullivan Square,,4,10020199,46571249-20:45-OakGroveSullivan0
 Green-B-3-0,Green-B,0,Park Street - Boston College,,1,10032000,47410155
 Green-B-1-0,Green-B,0,North Station - Boston College,Weekend early mornings only,3,10032004,47425373
 Green-B-1-0_71151_70121_0,Green-B,0,North Station - Kenmore,,4,10032099,46462018-KenmoreWashingtonStreetPleasantStreetClosed0
 Green-B-1-0_71151_70121_2,Green-B,0,Washington Street - Boston College,,4,10032099,46462018-KenmoreWashingtonStreetPleasantStreetClosed2
-Green-B-1-0_71151_70137_0,Green-B,0,North Station - Kenmore,,4,10032099,46462018-BabcockKenmorePleasantStreetClosed0
-Green-B-1-0_71151_70137_2,Green-B,0,Babcock Street - Boston College,,4,10032099,46462018-BabcockKenmorePleasantStreetClosed2
+Green-B-1-0_71151_70137_0,Green-B,0,North Station - Kenmore,,4,10032099,47420672-BabcockKenmore0
+Green-B-1-0_71151_70137_2,Green-B,0,Babcock Street - Boston College,,4,10032099,47420672-BabcockKenmore2
 Green-B-3-0_71151_70121_0,Green-B,0,Park Street - Kenmore,,4,10032099,46462033-KenmoreWashingtonStreetPleasantStreetClosed0
 Green-B-3-0_71151_70121_2,Green-B,0,Washington Street - Boston College,,4,10032099,46462033-KenmoreWashingtonStreetPleasantStreetClosed2
-Green-B-3-0_71151_70137_0,Green-B,0,Park Street - Kenmore,,4,10032099,46454479-20:45-BabcockKenmore0
-Green-B-3-0_71151_70137_2,Green-B,0,Babcock Street - Boston College,,4,10032099,46454479-20:45-BabcockKenmore2
+Green-B-3-0_71151_70137_0,Green-B,0,Park Street - Kenmore,,4,10032099,46454479-20:45-BabcockKenmorePleasantStreetClosed0
+Green-B-3-0_71151_70137_2,Green-B,0,Babcock Street - Boston College,,4,10032099,46454479-20:45-BabcockKenmorePleasantStreetClosed2
 Green-B-3-1,Green-B,1,Boston College - Park Street,,1,10032100,47410142
 Green-B-1-1,Green-B,1,Boston College - North Station,Weekend early mornings only,3,10032104,47425372
 Green-B-1-1_70120_71150_0,Green-B,1,Boston College - Washington Street,,4,10032199,46462017-KenmoreWashingtonStreetPleasantStreetClosed0
 Green-B-1-1_70120_71150_2,Green-B,1,Kenmore - North Station,,4,10032199,46462017-KenmoreWashingtonStreetPleasantStreetClosed2
-Green-B-1-1_70136_71150_0,Green-B,1,Boston College - Babcock Street,,4,10032199,46462017-BabcockKenmorePleasantStreetClosed0
-Green-B-1-1_70136_71150_2,Green-B,1,Kenmore - North Station,,4,10032199,46462017-BabcockKenmorePleasantStreetClosed2
+Green-B-1-1_70136_71150_0,Green-B,1,Boston College - Babcock Street,,4,10032199,47420671-BabcockKenmore0
+Green-B-1-1_70136_71150_2,Green-B,1,Kenmore - North Station,,4,10032199,47420671-BabcockKenmore2
 Green-B-3-1_70120_71150_0,Green-B,1,Boston College - Washington Street,,4,10032199,46462031-KenmoreWashingtonStreetPleasantStreetClosed0
 Green-B-3-1_70120_71150_2,Green-B,1,Kenmore - Park Street,,4,10032199,46462031-KenmoreWashingtonStreetPleasantStreetClosed2
-Green-B-3-1_70136_71150_0,Green-B,1,Boston College - Babcock Street,,4,10032199,46454365-20:45-BabcockKenmore0
-Green-B-3-1_70136_71150_2,Green-B,1,Kenmore - Park Street,,4,10032199,46454365-20:45-BabcockKenmore2
+Green-B-3-1_70136_71150_0,Green-B,1,Boston College - Babcock Street,,4,10032199,46454365-20:45-BabcockKenmorePleasantStreetClosed0
+Green-B-3-1_70136_71150_2,Green-B,1,Kenmore - Park Street,,4,10032199,46454365-20:45-BabcockKenmorePleasantStreetClosed2
 Green-C-1-0,Green-C,0,North Station - Cleveland Circle,,1,10033000,47410151
 Green-C-1-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,47410150
 Green-D-2-0,Green-D,0,Government Center - Riverside,,1,10034000,47410165
 Green-D-3-0,Green-D,0,North Station - Reservoir,Evenings only,3,10034004,47411165
 Green-D-1-0,Green-D,0,North Station - Riverside,Weekday early mornings only,3,10034007,47411175
+Green-D-2-0_70175_70161_0,Green-D,0,Government Center - Reservoir,,4,10034099,47410165-20:45-BabcockKenmoreReservoirRiverside0
 Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034100,47410157
 Green-D-3-1,Green-D,1,Reservoir - North Station,,3,10034104,47411173
 Green-D-1-1,Green-D,1,Riverside - North Station,Weekday early mornings only,3,10034107,47411174
+Green-D-2-1_70160_70174_2,Green-D,1,Reservoir - Government Center,,4,10034199,47410164-20:45-BabcockKenmoreReservoirRiverside2
 Green-E-1-0,Green-E,0,North Station - Heath Street,,1,10035000,47411067
 Green-E-1-1,Green-E,1,Heath Street - North Station,,1,10035100,47410154
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,46368089
@@ -105,17 +103,21 @@ CR-Newburyport-7dfa086f-0,CR-Newburyport,0,North Station - Manchester,,1,2001100
 CR-Newburyport-0261ede7-0,CR-Newburyport,0,North Station - Beverly,,2,20011009,CR-Weekday-Winter-21-7181-BVRMRRockportWGRI
 CR-Newburyport-244c556f-0,CR-Newburyport,0,North Station - Beverly,,3,20011010,CR-Sunday-Winter-21-2101-BVRMRRockportWGRI
 CR-Newburyport-801f0591-0,CR-Newburyport,0,North Station - Newburyport,,3,20011011,CR-Sunday-Winter-21-2151-BVRMRRockportWGRI
+CR-Newburyport-244c556f-0_ER-0168-S_ER-0183_0,CR-Newburyport,0,North Station - Salem,,4,20011099,CR-Saturday-Winter-21-2101-MRNbSlmRkSlmBRockportWGRI0
+CR-Newburyport-801f0591-0_ER-0168-S_ER-0362_0,CR-Newburyport,0,North Station - Salem,,4,20011099,CR-Saturday-Winter-21-2151-MRNbSlmRkSlmBRockportWGRI0
 CR-Newburyport-01fdebba-1,CR-Newburyport,1,West Gloucester - North Station,,1,20011100,CR-Weekday-Winter-21-1100-BVRMRRockportWGRI
 CR-Newburyport-b2db7a26-1,CR-Newburyport,1,Newburyport - North Station,,1,20011101,CR-Weekday-Winter-21-1150-BVRMRRockportWGRI
 CR-Newburyport-a9e8de49-1,CR-Newburyport,1,Beverly - North Station,,2,20011106,CR-Weekday-Winter-21-7182-BVRMRRockportWGRI
 CR-Newburyport-0746071c-1,CR-Newburyport,1,Newburyport - North Station,,3,20011107,CR-Sunday-Winter-21-2150-BVRMRRockportWGRI
 CR-Newburyport-4e22771d-1,CR-Newburyport,1,Beverly - North Station,,3,20011108,CR-Sunday-Winter-21-2100-BVRMRRockportWGRI
-CR-Providence-ace2f70a-0,CR-Providence,0,South Station - Wickford Junction,,1,20012000,CR-Weekday-Winter-21-7801
-CR-Providence-dcbfc839-0,CR-Providence,0,South Station - Stoughton,,1,20012001,CR-Weekday-Winter-21-7861
-CR-Providence-be01fe7b-0,CR-Providence,0,South Station - Providence,,2,20012002,CR-Weekday-Winter-21-1801
-CR-Providence-e26e8bbf-1,CR-Providence,1,Stoughton - South Station,,1,20012100,CR-Weekday-Winter-21-7860
-CR-Providence-da777277-1,CR-Providence,1,Wickford Junction - South Station,,1,20012101,CR-Weekday-Winter-21-7800
-CR-Providence-535d4c5e-1,CR-Providence,1,Providence - South Station,,2,20012102,CR-Weekday-Winter-21-1802
+CR-Newburyport-0746071c-1_ER-0362_ER-0168-S_2,CR-Newburyport,1,Salem - North Station,,4,20011199,CR-Saturday-Winter-21-2150-MRNbSlmRkSlmBRockportWGRI2
+CR-Newburyport-4e22771d-1_ER-0183_ER-0168-S_2,CR-Newburyport,1,Salem - North Station,,4,20011199,CR-Saturday-Winter-21-2100-MRNbSlmRkSlmBRockportWGRI2
+CR-Providence-ace2f70a-0,CR-Providence,0,South Station - Wickford Junction,,1,20012000,CR-Weekday-Winter-21-7801-SouthAttleboro
+CR-Providence-dcbfc839-0,CR-Providence,0,South Station - Stoughton,,1,20012001,CR-Weekday-Winter-21-7861-SouthAttleboro
+CR-Providence-be01fe7b-0,CR-Providence,0,South Station - Providence,,2,20012002,CR-Weekday-Winter-21-1801-SouthAttleboro
+CR-Providence-e26e8bbf-1,CR-Providence,1,Stoughton - South Station,,1,20012100,CR-Weekday-Winter-21-7860-SouthAttleboro
+CR-Providence-da777277-1,CR-Providence,1,Wickford Junction - South Station,,1,20012101,CR-Weekday-Winter-21-7800-SouthAttleboro
+CR-Providence-535d4c5e-1,CR-Providence,1,Providence - South Station,,2,20012102,CR-Weekday-Winter-21-1802-SouthAttleboro
 CapeFlyer-0-0,CapeFlyer,0,South Station - Hyannis,,1,21000000,CapeFlyer-Friday-9001
 CapeFlyer-0-1,CapeFlyer,1,Hyannis - South Station,,1,21000100,CapeFlyer-Friday-9002
 Boat-F1-2-0,Boat-F1,0,Long Wharf - Hingham via Hull,,1,30002002,Boat-F1-1400-Long-Weekday-Winter-21
@@ -848,13 +850,21 @@ Shuttle-AlewifeLittletonExpress-0-0,Shuttle-AlewifeLittletonExpress,0,Alewife - 
 Shuttle-AlewifeLittletonExpress-0-1,Shuttle-AlewifeLittletonExpress,1,Littleton/Route 495 - Alewife (Express),,1,60221199,CR-Weekday-Winter-21-1400-AlewifeLittleton0ALBX1
 Shuttle-AlewifeLittletonLocal-0-0,Shuttle-AlewifeLittletonLocal,0,Alewife - Littleton/Route 495 (Local),,1,60222099,CR-Weekday-Winter-21-1401-AlewifeLittleton1AL
 Shuttle-AlewifeLittletonLocal-0-1,Shuttle-AlewifeLittletonLocal,1,Littleton/Route 495 - Alewife (Local),,1,60222199,CR-Weekday-Winter-21-1400-AlewifeLittleton1AL
-Shuttle-BabcockKenmore-0-0,Shuttle-BabcockKenmore,0,Kenmore - Babcock Street,,4,60460099,46454479-20:45-BabcockKenmore1
-Shuttle-BabcockKenmore-0-1,Shuttle-BabcockKenmore,1,Babcock Street - Kenmore,,4,60460199,46454365-20:45-BabcockKenmore1
+Shuttle-BabcockKenmore-0-0,Shuttle-BabcockKenmore,0,Kenmore - Babcock Street,,4,60460099,46454479-20:45-BabcockKenmorePleasantStreetClosedBabcockKenmore
+Shuttle-BabcockKenmore-0-1,Shuttle-BabcockKenmore,1,Babcock Street - Kenmore,,4,60460199,46454365-20:45-BabcockKenmorePleasantStreetClosedBabcockKenmore
 Shuttle-BeverlyRockport-0-0,Shuttle-BeverlyRockport,0,Beverly - Rockport,,4,60700099,CR-Sunday-Winter-21-2101-BVRMRRockportWGRIB1
 Shuttle-BeverlyRockport-0-1,Shuttle-BeverlyRockport,1,Rockport - Beverly,,4,60700199,CR-Sunday-Winter-21-2100-BVRMRRockportWGRIB1
 Shuttle-KenmoreWashington-0-0,Shuttle-KenmoreWashington,0,Kenmore - Washington Street,,4,62018099,46462018-KenmoreWashingtonStreetPleasantStreetClosedKenmoreWashingtonStreet
 Shuttle-KenmoreWashington-0-1,Shuttle-KenmoreWashington,1,Washington Street - Kenmore,,4,62018199,46462017-KenmoreWashingtonStreetPleasantStreetClosedKenmoreWashingtonStreet
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-Weekday-Winter-21-1101-BVRMRRockportWGRIB1
 Shuttle-ManchesterRockport-0-0,Shuttle-ManchesterRockport,0,Manchester - Rockport,,4,62060099,CR-Weekday-Winter-21-1101-BVRMRRockportWGRIC1
+Shuttle-NewburyportSalem-0-0,Shuttle-NewburyportSalem,0,Salem - Newburyport,,4,62075099,CR-Saturday-Winter-21-2151-MRNbSlmRkSlmBRockportWGRI1
+Shuttle-NewburyportSalem-0-1,Shuttle-NewburyportSalem,1,Newburyport - Salem,,4,62075199,CR-Saturday-Winter-21-2150-MRNbSlmRkSlmBRockportWGRI1
+Shuttle-OakGroveSullivan-0-0,Shuttle-OakGroveSullivan,0,Oak Grove - Sullivan,,4,62200099,46571192-20:45-OakGroveSullivan1
+Shuttle-OakGroveSullivan-0-1,Shuttle-OakGroveSullivan,1,Sullivan - Oak Grove,,4,62200199,46571249-20:45-OakGroveSullivan1
+Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,47410165-20:45-BabcockKenmoreReservoirRiverside1
+Shuttle-ReservoirRiverside-0-1,Shuttle-ReservoirRiverside,1,Riverside - Reservoir,,4,62400199,47410164-20:45-BabcockKenmoreReservoirRiverside1
+Shuttle-RockportSalem-0-0,Shuttle-RockportSalem,0,Salem - Rockport,,4,62405099,CR-Saturday-Winter-21-2101-MRNbSlmRkSlmBRockportWGRIRkSlmB
+Shuttle-RockportSalem-0-1,Shuttle-RockportSalem,1,Rockport - Salem,,4,62405199,CR-Saturday-Winter-21-2100-MRNbSlmRkSlmBRockportWGRIRkSlmB
 Shuttle-RockportWestGloucester-0-0,Shuttle-RockportWestGloucester,0,West Gloucester - Rockport,,4,62410099,CR-Weekday-Winter-21-S1101-BVRMRRockportWGRI1
 Shuttle-RockportWestGloucester-0-1,Shuttle-RockportWestGloucester,1,Rockport - West Gloucester,,4,62410199,CR-Weekday-Winter-21-1100-BVRMRRockportWGRIB1
