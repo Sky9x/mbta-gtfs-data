@@ -20,8 +20,8 @@ Green-B-3-0,Green-B,0,Park Street - Boston College,,1,10032000,47410155
 Green-B-1-0,Green-B,0,North Station - Boston College,Weekend early mornings only,3,10032004,47425373
 Green-B-1-0_71151_70121_0,Green-B,0,North Station - Kenmore,,4,10032099,46462018-KenmoreWashingtonStreetPleasantStreetClosed0
 Green-B-1-0_71151_70121_2,Green-B,0,Washington Street - Boston College,,4,10032099,46462018-KenmoreWashingtonStreetPleasantStreetClosed2
-Green-B-1-0_71151_70137_0,Green-B,0,North Station - Kenmore,,4,10032099,47420672-BabcockKenmore0
-Green-B-1-0_71151_70137_2,Green-B,0,Babcock Street - Boston College,,4,10032099,47420672-BabcockKenmore2
+Green-B-1-0_71151_70137_0,Green-B,0,North Station - Kenmore,,4,10032099,47420672-BabcockKenmoreKenmoreRiverside0
+Green-B-1-0_71151_70137_2,Green-B,0,Babcock Street - Boston College,,4,10032099,47420672-BabcockKenmoreKenmoreRiverside2
 Green-B-3-0_71151_70121_0,Green-B,0,Park Street - Kenmore,,4,10032099,46462033-KenmoreWashingtonStreetPleasantStreetClosed0
 Green-B-3-0_71151_70121_2,Green-B,0,Washington Street - Boston College,,4,10032099,46462033-KenmoreWashingtonStreetPleasantStreetClosed2
 Green-B-3-0_71151_70137_0,Green-B,0,Park Street - Kenmore,,4,10032099,46454479-20:45-BabcockKenmorePleasantStreetClosed0
@@ -30,8 +30,8 @@ Green-B-3-1,Green-B,1,Boston College - Park Street,,1,10032100,47410142
 Green-B-1-1,Green-B,1,Boston College - North Station,Weekend early mornings only,3,10032104,47425372
 Green-B-1-1_70120_71150_0,Green-B,1,Boston College - Washington Street,,4,10032199,46462017-KenmoreWashingtonStreetPleasantStreetClosed0
 Green-B-1-1_70120_71150_2,Green-B,1,Kenmore - North Station,,4,10032199,46462017-KenmoreWashingtonStreetPleasantStreetClosed2
-Green-B-1-1_70136_71150_0,Green-B,1,Boston College - Babcock Street,,4,10032199,47420671-BabcockKenmore0
-Green-B-1-1_70136_71150_2,Green-B,1,Kenmore - North Station,,4,10032199,47420671-BabcockKenmore2
+Green-B-1-1_70136_71150_0,Green-B,1,Boston College - Babcock Street,,4,10032199,47420671-BabcockKenmoreKenmoreRiverside0
+Green-B-1-1_70136_71150_2,Green-B,1,Kenmore - North Station,,4,10032199,47420671-BabcockKenmoreKenmoreRiverside2
 Green-B-3-1_70120_71150_0,Green-B,1,Boston College - Washington Street,,4,10032199,46462031-KenmoreWashingtonStreetPleasantStreetClosed0
 Green-B-3-1_70120_71150_2,Green-B,1,Kenmore - Park Street,,4,10032199,46462031-KenmoreWashingtonStreetPleasantStreetClosed2
 Green-B-3-1_70136_71150_0,Green-B,1,Boston College - Babcock Street,,4,10032199,46454365-20:45-BabcockKenmorePleasantStreetClosed0
@@ -41,10 +41,12 @@ Green-C-1-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,47410150
 Green-D-2-0,Green-D,0,Government Center - Riverside,,1,10034000,47410165
 Green-D-3-0,Green-D,0,North Station - Reservoir,Evenings only,3,10034004,47411165
 Green-D-1-0,Green-D,0,North Station - Riverside,Weekday early mornings only,3,10034007,47411175
+Green-D-2-0_70151_70161_0,Green-D,0,Government Center - Kenmore,,4,10034099,47410165-20:45-KenmoreRiverside0
 Green-D-2-0_70175_70161_0,Green-D,0,Government Center - Reservoir,,4,10034099,47410165-20:45-BabcockKenmoreReservoirRiverside0
 Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034100,47410157
 Green-D-3-1,Green-D,1,Reservoir - North Station,,3,10034104,47411173
 Green-D-1-1,Green-D,1,Riverside - North Station,Weekday early mornings only,3,10034107,47411174
+Green-D-2-1_70160_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,47410164-20:45-KenmoreRiverside2
 Green-D-2-1_70160_70174_2,Green-D,1,Reservoir - Government Center,,4,10034199,47410164-20:45-BabcockKenmoreReservoirRiverside2
 Green-E-1-0,Green-E,0,North Station - Heath Street,,1,10035000,47411067
 Green-E-1-1,Green-E,1,Heath Street - North Station,,1,10035100,47410154
@@ -157,8 +159,8 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-0600-Hingham-Week
 9-4-1,9,1,City Point - Kenmore Station via Ave Louis Pasteur,School days only,3,50090106,46492365
 10-9-0,10,0,Copley Square - City Point via South Bay Center,,1,50100000,46492754
 10-8-0,10,0,Townsend St & Warren St - City Point via Nubian Station,School days only,3,50100004,46492752
-10-5-0,10,0,Copley Station - City Point,Late nights only,3,50100005,46492642
-10-E-0,10,0,Andrew Station - City Point,School days only,3,50100008,47444853_2
+10-E-0,10,0,Andrew Station - City Point,School days only,3,50100005,47444853_2
+10-5-0,10,0,Copley Station - City Point,Late nights only,3,50100006,46492642
 10-9-1,10,1,City Point - Copley Square via South Bay Center,,1,50100100,46492643
 10-2-1,10,1,City Point - Franklin Park via Andrew,School days only,3,50100104,46492822
 11-3-0,11,0,Chauncy St & Summer St - City Point,,1,50110000,46492584
@@ -280,10 +282,10 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-0600-Hingham-Week
 34-K-1,34,1,Dedham Line - Townsend St & Humboldt Ave via Forest Hills,School days only,3,50340107,47280414
 34E-4-0,34E,0,Forest Hills Station - Walpole Center,,1,50341000,46653650
 34E-2-0,34E,0,Forest Hills Station - Walpole Center via Walpole St,Weekdays only,2,50341004,46653705
-34E-6-0,34E,0,Forest Hills Station - East Walpole,,2,50341007,46654069
+34E-6-0,34E,0,Forest Hills Station - East Walpole,,3,50341007,46654069
 34E-1-1,34E,1,Walpole Center - Forest Hills Station,,1,50341100,46653691
 34E-2-1,34E,1,Walpole Center - Forest Hills Station via Walpole St,Weekdays only,2,50341104,46653651
-34E-6-1,34E,1,East Walpole - Forest Hills Station,,2,50341107,46654070
+34E-6-1,34E,1,East Walpole - Forest Hills Station,,3,50341107,46654070
 35-1-0,35,0,Forest Hills Station - Dedham Mall,,1,50350000,46654466
 35-_-0,35,0,Forest Hills Station - Stimson St & Washington St,Mornings only,2,50350004,46654537
 35-3-0,35,0,Ave Louis Pasteur - Dedham Mall via Forest Hills Station,School days only,3,50350008,47280703
@@ -411,20 +413,20 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-0600-Hingham-Week
 70-6-0,70,0,University Park - Market Place Dr,,1,50700004,46638862
 70-5-0,70,0,University Park - Cedarwood,Weekdays only,3,50700008,46638881
 70-2-0,70,0,"Central Square, Cambridge - Watertown Square",Late nights only,3,50700011,46638867
-70-6-1,70,1,Market Place Dr - University Park,,1,50700100,46638860
-70-8-1,70,1,Waltham Center - University Park,,1,50700104,46638876
+70-8-1,70,1,Waltham Center - University Park,,1,50700100,46638876
+70-6-1,70,1,Market Place Dr - University Park,,1,50700104,46638860
 70-5-1,70,1,Cedarwood - University Park,Weekdays only,3,50700108,46638878
 70-3-1,70,1,"Waltham Center - Central Square, Cambridge",Late nights only,3,50700111,46638870
 71-_-0,71,0,Harvard Station - Watertown Square,,1,50710000,46618793
 71-1-0,71,0,Harvard Station - Watertown Square (Omits Cambridge Common),,3,50710004,46618809
 71-2-0,71,0,"Harvard Station, Upper Busway - Watertown Square",,3,50710008,47415073
 71-_-1,71,1,Watertown Square - Harvard Station,,1,50710100,46618794
-71-1-1,71,1,Watertown Square - Harvard Station (Omits Cambridge Common),,2,50710104,46618799
+71-1-1,71,1,Watertown Square - Harvard Station (Omits Cambridge Common),,3,50710104,46618799
 73-_-0,73,0,Harvard Station - Waverley Square,,1,50730000,46618817
 73-1-0,73,0,Harvard Station - Waverley Square (Omits Cambridge Common),,3,50730004,46618816
 73-2-0,73,0,"Harvard Station, Upper Busway - Waverley Square",,3,50730008,47415055
 73-_-1,73,1,Waverley Square - Harvard Station,,1,50730100,46618814
-73-1-1,73,1,Waverley Square - Harvard Station (Omits Cambridge Common),,2,50730104,46618857
+73-1-1,73,1,Waverley Square - Harvard Station (Omits Cambridge Common),,3,50730104,46618857
 74-1-0,74,0,Harvard Station - Belmont Center,,1,50740000,46638221
 74-1-1,74,1,Belmont Center - Harvard Station,,1,50740100,46638217
 75-1-0,75,0,Harvard Station - Belmont Center,,1,50750000,46638238
@@ -433,7 +435,7 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-0600-Hingham-Week
 77-_-0,77,0,Harvard Station - Arlington Heights,,1,50770000,46639487
 77-4-0,77,0,Harvard Station - North Cambridge,,3,50770004,46619241
 77-_-1,77,1,Arlington Heights - Harvard Station,,1,50770100,46639488
-77-4-1,77,1,North Cambridge - Harvard Station,,3,50770104,46619215
+77-4-1,77,1,North Cambridge - Harvard Station,,2,50770104,46619215
 77-1-1,77,1,Appleton St & Massachusetts Ave - Harvard Station,School days only,3,50770108,47408856
 78-1-0,78,0,Harvard Station - Arlmont Village,,1,50780000,46638220
 78-1-1,78,1,Arlmont Village - Harvard Station,,1,50780100,46638218
@@ -552,7 +554,7 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-0600-Hingham-Week
 117-8-1,117,1,Broadway & Central Ave - Haymarket Station,Early mornings only,3,51170107,46646467
 117-_-1,117,1,Wonderland Station - Haymarket Station,Sunday early mornings only,3,51170110,47487651
 119-1-0,119,0,Beachmont Station - Northgate Shopping Center,Weekdays only,1,51190000,46646055
-119-3-0,119,0,Beachmont Station - Northgate Shopping Ctr via Tomasello Way,,1,51190003,46646064
+119-3-0,119,0,Beachmont Station - Northgate Shopping Ctr via Tomasello Way,,2,51190003,46646064
 119-1-1,119,1,Northgate Shopping Center - Beachmont Station,Weekdays only,1,51190100,46646054
 119-3-1,119,1,Northgate Shopping Ctr - Beachmont Station via Tomasello Way,,1,51190103,46646062
 120-2-0,120,0,Maverick Station - Orient Heights Station via Wood Island,,1,51200000,46646192
@@ -639,12 +641,12 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-0600-Hingham-Week
 214216-4-0,214216,0,Quincy Center - Houghs Neck via McGrath Hwy & Germantown,,2,52141004,47610920
 215-1-0,215,0,Ashmont Station - Quincy Center Station,,1,52150000,46710947
 215-2-0,215,0,Adams St & Robertson St - Quincy Center Station,School days only,3,52150004,46710537
-215-3-0,215,0,Fields Corner Station - Quincy Center Station,Sundays only,3,52150005,47606143
-215-_-0,215,0,North Quincy Station - Quincy Center Station,Early mornings only,3,52150007,46710953
+215-_-0,215,0,North Quincy Station - Quincy Center Station,Early mornings only,3,52150005,46710953
+215-3-0,215,0,Fields Corner Station - Quincy Center Station,Sundays only,3,52150008,47606143
 215-1-1,215,1,Quincy Center Station - Ashmont Station,,1,52150100,46710944
 215-7-1,215,1,Quincy Center Station - East Milton Square,School days only,3,52150104,46710414
-215-3-1,215,1,Quincy Center Station - Fields Corner Station,Sundays only,3,52150105,47606171
-215-_-1,215,1,Quincy Center Station - North Quincy Station,Early mornings only,3,52150107,46710994
+215-_-1,215,1,Quincy Center Station - North Quincy Station,Early mornings only,3,52150105,46710994
+215-3-1,215,1,Quincy Center Station - Fields Corner Station,Sundays only,3,52150108,47606171
 216-_-0,216,0,Quincy Center Station - Houghs Neck,Weekdays only,1,52160000,46711056
 216-1-0,216,0,Calvin Rd & Moffat Rd - Houghs Neck,School days only,3,52160003,46711052
 216-3-0,216,0,Coddington St & Newcomb St - Houghs Neck,School days only,3,52160004,46711053
@@ -778,10 +780,10 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-0600-Hingham-Week
 442-5-1,442,1,Marblehead - Wonderland via Humphrey St (Omits Pnt of Pines),Weekdays only,2,54420104,46646333
 442-9-1,442,1,Marblehead - Lynn Bus Garage via Humphrey St,Evenings only,3,54420107,46646740
 450-8-0,450,0,Haymarket Station - Salem Depot,Weekdays only,1,54500000,46645886
-450-7-0,450,0,Wonderland Station - Salem Depot,,2,54500003,47480010
-450-9-0,450,0,Lynn Bus Garage - Salem Depot,Mornings only,3,54500005,46646182
+450-9-0,450,0,Lynn Bus Garage - Salem Depot,Mornings only,3,54500003,46646182
+450-7-0,450,0,Wonderland Station - Salem Depot,,3,54500007,47480010
 450-8-1,450,1,Salem Depot - Haymarket Station,Weekdays only,1,54500100,46645860
-450-7-1,450,1,Salem Depot - Wonderland Station,,2,54500103,47480011
+450-7-1,450,1,Salem Depot - Wonderland Station,,3,54500103,47480011
 450-9-1,450,1,Salem Depot - Lynn Bus Garage,,3,54500105,46646180
 455-6-0,455,0,Wonderland Station - Salem Depot,Weekdays only,1,54550000,46645919
 455-7-0,455,0,Wonderland Station - Salem Depot (Omits Shetland Park),,3,54550003,47479691
@@ -854,6 +856,8 @@ Shuttle-BabcockKenmore-0-0,Shuttle-BabcockKenmore,0,Kenmore - Babcock Street,,4,
 Shuttle-BabcockKenmore-0-1,Shuttle-BabcockKenmore,1,Babcock Street - Kenmore,,4,60460199,46454365-20:45-BabcockKenmorePleasantStreetClosedBabcockKenmore
 Shuttle-BeverlyRockport-0-0,Shuttle-BeverlyRockport,0,Beverly - Rockport,,4,60700099,CR-Sunday-Winter-21-2101-BVRMRRockportWGRIB1
 Shuttle-BeverlyRockport-0-1,Shuttle-BeverlyRockport,1,Rockport - Beverly,,4,60700199,CR-Sunday-Winter-21-2100-BVRMRRockportWGRIB1
+Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,4,62012099,47410165-20:45-KenmoreRiverside1
+Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,4,62012199,47410164-20:45-KenmoreRiverside1
 Shuttle-KenmoreWashington-0-0,Shuttle-KenmoreWashington,0,Kenmore - Washington Street,,4,62018099,46462018-KenmoreWashingtonStreetPleasantStreetClosedKenmoreWashingtonStreet
 Shuttle-KenmoreWashington-0-1,Shuttle-KenmoreWashington,1,Washington Street - Kenmore,,4,62018199,46462017-KenmoreWashingtonStreetPleasantStreetClosedKenmoreWashingtonStreet
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-Weekday-Winter-21-1101-BVRMRRockportWGRIB1

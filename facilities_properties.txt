@@ -2,6 +2,7 @@ facility_id,property_id,value
 102,direction,up
 102,excludes-stop,9328
 102,excludes-stop,door-ogmnl-banks
+102,excludes-stop,door-ogmnl-washel
 102,excludes-stop,node-102-lobby
 102,excludes-stop,node-102-street
 102,excludes-stop,node-103-lobby
@@ -10,6 +11,7 @@ facility_id,property_id,value
 102,excludes-stop,node-104-street
 102,excludes-stop,node-105-crplatform
 102,excludes-stop,node-105-lobby
+102,excludes-stop,node-744-lobby
 102,excludes-stop,node-800-crplatform
 102,excludes-stop,node-800-lobby
 102,excludes-stop,node-800-street
@@ -27,6 +29,7 @@ facility_id,property_id,value
 103,excludes-stop,9328
 103,excludes-stop,door-ogmnl-banks
 103,excludes-stop,door-ogmnl-wash
+103,excludes-stop,door-ogmnl-washel
 103,excludes-stop,node-102-lobby
 103,excludes-stop,node-102-street
 103,excludes-stop,node-103-lobby
@@ -35,6 +38,7 @@ facility_id,property_id,value
 103,excludes-stop,node-104-street
 103,excludes-stop,node-105-crplatform
 103,excludes-stop,node-105-lobby
+103,excludes-stop,node-744-lobby
 103,excludes-stop,node-800-crplatform
 103,excludes-stop,node-800-lobby
 103,excludes-stop,node-800-street
@@ -51,6 +55,7 @@ facility_id,property_id,value
 104,direction,up
 104,excludes-stop,9328
 104,excludes-stop,door-ogmnl-wash
+104,excludes-stop,door-ogmnl-washel
 104,excludes-stop,node-102-lobby
 104,excludes-stop,node-102-street
 104,excludes-stop,node-103-lobby
@@ -59,6 +64,7 @@ facility_id,property_id,value
 104,excludes-stop,node-104-street
 104,excludes-stop,node-105-crplatform
 104,excludes-stop,node-105-lobby
+104,excludes-stop,node-744-lobby
 104,excludes-stop,node-800-crplatform
 104,excludes-stop,node-800-lobby
 104,excludes-stop,node-800-street
@@ -73,9 +79,13 @@ facility_id,property_id,value
 104,excludes-stop,node-ogmnl-washstair-lobby
 104,excludes-stop,node-ogmnl-washstair-street
 105,direction,up
+105,excludes-stop,70036
 105,excludes-stop,9328
+105,excludes-stop,Oak Grove-01
+105,excludes-stop,Oak Grove-02
 105,excludes-stop,door-ogmnl-banks
 105,excludes-stop,door-ogmnl-wash
+105,excludes-stop,door-ogmnl-washel
 105,excludes-stop,node-102-lobby
 105,excludes-stop,node-102-street
 105,excludes-stop,node-103-lobby
@@ -84,6 +94,7 @@ facility_id,property_id,value
 105,excludes-stop,node-104-street
 105,excludes-stop,node-105-crplatform
 105,excludes-stop,node-105-lobby
+105,excludes-stop,node-744-lobby
 105,excludes-stop,node-800-crplatform
 105,excludes-stop,node-800-lobby
 105,excludes-stop,node-800-street
@@ -8442,9 +8453,36 @@ facility_id,property_id,value
 735,excludes-stop,node-wlsta-stair6gate-fareunpaid
 735,excludes-stop,node-wlsta-stair7-lobby
 735,excludes-stop,node-wlsta-stair7-street
-800,alternate-service-text,"A shuttle bus will be available to transport customers between Oak Grove and Malden Center. To exit, exit the train at Malden Center and find station personnel or use a station call box to request the shuttle bus to Oak Grove. To board, find station personnel or use a station call box to request the shuttle bus to Malden Center. Alternatively, customers may also use Bus Routes 136, 137 or 132 for transportation between Oak Grove and Malden Center."
+744,alternate-service-text,"A shuttle bus will be available to transport customers between Oak Grove and Malden Center. To exit at Oak Grove, exit the train at Malden Center and find station personnel or use a station call box to request the shuttle bus to Oak Grove. To board the Orange Line, find station personnel or use a station call box to request the shuttle bus to Malden Center. Alternatively, customers may utilize the Oak Grove Elevator 800 located at the station entrance on Banks Place (busway/parking lot)."
+744,excludes-stop,9328
+744,excludes-stop,door-ogmnl-banks
+744,excludes-stop,door-ogmnl-wash
+744,excludes-stop,node-102-lobby
+744,excludes-stop,node-102-street
+744,excludes-stop,node-103-lobby
+744,excludes-stop,node-103-platform
+744,excludes-stop,node-104-lobby
+744,excludes-stop,node-104-street
+744,excludes-stop,node-105-crplatform
+744,excludes-stop,node-105-lobby
+744,excludes-stop,node-744-lobby
+744,excludes-stop,node-800-crplatform
+744,excludes-stop,node-800-lobby
+744,excludes-stop,node-800-street
+744,excludes-stop,node-801-lobby
+744,excludes-stop,node-801-platform
+744,excludes-stop,node-ogmnl-banksstair-lobby
+744,excludes-stop,node-ogmnl-banksstair-street
+744,excludes-stop,node-ogmnl-farepaid
+744,excludes-stop,node-ogmnl-fareunpaid
+744,excludes-stop,node-ogmnl-olstair-lobby
+744,excludes-stop,node-ogmnl-olstair-platform
+744,excludes-stop,node-ogmnl-washstair-lobby
+744,excludes-stop,node-ogmnl-washstair-street
+800,alternate-service-text,"A shuttle bus will be available to transport customers between Oak Grove and Malden Center. To exit, exit the train at Malden Center and find station personnel or use a station call box to request the shuttle bus to Oak Grove. To board, find station personnel or use a station call box to request the shuttle bus to Malden Center. Alternatively, customers may utilize the Oak Grove Elevator 744 located at the station entrance on Washington Street."
 800,excludes-stop,9328
 800,excludes-stop,door-ogmnl-wash
+800,excludes-stop,door-ogmnl-washel
 800,excludes-stop,node-102-lobby
 800,excludes-stop,node-102-street
 800,excludes-stop,node-103-lobby
@@ -8453,6 +8491,7 @@ facility_id,property_id,value
 800,excludes-stop,node-104-street
 800,excludes-stop,node-105-crplatform
 800,excludes-stop,node-105-lobby
+800,excludes-stop,node-744-lobby
 800,excludes-stop,node-800-crplatform
 800,excludes-stop,node-800-lobby
 800,excludes-stop,node-800-street
@@ -8469,6 +8508,7 @@ facility_id,property_id,value
 801,alternate-service-text,"A shuttle bus will be available to transport customers between Oak Grove and Malden Center. To exit at Oak Grove, exit the train at Malden Center and find station personnel or use a station call box to request the shuttle bus to Oak Grove. To board the Orange Line, find station personnel or use a station call box to request the shuttle bus to Malden Center. Alternatively, customers may also use Bus Routes 136, 137 or 132 for transportation between Oak Grove and Malden Center."
 801,excludes-stop,9328
 801,excludes-stop,door-ogmnl-wash
+801,excludes-stop,door-ogmnl-washel
 801,excludes-stop,node-102-lobby
 801,excludes-stop,node-102-street
 801,excludes-stop,node-103-lobby
@@ -8477,6 +8517,7 @@ facility_id,property_id,value
 801,excludes-stop,node-104-street
 801,excludes-stop,node-105-crplatform
 801,excludes-stop,node-105-lobby
+801,excludes-stop,node-744-lobby
 801,excludes-stop,node-800-crplatform
 801,excludes-stop,node-800-lobby
 801,excludes-stop,node-800-street
@@ -18734,18 +18775,18 @@ park-FR-0301,payment-form-accepted,mobile-app
 park-FR-0301,weekday-arrive-before,07:00:00
 park-FR-0301,weekday-typical-utilization,226
 park-FR-0301,weekday-utilization-summary,Arrive before a certain time
-park-FR-0361,attended,1
-park-FR-0361,capacity,172
-park-FR-0361,capacity-accessible,6
-park-FR-0361,contact,Montachusett Regional Transit Authority 
-park-FR-0361,contact-phone,978-345-7711
-park-FR-0361,contact-url,http://www.mrta.us/mart
-park-FR-0361,enclosed,1
-park-FR-0361,fee-daily,$4
-park-FR-0361,municipality,Ayer
-park-FR-0361,note,"Montachusett Regional Transit Authority is responsible for parking maintenance, payments, and snow removal."
-park-FR-0361,operator,Montachusett Regional Transit Authority
-park-FR-0361,owner,City/Town
+park-FR-0361-garage,attended,1
+park-FR-0361-garage,capacity,172
+park-FR-0361-garage,capacity-accessible,6
+park-FR-0361-garage,contact,Montachusett Regional Transit Authority 
+park-FR-0361-garage,contact-phone,978-345-7711
+park-FR-0361-garage,contact-url,http://www.mrta.us/mart
+park-FR-0361-garage,enclosed,1
+park-FR-0361-garage,fee-daily,$4
+park-FR-0361-garage,municipality,Ayer
+park-FR-0361-garage,note,"Montachusett Regional Transit Authority is responsible for parking maintenance, payments, and snow removal."
+park-FR-0361-garage,operator,Montachusett Regional Transit Authority
+park-FR-0361-garage,owner,City/Town
 park-FR-0394,attended,2
 park-FR-0394,capacity,25
 park-FR-0394,contact,Shirley Town Hall
@@ -20958,8 +20999,12 @@ portlift-bcnwa-1,excludes-stop,1292
 portlift-bcnwa-1,excludes-stop,70229
 portlift-bcnwa-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brkhl-0,excludes-stop,70179
+portlift-brkhl-0,excludes-stop,9070178
+portlift-brkhl-0,excludes-stop,9070179
 portlift-brkhl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brkhl-1,excludes-stop,70178
+portlift-brkhl-1,excludes-stop,9070178
+portlift-brkhl-1,excludes-stop,9070179
 portlift-brkhl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brmnl-0,excludes-stop,70250
 portlift-brmnl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
@@ -21029,6 +21074,8 @@ portlift-newtn-1,excludes-stop,9170168
 portlift-newtn-1,excludes-stop,9170169
 portlift-newtn-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newto,excludes-stop,70170
+portlift-newto,excludes-stop,9070170
+portlift-newto,excludes-stop,9070171
 portlift-newto,excludes-stop,9170170
 portlift-newto,excludes-stop,9170171
 portlift-newto,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
@@ -22084,6 +22131,8 @@ subplat-miltt-0,note,Mini high level platform is available to provide level boar
 subplat-miltt-1,excludes-stop,70267
 subplat-miltt-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-newto,excludes-stop,70171
+subplat-newto,excludes-stop,9070170
+subplat-newto,excludes-stop,9070171
 subplat-newto,excludes-stop,9170170
 subplat-newto,excludes-stop,9170171
 subplat-newto,note,Mini high level platform is available to provide level boarding to certain cars in a train set
