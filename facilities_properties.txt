@@ -19,6 +19,8 @@ facility_id,property_id,value
 102,excludes-stop,node-801-platform
 102,excludes-stop,node-ogmnl-banksstair-lobby
 102,excludes-stop,node-ogmnl-banksstair-street
+102,excludes-stop,node-ogmnl-crstair-crplatform
+102,excludes-stop,node-ogmnl-crstair-lobby
 102,excludes-stop,node-ogmnl-farepaid
 102,excludes-stop,node-ogmnl-fareunpaid
 102,excludes-stop,node-ogmnl-olstair-lobby
@@ -46,6 +48,8 @@ facility_id,property_id,value
 103,excludes-stop,node-801-platform
 103,excludes-stop,node-ogmnl-banksstair-lobby
 103,excludes-stop,node-ogmnl-banksstair-street
+103,excludes-stop,node-ogmnl-crstair-crplatform
+103,excludes-stop,node-ogmnl-crstair-lobby
 103,excludes-stop,node-ogmnl-farepaid
 103,excludes-stop,node-ogmnl-fareunpaid
 103,excludes-stop,node-ogmnl-olstair-lobby
@@ -72,6 +76,8 @@ facility_id,property_id,value
 104,excludes-stop,node-801-platform
 104,excludes-stop,node-ogmnl-banksstair-lobby
 104,excludes-stop,node-ogmnl-banksstair-street
+104,excludes-stop,node-ogmnl-crstair-crplatform
+104,excludes-stop,node-ogmnl-crstair-lobby
 104,excludes-stop,node-ogmnl-farepaid
 104,excludes-stop,node-ogmnl-fareunpaid
 104,excludes-stop,node-ogmnl-olstair-lobby
@@ -102,6 +108,8 @@ facility_id,property_id,value
 105,excludes-stop,node-801-platform
 105,excludes-stop,node-ogmnl-banksstair-lobby
 105,excludes-stop,node-ogmnl-banksstair-street
+105,excludes-stop,node-ogmnl-crstair-crplatform
+105,excludes-stop,node-ogmnl-crstair-lobby
 105,excludes-stop,node-ogmnl-farepaid
 105,excludes-stop,node-ogmnl-fareunpaid
 105,excludes-stop,node-ogmnl-olstair-lobby
@@ -8473,6 +8481,8 @@ facility_id,property_id,value
 744,excludes-stop,node-801-platform
 744,excludes-stop,node-ogmnl-banksstair-lobby
 744,excludes-stop,node-ogmnl-banksstair-street
+744,excludes-stop,node-ogmnl-crstair-crplatform
+744,excludes-stop,node-ogmnl-crstair-lobby
 744,excludes-stop,node-ogmnl-farepaid
 744,excludes-stop,node-ogmnl-fareunpaid
 744,excludes-stop,node-ogmnl-olstair-lobby
@@ -8499,6 +8509,8 @@ facility_id,property_id,value
 800,excludes-stop,node-801-platform
 800,excludes-stop,node-ogmnl-banksstair-lobby
 800,excludes-stop,node-ogmnl-banksstair-street
+800,excludes-stop,node-ogmnl-crstair-crplatform
+800,excludes-stop,node-ogmnl-crstair-lobby
 800,excludes-stop,node-ogmnl-farepaid
 800,excludes-stop,node-ogmnl-fareunpaid
 800,excludes-stop,node-ogmnl-olstair-lobby
@@ -8525,6 +8537,8 @@ facility_id,property_id,value
 801,excludes-stop,node-801-platform
 801,excludes-stop,node-ogmnl-banksstair-lobby
 801,excludes-stop,node-ogmnl-banksstair-street
+801,excludes-stop,node-ogmnl-crstair-crplatform
+801,excludes-stop,node-ogmnl-crstair-lobby
 801,excludes-stop,node-ogmnl-farepaid
 801,excludes-stop,node-ogmnl-fareunpaid
 801,excludes-stop,node-ogmnl-olstair-lobby
@@ -18786,6 +18800,7 @@ park-FR-0361-garage,fee-daily,$4
 park-FR-0361-garage,municipality,Ayer
 park-FR-0361-garage,note,"Montachusett Regional Transit Authority is responsible for parking maintenance, payments, and snow removal."
 park-FR-0361-garage,operator,Montachusett Regional Transit Authority
+park-FR-0361-garage,overnight-allowed,yes-snow-unknown
 park-FR-0361-garage,owner,City/Town
 park-FR-0394,attended,2
 park-FR-0394,capacity,25
