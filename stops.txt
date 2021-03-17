@@ -2032,12 +2032,10 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 2736,2736,Broadway @ Boston Ave - Ball Sq,,,,42.399894,-71.112006,LocalBus,,https://www.mbta.com/stops/2736,,0,,1,Somerville,Broadway,Josephine Avenue,3
 2737,2737,Broadway @ Pearson Rd,,,,42.400513,-71.113792,LocalBus,,https://www.mbta.com/stops/2737,,0,,0,Somerville,Broadway,Pearson Road,3
 2738,2738,Broadway @ Warner St - Powder House Sq,,,,42.401082,-71.116275,LocalBus,,https://www.mbta.com/stops/2738,,0,,1,Somerville,Broadway,Powder House Square,3
-2739,2739,Broadway @ Powder House Blvd,,,,42.400910,-71.117205,LocalBus,,https://www.mbta.com/stops/2739,,0,,0,Somerville,Broadway,Powder House Square,3
 2740,2740,Broadway @ Walker St,,,,42.400861,-71.117961,LocalBus,,https://www.mbta.com/stops/2740,,0,,1,Somerville,Broadway,Walker Street,3
 2741,2741,Broadway @ Leonard St,,,,42.401089,-71.120555,LocalBus,,https://www.mbta.com/stops/2741,,0,,1,Somerville,Broadway,Wallace Street,3
 2742,2742,Broadway @ Mason St,,,,42.401631,-71.122806,LocalBus,,https://www.mbta.com/stops/2742,,0,,1,Somerville,Broadway,Corinthian Road,3
 2743,2743,Broadway @ Packard Ave,,,,42.402272,-71.124828,LocalBus,,https://www.mbta.com/stops/2743,,0,,1,Somerville,Broadway,Packard Avenue,3
-2744,2744,Broadway @ Westminster Ave,,,,42.402952,-71.126364,LocalBus,,https://www.mbta.com/stops/2744,,0,,0,Somerville,Broadway,Westminster Street,3
 2745,2745,Cross St @ Pearl St,,,,42.385796,-71.087692,LocalBus,,https://www.mbta.com/stops/2745,,0,,0,Somerville,Cross Street,Pearl Street,3
 2746,2746,Cross St @ Ellsworth St,,,,42.387146,-71.086847,LocalBus,,https://www.mbta.com/stops/2746,,0,,0,Somerville,Cross Street,Otis Street,3
 2747,2747,Cross St @ Broadway,,,,42.388509,-71.085968,LocalBus,,https://www.mbta.com/stops/2747,,0,,0,Somerville,Cross Street,Broadway,3
@@ -7057,7 +7055,6 @@ ER-0128-02,,Swampscott,Swampscott - Commuter Rail - Track 2 (Boston),2,Track 2 (
 Swampscott,,Swampscott,Swampscott - Commuter Rail,,Commuter Rail,42.473743,-70.922537,CR-zone-3,,https://www.mbta.com/stops/place-ER-0128,,0,place-ER-0128,1,Swampscott,,,2
 place-ER-0168,,Salem,,,,42.524792,-70.895876,CR-zone-3,"252 Bridge St, Salem, MA 01970",https://www.mbta.com/stops/place-ER-0168,,1,,1,Salem,,,
 37150,37150,Salem,Salem - Busway,,Busway,42.524466,-70.895998,LocalBus,,https://www.mbta.com/stops/place-ER-0168,level_ground,0,place-ER-0168,0,Salem,,,3
-ER-0168-B,,Salem,Salem - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.524495,-70.896899,LocalBus,,https://www.mbta.com/stops/place-ER-0168,,0,place-ER-0168,1,Salem,,,3
 ER-0168-S,,Salem,Salem - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.524792,-70.895876,CR-zone-3,,https://www.mbta.com/stops/place-ER-0168,,0,place-ER-0168,1,Salem,,,2
 Salem,,Salem,Salem - Commuter Rail,,Commuter Rail,42.524792,-70.895876,CR-zone-3,,https://www.mbta.com/stops/place-ER-0168,,0,place-ER-0168,1,Salem,,,2
 place-ER-0183,,Beverly,,,,42.547276,-70.885432,CR-zone-4,"10 Park St, Beverly, MA 01915",https://www.mbta.com/stops/place-ER-0183,,1,,1,Beverly,,,
@@ -7070,26 +7067,20 @@ place-ER-0208,,North Beverly,,,,42.583779,-70.883851,CR-zone-5,"Enon St and Dodg
 ER-0208,,North Beverly,North Beverly - Commuter Rail,,Commuter Rail,42.583779,-70.883851,CR-zone-5,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,2
 ER-0208-01,,North Beverly,North Beverly - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.583779,-70.883851,CR-zone-5,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,2
 ER-0208-02,,North Beverly,North Beverly - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.583779,-70.883851,CR-zone-5,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,2
-ER-0208-B0,,North Beverly,North Beverly - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.583834,-70.884379,LocalBus,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,3
-ER-0208-B1,,North Beverly,North Beverly - Commuter Rail Boston Shuttle,,Boston Shuttle,42.583264,-70.884463,LocalBus,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,3
 North Beverly,,North Beverly,North Beverly - Commuter Rail,,Commuter Rail,42.583779,-70.883851,CR-zone-5,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,2
 place-ER-0227,,Hamilton/Wenham,,,,42.609212,-70.874801,CR-zone-5,"Bay Rd and Walnut Rd, Hamilton, MA 01982",https://www.mbta.com/stops/place-ER-0227,,1,,1,Hamilton,,,
-ER-0227-B,,Hamilton/Wenham,Hamilton/Wenham - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.609285,-70.874711,LocalBus,,https://www.mbta.com/stops/place-ER-0227,,0,place-ER-0227,1,Hamilton,,,3
 ER-0227-S,,Hamilton/Wenham,Hamilton/Wenham - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.609212,-70.874801,CR-zone-5,,https://www.mbta.com/stops/place-ER-0227,,0,place-ER-0227,1,Hamilton,,,2
 Hamilton/ Wenham,,Hamilton/Wenham,Hamilton/Wenham - Commuter Rail,,Commuter Rail,42.609212,-70.874801,CR-zone-5,,https://www.mbta.com/stops/place-ER-0227,,0,place-ER-0227,1,Hamilton,,,2
 place-ER-0276,,Ipswich,,,,42.676921,-70.840589,CR-zone-6,"4 Peatfield St, Ipswich, MA 01938",https://www.mbta.com/stops/place-ER-0276,,1,,1,Ipswich,,,
-ER-0276-B,,Ipswich,Ipswich - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.676911,-70.840507,LocalBus,,https://www.mbta.com/stops/place-ER-0276,,0,place-ER-0276,1,Ipswich,,,3
 ER-0276-S,,Ipswich,Ipswich - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.676921,-70.840589,CR-zone-6,,https://www.mbta.com/stops/place-ER-0276,,0,place-ER-0276,1,Ipswich,,,2
 Ipswich,,Ipswich,Ipswich - Commuter Rail,,Commuter Rail,42.676921,-70.840589,CR-zone-6,,https://www.mbta.com/stops/place-ER-0276,,0,place-ER-0276,1,Ipswich,,,2
 place-ER-0312,,Rowley,,,,42.726845,-70.859034,CR-zone-7,"70 Railroad Ave, Rowley, MA 01969",https://www.mbta.com/stops/place-ER-0312,,1,,1,Rowley,,,
-ER-0312-B,,Rowley,Rowley - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.727113,-70.859257,LocalBus,,https://www.mbta.com/stops/place-ER-0312,,0,place-ER-0312,1,Rowley,,,3
 ER-0312-S,,Rowley,Rowley - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.726845,-70.859034,CR-zone-7,,https://www.mbta.com/stops/place-ER-0312,,0,place-ER-0312,1,Rowley,,,2
 Rowley,,Rowley,Rowley - Commuter Rail,,Commuter Rail,42.726845,-70.859034,CR-zone-7,,https://www.mbta.com/stops/place-ER-0312,,0,place-ER-0312,1,Rowley,,,2
 place-ER-0362,,Newburyport,,,,42.797837,-70.877970,CR-zone-8,"25 Boston Way, Newburyport, MA 01950",https://www.mbta.com/stops/place-ER-0362,,1,,1,Newburyport,,,
 ER-0362,,Newburyport,Newburyport - Commuter Rail,,Commuter Rail,42.797837,-70.877970,CR-zone-8,,https://www.mbta.com/stops/place-ER-0362,,0,place-ER-0362,1,Newburyport,,,2
 ER-0362-01,,Newburyport,Newburyport - Commuter Rail - Track 1,1,Track 1,42.797837,-70.877970,CR-zone-8,,https://www.mbta.com/stops/place-ER-0362,,0,place-ER-0362,1,Newburyport,,,2
 ER-0362-02,,Newburyport,Newburyport - Commuter Rail - Track 2,2,Track 2,42.797837,-70.877970,CR-zone-8,,https://www.mbta.com/stops/place-ER-0362,,0,place-ER-0362,1,Newburyport,,,2
-ER-0362-B,,Newburyport,Newburyport - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.797059,-70.877515,LocalBus,,https://www.mbta.com/stops/place-ER-0362,,0,place-ER-0362,1,Newburyport,,,3
 Newburyport,,Newburyport,Newburyport - Commuter Rail,,Commuter Rail,42.797837,-70.877970,CR-zone-8,,https://www.mbta.com/stops/place-ER-0362,,0,place-ER-0362,1,Newburyport,,,2
 place-FB-0109,,Endicott,,,,42.233249,-71.158647,CR-zone-2,"186 Grant Ave, Dedham, MA 02026",https://www.mbta.com/stops/place-FB-0109,,1,,2,Dedham,,,
 Endicott,,Endicott,Endicott - Commuter Rail,,Commuter Rail,42.233249,-71.158647,CR-zone-2,,https://www.mbta.com/stops/place-FB-0109,,0,place-FB-0109,2,Dedham,,,2
@@ -9004,6 +8995,8 @@ node-801-lobby,,Oak Grove,Oak Grove - Top of Orange Line elevator,,,42.436982,-7
 node-801-platform,,Oak Grove,Oak Grove - Bottom of Orange Line elevator,,,42.436982,-71.070950,,,,level_0_orange_platform,3,place-ogmnl,1,Malden,,,
 node-ogmnl-banksstair-lobby,,Oak Grove,"Oak Grove - Top of Banks Place, busway, parking stairs",,,42.436898,-71.070639,,,,level_1_lobby,3,place-ogmnl,1,Malden,,,
 node-ogmnl-banksstair-street,,Oak Grove,"Oak Grove - Bottom of Banks Place, busway, parking stairs",,,42.436884,-71.070482,,,,level_ground,3,place-ogmnl,1,Malden,,,
+node-ogmnl-crstair-crplatform,,Oak Grove,Oak Grove - Bottom of Commuter Rail stairs,,,42.437150,-71.070722,,,,level_0_cr_platform,3,place-ogmnl,1,Malden,,,
+node-ogmnl-crstair-lobby,,Oak Grove,Oak Grove - Top of Commuter Rail stairs,,,42.437036,-71.070734,,,,level_1_lobby,3,place-ogmnl,1,Malden,,,
 node-ogmnl-farepaid,,Oak Grove,Oak Grove - Paid side of fare gates,,,42.436952,-71.070841,,,,level_1_lobby,3,place-ogmnl,1,Malden,,,
 node-ogmnl-fareunpaid,,Oak Grove,Oak Grove - Unpaid side of fare gates,,,42.436952,-71.070841,,,,level_1_lobby,3,place-ogmnl,1,Malden,,,
 node-ogmnl-olstair-lobby,,Oak Grove,Oak Grove - Top of Orange Line stairs,,,42.437045,-71.070931,,,,level_1_lobby,3,place-ogmnl,1,Malden,,,
