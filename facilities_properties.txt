@@ -29,6 +29,7 @@ facility_id,property_id,value
 102,excludes-stop,node-ogmnl-washstair-street
 103,direction,up
 103,excludes-stop,9328
+103,excludes-stop,WR-0053-S
 103,excludes-stop,door-ogmnl-banks
 103,excludes-stop,door-ogmnl-wash
 103,excludes-stop,door-ogmnl-washel
@@ -8519,6 +8520,7 @@ facility_id,property_id,value
 800,excludes-stop,node-ogmnl-washstair-street
 801,alternate-service-text,"A shuttle bus will be available to transport customers between Oak Grove and Malden Center. To exit at Oak Grove, exit the train at Malden Center and find station personnel or use a station call box to request the shuttle bus to Oak Grove. To board the Orange Line, find station personnel or use a station call box to request the shuttle bus to Malden Center. Alternatively, customers may also use Bus Routes 136, 137 or 132 for transportation between Oak Grove and Malden Center."
 801,excludes-stop,9328
+801,excludes-stop,WR-0053-S
 801,excludes-stop,door-ogmnl-wash
 801,excludes-stop,door-ogmnl-washel
 801,excludes-stop,node-102-lobby
@@ -17675,6 +17677,11 @@ highlevel-north-9,excludes-stop,door-north-causeways
 highlevel-north-9,excludes-stop,door-north-tdgarden
 highlevel-north-9,excludes-stop,door-north-valenti
 highlevel-north-9,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-ogmnl,excludes-stop,70036
+highlevel-ogmnl,excludes-stop,9328
+highlevel-ogmnl,excludes-stop,Oak Grove-01
+highlevel-ogmnl,excludes-stop,Oak Grove-02
+highlevel-ogmnl,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-qnctr,excludes-stop,32000
 highlevel-qnctr,excludes-stop,32001
 highlevel-qnctr,excludes-stop,32002
@@ -21016,10 +21023,12 @@ portlift-bcnwa-1,note,"Significant barriers exist at station, but customers may 
 portlift-brkhl-0,excludes-stop,70179
 portlift-brkhl-0,excludes-stop,9070178
 portlift-brkhl-0,excludes-stop,9070179
+portlift-brkhl-0,excludes-stop,9170178
 portlift-brkhl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brkhl-1,excludes-stop,70178
 portlift-brkhl-1,excludes-stop,9070178
 portlift-brkhl-1,excludes-stop,9070179
+portlift-brkhl-1,excludes-stop,9170178
 portlift-brkhl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brmnl-0,excludes-stop,70250
 portlift-brmnl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
