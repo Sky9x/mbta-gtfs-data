@@ -32,13 +32,13 @@ Green-D-1-0,Green-D,0,North Station - Riverside,Weekday early mornings only,3,10
 Green-D-3-0,Green-D,0,North Station - Reservoir,Weekday evenings only,3,10034005,47411165
 Green-D-2-0_70151_70161_0,Green-D,0,Government Center - Kenmore,,4,10034099,47410165-20:45-KenmoreRiverside0
 Green-D-2-0_70175_70161_0,Green-D,0,Government Center - Reservoir,,4,10034099,47410165-20:45-BabcockKenmoreReservoirRiverside0
-Green-D-2-0_70179_70161_0,Green-D,0,Government Center - Brookline Hills,,4,10034099,47410165-20:45-BrooklineHillsRiverside0
+Green-D-2-0_70179_70161_0,Green-D,0,Government Center - Brookline Hills,,4,10034099,47420679-BrooklineHillsRiversideKenmoreWashingtonStreet0
 Green-D-2-1,Green-D,1,Riverside - Government Center,,1,10034100,47425375
 Green-D-1-1,Green-D,1,Riverside - North Station,Weekday early mornings only,3,10034104,47411174
 Green-D-3-1,Green-D,1,Reservoir - North Station,Weekday early mornings only,3,10034105,47411173
 Green-D-2-1_70160_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,47410164-20:45-KenmoreRiverside2
 Green-D-2-1_70160_70174_2,Green-D,1,Reservoir - Government Center,,4,10034199,47410164-20:45-BabcockKenmoreReservoirRiverside2
-Green-D-2-1_70160_70178_2,Green-D,1,Brookline Hills - Government Center,,4,10034199,47410164-20:45-BrooklineHillsRiverside2
+Green-D-2-1_70160_70178_2,Green-D,1,Brookline Hills - Government Center,,4,10034199,47420674-BrooklineHillsRiversideKenmoreWashingtonStreet2
 Green-E-1-0,Green-E,0,North Station - Heath Street,,1,10035000,47425374
 Green-E-1-1,Green-E,1,Heath Street - North Station,,1,10035100,47425376
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,47433182
@@ -472,6 +472,7 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-0600-Hingham-Week
 93-1-1,93,1,Sullivan Square Station - Downtown,,1,50930100,47543057
 93-2-1,93,1,Sullivan Square Station - Downtown via Navy Yard,Weekdays only,2,50930104,47543069
 93-_-1,93,1,Sullivan Square Station - Haymarket Station,,3,50930105,47543110
+93-4-1,93,1,Bunker Hill St at Concord St - Haymarket Station,School days only,3,50930108,47542988
 94-1-0,94,0,Davis Station - Medford Square,,1,50940000,47524297
 94-2-0,94,0,Davis Station - Medford Square via Medford HS,AM peak hours only,3,50940004,47524315
 94-1-1,94,1,Medford Square - Davis Station,,1,50940100,47524295
@@ -802,8 +803,8 @@ Shuttle-BabcockKenmore-0-0,Shuttle-BabcockKenmore,0,Kenmore - Babcock Street,,4,
 Shuttle-BabcockKenmore-0-1,Shuttle-BabcockKenmore,1,Babcock Street - Kenmore,,4,60460199,47410143-20:45-BabcockKenmoreReservoirRiverside1
 Shuttle-BeverlyRockport-0-0,Shuttle-BeverlyRockport,0,Beverly - Rockport,,4,60700099,CR-Saturday-Winter-21-2101-BVRMRRockportWGRIB1
 Shuttle-BeverlyRockport-0-1,Shuttle-BeverlyRockport,1,Rockport - Beverly,,4,60700199,CR-Saturday-Winter-21-2100-BVRMRRockportWGRIB1
-Shuttle-BrooklineHillsRiverside-0-0,Shuttle-BrooklineHillsRiverside,0,Brookline Hills - Riverside,,4,61250099,47410165-20:45-BrooklineHillsRiverside1
-Shuttle-BrooklineHillsRiverside-0-1,Shuttle-BrooklineHillsRiverside,1,Riverside - Brookline Hills,,4,61250199,47410164-20:45-BrooklineHillsRiverside1
+Shuttle-BrooklineHillsRiverside-0-0,Shuttle-BrooklineHillsRiverside,0,Brookline Hills - Riverside,,4,61250099,47420679-BrooklineHillsRiversideKenmoreWashingtonStreet1
+Shuttle-BrooklineHillsRiverside-0-1,Shuttle-BrooklineHillsRiverside,1,Riverside - Brookline Hills,,4,61250199,47420674-BrooklineHillsRiversideKenmoreWashingtonStreet1
 Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,4,62012099,47410165-20:45-KenmoreRiverside1
 Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,4,62012199,47410164-20:45-KenmoreRiverside1
 Shuttle-KenmoreWashington-0-0,Shuttle-KenmoreWashington,0,Kenmore - Washington Street,,4,62018099,47420672-BrooklineHillsRiversideKenmoreWashingtonStreet1
