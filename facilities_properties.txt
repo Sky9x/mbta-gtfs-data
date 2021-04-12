@@ -551,6 +551,7 @@ facility_id,property_id,value
 135,excludes-stop,door-rugg-columbus
 135,excludes-stop,door-rugg-forsyth
 135,excludes-stop,door-rugg-ruggles
+135,excludes-stop,door-rugg-track2
 135,excludes-stop,door-rugg-upper
 135,excludes-stop,node-135-busway
 135,excludes-stop,node-135-lobby
@@ -560,6 +561,8 @@ facility_id,property_id,value
 135,excludes-stop,node-137-platform
 135,excludes-stop,node-138-bottom
 135,excludes-stop,node-138-top
+135,excludes-stop,node-728-lobby
+135,excludes-stop,node-728-street
 135,excludes-stop,node-848-busway
 135,excludes-stop,node-848-lobby
 135,excludes-stop,node-849-lobby
@@ -586,6 +589,8 @@ facility_id,property_id,value
 135,excludes-stop,node-rugg-olnstairs-platform
 135,excludes-stop,node-rugg-olsstairs-lobby
 135,excludes-stop,node-rugg-olsstairs-platform
+135,excludes-stop,node-rugg-track2ramp-bottom
+135,excludes-stop,node-rugg-track2ramp-top
 136,direction,up
 136,excludes-stop,17861
 136,excludes-stop,17862
@@ -602,6 +607,7 @@ facility_id,property_id,value
 136,excludes-stop,door-rugg-columbus
 136,excludes-stop,door-rugg-forsyth
 136,excludes-stop,door-rugg-ruggles
+136,excludes-stop,door-rugg-track2
 136,excludes-stop,door-rugg-upper
 136,excludes-stop,node-135-busway
 136,excludes-stop,node-135-lobby
@@ -611,6 +617,8 @@ facility_id,property_id,value
 136,excludes-stop,node-137-platform
 136,excludes-stop,node-138-bottom
 136,excludes-stop,node-138-top
+136,excludes-stop,node-728-lobby
+136,excludes-stop,node-728-street
 136,excludes-stop,node-848-busway
 136,excludes-stop,node-848-lobby
 136,excludes-stop,node-849-lobby
@@ -637,6 +645,8 @@ facility_id,property_id,value
 136,excludes-stop,node-rugg-olnstairs-platform
 136,excludes-stop,node-rugg-olsstairs-lobby
 136,excludes-stop,node-rugg-olsstairs-platform
+136,excludes-stop,node-rugg-track2ramp-bottom
+136,excludes-stop,node-rugg-track2ramp-top
 137,direction,up
 137,excludes-stop,17861
 137,excludes-stop,17862
@@ -653,6 +663,7 @@ facility_id,property_id,value
 137,excludes-stop,door-rugg-columbus
 137,excludes-stop,door-rugg-forsyth
 137,excludes-stop,door-rugg-ruggles
+137,excludes-stop,door-rugg-track2
 137,excludes-stop,door-rugg-upper
 137,excludes-stop,node-135-busway
 137,excludes-stop,node-135-lobby
@@ -662,6 +673,8 @@ facility_id,property_id,value
 137,excludes-stop,node-137-platform
 137,excludes-stop,node-138-bottom
 137,excludes-stop,node-138-top
+137,excludes-stop,node-728-lobby
+137,excludes-stop,node-728-street
 137,excludes-stop,node-848-busway
 137,excludes-stop,node-848-lobby
 137,excludes-stop,node-849-lobby
@@ -688,6 +701,8 @@ facility_id,property_id,value
 137,excludes-stop,node-rugg-olnstairs-platform
 137,excludes-stop,node-rugg-olsstairs-lobby
 137,excludes-stop,node-rugg-olsstairs-platform
+137,excludes-stop,node-rugg-track2ramp-bottom
+137,excludes-stop,node-rugg-track2ramp-top
 138,direction,up
 138,excludes-stop,NEC-2265-02
 138,excludes-stop,Ruggles
@@ -697,6 +712,7 @@ facility_id,property_id,value
 138,excludes-stop,door-rugg-buses
 138,excludes-stop,door-rugg-columbus
 138,excludes-stop,door-rugg-ruggles
+138,excludes-stop,door-rugg-track2
 138,excludes-stop,door-rugg-upper
 138,excludes-stop,node-135-busway
 138,excludes-stop,node-135-lobby
@@ -706,6 +722,8 @@ facility_id,property_id,value
 138,excludes-stop,node-137-platform
 138,excludes-stop,node-138-bottom
 138,excludes-stop,node-138-top
+138,excludes-stop,node-728-lobby
+138,excludes-stop,node-728-street
 138,excludes-stop,node-848-busway
 138,excludes-stop,node-848-lobby
 138,excludes-stop,node-849-lobby
@@ -732,6 +750,8 @@ facility_id,property_id,value
 138,excludes-stop,node-rugg-olnstairs-platform
 138,excludes-stop,node-rugg-olsstairs-lobby
 138,excludes-stop,node-rugg-olsstairs-platform
+138,excludes-stop,node-rugg-track2ramp-bottom
+138,excludes-stop,node-rugg-track2ramp-top
 139,direction,up
 139,excludes-stop,door-masta-camden
 139,excludes-stop,door-masta-corridor
@@ -8287,6 +8307,62 @@ facility_id,property_id,value
 725,excludes-stop,Boston Landing
 726,excludes-stop,Boston Landing
 727,excludes-stop,Boston Landing
+728,alternate-service-text,"To exit, use Ruggles Elevator 848 located on the opposite side of the lobby. To board, cross the inner busway lane to the side platform and use Ruggles Elevator 848."
+728,excludes-stop,17861
+728,excludes-stop,70010
+728,excludes-stop,70011
+728,excludes-stop,NEC-2265
+728,excludes-stop,NEC-2265-01
+728,excludes-stop,NEC-2265-02
+728,excludes-stop,NEC-2265-03
+728,excludes-stop,Ruggles
+728,excludes-stop,Ruggles-01
+728,excludes-stop,Ruggles-02
+728,excludes-stop,Ruggles-03
+728,excludes-stop,door-rugg-buses
+728,excludes-stop,door-rugg-columbus
+728,excludes-stop,door-rugg-forsyth
+728,excludes-stop,door-rugg-ruggles
+728,excludes-stop,door-rugg-track2
+728,excludes-stop,door-rugg-upper
+728,excludes-stop,node-135-busway
+728,excludes-stop,node-135-lobby
+728,excludes-stop,node-136-lobby
+728,excludes-stop,node-136-platform
+728,excludes-stop,node-137-lobby
+728,excludes-stop,node-137-platform
+728,excludes-stop,node-138-bottom
+728,excludes-stop,node-138-top
+728,excludes-stop,node-728-lobby
+728,excludes-stop,node-728-street
+728,excludes-stop,node-848-busway
+728,excludes-stop,node-848-lobby
+728,excludes-stop,node-849-lobby
+728,excludes-stop,node-849-platform
+728,excludes-stop,node-850-lobby
+728,excludes-stop,node-850-platform
+728,excludes-stop,node-851-bottom
+728,excludes-stop,node-851-top
+728,excludes-stop,node-rugg-bus1stairs-busway
+728,excludes-stop,node-rugg-bus1stairs-lobby
+728,excludes-stop,node-rugg-bus2stairs-busway
+728,excludes-stop,node-rugg-bus2stairs-lobby
+728,excludes-stop,node-rugg-columbusstairs-top
+728,excludes-stop,node-rugg-crstairs-lobby
+728,excludes-stop,node-rugg-crstairs-platform
+728,excludes-stop,node-rugg-farepaid
+728,excludes-stop,node-rugg-fareunpaid
+728,excludes-stop,node-rugg-forsythstairs-bottom
+728,excludes-stop,node-rugg-forsythstairs-top
+728,excludes-stop,node-rugg-olexit-farepaid
+728,excludes-stop,node-rugg-olexit-fareunpaid
+728,excludes-stop,node-rugg-olexit-platform
+728,excludes-stop,node-rugg-olnstairs-lobby
+728,excludes-stop,node-rugg-olnstairs-platform
+728,excludes-stop,node-rugg-olsstairs-lobby
+728,excludes-stop,node-rugg-olsstairs-platform
+728,excludes-stop,node-rugg-track2ramp-bottom
+728,excludes-stop,node-rugg-track2ramp-top
 731,alternate-service-text,"To exit, use North Station Elevator 912 located in the lobby to access the corner of Haverhill St and Causeway St. To board, cross Causeway St, and at the corner of Haverhill St and Causeway St, use North Station Elevator 912 to access the lobby."
 731,excludes-stop,BNT-0000
 731,excludes-stop,BNT-0000-01
@@ -9492,6 +9568,7 @@ facility_id,property_id,value
 848,excludes-stop,door-rugg-columbus
 848,excludes-stop,door-rugg-forsyth
 848,excludes-stop,door-rugg-ruggles
+848,excludes-stop,door-rugg-track2
 848,excludes-stop,door-rugg-upper
 848,excludes-stop,node-135-busway
 848,excludes-stop,node-135-lobby
@@ -9501,6 +9578,8 @@ facility_id,property_id,value
 848,excludes-stop,node-137-platform
 848,excludes-stop,node-138-bottom
 848,excludes-stop,node-138-top
+848,excludes-stop,node-728-lobby
+848,excludes-stop,node-728-street
 848,excludes-stop,node-848-busway
 848,excludes-stop,node-848-lobby
 848,excludes-stop,node-849-lobby
@@ -9527,6 +9606,8 @@ facility_id,property_id,value
 848,excludes-stop,node-rugg-olnstairs-platform
 848,excludes-stop,node-rugg-olsstairs-lobby
 848,excludes-stop,node-rugg-olsstairs-platform
+848,excludes-stop,node-rugg-track2ramp-bottom
+848,excludes-stop,node-rugg-track2ramp-top
 849,alternate-service-text,"Please see station personnel or a train conductor for assistance. To exit, exit the train at Back Bay, then take a Forest Hills-bound train to Ruggles and use Ruggles Elevator 850. To board, use Ruggles Elevator 850 to access the Orange Line platform, then take a Oak Grove-bound train to Back Bay and transfer to the Commuter Rail. Check the Commuter Rail train schedules for train arrival/departure times at Back Bay by visiting mbta.com/schedules."
 849,excludes-stop,17861
 849,excludes-stop,17862
@@ -9542,6 +9623,7 @@ facility_id,property_id,value
 849,excludes-stop,door-rugg-columbus
 849,excludes-stop,door-rugg-forsyth
 849,excludes-stop,door-rugg-ruggles
+849,excludes-stop,door-rugg-track2
 849,excludes-stop,door-rugg-upper
 849,excludes-stop,node-135-busway
 849,excludes-stop,node-135-lobby
@@ -9551,6 +9633,8 @@ facility_id,property_id,value
 849,excludes-stop,node-137-platform
 849,excludes-stop,node-138-bottom
 849,excludes-stop,node-138-top
+849,excludes-stop,node-728-lobby
+849,excludes-stop,node-728-street
 849,excludes-stop,node-848-busway
 849,excludes-stop,node-848-lobby
 849,excludes-stop,node-849-lobby
@@ -9577,6 +9661,8 @@ facility_id,property_id,value
 849,excludes-stop,node-rugg-olnstairs-platform
 849,excludes-stop,node-rugg-olsstairs-lobby
 849,excludes-stop,node-rugg-olsstairs-platform
+849,excludes-stop,node-rugg-track2ramp-bottom
+849,excludes-stop,node-rugg-track2ramp-top
 850,alternate-service-text,"A shuttle bus will be available to transport customers between Ruggles and Jackson Square. To exit, exit the train at Jackson Square and find station personnel or use a station call box to request the shuttle bus to Ruggles. To board, find station personnel or use a station call box at Ruggles to request the shuttle bus to Jackson Square, or Roxbury Crossing, upon request. Alternatively, customers may also use Bus Route 22 for transportation between Ruggles, Jackson Square and Roxbury Crossing."
 850,excludes-stop,17861
 850,excludes-stop,17862
@@ -9593,6 +9679,7 @@ facility_id,property_id,value
 850,excludes-stop,door-rugg-columbus
 850,excludes-stop,door-rugg-forsyth
 850,excludes-stop,door-rugg-ruggles
+850,excludes-stop,door-rugg-track2
 850,excludes-stop,door-rugg-upper
 850,excludes-stop,node-135-busway
 850,excludes-stop,node-135-lobby
@@ -9602,6 +9689,8 @@ facility_id,property_id,value
 850,excludes-stop,node-137-platform
 850,excludes-stop,node-138-bottom
 850,excludes-stop,node-138-top
+850,excludes-stop,node-728-lobby
+850,excludes-stop,node-728-street
 850,excludes-stop,node-848-busway
 850,excludes-stop,node-848-lobby
 850,excludes-stop,node-849-lobby
@@ -9628,6 +9717,8 @@ facility_id,property_id,value
 850,excludes-stop,node-rugg-olnstairs-platform
 850,excludes-stop,node-rugg-olsstairs-lobby
 850,excludes-stop,node-rugg-olsstairs-platform
+850,excludes-stop,node-rugg-track2ramp-bottom
+850,excludes-stop,node-rugg-track2ramp-top
 851,alternate-service-text,"A shuttle bus will be available to transport customers between Forsyth St entrance and the Ruggles upper busway (lobby). Please see station personnel or use a station call box to request the shuttle bus. Alternatively, upon request, assistance navigating between the Forsyth St entrance and the Ruggles upper busway can be provided."
 851,excludes-stop,NEC-2265-02
 851,excludes-stop,Ruggles
@@ -9637,6 +9728,7 @@ facility_id,property_id,value
 851,excludes-stop,door-rugg-buses
 851,excludes-stop,door-rugg-columbus
 851,excludes-stop,door-rugg-ruggles
+851,excludes-stop,door-rugg-track2
 851,excludes-stop,door-rugg-upper
 851,excludes-stop,node-135-busway
 851,excludes-stop,node-135-lobby
@@ -9646,6 +9738,8 @@ facility_id,property_id,value
 851,excludes-stop,node-137-platform
 851,excludes-stop,node-138-bottom
 851,excludes-stop,node-138-top
+851,excludes-stop,node-728-lobby
+851,excludes-stop,node-728-street
 851,excludes-stop,node-848-busway
 851,excludes-stop,node-848-lobby
 851,excludes-stop,node-849-lobby
@@ -9672,6 +9766,8 @@ facility_id,property_id,value
 851,excludes-stop,node-rugg-olnstairs-platform
 851,excludes-stop,node-rugg-olsstairs-lobby
 851,excludes-stop,node-rugg-olsstairs-platform
+851,excludes-stop,node-rugg-track2ramp-bottom
+851,excludes-stop,node-rugg-track2ramp-top
 852,alternate-service-text,"A shuttle bus will be available to transport customers between Massachusetts Avenue and Back Bay. To exit, exit the train at Back Bay and find station personnel or use a station call box to request the shuttle bus to Massachusetts Avenue. To board, find station personnel or use a station call box at Massachusetts Avenue to request the shuttle bus to Back Bay."
 852,excludes-stop,door-masta-camden
 852,excludes-stop,door-masta-corridor
@@ -17200,79 +17296,132 @@ fvm-208004,enclosed,1
 fvm-208004,payment-form-accepted,credit-debit-card
 fvm-208005,enclosed,1
 fvm-208005,payment-form-accepted,credit-debit-card
-highlevel-DB-2222,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-DB-2230,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-DB-2240,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-DB-2249,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-DB-2258,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-DB-2265,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-ER-0115,excludes-stop,14748
-highlevel-ER-0115,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-ER-0168,excludes-stop,37150
-highlevel-ER-0168,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-ER-0312,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-ER-0362,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-FR-0253,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-FR-0301,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-FR-3338,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-GRB-0118,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-GRB-0146,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-GRB-0162,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-GRB-0183,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-GRB-0199,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-GRB-0233,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-GRB-0276,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-KB-0351,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-MM-0150,excludes-stop,4255
-highlevel-MM-0150,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-MM-0186,excludes-stop,39870
-highlevel-MM-0186,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-MM-0200,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-MM-0219,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-MM-0277,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-MM-0356,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-NEC-1659,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-NEC-1768,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-NEC-1851,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-NEC-2173,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-NHRML-0127,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-NHRML-0254,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-PB-0158,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-PB-0194,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-PB-0212,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-PB-0245,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-PB-0281,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-PB-0356,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-WML-0025,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-WML-0035,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-WR-0264,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-bbsta-0,excludes-stop,11384
-highlevel-bbsta-0,excludes-stop,176
-highlevel-bbsta-0,excludes-stop,23391
-highlevel-bbsta-0,excludes-stop,70014
-highlevel-bbsta-0,excludes-stop,70015
-highlevel-bbsta-0,excludes-stop,Back Bay-01
-highlevel-bbsta-0,excludes-stop,Back Bay-02
-highlevel-bbsta-0,excludes-stop,Back Bay-03
-highlevel-bbsta-0,excludes-stop,Back Bay-05
-highlevel-bbsta-0,excludes-stop,Back Bay-07
-highlevel-bbsta-0,excludes-stop,NEC-2276-01
-highlevel-bbsta-0,excludes-stop,NEC-2276-02
-highlevel-bbsta-0,excludes-stop,NEC-2276-03
-highlevel-bbsta-0,excludes-stop,WML-0012-05
-highlevel-bbsta-0,excludes-stop,WML-0012-07
-highlevel-bbsta-0,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-DB-2222-1,excludes-stop,DB-2222-02
+highlevel-DB-2222-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-DB-2222-2,excludes-stop,DB-2222-01
+highlevel-DB-2222-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-DB-2230-1,excludes-stop,DB-2230-02
+highlevel-DB-2230-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-DB-2230-2,excludes-stop,DB-2230-01
+highlevel-DB-2230-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-DB-2240-1,excludes-stop,DB-2240-02
+highlevel-DB-2240-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-DB-2240-2,excludes-stop,DB-2240-01
+highlevel-DB-2240-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-DB-2249-1,excludes-stop,DB-2249-02
+highlevel-DB-2249-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-DB-2249-2,excludes-stop,DB-2249-01
+highlevel-DB-2249-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-DB-2258-1,excludes-stop,DB-2258-02
+highlevel-DB-2258-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-DB-2258-2,excludes-stop,DB-2258-01
+highlevel-DB-2258-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-DB-2265-1,excludes-stop,DB-2265-02
+highlevel-DB-2265-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-DB-2265-2,excludes-stop,DB-2265-01
+highlevel-DB-2265-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-ER-0115-1,excludes-stop,14748
+highlevel-ER-0115-1,excludes-stop,ER-0115-02
+highlevel-ER-0115-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-ER-0115-2,excludes-stop,14748
+highlevel-ER-0115-2,excludes-stop,ER-0115-01
+highlevel-ER-0115-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-ER-0168-1,excludes-stop,37150
+highlevel-ER-0168-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-ER-0312-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-ER-0362-1,excludes-stop,ER-0362-02
+highlevel-ER-0362-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-ER-0362-2,excludes-stop,ER-0362-01
+highlevel-ER-0362-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-FR-0253-1,excludes-stop,FR-0253-02
+highlevel-FR-0253-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-FR-0253-2,excludes-stop,FR-0253-01
+highlevel-FR-0253-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-FR-0301-1,excludes-stop,FR-0301-02
+highlevel-FR-0301-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-FR-0301-2,excludes-stop,FR-0301-01
+highlevel-FR-0301-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-FR-3338-3,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-GRB-0118-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-GRB-0146-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-GRB-0162-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-GRB-0183-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-GRB-0199-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-GRB-0233-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-GRB-0276-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-KB-0351-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-MM-0150-1,excludes-stop,4255
+highlevel-MM-0150-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-MM-0186-1,excludes-stop,39870
+highlevel-MM-0186-1,excludes-stop,MM-0186-CS
+highlevel-MM-0186-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-MM-0186-2,excludes-stop,39870
+highlevel-MM-0186-2,excludes-stop,MM-0186-S
+highlevel-MM-0186-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-MM-0200-1,excludes-stop,MM-0200-CS
+highlevel-MM-0200-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-MM-0200-2,excludes-stop,MM-0200-S
+highlevel-MM-0200-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-MM-0219-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-MM-0277-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-MM-0356-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NEC-1659-3,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NEC-1768-3,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NEC-1851-1,excludes-stop,NEC-1851-02
+highlevel-NEC-1851-1,excludes-stop,NEC-1851-03
+highlevel-NEC-1851-1,excludes-stop,NEC-1851-05
+highlevel-NEC-1851-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NEC-1851-2,excludes-stop,NEC-1851-01
+highlevel-NEC-1851-2,excludes-stop,NEC-1851-03
+highlevel-NEC-1851-2,excludes-stop,NEC-1851-05
+highlevel-NEC-1851-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NEC-1851-3,excludes-stop,NEC-1851-01
+highlevel-NEC-1851-3,excludes-stop,NEC-1851-02
+highlevel-NEC-1851-3,excludes-stop,NEC-1851-05
+highlevel-NEC-1851-3,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NEC-1851-5,excludes-stop,NEC-1851-01
+highlevel-NEC-1851-5,excludes-stop,NEC-1851-02
+highlevel-NEC-1851-5,excludes-stop,NEC-1851-03
+highlevel-NEC-1851-5,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NEC-2173-1,excludes-stop,NEC-2173-02
+highlevel-NEC-2173-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NEC-2173-2,excludes-stop,NEC-2173-01
+highlevel-NEC-2173-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NHRML-0127-1,excludes-stop,NHRML-0127-02
+highlevel-NHRML-0127-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NHRML-0127-2,excludes-stop,NHRML-0127-01
+highlevel-NHRML-0127-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NHRML-0254-3,excludes-stop,NHRML-0254-04
+highlevel-NHRML-0254-3,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NHRML-0254-4,excludes-stop,NHRML-0254-03
+highlevel-NHRML-0254-4,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-PB-0158-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-PB-0194-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-PB-0212-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-PB-0245-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-PB-0281-1,excludes-stop,PB-0281-CS
+highlevel-PB-0281-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-PB-0281-2,excludes-stop,PB-0281-S
+highlevel-PB-0281-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-PB-0356-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-WML-0025-5,excludes-stop,WML-0025-07
+highlevel-WML-0025-5,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-WML-0025-7,excludes-stop,WML-0025-05
+highlevel-WML-0025-7,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-WML-0035-1,excludes-stop,WML-0035-02
+highlevel-WML-0035-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-WML-0035-2,excludes-stop,WML-0035-01
+highlevel-WML-0035-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-WR-0264-2,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-bbsta-1,excludes-stop,11384
 highlevel-bbsta-1,excludes-stop,176
 highlevel-bbsta-1,excludes-stop,23391
 highlevel-bbsta-1,excludes-stop,70014
 highlevel-bbsta-1,excludes-stop,70015
-highlevel-bbsta-1,excludes-stop,Back Bay
 highlevel-bbsta-1,excludes-stop,Back Bay-02
 highlevel-bbsta-1,excludes-stop,Back Bay-03
 highlevel-bbsta-1,excludes-stop,Back Bay-05
 highlevel-bbsta-1,excludes-stop,Back Bay-07
-highlevel-bbsta-1,excludes-stop,NEC-2276
 highlevel-bbsta-1,excludes-stop,NEC-2276-02
 highlevel-bbsta-1,excludes-stop,NEC-2276-03
 highlevel-bbsta-1,excludes-stop,WML-0012-05
@@ -17283,12 +17432,10 @@ highlevel-bbsta-2,excludes-stop,176
 highlevel-bbsta-2,excludes-stop,23391
 highlevel-bbsta-2,excludes-stop,70014
 highlevel-bbsta-2,excludes-stop,70015
-highlevel-bbsta-2,excludes-stop,Back Bay
 highlevel-bbsta-2,excludes-stop,Back Bay-01
 highlevel-bbsta-2,excludes-stop,Back Bay-03
 highlevel-bbsta-2,excludes-stop,Back Bay-05
 highlevel-bbsta-2,excludes-stop,Back Bay-07
-highlevel-bbsta-2,excludes-stop,NEC-2276
 highlevel-bbsta-2,excludes-stop,NEC-2276-01
 highlevel-bbsta-2,excludes-stop,NEC-2276-03
 highlevel-bbsta-2,excludes-stop,WML-0012-05
@@ -17299,81 +17446,68 @@ highlevel-bbsta-3,excludes-stop,176
 highlevel-bbsta-3,excludes-stop,23391
 highlevel-bbsta-3,excludes-stop,70014
 highlevel-bbsta-3,excludes-stop,70015
-highlevel-bbsta-3,excludes-stop,Back Bay
 highlevel-bbsta-3,excludes-stop,Back Bay-01
 highlevel-bbsta-3,excludes-stop,Back Bay-02
 highlevel-bbsta-3,excludes-stop,Back Bay-05
 highlevel-bbsta-3,excludes-stop,Back Bay-07
-highlevel-bbsta-3,excludes-stop,NEC-2276
 highlevel-bbsta-3,excludes-stop,NEC-2276-01
 highlevel-bbsta-3,excludes-stop,NEC-2276-02
 highlevel-bbsta-3,excludes-stop,WML-0012-05
 highlevel-bbsta-3,excludes-stop,WML-0012-07
 highlevel-bbsta-3,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-brntn,excludes-stop,38671
-highlevel-brntn,excludes-stop,70105
-highlevel-brntn,excludes-stop,door-brntn-busway
-highlevel-brntn,excludes-stop,door-brntn-faregates
-highlevel-brntn,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-forhl,excludes-stop,10642
-highlevel-forhl,excludes-stop,70001
-highlevel-forhl,excludes-stop,875
-highlevel-forhl,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-jfk,excludes-stop,121
-highlevel-jfk,excludes-stop,70085
-highlevel-jfk,excludes-stop,70086
-highlevel-jfk,excludes-stop,70095
-highlevel-jfk,excludes-stop,70096
-highlevel-jfk,excludes-stop,door-jfk-busway
-highlevel-jfk,excludes-stop,door-jfk-columbia
-highlevel-jfk,excludes-stop,door-jfk-oldcolony
-highlevel-jfk,excludes-stop,door-jfk-sydneyn
-highlevel-jfk,excludes-stop,door-jfk-sydneys
-highlevel-jfk,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-mlmnl,excludes-stop,5072
-highlevel-mlmnl,excludes-stop,5327
-highlevel-mlmnl,excludes-stop,53270
-highlevel-mlmnl,excludes-stop,70034
-highlevel-mlmnl,excludes-stop,70035
-highlevel-mlmnl,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-north-0,excludes-stop,113
-highlevel-north-0,excludes-stop,114
-highlevel-north-0,excludes-stop,70026
-highlevel-north-0,excludes-stop,70027
-highlevel-north-0,excludes-stop,70205
-highlevel-north-0,excludes-stop,70206
-highlevel-north-0,excludes-stop,BNT-0000-01
-highlevel-north-0,excludes-stop,BNT-0000-02
-highlevel-north-0,excludes-stop,BNT-0000-03
-highlevel-north-0,excludes-stop,BNT-0000-04
-highlevel-north-0,excludes-stop,BNT-0000-05
-highlevel-north-0,excludes-stop,BNT-0000-06
-highlevel-north-0,excludes-stop,BNT-0000-07
-highlevel-north-0,excludes-stop,BNT-0000-08
-highlevel-north-0,excludes-stop,BNT-0000-09
-highlevel-north-0,excludes-stop,BNT-0000-10
-highlevel-north-0,excludes-stop,North Station-01
-highlevel-north-0,excludes-stop,North Station-02
-highlevel-north-0,excludes-stop,North Station-03
-highlevel-north-0,excludes-stop,North Station-04
-highlevel-north-0,excludes-stop,North Station-05
-highlevel-north-0,excludes-stop,North Station-06
-highlevel-north-0,excludes-stop,North Station-07
-highlevel-north-0,excludes-stop,North Station-08
-highlevel-north-0,excludes-stop,North Station-09
-highlevel-north-0,excludes-stop,North Station-10
-highlevel-north-0,excludes-stop,door-north-causewaye
-highlevel-north-0,excludes-stop,door-north-causeways
-highlevel-north-0,excludes-stop,door-north-tdgarden
-highlevel-north-0,excludes-stop,door-north-valenti
-highlevel-north-0,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-brntn-1,excludes-stop,38671
+highlevel-brntn-1,excludes-stop,70105
+highlevel-brntn-1,excludes-stop,Braintree-01
+highlevel-brntn-1,excludes-stop,Braintree-02
+highlevel-brntn-1,excludes-stop,MM-0109-CS
+highlevel-brntn-1,excludes-stop,door-brntn-busway
+highlevel-brntn-1,excludes-stop,door-brntn-faregates
+highlevel-brntn-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-brntn-2,excludes-stop,38671
+highlevel-brntn-2,excludes-stop,70105
+highlevel-brntn-2,excludes-stop,Braintree-01
+highlevel-brntn-2,excludes-stop,Braintree-02
+highlevel-brntn-2,excludes-stop,MM-0109-S
+highlevel-brntn-2,excludes-stop,door-brntn-busway
+highlevel-brntn-2,excludes-stop,door-brntn-faregates
+highlevel-brntn-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-forhl-3,excludes-stop,10642
+highlevel-forhl-3,excludes-stop,70001
+highlevel-forhl-3,excludes-stop,875
+highlevel-forhl-3,excludes-stop,Forest Hills-01
+highlevel-forhl-3,excludes-stop,Forest Hills-02
+highlevel-forhl-3,excludes-stop,NEC-2237-05
+highlevel-forhl-3,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-forhl-5,excludes-stop,10642
+highlevel-forhl-5,excludes-stop,70001
+highlevel-forhl-5,excludes-stop,875
+highlevel-forhl-5,excludes-stop,Forest Hills-01
+highlevel-forhl-5,excludes-stop,Forest Hills-02
+highlevel-forhl-5,excludes-stop,NEC-2237-03
+highlevel-forhl-5,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-jfk-1,excludes-stop,121
+highlevel-jfk-1,excludes-stop,70085
+highlevel-jfk-1,excludes-stop,70086
+highlevel-jfk-1,excludes-stop,70095
+highlevel-jfk-1,excludes-stop,70096
+highlevel-jfk-1,excludes-stop,door-jfk-busway
+highlevel-jfk-1,excludes-stop,door-jfk-columbia
+highlevel-jfk-1,excludes-stop,door-jfk-oldcolony
+highlevel-jfk-1,excludes-stop,door-jfk-sydneyn
+highlevel-jfk-1,excludes-stop,door-jfk-sydneys
+highlevel-jfk-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-mlmnl-1,excludes-stop,5072
+highlevel-mlmnl-1,excludes-stop,5327
+highlevel-mlmnl-1,excludes-stop,53270
+highlevel-mlmnl-1,excludes-stop,70034
+highlevel-mlmnl-1,excludes-stop,70035
+highlevel-mlmnl-1,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-north-1,excludes-stop,113
 highlevel-north-1,excludes-stop,114
 highlevel-north-1,excludes-stop,70026
 highlevel-north-1,excludes-stop,70027
 highlevel-north-1,excludes-stop,70205
 highlevel-north-1,excludes-stop,70206
-highlevel-north-1,excludes-stop,BNT-0000
 highlevel-north-1,excludes-stop,BNT-0000-02
 highlevel-north-1,excludes-stop,BNT-0000-03
 highlevel-north-1,excludes-stop,BNT-0000-04
@@ -17383,7 +17517,6 @@ highlevel-north-1,excludes-stop,BNT-0000-07
 highlevel-north-1,excludes-stop,BNT-0000-08
 highlevel-north-1,excludes-stop,BNT-0000-09
 highlevel-north-1,excludes-stop,BNT-0000-10
-highlevel-north-1,excludes-stop,North Station
 highlevel-north-1,excludes-stop,North Station-02
 highlevel-north-1,excludes-stop,North Station-03
 highlevel-north-1,excludes-stop,North Station-04
@@ -17404,7 +17537,6 @@ highlevel-north-10,excludes-stop,70026
 highlevel-north-10,excludes-stop,70027
 highlevel-north-10,excludes-stop,70205
 highlevel-north-10,excludes-stop,70206
-highlevel-north-10,excludes-stop,BNT-0000
 highlevel-north-10,excludes-stop,BNT-0000-01
 highlevel-north-10,excludes-stop,BNT-0000-02
 highlevel-north-10,excludes-stop,BNT-0000-03
@@ -17414,7 +17546,6 @@ highlevel-north-10,excludes-stop,BNT-0000-06
 highlevel-north-10,excludes-stop,BNT-0000-07
 highlevel-north-10,excludes-stop,BNT-0000-08
 highlevel-north-10,excludes-stop,BNT-0000-09
-highlevel-north-10,excludes-stop,North Station
 highlevel-north-10,excludes-stop,North Station-01
 highlevel-north-10,excludes-stop,North Station-02
 highlevel-north-10,excludes-stop,North Station-03
@@ -17435,7 +17566,6 @@ highlevel-north-2,excludes-stop,70026
 highlevel-north-2,excludes-stop,70027
 highlevel-north-2,excludes-stop,70205
 highlevel-north-2,excludes-stop,70206
-highlevel-north-2,excludes-stop,BNT-0000
 highlevel-north-2,excludes-stop,BNT-0000-01
 highlevel-north-2,excludes-stop,BNT-0000-03
 highlevel-north-2,excludes-stop,BNT-0000-04
@@ -17445,7 +17575,6 @@ highlevel-north-2,excludes-stop,BNT-0000-07
 highlevel-north-2,excludes-stop,BNT-0000-08
 highlevel-north-2,excludes-stop,BNT-0000-09
 highlevel-north-2,excludes-stop,BNT-0000-10
-highlevel-north-2,excludes-stop,North Station
 highlevel-north-2,excludes-stop,North Station-01
 highlevel-north-2,excludes-stop,North Station-03
 highlevel-north-2,excludes-stop,North Station-04
@@ -17466,7 +17595,6 @@ highlevel-north-3,excludes-stop,70026
 highlevel-north-3,excludes-stop,70027
 highlevel-north-3,excludes-stop,70205
 highlevel-north-3,excludes-stop,70206
-highlevel-north-3,excludes-stop,BNT-0000
 highlevel-north-3,excludes-stop,BNT-0000-01
 highlevel-north-3,excludes-stop,BNT-0000-02
 highlevel-north-3,excludes-stop,BNT-0000-04
@@ -17476,7 +17604,6 @@ highlevel-north-3,excludes-stop,BNT-0000-07
 highlevel-north-3,excludes-stop,BNT-0000-08
 highlevel-north-3,excludes-stop,BNT-0000-09
 highlevel-north-3,excludes-stop,BNT-0000-10
-highlevel-north-3,excludes-stop,North Station
 highlevel-north-3,excludes-stop,North Station-01
 highlevel-north-3,excludes-stop,North Station-02
 highlevel-north-3,excludes-stop,North Station-04
@@ -17497,7 +17624,6 @@ highlevel-north-4,excludes-stop,70026
 highlevel-north-4,excludes-stop,70027
 highlevel-north-4,excludes-stop,70205
 highlevel-north-4,excludes-stop,70206
-highlevel-north-4,excludes-stop,BNT-0000
 highlevel-north-4,excludes-stop,BNT-0000-01
 highlevel-north-4,excludes-stop,BNT-0000-02
 highlevel-north-4,excludes-stop,BNT-0000-03
@@ -17507,7 +17633,6 @@ highlevel-north-4,excludes-stop,BNT-0000-07
 highlevel-north-4,excludes-stop,BNT-0000-08
 highlevel-north-4,excludes-stop,BNT-0000-09
 highlevel-north-4,excludes-stop,BNT-0000-10
-highlevel-north-4,excludes-stop,North Station
 highlevel-north-4,excludes-stop,North Station-01
 highlevel-north-4,excludes-stop,North Station-02
 highlevel-north-4,excludes-stop,North Station-03
@@ -17528,7 +17653,6 @@ highlevel-north-5,excludes-stop,70026
 highlevel-north-5,excludes-stop,70027
 highlevel-north-5,excludes-stop,70205
 highlevel-north-5,excludes-stop,70206
-highlevel-north-5,excludes-stop,BNT-0000
 highlevel-north-5,excludes-stop,BNT-0000-01
 highlevel-north-5,excludes-stop,BNT-0000-02
 highlevel-north-5,excludes-stop,BNT-0000-03
@@ -17538,7 +17662,6 @@ highlevel-north-5,excludes-stop,BNT-0000-07
 highlevel-north-5,excludes-stop,BNT-0000-08
 highlevel-north-5,excludes-stop,BNT-0000-09
 highlevel-north-5,excludes-stop,BNT-0000-10
-highlevel-north-5,excludes-stop,North Station
 highlevel-north-5,excludes-stop,North Station-01
 highlevel-north-5,excludes-stop,North Station-02
 highlevel-north-5,excludes-stop,North Station-03
@@ -17559,7 +17682,6 @@ highlevel-north-6,excludes-stop,70026
 highlevel-north-6,excludes-stop,70027
 highlevel-north-6,excludes-stop,70205
 highlevel-north-6,excludes-stop,70206
-highlevel-north-6,excludes-stop,BNT-0000
 highlevel-north-6,excludes-stop,BNT-0000-01
 highlevel-north-6,excludes-stop,BNT-0000-02
 highlevel-north-6,excludes-stop,BNT-0000-03
@@ -17569,7 +17691,6 @@ highlevel-north-6,excludes-stop,BNT-0000-07
 highlevel-north-6,excludes-stop,BNT-0000-08
 highlevel-north-6,excludes-stop,BNT-0000-09
 highlevel-north-6,excludes-stop,BNT-0000-10
-highlevel-north-6,excludes-stop,North Station
 highlevel-north-6,excludes-stop,North Station-01
 highlevel-north-6,excludes-stop,North Station-02
 highlevel-north-6,excludes-stop,North Station-03
@@ -17590,7 +17711,6 @@ highlevel-north-7,excludes-stop,70026
 highlevel-north-7,excludes-stop,70027
 highlevel-north-7,excludes-stop,70205
 highlevel-north-7,excludes-stop,70206
-highlevel-north-7,excludes-stop,BNT-0000
 highlevel-north-7,excludes-stop,BNT-0000-01
 highlevel-north-7,excludes-stop,BNT-0000-02
 highlevel-north-7,excludes-stop,BNT-0000-03
@@ -17600,7 +17720,6 @@ highlevel-north-7,excludes-stop,BNT-0000-06
 highlevel-north-7,excludes-stop,BNT-0000-08
 highlevel-north-7,excludes-stop,BNT-0000-09
 highlevel-north-7,excludes-stop,BNT-0000-10
-highlevel-north-7,excludes-stop,North Station
 highlevel-north-7,excludes-stop,North Station-01
 highlevel-north-7,excludes-stop,North Station-02
 highlevel-north-7,excludes-stop,North Station-03
@@ -17621,7 +17740,6 @@ highlevel-north-8,excludes-stop,70026
 highlevel-north-8,excludes-stop,70027
 highlevel-north-8,excludes-stop,70205
 highlevel-north-8,excludes-stop,70206
-highlevel-north-8,excludes-stop,BNT-0000
 highlevel-north-8,excludes-stop,BNT-0000-01
 highlevel-north-8,excludes-stop,BNT-0000-02
 highlevel-north-8,excludes-stop,BNT-0000-03
@@ -17631,7 +17749,6 @@ highlevel-north-8,excludes-stop,BNT-0000-06
 highlevel-north-8,excludes-stop,BNT-0000-07
 highlevel-north-8,excludes-stop,BNT-0000-09
 highlevel-north-8,excludes-stop,BNT-0000-10
-highlevel-north-8,excludes-stop,North Station
 highlevel-north-8,excludes-stop,North Station-01
 highlevel-north-8,excludes-stop,North Station-02
 highlevel-north-8,excludes-stop,North Station-03
@@ -17652,7 +17769,6 @@ highlevel-north-9,excludes-stop,70026
 highlevel-north-9,excludes-stop,70027
 highlevel-north-9,excludes-stop,70205
 highlevel-north-9,excludes-stop,70206
-highlevel-north-9,excludes-stop,BNT-0000
 highlevel-north-9,excludes-stop,BNT-0000-01
 highlevel-north-9,excludes-stop,BNT-0000-02
 highlevel-north-9,excludes-stop,BNT-0000-03
@@ -17662,7 +17778,6 @@ highlevel-north-9,excludes-stop,BNT-0000-06
 highlevel-north-9,excludes-stop,BNT-0000-07
 highlevel-north-9,excludes-stop,BNT-0000-08
 highlevel-north-9,excludes-stop,BNT-0000-10
-highlevel-north-9,excludes-stop,North Station
 highlevel-north-9,excludes-stop,North Station-01
 highlevel-north-9,excludes-stop,North Station-02
 highlevel-north-9,excludes-stop,North Station-03
@@ -17682,36 +17797,22 @@ highlevel-ogmnl,excludes-stop,9328
 highlevel-ogmnl,excludes-stop,Oak Grove-01
 highlevel-ogmnl,excludes-stop,Oak Grove-02
 highlevel-ogmnl,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-qnctr,excludes-stop,32000
-highlevel-qnctr,excludes-stop,32001
-highlevel-qnctr,excludes-stop,32002
-highlevel-qnctr,excludes-stop,32003
-highlevel-qnctr,excludes-stop,32004
-highlevel-qnctr,excludes-stop,32005
-highlevel-qnctr,excludes-stop,70101
-highlevel-qnctr,excludes-stop,70102
-highlevel-qnctr,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-rugg-0,excludes-stop,17861
-highlevel-rugg-0,excludes-stop,17862
-highlevel-rugg-0,excludes-stop,17863
-highlevel-rugg-0,excludes-stop,70010
-highlevel-rugg-0,excludes-stop,70011
-highlevel-rugg-0,excludes-stop,NEC-2265-01
-highlevel-rugg-0,excludes-stop,NEC-2265-02
-highlevel-rugg-0,excludes-stop,NEC-2265-03
-highlevel-rugg-0,excludes-stop,Ruggles-01
-highlevel-rugg-0,excludes-stop,Ruggles-02
-highlevel-rugg-0,excludes-stop,Ruggles-03
-highlevel-rugg-0,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-qnctr-1,excludes-stop,32000
+highlevel-qnctr-1,excludes-stop,32001
+highlevel-qnctr-1,excludes-stop,32002
+highlevel-qnctr-1,excludes-stop,32003
+highlevel-qnctr-1,excludes-stop,32004
+highlevel-qnctr-1,excludes-stop,32005
+highlevel-qnctr-1,excludes-stop,70101
+highlevel-qnctr-1,excludes-stop,70102
+highlevel-qnctr-1,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-rugg-1,excludes-stop,17861
 highlevel-rugg-1,excludes-stop,17862
 highlevel-rugg-1,excludes-stop,17863
 highlevel-rugg-1,excludes-stop,70010
 highlevel-rugg-1,excludes-stop,70011
-highlevel-rugg-1,excludes-stop,NEC-2265
 highlevel-rugg-1,excludes-stop,NEC-2265-02
 highlevel-rugg-1,excludes-stop,NEC-2265-03
-highlevel-rugg-1,excludes-stop,Ruggles
 highlevel-rugg-1,excludes-stop,Ruggles-02
 highlevel-rugg-1,excludes-stop,Ruggles-03
 highlevel-rugg-1,note,Full high level platform is available to provide level boarding to every car in a train set
@@ -17720,10 +17821,8 @@ highlevel-rugg-2,excludes-stop,17862
 highlevel-rugg-2,excludes-stop,17863
 highlevel-rugg-2,excludes-stop,70010
 highlevel-rugg-2,excludes-stop,70011
-highlevel-rugg-2,excludes-stop,NEC-2265
 highlevel-rugg-2,excludes-stop,NEC-2265-01
 highlevel-rugg-2,excludes-stop,NEC-2265-03
-highlevel-rugg-2,excludes-stop,Ruggles
 highlevel-rugg-2,excludes-stop,Ruggles-01
 highlevel-rugg-2,excludes-stop,Ruggles-03
 highlevel-rugg-2,note,Full high level platform is available to provide level boarding to every car in a train set
@@ -17732,49 +17831,15 @@ highlevel-rugg-3,excludes-stop,17862
 highlevel-rugg-3,excludes-stop,17863
 highlevel-rugg-3,excludes-stop,70010
 highlevel-rugg-3,excludes-stop,70011
-highlevel-rugg-3,excludes-stop,NEC-2265
 highlevel-rugg-3,excludes-stop,NEC-2265-01
 highlevel-rugg-3,excludes-stop,NEC-2265-02
-highlevel-rugg-3,excludes-stop,Ruggles
 highlevel-rugg-3,excludes-stop,Ruggles-01
 highlevel-rugg-3,excludes-stop,Ruggles-02
 highlevel-rugg-3,note,Full high level platform is available to provide level boarding to every car in a train set
-highlevel-sstat-0,excludes-stop,70079
-highlevel-sstat-0,excludes-stop,70080
-highlevel-sstat-0,excludes-stop,74611
-highlevel-sstat-0,excludes-stop,74617
-highlevel-sstat-0,excludes-stop,NEC-2287-01
-highlevel-sstat-0,excludes-stop,NEC-2287-02
-highlevel-sstat-0,excludes-stop,NEC-2287-03
-highlevel-sstat-0,excludes-stop,NEC-2287-04
-highlevel-sstat-0,excludes-stop,NEC-2287-05
-highlevel-sstat-0,excludes-stop,NEC-2287-06
-highlevel-sstat-0,excludes-stop,NEC-2287-07
-highlevel-sstat-0,excludes-stop,NEC-2287-08
-highlevel-sstat-0,excludes-stop,NEC-2287-09
-highlevel-sstat-0,excludes-stop,NEC-2287-10
-highlevel-sstat-0,excludes-stop,NEC-2287-11
-highlevel-sstat-0,excludes-stop,NEC-2287-12
-highlevel-sstat-0,excludes-stop,NEC-2287-13
-highlevel-sstat-0,excludes-stop,South Station-01
-highlevel-sstat-0,excludes-stop,South Station-02
-highlevel-sstat-0,excludes-stop,South Station-03
-highlevel-sstat-0,excludes-stop,South Station-04
-highlevel-sstat-0,excludes-stop,South Station-05
-highlevel-sstat-0,excludes-stop,South Station-06
-highlevel-sstat-0,excludes-stop,South Station-07
-highlevel-sstat-0,excludes-stop,South Station-08
-highlevel-sstat-0,excludes-stop,South Station-09
-highlevel-sstat-0,excludes-stop,South Station-10
-highlevel-sstat-0,excludes-stop,South Station-11
-highlevel-sstat-0,excludes-stop,South Station-12
-highlevel-sstat-0,excludes-stop,South Station-13
-highlevel-sstat-0,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-sstat-1,excludes-stop,70079
 highlevel-sstat-1,excludes-stop,70080
 highlevel-sstat-1,excludes-stop,74611
 highlevel-sstat-1,excludes-stop,74617
-highlevel-sstat-1,excludes-stop,NEC-2287
 highlevel-sstat-1,excludes-stop,NEC-2287-02
 highlevel-sstat-1,excludes-stop,NEC-2287-03
 highlevel-sstat-1,excludes-stop,NEC-2287-04
@@ -17787,7 +17852,6 @@ highlevel-sstat-1,excludes-stop,NEC-2287-10
 highlevel-sstat-1,excludes-stop,NEC-2287-11
 highlevel-sstat-1,excludes-stop,NEC-2287-12
 highlevel-sstat-1,excludes-stop,NEC-2287-13
-highlevel-sstat-1,excludes-stop,South Station
 highlevel-sstat-1,excludes-stop,South Station-02
 highlevel-sstat-1,excludes-stop,South Station-03
 highlevel-sstat-1,excludes-stop,South Station-04
@@ -17805,7 +17869,6 @@ highlevel-sstat-10,excludes-stop,70079
 highlevel-sstat-10,excludes-stop,70080
 highlevel-sstat-10,excludes-stop,74611
 highlevel-sstat-10,excludes-stop,74617
-highlevel-sstat-10,excludes-stop,NEC-2287
 highlevel-sstat-10,excludes-stop,NEC-2287-01
 highlevel-sstat-10,excludes-stop,NEC-2287-02
 highlevel-sstat-10,excludes-stop,NEC-2287-03
@@ -17818,7 +17881,6 @@ highlevel-sstat-10,excludes-stop,NEC-2287-09
 highlevel-sstat-10,excludes-stop,NEC-2287-11
 highlevel-sstat-10,excludes-stop,NEC-2287-12
 highlevel-sstat-10,excludes-stop,NEC-2287-13
-highlevel-sstat-10,excludes-stop,South Station
 highlevel-sstat-10,excludes-stop,South Station-01
 highlevel-sstat-10,excludes-stop,South Station-02
 highlevel-sstat-10,excludes-stop,South Station-03
@@ -17836,7 +17898,6 @@ highlevel-sstat-11,excludes-stop,70079
 highlevel-sstat-11,excludes-stop,70080
 highlevel-sstat-11,excludes-stop,74611
 highlevel-sstat-11,excludes-stop,74617
-highlevel-sstat-11,excludes-stop,NEC-2287
 highlevel-sstat-11,excludes-stop,NEC-2287-01
 highlevel-sstat-11,excludes-stop,NEC-2287-02
 highlevel-sstat-11,excludes-stop,NEC-2287-03
@@ -17849,7 +17910,6 @@ highlevel-sstat-11,excludes-stop,NEC-2287-09
 highlevel-sstat-11,excludes-stop,NEC-2287-10
 highlevel-sstat-11,excludes-stop,NEC-2287-12
 highlevel-sstat-11,excludes-stop,NEC-2287-13
-highlevel-sstat-11,excludes-stop,South Station
 highlevel-sstat-11,excludes-stop,South Station-01
 highlevel-sstat-11,excludes-stop,South Station-02
 highlevel-sstat-11,excludes-stop,South Station-03
@@ -17867,7 +17927,6 @@ highlevel-sstat-12,excludes-stop,70079
 highlevel-sstat-12,excludes-stop,70080
 highlevel-sstat-12,excludes-stop,74611
 highlevel-sstat-12,excludes-stop,74617
-highlevel-sstat-12,excludes-stop,NEC-2287
 highlevel-sstat-12,excludes-stop,NEC-2287-01
 highlevel-sstat-12,excludes-stop,NEC-2287-02
 highlevel-sstat-12,excludes-stop,NEC-2287-03
@@ -17880,7 +17939,6 @@ highlevel-sstat-12,excludes-stop,NEC-2287-09
 highlevel-sstat-12,excludes-stop,NEC-2287-10
 highlevel-sstat-12,excludes-stop,NEC-2287-11
 highlevel-sstat-12,excludes-stop,NEC-2287-13
-highlevel-sstat-12,excludes-stop,South Station
 highlevel-sstat-12,excludes-stop,South Station-01
 highlevel-sstat-12,excludes-stop,South Station-02
 highlevel-sstat-12,excludes-stop,South Station-03
@@ -17898,7 +17956,6 @@ highlevel-sstat-13,excludes-stop,70079
 highlevel-sstat-13,excludes-stop,70080
 highlevel-sstat-13,excludes-stop,74611
 highlevel-sstat-13,excludes-stop,74617
-highlevel-sstat-13,excludes-stop,NEC-2287
 highlevel-sstat-13,excludes-stop,NEC-2287-01
 highlevel-sstat-13,excludes-stop,NEC-2287-02
 highlevel-sstat-13,excludes-stop,NEC-2287-03
@@ -17911,7 +17968,6 @@ highlevel-sstat-13,excludes-stop,NEC-2287-09
 highlevel-sstat-13,excludes-stop,NEC-2287-10
 highlevel-sstat-13,excludes-stop,NEC-2287-11
 highlevel-sstat-13,excludes-stop,NEC-2287-12
-highlevel-sstat-13,excludes-stop,South Station
 highlevel-sstat-13,excludes-stop,South Station-01
 highlevel-sstat-13,excludes-stop,South Station-02
 highlevel-sstat-13,excludes-stop,South Station-03
@@ -17929,7 +17985,6 @@ highlevel-sstat-2,excludes-stop,70079
 highlevel-sstat-2,excludes-stop,70080
 highlevel-sstat-2,excludes-stop,74611
 highlevel-sstat-2,excludes-stop,74617
-highlevel-sstat-2,excludes-stop,NEC-2287
 highlevel-sstat-2,excludes-stop,NEC-2287-01
 highlevel-sstat-2,excludes-stop,NEC-2287-03
 highlevel-sstat-2,excludes-stop,NEC-2287-04
@@ -17942,7 +17997,6 @@ highlevel-sstat-2,excludes-stop,NEC-2287-10
 highlevel-sstat-2,excludes-stop,NEC-2287-11
 highlevel-sstat-2,excludes-stop,NEC-2287-12
 highlevel-sstat-2,excludes-stop,NEC-2287-13
-highlevel-sstat-2,excludes-stop,South Station
 highlevel-sstat-2,excludes-stop,South Station-01
 highlevel-sstat-2,excludes-stop,South Station-03
 highlevel-sstat-2,excludes-stop,South Station-04
@@ -17960,7 +18014,6 @@ highlevel-sstat-3,excludes-stop,70079
 highlevel-sstat-3,excludes-stop,70080
 highlevel-sstat-3,excludes-stop,74611
 highlevel-sstat-3,excludes-stop,74617
-highlevel-sstat-3,excludes-stop,NEC-2287
 highlevel-sstat-3,excludes-stop,NEC-2287-01
 highlevel-sstat-3,excludes-stop,NEC-2287-02
 highlevel-sstat-3,excludes-stop,NEC-2287-04
@@ -17973,7 +18026,6 @@ highlevel-sstat-3,excludes-stop,NEC-2287-10
 highlevel-sstat-3,excludes-stop,NEC-2287-11
 highlevel-sstat-3,excludes-stop,NEC-2287-12
 highlevel-sstat-3,excludes-stop,NEC-2287-13
-highlevel-sstat-3,excludes-stop,South Station
 highlevel-sstat-3,excludes-stop,South Station-01
 highlevel-sstat-3,excludes-stop,South Station-02
 highlevel-sstat-3,excludes-stop,South Station-04
@@ -17991,7 +18043,6 @@ highlevel-sstat-4,excludes-stop,70079
 highlevel-sstat-4,excludes-stop,70080
 highlevel-sstat-4,excludes-stop,74611
 highlevel-sstat-4,excludes-stop,74617
-highlevel-sstat-4,excludes-stop,NEC-2287
 highlevel-sstat-4,excludes-stop,NEC-2287-01
 highlevel-sstat-4,excludes-stop,NEC-2287-02
 highlevel-sstat-4,excludes-stop,NEC-2287-03
@@ -18004,7 +18055,6 @@ highlevel-sstat-4,excludes-stop,NEC-2287-10
 highlevel-sstat-4,excludes-stop,NEC-2287-11
 highlevel-sstat-4,excludes-stop,NEC-2287-12
 highlevel-sstat-4,excludes-stop,NEC-2287-13
-highlevel-sstat-4,excludes-stop,South Station
 highlevel-sstat-4,excludes-stop,South Station-01
 highlevel-sstat-4,excludes-stop,South Station-02
 highlevel-sstat-4,excludes-stop,South Station-03
@@ -18022,7 +18072,6 @@ highlevel-sstat-5,excludes-stop,70079
 highlevel-sstat-5,excludes-stop,70080
 highlevel-sstat-5,excludes-stop,74611
 highlevel-sstat-5,excludes-stop,74617
-highlevel-sstat-5,excludes-stop,NEC-2287
 highlevel-sstat-5,excludes-stop,NEC-2287-01
 highlevel-sstat-5,excludes-stop,NEC-2287-02
 highlevel-sstat-5,excludes-stop,NEC-2287-03
@@ -18035,7 +18084,6 @@ highlevel-sstat-5,excludes-stop,NEC-2287-10
 highlevel-sstat-5,excludes-stop,NEC-2287-11
 highlevel-sstat-5,excludes-stop,NEC-2287-12
 highlevel-sstat-5,excludes-stop,NEC-2287-13
-highlevel-sstat-5,excludes-stop,South Station
 highlevel-sstat-5,excludes-stop,South Station-01
 highlevel-sstat-5,excludes-stop,South Station-02
 highlevel-sstat-5,excludes-stop,South Station-03
@@ -18053,7 +18101,6 @@ highlevel-sstat-6,excludes-stop,70079
 highlevel-sstat-6,excludes-stop,70080
 highlevel-sstat-6,excludes-stop,74611
 highlevel-sstat-6,excludes-stop,74617
-highlevel-sstat-6,excludes-stop,NEC-2287
 highlevel-sstat-6,excludes-stop,NEC-2287-01
 highlevel-sstat-6,excludes-stop,NEC-2287-02
 highlevel-sstat-6,excludes-stop,NEC-2287-03
@@ -18066,7 +18113,6 @@ highlevel-sstat-6,excludes-stop,NEC-2287-10
 highlevel-sstat-6,excludes-stop,NEC-2287-11
 highlevel-sstat-6,excludes-stop,NEC-2287-12
 highlevel-sstat-6,excludes-stop,NEC-2287-13
-highlevel-sstat-6,excludes-stop,South Station
 highlevel-sstat-6,excludes-stop,South Station-01
 highlevel-sstat-6,excludes-stop,South Station-02
 highlevel-sstat-6,excludes-stop,South Station-03
@@ -18084,7 +18130,6 @@ highlevel-sstat-7,excludes-stop,70079
 highlevel-sstat-7,excludes-stop,70080
 highlevel-sstat-7,excludes-stop,74611
 highlevel-sstat-7,excludes-stop,74617
-highlevel-sstat-7,excludes-stop,NEC-2287
 highlevel-sstat-7,excludes-stop,NEC-2287-01
 highlevel-sstat-7,excludes-stop,NEC-2287-02
 highlevel-sstat-7,excludes-stop,NEC-2287-03
@@ -18097,7 +18142,6 @@ highlevel-sstat-7,excludes-stop,NEC-2287-10
 highlevel-sstat-7,excludes-stop,NEC-2287-11
 highlevel-sstat-7,excludes-stop,NEC-2287-12
 highlevel-sstat-7,excludes-stop,NEC-2287-13
-highlevel-sstat-7,excludes-stop,South Station
 highlevel-sstat-7,excludes-stop,South Station-01
 highlevel-sstat-7,excludes-stop,South Station-02
 highlevel-sstat-7,excludes-stop,South Station-03
@@ -18115,7 +18159,6 @@ highlevel-sstat-8,excludes-stop,70079
 highlevel-sstat-8,excludes-stop,70080
 highlevel-sstat-8,excludes-stop,74611
 highlevel-sstat-8,excludes-stop,74617
-highlevel-sstat-8,excludes-stop,NEC-2287
 highlevel-sstat-8,excludes-stop,NEC-2287-01
 highlevel-sstat-8,excludes-stop,NEC-2287-02
 highlevel-sstat-8,excludes-stop,NEC-2287-03
@@ -18128,7 +18171,6 @@ highlevel-sstat-8,excludes-stop,NEC-2287-10
 highlevel-sstat-8,excludes-stop,NEC-2287-11
 highlevel-sstat-8,excludes-stop,NEC-2287-12
 highlevel-sstat-8,excludes-stop,NEC-2287-13
-highlevel-sstat-8,excludes-stop,South Station
 highlevel-sstat-8,excludes-stop,South Station-01
 highlevel-sstat-8,excludes-stop,South Station-02
 highlevel-sstat-8,excludes-stop,South Station-03
@@ -18146,7 +18188,6 @@ highlevel-sstat-9,excludes-stop,70079
 highlevel-sstat-9,excludes-stop,70080
 highlevel-sstat-9,excludes-stop,74611
 highlevel-sstat-9,excludes-stop,74617
-highlevel-sstat-9,excludes-stop,NEC-2287
 highlevel-sstat-9,excludes-stop,NEC-2287-01
 highlevel-sstat-9,excludes-stop,NEC-2287-02
 highlevel-sstat-9,excludes-stop,NEC-2287-03
@@ -18159,7 +18200,6 @@ highlevel-sstat-9,excludes-stop,NEC-2287-10
 highlevel-sstat-9,excludes-stop,NEC-2287-11
 highlevel-sstat-9,excludes-stop,NEC-2287-12
 highlevel-sstat-9,excludes-stop,NEC-2287-13
-highlevel-sstat-9,excludes-stop,South Station
 highlevel-sstat-9,excludes-stop,South Station-01
 highlevel-sstat-9,excludes-stop,South Station-02
 highlevel-sstat-9,excludes-stop,South Station-03
@@ -21088,10 +21128,14 @@ portlift-lngmd-1,note,"Significant barriers exist at station, but customers may 
 portlift-mfa,excludes-stop,70245
 portlift-mfa,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newtn-0,excludes-stop,70169
+portlift-newtn-0,excludes-stop,8155
+portlift-newtn-0,excludes-stop,8203
 portlift-newtn-0,excludes-stop,9170168
 portlift-newtn-0,excludes-stop,9170169
 portlift-newtn-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newtn-1,excludes-stop,70168
+portlift-newtn-1,excludes-stop,8155
+portlift-newtn-1,excludes-stop,8203
 portlift-newtn-1,excludes-stop,9170168
 portlift-newtn-1,excludes-stop,9170169
 portlift-newtn-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
@@ -21706,12 +21750,6 @@ retailsale-302177,dispenses,fare-media
 retailsale-302177,enclosed,1
 retailsale-302177,payment-form-accepted,cash
 retailsale-302177,payment-form-accepted,credit-debit-card
-retailsale-302182,address,"169 Spring St, Bridgewater, MA 02324"
-retailsale-302182,contact-phone,508-697-8425
-retailsale-302182,dispenses,fare-media
-retailsale-302182,enclosed,1
-retailsale-302182,payment-form-accepted,cash
-retailsale-302182,payment-form-accepted,credit-debit-card
 retailsale-302183,address,"12 Monponsett St, Hanson, MA 02341"
 retailsale-302183,contact-phone,781-293-3529
 retailsale-302183,dispenses,fare-media
@@ -22019,74 +22057,205 @@ retailsale-303052,enclosed,1
 retailsale-303052,payment-form-accepted,cash
 retailsale-303052,payment-form-accepted,credit-debit-card
 subplat-25,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-DB-0095,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-DB-2205,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-ER-0128,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-ER-0183,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-ER-0208,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-ER-0227,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-FB-0118,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-FB-0143,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-FB-0148,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-FB-0230,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-FB-0303,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-FR-0098,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-FR-0115,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-FR-0219,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-FR-0451,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-FR-0494,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-FS-0049,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-GB-0198,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-GB-0229,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-GB-0254,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-GB-0296,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-GB-0316,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-GB-0353,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NB-0064,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NB-0072,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NB-0076,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NB-0080,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NB-0109,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NB-0120,excludes-stop,91852
-subplat-NB-0120,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NB-0127,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NB-0137,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NEC-1919,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NEC-1969,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NEC-2040,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NEC-2108,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NEC-2139,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NEC-2203,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NHRML-0073,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NHRML-0116,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NHRML-0152,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-NHRML-0218,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-SB-0156,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-SB-0189,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-WML-0199,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-WML-0214,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-WML-0252,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-WML-0274,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-WML-0340,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-WML-0364,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-WML-0442,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-WR-0075,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-WR-0120,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-WR-0205,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-WR-0228,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-WR-0325,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-WR-0329,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-DB-0095-2,excludes-stop,FB-0095-04
+subplat-DB-0095-2,excludes-stop,FB-0095-05
+subplat-DB-0095-2,excludes-stop,NEC-2192-03
+subplat-DB-0095-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-DB-0095-3,excludes-stop,FB-0095-04
+subplat-DB-0095-3,excludes-stop,FB-0095-05
+subplat-DB-0095-3,excludes-stop,NEC-2192-02
+subplat-DB-0095-3,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-DB-0095-4,excludes-stop,FB-0095-05
+subplat-DB-0095-4,excludes-stop,NEC-2192-02
+subplat-DB-0095-4,excludes-stop,NEC-2192-03
+subplat-DB-0095-4,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-DB-0095-5,excludes-stop,FB-0095-04
+subplat-DB-0095-5,excludes-stop,NEC-2192-02
+subplat-DB-0095-5,excludes-stop,NEC-2192-03
+subplat-DB-0095-5,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-DB-2205-1,excludes-stop,DB-2205-02
+subplat-DB-2205-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-DB-2205-2,excludes-stop,DB-2205-01
+subplat-DB-2205-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-ER-0128-1,excludes-stop,ER-0128-02
+subplat-ER-0128-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-ER-0128-2,excludes-stop,ER-0128-01
+subplat-ER-0128-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-ER-0183-1,excludes-stop,ER-0183-02
+subplat-ER-0183-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-ER-0183-2,excludes-stop,ER-0183-01
+subplat-ER-0183-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-ER-0208-1,excludes-stop,ER-0208-02
+subplat-ER-0208-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-ER-0208-2,excludes-stop,ER-0208-01
+subplat-ER-0208-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-ER-0227-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FB-0118-1,excludes-stop,FB-0118-02
+subplat-FB-0118-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FB-0118-2,excludes-stop,FB-0118-01
+subplat-FB-0118-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FB-0143-1,excludes-stop,FB-0143-02
+subplat-FB-0143-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FB-0143-2,excludes-stop,FB-0143-01
+subplat-FB-0143-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FB-0148-1,excludes-stop,FB-0148-02
+subplat-FB-0148-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FB-0148-2,excludes-stop,FB-0148-01
+subplat-FB-0148-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FB-0230-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FB-0303-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FR-0098-1,excludes-stop,86944
+subplat-FR-0098-1,excludes-stop,88333
+subplat-FR-0098-1,excludes-stop,FR-0098-S
+subplat-FR-0098-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FR-0098-2,excludes-stop,86944
+subplat-FR-0098-2,excludes-stop,88333
+subplat-FR-0098-2,excludes-stop,FR-0098-01
+subplat-FR-0098-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FR-0115-1,excludes-stop,FR-0115-02
+subplat-FR-0115-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FR-0115-2,excludes-stop,FR-0115-01
+subplat-FR-0115-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FR-0219-1,excludes-stop,FR-0219-02
+subplat-FR-0219-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FR-0219-2,excludes-stop,FR-0219-01
+subplat-FR-0219-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FR-0451-1,excludes-stop,FR-0451-02
+subplat-FR-0451-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FR-0451-2,excludes-stop,FR-0451-01
+subplat-FR-0451-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FR-0494-3,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-FS-0049-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-GB-0198-1,excludes-stop,GB-0198-02
+subplat-GB-0198-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-GB-0198-2,excludes-stop,GB-0198-01
+subplat-GB-0198-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-GB-0229-1,excludes-stop,GB-0229-02
+subplat-GB-0229-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-GB-0229-2,excludes-stop,GB-0229-01
+subplat-GB-0229-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-GB-0254-1,excludes-stop,GB-0254-02
+subplat-GB-0254-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-GB-0254-2,excludes-stop,GB-0254-01
+subplat-GB-0254-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-GB-0296-1,excludes-stop,GB-0296-02
+subplat-GB-0296-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-GB-0296-2,excludes-stop,GB-0296-01
+subplat-GB-0296-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-GB-0316-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-GB-0353-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NB-0064-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NB-0072-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NB-0076-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NB-0080-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NB-0109-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NB-0120-1,excludes-stop,91852
+subplat-NB-0120-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NB-0127-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NB-0137-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-1919-1,excludes-stop,NEC-1919-02
+subplat-NEC-1919-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-1919-2,excludes-stop,NEC-1919-01
+subplat-NEC-1919-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-1969-3,excludes-stop,NEC-1969-04
+subplat-NEC-1969-3,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-1969-4,excludes-stop,NEC-1969-03
+subplat-NEC-1969-4,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-2040-1,excludes-stop,NEC-2040-02
+subplat-NEC-2040-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-2040-2,excludes-stop,NEC-2040-01
+subplat-NEC-2040-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-2108-1,excludes-stop,NEC-2108-02
+subplat-NEC-2108-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-2108-2,excludes-stop,NEC-2108-01
+subplat-NEC-2108-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-2139-1,excludes-stop,NEC-2139-02
+subplat-NEC-2139-1,excludes-stop,SB-0150-04
+subplat-NEC-2139-1,excludes-stop,SB-0150-06
+subplat-NEC-2139-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-2139-2,excludes-stop,NEC-2139-01
+subplat-NEC-2139-2,excludes-stop,SB-0150-04
+subplat-NEC-2139-2,excludes-stop,SB-0150-06
+subplat-NEC-2139-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-2139-4,excludes-stop,NEC-2139-01
+subplat-NEC-2139-4,excludes-stop,NEC-2139-02
+subplat-NEC-2139-4,excludes-stop,SB-0150-06
+subplat-NEC-2139-4,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-2139-6,excludes-stop,NEC-2139-01
+subplat-NEC-2139-6,excludes-stop,NEC-2139-02
+subplat-NEC-2139-6,excludes-stop,SB-0150-04
+subplat-NEC-2139-6,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-2203-2,excludes-stop,NEC-2203-03
+subplat-NEC-2203-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NEC-2203-3,excludes-stop,NEC-2203-02
+subplat-NEC-2203-3,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NHRML-0073-1,excludes-stop,NHRML-0073-02
+subplat-NHRML-0073-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NHRML-0073-2,excludes-stop,NHRML-0073-01
+subplat-NHRML-0073-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NHRML-0116-1,excludes-stop,NHRML-0116-02
+subplat-NHRML-0116-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NHRML-0116-2,excludes-stop,NHRML-0116-01
+subplat-NHRML-0116-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NHRML-0152-1,excludes-stop,NHRML-0152-02
+subplat-NHRML-0152-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NHRML-0152-2,excludes-stop,NHRML-0152-01
+subplat-NHRML-0152-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NHRML-0218-1,excludes-stop,NHRML-0218-02
+subplat-NHRML-0218-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-NHRML-0218-2,excludes-stop,NHRML-0218-01
+subplat-NHRML-0218-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-SB-0156-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-SB-0189-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WML-0199-1,excludes-stop,WML-0199-02
+subplat-WML-0199-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WML-0199-2,excludes-stop,WML-0199-01
+subplat-WML-0199-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WML-0214-1,excludes-stop,WML-0214-02
+subplat-WML-0214-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WML-0214-2,excludes-stop,WML-0214-01
+subplat-WML-0214-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WML-0252-1,excludes-stop,WML-0252-02
+subplat-WML-0252-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WML-0252-2,excludes-stop,WML-0252-01
+subplat-WML-0252-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WML-0274-1,excludes-stop,WML-0274-02
+subplat-WML-0274-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WML-0274-2,excludes-stop,WML-0274-01
+subplat-WML-0274-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WML-0340-1,excludes-stop,WML-0340-02
+subplat-WML-0340-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WML-0340-2,excludes-stop,WML-0340-01
+subplat-WML-0340-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WML-0364-1,excludes-stop,WML-0364-02
+subplat-WML-0364-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WML-0364-2,excludes-stop,WML-0364-01
+subplat-WML-0364-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WML-0442-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WR-0075-1,excludes-stop,WR-0075-02
+subplat-WR-0075-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WR-0075-2,excludes-stop,WR-0075-01
+subplat-WR-0075-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WR-0120-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WR-0205-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WR-0228-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WR-0325-1,excludes-stop,WR-0325-02
+subplat-WR-0325-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WR-0325-2,excludes-stop,WR-0325-01
+subplat-WR-0325-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WR-0329-1,excludes-stop,WR-0329-02
+subplat-WR-0329-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-WR-0329-2,excludes-stop,WR-0329-01
+subplat-WR-0329-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-bbsta-5,excludes-stop,11384
 subplat-bbsta-5,excludes-stop,176
 subplat-bbsta-5,excludes-stop,23391
 subplat-bbsta-5,excludes-stop,70014
 subplat-bbsta-5,excludes-stop,70015
-subplat-bbsta-5,excludes-stop,Back Bay
 subplat-bbsta-5,excludes-stop,Back Bay-01
 subplat-bbsta-5,excludes-stop,Back Bay-02
 subplat-bbsta-5,excludes-stop,Back Bay-03
 subplat-bbsta-5,excludes-stop,Back Bay-07
-subplat-bbsta-5,excludes-stop,NEC-2276
 subplat-bbsta-5,excludes-stop,NEC-2276-01
 subplat-bbsta-5,excludes-stop,NEC-2276-02
 subplat-bbsta-5,excludes-stop,NEC-2276-03
@@ -22097,12 +22266,10 @@ subplat-bbsta-7,excludes-stop,176
 subplat-bbsta-7,excludes-stop,23391
 subplat-bbsta-7,excludes-stop,70014
 subplat-bbsta-7,excludes-stop,70015
-subplat-bbsta-7,excludes-stop,Back Bay
 subplat-bbsta-7,excludes-stop,Back Bay-01
 subplat-bbsta-7,excludes-stop,Back Bay-02
 subplat-bbsta-7,excludes-stop,Back Bay-03
 subplat-bbsta-7,excludes-stop,Back Bay-05
-subplat-bbsta-7,excludes-stop,NEC-2276
 subplat-bbsta-7,excludes-stop,NEC-2276-01
 subplat-bbsta-7,excludes-stop,NEC-2276-02
 subplat-bbsta-7,excludes-stop,NEC-2276-03
@@ -22158,11 +22325,18 @@ subplat-newto,excludes-stop,9070171
 subplat-newto,excludes-stop,9170170
 subplat-newto,excludes-stop,9170171
 subplat-newto,note,Mini high level platform is available to provide level boarding to certain cars in a train set
-subplat-portr,excludes-stop,23151
-subplat-portr,excludes-stop,2430
-subplat-portr,excludes-stop,70065
-subplat-portr,excludes-stop,70066
-subplat-portr,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-portr-1,excludes-stop,23151
+subplat-portr-1,excludes-stop,2430
+subplat-portr-1,excludes-stop,70065
+subplat-portr-1,excludes-stop,70066
+subplat-portr-1,excludes-stop,FR-0034-02
+subplat-portr-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
+subplat-portr-2,excludes-stop,23151
+subplat-portr-2,excludes-stop,2430
+subplat-portr-2,excludes-stop,70065
+subplat-portr-2,excludes-stop,70066
+subplat-portr-2,excludes-stop,FR-0034-01
+subplat-portr-2,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-smary,excludes-stop,70212
 subplat-smary,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-spmnl-0,note,Mini high level platform is available to provide level boarding to certain cars in a train set
