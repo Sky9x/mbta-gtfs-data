@@ -210,6 +210,7 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 725,725,1,elevator,place-WML-0035,Arthur Street to pedestrian bridge,Boston Landing Elevator 725 (Arthur Street to pedestrian bridge),,,,1
 726,726,1,elevator,place-WML-0035,Platform to Arthur Street pedestrian bridge,Boston Landing Elevator 726 (Platform to Arthur Street pedestrian bridge),,,,1
 727,727,1,elevator,place-WML-0035,Platform to Everett Street,Boston Landing Elevator 727 (Platform to Everett Street),,,,1
+728,728,1,elevator,place-rugg,Lobby to lower busway center platform,Ruggles Elevator 728 (Lobby to lower busway center platform),,,,1
 731,731,1,elevator,place-north,Passageway to Causeway Street,North Station Elevator 731 (Passageway to Causeway Street),,,,1
 732,732,1,elevator,place-north,"Passageway to Commuter Rail, TD Garden","North Station Elevator 732 (Passageway to Commuter Rail, TD Garden)",,,,1
 733,733,1,elevator,place-wlsta,Parking lot lobby to pedestrian bridge,Wollaston Elevator 733 (Parking lot lobby to pedestrian bridge),,,,1
@@ -245,7 +246,7 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 845,845,1,elevator,place-sbmnl,Platform to paid lobby,Stony Brook Elevator 845 (Platform to paid lobby),,,,1
 846,846,1,elevator,place-jaksn,Platform to paid lobby,Jackson Square Elevator 846 (Platform to paid lobby),,,,1
 847,847,1,elevator,place-rcmnl,Platform to paid lobby,Roxbury Crossing Elevator 847 (Platform to paid lobby),,,,1
-848,848,1,elevator,place-rugg,Lobby to lower busway center island,Ruggles Elevator 848 (Lobby to lower busway center island),,,,1
+848,848,1,elevator,place-rugg,Lobby to lower busway side platform,Ruggles Elevator 848 (Lobby to lower busway side platform),,,,1
 849,849,1,elevator,place-rugg,Commuter Rail platform to upper lobby,Ruggles Elevator 849 (Commuter Rail platform to upper lobby),,,,1
 850,850,1,elevator,place-rugg,Orange Line platform to upper lobby,Ruggles Elevator 850 (Orange Line platform to upper lobby),,,,1
 851,851,1,elevator,place-rugg,Forsyth Street to upper lobby,Ruggles Elevator 851 (Forsyth Street to upper lobby),,,,1
@@ -1108,57 +1109,78 @@ fvm-208002,,4,fare-vending-machine,place-gover,Fare vending machine 208002,Gover
 fvm-208003,,4,fare-vending-machine,place-wlsta,Fare vending machine 208003,Wollaston fare vending machine 208003,,,,0
 fvm-208004,,4,fare-vending-machine,place-wlsta,Fare vending machine 208004,Wollaston fare vending machine 208004,,,,0
 fvm-208005,,4,fare-vending-machine,place-wlsta,Fare vending machine 208005,Wollaston fare vending machine 208005,,,,0
-highlevel-DB-2222,,2,fully-elevated-platform,place-DB-2222,High-level platform,Blue Hill Avenue high-level platform,,,,1
-highlevel-DB-2230,,2,fully-elevated-platform,place-DB-2230,High-level platform,Morton Street high-level platform,,,,1
-highlevel-DB-2240,,2,fully-elevated-platform,place-DB-2240,High-level platform,Talbot Avenue high-level platform,,,,1
-highlevel-DB-2249,,2,fully-elevated-platform,place-DB-2249,High-level platform,Four Corners/Geneva high-level platform,,,,1
-highlevel-DB-2258,,2,fully-elevated-platform,place-DB-2258,High-level platform,Uphams Corner high-level platform,,,,1
-highlevel-DB-2265,,2,fully-elevated-platform,place-DB-2265,High-level platform,Newmarket high-level platform,,,,1
-highlevel-ER-0115,,2,fully-elevated-platform,place-ER-0115,High-level platform,Lynn high-level platform,,,,1
-highlevel-ER-0168,,2,fully-elevated-platform,place-ER-0168,High-level platform,Salem high-level platform,,,,1
-highlevel-ER-0312,,2,fully-elevated-platform,place-ER-0312,High-level platform,Rowley high-level platform,,,,1
-highlevel-ER-0362,,2,fully-elevated-platform,place-ER-0362,High-level platform,Newburyport high-level platform,,,,1
-highlevel-FR-0253,,2,fully-elevated-platform,place-FR-0253,High-level platform,South Acton high-level platform,,,,1
-highlevel-FR-0301,,2,fully-elevated-platform,place-FR-0301,High-level platform,Littleton/Route 495 high-level platform,,,,1
-highlevel-FR-3338,,2,fully-elevated-platform,place-FR-3338,High-level platform,Wachusett high-level platform,,,,1
-highlevel-GRB-0118,,2,fully-elevated-platform,place-GRB-0118,High-level platform,Weymouth Landing/East Braintree high-level platform,,,,1
-highlevel-GRB-0146,,2,fully-elevated-platform,place-GRB-0146,High-level platform,East Weymouth high-level platform,,,,1
-highlevel-GRB-0162,,2,fully-elevated-platform,place-GRB-0162,High-level platform,West Hingham high-level platform,,,,1
-highlevel-GRB-0183,,2,fully-elevated-platform,place-GRB-0183,High-level platform,Nantasket Junction high-level platform,,,,1
-highlevel-GRB-0199,,2,fully-elevated-platform,place-GRB-0199,High-level platform,Cohasset high-level platform,,,,1
-highlevel-GRB-0233,,2,fully-elevated-platform,place-GRB-0233,High-level platform,North Scituate high-level platform,,,,1
-highlevel-GRB-0276,,2,fully-elevated-platform,place-GRB-0276,High-level platform,Greenbush high-level platform,,,,1
-highlevel-KB-0351,,2,fully-elevated-platform,place-KB-0351,High-level platform,Kingston high-level platform,,,,1
-highlevel-MM-0150,,2,fully-elevated-platform,place-MM-0150,High-level platform,Holbrook/Randolph high-level platform,,,,1
-highlevel-MM-0186,,2,fully-elevated-platform,place-MM-0186,High-level platform,Montello high-level platform,,,,1
-highlevel-MM-0200,,2,fully-elevated-platform,place-MM-0200,High-level platform,Brockton high-level platform,,,,1
-highlevel-MM-0219,,2,fully-elevated-platform,place-MM-0219,High-level platform,Campello high-level platform,,,,1
-highlevel-MM-0277,,2,fully-elevated-platform,place-MM-0277,High-level platform,Bridgewater high-level platform,,,,1
-highlevel-MM-0356,,2,fully-elevated-platform,place-MM-0356,High-level platform,Middleborough/Lakeville high-level platform,,,,1
-highlevel-NEC-1659,,2,fully-elevated-platform,place-NEC-1659,High-level platform,Wickford Junction high-level platform,,,,1
-highlevel-NEC-1768,,2,fully-elevated-platform,place-NEC-1768,High-level platform,TF Green Airport high-level platform,,,,1
-highlevel-NEC-1851,,2,fully-elevated-platform,place-NEC-1851,High-level platform,Providence high-level platform,,,,1
-highlevel-NEC-2173,,2,fully-elevated-platform,place-NEC-2173,High-level platform,Route 128 high-level platform,,,,1
-highlevel-NHRML-0127,,2,fully-elevated-platform,place-NHRML-0127,High-level platform,Anderson/Woburn high-level platform,,,,1
-highlevel-NHRML-0254,,2,fully-elevated-platform,place-NHRML-0254,High-level platform,Lowell high-level platform,,,,1
-highlevel-PB-0158,,2,fully-elevated-platform,place-PB-0158,High-level platform,South Weymouth high-level platform,,,,1
-highlevel-PB-0194,,2,fully-elevated-platform,place-PB-0194,High-level platform,Abington high-level platform,,,,1
-highlevel-PB-0212,,2,fully-elevated-platform,place-PB-0212,High-level platform,Whitman high-level platform,,,,1
-highlevel-PB-0245,,2,fully-elevated-platform,place-PB-0245,High-level platform,Hanson high-level platform,,,,1
-highlevel-PB-0281,,2,fully-elevated-platform,place-PB-0281,High-level platform,Halifax high-level platform,,,,1
-highlevel-PB-0356,,2,fully-elevated-platform,place-PB-0356,High-level platform,Plymouth high-level platform,,,,1
-highlevel-WML-0025,,2,fully-elevated-platform,place-WML-0025,High-level platform,Lansdowne high-level platform,,,,1
-highlevel-WML-0035,,2,fully-elevated-platform,place-WML-0035,High-level platform,Boston Landing high-level platform,,,,1
-highlevel-WR-0264,,2,fully-elevated-platform,place-WR-0264,High-level platform,Lawrence high-level platform,,,,1
-highlevel-bbsta-0,,2,fully-elevated-platform,place-bbsta,High-level platform,Back Bay high-level platform,,,,1
+highlevel-DB-2222-1,,2,fully-elevated-platform,place-DB-2222,High-level platform (Track 1/Outbound),Blue Hill Avenue high-level platform (Track 1/Outbound),,,,1
+highlevel-DB-2222-2,,2,fully-elevated-platform,place-DB-2222,High-level platform (Track 2/South Station),Blue Hill Avenue high-level platform (Track 2/South Station),,,,1
+highlevel-DB-2230-1,,2,fully-elevated-platform,place-DB-2230,High-level platform (Track 1/Outbound),Morton Street high-level platform (Track 1/Outbound),,,,1
+highlevel-DB-2230-2,,2,fully-elevated-platform,place-DB-2230,High-level platform (Track 2/South Station),Morton Street high-level platform (Track 2/South Station),,,,1
+highlevel-DB-2240-1,,2,fully-elevated-platform,place-DB-2240,High-level platform (Track 1/Outbound),Talbot Avenue high-level platform (Track 1/Outbound),,,,1
+highlevel-DB-2240-2,,2,fully-elevated-platform,place-DB-2240,High-level platform (Track 2/South Station),Talbot Avenue high-level platform (Track 2/South Station),,,,1
+highlevel-DB-2249-1,,2,fully-elevated-platform,place-DB-2249,High-level platform (Track 1/Outbound),Four Corners/Geneva high-level platform (Track 1/Outbound),,,,1
+highlevel-DB-2249-2,,2,fully-elevated-platform,place-DB-2249,High-level platform (Track 2/South Station),Four Corners/Geneva high-level platform (Track 2/South Station),,,,1
+highlevel-DB-2258-1,,2,fully-elevated-platform,place-DB-2258,High-level platform (Track 1/Outbound),Uphams Corner high-level platform (Track 1/Outbound),,,,1
+highlevel-DB-2258-2,,2,fully-elevated-platform,place-DB-2258,High-level platform (Track 2/South Station),Uphams Corner high-level platform (Track 2/South Station),,,,1
+highlevel-DB-2265-1,,2,fully-elevated-platform,place-DB-2265,High-level platform (Track 1/Outbound),Newmarket high-level platform (Track 1/Outbound),,,,1
+highlevel-DB-2265-2,,2,fully-elevated-platform,place-DB-2265,High-level platform (Track 2/South Station),Newmarket high-level platform (Track 2/South Station),,,,1
+highlevel-ER-0115-1,,2,fully-elevated-platform,place-ER-0115,High-level platform (Track 1/Outbound),Lynn high-level platform (Track 1/Outbound),,,,1
+highlevel-ER-0115-2,,2,fully-elevated-platform,place-ER-0115,High-level platform (Track 2/Boston),Lynn high-level platform (Track 2/Boston),,,,1
+highlevel-ER-0168-1,,2,fully-elevated-platform,place-ER-0168,High-level platform (Track 1/All Trains),Salem high-level platform (Track 1/All Trains),,,,1
+highlevel-ER-0312-1,,2,fully-elevated-platform,place-ER-0312,High-level platform,Rowley high-level platform,,,,1
+highlevel-ER-0362-1,,2,fully-elevated-platform,place-ER-0362,High-level platform (Track 1),Newburyport high-level platform (Track 1),,,,1
+highlevel-ER-0362-2,,2,fully-elevated-platform,place-ER-0362,High-level platform (Track 2),Newburyport high-level platform (Track 2),,,,1
+highlevel-FR-0253-1,,2,fully-elevated-platform,place-FR-0253,High-level platform (Track 1/Outbound),South Acton high-level platform (Track 1/Outbound),,,,1
+highlevel-FR-0253-2,,2,fully-elevated-platform,place-FR-0253,High-level platform (Track 2/Boston),South Acton high-level platform (Track 2/Boston),,,,1
+highlevel-FR-0301-1,,2,fully-elevated-platform,place-FR-0301,High-level platform (Track 1/Outbound),Littleton/Route 495 high-level platform (Track 1/Outbound),,,,1
+highlevel-FR-0301-2,,2,fully-elevated-platform,place-FR-0301,High-level platform (Track 2/Boston),Littleton/Route 495 high-level platform (Track 2/Boston),,,,1
+highlevel-FR-3338-3,,2,fully-elevated-platform,place-FR-3338,High-level platform,Wachusett high-level platform,,,,1
+highlevel-GRB-0118-1,,2,fully-elevated-platform,place-GRB-0118,High-level platform,Weymouth Landing/East Braintree high-level platform,,,,1
+highlevel-GRB-0146-1,,2,fully-elevated-platform,place-GRB-0146,High-level platform,East Weymouth high-level platform,,,,1
+highlevel-GRB-0162-1,,2,fully-elevated-platform,place-GRB-0162,High-level platform,West Hingham high-level platform,,,,1
+highlevel-GRB-0183-1,,2,fully-elevated-platform,place-GRB-0183,High-level platform,Nantasket Junction high-level platform,,,,1
+highlevel-GRB-0199-1,,2,fully-elevated-platform,place-GRB-0199,High-level platform,Cohasset high-level platform,,,,1
+highlevel-GRB-0233-1,,2,fully-elevated-platform,place-GRB-0233,High-level platform,North Scituate high-level platform,,,,1
+highlevel-GRB-0276-1,,2,fully-elevated-platform,place-GRB-0276,High-level platform,Greenbush high-level platform,,,,1
+highlevel-KB-0351-1,,2,fully-elevated-platform,place-KB-0351,High-level platform,Kingston high-level platform,,,,1
+highlevel-MM-0150-1,,2,fully-elevated-platform,place-MM-0150,High-level platform (Track 1/All Trains),Holbrook/Randolph high-level platform (Track 1/All Trains),,,,1
+highlevel-MM-0186-1,,2,fully-elevated-platform,place-MM-0186,High-level platform (Track 1),Montello high-level platform (Track 1),,,,1
+highlevel-MM-0186-2,,2,fully-elevated-platform,place-MM-0186,High-level platform (Track 2),Montello high-level platform (Track 2),,,,1
+highlevel-MM-0200-1,,2,fully-elevated-platform,place-MM-0200,High-level platform (Track 1),Brockton high-level platform (Track 1),,,,1
+highlevel-MM-0200-2,,2,fully-elevated-platform,place-MM-0200,High-level platform (Track 2),Brockton high-level platform (Track 2),,,,1
+highlevel-MM-0219-1,,2,fully-elevated-platform,place-MM-0219,High-level platform,Campello high-level platform,,,,1
+highlevel-MM-0277-1,,2,fully-elevated-platform,place-MM-0277,High-level platform,Bridgewater high-level platform,,,,1
+highlevel-MM-0356-1,,2,fully-elevated-platform,place-MM-0356,High-level platform,Middleborough/Lakeville high-level platform,,,,1
+highlevel-NEC-1659-3,,2,fully-elevated-platform,place-NEC-1659,High-level platform,Wickford Junction high-level platform,,,,1
+highlevel-NEC-1768-3,,2,fully-elevated-platform,place-NEC-1768,High-level platform,TF Green Airport high-level platform,,,,1
+highlevel-NEC-1851-1,,2,fully-elevated-platform,place-NEC-1851,High-level platform (Track 1),Providence high-level platform (Track 1),,,,1
+highlevel-NEC-1851-2,,2,fully-elevated-platform,place-NEC-1851,High-level platform (Track 2),Providence high-level platform (Track 2),,,,1
+highlevel-NEC-1851-3,,2,fully-elevated-platform,place-NEC-1851,High-level platform (Track 3),Providence high-level platform (Track 3),,,,1
+highlevel-NEC-1851-5,,2,fully-elevated-platform,place-NEC-1851,High-level platform (Track 5),Providence high-level platform (Track 5),,,,1
+highlevel-NEC-2173-1,,2,fully-elevated-platform,place-NEC-2173,High-level platform (Track 1/Outbound),Route 128 high-level platform (Track 1/Outbound),,,,1
+highlevel-NEC-2173-2,,2,fully-elevated-platform,place-NEC-2173,High-level platform (Track 2/Boston),Route 128 high-level platform (Track 2/Boston),,,,1
+highlevel-NHRML-0127-1,,2,fully-elevated-platform,place-NHRML-0127,High-level platform (Track 1/Outbound),Anderson/Woburn high-level platform (Track 1/Outbound),,,,1
+highlevel-NHRML-0127-2,,2,fully-elevated-platform,place-NHRML-0127,High-level platform (Track 2/Boston),Anderson/Woburn high-level platform (Track 2/Boston),,,,1
+highlevel-NHRML-0254-3,,2,fully-elevated-platform,place-NHRML-0254,High-level platform (Track 3),Lowell high-level platform (Track 3),,,,1
+highlevel-NHRML-0254-4,,2,fully-elevated-platform,place-NHRML-0254,High-level platform (Track 4),Lowell high-level platform (Track 4),,,,1
+highlevel-PB-0158-1,,2,fully-elevated-platform,place-PB-0158,High-level platform,South Weymouth high-level platform,,,,1
+highlevel-PB-0194-1,,2,fully-elevated-platform,place-PB-0194,High-level platform,Abington high-level platform,,,,1
+highlevel-PB-0212-1,,2,fully-elevated-platform,place-PB-0212,High-level platform,Whitman high-level platform,,,,1
+highlevel-PB-0245-1,,2,fully-elevated-platform,place-PB-0245,High-level platform,Hanson high-level platform,,,,1
+highlevel-PB-0281-1,,2,fully-elevated-platform,place-PB-0281,High-level platform (Track 1/All Trains),Halifax high-level platform (Track 1/All Trains),,,,1
+highlevel-PB-0281-2,,2,fully-elevated-platform,place-PB-0281,High-level platform (Track 2),Halifax high-level platform (Track 2),,,,1
+highlevel-PB-0356-1,,2,fully-elevated-platform,place-PB-0356,High-level platform,Plymouth high-level platform,,,,1
+highlevel-WML-0025-5,,2,fully-elevated-platform,place-WML-0025,High-level platform (Track 5),Lansdowne high-level platform (Track 5),,,,1
+highlevel-WML-0025-7,,2,fully-elevated-platform,place-WML-0025,High-level platform (Track 7),Lansdowne high-level platform (Track 7),,,,1
+highlevel-WML-0035-1,,2,fully-elevated-platform,place-WML-0035,High-level platform (Track 1/Outbound),Boston Landing high-level platform (Track 1/Outbound),,,,1
+highlevel-WML-0035-2,,2,fully-elevated-platform,place-WML-0035,High-level platform (Track 2/South Station),Boston Landing high-level platform (Track 2/South Station),,,,1
+highlevel-WR-0264-2,,2,fully-elevated-platform,place-WR-0264,High-level platform,Lawrence high-level platform,,,,1
 highlevel-bbsta-1,,2,fully-elevated-platform,place-bbsta,High-level platform,Back Bay high-level platform,,,,1
 highlevel-bbsta-2,,2,fully-elevated-platform,place-bbsta,High-level platform,Back Bay high-level platform,,,,1
 highlevel-bbsta-3,,2,fully-elevated-platform,place-bbsta,High-level platform,Back Bay high-level platform,,,,1
-highlevel-brntn,,2,fully-elevated-platform,place-brntn,High-level platform,Braintree high-level platform,,,,1
-highlevel-forhl,,2,fully-elevated-platform,place-forhl,High-level platform,Forest Hills high-level platform,,,,1
-highlevel-jfk,,2,fully-elevated-platform,place-jfk,High-level platform,JFK/UMass high-level platform,,,,1
-highlevel-mlmnl,,2,fully-elevated-platform,place-mlmnl,High-level platform,Malden Center high-level platform,,,,1
-highlevel-north-0,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
+highlevel-brntn-1,,2,fully-elevated-platform,place-brntn,High-level platform (Commuter Rail - Track 1),Braintree high-level platform (Commuter Rail - Track 1),,,,1
+highlevel-brntn-2,,2,fully-elevated-platform,place-brntn,High-level platform (Commuter Rail - Track 2),Braintree high-level platform (Commuter Rail - Track 2),,,,1
+highlevel-forhl-3,,2,fully-elevated-platform,place-forhl,High-level platform (Commuter Rail - Track 3),Forest Hills high-level platform (Commuter Rail - Track 3),,,,1
+highlevel-forhl-5,,2,fully-elevated-platform,place-forhl,High-level platform (Commuter Rail - Track 5),Forest Hills high-level platform (Commuter Rail - Track 5),,,,1
+highlevel-jfk-1,,2,fully-elevated-platform,place-jfk,High-level platform (Track 1/All Trains),JFK/UMass high-level platform (Track 1/All Trains),,,,1
+highlevel-mlmnl-1,,2,fully-elevated-platform,place-mlmnl,High-level platform (Track 1/All Trains),Malden Center high-level platform (Track 1/All Trains),,,,1
 highlevel-north-1,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
 highlevel-north-10,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
 highlevel-north-2,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
@@ -1169,13 +1191,11 @@ highlevel-north-6,,2,fully-elevated-platform,place-north,High-level platform,Nor
 highlevel-north-7,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
 highlevel-north-8,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
 highlevel-north-9,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
-highlevel-ogmnl,,2,fully-elevated-platform,place-ogmnl,High-level platform (Commuter Rail),Oak Grove high-level platform (Commuter Rail),,,,1
-highlevel-qnctr,,2,fully-elevated-platform,place-qnctr,High-level platform,Quincy Center high-level platform,,,,1
-highlevel-rugg-0,,2,fully-elevated-platform,place-rugg,High-level platform,Ruggles high-level platform,,,,1
+highlevel-ogmnl,,2,fully-elevated-platform,place-ogmnl,High-level platform,Oak Grove high-level platform,,,,1
+highlevel-qnctr-1,,2,fully-elevated-platform,place-qnctr,High-level platform (Track 1/All Trains),Quincy Center high-level platform (Track 1/All Trains),,,,1
 highlevel-rugg-1,,2,fully-elevated-platform,place-rugg,High-level platform,Ruggles high-level platform,,,,1
 highlevel-rugg-2,,2,fully-elevated-platform,place-rugg,High-level platform,Ruggles high-level platform,,,,1
 highlevel-rugg-3,,2,fully-elevated-platform,place-rugg,High-level platform,Ruggles high-level platform,,,,1
-highlevel-sstat-0,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
 highlevel-sstat-1,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
 highlevel-sstat-10,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
 highlevel-sstat-11,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
@@ -1401,8 +1421,8 @@ portlift-lech-1,,2,portable-boarding-lift,place-lech,Mobile lift,Lechmere mobile
 portlift-lngmd-0,,2,portable-boarding-lift,place-lngmd,Mobile lift (Heath Street),Longwood Medical Area mobile lift (Heath Street),,,,1
 portlift-lngmd-1,,2,portable-boarding-lift,place-lngmd,Mobile lift (Park Street & North),Longwood Medical Area mobile lift (Park Street & North),,,,1
 portlift-mfa,,2,portable-boarding-lift,place-mfa,Mobile lift (Park Street & North),Museum of Fine Arts mobile lift (Park Street & North),,,,1
-portlift-newtn-0,,2,portable-boarding-lift,place-newtn,Mobile lift,Newton Highlands mobile lift,,,,1
-portlift-newtn-1,,2,portable-boarding-lift,place-newtn,Mobile lift,Newton Highlands mobile lift,,,,1
+portlift-newtn-0,,2,portable-boarding-lift,place-newtn,Mobile lift (Park Street & North),Newton Highlands mobile lift (Park Street & North),,,,1
+portlift-newtn-1,,2,portable-boarding-lift,place-newtn,Mobile lift (Riverside),Newton Highlands mobile lift (Riverside),,,,1
 portlift-newto,,2,portable-boarding-lift,place-newto,Mobile lift (Riverside),Newton Centre mobile lift (Riverside),,,,1
 portlift-north-0,,2,portable-boarding-lift,place-north,Mobile lift (Lechmere),North Station mobile lift (Lechmere),,,,1
 portlift-north-1,,2,portable-boarding-lift,place-north,Mobile lift (Copley & West),North Station mobile lift (Copley & West),,,,1
@@ -1540,7 +1560,6 @@ retailsale-302172,,4,fare-vending-retailer,,Piccadilly Market,Piccadilly Market,
 retailsale-302173,,4,fare-vending-retailer,,Mid-Nite Convenience,Mid-Nite Convenience,,42.3794495,-71.0960169,0
 retailsale-302176,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.2870925,-71.1271560,0
 retailsale-302177,,4,fare-vending-retailer,,Commonwealth Sunoco,Commonwealth Sunoco,,42.3505675,-71.1135920,0
-retailsale-302182,,4,fare-vending-retailer,,Bridge Mart,Bridge Mart,,41.9911680,-70.9680450,0
 retailsale-302183,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.0424514,-70.8542993,0
 retailsale-302184,,4,fare-vending-retailer,,Abington News,Abington News,,42.1084460,-70.9358193,0
 retailsale-302187,,4,fare-vending-retailer,,Shaws,Shaws,,42.5032227,-71.0640766,0
@@ -1593,62 +1612,101 @@ retailsale-303050,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3354510,-71.03
 retailsale-303051,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3546050,-71.1501050,0
 retailsale-303052,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3118660,-71.1142480,0
 subplat-25,,2,elevated-subplatform,25,Mini-high platform,E Broadway @ L St mini-high platform,,,,1
-subplat-DB-0095,,2,elevated-subplatform,place-DB-0095,Mini-high platform,Readville mini-high platform,,,,1
-subplat-DB-2205,,2,elevated-subplatform,place-DB-2205,Mini-high platform,Fairmount mini-high platform,,,,1
-subplat-ER-0128,,2,elevated-subplatform,place-ER-0128,Mini-high platform,Swampscott mini-high platform,,,,1
-subplat-ER-0183,,2,elevated-subplatform,place-ER-0183,Mini-high platform,Beverly mini-high platform,,,,1
-subplat-ER-0208,,2,elevated-subplatform,place-ER-0208,Mini-high platform,North Beverly mini-high platform,,,,1
-subplat-ER-0227,,2,elevated-subplatform,place-ER-0227,Mini-high platform,Hamilton/Wenham mini-high platform,,,,1
-subplat-FB-0118,,2,elevated-subplatform,place-FB-0118,Mini-high platform,Dedham Corporate Center mini-high platform,,,,1
-subplat-FB-0143,,2,elevated-subplatform,place-FB-0143,Mini-high platform,Norwood Depot mini-high platform,,,,1
-subplat-FB-0148,,2,elevated-subplatform,place-FB-0148,Mini-high platform,Norwood Central mini-high platform,,,,1
-subplat-FB-0230,,2,elevated-subplatform,place-FB-0230,Mini-high platform,Norfolk mini-high platform,,,,1
-subplat-FB-0303,,2,elevated-subplatform,place-FB-0303,Mini-high platform,Forge Park/495 mini-high platform,,,,1
-subplat-FR-0098,,2,elevated-subplatform,place-FR-0098,Mini-high platform,Waltham mini-high platform,,,,1
-subplat-FR-0115,,2,elevated-subplatform,place-FR-0115,Mini-high platform,Brandeis/Roberts mini-high platform,,,,1
-subplat-FR-0219,,2,elevated-subplatform,place-FR-0219,Mini-high platform,West Concord mini-high platform,,,,1
-subplat-FR-0451,,2,elevated-subplatform,place-FR-0451,Mini-high platform,North Leominster mini-high platform,,,,1
-subplat-FR-0494,,2,elevated-subplatform,place-FR-0494,Mini-high platform,Fitchburg mini-high platform,,,,1
-subplat-FS-0049,,2,elevated-subplatform,place-FS-0049,Mini-high platform,Foxboro mini-high platform,,,,1
-subplat-GB-0198,,2,elevated-subplatform,place-GB-0198,Mini-high platform,Montserrat mini-high platform,,,,1
-subplat-GB-0229,,2,elevated-subplatform,place-GB-0229,Mini-high platform,Beverly Farms mini-high platform,,,,1
-subplat-GB-0254,,2,elevated-subplatform,place-GB-0254,Mini-high platform,Manchester mini-high platform,,,,1
-subplat-GB-0296,,2,elevated-subplatform,place-GB-0296,Mini-high platform,West Gloucester mini-high platform,,,,1
-subplat-GB-0316,,2,elevated-subplatform,place-GB-0316,Mini-high platform,Gloucester mini-high platform,,,,1
-subplat-GB-0353,,2,elevated-subplatform,place-GB-0353,Mini-high platform,Rockport mini-high platform,,,,1
-subplat-NB-0064,,2,elevated-subplatform,place-NB-0064,Mini-high platform,Roslindale Village mini-high platform,,,,1
-subplat-NB-0072,,2,elevated-subplatform,place-NB-0072,Mini-high platform,Bellevue mini-high platform,,,,1
-subplat-NB-0076,,2,elevated-subplatform,place-NB-0076,Mini-high platform,Highland mini-high platform,,,,1
-subplat-NB-0080,,2,elevated-subplatform,place-NB-0080,Mini-high platform,West Roxbury mini-high platform,,,,1
-subplat-NB-0109,,2,elevated-subplatform,place-NB-0109,Mini-high platform,Hersey mini-high platform,,,,1
-subplat-NB-0120,,2,elevated-subplatform,place-NB-0120,Mini-high platform,Needham Junction mini-high platform,,,,1
-subplat-NB-0127,,2,elevated-subplatform,place-NB-0127,Mini-high platform,Needham Center mini-high platform,,,,1
-subplat-NB-0137,,2,elevated-subplatform,place-NB-0137,Mini-high platform,Needham Heights mini-high platform,,,,1
-subplat-NEC-1919,,2,elevated-subplatform,place-NEC-1919,Mini-high platform,South Attleboro mini-high platform,,,,1
-subplat-NEC-1969,,2,elevated-subplatform,place-NEC-1969,Mini-high platform,Attleboro mini-high platform,,,,1
-subplat-NEC-2040,,2,elevated-subplatform,place-NEC-2040,Mini-high platform,Mansfield mini-high platform,,,,1
-subplat-NEC-2108,,2,elevated-subplatform,place-NEC-2108,Mini-high platform,Sharon mini-high platform,,,,1
-subplat-NEC-2139,,2,elevated-subplatform,place-NEC-2139,Mini-high platform,Canton Junction mini-high platform,,,,1
-subplat-NEC-2203,,2,elevated-subplatform,place-NEC-2203,Mini-high platform,Hyde Park mini-high platform,,,,1
-subplat-NHRML-0073,,2,elevated-subplatform,place-NHRML-0073,Mini-high platform,Wedgemere mini-high platform,,,,1
-subplat-NHRML-0116,,2,elevated-subplatform,place-NHRML-0116,Mini-high platform,Mishawum mini-high platform,,,,1
-subplat-NHRML-0152,,2,elevated-subplatform,place-NHRML-0152,Mini-high platform,Wilmington mini-high platform,,,,1
-subplat-NHRML-0218,,2,elevated-subplatform,place-NHRML-0218,Mini-high platform,North Billerica mini-high platform,,,,1
-subplat-SB-0156,,2,elevated-subplatform,place-SB-0156,Mini-high platform,Canton Center mini-high platform,,,,1
-subplat-SB-0189,,2,elevated-subplatform,place-SB-0189,Mini-high platform,Stoughton mini-high platform,,,,1
-subplat-WML-0199,,2,elevated-subplatform,place-WML-0199,Mini-high platform,West Natick mini-high platform,,,,1
-subplat-WML-0214,,2,elevated-subplatform,place-WML-0214,Mini-high platform,Framingham mini-high platform,,,,1
-subplat-WML-0252,,2,elevated-subplatform,place-WML-0252,Mini-high platform,Ashland mini-high platform,,,,1
-subplat-WML-0274,,2,elevated-subplatform,place-WML-0274,Mini-high platform,Southborough mini-high platform,,,,1
-subplat-WML-0340,,2,elevated-subplatform,place-WML-0340,Mini-high platform,Westborough mini-high platform,,,,1
-subplat-WML-0364,,2,elevated-subplatform,place-WML-0364,Mini-high platform,Grafton mini-high platform,,,,1
-subplat-WML-0442,,2,elevated-subplatform,place-WML-0442,Mini-high platform,Worcester mini-high platform,,,,1
-subplat-WR-0075,,2,elevated-subplatform,place-WR-0075,Mini-high platform,Melrose Highlands mini-high platform,,,,1
-subplat-WR-0120,,2,elevated-subplatform,place-WR-0120,Mini-high platform,Reading mini-high platform,,,,1
-subplat-WR-0205,,2,elevated-subplatform,place-WR-0205,Mini-high platform,Ballardvale mini-high platform,,,,1
-subplat-WR-0228,,2,elevated-subplatform,place-WR-0228,Mini-high platform,Andover mini-high platform,,,,1
-subplat-WR-0325,,2,elevated-subplatform,place-WR-0325,Mini-high platform,Bradford mini-high platform,,,,1
-subplat-WR-0329,,2,elevated-subplatform,place-WR-0329,Mini-high platform,Haverhill mini-high platform,,,,1
+subplat-DB-0095-2,,2,elevated-subplatform,place-DB-0095,Mini-high platform (Track 2),Readville mini-high platform (Track 2),,,,1
+subplat-DB-0095-3,,2,elevated-subplatform,place-DB-0095,Mini-high platform (Track 3),Readville mini-high platform (Track 3),,,,1
+subplat-DB-0095-4,,2,elevated-subplatform,place-DB-0095,Mini-high platform (Track 4),Readville mini-high platform (Track 4),,,,1
+subplat-DB-0095-5,,2,elevated-subplatform,place-DB-0095,Mini-high platform (Track 5),Readville mini-high platform (Track 5),,,,1
+subplat-DB-2205-1,,2,elevated-subplatform,place-DB-2205,Mini-high platform (Track 1/Outbound),Fairmount mini-high platform (Track 1/Outbound),,,,1
+subplat-DB-2205-2,,2,elevated-subplatform,place-DB-2205,Mini-high platform (Track 2/South Station),Fairmount mini-high platform (Track 2/South Station),,,,1
+subplat-ER-0128-1,,2,elevated-subplatform,place-ER-0128,Mini-high platform (Track 1/Outbound),Swampscott mini-high platform (Track 1/Outbound),,,,1
+subplat-ER-0128-2,,2,elevated-subplatform,place-ER-0128,Mini-high platform (Track 2/Boston),Swampscott mini-high platform (Track 2/Boston),,,,1
+subplat-ER-0183-1,,2,elevated-subplatform,place-ER-0183,Mini-high platform (Track 1/Outbound),Beverly mini-high platform (Track 1/Outbound),,,,1
+subplat-ER-0183-2,,2,elevated-subplatform,place-ER-0183,Mini-high platform (Track 2/Boston),Beverly mini-high platform (Track 2/Boston),,,,1
+subplat-ER-0208-1,,2,elevated-subplatform,place-ER-0208,Mini-high platform (Track 1/Outbound),North Beverly mini-high platform (Track 1/Outbound),,,,1
+subplat-ER-0208-2,,2,elevated-subplatform,place-ER-0208,Mini-high platform (Track 2/Boston),North Beverly mini-high platform (Track 2/Boston),,,,1
+subplat-ER-0227-1,,2,elevated-subplatform,place-ER-0227,Mini-high platform,Hamilton/Wenham mini-high platform,,,,1
+subplat-FB-0118-1,,2,elevated-subplatform,place-FB-0118,Mini-high platform (Track 1/Outbound),Dedham Corporate Center mini-high platform (Track 1/Outbound),,,,1
+subplat-FB-0118-2,,2,elevated-subplatform,place-FB-0118,Mini-high platform (Track 2/Boston),Dedham Corporate Center mini-high platform (Track 2/Boston),,,,1
+subplat-FB-0143-1,,2,elevated-subplatform,place-FB-0143,Mini-high platform (Track 1/Outbound),Norwood Depot mini-high platform (Track 1/Outbound),,,,1
+subplat-FB-0143-2,,2,elevated-subplatform,place-FB-0143,Mini-high platform (Track 2/Boston),Norwood Depot mini-high platform (Track 2/Boston),,,,1
+subplat-FB-0148-1,,2,elevated-subplatform,place-FB-0148,Mini-high platform (Track 1/Outbound),Norwood Central mini-high platform (Track 1/Outbound),,,,1
+subplat-FB-0148-2,,2,elevated-subplatform,place-FB-0148,Mini-high platform (Track 2/Boston),Norwood Central mini-high platform (Track 2/Boston),,,,1
+subplat-FB-0230-1,,2,elevated-subplatform,place-FB-0230,Mini-high platform,Norfolk mini-high platform,,,,1
+subplat-FB-0303-1,,2,elevated-subplatform,place-FB-0303,Mini-high platform,Forge Park/495 mini-high platform,,,,1
+subplat-FR-0098-1,,2,elevated-subplatform,place-FR-0098,Mini-high platform (Track 1/Outbound),Waltham mini-high platform (Track 1/Outbound),,,,1
+subplat-FR-0098-2,,2,elevated-subplatform,place-FR-0098,Mini-high platform (Track 2/Boston),Waltham mini-high platform (Track 2/Boston),,,,1
+subplat-FR-0115-1,,2,elevated-subplatform,place-FR-0115,Mini-high platform (Track 1/Outbound),Brandeis/Roberts mini-high platform (Track 1/Outbound),,,,1
+subplat-FR-0115-2,,2,elevated-subplatform,place-FR-0115,Mini-high platform (Track 2/Boston),Brandeis/Roberts mini-high platform (Track 2/Boston),,,,1
+subplat-FR-0219-1,,2,elevated-subplatform,place-FR-0219,Mini-high platform (Track 1/Outbound),West Concord mini-high platform (Track 1/Outbound),,,,1
+subplat-FR-0219-2,,2,elevated-subplatform,place-FR-0219,Mini-high platform (Track 2/Boston),West Concord mini-high platform (Track 2/Boston),,,,1
+subplat-FR-0451-1,,2,elevated-subplatform,place-FR-0451,Mini-high platform (Track 1/Outbound),North Leominster mini-high platform (Track 1/Outbound),,,,1
+subplat-FR-0451-2,,2,elevated-subplatform,place-FR-0451,Mini-high platform (Track 2/Boston),North Leominster mini-high platform (Track 2/Boston),,,,1
+subplat-FR-0494-3,,2,elevated-subplatform,place-FR-0494,Mini-high platform,Fitchburg mini-high platform,,,,1
+subplat-FS-0049-1,,2,elevated-subplatform,place-FS-0049,Mini-high platform,Foxboro mini-high platform,,,,1
+subplat-GB-0198-1,,2,elevated-subplatform,place-GB-0198,Mini-high platform (Track 1/Outbound),Montserrat mini-high platform (Track 1/Outbound),,,,1
+subplat-GB-0198-2,,2,elevated-subplatform,place-GB-0198,Mini-high platform (Track 2/Boston),Montserrat mini-high platform (Track 2/Boston),,,,1
+subplat-GB-0229-1,,2,elevated-subplatform,place-GB-0229,Mini-high platform (Track 1/Outbound),Beverly Farms mini-high platform (Track 1/Outbound),,,,1
+subplat-GB-0229-2,,2,elevated-subplatform,place-GB-0229,Mini-high platform (Track 2/Boston),Beverly Farms mini-high platform (Track 2/Boston),,,,1
+subplat-GB-0254-1,,2,elevated-subplatform,place-GB-0254,Mini-high platform (Track 1/Outbound),Manchester mini-high platform (Track 1/Outbound),,,,1
+subplat-GB-0254-2,,2,elevated-subplatform,place-GB-0254,Mini-high platform (Track 2/Boston),Manchester mini-high platform (Track 2/Boston),,,,1
+subplat-GB-0296-1,,2,elevated-subplatform,place-GB-0296,Mini-high platform (Track 1/Outbound),West Gloucester mini-high platform (Track 1/Outbound),,,,1
+subplat-GB-0296-2,,2,elevated-subplatform,place-GB-0296,Mini-high platform (Track 2/Boston),West Gloucester mini-high platform (Track 2/Boston),,,,1
+subplat-GB-0316-1,,2,elevated-subplatform,place-GB-0316,Mini-high platform,Gloucester mini-high platform,,,,1
+subplat-GB-0353-1,,2,elevated-subplatform,place-GB-0353,Mini-high platform,Rockport mini-high platform,,,,1
+subplat-NB-0064-1,,2,elevated-subplatform,place-NB-0064,Mini-high platform,Roslindale Village mini-high platform,,,,1
+subplat-NB-0072-1,,2,elevated-subplatform,place-NB-0072,Mini-high platform,Bellevue mini-high platform,,,,1
+subplat-NB-0076-1,,2,elevated-subplatform,place-NB-0076,Mini-high platform,Highland mini-high platform,,,,1
+subplat-NB-0080-1,,2,elevated-subplatform,place-NB-0080,Mini-high platform,West Roxbury mini-high platform,,,,1
+subplat-NB-0109-1,,2,elevated-subplatform,place-NB-0109,Mini-high platform,Hersey mini-high platform,,,,1
+subplat-NB-0120-1,,2,elevated-subplatform,place-NB-0120,Mini-high platform (Track 1/All Trains),Needham Junction mini-high platform (Track 1/All Trains),,,,1
+subplat-NB-0127-1,,2,elevated-subplatform,place-NB-0127,Mini-high platform,Needham Center mini-high platform,,,,1
+subplat-NB-0137-1,,2,elevated-subplatform,place-NB-0137,Mini-high platform,Needham Heights mini-high platform,,,,1
+subplat-NEC-1919-1,,2,elevated-subplatform,place-NEC-1919,Mini-high platform (Track 1/Outbound),South Attleboro mini-high platform (Track 1/Outbound),,,,1
+subplat-NEC-1919-2,,2,elevated-subplatform,place-NEC-1919,Mini-high platform (Track 2/Boston),South Attleboro mini-high platform (Track 2/Boston),,,,1
+subplat-NEC-1969-3,,2,elevated-subplatform,place-NEC-1969,Mini-high platform (Track 3/Outbound),Attleboro mini-high platform (Track 3/Outbound),,,,1
+subplat-NEC-1969-4,,2,elevated-subplatform,place-NEC-1969,Mini-high platform (Track 4/Boston),Attleboro mini-high platform (Track 4/Boston),,,,1
+subplat-NEC-2040-1,,2,elevated-subplatform,place-NEC-2040,Mini-high platform (Track 1/Outbound),Mansfield mini-high platform (Track 1/Outbound),,,,1
+subplat-NEC-2040-2,,2,elevated-subplatform,place-NEC-2040,Mini-high platform (Track 2/Boston),Mansfield mini-high platform (Track 2/Boston),,,,1
+subplat-NEC-2108-1,,2,elevated-subplatform,place-NEC-2108,Mini-high platform (Track 1/Outbound),Sharon mini-high platform (Track 1/Outbound),,,,1
+subplat-NEC-2108-2,,2,elevated-subplatform,place-NEC-2108,Mini-high platform (Track 2/Boston),Sharon mini-high platform (Track 2/Boston),,,,1
+subplat-NEC-2139-1,,2,elevated-subplatform,place-NEC-2139,Mini-high platform (Track 1),Canton Junction mini-high platform (Track 1),,,,1
+subplat-NEC-2139-2,,2,elevated-subplatform,place-NEC-2139,Mini-high platform (Track 2),Canton Junction mini-high platform (Track 2),,,,1
+subplat-NEC-2139-4,,2,elevated-subplatform,place-NEC-2139,Mini-high platform (Track 4),Canton Junction mini-high platform (Track 4),,,,1
+subplat-NEC-2139-6,,2,elevated-subplatform,place-NEC-2139,Mini-high platform (Track 6),Canton Junction mini-high platform (Track 6),,,,1
+subplat-NEC-2203-2,,2,elevated-subplatform,place-NEC-2203,Mini-high platform (Track 2/South Station),Hyde Park mini-high platform (Track 2/South Station),,,,1
+subplat-NEC-2203-3,,2,elevated-subplatform,place-NEC-2203,Mini-high platform (Track 3/Outbound),Hyde Park mini-high platform (Track 3/Outbound),,,,1
+subplat-NHRML-0073-1,,2,elevated-subplatform,place-NHRML-0073,Mini-high platform (Track 1/Outbound),Wedgemere mini-high platform (Track 1/Outbound),,,,1
+subplat-NHRML-0073-2,,2,elevated-subplatform,place-NHRML-0073,Mini-high platform (Track 2/Boston),Wedgemere mini-high platform (Track 2/Boston),,,,1
+subplat-NHRML-0116-1,,2,elevated-subplatform,place-NHRML-0116,Mini-high platform (Track 1/Outbound),Mishawum mini-high platform (Track 1/Outbound),,,,1
+subplat-NHRML-0116-2,,2,elevated-subplatform,place-NHRML-0116,Mini-high platform (Track 2/Boston),Mishawum mini-high platform (Track 2/Boston),,,,1
+subplat-NHRML-0152-1,,2,elevated-subplatform,place-NHRML-0152,Mini-high platform (Track 1/Outbound),Wilmington mini-high platform (Track 1/Outbound),,,,1
+subplat-NHRML-0152-2,,2,elevated-subplatform,place-NHRML-0152,Mini-high platform (Track 2/Boston),Wilmington mini-high platform (Track 2/Boston),,,,1
+subplat-NHRML-0218-1,,2,elevated-subplatform,place-NHRML-0218,Mini-high platform (Track 1/Outbound),North Billerica mini-high platform (Track 1/Outbound),,,,1
+subplat-NHRML-0218-2,,2,elevated-subplatform,place-NHRML-0218,Mini-high platform (Track 2/Boston),North Billerica mini-high platform (Track 2/Boston),,,,1
+subplat-SB-0156-1,,2,elevated-subplatform,place-SB-0156,Mini-high platform,Canton Center mini-high platform,,,,1
+subplat-SB-0189-1,,2,elevated-subplatform,place-SB-0189,Mini-high platform,Stoughton mini-high platform,,,,1
+subplat-WML-0199-1,,2,elevated-subplatform,place-WML-0199,Mini-high platform (Track 1),West Natick mini-high platform (Track 1),,,,1
+subplat-WML-0199-2,,2,elevated-subplatform,place-WML-0199,Mini-high platform (Track 2),West Natick mini-high platform (Track 2),,,,1
+subplat-WML-0214-1,,2,elevated-subplatform,place-WML-0214,Mini-high platform (Track 1),Framingham mini-high platform (Track 1),,,,1
+subplat-WML-0214-2,,2,elevated-subplatform,place-WML-0214,Mini-high platform (Track 2),Framingham mini-high platform (Track 2),,,,1
+subplat-WML-0252-1,,2,elevated-subplatform,place-WML-0252,Mini-high platform (Track 1/Outbound),Ashland mini-high platform (Track 1/Outbound),,,,1
+subplat-WML-0252-2,,2,elevated-subplatform,place-WML-0252,Mini-high platform (Track 2/Boston),Ashland mini-high platform (Track 2/Boston),,,,1
+subplat-WML-0274-1,,2,elevated-subplatform,place-WML-0274,Mini-high platform (Track 1/Outbound),Southborough mini-high platform (Track 1/Outbound),,,,1
+subplat-WML-0274-2,,2,elevated-subplatform,place-WML-0274,Mini-high platform (Track 2/Boston),Southborough mini-high platform (Track 2/Boston),,,,1
+subplat-WML-0340-1,,2,elevated-subplatform,place-WML-0340,Mini-high platform (Track 1/Outbound),Westborough mini-high platform (Track 1/Outbound),,,,1
+subplat-WML-0340-2,,2,elevated-subplatform,place-WML-0340,Mini-high platform (Track 2/Boston),Westborough mini-high platform (Track 2/Boston),,,,1
+subplat-WML-0364-1,,2,elevated-subplatform,place-WML-0364,Mini-high platform (Track 1/Outbound),Grafton mini-high platform (Track 1/Outbound),,,,1
+subplat-WML-0364-2,,2,elevated-subplatform,place-WML-0364,Mini-high platform (Track 2/Boston),Grafton mini-high platform (Track 2/Boston),,,,1
+subplat-WML-0442-1,,2,elevated-subplatform,place-WML-0442,Mini-high platform,Worcester mini-high platform,,,,1
+subplat-WR-0075-1,,2,elevated-subplatform,place-WR-0075,Mini-high platform (Track 1/Outbound),Melrose Highlands mini-high platform (Track 1/Outbound),,,,1
+subplat-WR-0075-2,,2,elevated-subplatform,place-WR-0075,Mini-high platform (Track 2/Boston),Melrose Highlands mini-high platform (Track 2/Boston),,,,1
+subplat-WR-0120-1,,2,elevated-subplatform,place-WR-0120,Mini-high platform,Reading mini-high platform,,,,1
+subplat-WR-0205-2,,2,elevated-subplatform,place-WR-0205,Mini-high platform,Ballardvale mini-high platform,,,,1
+subplat-WR-0228-2,,2,elevated-subplatform,place-WR-0228,Mini-high platform,Andover mini-high platform,,,,1
+subplat-WR-0325-1,,2,elevated-subplatform,place-WR-0325,Mini-high platform (Track 1/Outbound),Bradford mini-high platform (Track 1/Outbound),,,,1
+subplat-WR-0325-2,,2,elevated-subplatform,place-WR-0325,Mini-high platform (Track 2/Boston),Bradford mini-high platform (Track 2/Boston),,,,1
+subplat-WR-0329-1,,2,elevated-subplatform,place-WR-0329,Mini-high platform (Track 1),Haverhill mini-high platform (Track 1),,,,1
+subplat-WR-0329-2,,2,elevated-subplatform,place-WR-0329,Mini-high platform (Track 2/Boston),Haverhill mini-high platform (Track 2/Boston),,,,1
 subplat-bbsta-5,,2,elevated-subplatform,place-bbsta,Mini-high platform,Back Bay mini-high platform,,,,1
 subplat-bbsta-7,,2,elevated-subplatform,place-bbsta,Mini-high platform,Back Bay mini-high platform,,,,1
 subplat-bucen,,2,elevated-subplatform,place-bucen,Mini-high platform (Park Street & North),Boston University Central mini-high platform (Park Street & North),,,,1
@@ -1672,7 +1730,8 @@ subplat-mfa,,2,elevated-subplatform,place-mfa,Mini-high platform (Heath Street),
 subplat-miltt-0,,2,elevated-subplatform,place-miltt,Mini-high platform (Mattapan),Milton mini-high platform (Mattapan),,,,1
 subplat-miltt-1,,2,elevated-subplatform,place-miltt,Mini-high platform (Ashmont),Milton mini-high platform (Ashmont),,,,1
 subplat-newto,,2,elevated-subplatform,place-newto,Mini-high platform (Park Street & North),Newton Centre mini-high platform (Park Street & North),,,,1
-subplat-portr,,2,elevated-subplatform,place-portr,Mini-high platform,Porter mini-high platform,,,,1
+subplat-portr-1,,2,elevated-subplatform,place-portr,Mini-high platform (Commuter Rail - Track 1/Outbound),Porter mini-high platform (Commuter Rail - Track 1/Outbound),,,,1
+subplat-portr-2,,2,elevated-subplatform,place-portr,Mini-high platform (Commuter Rail - Track 2/Boston),Porter mini-high platform (Commuter Rail - Track 2/Boston),,,,1
 subplat-smary,,2,elevated-subplatform,place-smary,Mini-high platform (Cleveland Circle),Saint Mary's Street mini-high platform (Cleveland Circle),,,,1
 subplat-spmnl-0,,2,elevated-subplatform,place-spmnl,Mini-high platform,Science Park/West End mini-high platform,,,,1
 subplat-spmnl-1,,2,elevated-subplatform,place-spmnl,Mini-high platform,Science Park/West End mini-high platform,,,,1
