@@ -6355,11 +6355,9 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070089,9070089,Dorchester Avenue @ Fields Corner Station,,,,42.300134,-71.060291,LocalBus,,https://www.mbta.com/stops/9070089,,0,,1,Boston,,,3
 9070120,9070120,Washington Street,Washington Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.343850,-71.142476,LocalBus,,https://www.mbta.com/stops/9070120,,0,,1,Boston,,,3
 9070121,9070121,Washington Street,Washington Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.343924,-71.142985,LocalBus,,https://www.mbta.com/stops/9070121,,0,,1,Boston,,,3
-9070126,9070126,Allston Street,Allston Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.348475,-71.137871,LocalBus,,https://www.mbta.com/stops/9070126,,0,,1,Boston,,,3
-9070127,9070127,Allston Street,Allston Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.348796,-71.138399,LocalBus,,https://www.mbta.com/stops/9070127,,0,,1,Boston,,,3
-9070128,9070128,Griggs Street,Griggs Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.348687,-71.134238,LocalBus,,https://www.mbta.com/stops/9070128,,0,,1,Boston,,,3
+9070128,9070128,Griggs Street,Griggs Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.348749,-71.133770,LocalBus,,https://www.mbta.com/stops/9070128,,0,,1,Boston,,,3
 9070129,9070129,Griggs Street,Griggs Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.348901,-71.134118,LocalBus,,https://www.mbta.com/stops/9070129,,0,,1,Boston,,,3
-9070130,9070130,Harvard Avenue,Harvard Avenue - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.350191,-71.131085,LocalBus,,https://www.mbta.com/stops/9070130,,0,,1,Boston,,,3
+9070130,9070130,Harvard Avenue,Harvard Avenue - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.350250,-71.130488,LocalBus,,https://www.mbta.com/stops/9070130,,0,,1,Boston,,,3
 9070131,9070131,Harvard Avenue,Harvard Avenue - Green Line Westbound Shuttle,,Boston College Shuttle,42.350490,-71.130739,LocalBus,,https://www.mbta.com/stops/9070131,,0,,1,Boston,,,3
 9070134,9070134,Packards Corner,Packards Corner - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.351948,-71.123965,LocalBus,,https://www.mbta.com/stops/9070134,,0,,1,Boston,,,3
 9070150,9070150,Kenmore,Kenmore - Green Line Shuttle,,Green Line Shuttle,42.348712,-71.095526,LocalBus,,https://www.mbta.com/stops/9070150,,0,,1,Boston,,,3
@@ -7182,7 +7180,8 @@ WML-0081-B0,,Newtonville,Newtonville - Commuter Rail Outbound Shuttle,,Outbound 
 WML-0081-B1,,Newtonville,Newtonville - Commuter Rail Inbound Shuttle,,Inbound Shuttle,42.351480,-71.207543,LocalBus,,https://www.mbta.com/stops/place-WML-0081,,0,place-WML-0081,1,Newton,,,3
 place-WML-0091,,West Newton,,,,42.347878,-71.230528,CR-zone-2,"1395 Washington St, Newton, MA 02465",https://www.mbta.com/stops/place-WML-0091,,1,,2,Newton,,,
 WML-0091-02,,West Newton,West Newton - Commuter Rail - Track 2 (All Trains),2,Commuter Rail - Track 2 (All Trains),42.347878,-71.230528,CR-zone-2,,https://www.mbta.com/stops/place-WML-0091,,0,place-WML-0091,2,Newton,,,2
-WML-0091-B,,West Newton,West Newton - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.347997,-71.228833,LocalBus,,https://www.mbta.com/stops/place-WML-0091,,0,place-WML-0091,1,Newton,,,3
+WML-0091-B0,,West Newton,West Newton - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.347639,-71.232205,LocalBus,,https://www.mbta.com/stops/place-WML-0091,,0,place-WML-0091,1,Newton,,,3
+WML-0091-B1,,West Newton,West Newton - Commuter Rail Inbound Shuttle,,Inbound Shuttle,42.347997,-71.228833,LocalBus,,https://www.mbta.com/stops/place-WML-0091,,0,place-WML-0091,1,Newton,,,3
 West Newton,,West Newton,West Newton - Commuter Rail,,Commuter Rail,42.347878,-71.230528,CR-zone-2,,https://www.mbta.com/stops/place-WML-0091,,0,place-WML-0091,2,Newton,,,2
 place-WML-0102,,Auburndale,,,,42.345725,-71.250826,CR-zone-2,"Auburn St and Woodland Rd, Newton, MA 02466",https://www.mbta.com/stops/place-WML-0102,,1,,2,Newton,,,
 Auburndale,,Auburndale,Auburndale - Commuter Rail,,Commuter Rail,42.345725,-71.250826,CR-zone-2,,https://www.mbta.com/stops/place-WML-0102,,0,place-WML-0102,2,Newton,,,2
@@ -7192,8 +7191,7 @@ place-WML-0125,,Wellesley Farms,,,,42.323608,-71.272288,CR-zone-3,"90 Croton St,
 WML-0125,,Wellesley Farms,Wellesley Farms - Commuter Rail,,Commuter Rail,42.323608,-71.272288,CR-zone-3,,https://www.mbta.com/stops/place-WML-0125,,0,place-WML-0125,2,Wellesley,,,2
 WML-0125-01,,Wellesley Farms,Wellesley Farms - Commuter Rail - Track 1,1,Track 1,42.323608,-71.272288,CR-zone-3,,https://www.mbta.com/stops/place-WML-0125,,0,place-WML-0125,2,Wellesley,,,2
 WML-0125-02,,Wellesley Farms,Wellesley Farms - Commuter Rail - Track 2,2,Track 2,42.323608,-71.272288,CR-zone-3,,https://www.mbta.com/stops/place-WML-0125,,0,place-WML-0125,2,Wellesley,,,2
-WML-0125-B0,,Wellesley Farms,Wellesley Farms - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.321966,-71.271227,LocalBus,,https://www.mbta.com/stops/place-WML-0125,,0,place-WML-0125,1,Wellesley,,,3
-WML-0125-B1,,Wellesley Farms,Wellesley Farms - Commuter Rail Inbound Shuttle,,Inbound Shuttle,42.321852,-71.271143,LocalBus,,https://www.mbta.com/stops/place-WML-0125,,0,place-WML-0125,1,Wellesley,,,3
+WML-0125-B,,Wellesley Farms,Wellesley Farms - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.323238,-71.271866,LocalBus,,https://www.mbta.com/stops/place-WML-0125,,0,place-WML-0125,1,Wellesley,,,3
 Wellesley Farms,,Wellesley Farms,Wellesley Farms - Commuter Rail,,Commuter Rail,42.323608,-71.272288,CR-zone-3,,https://www.mbta.com/stops/place-WML-0125,,0,place-WML-0125,2,Wellesley,,,2
 place-WML-0135,,Wellesley Hills,,,,42.310370,-71.277044,CR-zone-3,"341 Washington St, Wellesley, MA 02481",https://www.mbta.com/stops/place-WML-0135,,1,,2,Wellesley,,,
 WML-0135,,Wellesley Hills,Wellesley Hills - Commuter Rail,,Commuter Rail,42.310370,-71.277044,CR-zone-3,,https://www.mbta.com/stops/place-WML-0135,,0,place-WML-0135,2,Wellesley,,,2
@@ -8833,7 +8831,6 @@ node-pktrm-westfare-unpaid,,Park Street,Park Street - Unpaid side of fare gates,
 node-pktrm-weststairs-lobby,,Park Street,Park Street - Bottom of stairs between West Street and Copley & West platform,,,,,,,,level_-1_green_platform,3,place-pktrm,1,Boston,,,
 node-pktrm-wintfare-paid,,Park Street,Park Street - Paid side of fare gates,,,,,,,,level_-1_green_platform,3,place-pktrm,1,Boston,,,
 node-pktrm-wintfare-unpaid,,Park Street,Park Street - Unpaid side of fare gates,,,,,,,,level_-1_green_platform,3,place-pktrm,1,Boston,,,
-place-plsgr,,Pleasant Street,,,,42.351521,-71.118889,,"Commonwealth Ave and Pleasant St, Boston, MA 02215",https://www.mbta.com/stops/place-plsgr,,1,,2,Boston,,,
 place-portr,,Porter,,,,42.388400,-71.119149,CR-zone-1A,"1899 Massachusetts Ave, Cambridge, MA 02140",https://www.mbta.com/stops/place-portr,,1,,1,Cambridge,,,
 70065,70065,Porter,Porter - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.388400,-71.119149,RapidTransit,,https://www.mbta.com/stops/place-portr,level_-3_southbound_platform,0,place-portr,1,Cambridge,,,1
 70066,70066,Porter,Porter - Red Line - Alewife,,Alewife,42.388400,-71.119149,RapidTransit,,https://www.mbta.com/stops/place-portr,level_-4_alewife_platform,0,place-portr,1,Cambridge,,,1
