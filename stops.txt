@@ -5523,7 +5523,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 76593,76593,Moody St @ Washington Ave,,,,42.363169,-71.238784,LocalBus,,https://www.mbta.com/stops/76593,,0,,0,Waltham,Moody Street,Washington Avenue,3
 76594,76594,Moody St @ Ash St,,,,42.365733,-71.238089,LocalBus,,https://www.mbta.com/stops/76594,,0,,1,Waltham,Moody Street,Ash Street,3
 76595,76595,Moody St @ High St,,,,42.367521,-71.237490,LocalBus,,https://www.mbta.com/stops/76595,,0,,0,Waltham,Moody Street,Maple Street,3
-76596,76596,Moody St @ Cushing St,,,,42.369550,-71.237134,LocalBus,,https://www.mbta.com/stops/76596,,0,,1,Waltham,Moody Street,Walnut Street,3
+76596,76596,Moody St @ Cushing St,,,,42.369550,-71.237134,,,https://www.mbta.com/stops/76596,,0,,1,Waltham,Moody Street,Walnut Street,
 76597,76597,Moody St @ Pine St,,,,42.371852,-71.236758,LocalBus,,https://www.mbta.com/stops/76597,,0,,0,Waltham,Moody Street,Pine Street,3
 766,766,2508 Centre St,,,,42.264738,-71.162853,LocalBus,,https://www.mbta.com/stops/766,,0,,0,Boston,Centre Street,Maple Road,3
 7660,7660,Moody St @ Robbins St,,,,42.364485,-71.238487,LocalBus,,https://www.mbta.com/stops/7660,,0,,0,Waltham,Moody Street,Robbins Street,3
@@ -6149,9 +6149,9 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 86943,86943,Moody St @ Main St,,,,42.375625,-71.236982,LocalBus,,https://www.mbta.com/stops/86943,,0,,0,Waltham,Moody Street,Charles Street,3
 86945,86945,Main St @ Appleton St,,,,42.376842,-71.232009,LocalBus,,https://www.mbta.com/stops/86945,,0,,1,Waltham,Main Street,Appleton Street,3
 86946,86946,Main St @ Heard St,,,,42.377011,-71.230501,LocalBus,,https://www.mbta.com/stops/86946,,0,,1,Waltham,Main Street,Lyman Street,3
-86961,86961,Moody St @ Crescent St,,,,42.371561,-71.236933,LocalBus,,https://www.mbta.com/stops/86961,,0,,1,Waltham,Moody Street,Pine Street,3
-86962,86962,Moody St @ Walnut St,,,,42.369674,-71.237240,LocalBus,,https://www.mbta.com/stops/86962,,0,,1,Waltham,Moody Street,Walnut Street,3
-86963,86963,Moody St @ Maple St,,,,42.367716,-71.237567,LocalBus,,https://www.mbta.com/stops/86963,,0,,0,Waltham,Moody Street,Maple Street,3
+86961,86961,Moody St @ Crescent St,,,,42.371561,-71.236933,,,https://www.mbta.com/stops/86961,,0,,1,Waltham,Moody Street,Pine Street,
+86962,86962,Moody St @ Walnut St,,,,42.369674,-71.237240,,,https://www.mbta.com/stops/86962,,0,,1,Waltham,Moody Street,Walnut Street,
+86963,86963,Moody St @ Maple St,,,,42.367716,-71.237567,,,https://www.mbta.com/stops/86963,,0,,0,Waltham,Moody Street,Maple Street,
 86964,86964,Moody St @ Ash St,,,,42.365931,-71.238159,LocalBus,,https://www.mbta.com/stops/86964,,0,,1,Waltham,Moody Street,Ash Street,3
 86965,86965,Moody St @ Orange St,,,,42.363493,-71.238865,LocalBus,,https://www.mbta.com/stops/86965,,0,,0,Waltham,Moody Street,Orange Street,3
 86967,86967,Moody St opp Underwood Pk,,,,42.361158,-71.239218,LocalBus,,https://www.mbta.com/stops/86967,,0,,0,Waltham,Moody Street,Underwood Park,3
@@ -6359,7 +6359,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070129,9070129,Griggs Street,Griggs Street - Green Line Westbound Shuttle,,Boston College Shuttle,42.348901,-71.134118,LocalBus,,https://www.mbta.com/stops/9070129,,0,,1,Boston,,,3
 9070130,9070130,Harvard Avenue,Harvard Avenue - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.350250,-71.130488,LocalBus,,https://www.mbta.com/stops/9070130,,0,,1,Boston,,,3
 9070131,9070131,Harvard Avenue,Harvard Avenue - Green Line Westbound Shuttle,,Boston College Shuttle,42.350490,-71.130739,LocalBus,,https://www.mbta.com/stops/9070131,,0,,1,Boston,,,3
-9070134,9070134,Packards Corner,Packards Corner - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.351948,-71.123965,LocalBus,,https://www.mbta.com/stops/9070134,,0,,1,Boston,,,3
 9070150,9070150,Kenmore,Kenmore - Green Line Shuttle,,Green Line Shuttle,42.348712,-71.095526,LocalBus,,https://www.mbta.com/stops/9070150,,0,,1,Boston,,,3
 9070151,9070151,Kenmore,Kenmore - Green Line Westbound Shuttle,,Green Line Shuttle,42.349196,-71.095826,LocalBus,,https://www.mbta.com/stops/9070151,,0,,1,Boston,,,3
 9070162,9070162,Woodland,Woodland Station - Green Line Shuttle,,Green Line Shuttle,42.332973,-71.243286,LocalBus,,https://www.mbta.com/stops/9070162,,0,,1,Newton,,,3
@@ -6474,8 +6473,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9170,9170,Riverside Ave @ Park St,,,,42.414773,-71.100883,LocalBus,,https://www.mbta.com/stops/9170,,0,,0,Medford,Riverside Avenue,Marine Street,3
 9170168,9170168,Newton Highlands,Newton Highlands - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.321660,-71.206241,LocalBus,,https://www.mbta.com/stops/9170168,,0,,1,Newton,,,3
 9170169,9170169,Newton Highlands,Newton Highlands - Green Line Shuttle,,Green Line Shuttle,42.321751,-71.206079,LocalBus,,https://www.mbta.com/stops/9170169,,0,,1,Newton,,,3
-9170170,9170170,Newton Centre,Newton Centre - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.330311,-71.192684,LocalBus,,https://www.mbta.com/stops/9170170,,0,,1,Newton,,,3
-9170171,9170171,Newton Centre,Newton Centre - Green Line Westbound Shuttle,,Riverside Shuttle,42.330412,-71.192966,LocalBus,,https://www.mbta.com/stops/9170171,,0,,1,Newton,,,3
 9171,9171,Riverside Ave @ Pleasant St,,,,42.415712,-71.102573,LocalBus,,https://www.mbta.com/stops/9171,,0,,0,Medford,Riverside Avenue,Pleasant Street,3
 9172,9172,116 Riverside Ave,,,,42.416769,-71.105122,LocalBus,,https://www.mbta.com/stops/9172,,0,,0,Medford,Riverside Avenue,Sables Court,3
 9174,9174,Winthrop St @ Lawrence Rd,,,,42.423885,-71.120863,LocalBus,,https://www.mbta.com/stops/9174,,0,,0,Medford,Winthrop Street,Suffolk Street,3
@@ -6662,6 +6659,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 986,986,Tremont St @ Hibbard Rd,,,,42.354830,-71.181197,LocalBus,,https://www.mbta.com/stops/986,,0,,1,Newton,Tremont Street,Hibbard Road,3
 98618,98618,Main St @ Stone St,,,,42.146608,-71.252346,LocalBus,,https://www.mbta.com/stops/98618,,0,,0,Walpole,Main Street,East Street,3
 987,987,Park St @ Tremont St,,,,42.355606,-71.182247,LocalBus,,https://www.mbta.com/stops/987,,0,,1,Newton,Park Street,Elmwood Street,3
+987814,987814,Maple St @ Crescent St,,,,42.368363,-71.242096,LocalBus,,https://www.mbta.com/stops/987814,,0,,0,Waltham,Maple Street,Crescent Street,3
 988,988,Centre St @ Jefferson St,,,,42.358040,-71.184642,LocalBus,,https://www.mbta.com/stops/988,,0,,1,Newton,Centre Street,Jefferson Street,3
 989,989,Galen St @ Maple St,,,,42.360079,-71.185332,LocalBus,,https://www.mbta.com/stops/989,,0,,0,Watertown,Galen Street,Maple Street,3
 99,99,Massachusetts Ave @ Albany St,,,,42.360758,-71.095722,LocalBus,,https://www.mbta.com/stops/99,,0,,0,Cambridge,Massachusetts Avenue,Albany Street,3
@@ -6670,6 +6668,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 994,994,Winship St @ Union St,,,,42.346204,-71.152305,LocalBus,,https://www.mbta.com/stops/994,,0,,0,Boston,Winship Street,Union Street,3
 9955,9955,240 Southampton St,,,,42.331049,-71.064668,LocalBus,,https://www.mbta.com/stops/9955,,0,,2,Boston,Southampton Street,Newmarket Square,3
 9960,9960,Massachusetts Ave @ Theo Glynn Way,,,,42.329903,-71.069388,LocalBus,,https://www.mbta.com/stops/9960,,0,,1,Boston,Massachusetts Avenue,Theodore Glynn Way,3
+997814,997814,Maple St @ Moody St,,,,42.367563,-71.237882,LocalBus,,https://www.mbta.com/stops/997814,,0,,0,Waltham,Maple Street,Moody Street,3
 9980,9980,Charles St @ Beacon St,,,,42.356083,-71.069260,LocalBus,,https://www.mbta.com/stops/9980,,0,,0,Boston,Charles Street,Beacon Street,3
 9981,9981,Beacon St opp Walnut St,,,,42.356954,-71.065766,LocalBus,,https://www.mbta.com/stops/9981,,0,,0,Boston,Beacon Street,Walnut Street,3
 9982,9982,Beacon St @ Park St,,,,42.357656,-71.063280,LocalBus,,https://www.mbta.com/stops/9982,,0,,0,Boston,Beacon Street,Park Street,3
