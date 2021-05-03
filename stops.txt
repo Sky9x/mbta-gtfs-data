@@ -6147,6 +6147,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 86941,86941,Main St @ Daniels Ct,,,,42.376091,-71.240113,LocalBus,,https://www.mbta.com/stops/86941,,0,,1,Waltham,Main Street,Exchange Street,3
 86942,86942,702 Main St,,,,42.376064,-71.238183,LocalBus,,https://www.mbta.com/stops/86942,,0,,1,Waltham,Main Street,,3
 86943,86943,Moody St @ Main St,,,,42.375625,-71.236982,LocalBus,,https://www.mbta.com/stops/86943,,0,,0,Waltham,Moody Street,Charles Street,3
+86944,86944,Carter St @ Waltham Comm Rail Sta,,,,42.374525,-71.235692,LocalBus,,https://www.mbta.com/stops/86944,,0,,1,Waltham,Carter Street,,3
 86945,86945,Main St @ Appleton St,,,,42.376842,-71.232009,LocalBus,,https://www.mbta.com/stops/86945,,0,,1,Waltham,Main Street,Appleton Street,3
 86946,86946,Main St @ Heard St,,,,42.377011,-71.230501,LocalBus,,https://www.mbta.com/stops/86946,,0,,1,Waltham,Main Street,Lyman Street,3
 86961,86961,Moody St @ Crescent St,,,,42.371561,-71.236933,,,https://www.mbta.com/stops/86961,,0,,1,Waltham,Moody Street,Pine Street,
@@ -6193,6 +6194,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 8832,8832,Main St @ Pleasant St,,,,42.377539,-71.227937,LocalBus,,https://www.mbta.com/stops/8832,,0,,1,Waltham,Main Street,Pleasant Street,3
 8833,8833,Main St @ Craven Cir,,,,42.377371,-71.229070,LocalBus,,https://www.mbta.com/stops/8833,,0,,1,Waltham,Main Street,,3
 88332,88332,Main St @ Liberty St,,,,42.376911,-71.232884,LocalBus,,https://www.mbta.com/stops/88332,,0,,1,Waltham,Main Street,Liberty Street,3
+88333,88333,Carter St opp Commuter Rail Station,,,,42.374664,-71.235376,LocalBus,,https://www.mbta.com/stops/88333,,0,,1,Waltham,Carter Street,,3
 88334,88334,691 Main St,,,,42.376247,-71.237816,LocalBus,,https://www.mbta.com/stops/88334,,0,,0,Waltham,Main Street,,3
 88335,88335,Main St @ Exchange St,,,,42.376266,-71.240174,LocalBus,,https://www.mbta.com/stops/88335,,0,,1,Waltham,Main Street,Exchange Street,3
 88336,88336,Main St @ Fiske St,,,,42.376313,-71.243712,LocalBus,,https://www.mbta.com/stops/88336,,0,,1,Waltham,Main Street,Fiske Street,3
@@ -6346,11 +6348,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9069,9069,Salem St @ Revere St,,,,42.437257,-71.025457,LocalBus,,https://www.mbta.com/stops/9069,,0,,1,Malden,Salem Street,Revere Street,3
 907,907,Tremont St @ Pembroke St,,,,42.352946,-71.176810,LocalBus,,https://www.mbta.com/stops/907,,0,,1,Newton,Tremont Street,Playstead Road,3
 9070,9070,Salem St @ Lynn St,,,,42.436065,-71.021736,LocalBus,,https://www.mbta.com/stops/9070,,0,,0,Malden,Salem Street,Lynn Street,3
-9070002,9070002,Green Street,Amory St @ Green St - Orange Line Forest Hills Shuttle,,Forest Hills Shuttle,42.310334,-71.107185,LocalBus,,https://www.mbta.com/stops/9070002,,0,,1,Boston,,,3
-9070003,9070003,Green Street,Amory St @ Green St - Orange Line Oak Grove Shuttle,,Oak Grove Shuttle,42.310583,-71.106840,LocalBus,,https://www.mbta.com/stops/9070003,,0,,1,Boston,,,3
-9070004,9070004,Stony Brook,Boylston St @ Stony Brook - Orange Line Forest Hills Shuttle,,Forest Hills Shuttle,42.316940,-71.104203,LocalBus,,https://www.mbta.com/stops/9070004,,0,,1,Boston,,,3
-9070005,9070005,Stony Brook,Boylston St @ Stony Brook - Orange Line Oak Grove Shuttle,,Oak Grove Shuttle,42.317082,-71.104428,LocalBus,,https://www.mbta.com/stops/9070005,,0,,1,Boston,,,3
-9070007,9070007,Jackson Square,Centre St opp Jackson Square Busway - Orange Line Oak Grove Shuttle,,Oak Grove Shuttle,42.322675,-71.099969,LocalBus,,https://www.mbta.com/stops/9070007,,0,,1,Boston,,,3
 9070087,9070087,Dorchester Avenue @ Savin Hill Avenue,,,,42.312722,-71.057353,LocalBus,,https://www.mbta.com/stops/9070087,,0,,1,Boston,,,3
 9070089,9070089,Dorchester Avenue @ Fields Corner Station,,,,42.300134,-71.060291,LocalBus,,https://www.mbta.com/stops/9070089,,0,,1,Boston,,,3
 9070120,9070120,Washington Street,Washington Street - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.343850,-71.142476,LocalBus,,https://www.mbta.com/stops/9070120,,0,,1,Boston,,,3
@@ -6844,8 +6841,6 @@ FR-0074-02,,Waverley,Waverley - Commuter Rail - Track 2 (Boston),2,Track 2 (Bost
 FR-0074-B,,Waverly,Waverly - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.387511,-71.191096,LocalBus,,https://www.mbta.com/stops/place-FR-0074,,0,place-FR-0074,1,Belmont,,,3
 Waverley,,Waverley,Waverley - Commuter Rail,,Commuter Rail,42.387600,-71.190744,CR-zone-1,,https://www.mbta.com/stops/place-FR-0074,,0,place-FR-0074,2,Belmont,,,2
 place-FR-0098,,Waltham,,,,42.374269,-71.235598,CR-zone-2,"75 Carter St, Waltham, MA 02453",https://www.mbta.com/stops/place-FR-0098,,1,,1,Waltham,,,
-86944,86944,Carter St @ Waltham Comm Rail Sta,,,,42.374525,-71.235692,LocalBus,,https://www.mbta.com/stops/place-FR-0098,,0,place-FR-0098,1,Waltham,Carter Street,,3
-88333,88333,Carter St opp Commuter Rail Station,,,,42.374664,-71.235376,LocalBus,,https://www.mbta.com/stops/place-FR-0098,,0,place-FR-0098,1,Waltham,Carter Street,,3
 FR-0098,,Waltham,Waltham - Commuter Rail,,Commuter Rail,42.374269,-71.235598,CR-zone-2,,https://www.mbta.com/stops/place-FR-0098,,0,place-FR-0098,1,Waltham,,,2
 FR-0098-01,,Waltham,Waltham - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.374269,-71.235598,CR-zone-2,,https://www.mbta.com/stops/place-FR-0098,,0,place-FR-0098,1,Waltham,,,2
 FR-0098-S,,Waltham,Waltham - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.374269,-71.235598,CR-zone-2,,https://www.mbta.com/stops/place-FR-0098,,0,place-FR-0098,1,Waltham,,,2
