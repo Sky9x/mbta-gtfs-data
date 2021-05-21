@@ -1,10 +1,17 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
 BUS221-hbb21016-Sa-02,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
+BUS221-hbb21017-Su-02,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
 BUS221-hbc21016-Sa-02,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
+BUS221-hbc21017-Su-02,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
 BUS221-hbg21016-Sa-02,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
+BUS221-hbg21017-Su-02,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
 BUS221-hbl21016-Sa-02,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
+BUS221-hbl21017-Su-02,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
 BUS221-hbq21016-Sa-02,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
+BUS221-hbq21017-Su-02,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
 BUS221-hbs21016-Sa-02,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
+BUS221-hbs21017-Su-02,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
+BUS221-hbt21017-Su-02,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
 BUS221-hbt21sa6-Sa-02,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
 BUS221-htn21sa6-Sa-02,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
 Boat-F1-Sa-Smr-21,Saturday schedule,Saturday,Saturday,1,20210522,,Summer
@@ -14,15 +21,11 @@ Boat-F1-Wdy-Wtr-21,Weekday schedule,Weekday,Weekday,1,20210123,20210521,Winter
 Boat-F4-Sa-Smr-21,Saturday schedule,Saturday,Saturday,1,20210522,,Summer
 Boat-F4-Su-Smr-21,Sunday schedule,Sunday,Sunday,1,20210522,,Summer
 Boat-F4-Wdy-Smr-21,Weekday schedule,Weekday,Weekday,1,20210522,,Summer
-CapeFlyer-Frd,Friday schedule,Friday,Weekday,1,,,
-CapeFlyer-Snd,Sunday schedule,Sunday,Sunday,1,,,
-CapeFlyer-Std,Saturday schedule,Saturday,Saturday,1,,,
 LRV221-hlb21011-Wdy-01-192787bf,Weekday schedule,Weekday,Weekday,4,20210314,20210619,Spring
 LRV221-hlb21011-Wdy-01-60b53db1,Weekday schedule,Weekday,Weekday,4,20210314,20210619,Spring
 LRV221-hlb21011-Wdy-01-9b7534a4,Weekday schedule,Weekday,Weekday,4,20210314,20210619,Spring
 LRV221-hlb21011-Wdy-01-BrnHlsCld,Weekday schedule,Weekday,Weekday,4,20210314,20210619,Spring
 LRV221-hlb21011-Wdy-01-BrnHlsCldKnrRvd,Weekday schedule,Weekday,Weekday,4,20210314,20210619,Spring
-LRV221-hlb21011-Wdy-01-BrnHlsCldRsrRvd,Weekday schedule,Weekday,Weekday,4,20210314,20210619,Spring
 LRV221-hlb21011-Wdy-01-d45a0a24,Weekday schedule,Weekday,Weekday,4,20210314,20210619,Spring
 LRV221-hlb21016-Sa-01-192787bf,Saturday schedule,Saturday,Saturday,4,20210314,20210619,Spring
 LRV221-hlb21016-Sa-01-9b7534a4,Saturday schedule,Saturday,Saturday,4,20210314,20210619,Spring
@@ -36,6 +39,7 @@ LRV221-hlb21017-Su-01-d45a0a24,Sunday schedule,Sunday,Sunday,4,20210314,20210619
 LRV221-hlm21011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20210314,20210619,Spring
 LRV221-hlm21011-Wdy-01-AstMtn,Weekday schedule,Weekday,Weekday,4,20210314,20210619,Spring
 LRV221-hlm21016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
+LRV221-hlm21017-Su-01,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
 MemorialDay,Holiday (Sunday schedule),Holiday,Sunday,3,20210314,20210619,Spring
 PRIV221-hpa21016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
 PRIV221-hpj21016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
@@ -43,19 +47,28 @@ PRIV221-hpj21017-Su-01,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
 PRIV221-hpl21016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
 PRIV221-hpl21017-Su-01,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
 PRIV221-hpp21016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
+PRIV221-hpp21017-Su-01,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
 RTL221-hmb21016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
+RTL221-hmb21017-Su-01,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
 RTL221-hmo21016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
+RTL221-hmo21017-Su-01,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
 RTL221-hms21016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210314,20210619,Spring
-SPR21-N-Su-1,Sunday schedule,Sunday,Sunday,1,20210503,,Spring
+RTL221-hms21017-Su-01,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
+SPR21-N-Su-12,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20210503,,Spring
+SPR21-N-Su-12-S72,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20210503,,Spring
+SPR21-N-Su-12-S9d378dcf-BVR,Sunday schedule (modified service),Sunday (modified service),Sunday,1,20210503,,Spring
 SPR21-N-Wdy-1,Weekday schedule,Weekday,Weekday,1,20210503,,Spring
 SPR21-N-Wdy-1-HvlLwc,Weekday schedule,Weekday,Weekday,4,20210503,,Spring
 SPR21-N-Wdy-1-S72,Weekday schedule,Weekday,Weekday,1,20210503,,Spring
 SPR21-N-Wdy-1-S7d8482ee-NBL,Weekday schedule,Weekday,Weekday,4,20210503,,Spring
 SPR21-N-Wdy-1-S9d378dcf-MRRct,Weekday schedule,Weekday,Weekday,1,20210503,,Spring
-SPR21-S-Su-1,Sunday schedule,Sunday,Sunday,1,20210503,,Spring
-SPR21-S-Su-1-Sb4,Sunday schedule,Sunday,Sunday,1,20210503,,Spring
+SPR21-S-Sa-C1,Saturday schedule,Saturday,Saturday,1,20210503,,Spring
+SPR21-S-Su-12,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20210503,,Spring
+SPR21-S-Su-12-Sb4,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20210503,,Spring
+SPR21-S-Su-C1,Sunday schedule,Sunday,Sunday,1,20210503,,Spring
 SPR21-S-Wdy-1,Weekday schedule,Weekday,Weekday,1,20210503,,Spring
 SPR21-S-Wdy-1-Sb0e4ed14-NwnRlBs,Weekday schedule,Weekday,Weekday,4,20210503,,Spring
+SPR21-S-Wdy-C1,Friday schedule,Friday,Weekday,1,20210503,,Spring
 SpringSaturday,Saturday schedule,Saturday,Saturday,1,20210503,,Spring
-SpringSunday,Sunday schedule,Sunday,Sunday,1,20210314,20210619,Spring
+SpringSunday,Sunday schedule,Sunday,Sunday,1,20210503,,Spring
 SpringWeekday,Weekday schedule,Weekday,Weekday,1,20210314,20210619,Spring
