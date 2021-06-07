@@ -6349,7 +6349,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070130,9070130,Harvard Avenue,Harvard Avenue - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.350250,-71.130488,LocalBus,,https://www.mbta.com/stops/9070130,,0,,1,Boston,,,3
 9070131,9070131,Harvard Avenue,Harvard Avenue - Green Line Westbound Shuttle,,Boston College Shuttle,42.350490,-71.130739,LocalBus,,https://www.mbta.com/stops/9070131,,0,,1,Boston,,,3
 9070150,9070150,Kenmore,Kenmore - Green Line Shuttle,,Green Line Shuttle,42.348712,-71.095526,LocalBus,,https://www.mbta.com/stops/9070150,,0,,1,Boston,,,3
-9070151,9070151,Kenmore,Kenmore - Green Line Westbound Shuttle,,Green Line Shuttle,42.349196,-71.095826,LocalBus,,https://www.mbta.com/stops/9070151,,0,,1,Boston,,,3
 9070162,9070162,Woodland,Woodland Station - Green Line Shuttle,,Green Line Shuttle,42.332973,-71.243286,LocalBus,,https://www.mbta.com/stops/9070162,,0,,1,Newton,,,3
 9070164,9070164,Waban,Waban Station - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.326601,-71.230560,LocalBus,,https://www.mbta.com/stops/9070164,,0,,1,Newton,,,3
 9070165,9070165,Waban,Waban Station - Green Line Westbound Shuttle,,Riverside Shuttle,42.326954,-71.230295,LocalBus,,https://www.mbta.com/stops/9070165,,0,,1,Newton,,,3
@@ -6358,6 +6357,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070171,9070171,Newton Centre,Newton Centre - Green Line Westbound Shuttle,,Westbound Shuttle,42.330073,-71.191265,LocalBus,,https://www.mbta.com/stops/9070171,,0,,1,Newton,,,3
 9070178,9070178,Brookline Hills,Boylston St @ Cypress St - Green Line Newton Highlands Shuttle,,Newton Highlands Shuttle,42.330044,-71.126602,LocalBus,,https://www.mbta.com/stops/9070178,,0,,1,Brookline,,,3
 9070179,9070179,Brookline Hills,Boylston St @ Cypress St - Green Line Kenmore Shuttle,,Kenmore Shuttle,42.330034,-71.125599,LocalBus,,https://www.mbta.com/stops/9070179,,0,,1,Brookline,,,3
+9070180,9070180,Brookline Village,Brookline Village - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.332717,-71.116267,LocalBus,,https://www.mbta.com/stops/9070180,,0,,1,Brookline,,,3
 9071,9071,Warren St @ Melrose St,,,,42.468798,-71.074237,LocalBus,,https://www.mbta.com/stops/9071,,0,,1,Melrose,Warren Street,Melrose Street,3
 9073,9073,Franklin St @ Warren St,,,,42.469465,-71.073595,LocalBus,,https://www.mbta.com/stops/9073,,0,,0,Melrose,Franklin Street,Warren Street,3
 9074,9074,Franklin St opp Greenwood St,,,,42.468688,-71.069631,LocalBus,,https://www.mbta.com/stops/9074,,0,,0,Melrose,Franklin Street,Greenwood Street,3
@@ -7018,9 +7018,7 @@ place-NHRML-0218,,North Billerica,,,,42.593248,-71.280995,CR-zone-5,"Ruggles St 
 NHRML-0218,,North Billerica,North Billerica - Commuter Rail,,Commuter Rail,42.593248,-71.280995,CR-zone-5,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,,,2
 NHRML-0218-01,,North Billerica,North Billerica - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.593248,-71.280995,CR-zone-5,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,,,2
 NHRML-0218-02,,North Billerica,North Billerica - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.593248,-71.280995,CR-zone-5,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,,,2
-NHRML-0218-B1,,North Billerica,North Billerica - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.593132,-71.281252,LocalBus,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,,,3
 place-NHRML-0254,,Lowell,,,,42.635350,-71.314543,CR-zone-6,"101 Thorndike St, Lowell, MA 01852",https://www.mbta.com/stops/place-NHRML-0254,,1,,1,Lowell,,,
-Lowell-S,,Lowell,Lowell - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.636463,-71.314445,LocalBus,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,3
 NHRML-0254,,Lowell,Lowell - Commuter Rail,,Commuter Rail,42.635350,-71.314543,CR-zone-6,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,2
 NHRML-0254-03,,Lowell,Lowell - Commuter Rail - Track 3,3,Track 3,42.635350,-71.314543,CR-zone-6,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,2
 NHRML-0254-04,,Lowell,Lowell - Commuter Rail - Track 4,4,Track 4,42.635350,-71.314543,CR-zone-6,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,2
