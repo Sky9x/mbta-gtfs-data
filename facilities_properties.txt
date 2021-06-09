@@ -6796,6 +6796,7 @@ facility_id,property_id,value
 511,excludes-stop,node-portr-weststairs-crplatform
 511,excludes-stop,node-portr-weststairs-street
 512,direction,up
+512,excludes-stop,20762
 512,excludes-stop,70067
 512,excludes-stop,70068
 512,excludes-stop,door-harsq-brattle
@@ -6837,6 +6838,7 @@ facility_id,property_id,value
 512,excludes-stop,node-harsq-upperramp-upper
 512,excludes-stop,node-harsq-yardstair-lobby
 513,direction,down
+513,excludes-stop,20762
 513,excludes-stop,70067
 513,excludes-stop,70068
 513,excludes-stop,door-harsq-brattle
@@ -6878,6 +6880,7 @@ facility_id,property_id,value
 513,excludes-stop,node-harsq-upperramp-upper
 513,excludes-stop,node-harsq-yardstair-lobby
 514,direction,up
+514,excludes-stop,20762
 514,excludes-stop,70067
 514,excludes-stop,70068
 514,excludes-stop,door-harsq-brattle
@@ -6919,6 +6922,7 @@ facility_id,property_id,value
 514,excludes-stop,node-harsq-upperramp-upper
 514,excludes-stop,node-harsq-yardstair-lobby
 515,direction,down
+515,excludes-stop,20762
 515,excludes-stop,70067
 515,excludes-stop,70068
 515,excludes-stop,door-harsq-brattle
@@ -6960,6 +6964,7 @@ facility_id,property_id,value
 515,excludes-stop,node-harsq-upperramp-upper
 515,excludes-stop,node-harsq-yardstair-lobby
 516,direction,up
+516,excludes-stop,20762
 516,excludes-stop,door-harsq-brattle
 516,excludes-stop,door-harsq-square
 516,excludes-stop,node-512-landing
@@ -8754,6 +8759,7 @@ facility_id,property_id,value
 817,excludes-stop,node-davis-holland-entrance
 817,excludes-stop,node-davis-holland-lobby
 821,alternate-service-text,"To exit, use Harvard Elevator 973 located at the end of upper busway. To board, use Harvard Elevator 973 located at the corner of Brattle St and Brattle Sq."
+821,excludes-stop,20762
 821,excludes-stop,70067
 821,excludes-stop,70068
 821,excludes-stop,door-harsq-brattle
@@ -13064,6 +13070,7 @@ facility_id,property_id,value
 972,excludes-stop,node-kencl-wbstair-lobby
 972,excludes-stop,node-kencl-wbstair-platform
 973,alternate-service-text,"To exit, use Harvard Elevator 821 located in the main lobby. To board, use Harvard Elevator 821 located at the corner of JFK St, Brattle St and Mass Ave (Harvard Sq)."
+973,excludes-stop,20762
 973,excludes-stop,70067
 973,excludes-stop,70068
 973,excludes-stop,door-harsq-church
