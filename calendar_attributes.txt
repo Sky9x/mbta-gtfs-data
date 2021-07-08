@@ -1,6 +1,13 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
+BUS321-hbb31hl7-Su-02,Holiday (Sunday schedule),Holiday,Sunday,3,20210620,20210828,Summer
 BUS321-hbc31fr1-Wdy-02,Weekday schedule,Weekday,Weekday,1,20210620,20210828,Summer
+BUS321-hbc31hl7-Su-02,Holiday (Sunday schedule),Holiday,Sunday,3,20210620,20210828,Summer
 BUS321-hbc31wk1-Wdy-02,Weekday schedule,Weekday,Weekday,1,20210620,20210828,Summer
+BUS321-hbg31hl7-Su-02,Holiday (Sunday schedule),Holiday,Sunday,3,20210620,20210828,Summer
+BUS321-hbl31hl7-Su-02,Holiday (Sunday schedule),Holiday,Sunday,3,20210620,20210828,Summer
+BUS321-hbq31hl7-Su-02,Holiday (Sunday schedule),Holiday,Sunday,3,20210620,20210828,Summer
+BUS321-hbs31hl7-Su-02,Holiday (Sunday schedule),Holiday,Sunday,3,20210620,20210828,Summer
+BUS321-hbt31hl7-Su-02,Holiday (Sunday schedule),Holiday,Sunday,3,20210620,20210828,Summer
 Boat-F1-SaExpanded-Smr-21,Saturday schedule,Saturday,Saturday,1,20210522,,Summer
 Boat-F1-SuExpanded-Smr-21,Sunday schedule,Sunday,Sunday,1,20210522,,Summer
 Boat-F1-WdyExpanded-Smr-21,Weekday schedule,Weekday,Weekday,1,20210522,,Summer
@@ -9,18 +16,23 @@ Boat-F4-Su-Smr-21,Sunday schedule,Sunday,Sunday,1,20210522,,Summer
 Boat-F4-Wdy-Smr-21,Weekday schedule,Weekday,Weekday,1,20210522,,Summer
 GreenD-ExpressShuttle-DSx,Weekday schedule (additional trips for daytime Red Sox game),Weekday (additional trips for daytime Red Sox game),Weekday,4,20210314,20210828,Spring/Summer
 GreenD-ExpressShuttle-NSx,Weekday schedule,Weekday,Weekday,4,20210314,20210828,Spring/Summer
-GreenD-ExpressShuttle-NgtSx,Weekday schedule (additional trips for evening Red Sox game),Weekday (additional trips for evening Red Sox game),Weekday,4,20210314,20210828,Spring/Summer
-IndependenceDay,Holiday (Sunday schedule),Holiday,Sunday,3,20210620,20210828,Summer
+IndependenceDay,Holiday (Sunday schedule),Holiday,Sunday,3,20210503,,Spring
 IndependenceDay(Observed),Sunday schedule,Sunday,Sunday,1,20210620,20210828,Summer
 LRV321-hlb31011-Wdy-01-2e3ff2c2,Weekday schedule,Weekday,Weekday,4,20210620,20210828,Summer
 LRV321-hlb31011-Wdy-01-51a86faa,Weekday schedule,Weekday,Weekday,4,20210620,20210828,Summer
+LRV321-hlb31011-Wdy-01-9b411956,Weekday schedule,Weekday,Weekday,4,20210620,20210828,Summer
+LRV321-hlb31011-Wdy-01-BrmBrnHlsCld,Weekday schedule,Weekday,Weekday,4,20210620,20210828,Summer
 LRV321-hlb31011-Wdy-01-BrnHlsCld,Weekday schedule,Weekday,Weekday,4,20210620,20210828,Summer
 LRV321-hlb31011-Wdy-01-BrnHlsCldFnwRsr,Weekday schedule,Weekday,Weekday,4,20210620,20210828,Summer
 LRV321-hlb31011-Wdy-01-d48cecc2,Weekday schedule,Weekday,Weekday,4,20210620,20210828,Summer
 LRV321-hlb31011-Wdy-01-eeb15e6f,Weekday schedule,Weekday,Weekday,4,20210620,20210828,Summer
+LRV321-hlb31011-Wdy-01-f5e3aaa2,Weekday schedule,Weekday,Weekday,4,20210620,20210828,Summer
+LRV321-hlb31016-Sa-01-0b67509c,Saturday schedule,Saturday,Saturday,4,20210620,20210828,Summer
+LRV321-hlb31016-Sa-01-46357e62,Saturday schedule,Saturday,Saturday,4,20210620,20210828,Summer
 LRV321-hlb31016-Sa-01-98bf0cf4,Saturday schedule,Saturday,Saturday,4,20210620,20210828,Summer
 LRV321-hlb31016-Sa-01-9b7534a4,Saturday schedule,Saturday,Saturday,4,20210620,20210828,Summer
 LRV321-hlb31016-Sa-01-BrnHlsCld,Saturday schedule,Saturday,Saturday,4,20210620,20210828,Summer
+LRV321-hlb31017-Su-01-0b67509c,Sunday schedule,Sunday,Sunday,4,20210620,20210828,Summer
 LRV321-hlb31017-Su-01-98bf0cf4,Sunday schedule,Sunday,Sunday,4,20210620,20210828,Summer
 LRV321-hlb31017-Su-01-9b7534a4,Sunday schedule,Sunday,Sunday,4,20210620,20210828,Summer
 LRV321-hlb31017-Su-01-BrnHlsCld,Sunday schedule,Sunday,Sunday,4,20210620,20210828,Summer
@@ -28,23 +40,19 @@ LRV321-hlm31016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210620,20210828,Su
 LRV321-hlm31017-Su-01,Sunday schedule,Sunday,Sunday,1,20210620,20210828,Summer
 PRIV321-hpj31017-Su-01,Sunday schedule,Sunday,Sunday,1,20210620,20210828,Summer
 PRIV321-hpl31017-Su-01,Sunday schedule,Sunday,Sunday,1,20210620,20210828,Summer
+PRIV321-hpp31hl7-Su-01,Holiday (Sunday schedule),Holiday,Sunday,3,20210620,20210828,Summer
 RTL321-hmb31016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210620,20210828,Summer
 RTL321-hmb31017-Su-01,Sunday schedule,Sunday,Sunday,1,20210620,20210828,Summer
 RTL321-hmo31011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20210620,20210828,Summer
 RTL321-hmo31011-Wdy-01-OkGrvSln,Weekday schedule,Weekday,Weekday,4,20210620,20210828,Summer
 RTL321-hmo31016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210620,20210828,Summer
-RTL321-hmo31016-Sa-01-OkGrvSln,Saturday schedule,Saturday,Saturday,4,20210620,20210828,Summer
 RTL321-hmo31017-Su-01,Sunday schedule,Sunday,Sunday,1,20210620,20210828,Summer
 RTL321-hmo31017-Su-01-1-FrtHlsJcnSqr,Sunday schedule,Sunday,Sunday,4,20210620,20210828,Summer
-RTL321-hmo31017-Su-01-OkGrvSln,Sunday schedule,Sunday,Sunday,4,20210620,20210828,Summer
 RTL321-hms31016-Sa-01,Saturday schedule,Saturday,Saturday,1,20210620,20210828,Summer
 RTL321-hms31017-Su-01,Sunday schedule,Sunday,Sunday,1,20210620,20210828,Summer
 SPR21-N-Sa-6-LtnWct,Saturday schedule,Saturday,Saturday,4,20210503,,Spring
 SPR21-N-Sa-6-S72,Saturday schedule,Saturday,Saturday,1,20210503,,Spring
 SPR21-N-Sa-6-S9d378dcf-MRRct,Saturday schedule,Saturday,Saturday,1,20210503,,Spring
-SPR21-N-Su-11-LtnWct,Holiday (Sunday schedule),Holiday,Sunday,3,20210503,,Spring
-SPR21-N-Su-11-S72,Holiday (Sunday schedule),Holiday,Sunday,3,20210503,,Spring
-SPR21-N-Su-11-S9d378dcf-MRRct,Holiday (Sunday schedule),Holiday,Sunday,3,20210503,,Spring
 SPR21-N-Su-6-LtnWct,Sunday schedule,Sunday,Sunday,4,20210503,,Spring
 SPR21-N-Su-6-S72,Sunday schedule,Sunday,Sunday,1,20210503,,Spring
 SPR21-N-Su-6-S9d378dcf-MRRct,Sunday schedule,Sunday,Sunday,1,20210503,,Spring
@@ -52,16 +60,10 @@ SPR21-N-Wdy-1,Weekday schedule,Weekday,Weekday,1,20210503,,Spring
 SPR21-N-Wdy-1-HvlLwc,Weekday schedule,Weekday,Weekday,4,20210503,,Spring
 SPR21-N-Wdy-1-S72,Weekday schedule,Weekday,Weekday,1,20210503,,Spring
 SPR21-N-Wdy-1-S9d378dcf-MRRct,Weekday schedule,Weekday,Weekday,1,20210503,,Spring
-SPR21-N-Wdy-8-HvlLwc,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20210503,,Spring
-SPR21-N-Wdy-8-S72,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20210503,,Spring
-SPR21-N-Wdy-8-S9d378dcf-MRRct,Weekday schedule (modified service),Weekday (modified service),Weekday,1,20210503,,Spring
 SPR21-S-Sa-6,Saturday schedule,Saturday,Saturday,1,20210503,,Spring
 SPR21-S-Sa-6-S0f,Saturday schedule,Saturday,Saturday,1,20210503,,Spring
 SPR21-S-Sa-6-Sb4,Saturday schedule,Saturday,Saturday,1,20210503,,Spring
 SPR21-S-Sa-C1,Saturday schedule,Saturday,Saturday,1,20210503,,Spring
-SPR21-S-Su-11,Holiday (Sunday schedule),Holiday,Sunday,3,20210503,,Spring
-SPR21-S-Su-11-S0f,Holiday (Sunday schedule),Holiday,Sunday,3,20210503,,Spring
-SPR21-S-Su-11-Sb4,Holiday (Sunday schedule),Holiday,Sunday,3,20210503,,Spring
 SPR21-S-Su-6,Sunday schedule,Sunday,Sunday,1,20210503,,Spring
 SPR21-S-Su-6-S0f,Sunday schedule,Sunday,Sunday,1,20210503,,Spring
 SPR21-S-Su-6-Sb4,Sunday schedule,Sunday,Sunday,1,20210503,,Spring
@@ -69,12 +71,7 @@ SPR21-S-Su-C1,Sunday schedule,Sunday,Sunday,1,20210503,,Spring
 SPR21-S-Wdy-1,Weekday schedule,Weekday,Weekday,1,20210503,,Spring
 SPR21-S-Wdy-1-S0f,Weekday schedule,Weekday,Weekday,1,20210503,,Spring
 SPR21-S-Wdy-1-Sb0e4ed14-NwnRlBs,Weekday schedule,Weekday,Weekday,4,20210503,,Spring
-SPR21-S-Wdy-5,Weekday schedule,Weekday,Weekday,1,20210503,,Spring
-SPR21-S-Wdy-5-S0f,Weekday schedule,Weekday,Weekday,1,20210503,,Spring
-SPR21-S-Wdy-5-Sb0e4ed14-NwnRlBs,Weekday schedule,Weekday,Weekday,4,20210503,,Spring
 SPR21-S-Wdy-C1,Friday schedule,Friday,Weekday,1,20210503,,Spring
-SpringSaturday,Saturday schedule,Saturday,Saturday,1,20210503,,Spring
-SpringSunday,Sunday schedule,Sunday,Sunday,1,20210503,,Spring
 SummerSaturday,Saturday schedule,Saturday,Saturday,1,20210620,20210828,Summer
 SummerSunday,Sunday schedule,Sunday,Sunday,1,20210620,20210828,Summer
 SummerWeekday,Weekday schedule,Weekday,Weekday,1,20210620,20210828,Summer
