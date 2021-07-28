@@ -1616,7 +1616,6 @@ facility_id,property_id,value
 312,excludes-stop,node-mlmnl-olstairs-platform
 312,excludes-stop,node-mlmnl-ramptop
 313,direction,up
-313,excludes-stop,8310
 313,excludes-stop,door-haecl-busway
 313,excludes-stop,door-haecl-congress
 313,excludes-stop,node-313-lobby
@@ -6799,6 +6798,7 @@ facility_id,property_id,value
 512,excludes-stop,20762
 512,excludes-stop,70067
 512,excludes-stop,70068
+512,excludes-stop,door-harsq-brattle
 512,excludes-stop,door-harsq-church
 512,excludes-stop,door-harsq-yard
 512,excludes-stop,node-512-landing
@@ -6840,6 +6840,7 @@ facility_id,property_id,value
 513,excludes-stop,20762
 513,excludes-stop,70067
 513,excludes-stop,70068
+513,excludes-stop,door-harsq-brattle
 513,excludes-stop,door-harsq-church
 513,excludes-stop,door-harsq-yard
 513,excludes-stop,node-512-landing
@@ -6881,6 +6882,7 @@ facility_id,property_id,value
 514,excludes-stop,20762
 514,excludes-stop,70067
 514,excludes-stop,70068
+514,excludes-stop,door-harsq-brattle
 514,excludes-stop,door-harsq-church
 514,excludes-stop,door-harsq-yard
 514,excludes-stop,node-512-landing
@@ -6922,6 +6924,7 @@ facility_id,property_id,value
 515,excludes-stop,20762
 515,excludes-stop,70067
 515,excludes-stop,70068
+515,excludes-stop,door-harsq-brattle
 515,excludes-stop,door-harsq-church
 515,excludes-stop,door-harsq-yard
 515,excludes-stop,node-512-landing
@@ -6961,6 +6964,7 @@ facility_id,property_id,value
 515,excludes-stop,node-harsq-yardstair-lobby
 516,direction,up
 516,excludes-stop,20762
+516,excludes-stop,door-harsq-brattle
 516,excludes-stop,door-harsq-square
 516,excludes-stop,node-512-landing
 516,excludes-stop,node-513-landing
@@ -8757,6 +8761,7 @@ facility_id,property_id,value
 821,excludes-stop,20762
 821,excludes-stop,70067
 821,excludes-stop,70068
+821,excludes-stop,door-harsq-brattle
 821,excludes-stop,door-harsq-church
 821,excludes-stop,door-harsq-yard
 821,excludes-stop,node-512-landing
@@ -9740,7 +9745,7 @@ facility_id,property_id,value
 860,alternate-service-text,"To exit, exit the train at Harvard, then take an Ashmont or Braintree-bound train to Central and use Central Elevator 861. To board, cross Mass Ave to the Route 1 bus stop at Mass Ave and Prospect St, and take a Route 1 (Harvard) bus to Harvard to access the Red Line."
 860,excludes-stop,70069
 860,excludes-stop,door-cntsq-essex
-860,excludes-stop,door-cntsq-obmass
+860,excludes-stop,door-cntsq-ibmass
 860,excludes-stop,door-cntsq-pearl
 860,excludes-stop,door-cntsq-prospect
 860,excludes-stop,door-cntsq-western
@@ -10227,7 +10232,7 @@ facility_id,property_id,value
 881,excludes-stop,node-sull-nbstairs-platform
 881,excludes-stop,node-sull-sbstairs-lobby
 881,excludes-stop,node-sull-sbstairs-platform
-884,alternate-service-text,"To exit, exit the train at Beachmont,  then take a Wonderland-bound train to Revere Beach and use Revere Beach Elevator 885. To board, use Revere Beach Elevator 885 to access the Wonderland platform. Take a Wonderlamd-bound train to Wonderland, then transfer to a Bowdoin-bound train."
+884,alternate-service-text,"To exit, exit the train at Beachmont,  then take a Wonderland-bound train to Revere Beach and use Revere Beach Elevator 885. To board, use Revere Beach Elevator 885 to access the Wonderland platform. Take a Wonderland-bound train to Wonderland, then transfer to a Bowdoin-bound train."
 884,excludes-stop,70058
 884,excludes-stop,door-rbmnl-beach
 884,excludes-stop,door-rbmnl-ocean
@@ -10785,7 +10790,6 @@ facility_id,property_id,value
 901,excludes-stop,node-sstat-south-fareunpaid
 903,alternate-service-text,"To exit, take Haymarket Elevator 907 to the Orange Line underpass, then proceed to the end of the hallway and use Haymarket Elevator 906 to access the Green Line platform. At the Green Line platform, turn right and proceed to the lobby and use Haymarket Elevator 908 to access the busway. To board the Orange Line, take Haymarket Elevator 904 to the Forest Hills platform, then proceed to the end of the platform and use Haymarket Elevator 905 to access the Orange Line underpass. At the underpass, use Haymarket Elevator 907 to access the Oak Grove platform."
 903,excludes-stop,70024
-903,excludes-stop,8310
 903,excludes-stop,door-haecl-busway
 903,excludes-stop,door-haecl-congress
 903,excludes-stop,node-313-lobby
@@ -10830,7 +10834,6 @@ facility_id,property_id,value
 903,excludes-stop,node-haecl-passogstair-platform
 904,alternate-service-text,"To exit, take Haymarket Elevator 905 to the Orange Line underpass, then proceed to the end of the hallway and use Haymarket Elevator 906 to access the Green Line platform. At the Green Line platform, turn right and proceed to the lobby and use Haymarket Elevator 908 to access the busway. To board the Orange Line, take Haymarket Elevator 903 to the Oak Grove platform, then proceed to the end of the platform and use Haymarket Elevator 907 to access the Orange Line underpass.  At the underpass, use Haymarket Elevator 905 to access the Forest Hills platform."
 904,excludes-stop,70025
-904,excludes-stop,8310
 904,excludes-stop,door-haecl-busway
 904,excludes-stop,door-haecl-congress
 904,excludes-stop,node-313-lobby
@@ -10875,7 +10878,6 @@ facility_id,property_id,value
 904,excludes-stop,node-haecl-passogstair-platform
 905,alternate-service-text,"To board or exit, use Haymarket Elevator 904 to travel between the Forest Hills platform and the Congress St. lobby. To transfer to the Green Line, take Haymarket Elevator 904 to the Congress St lobby, then use Haymarket Elevator 903 to access the Oak Grove platform. At the Oak Grove platform, proceed to the end of platform and take Haymarket Elevator 907 to the Orange Line underpass, then proceed to the end of the hallway and use Haymarket Elevator 906 to access the Green Line platform."
 905,excludes-stop,70025
-905,excludes-stop,8310
 905,excludes-stop,door-haecl-busway
 905,excludes-stop,door-haecl-congress
 905,excludes-stop,node-313-lobby
@@ -10919,7 +10921,6 @@ facility_id,property_id,value
 905,excludes-stop,node-haecl-passogstair-passage
 905,excludes-stop,node-haecl-passogstair-platform
 906,alternate-service-text,"To board or exit the Green Line, use Haymarket Elevator 908 to travel between the Green Line lobby and the busway located at Sudbury St and New Chardon St. To board or exit the Orange Line, use Elevators 903 (Oak Grove platform) or 904 (Forest Hills platform) to access the Congress St lobby."
-906,excludes-stop,8310
 906,excludes-stop,door-haecl-busway
 906,excludes-stop,door-haecl-congress
 906,excludes-stop,node-313-lobby
@@ -10964,7 +10965,6 @@ facility_id,property_id,value
 906,excludes-stop,node-haecl-passogstair-platform
 907,alternate-service-text,"To board or exit, use Haymarket Elevator 903 to travel between the Oak Grove platform and the Congress St lobby. To transfer to the Green Line, take Haymarket Elevator 903 to the Congress St lobby, then use Haymarket Elevator 904 to access the Forest Hills platform. At the Forest Hills platform, proceed to the end of platform and take Haymarket Elevator 905 to the Orange Line underpass, then proceed to the end of the hallway and use Haymarket Elevator 906 to access the Green Line platform."
 907,excludes-stop,70024
-907,excludes-stop,8310
 907,excludes-stop,door-haecl-busway
 907,excludes-stop,door-haecl-congress
 907,excludes-stop,node-313-lobby
@@ -11010,7 +11010,6 @@ facility_id,property_id,value
 908,alternate-service-text,"To exit the Green Line, take Haymarket Elevator 906 to the Orange Line underpass, then proceed to Haymarket Elevator 905 to access the Forest Hills platform. At the Forest Hills platform, use Haymarket Elevator 904 for access the Congress St lobby. To board the Green Line, travel to the intersection of New Sudbury St and Congress St, and turn left on Congress St. Proceed on Congress St to the Congress St lobby and use Haymarket Elevator 903 to access the Oak Groves platform. At the Oak Grove platform, proceed to the end of platform and take Haymarket Elevator 907 to the Orange Line underpass, then proceed to the end of the hallway and use Haymarket Elevator 906 to access the Green Line platform. To board or exit the Orange Line, use Elevators 903 (Oak Grove platform) or 904 (Forest Hills platform) to access the Congress St lobby."
 908,excludes-stop,70024
 908,excludes-stop,70025
-908,excludes-stop,8310
 908,excludes-stop,door-haecl-busway
 908,excludes-stop,door-haecl-congress
 908,excludes-stop,node-313-lobby
@@ -15155,10 +15154,12 @@ fvm-201131,excludes-stop,door-harsq-yard
 fvm-201131,payment-form-accepted,cash
 fvm-201131,payment-form-accepted,credit-debit-card
 fvm-201132,enclosed,1
+fvm-201132,excludes-stop,door-harsq-brattle
 fvm-201132,excludes-stop,door-harsq-square
 fvm-201132,payment-form-accepted,cash
 fvm-201132,payment-form-accepted,credit-debit-card
 fvm-201133,enclosed,1
+fvm-201133,excludes-stop,door-harsq-brattle
 fvm-201133,excludes-stop,door-harsq-square
 fvm-201133,payment-form-accepted,cash
 fvm-201133,payment-form-accepted,credit-debit-card
@@ -16324,9 +16325,11 @@ fvm-202090,excludes-stop,door-harsq-church
 fvm-202090,excludes-stop,door-harsq-yard
 fvm-202090,payment-form-accepted,credit-debit-card
 fvm-202091,enclosed,1
+fvm-202091,excludes-stop,door-harsq-brattle
 fvm-202091,excludes-stop,door-harsq-square
 fvm-202091,payment-form-accepted,credit-debit-card
 fvm-202092,enclosed,1
+fvm-202092,excludes-stop,door-harsq-brattle
 fvm-202092,excludes-stop,door-harsq-square
 fvm-202092,payment-form-accepted,credit-debit-card
 fvm-202093,enclosed,1
@@ -20241,12 +20244,10 @@ portlift-gover,note,"Significant barriers exist at station, but customers may be
 portlift-haecl-0,excludes-stop,70024
 portlift-haecl-0,excludes-stop,70025
 portlift-haecl-0,excludes-stop,70204
-portlift-haecl-0,excludes-stop,8310
 portlift-haecl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-haecl-1,excludes-stop,70024
 portlift-haecl-1,excludes-stop,70025
 portlift-haecl-1,excludes-stop,70203
-portlift-haecl-1,excludes-stop,8310
 portlift-haecl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-harvd-0,excludes-stop,70131
 portlift-harvd-0,excludes-stop,9070130
