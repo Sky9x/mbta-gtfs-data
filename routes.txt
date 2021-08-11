@@ -163,7 +163,7 @@ Boat-F1,1,,Hingham/Hull Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F1,008
 325,1,325,"Elm Street, Medford - Haymarket Station",Commuter Bus,3,https://www.mbta.com/schedules/325,FFC72C,000000,53250,Inner Express,line-325326,
 326,1,326,West Medford - Haymarket Station,Commuter Bus,3,https://www.mbta.com/schedules/326,FFC72C,000000,53260,Inner Express,line-325326,
 350,1,350,North Burlington - Alewife Station,Local Bus,3,https://www.mbta.com/schedules/350,FFC72C,000000,53500,Local Bus,line-350351,
-351,1,351,Bedford Woods Drive - Alewife Station,Commuter Bus,3,https://www.mbta.com/schedules/351,FFC72C,000000,53510,Inner Express,line-350351,
+351,1,351,Bedford Woods Drive - Alewife Station,Commuter Bus,3,https://www.mbta.com/schedules/351,FFC72C,000000,53510,Local Bus,line-350351,
 352,1,352,"North Burlington - State Street, Boston",Commuter Bus,3,https://www.mbta.com/schedules/352,FFC72C,000000,53520,Inner Express,line-352,
 354,1,354,"North Burlington - State Street, Boston",Commuter Bus,3,https://www.mbta.com/schedules/354,FFC72C,000000,53540,Inner Express,line-354,
 411,1,411,Kennedy Drive or Jack Satter House - Malden Center Station,Local Bus,3,https://www.mbta.com/schedules/411,FFC72C,000000,54110,Local Bus,line-411430,
@@ -200,6 +200,7 @@ Boat-F1,1,,Hingham/Hull Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F1,008
 716,1,716,Cobbs Corner - Mattapan Station,Local Bus,3,https://www.mbta.com/schedules/716,FFC72C,000000,57160,Local Bus,line-716,
 602,1,Green Line Shuttle,Lechmere Station - North Station,Rail Replacement Bus,3,,FFC72C,000000,60200,Free,line-Green,1
 Shuttle-BabcockKenmore,1,Green Line B Shuttle,Babcock Street - Kenmore,Rail Replacement Bus,3,,FFC72C,000000,60460,Free,line-Green,1
+Shuttle-BallardvaleMaldenCenter,1,Haverhill Line Shuttle,Ballardvale - Malden Center,Rail Replacement Bus,3,,FFC72C,000000,60650,Free,line-Haverhill,1
 Shuttle-BrooklineVillageRiverside,1,Green Line D Shuttle,Riverside - Brookline Village,Rail Replacement Bus,3,,FFC72C,000000,61275,Free,line-Green,1
 Shuttle-FenwayRiverside,1,Green Line D Shuttle,Riverside - Fenway,Rail Replacement Bus,3,,FFC72C,000000,61510,Free,line-Green,1
 Shuttle-Generic,1,Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61910,Free,,1
@@ -232,6 +233,7 @@ Shuttle-Generic-Red-Ashmont,1,Red Line Ashmont Shuttle,,Rail Replacement Bus,3,,
 Shuttle-Generic-Red-Braintree,1,Red Line Braintree Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61937,Free,line-Red,1
 Shuttle-Generic-Red-Trunk,1,Red Line Trunk Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61938,Free,line-Red,1
 Shuttle-Generic-Worcester,1,Framingham/Worcester Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61939,Free,line-Worcester,1
+Shuttle-HaverhillMaldenCenter,1,Haverhill Line Shuttle,Haverhill - Malden Center,Rail Replacement Bus,3,,FFC72C,000000,61970,Free,line-Haverhill,1
 Shuttle-KenmoreRiverside,1,Green Line D Shuttle,Riverside - Kenmore,Rail Replacement Bus,3,,FFC72C,000000,62012,Free,line-Green,1
 Shuttle-KenmoreWashington,1,Green Line B Shuttle,Washington Street - Kenmore,Rail Replacement Bus,3,,FFC72C,000000,62018,Free,line-Green,1
 Shuttle-LittletonWachusett,1,Fitchburg Line Shuttle,Wachusett - Littleton/Route 495,Rail Replacement Bus,3,,FFC72C,000000,62025,Free,line-Fitchburg,1
