@@ -7023,8 +7023,8 @@ FR-0494-CS,,Fitchburg,Fitchburg - Commuter Rail - Track 3 (All Trains),3,Track 3
 place-FR-3338,,Wachusett,,,,42.553477,-71.848488,CR-zone-8,"55 Authority Dr, Fitchburg, MA 01420",https://www.mbta.com/stops/place-FR-3338,,1,,1,Fitchburg,,,
 FR-3338-B,,Wachusett,Wachusett - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.553441,-71.848127,LocalBus,,https://www.mbta.com/stops/place-FR-3338,,0,place-FR-3338,1,Fitchburg,,,3
 FR-3338-CS,,Wachusett,Wachusett - Commuter Rail - Track 3 (All Trains),3,Track 3 (All Trains),42.553477,-71.848488,CR-zone-8,,https://www.mbta.com/stops/place-FR-3338,,0,place-FR-3338,1,Fitchburg,,,2
-place-FS-0049,,Foxboro,,,,42.095100,-71.261510,CR-zone-4,"Gillette Stadium near Lots 3 and 4, Foxborough, MA 02035",https://www.mbta.com/stops/place-FS-0049,,1,,1,Foxborough,,,
-FS-0049-S,,Foxboro,Foxboro - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.095100,-71.261510,CR-zone-4,,https://www.mbta.com/stops/place-FS-0049,,0,place-FS-0049,1,Foxborough,,,2
+place-FS-0049,,Foxboro,,,,42.095100,-71.261510,CR-zone-Event,"Gillette Stadium near Lots 3 and 4, Foxborough, MA 02035",https://www.mbta.com/stops/place-FS-0049,,1,,1,Foxborough,,,
+FS-0049-S,,Foxboro,Foxboro - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.095100,-71.261510,CR-zone-Event,,https://www.mbta.com/stops/place-FS-0049,,0,place-FS-0049,1,Foxborough,,,2
 place-GB-0198,,Montserrat,,,,42.562171,-70.869254,CR-zone-4,"180 Essex St, Beverly, MA 01915",https://www.mbta.com/stops/place-GB-0198,,1,,1,Beverly,,,
 GB-0198,,Montserrat,Montserrat - Commuter Rail,,Commuter Rail,42.562171,-70.869254,CR-zone-4,,https://www.mbta.com/stops/place-GB-0198,,0,place-GB-0198,1,Beverly,,,2
 GB-0198-01,,Montserrat,Montserrat - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.562171,-70.869254,CR-zone-4,,https://www.mbta.com/stops/place-GB-0198,,0,place-GB-0198,1,Beverly,,,2
@@ -7205,11 +7205,11 @@ WML-0035-02,,Boston Landing,Boston Landing - Commuter Rail - Track 2 (South Stat
 place-WML-0081,,Newtonville,,,,42.351702,-71.205408,CR-zone-1,"770 Washington St Newton, MA 02460",https://www.mbta.com/stops/place-WML-0081,,1,,2,Newton,,,
 WML-0081-02,,Newtonville,Newtonville - Commuter Rail - Track 2 (All Trains),2,Commuter Rail - Track 2 (All Trains),42.351702,-71.205408,CR-zone-1,,https://www.mbta.com/stops/place-WML-0081,,0,place-WML-0081,2,Newton,,,2
 WML-0081-B0,,Newtonville,Newtonville - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.351356,-71.207046,LocalBus,,https://www.mbta.com/stops/place-WML-0081,,0,place-WML-0081,1,Newton,,,3
-WML-0081-B1,,Newtonville,Newtonville - Commuter Rail Inbound Shuttle,,Inbound Shuttle,42.351480,-71.207543,LocalBus,,https://www.mbta.com/stops/place-WML-0081,,0,place-WML-0081,1,Newton,,,3
+WML-0081-B1,,Newtonville,Newtonville - Commuter Rail Boston Shuttle,,Boston Shuttle,42.351480,-71.207543,LocalBus,,https://www.mbta.com/stops/place-WML-0081,,0,place-WML-0081,1,Newton,,,3
 place-WML-0091,,West Newton,,,,42.347878,-71.230528,CR-zone-2,"1395 Washington St, Newton, MA 02465",https://www.mbta.com/stops/place-WML-0091,,1,,2,Newton,,,
 WML-0091-02,,West Newton,West Newton - Commuter Rail - Track 2 (All Trains),2,Commuter Rail - Track 2 (All Trains),42.347878,-71.230528,CR-zone-2,,https://www.mbta.com/stops/place-WML-0091,,0,place-WML-0091,2,Newton,,,2
 WML-0091-B0,,West Newton,West Newton - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.347639,-71.232205,LocalBus,,https://www.mbta.com/stops/place-WML-0091,,0,place-WML-0091,1,Newton,,,3
-WML-0091-B1,,West Newton,West Newton - Commuter Rail Inbound Shuttle,,Inbound Shuttle,42.347997,-71.228833,LocalBus,,https://www.mbta.com/stops/place-WML-0091,,0,place-WML-0091,1,Newton,,,3
+WML-0091-B1,,West Newton,West Newton - Commuter Rail Boston Shuttle,,Boston Shuttle,42.347997,-71.228833,LocalBus,,https://www.mbta.com/stops/place-WML-0091,,0,place-WML-0091,1,Newton,,,3
 place-WML-0102,,Auburndale,,,,42.345725,-71.250826,CR-zone-2,"Auburn St and Woodland Rd, Newton, MA 02466",https://www.mbta.com/stops/place-WML-0102,,1,,2,Newton,,,
 WML-0102-02,,Auburndale,Auburndale - Commuter Rail - Track 2 (All Trains),2,Commuter Rail - Track 2 (All Trains),42.345725,-71.250826,CR-zone-2,,https://www.mbta.com/stops/place-WML-0102,,0,place-WML-0102,2,Newton,,,2
 WML-0102-B,,Auburndale,Auburndale - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.345148,-71.252123,LocalBus,,https://www.mbta.com/stops/place-WML-0102,,0,place-WML-0102,1,Newton,,,3
@@ -7260,40 +7260,56 @@ place-WR-0062,,Wyoming Hill,,,,42.451731,-71.069379,CR-zone-1,"40 W Wyoming Ave,
 WR-0062,,Wyoming Hill,Wyoming Hill - Commuter Rail,,Commuter Rail,42.451731,-71.069379,CR-zone-1,,https://www.mbta.com/stops/place-WR-0062,,0,place-WR-0062,2,Melrose,,,2
 WR-0062-01,,Wyoming Hill,Wyoming Hill - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.451731,-71.069379,CR-zone-1,,https://www.mbta.com/stops/place-WR-0062,,0,place-WR-0062,2,Melrose,,,2
 WR-0062-02,,Wyoming Hill,Wyoming Hill - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.451731,-71.069379,CR-zone-1,,https://www.mbta.com/stops/place-WR-0062,,0,place-WR-0062,2,Melrose,,,2
+WR-0062-B0,,Wyoming Hill,Wyoming Hill - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.451910,-71.070114,LocalBus,,https://www.mbta.com/stops/place-WR-0062,,0,place-WR-0062,1,Melrose,,,3
+WR-0062-B1,,Wyoming Hill,Wyoming Hill - Commuter Rail Boston Shuttle,,Boston Shuttle,42.451973,-71.069511,LocalBus,,https://www.mbta.com/stops/place-WR-0062,,0,place-WR-0062,1,Melrose,,,3
 place-WR-0067,,Melrose/Cedar Park,,,,42.458768,-71.069789,CR-zone-1,"Cedar Park and W Emerson St, Melrose, MA 02176",https://www.mbta.com/stops/place-WR-0067,,1,,2,Melrose,,,
 WR-0067,,Melrose/Cedar Park,Melrose/Cedar Park - Commuter Rail,,Commuter Rail,42.458768,-71.069789,CR-zone-1,,https://www.mbta.com/stops/place-WR-0067,,0,place-WR-0067,2,Melrose,,,2
 WR-0067-01,,Melrose/Cedar Park,Melrose/Cedar Park - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.458768,-71.069789,CR-zone-1,,https://www.mbta.com/stops/place-WR-0067,,0,place-WR-0067,2,Melrose,,,2
 WR-0067-02,,Melrose/Cedar Park,Melrose/Cedar Park - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.458768,-71.069789,CR-zone-1,,https://www.mbta.com/stops/place-WR-0067,,0,place-WR-0067,2,Melrose,,,2
+WR-0067-B0,,Melrose/Cedar Park,Melrose/Cedar Park - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.458825,-71.069292,LocalBus,,https://www.mbta.com/stops/place-WR-0067,,0,place-WR-0067,1,Melrose,,,3
+WR-0067-B1,,Melrose/Cedar Park,Melrose/Cedar Park - Commuter Rail Boston Shuttle,,Boston Shuttle,42.458806,-71.069395,LocalBus,,https://www.mbta.com/stops/place-WR-0067,,0,place-WR-0067,1,Melrose,,,3
 place-WR-0075,,Melrose Highlands,,,,42.469464,-71.068297,CR-zone-1,"497 Franklin St, Melrose, MA 02176",https://www.mbta.com/stops/place-WR-0075,,1,,1,Melrose,,,
 WR-0075,,Melrose Highlands,Melrose Highlands - Commuter Rail,,Commuter Rail,42.469464,-71.068297,CR-zone-1,,https://www.mbta.com/stops/place-WR-0075,,0,place-WR-0075,1,Melrose,,,2
 WR-0075-01,,Melrose Highlands,Melrose Highlands - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.469464,-71.068297,CR-zone-1,,https://www.mbta.com/stops/place-WR-0075,,0,place-WR-0075,1,Melrose,,,2
 WR-0075-02,,Melrose Highlands,Melrose Highlands - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.469464,-71.068297,CR-zone-1,,https://www.mbta.com/stops/place-WR-0075,,0,place-WR-0075,1,Melrose,,,2
+WR-0075-B,,Melrose Highlands,Melrose Highlands - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.469786,-71.068366,LocalBus,,https://www.mbta.com/stops/place-WR-0075,,0,place-WR-0075,1,Melrose,,,3
 place-WR-0085,,Greenwood,,,,42.483005,-71.067247,CR-zone-2,"907 Main St, Wakefield, MA 01880",https://www.mbta.com/stops/place-WR-0085,,1,,2,Wakefield,,,
 WR-0085,,Greenwood,Greenwood - Commuter Rail,,Commuter Rail,42.483005,-71.067247,CR-zone-2,,https://www.mbta.com/stops/place-WR-0085,,0,place-WR-0085,2,Wakefield,,,2
 WR-0085-01,,Greenwood,Greenwood - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.483005,-71.067247,CR-zone-2,,https://www.mbta.com/stops/place-WR-0085,,0,place-WR-0085,2,Wakefield,,,2
 WR-0085-02,,Greenwood,Greenwood - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.483005,-71.067247,CR-zone-2,,https://www.mbta.com/stops/place-WR-0085,,0,place-WR-0085,2,Wakefield,,,2
+WR-0085-B0,,Greenwood,Greenwood - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.483410,-71.067030,LocalBus,,https://www.mbta.com/stops/place-WR-0085,,0,place-WR-0085,1,Wakefield,,,3
+WR-0085-B1,,Greenwood,Greenwood - Commuter Rail Boston Shuttle,,Boston Shuttle,42.483263,-71.067129,LocalBus,,https://www.mbta.com/stops/place-WR-0085,,0,place-WR-0085,1,Wakefield,,,3
 place-WR-0099,,Wakefield,,,,42.502126,-71.075566,CR-zone-2,"225 North Ave, Wakefield, MA 01880",https://www.mbta.com/stops/place-WR-0099,,1,,2,Wakefield,,,
 WR-0099,,Wakefield,Wakefield - Commuter Rail,,Commuter Rail,42.502126,-71.075566,CR-zone-2,,https://www.mbta.com/stops/place-WR-0099,,0,place-WR-0099,2,Wakefield,,,2
 WR-0099-01,,Wakefield,Wakefield - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.502126,-71.075566,CR-zone-2,,https://www.mbta.com/stops/place-WR-0099,,0,place-WR-0099,2,Wakefield,,,2
 WR-0099-02,,Wakefield,Wakefield - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.502126,-71.075566,CR-zone-2,,https://www.mbta.com/stops/place-WR-0099,,0,place-WR-0099,2,Wakefield,,,2
+WR-0099-B0,,Wakefield,Wakefield - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.502304,-71.075342,LocalBus,,https://www.mbta.com/stops/place-WR-0099,,0,place-WR-0099,1,Wakefield,,,3
+WR-0099-B1,,Wakefield,Wakefield - Commuter Rail Boston Shuttle,,Boston Shuttle,42.502264,-71.075539,LocalBus,,https://www.mbta.com/stops/place-WR-0099,,0,place-WR-0099,1,Wakefield,,,3
 place-WR-0120,,Reading,,,,42.522210,-71.108294,CR-zone-2,"35 Lincoln St, Reading, MA 01867",https://www.mbta.com/stops/place-WR-0120,,1,,1,Reading,,,
+WR-0120-B,,Reading,Reading - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.521802,-71.107574,LocalBus,,https://www.mbta.com/stops/place-WR-0120,,0,place-WR-0120,1,Reading,,,3
 WR-0120-S,,Reading,Reading - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.522210,-71.108294,CR-zone-2,,https://www.mbta.com/stops/place-WR-0120,,0,place-WR-0120,1,Reading,,,2
 place-WR-0163,,North Wilmington,,,,42.569661,-71.159696,CR-zone-3,"370 Middlesex Ave, Wilmington, MA 01887",https://www.mbta.com/stops/place-WR-0163,,1,,2,Wilmington,,,
+WR-0163-B,,North Wilmington,North Wilmington - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.569738,-71.158900,LocalBus,,https://www.mbta.com/stops/place-WR-0163,,0,place-WR-0163,1,Wilmington,,,3
 WR-0163-S,,North Wilmington,North Wilmington - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.569661,-71.159696,CR-zone-3,,https://www.mbta.com/stops/place-WR-0163,,0,place-WR-0163,2,Wilmington,,,2
 place-WR-0205,,Ballardvale,,,,42.627356,-71.159962,CR-zone-4,"195 Andover St, Andover, MA 01810",https://www.mbta.com/stops/place-WR-0205,,1,,1,Andover,,,
 WR-0205-02,,Ballardvale,Ballardvale - Commuter Rail - Track 2 (All Trains),2,Track 2 (All Trains),42.627356,-71.159962,CR-zone-4,,https://www.mbta.com/stops/place-WR-0205,,0,place-WR-0205,1,Andover,,,2
+WR-0205-B,,Ballardvale,Ballardvale - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.627691,-71.159803,LocalBus,,https://www.mbta.com/stops/place-WR-0205,,0,place-WR-0205,1,Andover,,,3
 place-WR-0228,,Andover,,,,42.658336,-71.144502,CR-zone-5,"17 Railroad St, Andover, MA 01810",https://www.mbta.com/stops/place-WR-0228,,1,,1,Andover,,,
 WR-0228-02,,Andover,Andover - Commuter Rail - Track 2 (All Trains),2,Track 2 (All Trains),42.658336,-71.144502,CR-zone-5,,https://www.mbta.com/stops/place-WR-0228,,0,place-WR-0228,1,Andover,,,2
+WR-0228-B0,,Andover,Andover - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.657960,-71.144712,LocalBus,,https://www.mbta.com/stops/place-WR-0228,,0,place-WR-0228,1,Andover,,,3
 place-WR-0264,,Lawrence,,,,42.701806,-71.151980,CR-zone-6,"S Union St and Merrimack St, Lawrence, MA 01843",https://www.mbta.com/stops/place-WR-0264,,1,,1,Lawrence,,,
 WR-0264-02,,Lawrence,Lawrence - Commuter Rail - Track 2 (All Trains),2,Track 2 (All Trains),42.701806,-71.151980,CR-zone-6,,https://www.mbta.com/stops/place-WR-0264,,0,place-WR-0264,1,Lawrence,,,2
+WR-0264-B,,Lawrence,Lawrence - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.701961,-71.152442,LocalBus,,https://www.mbta.com/stops/place-WR-0264,,0,place-WR-0264,1,Lawrence,,,3
 place-WR-0325,,Bradford,,,,42.766912,-71.088411,CR-zone-7,"10 Railroad Ave, Bradford, MA 01835",https://www.mbta.com/stops/place-WR-0325,,1,,1,Haverhill,,,
 WR-0325,,Bradford,Bradford - Commuter Rail,,Commuter Rail,42.766912,-71.088411,CR-zone-7,,https://www.mbta.com/stops/place-WR-0325,,0,place-WR-0325,1,Haverhill,,,2
 WR-0325-01,,Bradford,Bradford - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.766912,-71.088411,CR-zone-7,,https://www.mbta.com/stops/place-WR-0325,,0,place-WR-0325,1,Haverhill,,,2
 WR-0325-02,,Bradford,Bradford - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.766912,-71.088411,CR-zone-7,,https://www.mbta.com/stops/place-WR-0325,,0,place-WR-0325,1,Haverhill,,,2
+WR-0325-B,,Bradford,Bradford - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.766954,-71.088467,LocalBus,,https://www.mbta.com/stops/place-WR-0325,,0,place-WR-0325,1,Haverhill,,,3
 place-WR-0329,,Haverhill,,,,42.773474,-71.086237,CR-zone-7,"1 Washington Ave, Haverhill, MA 01832",https://www.mbta.com/stops/place-WR-0329,,1,,1,Haverhill,,,
 WR-0329,,Haverhill,Haverhill - Commuter Rail,,Commuter Rail,42.773474,-71.086237,CR-zone-7,,https://www.mbta.com/stops/place-WR-0329,,0,place-WR-0329,1,Haverhill,,,2
 WR-0329-01,,Haverhill,Haverhill - Commuter Rail - Track 1,1,Track 1,42.773474,-71.086237,CR-zone-7,,https://www.mbta.com/stops/place-WR-0329,,0,place-WR-0329,1,Haverhill,,,2
 WR-0329-02,,Haverhill,Haverhill - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.773474,-71.086237,CR-zone-7,,https://www.mbta.com/stops/place-WR-0329,,0,place-WR-0329,1,Haverhill,,,2
+WR-0329-B,,Haverhill,Haverhill - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.773574,-71.086418,LocalBus,,https://www.mbta.com/stops/place-WR-0329,,0,place-WR-0329,1,Haverhill,,,3
 place-alfcl,,Alewife,,,,42.395428,-71.142483,,"Alewife Brook Pkwy and Cambridge Park Dr, Cambridge, MA 02140",https://www.mbta.com/stops/place-alfcl,,1,,1,Cambridge,,,
 141,141,Alewife,Alewife - Busway,,Busway,42.395591,-71.141671,ExpressBus-Downtown,,https://www.mbta.com/stops/place-alfcl,level_ground,0,place-alfcl,0,Cambridge,,,3
 70061,70061,Alewife,Alewife - Red Line,,Red Line,42.395428,-71.142483,RapidTransit,,https://www.mbta.com/stops/place-alfcl,level_-2_platform,0,place-alfcl,1,Cambridge,,,1
