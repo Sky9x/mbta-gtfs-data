@@ -11,6 +11,8 @@ facility_id,property_id,value
 102,excludes-stop,node-104-street
 102,excludes-stop,node-105-crplatform
 102,excludes-stop,node-105-lobby
+102,excludes-stop,node-743-lobby
+102,excludes-stop,node-743-platform
 102,excludes-stop,node-744-lobby
 102,excludes-stop,node-800-crplatform
 102,excludes-stop,node-800-lobby
@@ -41,6 +43,8 @@ facility_id,property_id,value
 103,excludes-stop,node-104-street
 103,excludes-stop,node-105-crplatform
 103,excludes-stop,node-105-lobby
+103,excludes-stop,node-743-lobby
+103,excludes-stop,node-743-platform
 103,excludes-stop,node-744-lobby
 103,excludes-stop,node-800-crplatform
 103,excludes-stop,node-800-lobby
@@ -69,6 +73,8 @@ facility_id,property_id,value
 104,excludes-stop,node-104-street
 104,excludes-stop,node-105-crplatform
 104,excludes-stop,node-105-lobby
+104,excludes-stop,node-743-lobby
+104,excludes-stop,node-743-platform
 104,excludes-stop,node-744-lobby
 104,excludes-stop,node-800-crplatform
 104,excludes-stop,node-800-lobby
@@ -101,6 +107,8 @@ facility_id,property_id,value
 105,excludes-stop,node-104-street
 105,excludes-stop,node-105-crplatform
 105,excludes-stop,node-105-lobby
+105,excludes-stop,node-743-lobby
+105,excludes-stop,node-743-platform
 105,excludes-stop,node-744-lobby
 105,excludes-stop,node-800-crplatform
 105,excludes-stop,node-800-lobby
@@ -7289,7 +7297,6 @@ facility_id,property_id,value
 701,excludes-stop,node-wondl-ibplazastairs-bridge
 701,excludes-stop,node-wondl-ibplazastairs-lobby
 701,excludes-stop,node-wondl-ibplazastairs-plaza
-701,excludes-stop,node-wondl-ibplazastairs-top
 701,excludes-stop,node-wondl-lobbycenter
 701,excludes-stop,node-wondl-nshoreplazastairs-plaza
 701,excludes-stop,node-wondl-nshoreplazastairs-street
@@ -7336,7 +7343,6 @@ facility_id,property_id,value
 702,excludes-stop,node-wondl-ibplazastairs-bridge
 702,excludes-stop,node-wondl-ibplazastairs-lobby
 702,excludes-stop,node-wondl-ibplazastairs-plaza
-702,excludes-stop,node-wondl-ibplazastairs-top
 702,excludes-stop,node-wondl-lobbycenter
 702,excludes-stop,node-wondl-nshoreplazastairs-plaza
 702,excludes-stop,node-wondl-nshoreplazastairs-street
@@ -7383,7 +7389,6 @@ facility_id,property_id,value
 703,excludes-stop,node-wondl-ibplazastairs-bridge
 703,excludes-stop,node-wondl-ibplazastairs-lobby
 703,excludes-stop,node-wondl-ibplazastairs-plaza
-703,excludes-stop,node-wondl-ibplazastairs-top
 703,excludes-stop,node-wondl-lobbycenter
 703,excludes-stop,node-wondl-nshoreplazastairs-plaza
 703,excludes-stop,node-wondl-nshoreplazastairs-street
@@ -7429,7 +7434,6 @@ facility_id,property_id,value
 708,excludes-stop,node-wondl-ibplazastairs-bridge
 708,excludes-stop,node-wondl-ibplazastairs-lobby
 708,excludes-stop,node-wondl-ibplazastairs-plaza
-708,excludes-stop,node-wondl-ibplazastairs-top
 708,excludes-stop,node-wondl-lobbycenter
 708,excludes-stop,node-wondl-nshoreplazastairs-plaza
 708,excludes-stop,node-wondl-nshoreplazastairs-street
@@ -7476,7 +7480,6 @@ facility_id,property_id,value
 709,excludes-stop,node-wondl-ibplazastairs-bridge
 709,excludes-stop,node-wondl-ibplazastairs-lobby
 709,excludes-stop,node-wondl-ibplazastairs-plaza
-709,excludes-stop,node-wondl-ibplazastairs-top
 709,excludes-stop,node-wondl-lobbycenter
 709,excludes-stop,node-wondl-nshoreplazastairs-plaza
 709,excludes-stop,node-wondl-nshoreplazastairs-street
@@ -7523,7 +7526,6 @@ facility_id,property_id,value
 710,excludes-stop,node-wondl-ibplazastairs-bridge
 710,excludes-stop,node-wondl-ibplazastairs-lobby
 710,excludes-stop,node-wondl-ibplazastairs-plaza
-710,excludes-stop,node-wondl-ibplazastairs-top
 710,excludes-stop,node-wondl-lobbycenter
 710,excludes-stop,node-wondl-nshoreplazastairs-plaza
 710,excludes-stop,node-wondl-nshoreplazastairs-street
@@ -7568,7 +7570,6 @@ facility_id,property_id,value
 711,excludes-stop,node-wondl-ibplazastairs-bridge
 711,excludes-stop,node-wondl-ibplazastairs-lobby
 711,excludes-stop,node-wondl-ibplazastairs-plaza
-711,excludes-stop,node-wondl-ibplazastairs-top
 711,excludes-stop,node-wondl-lobbycenter
 711,excludes-stop,node-wondl-nshoreplazastairs-plaza
 711,excludes-stop,node-wondl-nshoreplazastairs-street
@@ -8147,6 +8148,42 @@ facility_id,property_id,value
 735,excludes-stop,node-wlsta-stair6gate-fareunpaid
 735,excludes-stop,node-wlsta-stair7-lobby
 735,excludes-stop,node-wlsta-stair7-street
+736,alternate-service-text,"A shuttle bus will be available to transport customers between Quincy Adams and Quincy Center. To exit, exit the train at Quincy Center and find station personnel or use a station call box to request the shuttle bus to Quincy Center. To board, find station personnel or use a station call box at Quincy Adams to request the shuttle bus to Quincy Center. Alternatively, customers may also use Bus Routes 230 and 238 for transportation between Quincy Center and Quincy Adams (bus stop at Independence Ave and Verchild St)."
+736,excludes-stop,door-qamnl-burgin
+736,excludes-stop,door-qamnl-indep
+736,excludes-stop,door-qamnl-pickup
+743,alternate-service-text,"A shuttle bus will be available to transport customers between Oak Grove and Malden Center. To exit at Oak Grove, exit the train at Malden Center and find station personnel or use a station call box to request the shuttle bus to Oak Grove. To board the Orange Line, find station personnel or use a station call box to request the shuttle bus to Malden Center."
+743,excludes-stop,9328
+743,excludes-stop,WR-0053-S
+743,excludes-stop,door-ogmnl-banks
+743,excludes-stop,door-ogmnl-wash
+743,excludes-stop,door-ogmnl-washel
+743,excludes-stop,node-102-lobby
+743,excludes-stop,node-102-street
+743,excludes-stop,node-103-lobby
+743,excludes-stop,node-103-platform
+743,excludes-stop,node-104-lobby
+743,excludes-stop,node-104-street
+743,excludes-stop,node-105-crplatform
+743,excludes-stop,node-105-lobby
+743,excludes-stop,node-743-lobby
+743,excludes-stop,node-743-platform
+743,excludes-stop,node-744-lobby
+743,excludes-stop,node-800-crplatform
+743,excludes-stop,node-800-lobby
+743,excludes-stop,node-800-street
+743,excludes-stop,node-801-lobby
+743,excludes-stop,node-801-platform
+743,excludes-stop,node-ogmnl-banksstair-lobby
+743,excludes-stop,node-ogmnl-banksstair-street
+743,excludes-stop,node-ogmnl-crstair-crplatform
+743,excludes-stop,node-ogmnl-crstair-lobby
+743,excludes-stop,node-ogmnl-farepaid
+743,excludes-stop,node-ogmnl-fareunpaid
+743,excludes-stop,node-ogmnl-olstair-lobby
+743,excludes-stop,node-ogmnl-olstair-platform
+743,excludes-stop,node-ogmnl-washstair-lobby
+743,excludes-stop,node-ogmnl-washstair-street
 744,alternate-service-text,"A shuttle bus will be available to transport customers between Oak Grove and Malden Center. To exit at Oak Grove, exit the train at Malden Center and find station personnel or use a station call box to request the shuttle bus to Oak Grove. To board the Orange Line, find station personnel or use a station call box to request the shuttle bus to Malden Center. Alternatively, customers may utilize the Oak Grove Elevator 800 located at the station entrance on Banks Place (busway/parking lot)."
 744,excludes-stop,9328
 744,excludes-stop,door-ogmnl-banks
@@ -8159,6 +8196,8 @@ facility_id,property_id,value
 744,excludes-stop,node-104-street
 744,excludes-stop,node-105-crplatform
 744,excludes-stop,node-105-lobby
+744,excludes-stop,node-743-lobby
+744,excludes-stop,node-743-platform
 744,excludes-stop,node-744-lobby
 744,excludes-stop,node-800-crplatform
 744,excludes-stop,node-800-lobby
@@ -8187,6 +8226,8 @@ facility_id,property_id,value
 800,excludes-stop,node-104-street
 800,excludes-stop,node-105-crplatform
 800,excludes-stop,node-105-lobby
+800,excludes-stop,node-743-lobby
+800,excludes-stop,node-743-platform
 800,excludes-stop,node-744-lobby
 800,excludes-stop,node-800-crplatform
 800,excludes-stop,node-800-lobby
@@ -8203,9 +8244,10 @@ facility_id,property_id,value
 800,excludes-stop,node-ogmnl-olstair-platform
 800,excludes-stop,node-ogmnl-washstair-lobby
 800,excludes-stop,node-ogmnl-washstair-street
-801,alternate-service-text,"A shuttle bus will be available to transport customers between Oak Grove and Malden Center. To exit at Oak Grove, exit the train at Malden Center and find station personnel or use a station call box to request the shuttle bus to Oak Grove. To board the Orange Line, find station personnel or use a station call box to request the shuttle bus to Malden Center. Alternatively, customers may utilize the Oak Grove Elevator 744 (Lobby to Washington St.)"
+801,alternate-service-text,"A shuttle bus will be available to transport customers between Oak Grove and Malden Center. To exit at Oak Grove, exit the train at Malden Center and find station personnel or use a station call box to request the shuttle bus to Oak Grove. To board the Orange Line, find station personnel or use a station call box to request the shuttle bus to Malden Center."
 801,excludes-stop,9328
 801,excludes-stop,WR-0053-S
+801,excludes-stop,door-ogmnl-banks
 801,excludes-stop,door-ogmnl-wash
 801,excludes-stop,door-ogmnl-washel
 801,excludes-stop,node-102-lobby
@@ -8216,6 +8258,8 @@ facility_id,property_id,value
 801,excludes-stop,node-104-street
 801,excludes-stop,node-105-crplatform
 801,excludes-stop,node-105-lobby
+801,excludes-stop,node-743-lobby
+801,excludes-stop,node-743-platform
 801,excludes-stop,node-744-lobby
 801,excludes-stop,node-800-crplatform
 801,excludes-stop,node-800-lobby
