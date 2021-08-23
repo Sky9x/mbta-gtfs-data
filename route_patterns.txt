@@ -25,18 +25,18 @@ Green-D-852-0,Green-D,0,Government Center - Riverside,,1,10034000,49255950-BKHGL
 Green-D-851-0,Green-D,0,North Station - Riverside,,2,10034004,48646845-20:45-BKHBrighamBrooklineVillageReservoir
 Green-D-841-0,Green-D,0,North Station - Reservoir,,3,10034008,49257363-BKHGLB1
 Green-D-841-0_70181_70175_0,Green-D,0,North Station - Brookline Village,,4,10034099,48647947-20:45-BKHBrighamBrooklineVillageReservoir0
-Green-D-852-0_70151_70161_0,Green-D,0,Government Center - Kenmore,,4,10034099,48435105-BKHBrighamKenmoreRiverside0
+Green-D-852-0_70151_70161_0,Green-D,0,Government Center - Kenmore,,4,10034099,48521740-BKHBrighamKenmoreRiversideKenmoreWashingtonStreet0
 Green-D-852-0_70181_70161_0,Green-D,0,Government Center - Brookline Village,,4,10034099,48646826-20:45-BKHBrighamBrooklineVillageReservoir0
-Green-D-852-0_70187_70161_0,Green-D,0,Government Center - Fenway,,4,10034099,48521740-BKHBrighamFenwayReservoirKenmoreWashingtonStreet0
 Green-D-852-1,Green-D,1,Riverside - Government Center,,1,10034100,49255948-BKHGLB1
 Green-D-851-1,Green-D,1,Riverside - North Station,,2,10034104,48646844-20:45-BKHBrighamBrooklineVillageReservoir
 Green-D-841-1,Green-D,1,Reservoir - North Station,,3,10034108,49257361-BKHGLB1
-Green-D-852-1_70160_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,48435103-BKHBrighamKenmoreRiverside2
+Green-D-852-1_70160_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,48521736-BKHBrighamKenmoreRiversideKenmoreWashingtonStreet2
 Green-D-852-1_70160_70180_2,Green-D,1,Brookline Village - Government Center,,4,10034199,48646825-20:45-BKHBrighamBrooklineVillageReservoir2
-Green-D-852-1_70160_70186_2,Green-D,1,Fenway - Government Center,,4,10034199,48521736-BKHBrighamFenwayReservoirKenmoreWashingtonStreet2
 Green-E-881-0,Green-E,0,North Station - Heath Street,,1,10035000,49255954-BKHGLB1
+Green-E-881-0_70243_70260_0,Green-E,0,North Station - Northeastern University,,4,10035099,48647750-20:45-BKHBrooklineVillageReservoirNortheastern0
 Green-E-881-0_70249_70260_0,Green-E,0,North Station - Brigham Circle,,4,10035099,48647750-20:45-BKHBrighamBrooklineVillageReservoir0
 Green-E-881-1,Green-E,1,Heath Street - North Station,,1,10035100,49255947-BKHGLB1
+Green-E-881-1_70260_70244_2,Green-E,1,Northeastern University - North Station,,4,10035199,48646818-20:45-BKHBrooklineVillageReservoirNortheastern2
 Green-E-881-1_70260_70250_2,Green-E,1,Brigham Circle - North Station,,4,10035199,48646818-20:45-BKHBrighamBrooklineVillageReservoir2
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,48832577
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040004,48832800
@@ -207,11 +207,11 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 15-3-1,15,1,Kane Square - Nubian Station,School days only,3,50150113,49183120
 16-9-0,16,0,Andrew Station - Forest Hills Station via South Bay Center,,2,50160000,48493447
 16-5-0,16,0,McCormack Housing - Forest Hills via South Bay Center,,2,50160004,48493500
-16-3-0,16,0,Andrew Station - Forest Hills Station,,2,50160007,48493445
-16-8-0,16,0,Harbor Point - Forest Hills Station via South Bay Center,Weekdays only,2,50160011,48493454
+16-8-0,16,0,Harbor Point - Forest Hills Station via South Bay Center,Weekdays only,2,50160007,48493454
+16-3-0,16,0,Andrew Station - Forest Hills Station,,2,50160008,48493445
 16-2-0,16,0,Harbor Point - Forest Hills Station,Weekdays only,2,50160012,48493466
 16-7-0,16,0,"Andrew Station - Forest Hills Station, Upper Busway",Weekday early mornings only,3,50160013,48659622
-16-9-1,16,1,Forest Hills Station - Andrew Station via South Bay Center,,1,50160100,48493452
+16-9-1,16,1,Forest Hills Station - Andrew Station via South Bay Center,,2,50160100,48493452
 16-5-1,16,1,Forest Hills - McCormack Housing via South Bay Center,,2,50160104,48493451
 16-3-1,16,1,Forest Hills Station - Andrew Station,,2,50160107,48493438
 16-8-1,16,1,Forest Hills Station - Harbor Point via South Bay Center,Weekdays only,2,50160111,48493440
@@ -591,10 +591,10 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 134-3-0,134,0,Wellington Station - North Woburn via Trade Center,Weekdays only,1,51340000,48771794
 134-6-0,134,0,Wellington Station - Winthrop St & Playstead Rd,,2,51340001,48767193
 134-5-0,134,0,Wellington Station - North Woburn,,2,51340004,48771793
-134-2-0,134,0,Wellington - North Woburn via Trade Ctr & Veterans Ctr,Weekday middays only,3,51340008,48771808
+134-2-0,134,0,Wellington - North Woburn via Trade Ctr & Veterans Ctr,Weekday middays only,2,51340008,48771808
 134-7-0,134,0,Wellington Station - Medford Square,,3,51340009,49471731
-134-9-0,134,0,Wellington Station - Woburn Square,Sundays only,3,51340011,49471741
-134-4-0,134,0,Middlesex Ave - Winthrop St & Brooks St,School days only,3,51340013,49466299
+134-4-0,134,0,Middlesex Ave - Winthrop St & Brooks St,School days only,3,51340011,49466299
+134-9-0,134,0,Wellington Station - Woburn Square,Sundays only,3,51340012,49471741
 134-3-1,134,1,North Woburn - Wellington Station via Trade Center,Weekdays only,1,51340100,48771796
 134-6-1,134,1,Winthrop St & Playstead Rd - Wellington Station,,2,51340102,48771792
 134-5-1,134,1,North Woburn - Wellington Station,,2,51340105,48771795
@@ -788,11 +788,11 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 451-_-1,451,1,North Beverly Station - Salem Depot via Cabot St,Weekdays only,1,54510100,49371330
 451-1-1,451,1,North Beverly Station - Salem Depot via Tozer Rd,Weekdays only,1,54510101,49371336
 455-6-0,455,0,Wonderland Station - Salem Depot,Weekdays only,1,54550000,48704889
-455-7-0,455,0,Wonderland Station - Salem Depot (Omits Shetland Park),,2,54550002,49375635
+455-7-0,455,0,Wonderland Station - Salem Depot (Omits Shetland Park),,3,54550002,49375635
 455-9-0,455,0,Lynn Bus Garage - Salem Depot,Weekday early mornings only,3,54550004,48705112
 455-8-0,455,0,Lynn Bus Garage - Salem Depot (Omits Shetland Park),Early mornings only,3,54550005,49375743
 455-6-1,455,1,Salem Depot - Wonderland Station,Weekdays only,1,54550100,48704878
-455-7-1,455,1,Salem Depot - Wonderland Station (Omits Shetland Park),,2,54550102,49375636
+455-7-1,455,1,Salem Depot - Wonderland Station (Omits Shetland Park),,3,54550102,49375636
 455-5-1,455,1,"Central Square, Lynn - Wonderland Station",Early mornings only,3,54550104,48704877
 455-3-1,455,1,Brookline St & Empire St - Lynn Bus Garage,School days only,3,54550107,49370943
 455-8-1,455,1,Salem Depot - Lynn Bus Garage (Omits Shetland Park),Evenings only,3,54550108,49375710
@@ -840,25 +840,21 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 713-3-1,713,1,"Winthrop Beach - Orient Heights Station, North Busway",Weekdays only,2,57130108,48809062
 713-2-1,713,1,"Point Shirley - Orient Heights Station, North Busway",Weekdays only,2,57130110,48808988
 714-_-0,714,0,Hingham Depot - Pemberton Point,,1,57140000,48847060
-714-1-0,714,0,Hingham Depot - Pemberton Point via Hull Medical Center,Weekdays only,2,57140003,48847059
-714-2-0,714,0,Hingham Depot - Pemberton Point via Washington Blvd,Weekdays only,2,57140004,48847076
+714-1-0,714,0,Hingham Depot - Pemberton Point via Hull Medical Center,Weekdays only,2,57140004,48847059
+714-2-0,714,0,Hingham Depot - Pemberton Point via Washington Blvd,Weekdays only,2,57140005,48847076
 714-_-1,714,1,Pemberton Point - Hingham Depot,,1,57140100,48847070
-714-1-1,714,1,Pemberton Point - Hingham Depot via Hull Medical Center,Weekday middays only,2,57140103,48847061
-714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140104,48847062
+714-1-1,714,1,Pemberton Point - Hingham Depot via Hull Medical Center,Weekday middays only,2,57140104,48847061
+714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140105,48847062
 716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,48844027
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,48844022
 602-1-0,602,0,Lechmere - North Station,,1,60200000,48844057
 602-1-1,602,1,North Station - Lechmere,,1,60200100,48844059
 Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,4,60350099,48533894-AshmontMattapan1
 Shuttle-AshmontMattapan-0-1,Shuttle-AshmontMattapan,1,Mattapan - Ashmont,,4,60350199,48533893-AshmontMattapan1
-Shuttle-BallardvaleMaldenCenter-0-1,Shuttle-BallardvaleMaldenCenter,1,Haverhill - Malden Center,,4,60650199,CR-486079-1202-HaverhillBallardvaleMaldenCenter1
 Shuttle-BrooklineVillageRiverside-0-0,Shuttle-BrooklineVillageRiverside,0,Brookline Village - Riverside,,4,61275099,48646826-20:45-BKHBrighamBrooklineVillageReservoir1
 Shuttle-BrooklineVillageRiverside-0-1,Shuttle-BrooklineVillageRiverside,1,Riverside - Brookline Village,,4,61275199,48646825-20:45-BKHBrighamBrooklineVillageReservoir1
-Shuttle-FenwayRiverside-0-0,Shuttle-FenwayRiverside,0,Fenway - Riverside,,4,61510099,48521740-BKHBrighamFenwayReservoirKenmoreWashingtonStreet1
-Shuttle-FenwayRiverside-0-1,Shuttle-FenwayRiverside,1,Riverside - Fenway,,4,61510199,48521736-BKHBrighamFenwayReservoirKenmoreWashingtonStreet1
-Shuttle-HaverhillMaldenCenter-0-0,Shuttle-HaverhillMaldenCenter,0,Malden Center - Haverhill,,4,61970099,CR-486078-1201-HaverhillBallardvaleMaldenCenter1
-Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,4,62012099,48435105-BKHBrighamKenmoreRiversideKenmoreRiverside
-Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,4,62012199,48435103-BKHBrighamKenmoreRiversideKenmoreRiverside
+Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,4,62012099,48521740-BKHBrighamKenmoreRiversideKenmoreWashingtonStreetKenmoreRiverside
+Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,4,62012199,48521736-BKHBrighamKenmoreRiversideKenmoreWashingtonStreetKenmoreRiverside
 Shuttle-KenmoreWashington-0-0,Shuttle-KenmoreWashington,0,Kenmore - Washington Street,,4,62018099,48521734-BKHBrighamKenmoreRiversideKenmoreWashingtonStreet1
 Shuttle-KenmoreWashington-0-1,Shuttle-KenmoreWashington,1,Washington Street - Kenmore,,4,62018199,48521733-BKHBrighamKenmoreRiversideKenmoreWashingtonStreet1
 Shuttle-LittletonWachusett-0-0,Shuttle-LittletonWachusett,0,Littleton/Route 495 - Wachusett,,4,62025099,CR-488786-2411-LittletonWachusettB1
