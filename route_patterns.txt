@@ -27,7 +27,7 @@ Green-C-831-0,Green-C,0,North Station - Cleveland Circle,,1,10033000,49255944-BK
 Green-C-831-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,49255943-BKHGLB1
 Green-D-852-0,Green-D,0,Government Center - Riverside,,1,10034000,49255950-BKHGLB1
 Green-D-841-0,Green-D,0,North Station - Reservoir,,3,10034004,49257363-BKHGLB1
-Green-D-851-0,Green-D,0,North Station - Riverside,,3,10034007,49205709-BKHGLB1
+Green-D-851-0,Green-D,0,North Station - Riverside,,3,10034007,49205709-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1
 Green-D-841-0_70181_70175_0,Green-D,0,North Station - Brookline Village,,4,10034099,49205814-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB10
 Green-D-841-0_70187_70175_0,Green-D,0,North Station - Fenway,,4,10034099,49205397-BKHFenwayReservoirGLB1KenmoreWashingtonStreet0
 Green-D-852-0_70151_70161_0,Green-D,0,Government Center - Kenmore,,4,10034099,49203749-BKHGLB1KenmoreRiverside0
@@ -35,17 +35,13 @@ Green-D-852-0_70181_70161_0,Green-D,0,Government Center - Brookline Village,,4,1
 Green-D-852-0_70187_70161_0,Green-D,0,Government Center - Fenway,,4,10034099,49203749-BKHFenwayReservoirGLB1KenmoreWashingtonStreet0
 Green-D-852-1,Green-D,1,Riverside - Government Center,,1,10034100,49255948-BKHGLB1
 Green-D-841-1,Green-D,1,Reservoir - North Station,,3,10034104,49257361-BKHGLB1
-Green-D-851-1,Green-D,1,Riverside - North Station,,3,10034108,49205708-BKHGLB1
+Green-D-851-1,Green-D,1,Riverside - North Station,,3,10034108,49205708-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1
 Green-D-841-1_70174_70186_2,Green-D,1,Fenway - North Station,,4,10034199,49205394-BKHFenwayReservoirGLB1KenmoreWashingtonStreet2
 Green-D-852-1_70160_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,49203745-BKHGLB1KenmoreRiverside2
 Green-D-852-1_70160_70180_2,Green-D,1,Brookline Village - Government Center,,4,10034199,49205698-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB12
 Green-D-852-1_70160_70186_2,Green-D,1,Fenway - Government Center,,4,10034199,49203745-BKHFenwayReservoirGLB1KenmoreWashingtonStreet2
 Green-E-881-0,Green-E,0,North Station - Heath Street,,1,10035000,49255954-BKHGLB1
-Green-E-881-0_70243_70260_0,Green-E,0,North Station - Northeastern University,,4,10035099,48647750-20:45-BKHBrooklineVillageReservoirNortheastern0
-Green-E-881-0_70249_70260_0,Green-E,0,North Station - Brigham Circle,,4,10035099,48647750-BKHBrigham0
 Green-E-881-1,Green-E,1,Heath Street - North Station,,1,10035100,49255947-BKHGLB1
-Green-E-881-1_70260_70244_2,Green-E,1,Northeastern University - North Station,,4,10035199,48646818-20:45-BKHBrooklineVillageReservoirNortheastern2
-Green-E-881-1_70260_70250_2,Green-E,1,Brigham Circle - North Station,,4,10035199,48646818-BKHBrigham2
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,49417902
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040004,49418125
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,49417953
@@ -92,12 +88,12 @@ CR-Franklin-0e04afee-1,CR-Franklin,1,Walpole - South Station via Back Bay,,2,200
 CR-Greenbush-6d652c57-0,CR-Greenbush,0,South Station - Greenbush,,1,20005000,CR-483544-073
 CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,20005100,CR-483549-078
 CR-Greenbush-e18c2c1d-1,CR-Greenbush,1,Greenbush - South Station,,2,20005101,CR-483575-088
-CR-Haverhill-ead99721-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,20006000,CR-479238-201
-CR-Haverhill-d8edcefc-0,CR-Haverhill,0,North Station - Haverhill,,2,20006001,CR-479255-217
-CR-Haverhill-1ec1f271-0,CR-Haverhill,0,North Station - Reading,,2,20006002,CR-479263-281
-CR-Haverhill-5c4518ee-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,20006100,CR-479237-200
-CR-Haverhill-dbb78d1b-1,CR-Haverhill,1,Reading - North Station,,2,20006101,CR-479179-280
-CR-Haverhill-76e7e4ff-1,CR-Haverhill,1,Haverhill - North Station,,2,20006102,CR-479239-204
+CR-Haverhill-ead99721-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,20006000,CR-479238-201-BallardvaleMaldenCenterNStaReading
+CR-Haverhill-d8edcefc-0,CR-Haverhill,0,North Station - Haverhill,,2,20006001,CR-479255-217-BallardvaleMaldenCenterNStaReading
+CR-Haverhill-1ec1f271-0,CR-Haverhill,0,North Station - Reading,,2,20006002,CR-479263-281-BallardvaleMaldenCenterNStaReading
+CR-Haverhill-5c4518ee-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,20006100,CR-479237-200-BallardvaleMaldenCenterNStaReading
+CR-Haverhill-dbb78d1b-1,CR-Haverhill,1,Reading - North Station,,2,20006101,CR-479179-280-BallardvaleMaldenCenterNStaReading
+CR-Haverhill-76e7e4ff-1,CR-Haverhill,1,Haverhill - North Station,,2,20006102,CR-479239-204-BallardvaleMaldenCenterNStaReading
 CR-Kingston-8edf9cf3-0,CR-Kingston,0,South Station - Kingston,,1,20007000,CR-483537-041
 CR-Kingston-a80a8fd4-0,CR-Kingston,0,Braintree - Kingston,,2,20007002,CR-483618-065
 CR-Kingston-5615f391-1,CR-Kingston,1,Kingston - South Station,,1,20007100,CR-483541-044
@@ -146,17 +142,17 @@ Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,30001100,Boat-F4-064
 Boat-F1-1-0,Boat-F1,0,Long Wharf - Hingham via Hull,,1,30002001,Boat-F1-1100-Long-WeekdayExpanded-Summer-21
 Boat-F1-2-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,30002002,Boat-F1-0650-Rowes-WeekdayExpanded-Summer-21
 Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,30002003,Boat-F1-0800-Long-WeekdayExpanded-Summer-21
-Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,30002004,Boat-F1-1100-Long-SundayExpanded-Summer-21
+Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,30002004,Boat-F1-1100-Long-SaturdayExpanded-Summer-21
 Boat-F1-5-0,Boat-F1,0,Long Wharf - Hingham via Georges Island & Hull,Summer weekday middays only,1,30002005,Boat-F1-1300-Long-WeekdayExpanded-Summer-21
 Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,30002006,Boat-F1-0910-Long-WeekdayExpanded-Summer-21
 Boat-F1-7-0,Boat-F1,0,Long Wharf - Hingham via Georges Island,,2,30002007,Boat-F1-1400-Long-WeekdayExpanded-Summer-21
 Boat-F1-9-0,Boat-F1,0,Long Wharf - Hull via Logan Airport,,2,30002009,Boat-F1-0625-Long-WeekdayExpanded-Summer-21
-Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,30002100,Boat-F1-0800-Hingham-SundayExpanded-Summer-21
+Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,30002100,Boat-F1-0800-Hingham-SaturdayExpanded-Summer-21
 Boat-F1-1-1,Boat-F1,1,Hingham - Long Wharf via Hull,,1,30002101,Boat-F1-0540-Hingham-WeekdayExpanded-Summer-21
 Boat-F1-2-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,30002102,Boat-F1-0600-Hingham-WeekdayExpanded-Summer-21
 Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,30002103,Boat-F1-0730-Hull-WeekdayExpanded-Summer-21
 Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,30002104,Boat-F1-1715-Hingham-WeekdayExpanded-Summer-21
-Boat-F1-5-1,Boat-F1,1,Hingham - Long Wharf via Hull & Georges Island,,1,30002105,Boat-F1-1100-Hingham-SundayExpanded-Summer-21
+Boat-F1-5-1,Boat-F1,1,Hingham - Long Wharf via Hull & Georges Island,,1,30002105,Boat-F1-1100-Hingham-SaturdayExpanded-Summer-21
 Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-WeekdayExpanded-Summer-21
 Boat-F1-7-1,Boat-F1,1,Hingham - Long Wharf via Georges Island,,2,30002107,Boat-F1-1000-Hingham-WeekdayExpanded-Summer-21
 Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Summer weekday middays only,2,30002108,Boat-F1-1200-Hingham-WeekdayExpanded-Summer-21
@@ -434,39 +430,27 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 71-2-0,71,0,"Harvard Station, Upper Busway - Watertown Square",,3,50710003,49266330
 71-1-0,71,0,Harvard Station - Watertown Square (Omits Cambridge Common),,3,50710005,49258337
 71-3-0,71,0,Harvard Square - Aberdeen Ave,AM peak hours only,3,50710008,49300939
-71-D-0,71,0,Harvard Square - Watertown Square (Detour),,3,50710009,48508275
 71-_-1,71,1,Watertown Square - Harvard Station,,1,50710100,49258112
 71-1-1,71,1,Watertown Square - Harvard Station (Omits Cambridge Common),,2,50710103,49258277
 71-3-1,71,1,Aberdeen Ave - Harvard Square,Weekdays only,3,50710107,49300948
-71-D-1,71,1,Watertown Square - Harvard Square (Detour),,3,50710108,48508276
 73-_-0,73,0,Harvard Station - Waverley Square,,1,50730000,49258117
 73-1-0,73,0,Harvard Station - Waverley Square (Omits Cambridge Common),,3,50730003,49258284
 73-2-0,73,0,"Harvard Station, Upper Busway - Waverley Square",,3,50730006,49266321
-73-D-0,73,0,Harvard Square - Waverley Square (Detour),,3,50730008,48508281
 73-_-1,73,1,Waverley Square - Harvard Station,,1,50730100,49258122
 73-1-1,73,1,Waverley Square - Harvard Station (Omits Cambridge Common),,2,50730103,49258199
-73-D-1,73,1,Waverley Square - Harvard Square (Detour),,3,50730107,48508287
 74-1-0,74,0,Harvard Station - Belmont Center,,1,50740000,49300838
-74-E-0,74,0,Harvard Station - Belmont Center (Detour),,3,50740004,48508853
 74-1-1,74,1,Belmont Center - Harvard Station,,1,50740100,49300893
-74-E-1,74,1,Belmont Center - Harvard Station (Detour),,3,50740104,48508849
 75-1-0,75,0,Harvard Station - Belmont Center,,1,50750000,49300871
 75-2-0,75,0,Harvard Station - Aberdeen Ave,Weekdays only,2,50750004,49300947
-75-E-0,75,0,Harvard Station - Belmont Center (Detour),,3,50750005,48508868
 75-1-1,75,1,Belmont Center - Harvard Station,,1,50750100,49300846
 75-2-1,75,1,Aberdeen Ave - Harvard Station,AM peak hours only,2,50750104,49300940
-75-E-1,75,1,Belmont Center - Harvard Station (Detour),,3,50750105,48508873
 77-_-0,77,0,Harvard Station - Arlington Heights,,1,50770000,49300255
 77-4-0,77,0,Harvard Station - North Cambridge,,3,50770004,49258376
-77-D-0,77,0,Harvard Station - Arlington Heights (Detour),,3,50770007,48510003
 77-_-1,77,1,Arlington Heights - Harvard Station,,1,50770100,49300258
 77-4-1,77,1,North Cambridge - Harvard Station,,3,50770104,49258387
 77-1-1,77,1,Appleton St & Massachusetts Ave - Harvard Station,School days only,3,50770107,49299534
-77-D-1,77,1,Arlington Heights - Harvard Station (Detour),,3,50770108,48510006
 78-1-0,78,0,Harvard Station - Arlmont Village,,1,50780000,49300840
-78-D-0,78,0,Harvard Station - Arlmont Village (Detour),,3,50780004,48508852
 78-1-1,78,1,Arlmont Village - Harvard Station,,1,50780100,49300839
-78-D-1,78,1,Arlmont Village - Harvard Station (Detour),,3,50780104,48508850
 80-_-0,80,0,Lechmere Station - Arlington Center,,1,50800000,49299706
 80-_-1,80,1,Arlington Center - Lechmere Station,,1,50800100,49299705
 83-1-0,83,0,"Central Square, Cambridge - Rindge Ave",,1,50830000,49299362
@@ -515,9 +499,7 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 95-_-1,95,1,West Medford - Sullivan Square Station,,1,50950104,49465666
 95-5-1,95,1,West Medford - Fellsway Garage via Winthrop St,School days only,3,50950108,49466290
 96-_-0,96,0,Harvard Station - Medford Square,,1,50960000,49466062
-96-D-0,96,0,Harvard Station - Medford Square (Detour),,3,50960004,48771719
 96-_-1,96,1,Medford Square - Harvard Station,,1,50960100,49466050
-96-D-1,96,1,Medford Square - Harvard Station (Detour),,3,50960104,48771707
 97-5-0,97,0,Wellington Station - Malden Center Station,,1,50970000,49465693
 97-5-1,97,1,Malden Center Station - Wellington Station,,1,50970100,49465692
 99-7-0,99,0,Wellington Station - Woodland Rd,,1,50990000,49465919
@@ -528,7 +510,6 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 100-1-0,100,0,Wellington Station - Roosevelt Circle,Evenings only,3,51000004,49472574
 100-3-1,100,1,Elm St - Wellington Station,,1,51000100,49465631
 100-1-1,100,1,Roosevelt Circle - Wellington Station,Evenings only,3,51000104,49472558
-100-_-1,100,1,Elm St - Fellsway Garage,Weekday evenings only,3,51000106,48771231
 101-3-0,101,0,Sullivan Square Station - Malden Center Station,,1,51010000,49466948
 101-2-0,101,0,Main St & Henry St - Winthrop St & Brooks St,School days only,3,51010004,49467134
 101-3-1,101,1,Malden Center Station - Sullivan Square Station,,1,51010100,49466941
@@ -669,10 +650,8 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 226-_-1,226,1,Columbian Square - Braintree Station,,1,52260100,49378536
 230-3-0,230,0,Quincy Center Station - Montello Station,,1,52300000,49378709
 230-4-0,230,0,Braintree Station - Montello Station,Weekday early mornings only,3,52300004,49378760
-230-5-0,230,0,Quincy Center Station - Montello Station via Holbrook Ct,Middays only,3,52300006,48709800
 230-3-1,230,1,Montello Station - Quincy Center Station,,1,52300100,49378710
 230-4-1,230,1,Montello Station - Braintree Station,Weekday early mornings only,3,52300104,49378717
-230-5-1,230,1,Montello Station - Quincy Center Station via Holbrook Ct,Middays only,3,52300106,48709760
 236-2-0,236,0,Quincy Center Station - South Shore Plaza,,1,52360000,49378262
 236-3-0,236,0,Quincy Center Station - Braintree Station,Mornings only,3,52360004,49378364
 236-2-1,236,1,South Shore Plaza - Quincy Center Station,,1,52360100,49378263
@@ -713,10 +692,8 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 354-6-1,354,1,"North Burlington - State St, Boston via West Cummings Park & Medford Sq",Weekdays only,2,53540103,49466347
 411-9-0,411,0,Malden Center Station - Jack Satter House via Kennedy Dr,,1,54110000,49465900
 411-1-0,411,0,Malden Center Station - Kennedy Dr,Weekdays only,1,54110003,49465630
-411-8-0,411,0,Malden Center Station - Jack Satter House,,3,54110006,48771557
 411-9-1,411,1,Jack Satter House - Malden Center Station via Kennedy Dr,,1,54110100,49465901
 411-1-1,411,1,Kennedy Dr - Malden Center Station,Weekdays only,1,54110103,49465772
-411-8-1,411,1,Jack Satter House - Malden Center Station,,3,54110106,48771558
 424-6-0,424,0,Wonderland Station - Eastern Ave & Essex St,Weekdays only,1,54240000,49370379
 424-6-1,424,1,Eastern Ave & Essex St - Wonderland Station,Weekday mornings only,1,54240100,49370375
 426-_-0,426,0,"Haymarket Station - Central Square, Lynn",Weekdays only,1,54260000,49370345
@@ -724,10 +701,8 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 426-2-0,426,0,"O'Callaghan Way & Holyoke St - Central Square, Lynn",School days only,3,54260006,49370928
 426-3-0,426,0,"O'Callaghan Way & Fecteau Way - Central Square, Lynn",School days only,3,54260007,49370939
 426-5-0,426,0,"Haymarket Station - Central Square, Lynn via Bell Cir",Weekday late nights only,3,54260008,49370642
-426-1-0,426,0,Haymarket Station - West Lynn,Weekdays only,3,54260010,48704829
 426-_-1,426,1,"Central Square, Lynn - Haymarket Station",Weekdays only,1,54260100,49370339
 426-7-1,426,1,"Central Square, Lynn - Wonderland Station",,2,54260103,49370343
-426-1-1,426,1,West Lynn - Haymarket Station,Weekday mornings only,3,54260106,48704948
 428-_-0,428,0,Haymarket Station - Oaklandvale,Weekdays only,1,54280000,49371323
 428-_-1,428,1,Oaklandvale - Haymarket Station,Weekdays only,1,54280100,49371320
 429-_-0,429,0,Central Sq - Northgate Ctr via Square One & Garfield Ave,,1,54290000,49370494
@@ -808,24 +783,17 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 501-4-1,501,1,Brighton Center - Federal St & Franklin St via Copley Sq,Weekdays only,1,55010100,49177388
 501-5-1,501,1,Brighton Center - Federal St & Franklin St via Cambridge St & Copley Sq,Weekdays only,1,55010103,49177564
 504-2-0,504,0,Federal & Franklin - Watertown via Copley Sq and Newton Crnr,,1,55040000,49177488
-504-_-0,504,0,Federal St & Franklin St - Watertown Yard via Newton Corner,Weekday mornings only,3,55040004,48488942
 504-2-1,504,1,Watertown Yard - Federal St & Franklin St via Copley Square,,1,55040100,49177487
-504-_-1,504,1,Watertown Yard - Federal St & Franklin St,Weekday early mornings only,3,55040104,48488941
 505-1-0,505,0,Federal St & Franklin St - Waltham Center via School St,Weekdays only,1,55050000,49178117
 505-_-0,505,0,Federal St & Franklin St - Waltham Center,Weekdays only,2,55050003,49178097
 505-_-1,505,1,Waltham Center - Federal St & Franklin St via School St,Weekdays only,1,55050100,49178098
 505-1-1,505,1,Waltham Center - Federal St & Franklin St,Weekdays only,2,55050103,49178116
 553-7-0,553,0,Newton Corner - Roberts,,1,55530000,49177637
-553-6-0,553,0,Newton Corner - Roberts,,3,55530004,48489092
 553-7-1,553,1,Roberts - Newton Corner,,1,55530100,49177636
-553-6-1,553,1,Roberts - Newton Corner,,3,55530104,48489091
 554-7-0,554,0,Newton Corner - Waverly Square,Weekdays only,1,55540000,49177250
-554-6-0,554,0,Newton Corner - Waverly Square,Weekdays only,3,55540003,48488704
 554-7-1,554,1,Waverly Square - Newton Corner,Weekdays only,1,55540100,49177676
-554-6-1,554,1,Waverly Square - Newton Corner,Weekdays only,3,55540103,48489131
 556-6-0,556,0,Newton Corner - Waltham Highlands,Weekdays only,1,55560000,49177249
 556-7-1,556,1,Waltham Highlands - Newton Corner,Weekdays only,1,55560100,49177247
-556-6-1,556,1,Waltham Highlands - Newton Corner,Weekdays only,3,55560103,48488701
 558-7-0,558,0,Newton Corner - Riverside Station,Weekdays only,1,55580000,49177255
 558-7-1,558,1,Riverside Station - Newton Corner,Weekdays only,1,55580100,49177254
 712-_-0,712,0,"Orient Heights Station, South Busway - Point Shirley",,1,57120000,49540593
@@ -856,6 +824,7 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 602-1-1,602,1,North Station - Lechmere,,1,60200100,49544166
 Shuttle-BabcockKenmore-0-0,Shuttle-BabcockKenmore,0,Kenmore - Babcock Street,,4,60460099,49205766-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1BabcockKenmore
 Shuttle-BabcockKenmore-0-1,Shuttle-BabcockKenmore,1,Babcock Street - Kenmore,,4,60460199,49205761-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1BabcockKenmore
+Shuttle-BallardvaleMaldenCenter-0-1,Shuttle-BallardvaleMaldenCenter,1,Ballardvale - Malden Center,,4,60650199,CR-479242-208-BallardvaleMaldenCenterNStaReading1
 Shuttle-BrooklineVillageRiverside-0-0,Shuttle-BrooklineVillageRiverside,0,Brookline Village - Riverside,,4,61275099,49205699-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB11
 Shuttle-BrooklineVillageRiverside-0-1,Shuttle-BrooklineVillageRiverside,1,Riverside - Brookline Village,,4,61275199,49205698-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB11
 Shuttle-FenwayRiverside-0-0,Shuttle-FenwayRiverside,0,Fenway - Riverside,,4,61510099,49203749-BKHFenwayReservoirGLB1KenmoreWashingtonStreet1
@@ -864,11 +833,9 @@ Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,4,6
 Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,4,62012199,49203745-BKHGLB1KenmoreRiversideKenmoreRiverside
 Shuttle-KenmoreWashington-0-0,Shuttle-KenmoreWashington,0,Kenmore - Washington Street,,4,62018099,49205766-20:45-BKHGLB1KenmoreWashingtonStreetKenmoreWashingtonStreet
 Shuttle-KenmoreWashington-0-1,Shuttle-KenmoreWashington,1,Washington Street - Kenmore,,4,62018199,49205761-20:45-BKHGLB1KenmoreWashingtonStreetKenmoreWashingtonStreet
-Shuttle-LittletonWachusett-0-0,Shuttle-LittletonWachusett,0,Littleton/Route 495 - Wachusett,,4,62025099,CR-488786-2411-LittletonWachusettB1
-Shuttle-LittletonWachusett-0-1,Shuttle-LittletonWachusett,1,Wachusett - Littleton/Route 495,,4,62025199,CR-488785-2412-LittletonWachusettB1
+Shuttle-LittletonWachusett-0-0,Shuttle-LittletonWachusett,0,Littleton/Route 495 - Wachusett,,4,62025099,CR-479322-401-LittletonWachusett1
+Shuttle-LittletonWachusett-0-1,Shuttle-LittletonWachusett,1,Wachusett - Littleton/Route 495,,4,62025199,CR-479321-400-LittletonWachusett1
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-479173-123-MRRockportB1
 Shuttle-ManchesterRockport-0-0,Shuttle-ManchesterRockport,0,Manchester - Rockport,,4,62060099,CR-479173-123-MRRockportC1
-Shuttle-NewtonHighlandsWellesleyFarms-0-0,Shuttle-NewtonHighlandsWellesleyFarms,0,Newton Highlands - Wellesley Farms,,2,62120099,CR-483674-505-NewtonRailBus1
-Shuttle-NewtonHighlandsWellesleyFarms-0-1,Shuttle-NewtonHighlandsWellesleyFarms,1,Wellesley Farms - Newton Highlands,,2,62120199,CR-483691-520-NewtonRailBus1
 Shuttle-RockportWestGloucester-0-0,Shuttle-RockportWestGloucester,0,West Gloucester - Rockport,,1,62410099,CR-479172-117-MRRockportB1
 Shuttle-RockportWestGloucester-0-1,Shuttle-RockportWestGloucester,1,Rockport - West Gloucester,,1,62410199,CR-479166-100-MRRockportB1
