@@ -60179,6 +60179,8 @@ CR-Fitchburg,SPR21-N-Wdy-1-LtnWct,CR-479344-428-LittletonWachusett2,North Statio
 CR-Fitchburg,SPR21-N-Wdy-1-LtnWct,CR-479346-430-LittletonWachusett2,North Station,430,1,,9840003,1,,CR-Fitchburg-008fca34-1,1
 CR-Fitchburg,SPR21-N-Wdy-1-LtnWct,CR-479349-432-LittletonWachusett2,North Station,432,1,,9840003,1,,CR-Fitchburg-008fca34-1,1
 CR-Fitchburg,SPR21-N-Wdy-1-LtnWct,CR-484002-420-LittletonWachusett2,North Station,420,1,,9840003,1,,CR-Fitchburg-008fca34-1,1
+CR-Foxboro,SPR21-S-Su-Fx5,CR-Foxboro16:25-0-14:10:00,Foxboro,9743,0,,SouthStationToFoxboroViaBackBay,1,3,CR-Foxboro-0-0,2
+CR-Foxboro,SPR21-S-Su-Fx5,CR-Foxboro16:25-1-13:35:00,Foxboro,9842,1,,ProvFoxSou,1,3,CR-Foxboro-0-1,2
 CR-Franklin,SPR21-S-Sa-6,CR-485363-1701,Forge Park/495,1701,0,,9880006,1,,CR-Franklin-e19b0358-0,1
 CR-Franklin,SPR21-S-Sa-6,CR-485365-1703,Forge Park/495,1703,0,,9880006,1,,CR-Franklin-e19b0358-0,1
 CR-Franklin,SPR21-S-Sa-6,CR-485367-1705,Forge Park/495,1705,0,,9880006,1,,CR-Franklin-e19b0358-0,1
@@ -60253,22 +60255,38 @@ CR-Franklin,SummerWeekday,CR-483828-716,South Station,716,1,,9880005,1,,CR-Frank
 CR-Franklin,SummerWeekday,CR-483853-712,South Station,712,1,,9880005,1,,CR-Franklin-efecf2cd-1,1
 CR-Franklin,SummerWeekday,CR-483866-730,South Station,730,1,,9880005,1,,CR-Franklin-efecf2cd-1,1
 CR-Franklin,SummerWeekday,CR-483899-726,South Station,726,1,,9880005,1,,CR-Franklin-efecf2cd-1,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485315-1071,Greenbush,1071,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485317-1073,Greenbush,1073,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485319-1075,Greenbush,1075,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485321-1077,Greenbush,1077,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485323-1079,Greenbush,1079,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485325-1081,Greenbush,1081,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485327-1083,Greenbush,1083,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485486-1085,Greenbush,1085,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Su-6,CR-485789-2071,Greenbush,2071,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Su-6,CR-485791-2073,Greenbush,2073,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Su-6,CR-485793-2075,Greenbush,2075,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Su-6,CR-485795-2077,Greenbush,2077,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Su-6,CR-485797-2079,Greenbush,2079,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Su-6,CR-485799-2081,Greenbush,2081,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Su-6,CR-485801-2083,Greenbush,2083,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Su-6,CR-485804-2085,Greenbush,2085,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485315-1071-BraintreeSouthStationSuspendGreenbush-1,Greenbush,1071,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485317-1073-BraintreeSouthStationSuspendGreenbush-1,Greenbush,1073,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485319-1075-BraintreeSouthStationSuspendGreenbush-1,Greenbush,1075,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485321-1077-BraintreeSouthStationSuspendGreenbush-1,Greenbush,1077,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485323-1079-BraintreeSouthStationSuspendGreenbush-1,Greenbush,1079,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485325-1081-BraintreeSouthStationSuspendGreenbush-1,Greenbush,1081,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485327-1083-BraintreeSouthStationSuspendGreenbush-1,Greenbush,1083,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485486-1085-BraintreeSouthStationSuspendGreenbush-1,Greenbush,1085,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485789-2071,Greenbush,2071,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485791-2073,Greenbush,2073,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485793-2075,Greenbush,2075,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485795-2077,Greenbush,2077,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485797-2079,Greenbush,2079,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485799-2081,Greenbush,2081,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485801-2083,Greenbush,2083,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485804-2085,Greenbush,2085,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485789-2071-BraintreeSouthStationSuspendGreenbush-1,Greenbush,2071,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485791-2073-BraintreeSouthStationSuspendGreenbush-1,Greenbush,2073,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485793-2075-BraintreeSouthStationSuspendGreenbush-1,Greenbush,2075,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485795-2077-BraintreeSouthStationSuspendGreenbush-1,Greenbush,2077,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485797-2079-BraintreeSouthStationSuspendGreenbush-1,Greenbush,2079,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485799-2081-BraintreeSouthStationSuspendGreenbush-1,Greenbush,2081,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485801-2083-BraintreeSouthStationSuspendGreenbush-1,Greenbush,2083,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485804-2085-BraintreeSouthStationSuspendGreenbush-1,Greenbush,2085,0,,BraintreeToGreenbush,1,,CR-Greenbush-BraintreeGreenbush-0,1
+CR-Greenbush,SummerSaturday,CR-485315-1071,Greenbush,1071,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SummerSaturday,CR-485317-1073,Greenbush,1073,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SummerSaturday,CR-485319-1075,Greenbush,1075,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SummerSaturday,CR-485321-1077,Greenbush,1077,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SummerSaturday,CR-485323-1079,Greenbush,1079,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SummerSaturday,CR-485325-1081,Greenbush,1081,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SummerSaturday,CR-485327-1083,Greenbush,1083,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
+CR-Greenbush,SummerSaturday,CR-485486-1085,Greenbush,1085,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
 CR-Greenbush,SummerWeekday,CR-483544-073,Greenbush,073,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
 CR-Greenbush,SummerWeekday,CR-483547-075,Greenbush,075,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
 CR-Greenbush,SummerWeekday,CR-483557-079,Greenbush,079,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
@@ -60282,22 +60300,38 @@ CR-Greenbush,SummerWeekday,CR-483642-085,Greenbush,085,0,,9900002,1,,CR-Greenbus
 CR-Greenbush,SummerWeekday,CR-483643-077,Greenbush,077,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
 CR-Greenbush,SummerWeekday,CR-483646-087,Greenbush,087,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
 CR-Greenbush,SummerWeekday,CR-483653-091,Greenbush,091,0,,9900002,1,,CR-Greenbush-6d652c57-0,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485316-1072,South Station,1072,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485318-1074,South Station,1074,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485320-1076,South Station,1076,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485322-1078,South Station,1078,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485324-1080,South Station,1080,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485326-1082,South Station,1082,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485328-1084,South Station,1084,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Sa-6,CR-485467-1070,South Station,1070,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Su-6,CR-485785-2070,South Station,2070,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Su-6,CR-485790-2072,South Station,2072,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Su-6,CR-485792-2074,South Station,2074,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Su-6,CR-485794-2076,South Station,2076,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Su-6,CR-485796-2078,South Station,2078,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Su-6,CR-485798-2080,South Station,2080,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Su-6,CR-485800-2082,South Station,2082,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
-CR-Greenbush,SPR21-S-Su-6,CR-485802-2084,South Station,2084,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485316-1072-BraintreeSouthStationSuspendGreenbush-1,South Station,1072,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485318-1074-BraintreeSouthStationSuspendGreenbush-1,South Station,1074,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485320-1076-BraintreeSouthStationSuspendGreenbush-1,South Station,1076,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485322-1078-BraintreeSouthStationSuspendGreenbush-1,South Station,1078,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485324-1080-BraintreeSouthStationSuspendGreenbush-1,South Station,1080,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485326-1082-BraintreeSouthStationSuspendGreenbush-1,South Station,1082,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485328-1084-BraintreeSouthStationSuspendGreenbush-1,South Station,1084,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Sa-6-Sb7371956-BrrSthStnSsdGrh,CR-485467-1070-BraintreeSouthStationSuspendGreenbush-1,South Station,1070,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485785-2070,South Station,2070,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485790-2072,South Station,2072,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485792-2074,South Station,2074,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485794-2076,South Station,2076,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485796-2078,South Station,2078,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485798-2080,South Station,2080,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485800-2082,South Station,2082,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb6,CR-485802-2084,South Station,2084,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485785-2070-BraintreeSouthStationSuspendGreenbush-1,South Station,2070,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485790-2072-BraintreeSouthStationSuspendGreenbush-1,South Station,2072,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485792-2074-BraintreeSouthStationSuspendGreenbush-1,South Station,2074,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485794-2076-BraintreeSouthStationSuspendGreenbush-1,South Station,2076,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485796-2078-BraintreeSouthStationSuspendGreenbush-1,South Station,2078,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485798-2080-BraintreeSouthStationSuspendGreenbush-1,South Station,2080,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485800-2082-BraintreeSouthStationSuspendGreenbush-1,South Station,2082,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SPR21-S-Su-6-Sb7371956-BrrSthStnSsdGrh,CR-485802-2084-BraintreeSouthStationSuspendGreenbush-1,South Station,2084,1,,GreenbushToBraintree,1,,CR-Greenbush-BraintreeGreenbush-1,1
+CR-Greenbush,SummerSaturday,CR-485316-1072,South Station,1072,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SummerSaturday,CR-485318-1074,South Station,1074,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SummerSaturday,CR-485320-1076,South Station,1076,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SummerSaturday,CR-485322-1078,South Station,1078,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SummerSaturday,CR-485324-1080,South Station,1080,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SummerSaturday,CR-485326-1082,South Station,1082,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SummerSaturday,CR-485328-1084,South Station,1084,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
+CR-Greenbush,SummerSaturday,CR-485467-1070,South Station,1070,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
 CR-Greenbush,SummerWeekday,CR-483549-078,South Station,078,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
 CR-Greenbush,SummerWeekday,CR-483552-080,South Station,080,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
 CR-Greenbush,SummerWeekday,CR-483560-084,South Station,084,1,,9900001,1,,CR-Greenbush-414eb5a9-1,1
@@ -60421,15 +60455,15 @@ CR-Haverhill,SPR21-N-Wdy-1-S6d,CR-479273-292,North Station,292,1,,9820001,1,,CR-
 CR-Haverhill,SPR21-N-Wdy-1-S6d,CR-479275-294,North Station,294,1,,9820001,1,,CR-Haverhill-dbb78d1b-1,1
 CR-Haverhill,SPR21-N-Wdy-1-S6d,CR-479278-296,North Station,296,1,,9820001,1,,CR-Haverhill-dbb78d1b-1,1
 CR-Haverhill,SPR21-N-Wdy-1-S6d,CR-479280-298,North Station,298,1,,9820001,1,,CR-Haverhill-dbb78d1b-1,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485301-1041,Kingston,1041,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485303-1043,Kingston,1043,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485305-1045,Kingston,1045,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485307-1047,Kingston,1047,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485309-1049,Kingston,1049,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485311-1051,Kingston,1051,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485313-1053,Kingston,1053,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485463-1055,Kingston,1055,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485464-1057,Kingston,1057,0,,9790002,1,,CR-Kingston-a80a8fd4-0,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485301-1041-KingstonStopAtBraintree2,Kingston,1041,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485303-1043-KingstonStopAtBraintree2,Kingston,1043,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485305-1045-KingstonStopAtBraintree2,Kingston,1045,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485307-1047-KingstonStopAtBraintree2,Kingston,1047,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485309-1049-KingstonStopAtBraintree2,Kingston,1049,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485311-1051-KingstonStopAtBraintree2,Kingston,1051,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485313-1053-KingstonStopAtBraintree2,Kingston,1053,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485463-1055-KingstonStopAtBraintree2,Kingston,1055,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485464-1057-KingstonStopAtBraintree,Kingston,1057,0,,9790002,1,,CR-Kingston-a80a8fd4-0,1
 CR-Kingston,SPR21-S-Su-6-Sc0,CR-485763-2041,Kingston,2041,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
 CR-Kingston,SPR21-S-Su-6-Sc0,CR-485765-2043,Kingston,2043,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
 CR-Kingston,SPR21-S-Su-6-Sc0,CR-485767-2045,Kingston,2045,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
@@ -60439,6 +60473,24 @@ CR-Kingston,SPR21-S-Su-6-Sc0,CR-485773-2051,Kingston,2051,0,,9790002,1,,CR-Kings
 CR-Kingston,SPR21-S-Su-6-Sc0,CR-485775-2053,Kingston,2053,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
 CR-Kingston,SPR21-S-Su-6-Sc0,CR-485779-2055,Kingston,2055,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
 CR-Kingston,SPR21-S-Su-6-Sc0,CR-485780-2057,Kingston,2057,0,,9790002,1,,CR-Kingston-a80a8fd4-0,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485763-2041-KingstonStopAtBraintree2,Kingston,2041,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485765-2043-KingstonStopAtBraintree2,Kingston,2043,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485767-2045-KingstonStopAtBraintree2,Kingston,2045,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485769-2047-KingstonStopAtBraintree2,Kingston,2047,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485771-2049-KingstonStopAtBraintree2,Kingston,2049,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485773-2051-KingstonStopAtBraintree2,Kingston,2051,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485775-2053-KingstonStopAtBraintree2,Kingston,2053,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485779-2055-KingstonStopAtBraintree2,Kingston,2055,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485780-2057-KingstonStopAtBraintree,Kingston,2057,0,,9790002,1,,CR-Kingston-a80a8fd4-0,1
+CR-Kingston,SummerSaturday,CR-485301-1041,Kingston,1041,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SummerSaturday,CR-485303-1043,Kingston,1043,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SummerSaturday,CR-485305-1045,Kingston,1045,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SummerSaturday,CR-485307-1047,Kingston,1047,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SummerSaturday,CR-485309-1049,Kingston,1049,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SummerSaturday,CR-485311-1051,Kingston,1051,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SummerSaturday,CR-485313-1053,Kingston,1053,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SummerSaturday,CR-485463-1055,Kingston,1055,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
+CR-Kingston,SummerSaturday,CR-485464-1057,Kingston,1057,0,,9790002,1,,CR-Kingston-a80a8fd4-0,1
 CR-Kingston,SummerWeekday,CR-483537-041,Kingston,041,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
 CR-Kingston,SummerWeekday,CR-483551-047,Kingston,047,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
 CR-Kingston,SummerWeekday,CR-483556-049,Kingston,049,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
@@ -60452,15 +60504,15 @@ CR-Kingston,SummerWeekday,CR-483639-043,Kingston,043,0,,9790002,1,,CR-Kingston-8
 CR-Kingston,SummerWeekday,CR-483640-051,Kingston,051,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
 CR-Kingston,SummerWeekday,CR-483864-061,Kingston,061,0,,9790002,1,,CR-Kingston-8edf9cf3-0,1
 CR-Kingston,SummerWeekday,CR-483618-065,Kingston,065,0,,9790002,1,,CR-Kingston-a80a8fd4-0,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485461-1056,Braintree,1056,1,,9790001,1,,CR-Kingston-285ad791-1,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485302-1042,South Station,1042,1,,9790001,1,,CR-Kingston-5615f391-1,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485304-1044,South Station,1044,1,,9790001,1,,CR-Kingston-5615f391-1,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485306-1046,South Station,1046,1,,9790001,1,,CR-Kingston-5615f391-1,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485308-1048,South Station,1048,1,,9790001,1,,CR-Kingston-5615f391-1,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485310-1050,South Station,1050,1,,9790001,1,,CR-Kingston-5615f391-1,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485312-1052,South Station,1052,1,,9790001,1,,CR-Kingston-5615f391-1,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485314-1054,South Station,1054,1,,9790001,1,,CR-Kingston-5615f391-1,1
-CR-Kingston,SPR21-S-Sa-6-Sc0,CR-485441-1040,South Station,1040,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485461-1056-KingstonStopAtBraintree,Braintree,1056,1,,9790001,1,,CR-Kingston-285ad791-1,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485302-1042-KingstonStopAtBraintree0,South Station,1042,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485304-1044-KingstonStopAtBraintree0,South Station,1044,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485306-1046-KingstonStopAtBraintree0,South Station,1046,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485308-1048-KingstonStopAtBraintree0,South Station,1048,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485310-1050-KingstonStopAtBraintree0,South Station,1050,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485312-1052-KingstonStopAtBraintree0,South Station,1052,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485314-1054-KingstonStopAtBraintree0,South Station,1054,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Sa-6-Sc9a3b080-KnnStpAtBrr,CR-485441-1040-KingstonStopAtBraintree0,South Station,1040,1,,9790001,1,,CR-Kingston-5615f391-1,1
 CR-Kingston,SPR21-S-Su-6-Sc0,CR-485777-2056,Braintree,2056,1,,9790001,1,,CR-Kingston-285ad791-1,1
 CR-Kingston,SPR21-S-Su-6-Sc0,CR-485759-2040,South Station,2040,1,,9790001,1,,CR-Kingston-5615f391-1,1
 CR-Kingston,SPR21-S-Su-6-Sc0,CR-485764-2042,South Station,2042,1,,9790001,1,,CR-Kingston-5615f391-1,1
@@ -60470,6 +60522,24 @@ CR-Kingston,SPR21-S-Su-6-Sc0,CR-485770-2048,South Station,2048,1,,9790001,1,,CR-
 CR-Kingston,SPR21-S-Su-6-Sc0,CR-485772-2050,South Station,2050,1,,9790001,1,,CR-Kingston-5615f391-1,1
 CR-Kingston,SPR21-S-Su-6-Sc0,CR-485774-2052,South Station,2052,1,,9790001,1,,CR-Kingston-5615f391-1,1
 CR-Kingston,SPR21-S-Su-6-Sc0,CR-485776-2054,South Station,2054,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485777-2056-KingstonStopAtBraintree,Braintree,2056,1,,9790001,1,,CR-Kingston-285ad791-1,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485759-2040-KingstonStopAtBraintree0,South Station,2040,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485764-2042-KingstonStopAtBraintree0,South Station,2042,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485766-2044-KingstonStopAtBraintree0,South Station,2044,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485768-2046-KingstonStopAtBraintree0,South Station,2046,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485770-2048-KingstonStopAtBraintree0,South Station,2048,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485772-2050-KingstonStopAtBraintree0,South Station,2050,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485774-2052-KingstonStopAtBraintree0,South Station,2052,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SPR21-S-Su-6-Sc9a3b080-KnnStpAtBrr,CR-485776-2054-KingstonStopAtBraintree0,South Station,2054,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SummerSaturday,CR-485461-1056,Braintree,1056,1,,9790001,1,,CR-Kingston-285ad791-1,1
+CR-Kingston,SummerSaturday,CR-485302-1042,South Station,1042,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SummerSaturday,CR-485304-1044,South Station,1044,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SummerSaturday,CR-485306-1046,South Station,1046,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SummerSaturday,CR-485308-1048,South Station,1048,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SummerSaturday,CR-485310-1050,South Station,1050,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SummerSaturday,CR-485312-1052,South Station,1052,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SummerSaturday,CR-485314-1054,South Station,1054,1,,9790001,1,,CR-Kingston-5615f391-1,1
+CR-Kingston,SummerSaturday,CR-485441-1040,South Station,1040,1,,9790001,1,,CR-Kingston-5615f391-1,1
 CR-Kingston,SummerWeekday,CR-483619-064,Braintree,064,1,,9790001,1,,CR-Kingston-285ad791-1,1
 CR-Kingston,SummerWeekday,CR-483541-044,South Station,044,1,,9790001,1,,CR-Kingston-5615f391-1,1
 CR-Kingston,SummerWeekday,CR-483555-052,South Station,052,1,,9790001,1,,CR-Kingston-5615f391-1,1
@@ -60562,16 +60632,26 @@ CR-Lowell,SummerWeekday,CR-479314-336,North Station,336,1,,9830005,1,,CR-Lowell-
 CR-Lowell,SummerWeekday,CR-479315-338,North Station,338,1,,9830005,1,,CR-Lowell-89fe964c-1,1
 CR-Lowell,SummerWeekday,CR-479317-340,North Station,340,1,,9830005,1,,CR-Lowell-89fe964c-1,1
 CR-Lowell,SummerWeekday,CR-479319-342,North Station,342,1,,9830005,1,,CR-Lowell-89fe964c-1,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485282-1003,Middleborough/Lakeville,1003,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485284-1005,Middleborough/Lakeville,1005,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485286-1007,Middleborough/Lakeville,1007,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485288-1009,Middleborough/Lakeville,1009,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485290-1011,Middleborough/Lakeville,1011,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485292-1013,Middleborough/Lakeville,1013,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485294-1015,Middleborough/Lakeville,1015,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485296-1017,Middleborough/Lakeville,1017,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485298-1019,Middleborough/Lakeville,1019,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485300-1021,Middleborough/Lakeville,1021,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485282-1003-MiddStopBraintree2,Middleborough/Lakeville,1003,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485284-1005-MiddStopBraintree2,Middleborough/Lakeville,1005,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485286-1007-MiddStopBraintree2,Middleborough/Lakeville,1007,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485288-1009-MiddStopBraintree2,Middleborough/Lakeville,1009,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485290-1011-MiddStopBraintree2,Middleborough/Lakeville,1011,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485292-1013-MiddStopBraintree2,Middleborough/Lakeville,1013,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485294-1015-MiddStopBraintree2,Middleborough/Lakeville,1015,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485296-1017-MiddStopBraintree2,Middleborough/Lakeville,1017,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485298-1019-MiddStopBraintree2,Middleborough/Lakeville,1019,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485300-1021-MiddStopBraintree2,Middleborough/Lakeville,1021,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485740-2003-MiddStopBraintree2,Middleborough/Lakeville,2003,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485742-2005-MiddStopBraintree2,Middleborough/Lakeville,2005,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485744-2007-MiddStopBraintree2,Middleborough/Lakeville,2007,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485746-2009-MiddStopBraintree2,Middleborough/Lakeville,2009,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485748-2011-MiddStopBraintree2,Middleborough/Lakeville,2011,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485750-2013-MiddStopBraintree2,Middleborough/Lakeville,2013,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485752-2015-MiddStopBraintree2,Middleborough/Lakeville,2015,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485754-2017-MiddStopBraintree2,Middleborough/Lakeville,2017,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485756-2019-MiddStopBraintree2,Middleborough/Lakeville,2019,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485758-2021-MiddStopBraintree2,Middleborough/Lakeville,2021,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
 CR-Middleborough,SPR21-S-Su-6-S8f,CR-485740-2003,Middleborough/Lakeville,2003,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
 CR-Middleborough,SPR21-S-Su-6-S8f,CR-485742-2005,Middleborough/Lakeville,2005,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
 CR-Middleborough,SPR21-S-Su-6-S8f,CR-485744-2007,Middleborough/Lakeville,2007,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
@@ -60582,6 +60662,16 @@ CR-Middleborough,SPR21-S-Su-6-S8f,CR-485752-2015,Middleborough/Lakeville,2015,0,
 CR-Middleborough,SPR21-S-Su-6-S8f,CR-485754-2017,Middleborough/Lakeville,2017,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
 CR-Middleborough,SPR21-S-Su-6-S8f,CR-485756-2019,Middleborough/Lakeville,2019,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
 CR-Middleborough,SPR21-S-Su-6-S8f,CR-485758-2021,Middleborough/Lakeville,2021,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SummerSaturday,CR-485282-1003,Middleborough/Lakeville,1003,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SummerSaturday,CR-485284-1005,Middleborough/Lakeville,1005,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SummerSaturday,CR-485286-1007,Middleborough/Lakeville,1007,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SummerSaturday,CR-485288-1009,Middleborough/Lakeville,1009,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SummerSaturday,CR-485290-1011,Middleborough/Lakeville,1011,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SummerSaturday,CR-485292-1013,Middleborough/Lakeville,1013,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SummerSaturday,CR-485294-1015,Middleborough/Lakeville,1015,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SummerSaturday,CR-485296-1017,Middleborough/Lakeville,1017,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SummerSaturday,CR-485298-1019,Middleborough/Lakeville,1019,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
+CR-Middleborough,SummerSaturday,CR-485300-1021,Middleborough/Lakeville,1021,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
 CR-Middleborough,SummerWeekday,CR-483535-003,Middleborough/Lakeville,003,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
 CR-Middleborough,SummerWeekday,CR-483548-007,Middleborough/Lakeville,007,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
 CR-Middleborough,SummerWeekday,CR-483554-009,Middleborough/Lakeville,009,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
@@ -60597,16 +60687,26 @@ CR-Middleborough,SummerWeekday,CR-483624-005,Middleborough/Lakeville,005,0,,9800
 CR-Middleborough,SummerWeekday,CR-483625-013,Middleborough/Lakeville,013,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
 CR-Middleborough,SummerWeekday,CR-483637-025,Middleborough/Lakeville,025,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
 CR-Middleborough,SummerWeekday,CR-483638-029,Middleborough/Lakeville,029,0,,9800002,1,,CR-Middleborough-2507c3b4-0,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485281-1002,South Station,1002,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485283-1004,South Station,1004,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485285-1006,South Station,1006,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485287-1008,South Station,1008,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485289-1010,South Station,1010,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485291-1012,South Station,1012,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485293-1014,South Station,1014,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485295-1016,South Station,1016,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485297-1018,South Station,1018,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
-CR-Middleborough,SPR21-S-Sa-6-S8f,CR-485299-1020,South Station,1020,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485281-1002-MiddStopBraintree0,South Station,1002,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485283-1004-MiddStopBraintree0,South Station,1004,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485285-1006-MiddStopBraintree0,South Station,1006,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485287-1008-MiddStopBraintree0,South Station,1008,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485289-1010-MiddStopBraintree0,South Station,1010,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485291-1012-MiddStopBraintree0,South Station,1012,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485293-1014-MiddStopBraintree0,South Station,1014,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485295-1016-MiddStopBraintree0,South Station,1016,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485297-1018-MiddStopBraintree0,South Station,1018,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Sa-6-S859962ef-MddStpBrr,CR-485299-1020-MiddStopBraintree0,South Station,1020,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485739-2002-MiddStopBraintree0,South Station,2002,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485741-2004-MiddStopBraintree0,South Station,2004,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485743-2006-MiddStopBraintree0,South Station,2006,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485745-2008-MiddStopBraintree0,South Station,2008,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485747-2010-MiddStopBraintree0,South Station,2010,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485749-2012-MiddStopBraintree0,South Station,2012,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485751-2014-MiddStopBraintree0,South Station,2014,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485753-2016-MiddStopBraintree0,South Station,2016,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485755-2018-MiddStopBraintree0,South Station,2018,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SPR21-S-Su-6-S859962ef-MddStpBrr,CR-485757-2020-MiddStopBraintree0,South Station,2020,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
 CR-Middleborough,SPR21-S-Su-6-S8f,CR-485739-2002,South Station,2002,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
 CR-Middleborough,SPR21-S-Su-6-S8f,CR-485741-2004,South Station,2004,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
 CR-Middleborough,SPR21-S-Su-6-S8f,CR-485743-2006,South Station,2006,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
@@ -60617,6 +60717,16 @@ CR-Middleborough,SPR21-S-Su-6-S8f,CR-485751-2014,South Station,2014,1,,9800001,1
 CR-Middleborough,SPR21-S-Su-6-S8f,CR-485753-2016,South Station,2016,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
 CR-Middleborough,SPR21-S-Su-6-S8f,CR-485755-2018,South Station,2018,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
 CR-Middleborough,SPR21-S-Su-6-S8f,CR-485757-2020,South Station,2020,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SummerSaturday,CR-485281-1002,South Station,1002,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SummerSaturday,CR-485283-1004,South Station,1004,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SummerSaturday,CR-485285-1006,South Station,1006,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SummerSaturday,CR-485287-1008,South Station,1008,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SummerSaturday,CR-485289-1010,South Station,1010,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SummerSaturday,CR-485291-1012,South Station,1012,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SummerSaturday,CR-485293-1014,South Station,1014,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SummerSaturday,CR-485295-1016,South Station,1016,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SummerSaturday,CR-485297-1018,South Station,1018,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
+CR-Middleborough,SummerSaturday,CR-485299-1020,South Station,1020,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
 CR-Middleborough,SummerWeekday,CR-483536-002,South Station,002,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
 CR-Middleborough,SummerWeekday,CR-483538-004,South Station,004,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
 CR-Middleborough,SummerWeekday,CR-483539-006,South Station,006,1,,9800001,1,,CR-Middleborough-cd96ff97-1,1
@@ -60640,6 +60750,14 @@ CR-Needham,SPR21-S-Sa-6-S0f,CR-485357-1609,Needham Heights,1609,0,,9860002,1,,CR
 CR-Needham,SPR21-S-Sa-6-S0f,CR-485359-1611,Needham Heights,1611,0,,9860002,1,,CR-Needham-8ca06f5a-0,1
 CR-Needham,SPR21-S-Sa-6-S0f,CR-485361-1613,Needham Heights,1613,0,,9860002,1,,CR-Needham-8ca06f5a-0,1
 CR-Needham,SPR21-S-Sa-6-S0f,CR-489985-1615,Needham Heights,1615,0,,9860002,1,,CR-Needham-8ca06f5a-0,1
+CR-Needham,SPR21-S-Su-6-05b623dc,CR-489990-2609-13:00-NeedhamHeightsForestHillsSouthStation,Needham Heights,2609,0,,9860002,1,,CR-Needham-8ca06f5a-0,1
+CR-Needham,SPR21-S-Su-6-05b623dc,CR-489992-2611-13:00-NeedhamHeightsForestHillsSouthStation,Needham Heights,2611,0,,9860002,1,,CR-Needham-8ca06f5a-0,1
+CR-Needham,SPR21-S-Su-6-05b623dc,CR-489994-2613-13:00-NeedhamHeightsForestHillsSouthStation,Needham Heights,2613,0,,9860002,1,,CR-Needham-8ca06f5a-0,1
+CR-Needham,SPR21-S-Su-6-05b623dc,CR-489996-2607-13:00-NeedhamHeightsForestHillsSouthStation,Needham Heights,2607,0,,9860002,1,,CR-Needham-8ca06f5a-0,1
+CR-Needham,SPR21-S-Su-6-05b623dc,CR-490006-2615-13:00-NeedhamHeightsForestHillsSouthStation,Needham Heights,2615,0,,9860002,1,,CR-Needham-8ca06f5a-0,1
+CR-Needham,SPR21-S-Su-6-05b623dc,CR-489998-2605-13:00-NeedhamHeightsForestHillsSouthStation0,Needham Heights,2605,0,,9860002-NEC-2237-NB-0137-S-0,1,,CR-Needham-8ca06f5a-0_NEC-2237_NB-0137-S_0,1
+CR-Needham,SPR21-S-Su-6-05b623dc,CR-490000-2603-13:00-NeedhamHeightsForestHillsSouthStation0,Needham Heights,2603,0,,9860002-NEC-2237-NB-0137-S-0,1,,CR-Needham-8ca06f5a-0_NEC-2237_NB-0137-S_0,1
+CR-Needham,SPR21-S-Su-6-05b623dc,CR-490001-2601-13:00-NeedhamHeightsForestHillsSouthStation0,Needham Heights,2601,0,,9860002-NEC-2237-NB-0137-S-0,1,,CR-Needham-8ca06f5a-0_NEC-2237_NB-0137-S_0,1
 CR-Needham,SPR21-S-Su-6-S0f,CR-489990-2609,Needham Heights,2609,0,,9860002,1,,CR-Needham-8ca06f5a-0,1
 CR-Needham,SPR21-S-Su-6-S0f,CR-489992-2611,Needham Heights,2611,0,,9860002,1,,CR-Needham-8ca06f5a-0,1
 CR-Needham,SPR21-S-Su-6-S0f,CR-489994-2613,Needham Heights,2613,0,,9860002,1,,CR-Needham-8ca06f5a-0,1
@@ -60672,6 +60790,10 @@ CR-Needham,SPR21-S-Sa-6-S0f,CR-485358-1610,South Station,1610,1,,9860001,1,,CR-N
 CR-Needham,SPR21-S-Sa-6-S0f,CR-485360-1612,South Station,1612,1,,9860001,1,,CR-Needham-31ea698c-1,1
 CR-Needham,SPR21-S-Sa-6-S0f,CR-485362-1614,South Station,1614,1,,9860001,1,,CR-Needham-31ea698c-1,1
 CR-Needham,SPR21-S-Sa-6-S0f,CR-485509-1600,South Station,1600,1,,9860001,1,,CR-Needham-31ea698c-1,1
+CR-Needham,SPR21-S-Su-6-05b623dc,CR-489988-2610-13:00-NeedhamHeightsForestHillsSouthStation,South Station,2610,1,,9860001,1,,CR-Needham-31ea698c-1,1
+CR-Needham,SPR21-S-Su-6-05b623dc,CR-489991-2612-13:00-NeedhamHeightsForestHillsSouthStation,South Station,2612,1,,9860001,1,,CR-Needham-31ea698c-1,1
+CR-Needham,SPR21-S-Su-6-05b623dc,CR-489993-2614-13:00-NeedhamHeightsForestHillsSouthStation,South Station,2614,1,,9860001,1,,CR-Needham-31ea698c-1,1
+CR-Needham,SPR21-S-Su-6-05b623dc,CR-489995-2608-13:00-NeedhamHeightsForestHillsSouthStation,South Station,2608,1,,9860001,1,,CR-Needham-31ea698c-1,1
 CR-Needham,SPR21-S-Su-6-S0f,CR-489988-2610,South Station,2610,1,,9860001,1,,CR-Needham-31ea698c-1,1
 CR-Needham,SPR21-S-Su-6-S0f,CR-489989-2600,South Station,2600,1,,9860001,1,,CR-Needham-31ea698c-1,1
 CR-Needham,SPR21-S-Su-6-S0f,CR-489991-2612,South Station,2612,1,,9860001,1,,CR-Needham-31ea698c-1,1
@@ -78019,6 +78141,13 @@ Shuttle-FenwayRiverside,LRV421-hlb41017-Su-01-4d126123,49202834-BKHFenwayReservo
 Shuttle-FenwayRiverside,LRV421-hlb41017-Su-01-4d126123,49202835-BKHFenwayReservoirGLB1KenmoreWashingtonStreet1,Fenway (Shuttle),,1,B852_-49-1-BKH0-1-FR1,RiversideToFenway-S,1,3,Shuttle-FenwayRiverside-0-1,2
 Shuttle-FenwayRiverside,LRV421-hlb41017-Su-01-4d126123,49202836-BKHFenwayReservoirGLB1KenmoreWashingtonStreet1,Fenway (Shuttle),,1,B852_-50-1-BKH0-1-FR1,RiversideToFenway-S,1,3,Shuttle-FenwayRiverside-0-1,2
 Shuttle-FenwayRiverside,LRV421-hlb41017-Su-01-4d126123,49202837-BKHFenwayReservoirGLB1KenmoreWashingtonStreet1,Fenway (Shuttle),,1,B852_-51-1-BKH0-1-FR1,RiversideToFenway-S,1,3,Shuttle-FenwayRiverside-0-1,2
+Shuttle-ForestHillsNeedhamHeights,SPR21-S-Su-6-05b623dc,CR-489998-2605-13:00-NeedhamHeightsForestHillsSouthStation1,Needham Heights (Shuttle),B2605,0,,ForestHillsToNeedhamHeights-S,1,3,Shuttle-ForestHillsNeedhamHeights-0-0,2
+Shuttle-ForestHillsNeedhamHeights,SPR21-S-Su-6-05b623dc,CR-490000-2603-13:00-NeedhamHeightsForestHillsSouthStation1,Needham Heights (Shuttle),B2603,0,,ForestHillsToNeedhamHeights-S,1,3,Shuttle-ForestHillsNeedhamHeights-0-0,2
+Shuttle-ForestHillsNeedhamHeights,SPR21-S-Su-6-05b623dc,CR-490001-2601-13:00-NeedhamHeightsForestHillsSouthStation1,Needham Heights (Shuttle),B2601,0,,ForestHillsToNeedhamHeights-S,1,3,Shuttle-ForestHillsNeedhamHeights-0-0,2
+Shuttle-ForestHillsNeedhamHeights,SPR21-S-Su-6-05b623dc,CR-489989-2600-13:00-NeedhamHeightsForestHillsSouthStation1,Forest Hills (Shuttle),B2600,1,,NeedhamHeightsToForestHills-S,1,3,Shuttle-ForestHillsNeedhamHeights-0-1,2
+Shuttle-ForestHillsNeedhamHeights,SPR21-S-Su-6-05b623dc,CR-489997-2606-13:00-NeedhamHeightsForestHillsSouthStation1,Forest Hills (Shuttle),B2606,1,,NeedhamHeightsToForestHills-S,1,3,Shuttle-ForestHillsNeedhamHeights-0-1,2
+Shuttle-ForestHillsNeedhamHeights,SPR21-S-Su-6-05b623dc,CR-489999-2604-13:00-NeedhamHeightsForestHillsSouthStation1,Forest Hills (Shuttle),B2604,1,,NeedhamHeightsToForestHills-S,1,3,Shuttle-ForestHillsNeedhamHeights-0-1,2
+Shuttle-ForestHillsNeedhamHeights,SPR21-S-Su-6-05b623dc,CR-490005-2602-13:00-NeedhamHeightsForestHillsSouthStation1,Forest Hills (Shuttle),B2602,1,,NeedhamHeightsToForestHills-S,1,3,Shuttle-ForestHillsNeedhamHeights-0-1,2
 Shuttle-KenmoreRiverside,LRV421-hlb41016-Sa-01-BKrRvd,49203749-BKHGLB1KenmoreRiversideKenmoreRiverside,Riverside (Shuttle),,0,B852_-49-0-BKH0-0-KenmoreRiversideKenmoreRiverside,KenmoreToRiverside-S,1,3,Shuttle-KenmoreRiverside-0-0,2
 Shuttle-KenmoreRiverside,LRV421-hlb41016-Sa-01-BKrRvd,49203750-BKHGLB1KenmoreRiversideKenmoreRiverside,Riverside (Shuttle),,0,B852_-55-0-BKH0-0-KenmoreRiversideKenmoreRiverside,KenmoreToRiverside-S,1,3,Shuttle-KenmoreRiverside-0-0,2
 Shuttle-KenmoreRiverside,LRV421-hlb41016-Sa-01-BKrRvd,49204623-BKHGLB1KenmoreRiversideKenmoreRiverside,Riverside (Shuttle),,0,B852_-50-0-BKH0-0-KenmoreRiversideKenmoreRiverside,KenmoreToRiverside-S,1,3,Shuttle-KenmoreRiverside-0-0,2
