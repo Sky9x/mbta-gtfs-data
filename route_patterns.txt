@@ -86,8 +86,10 @@ CR-Franklin-58bf35a6-0,CR-Franklin,0,South Station - Forge Park/495 via Fairmoun
 CR-Franklin-efecf2cd-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,20004100,CR-483701-724
 CR-Franklin-0e04afee-1,CR-Franklin,1,Walpole - South Station via Back Bay,,2,20004101,CR-483663-710
 CR-Greenbush-6d652c57-0,CR-Greenbush,0,South Station - Greenbush,,1,20005000,CR-483544-073
+CR-Greenbush-BraintreeGreenbush-0,CR-Greenbush,0,Braintree - Greenbush,,4,20005099,CR-485315-1071-BraintreeSouthStationSuspendGreenbush-1
 CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,20005100,CR-483549-078
 CR-Greenbush-e18c2c1d-1,CR-Greenbush,1,Greenbush - South Station,,2,20005101,CR-483575-088
+CR-Greenbush-BraintreeGreenbush-1,CR-Greenbush,1,Greenbush - Braintree,,4,20005199,CR-485316-1072-BraintreeSouthStationSuspendGreenbush-1
 CR-Haverhill-ead99721-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,20006000,CR-479238-201-BallardvaleMaldenCenterNStaReading
 CR-Haverhill-d8edcefc-0,CR-Haverhill,0,North Station - Haverhill,,2,20006001,CR-479255-217-BallardvaleMaldenCenterNStaReading
 CR-Haverhill-1ec1f271-0,CR-Haverhill,0,North Station - Reading,,2,20006002,CR-479263-281-BallardvaleMaldenCenterNStaReading
@@ -104,6 +106,7 @@ CR-Middleborough-2507c3b4-0,CR-Middleborough,0,South Station - Middleborough/Lak
 CR-Middleborough-cd96ff97-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,20009100,CR-483536-002
 CR-Needham-8ca06f5a-0,CR-Needham,0,South Station - Needham Heights,,1,20010000,CR-483661-613
 CR-Needham-ba733d01-0,CR-Needham,0,Forest Hills - Needham Heights,,2,20010001,CR-483888-633
+CR-Needham-8ca06f5a-0_NEC-2237_NB-0137-S_0,CR-Needham,0,South Station - Forest Hills,,4,20010099,CR-489998-2605-13:00-NeedhamHeightsForestHillsSouthStation0
 CR-Needham-31ea698c-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,CR-483662-616
 CR-Newburyport-76fa2c91-0,CR-Newburyport,0,North Station - Newburyport,,1,20011000,CR-479177-165-MRRockport
 CR-Newburyport-adde8a7c-0,CR-Newburyport,0,North Station - Manchester,,1,20011001,CR-479173-123-MRRockport
@@ -135,6 +138,8 @@ CR-Providence-e99e5ce2-1,CR-Providence,1,Providence - South Station,,2,20012104,
 CR-Providence-4f7f6e16-1,CR-Providence,1,Wickford Junction - South Station,,2,20012105,CR-483832-810
 CR-Providence-87821f71-1,CR-Providence,1,Wickford Junction - South Station,,2,20012106,CR-483872-836
 CR-Providence-bffb2f0c-1,CR-Providence,1,Providence - South Station,,2,20012107,CR-483878-824
+CR-Foxboro-0-0,CR-Foxboro,0,South Station or Foxboro - Foxboro or Providence,,4,20013099,CR-Foxboro16:25-0-14:10:00
+CR-Foxboro-0-1,CR-Foxboro,1,Foxboro or Providence - South Station or Foxboro,,4,20013199,CR-Foxboro16:25-1-13:35:00
 CapeFlyer-0c525908-0,CapeFlyer,0,South Station - Hyannis,,1,21000000,CR-487316-9001
 CapeFlyer-96005428-1,CapeFlyer,1,Hyannis - South Station,,1,21000100,CR-487317-9002
 Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-0630-Long-Weekday-Summer-21
@@ -839,3 +844,5 @@ Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Glo
 Shuttle-ManchesterRockport-0-0,Shuttle-ManchesterRockport,0,Manchester - Rockport,,4,62060099,CR-479173-123-MRRockportC1
 Shuttle-RockportWestGloucester-0-0,Shuttle-RockportWestGloucester,0,West Gloucester - Rockport,,1,62410099,CR-479172-117-MRRockportB1
 Shuttle-RockportWestGloucester-0-1,Shuttle-RockportWestGloucester,1,Rockport - West Gloucester,,1,62410199,CR-479166-100-MRRockportB1
+Shuttle-ForestHillsNeedhamHeights-0-0,Shuttle-ForestHillsNeedhamHeights,0,Forest Hills - Needham Heights,,4,62530099,CR-489998-2605-13:00-NeedhamHeightsForestHillsSouthStation1
+Shuttle-ForestHillsNeedhamHeights-0-1,Shuttle-ForestHillsNeedhamHeights,1,Needham Heights - Forest Hills,,4,62530199,CR-489989-2600-13:00-NeedhamHeightsForestHillsSouthStation1
