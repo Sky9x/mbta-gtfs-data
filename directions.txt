@@ -53,8 +53,6 @@ CR-Providence,0,Outbound,Stoughton or Wickford Junction
 CR-Providence,1,Inbound,South Station
 CR-Foxboro,0,Outbound,Foxboro or Providence
 CR-Foxboro,1,Inbound,South Station or Foxboro
-CapeFlyer,0,Outbound,Hyannis
-CapeFlyer,1,Inbound,South Station
 Boat-F4,0,Outbound,Charlestown
 Boat-F4,1,Inbound,Long Wharf
 Boat-F1,0,Outbound,Hingham or Hull
@@ -397,10 +395,22 @@ Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
 714,1,Inbound,"Station Street, Hingham"
 716,0,Outbound,Cobbs Corner
 716,1,Inbound,Mattapan Station
+Shuttle-AlewifeHarvard,0,South,Ashmont/Braintree
+Shuttle-AlewifeHarvard,1,North,Alewife
+Shuttle-AndersonWoburnNorthStationExpress,0,Outbound,Lowell
+Shuttle-AndersonWoburnNorthStationExpress,1,Inbound,North Station
+Shuttle-AndersonWoburnNorthStationLocal,0,Outbound,Lowell
+Shuttle-AndersonWoburnNorthStationLocal,1,Inbound,North Station
+Shuttle-AndoverHaverhill,0,Outbound,Haverhill
+Shuttle-AndoverHaverhill,1,Inbound,North Station
+Shuttle-AshmontJFK,0,Outbound,Ashmont
+Shuttle-AshmontJFK,1,Inbound,Alewife
 Shuttle-BabcockKenmore,0,West,Boston College
 Shuttle-BabcockKenmore,1,East,Park Street
 Shuttle-BallardvaleMaldenCenter,0,Outbound,Haverhill
 Shuttle-BallardvaleMaldenCenter,1,Inbound,North Station
+Shuttle-BroadwayJFK,0,South,Ashmont/Braintree
+Shuttle-BroadwayJFK,1,North,Alewife
 Shuttle-BrooklineVillageRiverside,0,West,Riverside
 Shuttle-BrooklineVillageRiverside,1,East,Government Center
 Shuttle-FenwayRiverside,0,West,Riverside
