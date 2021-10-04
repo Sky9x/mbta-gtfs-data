@@ -1,58 +1,54 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,48911570
 Red-3-0,Red,0,Alewife - Braintree,,1,10010005,48911785
-Red-1-0_70061_70067_2,Red,0,Harvard - Ashmont,,4,10010099,49258823-AlewifeHarvard2
 Red-1-0_70081_70085_0,Red,0,Alewife - Broadway,,4,10010099,49258823-BroadwayJFK0
 Red-1-0_70081_70085_2,Red,0,JFK/UMass - Ashmont,,4,10010099,49258823-BroadwayJFK2
 Red-1-0_70085_70093_0,Red,0,Alewife - JFK/UMass,,4,10010099,49258823-AshmontJFK0
-Red-3-0_70061_70067_2,Red,0,Harvard - Braintree,,4,10010099,49258994-AlewifeHarvard2
 Red-3-0_70081_70095_0,Red,0,Alewife - Broadway,,4,10010099,49258994-BroadwayJFK0
 Red-3-0_70081_70095_2,Red,0,JFK/UMass - Braintree,,4,10010099,49258994-BroadwayJFK2
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010104,48911462
 Red-3-1,Red,1,Braintree - Alewife,,1,10010105,48911678
-Red-1-1_70068_70061_0,Red,1,Ashmont - Harvard,,4,10010199,49258737-AlewifeHarvard0
 Red-1-1_70086_70082_0,Red,1,Ashmont - JFK/UMass,,4,10010199,49258737-BroadwayJFK0
 Red-1-1_70086_70082_2,Red,1,Broadway - Alewife,,4,10010199,49258737-BroadwayJFK2
 Red-1-1_70094_70086_2,Red,1,JFK/UMass - Alewife,,4,10010199,49258737-AshmontJFK2
-Red-3-1_70068_70061_0,Red,1,Braintree - Harvard,,4,10010199,49258909-AlewifeHarvard0
 Red-3-1_70096_70082_0,Red,1,Braintree - JFK/UMass,,4,10010199,49258909-BroadwayJFK0
 Red-3-1_70096_70082_2,Red,1,Broadway - Alewife,,4,10010199,49258909-BroadwayJFK2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,49239309
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,49239307
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,49261487
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,49261638
-Green-B-813-0,Green-B,0,Park Street - Boston College,,1,10032000,49205734-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1
+Green-B-813-0,Green-B,0,Park Street - Boston College,,1,10032000,49205734-20:45-BKHBrooklineVillageReservoirGLB1
 Green-B-811-0,Green-B,0,North Station - Boston College,Weekend early mornings only,3,10032004,49202049-BKHGLB1
-Green-B-811-0_71151_70121_0,Green-B,0,North Station - Kenmore,,4,10032099,49203743-BKHGLB1KenmoreWashingtonStreet0
-Green-B-811-0_71151_70121_2,Green-B,0,Washington Street - Boston College,,4,10032099,49203743-BKHGLB1KenmoreWashingtonStreet2
+Green-B-811-0_71151_70121_0,Green-B,0,North Station - Kenmore,,4,10032099,49203743-BKHBrooklineVillageReservoirGLB1KenmoreWashingtonStreet0
+Green-B-811-0_71151_70121_2,Green-B,0,Washington Street - Boston College,,4,10032099,49203743-BKHBrooklineVillageReservoirGLB1KenmoreWashingtonStreet2
 Green-B-813-0_71151_70121_0,Green-B,0,Park Street - Kenmore,,4,10032099,49205766-20:45-BKHGLB1KenmoreWashingtonStreet0
 Green-B-813-0_71151_70121_2,Green-B,0,Washington Street - Boston College,,4,10032099,49205766-20:45-BKHGLB1KenmoreWashingtonStreet2
 Green-B-813-0_71151_70137_0,Green-B,0,Park Street - Kenmore,,4,10032099,49205766-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB10
 Green-B-813-0_71151_70137_2,Green-B,0,Babcock Street - Boston College,,4,10032099,49205766-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB12
-Green-B-813-1,Green-B,1,Boston College - Park Street,,1,10032100,49205733-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1
+Green-B-813-1,Green-B,1,Boston College - Park Street,,1,10032100,49205733-20:45-BKHBrooklineVillageReservoirGLB1
 Green-B-811-1,Green-B,1,Boston College - North Station,Weekend early mornings only,3,10032104,49202048-BKHGLB1
-Green-B-811-1_70120_71150_0,Green-B,1,Boston College - Washington Street,,4,10032199,49203742-BKHGLB1KenmoreWashingtonStreet0
-Green-B-811-1_70120_71150_2,Green-B,1,Kenmore - North Station,,4,10032199,49203742-BKHGLB1KenmoreWashingtonStreet2
+Green-B-811-1_70120_71150_0,Green-B,1,Boston College - Washington Street,,4,10032199,49203742-BKHBrooklineVillageReservoirGLB1KenmoreWashingtonStreet0
+Green-B-811-1_70120_71150_2,Green-B,1,Kenmore - North Station,,4,10032199,49203742-BKHBrooklineVillageReservoirGLB1KenmoreWashingtonStreet2
 Green-B-813-1_70120_71150_0,Green-B,1,Boston College - Washington Street,,4,10032199,49205761-20:45-BKHGLB1KenmoreWashingtonStreet0
 Green-B-813-1_70120_71150_2,Green-B,1,Kenmore - Park Street,,4,10032199,49205761-20:45-BKHGLB1KenmoreWashingtonStreet2
 Green-B-813-1_70136_71150_0,Green-B,1,Boston College - Babcock Street,,4,10032199,49205761-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB10
 Green-B-813-1_70136_71150_2,Green-B,1,Kenmore - Park Street,,4,10032199,49205761-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB12
-Green-C-831-0,Green-C,0,North Station - Cleveland Circle,,1,10033000,49205688-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1
-Green-C-831-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,49205687-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1
-Green-D-852-0,Green-D,0,Government Center - Riverside,,1,10034000,49205702-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1
-Green-D-841-0,Green-D,0,North Station - Reservoir,,3,10034004,49205814-20:45-BKHGLB1KenmoreWashingtonStreet
-Green-D-851-0,Green-D,0,North Station - Riverside,,3,10034007,49205709-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1
-Green-D-841-0_70181_70175_0,Green-D,0,North Station - Brookline Village,,4,10034099,49205814-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB10
+Green-C-831-0,Green-C,0,North Station - Cleveland Circle,,1,10033000,49205688-20:45-BKHBrooklineVillageReservoirGLB1
+Green-C-831-1,Green-C,1,Cleveland Circle - North Station,,1,10033100,49205687-20:45-BKHBrooklineVillageReservoirGLB1
+Green-D-852-0,Green-D,0,Government Center - Riverside,,1,10034000,49205702-20:45-BKHBrooklineVillageReservoirGLB1
+Green-D-841-0,Green-D,0,North Station - Reservoir,,3,10034004,49205814-BKHGLB1
+Green-D-851-0,Green-D,0,North Station - Riverside,,3,10034007,49205709-20:45-BKHBrooklineVillageReservoirGLB1
+Green-D-841-0_70181_70175_0,Green-D,0,North Station - Brookline Village,,4,10034099,49205814-20:45-BKHBrooklineVillageReservoirGLB10
 Green-D-852-0_70151_70161_0,Green-D,0,Government Center - Kenmore,,4,10034099,49203749-BKHGLB1KenmoreRiversideKenmoreWashingtonStreet0
-Green-D-852-0_70181_70161_0,Green-D,0,Government Center - Brookline Village,,4,10034099,49205699-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB10
-Green-D-852-1,Green-D,1,Riverside - Government Center,,1,10034100,49205692-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1
-Green-D-841-1,Green-D,1,Reservoir - North Station,,3,10034104,49205815-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1
-Green-D-851-1,Green-D,1,Riverside - North Station,,3,10034108,49205708-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1
+Green-D-852-0_70181_70161_0,Green-D,0,Government Center - Brookline Village,,4,10034099,49205699-20:45-BKHBrooklineVillageReservoirGLB10
+Green-D-852-1,Green-D,1,Riverside - Government Center,,1,10034100,49205692-20:45-BKHBrooklineVillageReservoirGLB1
+Green-D-841-1,Green-D,1,Reservoir - North Station,,3,10034104,49205815-20:45-BKHBrooklineVillageReservoirGLB1
+Green-D-851-1,Green-D,1,Riverside - North Station,,3,10034108,49205708-20:45-BKHBrooklineVillageReservoirGLB1
 Green-D-841-1_70174_70180_2,Green-D,1,Brookline Village - North Station,,4,10034199,49205394-BKHBrooklineVillageReservoirGLB1KenmoreWashingtonStreet2
 Green-D-852-1_70160_70150_2,Green-D,1,Kenmore - Government Center,,4,10034199,49203745-BKHGLB1KenmoreRiversideKenmoreWashingtonStreet2
-Green-D-852-1_70160_70180_2,Green-D,1,Brookline Village - Government Center,,4,10034199,49205698-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB12
-Green-E-881-0,Green-E,0,North Station - Heath Street,,1,10035000,49205796-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1
-Green-E-881-1,Green-E,1,Heath Street - North Station,,1,10035100,49205691-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1
+Green-D-852-1_70160_70180_2,Green-D,1,Brookline Village - Government Center,,4,10034199,49205698-20:45-BKHBrooklineVillageReservoirGLB12
+Green-E-881-0,Green-E,0,North Station - Heath Street,,1,10035000,49205796-20:45-BKHBrooklineVillageReservoirGLB1
+Green-E-881-1,Green-E,1,Heath Street - North Station,,1,10035100,49205691-20:45-BKHBrooklineVillageReservoirGLB1
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,49417902
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040004,49418125
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,49417953
@@ -152,8 +148,8 @@ CR-Providence-e99e5ce2-1,CR-Providence,1,Providence - South Station,,2,20012104,
 CR-Providence-4f7f6e16-1,CR-Providence,1,Wickford Junction - South Station,,2,20012105,CR-483832-810
 CR-Providence-87821f71-1,CR-Providence,1,Wickford Junction - South Station,,2,20012106,CR-483872-836
 CR-Providence-bffb2f0c-1,CR-Providence,1,Providence - South Station,,2,20012107,CR-483878-824
-CR-Foxboro-0-0,CR-Foxboro,0,South Station or Foxboro - Foxboro or Providence,,4,20013099,CR-Foxboro20:20-0-18:10:00
-CR-Foxboro-0-1,CR-Foxboro,1,Foxboro or Providence - South Station or Foxboro,,4,20013199,CR-Foxboro20:20-1-17:35:00
+CR-Foxboro-0-0,CR-Foxboro,0,South Station or Foxboro - Foxboro or Providence,,4,20013099,CR-Foxboro16:25-0-14:10:00
+CR-Foxboro-0-1,CR-Foxboro,1,Foxboro or Providence - South Station or Foxboro,,4,20013199,CR-Foxboro16:25-1-13:35:00
 Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-0630-Long-Weekday-Summer-21
 Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,30001100,Boat-F4-0645-Charlestown-Weekday-Summer-21
 Boat-F1-1-0,Boat-F1,0,Long Wharf - Hingham via Hull,,1,30002001,Boat-F1-1100-Long-WeekdayIslandClosed-Summer-21
@@ -631,6 +627,8 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 211-9-1,211,1,Hancock St & St Anns Rd - Squantum,School days only,3,52110106,49378384
 214216-2-0,214216,0,Quincy Center Station - Houghs Neck via Germantown,,1,52141000,49378825
 214216-4-0,214216,0,Quincy Center - Houghs Neck via McGrath Hwy & Germantown,,2,52141004,49378902
+214216-5-0,214216,0,Coddington St & Newcomb St - Houghs Neck via Germantown,School days only,3,52141007,49379395
+214216-6-0,214216,0,Calvin Rd & Moffat Rd - Houghs Neck via Germantown,School days only,3,52141008,49378837
 215-1-0,215,0,Ashmont Station - Quincy Center Station,,1,52150000,49378768
 215-3-0,215,0,Fields Corner Station - Quincy Center Station,Sundays only,3,52150004,49382091
 215-2-0,215,0,Adams St & Robertson St - Quincy Center Station,School days only,3,52150006,49378381
@@ -639,8 +637,6 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 215-3-1,215,1,Quincy Center Station - Fields Corner Station,Sundays only,3,52150104,49382119
 215-7-1,215,1,Quincy Center Station - East Milton Square,School days only,3,52150106,49378286
 215-_-1,215,1,Quincy Center Station - North Quincy Station,Early mornings only,3,52150107,49378815
-216-5-0,216,0,Coddington St & Newcomb St - Houghs Neck via Germantown,School days only,1,52160000,49379395
-216-6-0,216,0,Calvin Rd & Moffat Rd - Houghs Neck via Germantown,School days only,1,52160001,49378837
 216-_-1,216,1,Houghs Neck - Quincy Center Station,,1,52160100,49378828
 216-4-1,216,1,Houghs Neck - Quincy Center Station via McGrath Hwy,,2,52160104,49378827
 217-8-0,217,0,Ashmont Station - Quincy Center Station via North Quincy,Weekdays only,1,52170000,49378371
@@ -834,8 +830,6 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,49544129
 602-1-0,602,0,Lechmere - North Station,,1,60200000,49544164
 602-1-1,602,1,North Station - Lechmere,,1,60200100,49544166
-Shuttle-AlewifeHarvard-0-0,Shuttle-AlewifeHarvard,0,Alewife - Harvard,,4,60220099,49258823-AlewifeHarvard1
-Shuttle-AlewifeHarvard-0-1,Shuttle-AlewifeHarvard,1,Harvard - Alewife,,4,60220199,49258737-AlewifeHarvard1
 Shuttle-AshmontJFK-0-0,Shuttle-AshmontJFK,0,JFK/UMass - Ashmont,,4,60250099,49258823-AshmontJFK1
 Shuttle-AshmontJFK-0-1,Shuttle-AshmontJFK,1,Ashmont - JFK/UMass,,4,60250199,49258737-AshmontJFK1
 Shuttle-BabcockKenmore-0-0,Shuttle-BabcockKenmore,0,Kenmore - Babcock Street,,4,60460099,49205766-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB1BabcockKenmore
@@ -843,8 +837,8 @@ Shuttle-BabcockKenmore-0-1,Shuttle-BabcockKenmore,1,Babcock Street - Kenmore,,4,
 Shuttle-BallardvaleMaldenCenter-0-1,Shuttle-BallardvaleMaldenCenter,1,Ballardvale - Malden Center,,4,60650199,CR-479242-208-BallardvaleMaldenCenterNStaReading1
 Shuttle-BroadwayJFK-0-0,Shuttle-BroadwayJFK,0,Broadway - JFK/UMass,,4,61040099,49258823-BroadwayJFK1
 Shuttle-BroadwayJFK-0-1,Shuttle-BroadwayJFK,1,JFK/UMass - Broadway,,4,61040199,49258737-BroadwayJFK1
-Shuttle-BrooklineVillageRiverside-0-0,Shuttle-BrooklineVillageRiverside,0,Brookline Village - Riverside,,4,61275099,49205699-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB11
-Shuttle-BrooklineVillageRiverside-0-1,Shuttle-BrooklineVillageRiverside,1,Riverside - Brookline Village,,4,61275199,49205698-20:45-BKHBabcockKenmoreBrooklineVillageReservoirGLB11
+Shuttle-BrooklineVillageRiverside-0-0,Shuttle-BrooklineVillageRiverside,0,Brookline Village - Riverside,,4,61275099,49205699-20:45-BKHBrooklineVillageReservoirGLB11
+Shuttle-BrooklineVillageRiverside-0-1,Shuttle-BrooklineVillageRiverside,1,Riverside - Brookline Village,,4,61275199,49205698-20:45-BKHBrooklineVillageReservoirGLB11
 Shuttle-ChelseaLynn-0-0,Shuttle-ChelseaLynn,0,Chelsea - Lynn,,4,61290099,CR-486046-1101-LynnNorthStationMRRockport1ChelseaLynnOmitNorthStation
 Shuttle-ChelseaLynn-0-1,Shuttle-ChelseaLynn,1,Lynn - Chelsea,,4,61290199,CR-486047-1102-LynnNorthStationMRRockport1ChelseaLynnOmitNorthStation
 Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,4,62012099,49203749-BKHGLB1KenmoreRiversideKenmoreWashingtonStreetKenmoreRiverside

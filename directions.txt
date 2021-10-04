@@ -94,11 +94,9 @@ Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
 23,0,Outbound,Ashmont Station
 23,1,Inbound,Ruggles Station
 24,0,Outbound,Wakefield Avenue & Truman Parkway
-24,1,Inbound,Mattapan Station
+24,1,Inbound,Ashmont Station
 26,0,Outbound,Ashmont Station
 26,1,Inbound,Norfolk Street Loop
-27,0,Outbound,Mattapan Station
-27,1,Inbound,Ashmont Station
 28,0,Outbound,Mattapan Station
 28,1,Inbound,Ruggles Station
 29,0,Outbound,Mattapan Station
@@ -291,6 +289,8 @@ Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
 211,1,Inbound,Squantum
 212,0,Outbound,Quincy Center Station
 212,1,Inbound,North Quincy Station
+214,0,Outbound,Germantown
+214,1,Inbound,Quincy Center Station
 214216,0,Outbound,Houghs Neck
 214216,1,Inbound,Quincy Center Station
 215,0,Outbound,Quincy Center Station
@@ -395,8 +395,6 @@ Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
 714,1,Inbound,"Station Street, Hingham"
 716,0,Outbound,Cobbs Corner
 716,1,Inbound,Mattapan Station
-Shuttle-AlewifeHarvard,0,South,Ashmont/Braintree
-Shuttle-AlewifeHarvard,1,North,Alewife
 Shuttle-AshmontJFK,0,Outbound,Ashmont
 Shuttle-AshmontJFK,1,Inbound,Alewife
 Shuttle-BabcockKenmore,0,West,Boston College
