@@ -1517,7 +1517,6 @@ facility_id,property_id,value
 308,excludes-stop,node-sull-sbstairs-platform
 309,direction,up
 309,excludes-stop,5271
-309,excludes-stop,70033
 309,excludes-stop,door-welln-busway
 309,excludes-stop,door-welln-garage
 309,excludes-stop,node-309-lobby
@@ -1542,7 +1541,6 @@ facility_id,property_id,value
 310,direction,up
 310,excludes-stop,5271
 310,excludes-stop,70032
-310,excludes-stop,70033
 310,excludes-stop,door-welln-busway
 310,excludes-stop,door-welln-garage
 310,excludes-stop,node-309-lobby
@@ -9876,7 +9874,6 @@ facility_id,property_id,value
 864,alternate-service-text,"To exit, exit the left side of the train onto the center platform and use Wellington Elevator 865. To board, use Wellington Elevator 865 to access the center platform."
 864,excludes-stop,5271
 864,excludes-stop,70032
-864,excludes-stop,70033
 864,excludes-stop,door-welln-busway
 864,excludes-stop,door-welln-garage
 864,excludes-stop,node-309-lobby
@@ -9900,7 +9897,6 @@ facility_id,property_id,value
 864,excludes-stop,node-welln-skystairs-bridge
 865,alternate-service-text,"To exit when traveling on a Forest Hills-bound train, exit onto the center platform and wait for an Oak Grove train to arrive. When the train arrives, cross through the train over to the opposite platform and use Wellington Elevator 864. To exit the train when traveling on an Oak Grove-bound train, exit the right side of the train onto the Oak Grove platform and use Wellington Elevator 864. To board a Forest Hills-bound train, use Wellington Elevator 864 to access the Oak Grove platform, then wait for an Oak Grove-bound train to arrive. When the train arrives, cross through the train over to the center platform."
 865,excludes-stop,5271
-865,excludes-stop,70033
 865,excludes-stop,door-welln-busway
 865,excludes-stop,door-welln-garage
 865,excludes-stop,node-309-lobby
@@ -20539,12 +20535,6 @@ retailsale-302043,dispenses,fare-media
 retailsale-302043,enclosed,1
 retailsale-302043,payment-form-accepted,cash
 retailsale-302043,payment-form-accepted,credit-debit-card
-retailsale-302045,address,"722 Huntington Ave, Boston, MA 02115"
-retailsale-302045,contact-phone,617-277-4665
-retailsale-302045,dispenses,fare-media
-retailsale-302045,enclosed,1
-retailsale-302045,payment-form-accepted,cash
-retailsale-302045,payment-form-accepted,credit-debit-card
 retailsale-302046,address,"4 College Ave, Somerville, MA 02144"
 retailsale-302046,contact-phone,617-666-0650
 retailsale-302046,dispenses,fare-media
