@@ -6,11 +6,11 @@ Mattapan,1,Inbound,Ashmont
 Orange,0,South,Forest Hills
 Orange,1,North,Oak Grove
 Green-B,0,West,Boston College
-Green-B,1,East,Park Street
+Green-B,1,East,Government Center
 Green-C,0,West,Cleveland Circle
-Green-C,1,East,North Station
+Green-C,1,East,Government Center
 Green-D,0,West,Riverside
-Green-D,1,East,Government Center
+Green-D,1,East,North Station
 Green-E,0,West,Heath Street
 Green-E,1,East,North Station
 Blue,0,West,Bowdoin
@@ -395,6 +395,8 @@ Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
 714,1,Inbound,"Station Street, Hingham"
 716,0,Outbound,Cobbs Corner
 716,1,Inbound,Mattapan Station
+Shuttle-AlewifeHarvard,0,South,Ashmont/Braintree
+Shuttle-AlewifeHarvard,1,North,Alewife
 Shuttle-BabcockKenmore,0,West,Boston College
 Shuttle-BabcockKenmore,1,East,Park Street
 Shuttle-BallardvaleMaldenCenter,0,Outbound,Haverhill
@@ -405,6 +407,8 @@ Shuttle-BrooklineVillageRiverside,0,West,Riverside
 Shuttle-BrooklineVillageRiverside,1,East,Government Center
 Shuttle-HaverhillMaldenCenter,0,Outbound,Haverhill
 Shuttle-HaverhillMaldenCenter,1,Inbound,North Station
+Shuttle-HaverhillNorthStation,0,Outbound,Haverhill
+Shuttle-HaverhillNorthStation,1,Inbound,North Station
 Shuttle-KenmoreRiverside,0,West,Riverside
 Shuttle-KenmoreRiverside,1,East,Government Center
 Shuttle-KenmoreWashington,0,West,Boston College
