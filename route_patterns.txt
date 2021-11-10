@@ -38,12 +38,10 @@ Green-B-812-1_70136_71150_2,Green-B,1,Kenmore - Government Center,,4,10032199,49
 Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,10033000,49207269-BKHGLB1NoGLX
 Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,49207270-BKHGLB1NoGLX
 Green-D-851-0,Green-D,0,North Station - Riverside,,1,10034000,49207515-BKHGLB1NoGLX
-Green-D-851-0_70151_70161_0,Green-D,0,North Station - Kenmore,,4,10034099,49210380-BKHGLB1KenmoreRiversideKenmoreWashingtonStreetNoGLX0
 Green-D-851-0_70181_70161_0,Green-D,0,North Station - Brookline Village,,4,10034099,49210380-BKHBrooklineVillageReservoirGLB1KenmoreWashingtonStreetNoGLX0
 Green-D-851-0_70187_70161_0,Green-D,0,North Station - Fenway,,4,10034099,49246443-20:45-BKHFenwayReservoirGLB1NoGLX0
 Green-D-855-0_70504_70206_2,Green-D,0,North Station - Riverside,,4,10034099,49246765-20:45-BKHBabcockKenmoreGLB1NoGLX2
 Green-D-851-1,Green-D,1,Riverside - North Station,,1,10034100,49207516-BKHGLB1NoGLX
-Green-D-851-1_70160_70150_2,Green-D,1,Kenmore - North Station,,4,10034199,49209608-BKHGLB1KenmoreRiversideKenmoreWashingtonStreetNoGLX2
 Green-D-851-1_70160_70180_2,Green-D,1,Brookline Village - North Station,,4,10034199,49209608-BKHBrooklineVillageReservoirGLB1KenmoreWashingtonStreetNoGLX2
 Green-D-851-1_70160_70186_2,Green-D,1,Fenway - North Station,,4,10034199,49246440-20:45-BKHFenwayReservoirGLB1NoGLX2
 Green-D-855-1_70205_70503_0,Green-D,1,Riverside - North Station,,4,10034199,49246766-20:45-BKHBabcockKenmoreGLB1NoGLX0
@@ -79,11 +77,13 @@ CR-Worcester-38e2728b-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-
 CR-Worcester-31b7b4bc-0,CR-Worcester,0,South Station - Framingham,,2,20003001,CR-502240-595
 CR-Worcester-1d310675-0,CR-Worcester,0,South Station - Worcester,,2,20003002,CR-502256-527
 CR-Worcester-b38f30d8-0,CR-Worcester,0,South Station - Worcester,,2,20003003,CR-502261-517
+CR-Worcester-38e2728b-0_NEC-2287_WML-0035_2,CR-Worcester,0,Boston Landing - Worcester,,4,20003099,CR-502485-1501-BostonLandingSouthStation2BostonLandingSouthStationExpress
 CR-Worcester-c7319c64-1,CR-Worcester,1,Worcester - South Station,,1,20003100,CR-500842-510
 CR-Worcester-b8da484f-1,CR-Worcester,1,Worcester - South Station,,2,20003101,CR-500851-518
 CR-Worcester-74814426-1,CR-Worcester,1,Framingham - South Station,,2,20003102,CR-500896-592
 CR-Worcester-efaae72e-1,CR-Worcester,1,Framingham - South Station,,2,20003103,CR-500900-596
 CR-Worcester-96ddd717-1,CR-Worcester,1,Worcester - South Station,,2,20003104,CR-502268-506
+CR-Worcester-c7319c64-1_WML-0035_NEC-2287_0,CR-Worcester,1,Worcester - Boston Landing,,4,20003199,CR-501424-1500-BostonLandingSouthStation0BostonLandingSouthStationExpress
 CR-Franklin-e19b0358-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,20004000,CR-502194-729
 CR-Franklin-f497dbd2-0,CR-Franklin,0,South Station - Norwood Central via Back Bay,,2,20004001,CR-502187-745
 CR-Franklin-58bf35a6-0,CR-Franklin,0,South Station - Forge Park/495 via Fairmount,,2,20004002,CR-502192-731
@@ -115,8 +115,6 @@ CR-Needham-31ea698c-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,C
 CR-Newburyport-adde8a7c-0,CR-Newburyport,0,North Station - Manchester,,1,20011000,CR-503645-105-MRRockport
 CR-Newburyport-76fa2c91-0,CR-Newburyport,0,North Station - Newburyport,,1,20011001,CR-503368-145-MRRockport
 CR-Newburyport-23488827-0,CR-Newburyport,0,North Station - Beverly,,2,20011002,CR-503404-197-MRRockport
-CR-Newburyport-b691bdaf-0,CR-Newburyport,0,North Station - Salem,,2,20011003,CR-510369-7187-MRRockport
-CR-Newburyport-6d6070de-0,CR-Newburyport,0,Salem - Beverly,,2,20011004,CR-510373-7191-MRRockport
 CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011005,CR-503363-167-MRRockport
 CR-Newburyport-41467013-0,CR-Newburyport,0,North Station - Newburyport,,2,20011006,CR-503365-141-MRRockport
 CR-Newburyport-4444b78b-0,CR-Newburyport,0,North Station - Manchester,,2,20011007,CR-503633-125-MRRockport
@@ -127,7 +125,6 @@ CR-Newburyport-adde8a7c-0_BNT-0000_ER-0115_2,CR-Newburyport,0,Lynn - Manchester,
 CR-Newburyport-173cb7ae-1,CR-Newburyport,1,West Gloucester - North Station,,1,20011100,CR-503640-106-MRRockport
 CR-Newburyport-ff47d622-1,CR-Newburyport,1,Newburyport - North Station,,1,20011101,CR-503367-150-MRRockport
 CR-Newburyport-6c947f8b-1,CR-Newburyport,1,Beverly - North Station,,2,20011102,CR-503408-192-MRRockport
-CR-Newburyport-2487f081-1,CR-Newburyport,1,Salem - North Station,,2,20011103,CR-510371-7188-MRRockport
 CR-Newburyport-752605f8-1,CR-Newburyport,1,Newburyport - North Station,,2,20011104,CR-503364-140-MRRockport
 CR-Newburyport-f0909b4e-1,CR-Newburyport,1,Beverly - North Station,,2,20011105,CR-503405-198-MRRockport
 CR-Newburyport-bcb24456-1,CR-Newburyport,1,West Gloucester - North Station,,2,20011106,CR-503632-100-MRRockport
@@ -833,7 +830,11 @@ Shuttle-AlewifeHarvard-0-0,Shuttle-AlewifeHarvard,0,Alewife - Harvard,,4,6022009
 Shuttle-AlewifeHarvard-0-1,Shuttle-AlewifeHarvard,1,Harvard - Alewife,,4,60220199,49258737-AlewifeHarvard1
 Shuttle-BabcockKenmore-0-0,Shuttle-BabcockKenmore,0,Kenmore - Babcock Street,,4,60460099,49245884-20:45-BKHBabcockKenmoreGLB1NoGLXBabcockKenmore
 Shuttle-BabcockKenmore-0-1,Shuttle-BabcockKenmore,1,Babcock Street - Kenmore,,4,60460199,49245882-20:45-BKHBabcockKenmoreGLB1NoGLXBabcockKenmore
+Shuttle-BackBayBostonLanding-0-0,Shuttle-BackBayBostonLanding,0,Back Bay - Boston Landing,,4,60470099,CR-502485-1501-BostonLandingSouthStation1BackBayBostonLandingOmitSouthStation
+Shuttle-BackBayBostonLanding-0-1,Shuttle-BackBayBostonLanding,1,Boston Landing - Back Bay,,4,60470199,CR-501424-1500-BostonLandingSouthStation1BackBayBostonLandingOmitSouthStation
 Shuttle-BallardvaleMaldenCenter-0-1,Shuttle-BallardvaleMaldenCenter,1,Haverhill - Malden Center,,4,60650199,CR-503501-216-BallardvaleMaldenCenterNStaReading1
+Shuttle-BostonLandingSouthStationExpress-0-0,Shuttle-BostonLandingSouthStationExpress,0,South Station - Boston Landing (Express),,4,60910099,CR-502485-1501-BostonLandingSouthStation1BostonLandingSouthStationExpress
+Shuttle-BostonLandingSouthStationExpress-0-1,Shuttle-BostonLandingSouthStationExpress,1,Boston Landing - South Station (Express),,4,60910199,CR-501424-1500-BostonLandingSouthStation1BostonLandingSouthStationExpress
 Shuttle-BroadwayJFK-0-0,Shuttle-BroadwayJFK,0,Broadway - JFK/UMass,,4,61040099,49258823-BroadwayJFK1
 Shuttle-BroadwayJFK-0-1,Shuttle-BroadwayJFK,1,JFK/UMass - Broadway,,4,61040199,49258737-BroadwayJFK1
 Shuttle-BrooklineVillageRiverside-0-0,Shuttle-BrooklineVillageRiverside,0,Brookline Village - Riverside,,4,61275099,49210380-BKHBrooklineVillageReservoirGLB1KenmoreWashingtonStreetNoGLX1
@@ -843,12 +844,10 @@ Shuttle-ChelseaLynn-0-1,Shuttle-ChelseaLynn,1,Lynn - Chelsea,,4,61290199,CR-5029
 Shuttle-FenwayRiverside-0-0,Shuttle-FenwayRiverside,0,Fenway - Riverside,,4,61510099,49246443-20:45-BKHFenwayReservoirGLB1NoGLX1
 Shuttle-FenwayRiverside-0-1,Shuttle-FenwayRiverside,1,Riverside - Fenway,,4,61510199,49246440-20:45-BKHFenwayReservoirGLB1NoGLX1
 Shuttle-HaverhillMaldenCenter-0-0,Shuttle-HaverhillMaldenCenter,0,Malden Center - Haverhill,,4,61970099,CR-503285-2213-HaverhillBallardvaleMaldenCenter1
-Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,4,62012099,49210380-BKHGLB1KenmoreRiversideKenmoreWashingtonStreetNoGLXKenmoreRiverside
-Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,4,62012199,49209608-BKHGLB1KenmoreRiversideKenmoreWashingtonStreetNoGLXKenmoreRiverside
 Shuttle-KenmoreWashington-0-0,Shuttle-KenmoreWashington,0,Kenmore - Washington Street,,4,62018099,49245884-20:45-BKHGLB1KenmoreWashingtonStreetNoGLXKenmoreWashingtonStreet
 Shuttle-KenmoreWashington-0-1,Shuttle-KenmoreWashington,1,Washington Street - Kenmore,,4,62018199,49245882-20:45-BKHGLB1KenmoreWashingtonStreetNoGLXKenmoreWashingtonStreet
-Shuttle-LittletonWachusett-0-0,Shuttle-LittletonWachusett,0,Littleton/Route 495 - Wachusett,,4,62025099,CR-503251-2411-LittletonWachusettB1
-Shuttle-LittletonWachusett-0-1,Shuttle-LittletonWachusett,1,Wachusett - Littleton/Route 495,,4,62025199,CR-503270-2414-LittletonWachusettB1
+Shuttle-LittletonWachusett-0-0,Shuttle-LittletonWachusett,0,Littleton/Route 495 - Wachusett,,4,62025099,CR-503411-433-LittletonWachusett1
+Shuttle-LittletonWachusett-0-1,Shuttle-LittletonWachusett,1,Wachusett - Littleton/Route 495,,4,62025199,CR-503412-432-LittletonWachusett1
 Shuttle-LynnNorthStationExpress-0-0,Shuttle-LynnNorthStationExpress,0,North Station - Lynn (Express),,4,62052099,CR-502984-1107-LynnNorthStationMRRockport1LynnNorthStationExpress
 Shuttle-LynnNorthStationExpress-0-1,Shuttle-LynnNorthStationExpress,1,Lynn - North Station (Express),,4,62052199,CR-502985-1108-LynnNorthStationMRRockport1LynnNorthStationExpress
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-503633-125-MRRockportB1
