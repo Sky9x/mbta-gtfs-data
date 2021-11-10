@@ -4469,7 +4469,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 5597,5597,Washington Ave @ Reynolds Ave,,,,42.403055,-71.036281,LocalBus,,https://www.mbta.com/stops/5597,,0,,1,Chelsea,Washington Avenue,Reynolds Avenue,3
 5598,5598,296 Washington Ave opp Jefferson Ave,,,,42.402028,-71.035402,LocalBus,,https://www.mbta.com/stops/5598,,0,,0,Chelsea,Washington Avenue,Jefferson Avenue,3
 5599,5599,Washington Ave @ Carmel St,,,,42.400404,-71.033468,LocalBus,,https://www.mbta.com/stops/5599,,0,,1,Chelsea,Washington Avenue,Carmel Street,3
-56,56,Southampton St @ Atkinson St,,,,42.331969,-71.069270,LocalBus,,https://www.mbta.com/stops/56,,0,,1,Boston,Southampton Street,Atkinson Street,3
 560,560,Geneva Ave @ Holiday St,,,,42.302248,-71.069383,LocalBus,,https://www.mbta.com/stops/560,,0,,0,Boston,Geneva Avenue,Holiday Street,3
 5600,5600,Washington Ave @ Spruce St,,,,42.399425,-71.032320,LocalBus,,https://www.mbta.com/stops/5600,,0,,1,Chelsea,Washington Avenue,Spruce Street,3
 5601,5601,Washington Ave @ Cary Ave,,,,42.397826,-71.031112,LocalBus,,https://www.mbta.com/stops/5601,,0,,1,Chelsea,Washington Avenue,Bloomingdale Street,3
@@ -7363,6 +7362,7 @@ place-WML-0035,,Boston Landing,,,,42.357293,-71.139883,CR-zone-1A,"100 Arthur St
 WML-0035,,Boston Landing,Boston Landing - Commuter Rail,,Commuter Rail,42.357293,-71.139883,CR-zone-1A,,https://www.mbta.com/stops/place-WML-0035,,0,place-WML-0035,1,Boston,,,2
 WML-0035-01,,Boston Landing,Boston Landing - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.357293,-71.139883,CR-zone-1A,,https://www.mbta.com/stops/place-WML-0035,,0,place-WML-0035,1,Boston,,,2
 WML-0035-02,,Boston Landing,Boston Landing - Commuter Rail - Track 2 (South Station),2,Track 2 (South Station),42.357293,-71.139883,CR-zone-1A,,https://www.mbta.com/stops/place-WML-0035,,0,place-WML-0035,1,Boston,,,2
+WML-0035-B,,Boston Landing, Boston Landing - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.357313,-71.141258,LocalBus,,https://www.mbta.com/stops/place-WML-0035,,0,place-WML-0035,1,Boston,,,3
 place-WML-0081,,Newtonville,,,,42.351702,-71.205408,CR-zone-1,"770 Washington St Newton, MA 02460",https://www.mbta.com/stops/place-WML-0081,,1,,2,Newton,,,
 WML-0081-02,,Newtonville,Newtonville - Commuter Rail - Track 2 (All Trains),2,Commuter Rail - Track 2 (All Trains),42.351702,-71.205408,CR-zone-1,,https://www.mbta.com/stops/place-WML-0081,,0,place-WML-0081,2,Newton,,,2
 place-WML-0091,,West Newton,,,,42.347878,-71.230528,CR-zone-2,"1395 Washington St, Newton, MA 02465",https://www.mbta.com/stops/place-WML-0091,,1,,2,Newton,,,
@@ -7701,6 +7701,7 @@ NEC-2276,,Back Bay,Back Bay - Commuter Rail,,Commuter Rail,42.347350,-71.075727,
 NEC-2276-01,,Back Bay,Back Bay - Commuter Rail - Track 1,1,Commuter Rail - Track 1,42.347283,-71.075312,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1,Boston,,,2
 NEC-2276-02,,Back Bay,Back Bay - Commuter Rail - Track 2,2,Commuter Rail - Track 2,42.347196,-71.075299,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1,Boston,,,2
 NEC-2276-03,,Back Bay,Back Bay - Commuter Rail - Track 3,3,Commuter Rail - Track 3,42.347283,-71.075312,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1,Boston,,,2
+NEC-2276-B,,Back Bay,Back Bay - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.347497,-71.075894,LocalBus,,https://www.mbta.com/stops/place-bbsta,,0,place-bbsta,1,Boston,Dartmouth Street,Back Bay Station,3
 WML-0012-05,,Back Bay,Back Bay - Commuter Rail - Track 5,5,Commuter Rail - Track 5,42.347590,-71.075393,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1,Boston,,,2
 WML-0012-07,,Back Bay,Back Bay - Commuter Rail - Track 7,7,Commuter Rail - Track 7,42.347590,-71.075393,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1,Boston,,,2
 door-bbsta-buswayn,,"Back Bay - Clarendon St, Buses (North)","Back Bay - Clarendon St, Buses (North)",,,42.347654,-71.074699,,,,level_in_street,2,place-bbsta,1,Boston,,,
@@ -7947,9 +7948,17 @@ place-cenav,,Central Avenue,,,,42.270027,-71.073444,,"23 Central Ave, Milton, MA
 70270,70270,Central Avenue,Central Avenue - Mattapan Trolley - Ashmont,,Ashmont,42.270001,-71.073358,RapidTransit,,https://www.mbta.com/stops/place-cenav,level_ground,0,place-cenav,1,Milton,,,0
 door-cenav-ashmont,,Central Avenue - Central Ave (South),Central Avenue - Central Ave (South),,,42.269991,-71.073299,,,,level_in_street,2,place-cenav,1,Milton,,,
 door-cenav-mattapan,,"Central Avenue - Central Ave (North), Neponset Trail","Central Avenue - Central Ave (North), Neponset Trail",,,42.270069,-71.073327,,,,level_in_street,2,place-cenav,1,Milton,,,
-place-chels,,Chelsea,,,,42.397071,-71.042102,,,https://www.mbta.com/stops/place-chels,,1,,1,Chelsea,,,
+place-chels,,Chelsea,,,,42.397071,-71.042102,,"174 Everett Ave, Chelsea, MA 02150",https://www.mbta.com/stops/place-chels,,1,,1,Chelsea,,,
 74630,74630,Chelsea,Chelsea - Silver Line - SL3 South Station,,South Station,42.396661,-71.040290,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-chels,level_ground,0,place-chels,1,Chelsea,Chelsea Busway,,3
 74631,74631,Chelsea,Chelsea - Silver Line - Exit Only,,Exit Only,42.396820,-71.040437,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-chels,level_ground,0,place-chels,1,Chelsea,Chelsea Busway,,3
+node-chels-everettnorth-bottom,,Chelsea,Chelsea - Bottom of ramp between Everett Ave and Boston-bound platform,,,42.397014,-71.040778,,,,level_ground,3,place-chels,1,Chelsea,,,
+node-chels-everettnorth-top,,Chelsea,Chelsea - Top of ramp between Everett Ave and Boston-bound platform,,,42.397059,-71.040990,,,,level_0_cr_platform,3,place-chels,1,Chelsea,,,
+node-chels-everettout-bottom,,Chelsea,Chelsea - Bottom of ramp between Everett Ave and outbound platform,,,42.396900,-71.040881,,,,level_ground,3,place-chels,1,Chelsea,,,
+node-chels-everettout-top,,Chelsea,Chelsea - Top of ramp between Everett Ave and outbound platform,,,42.396958,-71.041087,,,,level_0_cr_platform,3,place-chels,1,Chelsea,,,
+node-chels-thirdnorth-bottom,,Chelsea,Chelsea - Bottom of ramp between Third St and Boston-bound platform,,,42.397672,-71.044064,,,,level_ground,3,place-chels,1,Chelsea,,,
+node-chels-thirdnorth-top,,Chelsea,Chelsea - Top of ramp between Third St and Boston-bound platform,,,42.397625,-71.043811,,,,level_0_cr_platform,3,place-chels,1,Chelsea,,,
+node-chels-thirdout-bottom,,Chelsea,Chelsea - Bottom of ramp between Third St and outbound platform,,,42.397546,-71.043956,,,,level_ground,3,place-chels,1,Chelsea,,,
+node-chels-thirdout-top,,Chelsea,Chelsea - Top of ramp between Third St and outbound platform,,,42.397497,-71.043703,,,,level_0_cr_platform,3,place-chels,1,Chelsea,,,
 place-chhil,,Chestnut Hill,,,,42.326753,-71.164699,,"Hammond St and Chestnut Hill Rd, Newton, MA 02467",https://www.mbta.com/stops/place-chhil,,1,,2,Newton,,,
 70172,70172,Chestnut Hill,Chestnut Hill - Green Line - Park Street & North,,Park Street & North,42.326799,-71.164146,RapidTransit,,https://www.mbta.com/stops/place-chhil,level_ground,0,place-chhil,2,Newton,,,0
 70173,70173,Chestnut Hill,Chestnut Hill - Green Line - (D) Riverside,,Riverside,42.326782,-71.164780,RapidTransit,,https://www.mbta.com/stops/place-chhil,level_ground,0,place-chhil,2,Newton,,,0
@@ -9346,6 +9355,7 @@ NEC-2287-10,,South Station,South Station - Commuter Rail - Track 10,10,Commuter 
 NEC-2287-11,,South Station,South Station - Commuter Rail - Track 11,11,Commuter Rail - Track 11,42.351081,-71.054914,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1,Boston,,,2
 NEC-2287-12,,South Station,South Station - Commuter Rail - Track 12,12,Commuter Rail - Track 12,42.350778,-71.054938,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1,Boston,,,2
 NEC-2287-13,,South Station,South Station - Commuter Rail - Track 13,13,Commuter Rail - Track 13,42.350778,-71.054938,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1,Boston,,,2
+NEC-2287-B,,South Station,South Station - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.352293,-71.055529,LocalBus,,https://www.mbta.com/stops/place-sstat,,0,place-sstat,1,Boston,Atlantic Avenue,Summer Street,3
 door-sstat-atlantic,,South Station - Atlantic Ave,South Station - Atlantic Ave,,,42.351551,-71.055716,,,,level_in_street,2,place-sstat,1,Boston,,,
 door-sstat-bus,,South Station - South Station Bus Terminal,South Station - South Station Bus Terminal,,,42.350690,-71.056121,,,,level_ground,2,place-sstat,1,Boston,,,
 door-sstat-dewey,,"South Station - Dewey Sq (Summer St, Atlantic Ave)","South Station - Dewey Sq (Summer St, Atlantic Ave)",,,42.352886,-71.055505,,,,level_in_street,2,place-sstat,1,Boston,,,
