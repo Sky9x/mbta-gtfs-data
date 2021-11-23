@@ -1,40 +1,22 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,48911570
 Red-3-0,Red,0,Alewife - Braintree,,1,10010005,48911785
-Red-1-0_70061_70067_2,Red,0,Harvard - Ashmont,,4,10010099,49258823-AlewifeHarvard2
 Red-1-0_70081_70085_0,Red,0,Alewife - Broadway,,4,10010099,49258823-BroadwayJFK0
 Red-1-0_70081_70085_2,Red,0,JFK/UMass - Ashmont,,4,10010099,49258823-BroadwayJFK2
-Red-3-0_70061_70067_2,Red,0,Harvard - Braintree,,4,10010099,49258994-AlewifeHarvard2
 Red-3-0_70081_70095_0,Red,0,Alewife - Broadway,,4,10010099,49258994-BroadwayJFK0
 Red-3-0_70081_70095_2,Red,0,JFK/UMass - Braintree,,4,10010099,49258994-BroadwayJFK2
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010104,48911462
 Red-3-1,Red,1,Braintree - Alewife,,1,10010105,48911678
-Red-1-1_70068_70061_0,Red,1,Ashmont - Harvard,,4,10010199,49258737-AlewifeHarvard0
 Red-1-1_70086_70082_0,Red,1,Ashmont - JFK/UMass,,4,10010199,49258737-BroadwayJFK0
 Red-1-1_70086_70082_2,Red,1,Broadway - Alewife,,4,10010199,49258737-BroadwayJFK2
-Red-3-1_70068_70061_0,Red,1,Braintree - Harvard,,4,10010199,49258909-AlewifeHarvard0
 Red-3-1_70096_70082_0,Red,1,Braintree - JFK/UMass,,4,10010199,49258909-BroadwayJFK0
 Red-3-1_70096_70082_2,Red,1,Broadway - Alewife,,4,10010199,49258909-BroadwayJFK2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,49283666
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,49283664
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,49261487
-Orange-0-0,Orange,0,Wellington - Community College,,4,10020099,48992957-CCWellShuttTrain1
-Orange-3-0_70032_70028_0,Orange,0,Oak Grove - Wellington,,4,10020099,48992957-CCWellShuttTrain0
-Orange-3-0_70032_70028_2,Orange,0,Community College - Forest Hills,,4,10020099,48992957-CCWellShuttTrain2
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,49261638
-Orange-0-1,Orange,1,Community College - Wellington,,4,10020199,48992958-CCWellShuttTrain1
-Orange-3-1_70029_70033_0,Orange,1,Forest Hills - Community College,,4,10020199,48992958-CCWellShuttTrain0
-Orange-3-1_70029_70033_2,Orange,1,Wellington - Oak Grove,,4,10020199,48992958-CCWellShuttTrain2
 Green-B-812-0,Green-B,0,Government Center - Boston College,,1,10032000,49207001-2BKHGLBNoGLX
-Green-B-812-0_71151_70121_0,Green-B,0,Government Center - Kenmore,,4,10032099,49245884-20:45-BKHGLB1KenmoreWashingtonStreetNoGLX0
-Green-B-812-0_71151_70121_2,Green-B,0,Washington Street - Boston College,,4,10032099,49245884-20:45-BKHGLB1KenmoreWashingtonStreetNoGLX2
-Green-B-812-0_71151_70137_0,Green-B,0,Government Center - Kenmore,,4,10032099,49245884-20:45-BKHBabcockKenmoreGLB1NoGLX0
-Green-B-812-0_71151_70137_2,Green-B,0,Babcock Street - Boston College,,4,10032099,49245884-20:45-BKHBabcockKenmoreGLB1NoGLX2
 Green-B-812-1,Green-B,1,Boston College - Government Center,,1,10032100,49207002-2BKHGLBNoGLX
-Green-B-812-1_70120_71150_0,Green-B,1,Boston College - Washington Street,,4,10032199,49245882-20:45-BKHGLB1KenmoreWashingtonStreetNoGLX0
-Green-B-812-1_70120_71150_2,Green-B,1,Kenmore - Government Center,,4,10032199,49245882-20:45-BKHGLB1KenmoreWashingtonStreetNoGLX2
-Green-B-812-1_70136_71150_0,Green-B,1,Boston College - Babcock Street,,4,10032199,49245882-20:45-BKHBabcockKenmoreGLB1NoGLX0
-Green-B-812-1_70136_71150_2,Green-B,1,Kenmore - Government Center,,4,10032199,49245882-20:45-BKHBabcockKenmoreGLB1NoGLX2
 Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,10033000,49207269-2BKHGLBNoGLX
 Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,49207270-2BKHGLBNoGLX
 Green-D-851-0,Green-D,0,North Station - Riverside,,1,10034000,49207515-2BKHGLBNoGLX
@@ -50,23 +32,23 @@ Green-E-885-1_70205_70503_0,Green-E,1,Heath Street - North Station,,1,10035196,4
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,49417902
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040004,49418125
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,49417953
-741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,49395133
-741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051100,49395132
-741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Late nights only,3,10051104,49395301
-742-1-0,742,0,South Station - Drydock Ave (AM Route),,1,10052004,49395010
-742-_-0,742,0,South Station - Drydock Ave (PM Route),,2,10052005,49395059
-742-_-1,742,1,Drydock Ave - South Station (PM Route),,1,10052100,49394934
-742-1-1,742,1,Drydock Ave - South Station (AM Route),,1,10052104,49394891
-742-3-1,742,1,Drydock Ave - South Station (PM - Omits 88 Black Falcon Ave),Evenings only,3,10052108,49394992
-743-_-0,743,0,South Station - Chelsea Station,,1,10053000,49395344
-743-_-1,743,1,Chelsea Station - South Station,,1,10053100,49395347
-743-1-1,743,1,Chelsea Station - South Station (Surface Route),Late nights only,3,10053104,49395625
-751-_-0,751,0,South Station - Nubian Station,,1,10055000,49393684
-751-_-1,751,1,Nubian Station - South Station,,1,10055100,49393683
-749-_-0,749,0,Temple Place - Nubian Station,,1,10056000,49393878
-749-_-1,749,1,Nubian Station - Temple Place,,1,10056100,49393877
-746-_-0,746,0,South Station - Silver Line Way,,1,10057000,49394734
-746-_-1,746,1,Silver Line Way - South Station,,1,10057100,49394733
+741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,49517330
+741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051100,49517329
+741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Late nights only,3,10051104,49517496
+742-1-0,742,0,South Station - Drydock Ave (AM Route),,1,10052004,49517207
+742-_-0,742,0,South Station - Drydock Ave (PM Route),,2,10052005,49517256
+742-_-1,742,1,Drydock Ave - South Station (PM Route),,1,10052100,49517131
+742-1-1,742,1,Drydock Ave - South Station (AM Route),,1,10052104,49517088
+742-3-1,742,1,Drydock Ave - South Station (PM - Omits 88 Black Falcon Ave),Evenings only,3,10052108,49517189
+743-_-0,743,0,South Station - Chelsea Station,,1,10053000,49517536
+743-_-1,743,1,Chelsea Station - South Station,,1,10053100,49517539
+743-1-1,743,1,Chelsea Station - South Station (Surface Route),Late nights only,3,10053104,49517817
+751-_-0,751,0,South Station - Nubian Station,,1,10055000,49515881
+751-_-1,751,1,Nubian Station - South Station,,1,10055100,49515880
+749-_-0,749,0,Temple Place - Nubian Station,,1,10056000,49516075
+749-_-1,749,1,Nubian Station - Temple Place,,1,10056100,49516074
+746-_-0,746,0,South Station - Silver Line Way,,1,10057000,49516931
+746-_-1,746,1,Silver Line Way - South Station,,1,10057100,49516930
 CR-Fairmount-dc5eb181-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,20001000,CR-500883-925
 CR-Fairmount-3dfc2722-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-500882-926
 CR-Fitchburg-979a6935-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-503411-433
@@ -211,7 +193,7 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 16-3-0,16,0,Andrew Station - Forest Hills Station,,2,50160007,49180869
 16-8-0,16,0,Harbor Point - Forest Hills Station via South Bay Center,Weekdays only,2,50160011,49180878
 16-2-0,16,0,Harbor Point - Forest Hills Station,Weekdays only,2,50160012,49180890
-16-7-0,16,0,"Andrew Station - Forest Hills Station, Upper Busway",Weekday early mornings only,3,50160013,49394614
+16-7-0,16,0,"Andrew Station - Forest Hills Station, Upper Busway",Weekday early mornings only,3,50160013,49516811
 16-9-1,16,1,Forest Hills Station - Andrew Station via South Bay Center,,1,50160100,49180876
 16-5-1,16,1,Forest Hills - McCormack Housing via South Bay Center,,2,50160104,49180875
 16-3-1,16,1,Forest Hills Station - Andrew Station,,2,50160107,49180862
@@ -255,10 +237,10 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 26-2-0,26,0,Gallivan Blvd - Ashmont Station via Norfolk St,,2,50260004,49321726
 26-1-1,26,1,Ashmont Station - Gallivan Blvd via Norfolk St,,1,50260100,49322554
 26-2-1,26,1,Ashmont Station - Gallivan Blvd via Washington St,,2,50260104,49321725
-28-_-0,28,0,Ruggles Station - Mattapan Station,,1,50280000,49394372
+28-_-0,28,0,Ruggles Station - Mattapan Station,,1,50280000,49516569
 28-9-0,28,0,Ave Louis Pasteur - Mattapan Station,School days only,3,50280004,49321711
 28-6-0,28,0,Malcolm X Blvd - Mattapan Station (Omits Nubian Station),School days only,3,50280005,49183135
-28-_-1,28,1,Mattapan Station - Ruggles Station,,1,50280100,49394373
+28-_-1,28,1,Mattapan Station - Ruggles Station,,1,50280100,49516570
 28-2-1,28,1,Mattapan Station - Nubian Station,Early mornings only,3,50280104,49180583
 28-5-1,28,1,Townsend St & Warren St - Ruggles Station,School days only,3,50280107,49183127
 29-5-0,29,0,Jackson Square Station - Mattapan Station,Weekdays only,1,50290000,49322250
@@ -326,11 +308,11 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 38-_-1,38,1,Wren St - Forest Hills Station,,1,50380100,49323578
 38-C-1,38,1,Centre & W Roxbury Pkwy - Forest Hills Station,School days only,3,50380104,49321713_1
 38-D-1,38,1,Wren St - Forest Hills Station,School days only,3,50380105,49321712_1
-39-3-0,39,0,Back Bay Station - Forest Hills Station,,1,50390000,49394148
+39-3-0,39,0,Back Bay Station - Forest Hills Station,,1,50390000,49516345
 39-7-0,39,0,Huntington Ave & Longwood Ave - Forest Hills Station,School days only,3,50390004,49321809_1
 39-Y-0,39,0,Ave Louis Pasteur - Forest Hills Station via Brigham Cir,School days only,3,50390006,49321807_1
 39-_-0,39,0,Haymarket Station - Cleary Square,Early mornings only,3,50390007,49321707
-39-3-1,39,1,Forest Hills Station - Back Bay Station,,1,50390100,49394146
+39-3-1,39,1,Forest Hills Station - Back Bay Station,,1,50390100,49516343
 39-7-1,39,1,Forest Hills Station - Huntington Ave & Longwood Ave,School days only,3,50390104,49321705_2
 39-I-1,39,1,Forest Hills Station - Ave Louis Pasteur,School days only,3,50390106,49321712_2
 39-_-1,39,1,Cleary Square - Haymarket Station,Early mornings only,3,50390107,49321706
@@ -822,26 +804,19 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,49544129
 602-1-0,602,0,Lechmere - North Station,,1,60200000,49544164
 602-1-1,602,1,North Station - Lechmere,,1,60200100,49544166
-Shuttle-AlewifeHarvard-0-0,Shuttle-AlewifeHarvard,0,Alewife - Harvard,,4,60220099,49258823-AlewifeHarvard1
-Shuttle-AlewifeHarvard-0-1,Shuttle-AlewifeHarvard,1,Harvard - Alewife,,4,60220199,49258737-AlewifeHarvard1
-Shuttle-BabcockKenmore-0-0,Shuttle-BabcockKenmore,0,Kenmore - Babcock Street,,4,60460099,49245884-20:45-BKHBabcockKenmoreGLB1NoGLXBabcockKenmore
-Shuttle-BabcockKenmore-0-1,Shuttle-BabcockKenmore,1,Babcock Street - Kenmore,,4,60460199,49245882-20:45-BKHBabcockKenmoreGLB1NoGLXBabcockKenmore
 Shuttle-BackBayBostonLanding-0-0,Shuttle-BackBayBostonLanding,0,Back Bay - Boston Landing,,4,60470099,CR-502485-1501-BostonLandingSouthStation1BackBayBostonLandingOmitSouthStation
 Shuttle-BackBayBostonLanding-0-1,Shuttle-BackBayBostonLanding,1,Boston Landing - Back Bay,,4,60470199,CR-501424-1500-BostonLandingSouthStation1BackBayBostonLandingOmitSouthStation
-Shuttle-BallardvaleMaldenCenter-0-1,Shuttle-BallardvaleMaldenCenter,1,Haverhill - Malden Center,,4,60650199,CR-503501-216-BallardvaleMaldenCenterNStaReading1
+Shuttle-BallardvaleMaldenCenter-0-1,Shuttle-BallardvaleMaldenCenter,1,Ballardvale - Malden Center,,4,60650199,CR-503501-216-BallardvaleMaldenCenterNStaReading1
 Shuttle-BostonLandingSouthStationExpress-0-0,Shuttle-BostonLandingSouthStationExpress,0,South Station - Boston Landing (Express),,4,60910099,CR-502485-1501-BostonLandingSouthStation1BostonLandingSouthStationExpress
 Shuttle-BostonLandingSouthStationExpress-0-1,Shuttle-BostonLandingSouthStationExpress,1,Boston Landing - South Station (Express),,4,60910199,CR-501424-1500-BostonLandingSouthStation1BostonLandingSouthStationExpress
 Shuttle-BroadwayJFK-0-0,Shuttle-BroadwayJFK,0,Broadway - JFK/UMass,,4,61040099,49258823-BroadwayJFK1
 Shuttle-BroadwayJFK-0-1,Shuttle-BroadwayJFK,1,JFK/UMass - Broadway,,4,61040199,49258737-BroadwayJFK1
 Shuttle-FenwayRiverside-0-0,Shuttle-FenwayRiverside,0,Fenway - Riverside,,4,61510099,49246443-20:45-2BKHFenwayReservoirGLBNoGLX1
 Shuttle-FenwayRiverside-0-1,Shuttle-FenwayRiverside,1,Riverside - Fenway,,4,61510199,49246440-20:45-2BKHFenwayReservoirGLBNoGLX1
-Shuttle-HaverhillMaldenCenter-0-0,Shuttle-HaverhillMaldenCenter,0,Malden Center - Haverhill,,4,61970099,CR-503107-1215-HaverhillBallardvaleMaldenCenter1
 Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,4,62012099,49210380-2BKHGLBKenmoreRiversideNoGLXKenmoreRiverside
 Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,4,62012199,49209608-2BKHGLBKenmoreRiversideNoGLXKenmoreRiverside
-Shuttle-KenmoreWashington-0-0,Shuttle-KenmoreWashington,0,Kenmore - Washington Street,,4,62018099,49245884-20:45-BKHGLB1KenmoreWashingtonStreetNoGLXKenmoreWashingtonStreet
-Shuttle-KenmoreWashington-0-1,Shuttle-KenmoreWashington,1,Washington Street - Kenmore,,4,62018199,49245882-20:45-BKHGLB1KenmoreWashingtonStreetNoGLXKenmoreWashingtonStreet
-Shuttle-LittletonWachusett-0-0,Shuttle-LittletonWachusett,0,Littleton/Route 495 - Wachusett,,4,62025099,CR-503411-433-LittletonWachusett1
-Shuttle-LittletonWachusett-0-1,Shuttle-LittletonWachusett,1,Wachusett - Littleton/Route 495,,4,62025199,CR-503412-432-LittletonWachusett1
+Shuttle-LittletonWachusett-0-0,Shuttle-LittletonWachusett,0,Littleton/Route 495 - Wachusett,,4,62025099,CR-503251-2411-LittletonWachusettB1
+Shuttle-LittletonWachusett-0-1,Shuttle-LittletonWachusett,1,Wachusett - Littleton/Route 495,,4,62025199,CR-503270-2414-LittletonWachusettB1
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-503633-125-MRRockportB1
 Shuttle-ManchesterRockport-0-0,Shuttle-ManchesterRockport,0,Manchester - Rockport,,4,62060099,CR-503633-125-MRRockportC1
 Shuttle-RockportWestGloucester-0-0,Shuttle-RockportWestGloucester,0,West Gloucester - Rockport,,1,62410099,CR-503658-117-MRRockportB1
