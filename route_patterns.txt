@@ -20,13 +20,11 @@ Green-B-812-1,Green-B,1,Boston College - Government Center,,1,10032100,50289617-
 Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,10033000,50289616-BKHNoGLX
 Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,50289614-BKHNoGLX
 Green-D-851-0,Green-D,0,North Station - Riverside,,1,10034000,50290391-BKHNoGLX
-Green-D-851-0_70151_70161_0,Green-D,0,North Station - Kenmore,,4,10034099,49210380-2BKHGLBKenmoreRiversideNoGLX0
 Green-D-851-0_70187_70161_0,Green-D,0,North Station - Fenway,,4,10034099,49246443-20:45-2BKHFenwayReservoirGLBNoGLX0
-Green-D-855-0_70504_70206_2,Green-D,0,North Station - Riverside,,4,10034099,49246765-20:45-2BKHFenwayReservoirGLBNoGLX2
+Green-D-855-0_70504_70206_2,Green-D,0,North Station - Riverside,,4,10034099,49246765-2BKHGLBNoGLX2
 Green-D-851-1,Green-D,1,Riverside - North Station,,1,10034100,50289619-BKHNoGLX
-Green-D-851-1_70160_70150_2,Green-D,1,Kenmore - North Station,,4,10034199,49209608-2BKHGLBKenmoreRiversideNoGLX2
 Green-D-851-1_70160_70186_2,Green-D,1,Fenway - North Station,,4,10034199,49246440-20:45-2BKHFenwayReservoirGLBNoGLX2
-Green-D-855-1_70205_70503_0,Green-D,1,Riverside - North Station,,4,10034199,49246766-20:45-2BKHFenwayReservoirGLBNoGLX0
+Green-D-855-1_70205_70503_0,Green-D,1,Riverside - North Station,,4,10034199,49246766-2BKHGLBNoGLX0
 Green-E-885-0_70504_70206_2,Green-E,0,North Station - Heath Street,,1,10035096,50290535-BKHNoGLX2
 Green-E-885-1_70205_70503_0,Green-E,1,Heath Street - North Station,,1,10035196,50289655-BKHNoGLX0
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,49417902
@@ -366,7 +364,7 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 57-H-1,57,1,Watertown Yard - Haymarket Station,Early mornings only,3,50570106,49177413
 57-E-1,57,1,"Oak Square - Union Square, Boston",School days only,3,50570109,49183136_1
 59-2-0,59,0,Watertown Square - Needham Junction,,1,50590000,49177421
-59-_-0,59,0,Watertown Square - Needham Junction via Eliot St,Weekdays only,3,50590004,49177420
+59-_-0,59,0,Watertown Square - Needham Junction via Eliot St,Weekdays only,2,50590004,49177420
 59-2-1,59,1,Needham Junction - Watertown Square,,1,50590100,49177419
 59-_-1,59,1,Needham Junction - Watertown Square via Eliot St,Weekdays only,2,50590104,49177434
 60-_-0,60,0,Kenmore Station - Chestnut Hill,,1,50600000,49177308
@@ -385,10 +383,10 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 627-7-1,627,1,Bedford VA Hospital - Alewife Station via Hanscom Airport,,1,50621100,49300181
 627-6-1,627,1,Bedford VA Hospital - Alewife Station,Weekdays only,2,50621104,49300184
 64-6-0,64,0,Kendall/MIT Station - Oak Square,Weekdays only,1,50640000,49299445
-64-_-0,64,0,University Park - Oak Square,,2,50640003,50359224
+64-_-0,64,0,University Park - Oak Square,,3,50640003,50359224
 64-3-0,64,0,"Central Square, Cambridge - Oak Square",Late nights only,3,50640005,50359229
 64-6-1,64,1,Oak Square - Kendall/MIT Station,Weekdays only,1,50640100,49299444
-64-_-1,64,1,Oak Square - University Park,,2,50640103,50359225
+64-_-1,64,1,Oak Square - University Park,,3,50640103,50359225
 65-_-0,65,0,Kenmore Station - Brighton Center,,1,50650000,49177315
 65-_-1,65,1,Brighton Center - Kenmore Station,,1,50650100,49177331
 66-6-0,66,0,Nubian Station - Harvard Square,,1,50660000,49181058
@@ -413,15 +411,15 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 70-5-1,70,1,Cedarwood - University Park,Weekdays only,3,50700108,49299848
 70-3-1,70,1,"Waltham Center - Central Square, Cambridge",Late nights only,3,50700111,49299942
 71-_-0,71,0,Harvard Station - Watertown Square,,1,50710000,49258111
-71-2-0,71,0,"Harvard Station, Upper Busway - Watertown Square",,3,50710004,49265099
-71-1-0,71,0,Harvard Station - Watertown Square (Omits Cambridge Common),,3,50710006,49258337
+71-1-0,71,0,Harvard Station - Watertown Square (Omits Cambridge Common),,3,50710004,49258337
+71-2-0,71,0,"Harvard Station, Upper Busway - Watertown Square",,3,50710008,50321317
 71-3-0,71,0,Harvard Square - Aberdeen Ave,AM peak hours only,3,50710010,49300939
 71-_-1,71,1,Watertown Square - Harvard Station,,1,50710100,49258112
 71-1-1,71,1,Watertown Square - Harvard Station (Omits Cambridge Common),,2,50710104,49258277
 71-3-1,71,1,Aberdeen Ave - Harvard Square,Weekdays only,3,50710108,49300948
 73-_-0,73,0,Harvard Station - Waverley Square,,1,50730000,49258117
-73-1-0,73,0,Harvard Station - Waverley Square (Omits Cambridge Common),,3,50730004,49258284
-73-2-0,73,0,"Harvard Station, Upper Busway - Waverley Square",,3,50730008,49265090
+73-1-0,73,0,Harvard Station - Waverley Square (Omits Cambridge Common),,2,50730004,49258284
+73-2-0,73,0,"Harvard Station, Upper Busway - Waverley Square",,3,50730008,50321308
 73-_-1,73,1,Waverley Square - Harvard Station,,1,50730100,49258122
 73-1-1,73,1,Waverley Square - Harvard Station (Omits Cambridge Common),,2,50730104,49258199
 74-1-0,74,0,Harvard Station - Belmont Center,,1,50740000,49300838
@@ -461,7 +459,7 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 89-_-0,89,0,Sullivan Square Station - Clarendon Hill,Weekdays only,2,50890004,49466945
 89-2-1,89,1,Davis Station - Sullivan Square Station,,1,50890100,49466922
 89-_-1,89,1,Clarendon Hill - Sullivan Square Station,Weekdays only,2,50890104,49466966
-8993-_-0,8993,0,Haymarket Station - Clarendon Hill,Sunday early mornings only,1,50891000,49476728
+8993-_-0,8993,0,Haymarket Station - Clarendon Hill,Sunday early mornings only,1,50891000,50474413
 8993-_-1,8993,1,Clarendon Hill - Haymarket Station,Early mornings only,1,50891100,49466814
 90-_-0,90,0,Assembly Row - Davis Station,,1,50900000,49466803
 90-_-1,90,1,Davis Station - Assembly Row,,1,50900100,49467811
@@ -530,24 +528,24 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 111-5-1,111,1,Woodlawn - Haymarket Station,,1,51110100,49467515
 111-2-1,111,1,Cary Square - Haymarket Station,,2,51110104,49467518
 112-_-0,112,0,Wood Island Station - Wellington Station via Mystic Mall,,1,51120000,49467262
-112-1-0,112,0,Wood Island Station - Wellington Station (Omits Mystic Mall),Sunday middays only,3,51120004,49476637
+112-1-0,112,0,Wood Island Station - Wellington Station (Omits Mystic Mall),Sunday middays only,3,51120004,50474339
 112-_-1,112,1,Wellington Station - Wood Island Station via Mystic Mall,,1,51120100,49466953
-112-1-1,112,1,Wellington Station - Wood Island Station (Omits Mystic Mall),Sundays only,3,51120104,49476636
+112-1-1,112,1,Wellington Station - Wood Island Station (Omits Mystic Mall),Sundays only,3,51120104,50474338
 114-1-0,114,0,Maverick Station - Mystic Mall,Weekdays only,1,51140000,49370510
 114-1-1,114,1,Mystic Mall - Maverick Station,Weekdays only,1,51140100,49370511
 116-4-0,116,0,Maverick Station - Wonderland Station,,1,51160000,49370964
-116-9-0,116,0,Broadway & Central Ave - Wonderland Station,Sunday early mornings only,3,51160004,49376431
+116-9-0,116,0,Broadway & Central Ave - Wonderland Station,Sunday early mornings only,3,51160004,50431390
 116-4-1,116,1,Wonderland Station - Maverick Station,,1,51160100,49370983
 116117-7-0,116117,0,Maverick Station - Bellingham Square,Weekday mornings only,1,51161000,49370967
 116117-7-1,116117,1,Bellingham Square - Maverick Station,Weekday mornings only,1,51161100,49370965
 117-5-0,117,0,Maverick Station - Wonderland Station,,1,51170000,49370961
 117-1-0,117,0,"Haymarket Station - Logan Airport, Terminal C",Early mornings only,3,51170004,49371261
 117-3-0,117,0,Haymarket Station - Lynn Bus Garage via Maverick Station,Late nights only,3,51170007,49371244
-117-2-0,117,0,Haymarket Station - Maverick Station,Sunday early mornings only,3,51170010,49376366
+117-2-0,117,0,Haymarket Station - Maverick Station,Sunday early mornings only,3,51170010,50431325
 117-5-1,117,1,Wonderland Station - Maverick Station,,1,51170100,49370960
 117-3-1,117,1,Lynn Bus Garage - Haymarket Station via Maverick Station,Early mornings only,3,51170104,49370988
 117-8-1,117,1,Broadway & Central Ave - Haymarket Station,Early mornings only,3,51170107,49371259
-117-_-1,117,1,Wonderland Station - Haymarket Station,Sunday early mornings only,3,51170110,49376430
+117-_-1,117,1,Wonderland Station - Haymarket Station,Sunday early mornings only,3,51170110,50431389
 119-1-0,119,0,Beachmont Station - Northgate Shopping Center,Weekdays only,1,51190000,49370529
 119-3-0,119,0,Beachmont Station - Northgate Shopping Ctr via Tomasello Way,,1,51190003,49370538
 119-1-1,119,1,Northgate Shopping Center - Beachmont Station,Weekdays only,1,51190100,49370528
@@ -568,16 +566,16 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 134-6-0,134,0,Wellington Station - Winthrop St & Playstead Rd,,2,51340002,49467258
 134-5-0,134,0,Wellington Station - North Woburn,,2,51340005,49466136
 134-2-0,134,0,Wellington - North Woburn via Trade Ctr & Veterans Ctr,Weekday middays only,3,51340009,49466151
-134-7-0,134,0,Wellington Station - Medford Square,,3,51340011,50473762
-134-4-0,134,0,Middlesex Ave - Winthrop St & Brooks St,School days only,3,51340013,49466299
-134-9-0,134,0,Wellington Station - Woburn Square,Sundays only,3,51340014,49476499
+134-4-0,134,0,Middlesex Ave - Winthrop St & Brooks St,School days only,3,51340011,49466299
+134-7-0,134,0,Wellington Station - Medford Square,,3,51340012,50473762
+134-9-0,134,0,Wellington Station - Woburn Square,Sundays only,3,51340014,50475155
 134-3-1,134,1,North Woburn - Wellington Station via Trade Center,Weekdays only,1,51340100,49466139
 134-6-1,134,1,Winthrop St & Playstead Rd - Wellington Station,,2,51340103,49466135
 134-5-1,134,1,North Woburn - Wellington Station,,2,51340106,49466138
 134-4-1,134,1,Winthrop St & Brooks St - Middlesex Ave,School days only,3,51340110,49466289
 134-7-1,134,1,Medford Square - Wellington Station,,3,51340111,50473763
 134-2-1,134,1,North Woburn - Wellington via Trade Ctr & Veterans Ctr,Weekday middays only,3,51340113,49466150
-134-9-1,134,1,Woburn Square - Wellington Station,Sundays only,3,51340115,49476496
+134-9-1,134,1,Woburn Square - Wellington Station,Sundays only,3,51340115,50475148
 137-6-0,137,0,Oak Grove Busway - Lincoln St @ Reading Depot,Weekdays only,1,51370000,49466211
 137-7-0,137,0,Malden Center - Lincoln St @ Reading Depot,,1,51370003,49466222
 137-4-0,137,0,Malden Center - Main St @ Water St,,3,51370007,49466313
@@ -612,12 +610,12 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 214216-5-0,214216,0,Coddington St @ Quincy YMCA - Sea St @ Fensmere Ave,School days only,3,52141007,49379395
 214216-6-0,214216,0,Sea St @ Moffat Rd - Sea St @ Fensmere Ave,School days only,3,52141008,49378837
 215-1-0,215,0,Ashmont Station - Quincy Center Station,,1,52150000,49378768
-215-3-0,215,0,Fields Corner Station - Quincy Center Station,Sundays only,3,52150004,49381626
-215-2-0,215,0,Adams St & Robertson St - Quincy Center Station,School days only,3,52150006,49378381
+215-2-0,215,0,Adams St & Robertson St - Quincy Center Station,School days only,3,52150004,49378381
+215-3-0,215,0,Fields Corner Station - Quincy Center Station,Sundays only,3,52150005,50438576
 215-_-0,215,0,North Quincy Station - Quincy Center Station,Early mornings only,3,52150007,49378774
 215-1-1,215,1,Quincy Center Station - Ashmont Station,,1,52150100,49378765
 215-7-1,215,1,Quincy Center Station - East Milton Square,School days only,3,52150104,49378286
-215-3-1,215,1,Quincy Center Station - Fields Corner Station,Sundays only,3,52150105,49381654
+215-3-1,215,1,Quincy Center Station - Fields Corner Station,Sundays only,3,52150105,50438604
 215-_-1,215,1,Quincy Center Station - North Quincy Station,Early mornings only,3,52150107,49378815
 216-2-0,216,0,Quincy Center Station - Houghs Neck via Germantown,,1,52160000,50432935
 216-4-0,216,0,Quincy Center - Houghs Neck via McGrath Hwy & Germantown,,2,52160004,50433012
@@ -654,10 +652,10 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 238-9-0,238,0,Quincy Center Station - Holbrook/Randolph Station,Weekdays only,1,52380000,49378913
 238-7-0,238,0,Quincy Center Station - Crawford Square,,2,52380003,49378916
 238-3-0,238,0,Quincy Center Station - Avon Square,,3,52380006,49378961
-238-5-0,238,0,Quincy Center - Crawford Square (Omits South Shore Plaza),Sunday early mornings only,3,52380009,49381945
+238-5-0,238,0,Quincy Center - Crawford Square (Omits South Shore Plaza),Sunday early mornings only,3,52380009,50438895
 238-9-1,238,1,Holbrook/Randolph Station - Quincy Center Station,Weekdays only,1,52380100,49378909
 238-7-1,238,1,Crawford Square - Quincy Center Station,,2,52380103,49378911
-238-3-1,238,1,Avon Square - Quincy Center Station,Sundays only,3,52380106,49381922
+238-3-1,238,1,Avon Square - Quincy Center Station,Sundays only,3,52380106,50438872
 240-1-0,240,0,Ashmont Station - Avon Square,,1,52400000,49378918
 240-9-0,240,0,Ashmont Station - Holbrook/Randolph Station,Weekdays only,1,52400004,49378922
 240-_-0,240,0,Ashmont Station - Crawford Square,,3,52400007,49378966
@@ -719,12 +717,12 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 430-2-1,430,1,Saugus Center - Malden Center Station via Kennedy Dr,Weekday evenings only,3,54300107,49466886
 435-8-0,435,0,Neptune Towers - Salem Depot,,1,54350000,49370430
 435-7-0,435,0,"Central Square, Lynn - Salem Depot",,2,54350003,49370433
-435-6-0,435,0,Neptune Towers - Liberty Tree Mall,Sundays only,3,54350007,49376334
-435-_-0,435,0,"Central Square, Lynn - Liberty Tree Mall",Sundays only,3,54350009,49376344
+435-6-0,435,0,Neptune Towers - Liberty Tree Mall,Sundays only,3,54350007,50431293
+435-_-0,435,0,"Central Square, Lynn - Liberty Tree Mall",Sundays only,3,54350009,50431303
 435-8-1,435,1,Salem Depot - Neptune Towers,,1,54350100,49370435
 435-7-1,435,1,"Salem Depot - Central Square, Lynn",,2,54350103,49370438
-435-6-1,435,1,Liberty Tree Mall - Neptune Towers,Sundays only,3,54350107,49376335
-435-_-1,435,1,"Liberty Tree Mall - Central Square, Lynn via Danvers Square",Sundays only,3,54350109,49376337
+435-6-1,435,1,Liberty Tree Mall - Neptune Towers,Sundays only,3,54350107,50431294
+435-_-1,435,1,"Liberty Tree Mall - Central Square, Lynn via Danvers Square",Sundays only,3,54350109,50431296
 436-_-0,436,0,"Central Square, Lynn - Liberty Tree Mall",,1,54360000,49370443
 436-1-0,436,0,"Central Square, Lynn - North Shore Mall",Weekday mornings only,2,54360003,49370461
 436-3-0,436,0,Neptune Towers - Goodwins Circle,School days only,3,54360006,49370934
@@ -751,7 +749,7 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 442-9-0,442,0,Lynn Bus Garage - Marblehead via Humphrey St,Mornings only,3,54420007,49370909
 442-7-1,442,1,Marblehead - Wonderland Station via Humphrey St,,1,54420100,49370775
 442-5-1,442,1,Marblehead - Wonderland via Humphrey St (Omits Pnt of Pines),Weekdays only,2,54420104,49370786
-442-9-1,442,1,Marblehead - Lynn Bus Garage via Humphrey St,Sunday late nights only,3,54420107,49376208
+442-9-1,442,1,Marblehead - Lynn Bus Garage via Humphrey St,Sunday late nights only,3,54420107,50431167
 450-8-0,450,0,Haymarket Station - Salem Depot,Weekdays only,1,54500000,49370383
 450-7-0,450,0,Wonderland Station - Salem Depot,,2,54500003,50430699
 450-9-0,450,0,Lynn Bus Garage - Salem Depot,Mornings only,3,54500005,49370636
@@ -811,11 +809,11 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 713-3-1,713,1,"Winthrop Beach - Orient Heights Station, North Busway",Weekdays only,2,57130108,49540585
 713-2-1,713,1,"Point Shirley - Orient Heights Station, North Busway",Weekdays only,2,57130111,49540511
 714-_-0,714,0,Hingham Depot - Pemberton Point,,1,57140000,49547167
-714-1-0,714,0,Hingham Depot - Pemberton Point via Hull Medical Center,Weekdays only,2,57140003,49547166
-714-2-0,714,0,Hingham Depot - Pemberton Point via Washington Blvd,Weekdays only,2,57140004,49547183
+714-1-0,714,0,Hingham Depot - Pemberton Point via Hull Medical Center,Weekdays only,2,57140004,49547166
+714-2-0,714,0,Hingham Depot - Pemberton Point via Washington Blvd,Weekdays only,2,57140005,49547183
 714-_-1,714,1,Pemberton Point - Hingham Depot,,1,57140100,49547177
-714-1-1,714,1,Pemberton Point - Hingham Depot via Hull Medical Center,Weekday middays only,2,57140103,49547168
-714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140104,49547169
+714-1-1,714,1,Pemberton Point - Hingham Depot via Hull Medical Center,Weekday middays only,2,57140104,49547168
+714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140105,49547169
 716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,49544134
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,49544129
 602-1-0,602,0,Lechmere - North Station,,1,60200000,49544164
@@ -829,10 +827,8 @@ Shuttle-BroadwayJFK-0-0,Shuttle-BroadwayJFK,0,Broadway - JFK/UMass,,4,61040099,4
 Shuttle-BroadwayJFK-0-1,Shuttle-BroadwayJFK,1,JFK/UMass - Broadway,,4,61040199,49258737-BroadwayJFK1
 Shuttle-FenwayRiverside-0-0,Shuttle-FenwayRiverside,0,Fenway - Riverside,,4,61510099,49246443-20:45-2BKHFenwayReservoirGLBNoGLX1
 Shuttle-FenwayRiverside-0-1,Shuttle-FenwayRiverside,1,Riverside - Fenway,,4,61510199,49246440-20:45-2BKHFenwayReservoirGLBNoGLX1
-Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,4,62012099,49210380-2BKHGLBKenmoreRiversideNoGLXKenmoreRiverside
-Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,4,62012199,49209608-2BKHGLBKenmoreRiversideNoGLXKenmoreRiverside
-Shuttle-LittletonWachusett-0-0,Shuttle-LittletonWachusett,0,Littleton/Route 495 - Wachusett,,4,62025099,CR-503411-433-LittletonWachusett1
-Shuttle-LittletonWachusett-0-1,Shuttle-LittletonWachusett,1,Wachusett - Littleton/Route 495,,4,62025199,CR-503412-432-LittletonWachusett1
+Shuttle-LittletonWachusett-0-0,Shuttle-LittletonWachusett,0,Littleton/Route 495 - Wachusett,,4,62025099,CR-503059-1403-LittletonWachusettB1
+Shuttle-LittletonWachusett-0-1,Shuttle-LittletonWachusett,1,Wachusett - Littleton/Route 495,,4,62025199,CR-503083-1414-LittletonWachusettB1
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-503633-125-MRRockportB1
 Shuttle-ManchesterRockport-0-0,Shuttle-ManchesterRockport,0,Manchester - Rockport,,4,62060099,CR-503633-125-MRRockportC1
 Shuttle-RockportWestGloucester-0-0,Shuttle-RockportWestGloucester,0,West Gloucester - Rockport,,1,62410099,CR-503658-117-MRRockportB1
