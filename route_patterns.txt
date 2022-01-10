@@ -21,10 +21,10 @@ Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,10033000,5034747
 Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,50347476-NoGLX
 Green-D-851-0,Green-D,0,North Station - Riverside,,1,10034000,50347783-NoGLX
 Green-D-851-0_70169_70161_0,Green-D,0,North Station - Newton Highlands,,4,10034099,50294064-NewtonHighlandsRiversideNoGLX0
-Green-D-855-0_70504_70206_2,Green-D,0,North Station - Riverside,,4,10034099,50348105-BKHNoGLX2
+Green-D-855-0_70504_70206_2,Green-D,0,North Station - Riverside,,4,10034099,50348105-15:00-HayGLHayGLNoGLX2
 Green-D-851-1,Green-D,1,Riverside - North Station,,1,10034100,50347779-NoGLX
 Green-D-851-1_70160_70168_2,Green-D,1,Newton Highlands - North Station,,4,10034199,50293292-NewtonHighlandsRiversideNoGLX2
-Green-D-855-1_70205_70503_0,Green-D,1,Riverside - North Station,,4,10034199,50348106-BKHNoGLX0
+Green-D-855-1_70205_70503_0,Green-D,1,Riverside - North Station,,4,10034199,50348106-15:00-HayGLHayGLNoGLX0
 Green-E-885-0_70504_70206_2,Green-E,0,North Station - Heath Street,,1,10035096,50347000-NoGLX2
 Green-E-885-1_70205_70503_0,Green-E,1,Heath Street - North Station,,1,10035196,50346999-NoGLX0
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,50444970
@@ -53,12 +53,12 @@ CR-Fitchburg-979a6935-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-
 CR-Fitchburg-ce651dfc-0,CR-Fitchburg,0,North Station - Littleton/Route 495,,2,20002001,CR-503059-1403-LittletonWachusett0
 CR-Fitchburg-008fca34-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-503412-432
 CR-Fitchburg-472835d4-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,20002101,CR-503083-1414-LittletonWachusett2
-CR-Worcester-38e2728b-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-502250-537
+CR-Worcester-38e2728b-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-519604-537
 CR-Worcester-31b7b4bc-0,CR-Worcester,0,South Station - Framingham,,2,20003001,CR-502240-595
 CR-Worcester-1d310675-0,CR-Worcester,0,South Station - Worcester,,2,20003002,CR-502256-527
-CR-Worcester-b38f30d8-0,CR-Worcester,0,South Station - Worcester,,2,20003003,CR-502261-517
-CR-Worcester-c7319c64-1,CR-Worcester,1,Worcester - South Station,,1,20003100,CR-500842-510
-CR-Worcester-b8da484f-1,CR-Worcester,1,Worcester - South Station,,2,20003101,CR-500851-518
+CR-Worcester-b38f30d8-0,CR-Worcester,0,South Station - Worcester,,2,20003003,CR-519610-517
+CR-Worcester-c7319c64-1,CR-Worcester,1,Worcester - South Station,,1,20003100,CR-519360-510
+CR-Worcester-b8da484f-1,CR-Worcester,1,Worcester - South Station,,2,20003101,CR-519362-518
 CR-Worcester-74814426-1,CR-Worcester,1,Framingham - South Station,,2,20003102,CR-500896-592
 CR-Worcester-efaae72e-1,CR-Worcester,1,Framingham - South Station,,2,20003103,CR-500900-596
 CR-Worcester-96ddd717-1,CR-Worcester,1,Worcester - South Station,,2,20003104,CR-502268-506
@@ -73,10 +73,10 @@ CR-Franklin-0bc5279e-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay
 CR-Franklin-0e04afee-1,CR-Franklin,1,Walpole - South Station via Back Bay,,2,20004102,CR-502652-722
 CR-Greenbush-6d652c57-0,CR-Greenbush,0,South Station - Greenbush,,1,20005000,CR-502275-095
 CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,20005100,CR-502276-094
-CR-Haverhill-ead99721-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,20006000,CR-503379-223
+CR-Haverhill-ead99721-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,20006000,CR-519806-217
 CR-Haverhill-d8edcefc-0,CR-Haverhill,0,North Station - Haverhill,,2,20006001,CR-503500-217
 CR-Haverhill-1ec1f271-0,CR-Haverhill,0,North Station - Reading,,2,20006002,CR-503380-281
-CR-Haverhill-5c4518ee-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,20006100,CR-503494-224
+CR-Haverhill-5c4518ee-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,20006100,CR-519848-210
 CR-Haverhill-76e7e4ff-1,CR-Haverhill,1,Haverhill - North Station,,2,20006101,CR-503499-218
 CR-Haverhill-59fe7876-1,CR-Haverhill,1,Haverhill - North Station via Reading,,2,20006102,CR-519975-218
 CR-Haverhill-dbb78d1b-1,CR-Haverhill,1,Reading - North Station,,2,20006103,CR-503476-298
@@ -98,7 +98,6 @@ CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011005,CR-50
 CR-Newburyport-cb740ab0-0,CR-Newburyport,0,North Station - West Gloucester,,2,20011006,CR-503658-117-MRRockport
 CR-Newburyport-98fe3d94-0,CR-Newburyport,0,North Station - Beverly,,2,20011007,CR-503642-103-MRRockport
 CR-Newburyport-41467013-0,CR-Newburyport,0,North Station - Newburyport,,2,20011008,CR-503365-141-MRRockport
-CR-Newburyport-0e574ef7-0,CR-Newburyport,0,North Station - West Gloucester,,2,20011009,CR-518719-123-MRNBBVRRockport
 CR-Newburyport-4444b78b-0,CR-Newburyport,0,North Station - Manchester,,2,20011010,CR-503633-125-MRRockport
 CR-Newburyport-173cb7ae-1,CR-Newburyport,1,West Gloucester - North Station,,1,20011100,CR-503640-106-MRRockport
 CR-Newburyport-ff47d622-1,CR-Newburyport,1,Newburyport - North Station,,1,20011101,CR-503367-150-MRRockport
@@ -122,8 +121,6 @@ CR-Providence-e99e5ce2-1,CR-Providence,1,Providence - South Station,,2,20012104,
 CR-Providence-87821f71-1,CR-Providence,1,Wickford Junction - South Station,,2,20012105,CR-501025-836
 CR-Providence-bffb2f0c-1,CR-Providence,1,Providence - South Station,,2,20012106,CR-501030-824
 CR-Providence-4f7f6e16-1,CR-Providence,1,Wickford Junction - South Station,,2,20012107,CR-502177-810
-CR-Foxboro-ee315553-0,CR-Foxboro,0,South Station - Foxboro,,1,20013000,CR-508723-9711
-CR-Foxboro-26725160-1,CR-Foxboro,1,Providence - Foxboro,,1,20013100,CR-508724-9810
 Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-0630-Long-Weekday-Fall-21
 Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,30001100,Boat-F4-0645-Charlestown-Weekday-Fall-21
 Boat-F1-1-0,Boat-F1,0,Long Wharf - Hingham via Hull,,1,30002001,Boat-F1-1100-Long-Weekday-Fall-21
@@ -808,7 +805,6 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,50530048
 602-1-0,602,0,Lechmere - North Station,,1,60200000,50530083
 602-1-1,602,1,North Station - Lechmere,,1,60200100,50530085
-Shuttle-BeverlyRockport-0-0,Shuttle-BeverlyRockport,0,Beverly - Rockport,,4,60700099,CR-518621-167-MRNBBVRRockport1
 Shuttle-BroadwayJFK-0-0,Shuttle-BroadwayJFK,0,Broadway - JFK/UMass,,4,61040099,49812781-BroadwayJFK1
 Shuttle-BroadwayJFK-0-1,Shuttle-BroadwayJFK,1,JFK/UMass - Broadway,,4,61040199,49812695-BroadwayJFK1
 Shuttle-LittletonWachusett-0-0,Shuttle-LittletonWachusett,0,Littleton/Route 495 - Wachusett,,4,62025099,CR-503059-1403-LittletonWachusettB1
