@@ -12,9 +12,11 @@ Green-B-812-1,Green-B,1,Boston College - Government Center,,1,10032100,50347335-
 Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,10033000,50347475-NoGLX
 Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,50347476-NoGLX
 Green-D-851-0,Green-D,0,North Station - Riverside,,1,10034000,50347783-NoGLX
+Green-D-851-0_70151_70161_0,Green-D,0,North Station - Kenmore,,4,10034099,50294064-KenmoreRiversideNoGLX0
 Green-D-851-0_70169_70161_0,Green-D,0,North Station - Newton Highlands,,4,10034099,50294064-NewtonHighlandsRiversideNoGLX0
 Green-D-855-0_70504_70206_2,Green-D,0,North Station - Riverside,,4,10034099,50348105-NoGLX2
 Green-D-851-1,Green-D,1,Riverside - North Station,,1,10034100,50347779-NoGLX
+Green-D-851-1_70160_70150_2,Green-D,1,Kenmore - North Station,,4,10034199,50293292-KenmoreRiversideNoGLX2
 Green-D-851-1_70160_70168_2,Green-D,1,Newton Highlands - North Station,,4,10034199,50293292-NewtonHighlandsRiversideNoGLX2
 Green-D-855-1_70205_70503_0,Green-D,1,Riverside - North Station,,4,10034199,50348106-NoGLX0
 Green-E-885-0_70504_70206_2,Green-E,0,North Station - Heath Street,,1,10035096,50347000-NoGLX2
@@ -83,13 +85,13 @@ CR-Middleborough-cd96ff97-1,CR-Middleborough,1,Middleborough/Lakeville - South S
 CR-Needham-8ca06f5a-0,CR-Needham,0,South Station - Needham Heights,,1,20010000,CR-500836-613
 CR-Needham-ba733d01-0,CR-Needham,0,Forest Hills - Needham Heights,,2,20010001,CR-502224-633
 CR-Needham-31ea698c-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,CR-500837-616
-CR-Newburyport-adde8a7c-0,CR-Newburyport,0,North Station - Manchester,,1,20011000,CR-503645-105-MRRockport
-CR-Newburyport-76fa2c91-0,CR-Newburyport,0,North Station - Newburyport,,1,20011001,CR-503368-145-MRRockport
-CR-Newburyport-23488827-0,CR-Newburyport,0,North Station - Beverly,,2,20011002,CR-503404-197-MRRockport
-CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011005,CR-503363-167-MRRockport
-CR-Newburyport-cb740ab0-0,CR-Newburyport,0,North Station - West Gloucester,,2,20011006,CR-503658-117-MRRockport
-CR-Newburyport-98fe3d94-0,CR-Newburyport,0,North Station - Beverly,,2,20011007,CR-503642-103-MRRockport
-CR-Newburyport-41467013-0,CR-Newburyport,0,North Station - Newburyport,,2,20011008,CR-503365-141-MRRockport
+CR-Newburyport-76fa2c91-0,CR-Newburyport,0,North Station - Newburyport,,1,20011000,CR-503368-145-MRRockport
+CR-Newburyport-adde8a7c-0,CR-Newburyport,0,North Station - Manchester,,1,20011001,CR-503645-105-MRRockport
+CR-Newburyport-23488827-0,CR-Newburyport,0,North Station - Beverly,,2,20011003,CR-503404-197-MRRockport
+CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011006,CR-503363-167-MRRockport
+CR-Newburyport-cb740ab0-0,CR-Newburyport,0,North Station - West Gloucester,,2,20011007,CR-503658-117-MRRockport
+CR-Newburyport-98fe3d94-0,CR-Newburyport,0,North Station - Beverly,,2,20011008,CR-503642-103-MRRockport
+CR-Newburyport-41467013-0,CR-Newburyport,0,North Station - Newburyport,,2,20011009,CR-503365-141-MRRockport
 CR-Newburyport-4444b78b-0,CR-Newburyport,0,North Station - Manchester,,2,20011010,CR-503633-125-MRRockport
 CR-Newburyport-173cb7ae-1,CR-Newburyport,1,West Gloucester - North Station,,1,20011100,CR-503640-106-MRRockport
 CR-Newburyport-ff47d622-1,CR-Newburyport,1,Newburyport - North Station,,1,20011101,CR-503367-150-MRRockport
@@ -799,6 +801,8 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 602-1-1,602,1,North Station - Lechmere,,1,60200100,50530085
 Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,4,60350099,50298533-AshmontMattapan1
 Shuttle-AshmontMattapan-0-1,Shuttle-AshmontMattapan,1,Mattapan - Ashmont,,4,60350199,50298532-AshmontMattapan1
+Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,4,62012099,50294064-KenmoreRiversideNoGLXKenmoreRiverside
+Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,4,62012199,50293292-KenmoreRiversideNoGLXKenmoreRiverside
 Shuttle-LittletonWachusett-0-0,Shuttle-LittletonWachusett,0,Littleton/Route 495 - Wachusett,,4,62025099,CR-503411-433-LittletonWachusett1
 Shuttle-LittletonWachusett-0-1,Shuttle-LittletonWachusett,1,Wachusett - Littleton/Route 495,,4,62025199,CR-503412-432-LittletonWachusett1
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-503633-125-MRRockportB1
