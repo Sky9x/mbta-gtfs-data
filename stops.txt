@@ -6683,14 +6683,14 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9069,9069,Salem St @ Revere St,,,,42.437257,-71.025457,LocalBus,,https://www.mbta.com/stops/9069,,0,,1,Malden,Salem Street,Revere Street,3
 907,907,Tremont St @ Pembroke St,,,,42.352946,-71.176810,LocalBus,,https://www.mbta.com/stops/907,,0,,1,Newton,Tremont Street,Playstead Road,3
 9070,9070,Salem St @ Lynn St,,,,42.436065,-71.021736,LocalBus,,https://www.mbta.com/stops/9070,,0,,0,Malden,Salem Street,Lynn Street,3
-9070150,9070150,Kenmore,Kenmore - Green Line Shuttle,,Green Line Shuttle,42.348712,-71.095526,LocalBus,,https://www.mbta.com/stops/9070150,,0,,1,Boston,,,3
+9070022,9070022,State,Congress St @ State St - Orange Line Shuttle,,Orange Line Shuttle,42.359131,-71.056756,LocalBus,,https://www.mbta.com/stops/9070022,,0,,1,Boston,,,3
+9070027,9070027,North Station,North Station - Orange Line Shuttle - N Washington St opp Medford St,,Sullivan Shuttle,42.365460,-71.058239,LocalBus,,https://www.mbta.com/stops/9070027,,0,,1,Boston,,,3
+9070028,9070028,Community College,Community College - Orange Line Shuttle - Rutherford Ave @ Austin St,,Haymarket Shuttle,42.374668,-71.068320,LocalBus,,https://www.mbta.com/stops/9070028,,0,,1,Boston,,,3
+9070029,9070029,Community College,Community College - Orange Line Shuttle - Rutherford Ave @ Austin St,,Sullivan Shuttle,42.374714,-71.067764,LocalBus,,https://www.mbta.com/stops/9070029,,0,,1,Boston,,,3
 9070162,9070162,Woodland,Woodland Station - Green Line Shuttle,,Green Line Shuttle,42.332973,-71.243286,LocalBus,,https://www.mbta.com/stops/9070162,,0,,1,Newton,,,3
 9070164,9070164,Waban,Waban Station - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.326601,-71.230560,LocalBus,,https://www.mbta.com/stops/9070164,,0,,1,Newton,,,3
 9070165,9070165,Waban,Waban Station - Green Line Westbound Shuttle,,Riverside Shuttle,42.326954,-71.230295,LocalBus,,https://www.mbta.com/stops/9070165,,0,,1,Newton,,,3
-9070170,9070170,Newton Centre,Newton Centre - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.329987,-71.191341,LocalBus,,https://www.mbta.com/stops/9070170,,0,,1,Newton,,,3
-9070171,9070171,Newton Centre,Newton Centre - Green Line Westbound Shuttle,,Westbound Shuttle,42.330073,-71.191265,LocalBus,,https://www.mbta.com/stops/9070171,,0,,1,Newton,,,3
-9070178,9070178,Brookline Hills,Boylston St @ Cypress St - Green Line Newton Highlands Shuttle,,Newton Highlands Shuttle,42.330044,-71.126602,LocalBus,,https://www.mbta.com/stops/9070178,,0,,1,Brookline,,,3
-9070179,9070179,Brookline Hills,Boylston St @ Cypress St - Green Line Kenmore Shuttle,,Kenmore Shuttle,42.330034,-71.125599,LocalBus,,https://www.mbta.com/stops/9070179,,0,,1,Brookline,,,3
+9070206,9070206,North Station,North Station - Green Line Copley & West Shuttle,,Copley & West Shuttle,42.365288,-71.064562,LocalBus,,https://www.mbta.com/stops/9070206,,0,,1,Boston,,,3
 9070263,9070263,Cedar Grove,Cedar Grove - Mattapan Line Mattapan Shuttle,,Mattapan Shuttle,42.278778,-71.059606,LocalBus,,https://www.mbta.com/stops/9070263,,0,,1,Boston,,,3
 9070264,9070264,Cedar Grove,Cedar Grove - Mattapan Line Ashmont Shuttle,,Ashmont Shuttle,42.278619,-71.059552,LocalBus,,https://www.mbta.com/stops/9070264,,0,,1,Boston,,,3
 9070265,9070265,Butler,Butler - Mattapan Line Mattapan Shuttle,,Mattapan Shuttle,42.273336,-71.064076,LocalBus,,https://www.mbta.com/stops/9070265,,0,,1,Boston,,,3
@@ -7866,8 +7866,9 @@ place-brico,,Packard's Corner,,,,42.351967,-71.125031,,"Commonwealth Ave and Bri
 place-brkhl,,Brookline Hills,,,,42.331316,-71.126683,,"Tappan St and Cypress St, Brookline, MA 02445",https://www.mbta.com/stops/place-brkhl,,1,,1,Brookline,,,
 70178,70178,Brookline Hills,Brookline Hills - Green Line - Park Street & North,,Park Street & North,42.331251,-71.126414,RapidTransit,,https://www.mbta.com/stops/place-brkhl,level_ground,0,place-brkhl,1,Brookline,,,0
 70179,70179,Brookline Hills,Brookline Hills - Green Line - (D) Riverside,,Riverside,42.331371,-71.126872,RapidTransit,,https://www.mbta.com/stops/place-brkhl,level_ground,0,place-brkhl,1,Brookline,,,0
-door-brkhl-bhs,,"Brookline Hills - Tappan St, Brookline High School","Brookline Hills - Tappan St, Brookline High School",,,42.331516,-71.126922,,,,level_in_street,2,place-brkhl,1,Brookline,,,
-door-brkhl-cypress,,"Brookline Hills - Tappan St, Cypress St","Brookline Hills - Tappan St, Cypress St",,,42.331421,-71.126579,,,,level_in_street,2,place-brkhl,1,Brookline,,,
+door-brkhl-bhs,,Brookline Hills - Tappan St (West),Brookline Hills - Tappan St (West),,,42.331446,-71.127064,,,,level_in_street,2,place-brkhl,1,Brookline,,,
+door-brkhl-cypress,,Brookline Hills - Tappan St (East),Brookline Hills - Tappan St (East),,,42.331375,-71.126612,,,,level_in_street,2,place-brkhl,1,Brookline,,,
+node-brkhl-eastramp-top,,Brookline Hills,Brookline Hills - Top of ramp between Tappan St and Riverside platform,,,42.331384,-71.126731,,,,level_ground,3,place-brkhl,1,Brookline,,,
 place-brmnl,,Brigham Circle,,,,42.334229,-71.104609,,"Huntington Ave and Francis St, Boston, MA",https://www.mbta.com/stops/place-brmnl,,1,,1,Boston,,,
 70249,70249,Brigham Circle,Brigham Circle - Green Line - (E) Heath Street,,Heath Street,42.334331,-71.104487,RapidTransit,,https://www.mbta.com/stops/place-brmnl,level_median,0,place-brmnl,1,Boston,,,0
 70250,70250,Brigham Circle,Brigham Circle - Green Line - Park Street & North,,Park Street & North,42.334846,-71.103017,RapidTransit,,https://www.mbta.com/stops/place-brmnl,level_median,0,place-brmnl,1,Boston,,,0
