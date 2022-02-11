@@ -14284,9 +14284,12 @@ bike-bcnfd,secured,2
 bike-bmmnl,capacity,39
 bike-bmmnl,enclosed,2
 bike-bmmnl,secured,2
-bike-brkhl,capacity,6
-bike-brkhl,enclosed,2
-bike-brkhl,secured,2
+bike-brkhl-east,capacity,24
+bike-brkhl-east,enclosed,2
+bike-brkhl-east,secured,2
+bike-brkhl-west,capacity,8
+bike-brkhl-west,enclosed,2
+bike-brkhl-west,secured,2
 bike-brntn,capacity,111
 bike-brntn,enclosed,1
 bike-brntn,secured,1
@@ -20250,12 +20253,8 @@ portlift-bcnwa-1,excludes-stop,1292
 portlift-bcnwa-1,excludes-stop,70229
 portlift-bcnwa-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brkhl-0,excludes-stop,70179
-portlift-brkhl-0,excludes-stop,9070178
-portlift-brkhl-0,excludes-stop,9070179
 portlift-brkhl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brkhl-1,excludes-stop,70178
-portlift-brkhl-1,excludes-stop,9070178
-portlift-brkhl-1,excludes-stop,9070179
 portlift-brkhl-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-brmnl-0,excludes-stop,70250
 portlift-brmnl-0,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
@@ -20319,8 +20318,6 @@ portlift-newtn-1,excludes-stop,9170168
 portlift-newtn-1,excludes-stop,9170169
 portlift-newtn-1,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-newto,excludes-stop,70170
-portlift-newto,excludes-stop,9070170
-portlift-newto,excludes-stop,9070171
 portlift-newto,note,"Significant barriers exist at station, but customers may be able to board/exit train using mobile lift"
 portlift-north-0,excludes-stop,113
 portlift-north-0,excludes-stop,114
@@ -21435,8 +21432,6 @@ subplat-miltt-0,note,Mini high level platform is available to provide level boar
 subplat-miltt-1,excludes-stop,70267
 subplat-miltt-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-newto,excludes-stop,70171
-subplat-newto,excludes-stop,9070170
-subplat-newto,excludes-stop,9070171
 subplat-newto,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-portr-1,excludes-stop,23151
 subplat-portr-1,excludes-stop,2430
