@@ -21,7 +21,11 @@ Orange-3-1_70023_70031_0,Orange,1,Forest Hills - State,,4,10020199,49812230-Sull
 Orange-3-1_70023_70031_2,Orange,1,Sullivan Square - Oak Grove,,4,10020199,49812230-SullState2
 Green-B-812-0,Green-B,0,Government Center - Boston College,,1,10032000,50347336-NoGLX
 Green-B-812-0_70202_70196_2,Green-B,0,Park Street - Boston College,,4,10032099,50293291-GovtCtrParkStNoGLXParkNorth2
+Green-B-812-0_71151_70121_0,Green-B,0,Government Center - Kenmore,,4,10032099,50347387-17:45-KenmoreWashingtonStreetNoGLX0
+Green-B-812-0_71151_70121_2,Green-B,0,Washington Street - Boston College,,4,10032099,50347387-17:45-KenmoreWashingtonStreetNoGLX2
 Green-B-812-1,Green-B,1,Boston College - Government Center,,1,10032100,50347335-NoGLX
+Green-B-812-1_70120_71150_0,Green-B,1,Boston College - Washington Street,,4,10032199,50347364-17:45-KenmoreWashingtonStreetNoGLX0
+Green-B-812-1_70120_71150_2,Green-B,1,Kenmore - Government Center,,4,10032199,50347364-17:45-KenmoreWashingtonStreetNoGLX2
 Green-B-812-1_70200_70201_0,Green-B,1,Boston College - Park Street,,4,10032199,50293290-GovtCtrParkStNoGLXParkNorth0
 Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,10033000,50347475-NoGLX
 Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,50347476-NoGLX
@@ -105,7 +109,7 @@ CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011006,CR-50
 CR-Newburyport-cb740ab0-0,CR-Newburyport,0,North Station - West Gloucester,,2,20011007,CR-503658-117-MRRockport
 CR-Newburyport-98fe3d94-0,CR-Newburyport,0,North Station - Beverly,,2,20011008,CR-503642-103-MRRockport
 CR-Newburyport-41467013-0,CR-Newburyport,0,North Station - Newburyport,,2,20011009,CR-503365-141-MRRockport
-CR-Newburyport-4444b78b-0,CR-Newburyport,0,North Station - Manchester,,2,20011010,CR-503633-125-MRRockport
+CR-Newburyport-4444b78b-0,CR-Newburyport,0,North Station - Manchester,,2,20011011,CR-503633-125-MRRockport
 CR-Newburyport-173cb7ae-1,CR-Newburyport,1,West Gloucester - North Station,,1,20011100,CR-503640-106-MRRockport
 CR-Newburyport-ff47d622-1,CR-Newburyport,1,Newburyport - North Station,,1,20011101,CR-503367-150-MRRockport
 CR-Newburyport-6c947f8b-1,CR-Newburyport,1,Beverly - North Station,,2,20011102,CR-503408-192-MRRockport
@@ -812,10 +816,14 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Week
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,50530048
 602-1-0,602,0,Lechmere - North Station,,1,60200000,50530083
 602-1-1,602,1,North Station - Lechmere,,1,60200100,50530085
+Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,4,60350099,50232129-AshmontMattapan1
+Shuttle-AshmontMattapan-0-1,Shuttle-AshmontMattapan,1,Mattapan - Ashmont,,4,60350199,50232127-AshmontMattapan1
 Shuttle-BroadwayJFK-0-0,Shuttle-BroadwayJFK,0,Broadway - JFK/UMass,,4,61040099,49812781-BroadwayJFK1
 Shuttle-BroadwayJFK-0-1,Shuttle-BroadwayJFK,1,JFK/UMass - Broadway,,4,61040199,49812695-BroadwayJFK1
 Shuttle-GovernmentCenterLechmere-0-0,Shuttle-GovernmentCenterLechmere,0,Lechmere - Government Center,,4,61943099,50531091-Route602GovernmentCenter1
 Shuttle-GovernmentCenterLechmere-0-1,Shuttle-GovernmentCenterLechmere,1,Government Center - Lechmere,,4,61943199,50531103-Route602GovernmentCenter1
+Shuttle-KenmoreWashington-0-0,Shuttle-KenmoreWashington,0,Kenmore - Washington Street,,4,62018099,50347387-17:45-KenmoreWashingtonStreetNoGLX1
+Shuttle-KenmoreWashington-0-1,Shuttle-KenmoreWashington,1,Washington Street - Kenmore,,4,62018199,50347364-17:45-KenmoreWashingtonStreetNoGLX1
 Shuttle-LittletonWachusett-0-0,Shuttle-LittletonWachusett,0,Littleton/Route 495 - Wachusett,,4,62025099,CR-503059-1403-LittletonWachusettB1
 Shuttle-LittletonWachusett-0-1,Shuttle-LittletonWachusett,1,Wachusett - Littleton/Route 495,,4,62025199,CR-503083-1414-LittletonWachusettB1
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-503633-125-MRRockportB1
