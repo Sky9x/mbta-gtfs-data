@@ -45,11 +45,11 @@ Boat-F1,1,,Hingham/Hull Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F1,008
 19,1,19,Fields Corner Station - Kenmore or Ruggles Station,Local Bus,3,https://www.mbta.com/schedules/19,FFC72C,000000,50190,Local Bus,line-1719,
 21,1,21,Ashmont Station - Forest Hills Station,Local Bus,3,https://www.mbta.com/schedules/21,FFC72C,000000,50210,Local Bus,line-21,
 22,1,22,Ashmont Station - Ruggles Station via Talbot Ave,Key Bus,3,https://www.mbta.com/schedules/22,FFC72C,000000,50220,Local Bus,line-22,
-23,1,23,Ashmont Station - Ruggles Station via Washington Street,Key Bus,3,https://www.mbta.com/schedules/23,FFC72C,000000,50230,Local Bus,line-23,
+23,1,23,Ashmont Station - Ruggles Station via Washington Street,Key Bus,3,https://www.mbta.com/schedules/23,FFC72C,000000,50230,Free,line-23,
 24,1,24,Wakefield Avenue & Truman Parkway - Ashmont Station,Local Bus,3,https://www.mbta.com/schedules/24,FFC72C,000000,50240,Local Bus,line-242733,
 26,1,26,Ashmont Station - Norfolk Street Loop,Local Bus,3,https://www.mbta.com/schedules/26,FFC72C,000000,50260,Local Bus,line-26,
 28,1,28,Mattapan Station - Ruggles Station,Key Bus,3,https://www.mbta.com/schedules/28,FFC72C,000000,50280,Free,line-28,
-29,1,29,Mattapan Station - Jackson Square Station,Local Bus,3,https://www.mbta.com/schedules/29,FFC72C,000000,50290,Local Bus,line-29,
+29,1,29,Mattapan Station - Jackson Square Station,Local Bus,3,https://www.mbta.com/schedules/29,FFC72C,000000,50290,Free,line-29,
 30,1,30,Mattapan Station - Forest Hills Station via Cummins Highway and Roslindale Square,Local Bus,3,https://www.mbta.com/schedules/30,FFC72C,000000,50300,Local Bus,line-30,
 31,1,31,Mattapan Station - Forest Hills Station via Morton Street,Local Bus,3,https://www.mbta.com/schedules/31,FFC72C,000000,50310,Local Bus,line-31,
 32,1,32,Wolcott or Cleary Square - Forest Hills Station,Key Bus,3,https://www.mbta.com/schedules/32,FFC72C,000000,50320,Local Bus,line-32,
@@ -196,7 +196,10 @@ Boat-F1,1,,Hingham/Hull Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F1,008
 714,1,714,"Pemberton Point, Hull - Station Street, Hingham",Local Bus,3,https://www.mbta.com/schedules/714,FFC72C,000000,57140,Local Bus,line-714,
 716,1,716,Cobbs Corner - Mattapan Station,Local Bus,3,https://www.mbta.com/schedules/716,FFC72C,000000,57160,Local Bus,line-716,
 602,1,Green Line Shuttle,Lechmere Station - North Station,Rail Replacement Bus,3,,FFC72C,000000,60200,Free,line-Green,1
+Shuttle-AlewifeHarvard,1,Red Line Shuttle,Alewife - Harvard,Rail Replacement Bus,3,,FFC72C,000000,60220,Free,line-Red,1
 Shuttle-AshmontMattapan,1,Mattapan Line Shuttle,Mattapan - Ashmont,Rail Replacement Bus,3,,FFC72C,000000,60350,Free,line-Mattapan,1
+Shuttle-BeverlyNewburyportExpress,1,Newburyport Line Shuttle,Newburyport - Beverly (Express),Rail Replacement Bus,3,,FFC72C,000000,60690,Free,line-Newburyport,1
+Shuttle-BeverlyNewburyportLocal,1,Newburyport Line Shuttle,Newburyport - Beverly (Local),Rail Replacement Bus,3,,FFC72C,000000,60695,Free,line-Newburyport,1
 Shuttle-BroadwayJFK,1,Red Line Shuttle,JFK/UMass - Broadway,Rail Replacement Bus,3,,FFC72C,000000,61040,Free,line-Red,1
 Shuttle-Generic,1,Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61910,Free,,1
 Shuttle-Generic-Blue,1,Blue Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61911,Free,line-Blue,1
