@@ -18,11 +18,11 @@ Red-3-1_70096_70082_2,Red,1,Broadway - Alewife,,4,10010199,49812867-BroadwayJFK2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,50232129
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,50232127
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,50040418
-Orange-3-0_70030_70022_0,Orange,0,Oak Grove - Sullivan Square,,4,10020099,49812229-SullState0
-Orange-3-0_70030_70022_2,Orange,0,State - Forest Hills,,4,10020099,49812229-SullState2
+Orange-3-0_70030_70014_0,Orange,0,Oak Grove - Sullivan Square,,4,10020099,49812229-BackBaySullivan0
+Orange-3-0_70030_70014_2,Orange,0,Back Bay - Forest Hills,,4,10020099,49812229-BackBaySullivan2
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,50040493
-Orange-3-1_70023_70031_0,Orange,1,Forest Hills - State,,4,10020199,49812230-SullState0
-Orange-3-1_70023_70031_2,Orange,1,Sullivan Square - Oak Grove,,4,10020199,49812230-SullState2
+Orange-3-1_70015_70031_0,Orange,1,Forest Hills - Back Bay,,4,10020199,49812230-BackBaySullivan0
+Orange-3-1_70015_70031_2,Orange,1,Sullivan Square - Oak Grove,,4,10020199,49812230-BackBaySullivan2
 Green-B-812-0,Green-B,0,Government Center - Boston College,,1,10032000,50347336-NoGLX
 Green-B-812-0_70202_70196_2,Green-B,0,Park Street - Boston College,,4,10032099,50293291-GovtCtrParkStNoGLXParkNorth2
 Green-B-812-1,Green-B,1,Boston College - Government Center,,1,10032100,50347335-NoGLX
@@ -30,9 +30,11 @@ Green-B-812-1_70200_70201_0,Green-B,1,Boston College - Park Street,,4,10032199,5
 Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,10033000,50347475-NoGLX
 Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,50347476-NoGLX
 Green-D-851-0,Green-D,0,North Station - Riverside,,1,10034000,50347783-NoGLX
+Green-D-851-0_70151_70161_0,Green-D,0,North Station - Kenmore,,4,10034099,50977301-KenmoreRiversideNoGLX0
 Green-D-851-0_70206_70198_2,Green-D,0,Park Street - Riverside,,4,10034099,50294064-GovtCtrParkStNoGLXParkNorth2
 Green-D-855-0_70504_70206_2,Green-D,0,North Station - Riverside,,4,10034099,50348105-NoGLX2
 Green-D-851-1,Green-D,1,Riverside - North Station,,1,10034100,50347779-NoGLX
+Green-D-851-1_70160_70150_2,Green-D,1,Kenmore - North Station,,4,10034199,50976529-KenmoreRiversideNoGLX2
 Green-D-851-1_70200_70205_0,Green-D,1,Riverside - Park Street,,4,10034199,50293292-GovtCtrParkStNoGLXParkNorth0
 Green-D-855-1_70205_70503_0,Green-D,1,Riverside - North Station,,4,10034199,50348106-NoGLX0
 Green-E-885-0_70504_70206_2,Green-E,0,North Station - Heath Street,,1,10035096,50347000-NoGLX2
@@ -830,6 +832,8 @@ Shuttle-AlewifeHarvard-0-0,Shuttle-AlewifeHarvard,0,Alewife - Harvard,,4,6022009
 Shuttle-AlewifeHarvard-0-1,Shuttle-AlewifeHarvard,1,Harvard - Alewife,,4,60220199,49812695-AlewifeHarvard1
 Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,4,60350099,50933490-AshmontMattapan1
 Shuttle-AshmontMattapan-0-1,Shuttle-AshmontMattapan,1,Mattapan - Ashmont,,4,60350199,50933489-AshmontMattapan1
+Shuttle-BackBaySullivan-0-0,Shuttle-BackBaySullivan,0,Sullivan - Back Bay,,4,60625099,49812229-BackBaySullivan1
+Shuttle-BackBaySullivan-0-1,Shuttle-BackBaySullivan,1,Back Bay - Sullivan,,4,60625199,49812230-BackBaySullivan1
 Shuttle-BeverlyNewburyportExpress-0-0,Shuttle-BeverlyNewburyportExpress,0,Beverly - Newburyport (Express),,4,60690099,CR-521767-117-MRNewbptBevRockport1
 Shuttle-BeverlyNewburyportExpress-0-1,Shuttle-BeverlyNewburyportExpress,1,Newburyport - Beverly (Express),,4,60690199,CR-521574-192-MRNewbptBevRockportB1
 Shuttle-BeverlyNewburyportLocal-0-0,Shuttle-BeverlyNewburyportLocal,0,Beverly - Newburyport (Local),,4,60695099,CR-521779-125-MRNewbptBevRockport1
@@ -838,9 +842,9 @@ Shuttle-BroadwayJFK-0-0,Shuttle-BroadwayJFK,0,Broadway - JFK/UMass,,4,61040099,4
 Shuttle-BroadwayJFK-0-1,Shuttle-BroadwayJFK,1,JFK/UMass - Broadway,,4,61040199,49812695-BroadwayJFK1
 Shuttle-GovernmentCenterLechmere-0-0,Shuttle-GovernmentCenterLechmere,0,Lechmere - Government Center,,4,61943099,50531091-Route602GovernmentCenter1
 Shuttle-GovernmentCenterLechmere-0-1,Shuttle-GovernmentCenterLechmere,1,Government Center - Lechmere,,4,61943199,50531103-Route602GovernmentCenter1
+Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,4,62012099,50977301-KenmoreRiversideNoGLXKenmoreRiverside
+Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,4,62012199,50976529-KenmoreRiversideNoGLXKenmoreRiverside
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-521778-111-MRNewbptBevRockportB1
 Shuttle-ManchesterRockport-0-0,Shuttle-ManchesterRockport,0,Manchester - Rockport,,4,62060099,CR-521778-111-MRNewbptBevRockportC1
 Shuttle-RockportWestGloucester-0-0,Shuttle-RockportWestGloucester,0,West Gloucester - Rockport,,1,62410099,CR-503658-117-MRRockportB1
 Shuttle-RockportWestGloucester-0-1,Shuttle-RockportWestGloucester,1,Rockport - West Gloucester,,1,62410199,CR-503632-100-MRRockportB1
-Shuttle-StateSullivan-0-0,Shuttle-StateSullivan,0,Sullivan - State,,4,62485099,49812229-SullState1
-Shuttle-StateSullivan-0-1,Shuttle-StateSullivan,1,State - Sullivan,,4,62485199,49812230-SullState1
