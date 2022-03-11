@@ -7090,8 +7090,7 @@ place-ER-0208,,North Beverly,,,,42.583779,-70.883851,CR-zone-5,"Enon St and Dodg
 ER-0208,,North Beverly,North Beverly - Commuter Rail,,Commuter Rail,42.583779,-70.883851,CR-zone-5,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,2
 ER-0208-01,,North Beverly,North Beverly - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.583779,-70.883851,CR-zone-5,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,2
 ER-0208-02,,North Beverly,North Beverly - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.583779,-70.883851,CR-zone-5,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,2
-ER-0208-B0,,North Beverly,North Beverly - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.583313,-70.884290,LocalBus,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,3
-ER-0208-B1,,North Beverly,North Beverly - Commuter Rail Boston Shuttle,,Boston Shuttle,42.583264,-70.884463,LocalBus,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,3
+ER-0208-B,,North Beverly,North Beverly - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.583790,-70.883900,LocalBus,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,3
 place-ER-0227,,Hamilton/Wenham,,,,42.609212,-70.874801,CR-zone-5,"Bay Rd and Walnut Rd, Hamilton, MA 01982",https://www.mbta.com/stops/place-ER-0227,,1,,1,Hamilton,,,
 ER-0227-B0,,Hamilton/Wenham,Hamilton/Wenham - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.610143,-70.874955,LocalBus,,https://www.mbta.com/stops/place-ER-0227,,0,place-ER-0227,1,Hamilton,,,3
 ER-0227-B1,,Hamilton/Wenham,Hamilton/Wenham - Commuter Rail Boston Shuttle,,Boston Shuttle,42.610426,-70.874816,LocalBus,,https://www.mbta.com/stops/place-ER-0227,,0,place-ER-0227,1,Hamilton,,,3
@@ -8655,8 +8654,6 @@ place-lech,,Lechmere,,,,42.370772,-71.076536,,"Cambridge St and O'Brien Hwy, Cam
 70210,70210,Lechmere,Lechmere - Green Line - Copley & West,,Copley & West,42.370911,-71.077095,,,https://www.mbta.com/stops/place-lech,level_ground,0,place-lech,1,Cambridge,Cambridge St,First St,
 door-lech-entrance,,Lechmere - Entrance,Lechmere - Entrance,,,42.370914,-71.077483,,,,level_ground,2,place-lech,1,Cambridge,,,
 door-lech-exit,,Lechmere - Exit Only,Lechmere - Exit Only,,,42.371139,-71.077292,,,,level_ground,2,place-lech,1,Cambridge,,,
-node-lech-farepaid,,Lechmere,Lechmere - Paid side of fare gates,,,,,,,,level_ground,3,place-lech,1,Cambridge,,,
-node-lech-fareunpaid,,Lechmere,Lechmere - Unpaid side of fare gates,,,,,,,,level_ground,3,place-lech,1,Cambridge,,,
 place-lngmd,,Longwood Medical Area,,,,42.335960,-71.100052,,"Huntington Ave and Longwood Ave, Boston, MA 02115",https://www.mbta.com/stops/place-lngmd,,1,,1,Boston,,,
 70247,70247,Longwood Medical Area,Longwood Medical Area - Green Line - (E) Heath Street,,Heath Street,42.336080,-71.099883,RapidTransit,,https://www.mbta.com/stops/place-lngmd,level_median,0,place-lngmd,1,Boston,,,0
 70248,70248,Longwood Medical Area,Longwood Medical Area - Green Line - Park Street & North,,Park Street & North,42.336217,-71.099328,RapidTransit,,https://www.mbta.com/stops/place-lngmd,level_median,0,place-lngmd,1,Boston,,,0
