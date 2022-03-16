@@ -1,11 +1,12 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-BUS122-hbb12017-Su-02,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
-BUS122-hbc12017-Su-02,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
-BUS122-hbg12017-Su-02,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
-BUS122-hbl12017-Su-02,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
-BUS122-hbq12017-Su-02,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
-BUS122-hbs12017-Su-02,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
-BUS122-hbt12017-Su-02,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
+BUS122-hbb12016-Sa-02,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+BUS122-hbc12016-Sa-02,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+BUS122-hbg12016-Sa-02,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+BUS122-hbl12016-Sa-02,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+BUS122-hbq12016-Sa-02,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+BUS122-hbs12016-Sa-02,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+BUS122-hbt12sa6-Sa-02,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+BUS122-htn12sa6-Sa-02,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
 BUS222-hba22pt1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
 BUS222-hba22sn1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
 BUS222-hbb22ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
@@ -60,15 +61,16 @@ FLL 21-S-Wdy-1-Sb4,Weekday schedule,Weekday,Weekday,1,20211011,,Fall
 FLL 21-S-Wdy-BIKEADJ1-S8f,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
 FLL 21-S-Wdy-BIKEADJ1-Sb6,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
 FLL 21-S-Wdy-BIKEADJ1-Sc0,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
-LRV122-hlb12017-Su-01,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
-LRV122-hlb21016-Sa-01-5d464e8a,Saturday schedule,Saturday,Saturday,4,20211219,20220312,Winter
-LRV122-hlb21016-Sa-01-NGLX,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
-LRV122-hlm12017-Su-01,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
+LRV122-hlb21016-Sa-01,Saturday schedule,Saturday,Saturday,4,20211219,20220312,Winter
+LRV122-hlm12016-Sa-01,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
 LRV222-hlb22011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
-LRV222-hlb22016-Sa-01-KnrRvdNGLX,Saturday schedule,Saturday,Saturday,4,20220313,20220618,Spring
+LRV222-hlb22011-Wdy-01-NGLX,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
+LRV222-hlb22016-Sa-01,Saturday schedule,Saturday,Saturday,1,20220313,20220618,Spring
+LRV222-hlb22016-Sa-01-KnrRvd,Saturday schedule,Saturday,Saturday,4,20220313,20220618,Spring
 LRV222-hlb22016-Sa-01-NGLX,Saturday schedule,Saturday,Saturday,1,20220313,20220618,Spring
+LRV222-hlb22017-Su-01,Sunday schedule,Sunday,Sunday,1,20220313,20220618,Spring
 LRV222-hlb22017-Su-01-5d464e8a,Sunday schedule,Sunday,Sunday,4,20220313,20220618,Spring
-LRV222-hlb22017-Su-01-KnrRvdNGLX,Sunday schedule,Sunday,Sunday,4,20220313,20220618,Spring
+LRV222-hlb22017-Su-01-KnrRvd,Sunday schedule,Sunday,Sunday,4,20220313,20220618,Spring
 LRV222-hlb22017-Su-01-NGLX,Sunday schedule,Sunday,Sunday,1,20220313,20220618,Spring
 LRV222-hlm22011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
 LRV222-hlm22016-Sa-01,Saturday schedule,Saturday,Saturday,1,20220313,20220618,Spring
@@ -76,25 +78,22 @@ LRV222-hlm22016-Sa-01-AstMtn,Saturday schedule,Saturday,Saturday,4,20220313,2022
 LRV222-hlm22017-Su-01,Sunday schedule,Sunday,Sunday,1,20220313,20220618,Spring
 LRV222-hlm22017-Su-01-AstMtn,Sunday schedule,Sunday,Sunday,4,20220313,20220618,Spring
 MemorialDay,Holiday (Sunday schedule),Holiday,Sunday,3,20220313,20220618,Spring
-PRIV122-hpj12017-Su-01,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
-PRIV122-hpl12016-Sa-01,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
-PRIV122-hpl12016-Sa-01-RttCnr,Saturday schedule,Saturday,Saturday,4,20211219,20220312,Winter
-PRIV122-hpl12017-Su-01,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
-PRIV122-hpp12017-Su-01,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
+PRIV122-hpa12016-Sa-01,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+PRIV122-hpj12016-Sa-01,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+PRIV122-hpl12016-Sa-01,Saturday schedule,Saturday,Saturday,4,20211219,20220312,Winter
+PRIV122-hpp12016-Sa-01,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
 PRIV222-hpa22011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
 PRIV222-hpj22011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
 PRIV222-hpj22017-Su-01,Sunday schedule,Sunday,Sunday,1,20220313,20220618,Spring
 PRIV222-hpl22011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
+PRIV222-hpl22016-Sa-01,Saturday schedule,Saturday,Saturday,1,20220313,20220618,Spring
 PRIV222-hpl22017-Su-01,Sunday schedule,Sunday,Sunday,1,20220313,20220618,Spring
 PRIV222-hpl22017-Su-01-RttCnr,Sunday schedule,Sunday,Sunday,4,20220313,20220618,Spring
 PRIV222-hpp22ns1-Wdy-01,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
-RTL122-hmb12017-Su-01,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
-RTL122-hmo12016-Sa-01,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
-RTL122-hmo12016-Sa-01-BckBSln,Saturday schedule,Saturday,Saturday,4,20211219,20220312,Winter
-RTL122-hmo12017-Su-01,Sunday schedule,Sunday,Sunday,1,20211219,20220312,Winter
-RTL122-hms12016-Sa-01-AlfHrd,Saturday schedule,Saturday,Saturday,4,20211219,20220312,Winter
-RTL122-hms12016-Sa-01-BrwJFK,Saturday schedule,Saturday,Saturday,4,20211219,20220312,Winter
-RTL122-hms12017-Su-01,Sunday schedule,Sunday,Sunday,4,20211219,20220312,Winter
+Parade-Shuttle-Bus,Sunday schedule,Sunday,Sunday,4,20220313,20220619,Spring
+RTL122-hmb12016-Sa-01,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
+RTL122-hmo12016-Sa-01,Saturday schedule,Saturday,Saturday,4,20211219,20220312,Winter
+RTL122-hms12016-Sa-01,Saturday schedule,Saturday,Saturday,4,20211219,20220312,Winter
 RTL222-hmb22011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
 RTL222-hmo22011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
 RTL222-hmo22017-Su-01,Sunday schedule,Sunday,Sunday,1,20220313,20220618,Spring
@@ -107,5 +106,4 @@ RTL222-hms22017-Su-01-AlfHrd,Sunday schedule,Sunday,Sunday,4,20220313,20220618,S
 SpringSaturday,Saturday schedule,Saturday,Saturday,1,20220313,20220618,Spring
 SpringSunday,Sunday schedule,Sunday,Sunday,1,20220313,20220618,Spring
 SpringWeekday,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
-WinterSaturday,Saturday schedule,Saturday,Saturday,1,20211219,20220312,Winter
 WinterWeekday,Weekday schedule,Weekday,Weekday,1,20211219,20220312,Winter
