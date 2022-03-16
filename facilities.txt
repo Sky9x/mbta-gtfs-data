@@ -220,6 +220,10 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 743,743,1,elevator,place-ogmnl,Orange Line platform to paid lobby,Oak Grove Elevator 743 (Orange Line platform to paid lobby),,,,1
 744,744,1,elevator,place-ogmnl,Washington Street to lobby,Oak Grove Elevator 744 (Washington Street to lobby),,,,1
 755,755,1,elevator,place-knncl,Ashmont/Braintree platform to Main Street,Kendall/MIT Elevator 755 (Ashmont/Braintree platform to Main Street),,,,1
+762,762,1,elevator,place-lech,Platform to North First Street lobby,Lechmere Elevator 762 (Platform to North First Street lobby),,,,1
+763,763,1,elevator,place-lech,Platform to North First Street lobby,Lechmere Elevator 763 (Platform to North First Street lobby),,,,1
+764,764,1,elevator,place-lech,Platform to O'Brien Highway lobby,Lechmere Elevator 764 (Platform to O'Brien Highway lobby),,,,1
+771,771,1,elevator,place-unsqu,Platform to Prospect Street,Union Square Elevator 771 (Platform to Prospect Street),,,,1
 800,800,1,elevator,place-ogmnl,"Busway, Commuter Rail, parking lot to lobby","Oak Grove Elevator 800 (Busway, Commuter Rail, parking lot to lobby)",,,,1
 801,801,1,elevator,place-ogmnl,Orange Line platform to paid lobby,Oak Grove Elevator 801 (Orange Line platform to paid lobby),,,,1
 802,802,1,elevator,place-state,"Oak Grove platform to Forest Hills, Wonderland platforms","State Elevator 802 (Oak Grove platform to Forest Hills, Wonderland platforms)",,,,1
@@ -360,7 +364,7 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 978,978,1,elevator,place-pktrm,Copley & West platform to Boston Common,Park Street Elevator 978 (Copley & West platform to Boston Common),,,,1
 979,979,1,elevator,place-pktrm,Red Line center platform to Copley & West platform,Park Street Elevator 979 (Red Line center platform to Copley & West platform),,,,1
 980,980,1,elevator,place-spmnl,Copley & West platform to lobby,Science Park/West End Elevator 980 (Copley & West platform to lobby),,,,1
-981,981,1,elevator,place-spmnl,Lechmere platform to lobby,Science Park/West End Elevator 981 (Lechmere platform to lobby),,,,1
+981,981,1,elevator,place-spmnl,Lechmere & North platform to lobby,Science Park/West End Elevator 981 (Lechmere & North platform to lobby),,,,1
 982,982,1,elevator,place-portr,Lobby to Somerville Avenue & Mass Avenue,Porter Elevator 982 (Lobby to Somerville Avenue & Mass Avenue),,,,1
 983,983,1,elevator,place-portr,Red Line platforms to lobby,Porter Elevator 983 (Red Line platforms to lobby),,,,1
 985,985,1,elevator,place-portr,Lobby to Somerville Avenue,Porter Elevator 985 (Lobby to Somerville Avenue),,,,1
@@ -919,6 +923,16 @@ fvm-201378,,4,fare-vending-machine,place-spmnl,Fare vending machine 201378,Scien
 fvm-201380,,4,fare-vending-machine,place-forhl,Fare vending machine 201380,Forest Hills fare vending machine 201380,,,,0
 fvm-201381,,4,fare-vending-machine,place-forhl,Fare vending machine 201381,Forest Hills fare vending machine 201381,,,,0
 fvm-201382,,4,fare-vending-machine,place-forhl,Fare vending machine 201382,Forest Hills fare vending machine 201382,,,,0
+fvm-201_LCH_0,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_0,Lechmere fare vending machine 201_LCH_0,,42.3716080,-71.0765930,0
+fvm-201_LCH_1,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_1,Lechmere fare vending machine 201_LCH_1,,42.3716080,-71.0765930,0
+fvm-201_LCH_2,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_2,Lechmere fare vending machine 201_LCH_2,,42.3708810,-71.0756390,0
+fvm-201_LCH_3,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_3,Lechmere fare vending machine 201_LCH_3,,42.3708810,-71.0756390,0
+fvm-201_LCH_4,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_4,Lechmere fare vending machine 201_LCH_4,,42.3723740,-71.0775390,0
+fvm-201_LCH_5,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_5,Lechmere fare vending machine 201_LCH_5,,42.3723740,-71.0775390,0
+fvm-201_LCH_6,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_6,Lechmere fare vending machine 201_LCH_6,,42.3721370,-71.0778840,0
+fvm-201_LCH_7,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_7,Lechmere fare vending machine 201_LCH_7,,42.3721370,-71.0778840,0
+fvm-201_USQ_0,,4,fare-vending-machine,place-unsqu,Fare vending machine 201_USQ_0,Union Square fare vending machine 201_USQ_0,,42.3773650,-71.0948100,0
+fvm-201_USQ_1,,4,fare-vending-machine,place-unsqu,Fare vending machine 201_USQ_1,Union Square fare vending machine 201_USQ_1,,42.3773650,-71.0948100,0
 fvm-202001,,4,fare-vending-machine,place-aqucl,Fare vending machine 202001,Aquarium fare vending machine 202001,,,,0
 fvm-202002,,4,fare-vending-machine,place-aqucl,Fare vending machine 202002,Aquarium fare vending machine 202002,,,,0
 fvm-202003,,4,fare-vending-machine,place-aqucl,Fare vending machine 202003,Aquarium fare vending machine 202003,,,,0
@@ -1408,7 +1422,7 @@ portlift-bucen,,2,portable-boarding-lift,place-bucen,Mobile lift (Boston College
 portlift-buest,,2,portable-boarding-lift,place-buest,Mobile lift,Boston University East mobile lift,,,,1
 portlift-clmnl,,2,portable-boarding-lift,place-clmnl,Mobile lift,Cleveland Circle mobile lift,,,,1
 portlift-coecl-0,,2,portable-boarding-lift,place-coecl,Mobile lift (Park Street & North),Copley mobile lift (Park Street & North),,,,1
-portlift-coecl-1,,2,portable-boarding-lift,place-coecl,Mobile lift (Kenmore & West/Heath Street),Copley mobile lift (Kenmore & West/Heath Street),,,,1
+portlift-coecl-1,,2,portable-boarding-lift,place-coecl,"Mobile lift (Kenmore & West, Heath Street)","Copley mobile lift (Kenmore & West, Heath Street)",,,,1
 portlift-cool-0,,2,portable-boarding-lift,place-cool,Mobile lift (Cleveland Circle),Coolidge Corner mobile lift (Cleveland Circle),,,,1
 portlift-cool-1,,2,portable-boarding-lift,place-cool,Mobile lift (Park Street & North),Coolidge Corner mobile lift (Park Street & North),,,,1
 portlift-fenwy,,2,portable-boarding-lift,place-fenwy,Mobile lift (Riverside),Fenway mobile lift (Riverside),,,,1
@@ -1420,13 +1434,15 @@ portlift-harvd-1,,2,portable-boarding-lift,place-harvd,Mobile lift (Boston Colle
 portlift-hsmnl,,2,portable-boarding-lift,place-hsmnl,Mobile lift,Heath Street mobile lift,,,,1
 portlift-kencl,,2,portable-boarding-lift,place-kencl,Mobile lift,Kenmore mobile lift,,,,1
 portlift-lake,,2,portable-boarding-lift,place-lake,Mobile lift,Boston College mobile lift,,,,1
+portlift-lech-0,,2,portable-boarding-lift,place-lech,Mobile lift,Lechmere mobile lift,,,,1
+portlift-lech-1,,2,portable-boarding-lift,place-lech,Mobile lift,Lechmere mobile lift,,,,1
 portlift-lngmd-0,,2,portable-boarding-lift,place-lngmd,Mobile lift (Heath Street),Longwood Medical Area mobile lift (Heath Street),,,,1
 portlift-lngmd-1,,2,portable-boarding-lift,place-lngmd,Mobile lift (Park Street & North),Longwood Medical Area mobile lift (Park Street & North),,,,1
 portlift-mfa,,2,portable-boarding-lift,place-mfa,Mobile lift (Park Street & North),Museum of Fine Arts mobile lift (Park Street & North),,,,1
 portlift-newtn-0,,2,portable-boarding-lift,place-newtn,Mobile lift (Park Street & North),Newton Highlands mobile lift (Park Street & North),,,,1
 portlift-newtn-1,,2,portable-boarding-lift,place-newtn,Mobile lift (Riverside),Newton Highlands mobile lift (Riverside),,,,1
 portlift-newto,,2,portable-boarding-lift,place-newto,Mobile lift (Riverside),Newton Centre mobile lift (Riverside),,,,1
-portlift-north-0,,2,portable-boarding-lift,place-north,Mobile lift (Lechmere),North Station mobile lift (Lechmere),,,,1
+portlift-north-0,,2,portable-boarding-lift,place-north,Mobile lift (Lechmere & North),North Station mobile lift (Lechmere & North),,,,1
 portlift-north-1,,2,portable-boarding-lift,place-north,Mobile lift (Copley & West),North Station mobile lift (Copley & West),,,,1
 portlift-nuniv-0,,2,portable-boarding-lift,place-nuniv,Mobile lift (Heath Street),Northeastern University mobile lift (Heath Street),,,,1
 portlift-nuniv-1,,2,portable-boarding-lift,place-nuniv,Mobile lift (Park Street & North),Northeastern University mobile lift (Park Street & North),,,,1
@@ -1438,6 +1454,8 @@ portlift-river,,2,portable-boarding-lift,place-river,Mobile lift,Riverside mobil
 portlift-rsmnl-0,,2,portable-boarding-lift,place-rsmnl,Mobile lift (Park Street & North),Reservoir mobile lift (Park Street & North),,,,1
 portlift-rsmnl-1,,2,portable-boarding-lift,place-rsmnl,Mobile lift (Riverside),Reservoir mobile lift (Riverside),,,,1
 portlift-smary,,2,portable-boarding-lift,place-smary,Mobile lift (Park Street & North),Saint Mary's Street mobile lift (Park Street & North),,,,1
+portlift-spmnl,,2,portable-boarding-lift,place-spmnl,Mobile lift (Lechmere & North),Science Park/West End mobile lift (Lechmere & North),,,,1
+portlift-unsqu,,2,portable-boarding-lift,place-unsqu,Mobile lift,Union Square mobile lift,,,,1
 portlift-woodl-0,,2,portable-boarding-lift,place-woodl,Mobile lift (Park Street & North),Woodland mobile lift (Park Street & North),,,,1
 portlift-woodl-1,,2,portable-boarding-lift,place-woodl,Mobile lift (Riverside),Woodland mobile lift (Riverside),,,,1
 ramp-Boat-Charlestown,,2,ramp,Boat-Charlestown,Ramp access,Charlestown ramp access,,,,1
@@ -1499,7 +1517,6 @@ retailsale-302031,,4,fare-vending-retailer,,Bay State Food,Bay State Food,,42.34
 retailsale-302035,,4,fare-vending-retailer,,All Checks Cashed,All Checks Cashed,,42.2906973,-71.0719152,0
 retailsale-302036,,4,fare-vending-retailer,,All Checks Cashed,All Checks Cashed,,42.3362610,-71.0862125,0
 retailsale-302037,,4,fare-vending-retailer,,All Checks Cashed,All Checks Cashed,,42.3227069,-71.1016502,0
-retailsale-302038,,4,fare-vending-retailer,,All Checks Cashed,All Checks Cashed,,42.4624564,-70.9653870,0
 retailsale-302039,,4,fare-vending-retailer,,All Checks Cashed,All Checks Cashed,,42.3794997,-71.0958020,0
 retailsale-302041,,4,fare-vending-retailer,,All Checks Cashed,All Checks Cashed,,42.4028324,-71.0536806,0
 retailsale-302043,,4,fare-vending-retailer,,Forest Hills Check Cashing,Forest Hills Check Cashing,,42.3000420,-71.1132852,0
@@ -1730,7 +1747,7 @@ subplat-newto,,2,elevated-subplatform,place-newto,Mini-high platform (Park Stree
 subplat-portr-1,,2,elevated-subplatform,place-portr,Mini-high platform (Commuter Rail - Track 1/Outbound),Porter mini-high platform (Commuter Rail - Track 1/Outbound),,,,1
 subplat-portr-2,,2,elevated-subplatform,place-portr,Mini-high platform (Commuter Rail - Track 2/Boston),Porter mini-high platform (Commuter Rail - Track 2/Boston),,,,1
 subplat-smary,,2,elevated-subplatform,place-smary,Mini-high platform (Cleveland Circle),Saint Mary's Street mini-high platform (Cleveland Circle),,,,1
-subplat-spmnl-0,,2,elevated-subplatform,place-spmnl,Mini-high platform (Lechmere),Science Park/West End mini-high platform (Lechmere),,,,1
+subplat-spmnl-0,,2,elevated-subplatform,place-spmnl,Mini-high platform (Lechmere & North),Science Park/West End mini-high platform (Lechmere & North),,,,1
 subplat-spmnl-1,,2,elevated-subplatform,place-spmnl,Mini-high platform (Copley & West),Science Park/West End mini-high platform (Copley & West),,,,1
 subplat-wascm-0,,2,elevated-subplatform,place-wascm,Mini-high platform (Park Street & North),Washington Street mini-high platform (Park Street & North),,,,1
 subplat-wascm-1,,2,elevated-subplatform,place-wascm,Mini-high platform (Boston College),Washington Street mini-high platform (Boston College),,,,1
