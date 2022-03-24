@@ -6633,6 +6633,10 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9069,9069,Salem St @ Revere St,,,,42.437257,-71.025457,LocalBus,,https://www.mbta.com/stops/9069,,0,,1,Malden,Salem Street,Revere Street,3
 907,907,Tremont St @ Pembroke St,,,,42.352946,-71.176810,LocalBus,,https://www.mbta.com/stops/907,,0,,1,Newton,Tremont Street,Playstead Road,3
 9070,9070,Salem St @ Lynn St,,,,42.436065,-71.021736,LocalBus,,https://www.mbta.com/stops/9070,,0,,1,Malden,Salem Street,Lynn Street,3
+9070019,9070019,Tufts Medical Center/Chinatown,Tufts Medical Center/Chinatown - Orange Line Shuttle - Washington St @ Lagrange St,,North Station Shuttle,42.351187,-71.062852,LocalBus,,https://www.mbta.com/stops/9070019,,0,,1,Boston,Washington Street,Lagrange Street,3
+9070022,9070022,State,State - Orange Line Shuttle - Congress St @ State St,,Orange Line Shuttle,42.359131,-71.056756,LocalBus,,https://www.mbta.com/stops/9070022,,0,,1,Boston,Congress Street,State Street,3
+9070026,9070026,North Station,North Station - Orange Line Shuttle - Haverhill St @ Causeway St,,Orange Line Shuttle,42.365608,-71.060426,LocalBus,,https://www.mbta.com/stops/9070026,,0,,1,Boston,Haverhill Street,Causeway Street,3
+9070043,9070043,Aquarium,Aquarium - Blue Line Shuttle,,Blue Line Shuttle,42.359434,-71.053261,LocalBus,,https://www.mbta.com/stops/9070043,,0,,1,Boston,State Street,McKinley Square,3
 9070150,9070150,Kenmore,Kenmore - Green Line Shuttle,,Green Line Shuttle,42.348712,-71.095526,LocalBus,,https://www.mbta.com/stops/9070150,,0,,1,Boston,,,3
 9070162,9070162,Woodland,Woodland Station - Green Line Shuttle,,Green Line Shuttle,42.332973,-71.243286,LocalBus,,https://www.mbta.com/stops/9070162,,0,,1,Newton,,,3
 9070164,9070164,Waban,Waban Station - Green Line Eastbound Shuttle,,Eastbound Shuttle,42.326601,-71.230560,LocalBus,,https://www.mbta.com/stops/9070164,,0,,1,Newton,,,3
@@ -7267,10 +7271,13 @@ place-NHRML-0055,,West Medford,,,,42.421776,-71.133342,CR-zone-1A,"481 High St, 
 NHRML-0055,,West Medford,West Medford - Commuter Rail,,Commuter Rail,42.421776,-71.133342,CR-zone-1A,,https://www.mbta.com/stops/place-NHRML-0055,,0,place-NHRML-0055,2,Medford,,,2
 NHRML-0055-01,,West Medford,West Medford - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.421776,-71.133342,CR-zone-1A,,https://www.mbta.com/stops/place-NHRML-0055,,0,place-NHRML-0055,2,Medford,,,2
 NHRML-0055-02,,West Medford,West Medford - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.421776,-71.133342,CR-zone-1A,,https://www.mbta.com/stops/place-NHRML-0055,,0,place-NHRML-0055,2,Medford,,,2
+NHRML-0055-B0,,West Medford,West Medford - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.421800,-71.133027,LocalBus,,https://www.mbta.com/stops/place-NHRML-0055,,0,place-NHRML-0055,1,Medford,,,3
+NHRML-0055-B1,,West Medford,West Medford - Commuter Rail Boston Shuttle,,Boston Shuttle,42.421789,-71.133169,LocalBus,,https://www.mbta.com/stops/place-NHRML-0055,,0,place-NHRML-0055,1,Medford,,,3
 place-NHRML-0073,,Wedgemere,,,,42.444948,-71.140169,CR-zone-1,"25 Mystic Valley Pkwy, Winchester, MA 01890",https://www.mbta.com/stops/place-NHRML-0073,,1,,1,Winchester,,,
 NHRML-0073,,Wedgemere,Wedgemere - Commuter Rail,,Commuter Rail,42.444948,-71.140169,CR-zone-1,,https://www.mbta.com/stops/place-NHRML-0073,,0,place-NHRML-0073,1,Winchester,,,2
 NHRML-0073-01,,Wedgemere,Wedgemere - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.444948,-71.140169,CR-zone-1,,https://www.mbta.com/stops/place-NHRML-0073,,0,place-NHRML-0073,1,Winchester,,,2
 NHRML-0073-02,,Wedgemere,Wedgemere - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.444948,-71.140169,CR-zone-1,,https://www.mbta.com/stops/place-NHRML-0073,,0,place-NHRML-0073,1,Winchester,,,2
+NHRML-0073-B,,Wedgemere,Wedgemere - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.444724,-71.140463,LocalBus,,https://www.mbta.com/stops/place-NHRML-0073,,0,place-NHRML-0073,1,Winchester,,,3
 place-NHRML-0078,,Winchester Center,,,,42.451088,-71.137830,CR-zone-1,"29 Waterfield Rd, Winchester, MA 01890",https://www.mbta.com/stops/place-NHRML-0078,,1,,2,Winchester,,,
 NHRML-0078,,Winchester Center,Winchester Center - Commuter Rail,,Commuter Rail,42.451088,-71.137830,CR-zone-1,,https://www.mbta.com/stops/place-NHRML-0078,,0,place-NHRML-0078,2,Winchester,,,2
 NHRML-0078-01,,Winchester Center,Winchester Center - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.451088,-71.137830,CR-zone-1,,https://www.mbta.com/stops/place-NHRML-0078,,0,place-NHRML-0078,2,Winchester,,,2
@@ -7283,6 +7290,7 @@ place-NHRML-0127,,Anderson/Woburn,,,,42.516987,-71.144475,CR-zone-2,"100 Atlanti
 NHRML-0127,,Anderson/Woburn,Anderson/Woburn - Commuter Rail,,Commuter Rail,42.516987,-71.144475,CR-zone-2,,https://www.mbta.com/stops/place-NHRML-0127,,0,place-NHRML-0127,1,Woburn,,,2
 NHRML-0127-01,,Anderson/Woburn,Anderson/Woburn - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.516987,-71.144475,CR-zone-2,,https://www.mbta.com/stops/place-NHRML-0127,,0,place-NHRML-0127,1,Woburn,,,2
 NHRML-0127-02,,Anderson/Woburn,Anderson/Woburn - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.516987,-71.144475,CR-zone-2,,https://www.mbta.com/stops/place-NHRML-0127,,0,place-NHRML-0127,1,Woburn,,,2
+NHRML-0127-B,,Anderson/Woburn,Anderson/Woburn - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.517604,-71.143870,LocalBus,,https://www.mbta.com/stops/place-NHRML-0127,,0,place-NHRML-0127,1,Woburn,,,3
 place-NHRML-0152,,Wilmington,,,,42.546624,-71.174334,CR-zone-3,"405 Main St, Wilmington, MA 01887",https://www.mbta.com/stops/place-NHRML-0152,,1,,1,Wilmington,,,
 NHRML-0152,,Wilmington,Wilmington - Commuter Rail,,Commuter Rail,42.546624,-71.174334,CR-zone-3,,https://www.mbta.com/stops/place-NHRML-0152,,0,place-NHRML-0152,1,Wilmington,,,2
 NHRML-0152-01,,Wilmington,Wilmington - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.546624,-71.174334,CR-zone-3,,https://www.mbta.com/stops/place-NHRML-0152,,0,place-NHRML-0152,1,Wilmington,,,2
@@ -7466,6 +7474,7 @@ place-aport,,Airport,,,,42.374262,-71.030395,,"Transportation Way and Service Rd
 70048,70048,Airport,Airport - Blue Line - Wonderland,,Wonderland,42.374262,-71.030395,RapidTransit,,https://www.mbta.com/stops/place-aport,level_0_platform,0,place-aport,1,Boston,,,1
 7096,7096,Airport,Airport - Silver Line - SL3 Chelsea,B,Chelsea,42.374693,-71.029333,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-aport,level_ground,0,place-aport,1,Boston,Airport Station Bus Access,,3
 7097,7097,Airport,Airport - Silver Line - SL3 South Station,A,South Station,42.374518,-71.029532,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-aport,level_ground,0,place-aport,1,Boston,Airport Station Bus Access,,3
+9070047,9070047,Airport,Airport - Blue Line Shuttle,,Blue Line Shuttle,42.374955,-71.029323,LocalBus,,https://www.mbta.com/stops/place-aport,level_ground,0,place-aport,1,Boston,,,3
 door-aport-bremen,,Airport - Bremen St,Airport - Bremen St,,,42.374553,-71.030306,,,,level_ground,2,place-aport,1,Boston,,,
 door-aport-buses,,"Airport - Buses, Airport","Airport - Buses, Airport",,,42.373984,-71.030031,,,,level_ground,2,place-aport,1,Boston,,,
 node-407-bridge,,Airport,Airport - Top of Escalator 407,,,42.374246,-71.030091,,,,level_1_bridge,3,place-aport,1,Boston,,,
@@ -8589,7 +8598,7 @@ place-lake,,Boston College,,,,42.340081,-71.166769,,"Commonwealth Ave and Lake S
 70107,70107,Boston College,Boston College - Green Line - Exit Only,,Exit Only,42.340240,-71.166849,RapidTransit,,https://www.mbta.com/stops/place-lake,level_ground,0,place-lake,1,Boston,,,0
 place-lech,,Lechmere,,,,42.371572,-71.076584,,"North First St and O'Brien Hwy, Cambridge, MA 02141",https://www.mbta.com/stops/place-lech,,1,,1,Cambridge,,,
 1415,1415,Lechmere,Lechmere - Green Line Shuttle,,Green Line Shuttle,42.370885,-71.077492,LocalBus,,https://www.mbta.com/stops/place-lech,level_ground,0,place-lech,1,Cambridge,Busway,,3
-14150,14150,Lechmere,Lechmere - Busway,,Busway,42.371019,-71.077039,LocalBus,,https://www.mbta.com/stops/place-lech,level_ground,0,place-lech,1,Cambridge,Busway,,3
+14150,14150,Lechmere,Lechmere - Busway,,Busway,42.371019,-71.077039,,,https://www.mbta.com/stops/place-lech,level_ground,0,place-lech,1,Cambridge,Busway,,
 70500,70500,Lechmere,Lechmere - Water St Busway,,Water St Busway,42.371962,-71.077520,LocalBus,,https://www.mbta.com/stops/place-lech,level_ground,0,place-lech,1,Cambridge,,,3
 70501,70501,Lechmere,"Lechmere - Green Line - (D) Union Square, (E) Medford/Tufts",,"Union Square, Medford/Tufts",42.371566,-71.076457,RapidTransit,,https://www.mbta.com/stops/place-lech,level_1_platform,0,place-lech,1,Cambridge,,,0
 70502,70502,Lechmere,Lechmere - Green Line - Copley & West,,Copley & West,42.370989,-71.075860,RapidTransit,,https://www.mbta.com/stops/place-lech,level_1_platform,0,place-lech,1,Cambridge,,,0
@@ -8775,6 +8784,7 @@ BNT-0000-07,,North Station,North Station - Commuter Rail - Track 7,7,Commuter Ra
 BNT-0000-08,,North Station,North Station - Commuter Rail - Track 8,8,Commuter Rail - Track 8,42.366687,-71.062475,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1,Boston,,,2
 BNT-0000-09,,North Station,North Station - Commuter Rail - Track 9,9,Commuter Rail - Track 9,42.366761,-71.062365,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1,Boston,,,2
 BNT-0000-10,,North Station,North Station - Commuter Rail - Track 10,10,Commuter Rail - Track 10,42.366761,-71.062365,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1,Boston,,,2
+BNT-0000-B0,,North Station,North Station - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.365608,-71.060426,LocalBus,,https://www.mbta.com/stops/place-north,,0,place-north,1,Boston,Haverhill Street,Causeway Street,3
 door-north-causewaye,,North Station - Causeway St (Elevator),North Station - Causeway St (Elevator),,,42.365639,-71.060472,,,,level_in_street,2,place-north,1,Boston,,,
 door-north-causeways,,"North Station - Causeway St, Haverhill St","North Station - Causeway St, Haverhill St",,,42.365496,-71.060490,,,,level_in_street,2,place-north,2,Boston,,,
 door-north-crcanal,,"North Station - Causeway St, Canal St","North Station - Causeway St, Canal St",,,42.365975,-71.061759,,,,level_in_street,2,place-north,1,Boston,,,
