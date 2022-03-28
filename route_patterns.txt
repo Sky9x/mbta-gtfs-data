@@ -10,11 +10,11 @@ Red-3-1_70068_70061_0,Red,1,Braintree - Harvard,,4,10010199,50891499-AlewifeHarv
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,50973684
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,50973682
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,51023386
-Orange-3-0_70026_70014_0,Orange,0,Oak Grove - North Station,,4,10020099,51023730-BackBayNorthSta0
-Orange-3-0_70026_70014_2,Orange,0,Back Bay - Forest Hills,,4,10020099,51023730-BackBayNorthSta2
+Orange-3-0_70026_70014_0,Orange,0,Oak Grove - North Station,,4,10020099,51023386-GovNorthShuttle0
+Orange-3-0_70026_70014_2,Orange,0,Back Bay - Forest Hills,,4,10020099,51023386-GovNorthShuttle2
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,51023461
-Orange-3-1_70015_70027_0,Orange,1,Forest Hills - Back Bay,,4,10020199,51023731-BackBayNorthSta0
-Orange-3-1_70015_70027_2,Orange,1,North Station - Oak Grove,,4,10020199,51023731-BackBayNorthSta2
+Orange-3-1_70015_70027_0,Orange,1,Forest Hills - Back Bay,,4,10020199,51023461-GovNorthShuttle0
+Orange-3-1_70015_70027_2,Orange,1,North Station - Oak Grove,,4,10020199,51023461-GovNorthShuttle2
 Green-B-812-0,Green-B,0,Government Center - Boston College,,1,10032000,50974004
 Green-B-812-0_70202_70196_2,Green-B,0,Park Street - Boston College,,4,10032099,50976528-BackBayNorthStaGLEGovtCtrParkStKenmoreRiversideParkNorth2
 Green-B-812-1,Green-B,1,Boston College - Government Center,,1,10032100,50974003
@@ -24,19 +24,21 @@ Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,5097414
 Green-D-851-0,Green-D,0,North Station - Riverside,,1,10034000,50974369
 Green-D-855-0,Green-D,0,Union Square - Riverside,Weekday early mornings only,3,10034004,50974443
 Green-D-851-0_70151_70161_0_70206_70198_2,Green-D,0,Park Street - Kenmore,,4,10034099,50977301-BackBayNorthStaGLEGovtCtrParkStKenmoreRiversideParkNorth02
-Green-D-855-0_70504_70206_2,Green-D,0,North Station - Riverside,,4,10034099,50974443-NoGLX2
+Green-D-851-0_70206_70202_2,Green-D,0,Government Center - Riverside,,4,10034099,50974369-GovNorthShuttle2
+Green-D-855-0_70206_70202_0,Green-D,0,Union Square - North Station,,4,10034099,50974443-GovNorthShuttle0
+Green-D-855-0_70206_70202_2,Green-D,0,Government Center - Riverside,,4,10034099,50974443-GovNorthShuttle2
 Green-D-851-1,Green-D,1,Riverside - North Station,,1,10034100,50974367
 Green-D-855-1,Green-D,1,Riverside - Union Square,Weekday mornings only,3,10034104,50974444
 Green-D-851-1_70160_70150_2_70200_70205_0,Green-D,1,Kenmore - Park Street,,4,10034199,50976529-BackBayNorthStaGLEGovtCtrParkStKenmoreRiversideParkNorth20
-Green-D-855-1_70205_70503_0,Green-D,1,Riverside - North Station,,4,10034199,50974444-NoGLX0
+Green-D-851-1_70201_70205_0,Green-D,1,Riverside - Government Center,,4,10034199,50974367-GovNorthShuttle0
+Green-D-855-1_70201_70205_0,Green-D,1,Riverside - Government Center,,4,10034199,50974444-GovNorthShuttle0
+Green-D-855-1_70201_70205_2,Green-D,1,North Station - Union Square,,4,10034199,50974444-GovNorthShuttle2
 Green-E-885-0,Green-E,0,Union Square - Heath Street,,1,10035000,50973989
-Green-E-885-0_70504_70206_2,Green-E,0,North Station - Heath Street,,1,10035096,50973989-NoGLX2
-Green-E-885-0_70206_70202_0,Green-E,0,Union Square - North Station,,4,10035099,50977445-BackBayNorthStaGLEGovtCtrParkStKenmoreRiversideParkNorth0
-Green-E-885-0_70206_70202_2,Green-E,0,Government Center - Heath Street,,4,10035099,50977445-BackBayNorthStaGLEGovtCtrParkStKenmoreRiversideParkNorth2
+Green-E-885-0_70206_70202_0,Green-E,0,Union Square - North Station,,4,10035099,50973989-GovNorthShuttle0
+Green-E-885-0_70206_70202_2,Green-E,0,Government Center - Heath Street,,4,10035099,50973989-GovNorthShuttle2
 Green-E-885-1,Green-E,1,Heath Street - Union Square,,1,10035100,50973988
-Green-E-885-1_70205_70503_0,Green-E,1,Heath Street - North Station,,1,10035196,50973988-NoGLX0
-Green-E-885-1_70201_70205_0,Green-E,1,Heath Street - Government Center,,4,10035199,50976565-BackBayNorthStaGLEGovtCtrParkStKenmoreRiversideParkNorth0
-Green-E-885-1_70201_70205_2,Green-E,1,North Station - Union Square,,4,10035199,50976565-BackBayNorthStaGLEGovtCtrParkStKenmoreRiversideParkNorth2
+Green-E-885-1_70201_70205_0,Green-E,1,Heath Street - Government Center,,4,10035199,50973988-GovNorthShuttle0
+Green-E-885-1_70201_70205_2,Green-E,1,North Station - Union Square,,4,10035199,50973988-GovNorthShuttle2
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,50982312
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040004,50982535
 Blue-6-0_70047_70838_0,Blue,0,Wonderland - Airport,,4,10040099,50982312-AirportBowdoin0
@@ -135,15 +137,16 @@ CR-Providence-bffb2f0c-1,CR-Providence,1,Providence - South Station,,2,20012106,
 CR-Providence-4f7f6e16-1,CR-Providence,1,Wickford Junction - South Station,,2,20012107,CR-502177-810
 Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-0630-Long-Weekday-Fall-21
 Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,30001100,Boat-F4-0645-Charlestown-Weekday-Fall-21
+Boat-F1-0-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport & Hull,,1,30002000,Boat-F1-1300-Long-Weekday-Spring-22
 Boat-F1-1-0,Boat-F1,0,Long Wharf - Hingham via Hull,,1,30002001,Boat-F1-1100-Long-Weekday-Fall-21
 Boat-F1-2-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,30002002,Boat-F1-0650-Rowes-Weekday-Fall-21
 Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,30002003,Boat-F1-0800-Long-Weekday-Fall-21
-Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,30002004,Boat-F1-1100-Long-Sunday-Summer-22
+Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,30002004,Boat-F1-0910-Long-Weekday-Spring-22
 Boat-F1-5-0,Boat-F1,0,Long Wharf - Hingham via Georges Island & Hull,Summer weekday middays only,1,30002005,Boat-F1-1300-Long-Weekday-Summer-22
 Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,30002006,Boat-F1-0910-Long-Weekday-Fall-21
 Boat-F1-7-0,Boat-F1,0,Long Wharf - Hingham via Georges Island,,2,30002007,Boat-F1-1200-Long-Sunday-Summer-22
 Boat-F1-9-0,Boat-F1,0,Long Wharf - Hull via Logan Airport,,2,30002009,Boat-F1-0625-Long-Weekday-Fall-21
-Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,30002100,Boat-F1-0800-Hingham-Sunday-Summer-22
+Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,30002100,Boat-F1-1300-Hingham-Weekday-Spring-22
 Boat-F1-1-1,Boat-F1,1,Hingham - Long Wharf via Hull,,1,30002101,Boat-F1-0540-Hingham-Weekday-Fall-21
 Boat-F1-2-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,30002102,Boat-F1-0600-Hingham-Weekday-Fall-21
 Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,30002103,Boat-F1-0730-Hull-Weekday-Fall-21
@@ -151,7 +154,7 @@ Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,30002104,Boat-F1
 Boat-F1-5-1,Boat-F1,1,Hingham - Long Wharf via Hull & Georges Island,,1,30002105,Boat-F1-1100-Hingham-Sunday-Summer-22
 Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1000-Hingham-Weekday-Fall-21
 Boat-F1-7-1,Boat-F1,1,Hingham - Long Wharf via Georges Island,,2,30002107,Boat-F1-1000-Hingham-Sunday-Summer-22
-Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Summer weekday middays only,2,30002108,Boat-F1-1200-Hingham-Weekday-Summer-22
+Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Summer weekday middays only,2,30002108,Boat-F1-1000-Hingham-Weekday-Summer-22
 747-_-0,747,0,Ruggles Station - Sullivan Square Station,Weekdays only,1,40020000,51049684
 747-_-1,747,1,Sullivan Square Station - Ruggles Station,Weekdays only,1,40020100,51049685
 708-1-0,708,0,Andrew Station - Ave Louis Pasteur,Weekdays only,1,40030000,51049657
@@ -808,8 +811,6 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140106,51324910
 716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,51324877
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,51324872
-602-1-0,602,0,Lechmere - North Station,,4,60200000,51324971
-602-1-1,602,1,North Station - Lechmere,,4,60200100,51324973
 Shuttle-AirportBowdoinLocal-0-0,Shuttle-AirportBowdoinLocal,0,Airport via Maverick - Government Center via Maverick,,4,60205099,50982312-AirportBowdoinAirportBowdoin
 Shuttle-AirportBowdoinLocal-0-1,Shuttle-AirportBowdoinLocal,1,Government Center via Maverick - Airport via Maverick,,4,60205199,50982363-AirportBowdoinAirportBowdoin
 Shuttle-AirportBowdoinExpress-0-0,Shuttle-AirportBowdoinExpress,0,Airport - Government Center (Express),,4,60210099,50982312-AirportBowdoin01
@@ -818,16 +819,14 @@ Shuttle-AlewifeHarvard-0-0,Shuttle-AlewifeHarvard,0,Alewife - Harvard,,4,6022009
 Shuttle-AlewifeHarvard-0-1,Shuttle-AlewifeHarvard,1,Harvard - Alewife,,4,60220199,50891327-AlewifeHarvard1
 Shuttle-AndersonWoburnNorthStationExpress-0-0,Shuttle-AndersonWoburnNorthStationExpress,0,North Station - Anderson/Woburn (Express),,4,60225099,CR-503089-1317-LowellGLX1AndersonXpress
 Shuttle-AndersonWoburnNorthStationExpress-0-1,Shuttle-AndersonWoburnNorthStationExpress,1,Anderson/Woburn - North Station (Express),,4,60225199,CR-503025-1302-LowellGLX1AndersonXpress
-Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,4,60350099,50933490-AshmontMattapan1
-Shuttle-AshmontMattapan-0-1,Shuttle-AshmontMattapan,1,Mattapan - Ashmont,,4,60350199,50933489-AshmontMattapan1
 Shuttle-BackBayNorthStation-0-0,Shuttle-BackBayNorthStation,0,North Station - Back Bay,,4,60550099,50977445-BackBayNorthStaGLEGovtCtrParkStKenmoreRiversideParkNorth1
 Shuttle-BackBayNorthStation-0-1,Shuttle-BackBayNorthStation,1,Back Bay - North Station,,4,60550199,50976565-BackBayNorthStaGLEGovtCtrParkStKenmoreRiversideParkNorth1
 Shuttle-BeverlyNewburyportExpress-0-0,Shuttle-BeverlyNewburyportExpress,0,Beverly - Newburyport (Express),,4,60690099,CR-521767-117-MRNewbptBevRockport1
 Shuttle-BeverlyNewburyportExpress-0-1,Shuttle-BeverlyNewburyportExpress,1,Newburyport - Beverly (Express),,4,60690199,CR-521574-192-MRNewbptBevRockportB1
 Shuttle-BeverlyNewburyportLocal-0-0,Shuttle-BeverlyNewburyportLocal,0,Beverly - Newburyport (Local),,4,60695099,CR-521779-125-MRNewbptBevRockport1
 Shuttle-BeverlyNewburyportLocal-0-1,Shuttle-BeverlyNewburyportLocal,1,Newburyport - Beverly (Local),,4,60695199,CR-522046-158-MRNewbptBevRockportB1
-Shuttle-EastFirstSouthStation-0-0,Shuttle-EastFirstSouthStation,0,South Station - East First St,,4,61470099,Parade-Shuttle-Bus-0-10:30:00
-Shuttle-EastFirstSouthStation-0-1,Shuttle-EastFirstSouthStation,1,East First St - South Station,,4,61470199,Parade-Shuttle-Bus-1-10:45:00
+Shuttle-GovernmentCenterNorthStation-0-0,Shuttle-GovernmentCenterNorthStation,0,North Station - Government Center,,4,61947099,50973989-GovNorthShuttle1
+Shuttle-GovernmentCenterNorthStation-0-1,Shuttle-GovernmentCenterNorthStation,1,Government Center - North Station,,4,61947199,50973988-GovNorthShuttle1
 Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,4,62012099,50977301-BackBayNorthStaGLEGovtCtrParkStKenmoreRiversideParkNorthKenmoreRiverside
 Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,4,62012199,50976529-BackBayNorthStaGLEGovtCtrParkStKenmoreRiversideParkNorthKenmoreRiverside
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-521778-111-MRNewbptBevRockportB1
