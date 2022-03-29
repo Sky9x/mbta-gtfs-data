@@ -931,16 +931,10 @@ fvm-201378,,4,fare-vending-machine,place-spmnl,Fare vending machine 201378,Scien
 fvm-201380,,4,fare-vending-machine,place-forhl,Fare vending machine 201380,Forest Hills fare vending machine 201380,,,,0
 fvm-201381,,4,fare-vending-machine,place-forhl,Fare vending machine 201381,Forest Hills fare vending machine 201381,,,,0
 fvm-201382,,4,fare-vending-machine,place-forhl,Fare vending machine 201382,Forest Hills fare vending machine 201382,,,,0
-fvm-201_LCH_0,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_0,Lechmere fare vending machine 201_LCH_0,,42.3716080,-71.0765930,0
-fvm-201_LCH_1,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_1,Lechmere fare vending machine 201_LCH_1,,42.3716080,-71.0765930,0
-fvm-201_LCH_2,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_2,Lechmere fare vending machine 201_LCH_2,,42.3708810,-71.0756390,0
-fvm-201_LCH_3,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_3,Lechmere fare vending machine 201_LCH_3,,42.3708810,-71.0756390,0
 fvm-201_LCH_4,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_4,Lechmere fare vending machine 201_LCH_4,,42.3723740,-71.0775390,0
 fvm-201_LCH_5,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_5,Lechmere fare vending machine 201_LCH_5,,42.3723740,-71.0775390,0
 fvm-201_LCH_6,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_6,Lechmere fare vending machine 201_LCH_6,,42.3721370,-71.0778840,0
 fvm-201_LCH_7,,4,fare-vending-machine,place-lech,Fare vending machine 201_LCH_7,Lechmere fare vending machine 201_LCH_7,,42.3721370,-71.0778840,0
-fvm-201_USQ_0,,4,fare-vending-machine,place-unsqu,Fare vending machine 201_USQ_0,Union Square fare vending machine 201_USQ_0,,42.3773650,-71.0948100,0
-fvm-201_USQ_1,,4,fare-vending-machine,place-unsqu,Fare vending machine 201_USQ_1,Union Square fare vending machine 201_USQ_1,,42.3773650,-71.0948100,0
 fvm-202001,,4,fare-vending-machine,place-aqucl,Fare vending machine 202001,Aquarium fare vending machine 202001,,,,0
 fvm-202002,,4,fare-vending-machine,place-aqucl,Fare vending machine 202002,Aquarium fare vending machine 202002,,,,0
 fvm-202003,,4,fare-vending-machine,place-aqucl,Fare vending machine 202003,Aquarium fare vending machine 202003,,,,0
@@ -1133,6 +1127,12 @@ fvm-208002,,4,fare-vending-machine,place-gover,Fare vending machine 208002,Gover
 fvm-208003,,4,fare-vending-machine,place-wlsta,Fare vending machine 208003,Wollaston fare vending machine 208003,,,,0
 fvm-208004,,4,fare-vending-machine,place-wlsta,Fare vending machine 208004,Wollaston fare vending machine 208004,,,,0
 fvm-208005,,4,fare-vending-machine,place-wlsta,Fare vending machine 208005,Wollaston fare vending machine 208005,,,,0
+fvm-223005,,4,fare-vending-machine,place-lech,Fare vending machine 223005,Lechmere fare vending machine 223005,,42.3708810,-71.0756390,0
+fvm-223006,,4,fare-vending-machine,place-lech,Fare vending machine 223006,Lechmere fare vending machine 223006,,42.3708810,-71.0756390,0
+fvm-223007,,4,fare-vending-machine,place-lech,Fare vending machine 223007,Lechmere fare vending machine 223007,,42.3716080,-71.0765930,0
+fvm-223008,,4,fare-vending-machine,place-lech,Fare vending machine 223008,Lechmere fare vending machine 223008,,42.3716080,-71.0765930,0
+fvm-223009,,4,fare-vending-machine,place-unsqu,Fare vending machine 223009,Union Square fare vending machine 223009,,42.3773650,-71.0948100,0
+fvm-223010,,4,fare-vending-machine,place-unsqu,Fare vending machine 223010,Union Square fare vending machine 223010,,42.3773650,-71.0948100,0
 highlevel-DB-2222-1,,2,fully-elevated-platform,place-DB-2222,High-level platform (Track 1/Outbound),Blue Hill Avenue high-level platform (Track 1/Outbound),,,,1
 highlevel-DB-2222-2,,2,fully-elevated-platform,place-DB-2222,High-level platform (Track 2/South Station),Blue Hill Avenue high-level platform (Track 2/South Station),,,,1
 highlevel-DB-2230-1,,2,fully-elevated-platform,place-DB-2230,High-level platform (Track 1/Outbound),Morton Street high-level platform (Track 1/Outbound),,,,1
@@ -1442,8 +1442,8 @@ portlift-harvd-1,,2,portable-boarding-lift,place-harvd,Mobile lift (Boston Colle
 portlift-hsmnl,,2,portable-boarding-lift,place-hsmnl,Mobile lift,Heath Street mobile lift,,,,1
 portlift-kencl,,2,portable-boarding-lift,place-kencl,Mobile lift,Kenmore mobile lift,,,,1
 portlift-lake,,2,portable-boarding-lift,place-lake,Mobile lift,Boston College mobile lift,,,,1
-portlift-lech-0,,2,portable-boarding-lift,place-lech,Mobile lift,Lechmere mobile lift,,,,1
-portlift-lech-1,,2,portable-boarding-lift,place-lech,Mobile lift,Lechmere mobile lift,,,,1
+portlift-lech-0,,2,portable-boarding-lift,place-lech,Mobile lift,Lechmere mobile lift,,42.3713400,-71.0762070,1
+portlift-lech-1,,2,portable-boarding-lift,place-lech,Mobile lift,Lechmere mobile lift,,42.3710720,-71.0758970,1
 portlift-lngmd-0,,2,portable-boarding-lift,place-lngmd,Mobile lift (Heath Street),Longwood Medical Area mobile lift (Heath Street),,,,1
 portlift-lngmd-1,,2,portable-boarding-lift,place-lngmd,Mobile lift (Park Street & North),Longwood Medical Area mobile lift (Park Street & North),,,,1
 portlift-mfa,,2,portable-boarding-lift,place-mfa,Mobile lift (Park Street & North),Museum of Fine Arts mobile lift (Park Street & North),,,,1
@@ -1462,8 +1462,8 @@ portlift-river,,2,portable-boarding-lift,place-river,Mobile lift,Riverside mobil
 portlift-rsmnl-0,,2,portable-boarding-lift,place-rsmnl,Mobile lift (Park Street & North),Reservoir mobile lift (Park Street & North),,,,1
 portlift-rsmnl-1,,2,portable-boarding-lift,place-rsmnl,Mobile lift (Riverside),Reservoir mobile lift (Riverside),,,,1
 portlift-smary,,2,portable-boarding-lift,place-smary,Mobile lift (Park Street & North),Saint Mary's Street mobile lift (Park Street & North),,,,1
-portlift-spmnl,,2,portable-boarding-lift,place-spmnl,Mobile lift (Lechmere & North),Science Park/West End mobile lift (Lechmere & North),,,,1
-portlift-unsqu,,2,portable-boarding-lift,place-unsqu,Mobile lift,Union Square mobile lift,,,,1
+portlift-spmnl,,2,portable-boarding-lift,place-spmnl,Mobile lift (Lechmere & North),Science Park/West End mobile lift (Lechmere & North),,42.3666730,-71.0675360,1
+portlift-unsqu,,2,portable-boarding-lift,place-unsqu,Mobile lift,Union Square mobile lift,,42.3770150,-71.0939940,1
 portlift-woodl-0,,2,portable-boarding-lift,place-woodl,Mobile lift (Park Street & North),Woodland mobile lift (Park Street & North),,,,1
 portlift-woodl-1,,2,portable-boarding-lift,place-woodl,Mobile lift (Riverside),Woodland mobile lift (Riverside),,,,1
 ramp-Boat-Charlestown,,2,ramp,Boat-Charlestown,Ramp access,Charlestown ramp access,,,,1
