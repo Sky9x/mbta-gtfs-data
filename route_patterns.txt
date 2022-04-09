@@ -100,22 +100,22 @@ CR-Needham-31ea698c-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,C
 CR-Newburyport-76fa2c91-0,CR-Newburyport,0,North Station - Newburyport,,1,20011000,CR-503368-145-MRRockport
 CR-Newburyport-adde8a7c-0,CR-Newburyport,0,North Station - Manchester,,1,20011001,CR-A521782-123-MRNewbptSlmRockport
 CR-Newburyport-23488827-0,CR-Newburyport,0,North Station - Beverly,,2,20011003,CR-A522050-191-MRNewbptSlmRockport
-CR-Newburyport-9fc94546-0,CR-Newburyport,0,North Station - Salem,,2,20011004,CR-A522053-149-MRNewbptSlmRockport
+CR-Newburyport-9fc94546-0,CR-Newburyport,0,North Station - Salem,,2,20011004,CR-523140-165-MRNewbptRkptSlmRockport0
+CR-Newburyport-b691bdaf-0,CR-Newburyport,0,North Station - Salem,,2,20011005,CR-523194-103-MRNewbptRkptSlmRockport0
 CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011007,CR-503363-167-MRRockport
 CR-Newburyport-cb740ab0-0,CR-Newburyport,0,North Station - West Gloucester,,2,20011008,CR-A521767-117-MRNewbptSlmRockport
 CR-Newburyport-98fe3d94-0,CR-Newburyport,0,North Station - Beverly,,2,20011009,CR-A521780-103-MRNewbptSlmRockport
 CR-Newburyport-41467013-0,CR-Newburyport,0,North Station - Newburyport,,2,20011010,CR-503365-141-MRRockport
 CR-Newburyport-4444b78b-0,CR-Newburyport,0,North Station - Manchester,,2,20011011,CR-A521778-111-MRNewbptSlmRockport
-CR-Newburyport-e87ba9d3-0,CR-Newburyport,0,North Station - Beverly,,2,20011012,CR-522049-161-MRNewbptBevRockport
-CR-Newburyport-e4feaecd-0,CR-Newburyport,0,North Station - Salem,,2,20011013,CR-A522049-161-MRNewbptSlmRockport
+CR-Newburyport-e4feaecd-0,CR-Newburyport,0,North Station - Salem,,2,20011013,CR-523144-153-MRNewbptRkptSlmRockport0
 CR-Newburyport-173cb7ae-1,CR-Newburyport,1,West Gloucester - North Station,,1,20011100,CR-A521756-106-MRNewbptSlmRockport
 CR-Newburyport-ff47d622-1,CR-Newburyport,1,Newburyport - North Station,,1,20011101,CR-503367-150-MRRockport
 CR-Newburyport-6c947f8b-1,CR-Newburyport,1,Beverly - North Station,,2,20011102,CR-A521574-192-MRNewbptSlmRockport
-CR-Newburyport-2487f081-1,CR-Newburyport,1,Salem - North Station,,2,20011103,CR-A522047-152-MRNewbptSlmRockport
+CR-Newburyport-2487f081-1,CR-Newburyport,1,Salem - North Station,,2,20011103,CR-523147-192-MRNewbptRkptSlmRockport2
 CR-Newburyport-bcb24456-1,CR-Newburyport,1,West Gloucester - North Station,,2,20011104,CR-A521751-100-MRNewbptSlmRockport
 CR-Newburyport-752605f8-1,CR-Newburyport,1,Newburyport - North Station,,2,20011105,CR-503364-140-MRRockport
 CR-Newburyport-f0909b4e-1,CR-Newburyport,1,Beverly - North Station,,2,20011106,CR-A521571-198-MRNewbptSlmRockport
-CR-Newburyport-a5611c8c-1,CR-Newburyport,1,Salem - North Station,,2,20011107,CR-A522046-158-MRNewbptSlmRockport
+CR-Newburyport-a5611c8c-1,CR-Newburyport,1,Salem - North Station,,2,20011107,CR-523139-164-MRNewbptRkptSlmRockport2
 CR-Providence-d29e0167-0,CR-Providence,0,South Station - Stoughton,,1,20012000,CR-500852-877
 CR-Providence-55a1868e-0,CR-Providence,0,South Station - Wickford Junction,,1,20012001,CR-500858-803
 CR-Providence-cfcbef70-0,CR-Providence,0,South Station - Providence,,2,20012002,CR-501048-813
@@ -814,20 +814,16 @@ Shuttle-AndersonWoburnNorthStationExpress-0-0,Shuttle-AndersonWoburnNorthStation
 Shuttle-AndersonWoburnNorthStationExpress-0-1,Shuttle-AndersonWoburnNorthStationExpress,1,Anderson/Woburn - North Station (Express),,4,60225199,CR-503025-1302-LowellGLX1AndersonXpress
 Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,4,60350099,50933490-AshmontMattapan1
 Shuttle-AshmontMattapan-0-1,Shuttle-AshmontMattapan,1,Mattapan - Ashmont,,4,60350199,50933489-AshmontMattapan1
-Shuttle-BeverlyNewburyportExpress-0-0,Shuttle-BeverlyNewburyportExpress,0,Beverly - Newburyport (Express),,4,60690099,CR-521767-117-MRNewbptBevRockport1
-Shuttle-BeverlyNewburyportExpress-0-1,Shuttle-BeverlyNewburyportExpress,1,Newburyport - Beverly (Express),,4,60690199,CR-521574-192-MRNewbptBevRockportB1
-Shuttle-BeverlyNewburyportLocal-0-0,Shuttle-BeverlyNewburyportLocal,0,Beverly - Newburyport (Local),,4,60695099,CR-521779-125-MRNewbptBevRockport1
-Shuttle-BeverlyNewburyportLocal-0-1,Shuttle-BeverlyNewburyportLocal,1,Newburyport - Beverly (Local),,4,60695199,CR-522046-158-MRNewbptBevRockportB1
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-A521778-111-MRNewbptSlmRockportB1
 Shuttle-ManchesterRockport-0-0,Shuttle-ManchesterRockport,0,Manchester - Rockport,,4,62060099,CR-A521778-111-MRNewbptSlmRockportC1
 Shuttle-NewburyportOakGroveExpress-0-0,Shuttle-NewburyportOakGroveExpress,0,Oak Grove - Newburyport,,4,62070099,CR-OakGroveAprilShuttle-Saturday-XNew-0-06:30:00
 Shuttle-NewburyportOakGroveExpress-0-1,Shuttle-NewburyportOakGroveExpress,1,Newburyport - Oak Grove,,4,62070199,CR-OakGroveAprilShuttle-Saturday-XNew-1-05:05:00
 Shuttle-NewburyportOakGroveLimited-0-0,Shuttle-NewburyportOakGroveLimited,0,Oak Grove - Newburyport,,4,62071099,CR-OakGroveAprilShuttle-Saturday-LNew-0-06:00:00
 Shuttle-NewburyportOakGroveLimited-0-1,Shuttle-NewburyportOakGroveLimited,1,Newburyport - Oak Grove,,4,62071199,CR-OakGroveAprilShuttle-Saturday-LNew-1-03:35:00
-Shuttle-NewburyportSalemExpress-0-0,Shuttle-NewburyportSalemExpress,0,Salem - Newburyport (Express),,4,62075099,CR-A521767-117-MRNewbptSlmRockport1
-Shuttle-NewburyportSalemExpress-0-1,Shuttle-NewburyportSalemExpress,1,Newburyport - Salem (Express),,4,62075199,CR-A521574-192-MRNewbptSlmRockport1
-Shuttle-NewburyportSalemLocal-0-0,Shuttle-NewburyportSalemLocal,0,Salem - Newburyport (Local),,4,62076099,CR-A521779-125-MRNewbptSlmRockport1
-Shuttle-NewburyportSalemLocal-0-1,Shuttle-NewburyportSalemLocal,1,Newburyport - Salem (Local),,4,62076199,CR-A522046-158-MRNewbptSlmRockportB1
+Shuttle-NewburyportSalemExpress-0-0,Shuttle-NewburyportSalemExpress,0,Salem - Newburyport (Express),,4,62075099,CR-523148-147-MRNewbptRkptSlmRockportBXN1
+Shuttle-NewburyportSalemExpress-0-1,Shuttle-NewburyportSalemExpress,1,Newburyport - Salem (Express),,4,62075199,CR-523147-192-MRNewbptRkptSlmRockportBXN1
+Shuttle-NewburyportSalemLocal-0-0,Shuttle-NewburyportSalemLocal,0,Salem - Newburyport (Local),,4,62076099,CR-523140-165-MRNewbptRkptSlmRockportBLN1
+Shuttle-NewburyportSalemLocal-0-1,Shuttle-NewburyportSalemLocal,1,Newburyport - Salem (Local),,4,62076199,CR-523139-164-MRNewbptRkptSlmRockportBLN1
 Shuttle-NewtonHighlandsRiverside-0-0,Shuttle-NewtonHighlandsRiverside,0,Newton Highlands - Riverside,,4,62100099,50977301-NewtonHighlandsRiverside1
 Shuttle-NewtonHighlandsRiverside-0-1,Shuttle-NewtonHighlandsRiverside,1,Riverside - Newton Highlands,,4,62100199,50976529-NewtonHighlandsRiverside1
 Shuttle-OakGroveRockportExpress-0-0,Shuttle-OakGroveRockportExpress,0,Oak Grove - Rockport,,4,62185099,CR-OakGroveAprilShuttle-Saturday-XRoc-0-06:30:00
@@ -840,5 +836,9 @@ Shuttle-AndersonWoburnNorthStationLocal-0-0,Shuttle-AndersonWoburnNorthStationLo
 Shuttle-AndersonWoburnNorthStationLocal-0-1,Shuttle-AndersonWoburnNorthStationLocal,1,Anderson/Woburn - North Station (Local),,4,62230199,CR-503025-1302-LowellGLX1AndersonLocal
 Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,50977301-ReservoirRiverside1
 Shuttle-ReservoirRiverside-0-1,Shuttle-ReservoirRiverside,1,Riverside - Reservoir,,4,62400199,50976529-ReservoirRiverside1
+Shuttle-RockportSalemExpress-0-0,Shuttle-RockportSalemExpress,0,Salem - Rockport (Express),,4,62405099,CR-523148-147-MRNewbptRkptSlmRockportBXR1
+Shuttle-RockportSalemExpress-0-1,Shuttle-RockportSalemExpress,1,Rockport - Salem (Express),,4,62405199,CR-523147-192-MRNewbptRkptSlmRockportBXR1
+Shuttle-RockportSalemLocal-0-0,Shuttle-RockportSalemLocal,0,Salem - Rockport (Local),,4,62406099,CR-523140-165-MRNewbptRkptSlmRockportBLR1
+Shuttle-RockportSalemLocal-0-1,Shuttle-RockportSalemLocal,1,Rockport - Salem (Local),,4,62406199,CR-523139-164-MRNewbptRkptSlmRockportBLR1
 Shuttle-RockportWestGloucester-0-0,Shuttle-RockportWestGloucester,0,West Gloucester - Rockport,,1,62410099,CR-503658-117-MRRockportB1
 Shuttle-RockportWestGloucester-0-1,Shuttle-RockportWestGloucester,1,Rockport - West Gloucester,,1,62410199,CR-503632-100-MRRockportB1
