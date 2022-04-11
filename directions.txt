@@ -391,6 +391,10 @@ Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
 714,1,Inbound,"Station Street, Hingham"
 716,0,Outbound,Cobbs Corner
 716,1,Inbound,Mattapan Station
+Shuttle-AirportGovernmentCenterExpress,0,West,Bowdoin
+Shuttle-AirportGovernmentCenterExpress,1,East,Wonderland
+Shuttle-AirportGovernmentCenterLocalViaGate,0,West,Bowdoin
+Shuttle-AirportGovernmentCenterLocalViaGate,1,East,Wonderland
 Shuttle-AlewifeHarvard,0,South,Ashmont/Braintree
 Shuttle-AlewifeHarvard,1,North,Alewife
 Shuttle-AndersonWoburnNorthStationExpress,0,Outbound,Lowell
@@ -415,6 +419,8 @@ Shuttle-OakGroveRockportLimited,0,Outbound,Rockport
 Shuttle-OakGroveRockportLimited,1,Inbound,North Station
 Shuttle-OakGroveSalemLocal,0,Outbound,Newburyport or Rockport
 Shuttle-OakGroveSalemLocal,1,Inbound,North Station
+Shuttle-OrientHeightsWonderland,0,West,Bowdoin
+Shuttle-OrientHeightsWonderland,1,East,Wonderland
 Shuttle-ReservoirRiverside,0,West,Riverside
 Shuttle-ReservoirRiverside,1,East,Government Center
 Shuttle-RockportSalemExpress,0,Outbound,Rockport
