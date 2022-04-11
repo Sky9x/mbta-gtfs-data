@@ -37,7 +37,12 @@ Green-E-885-1_70201_70205_0,Green-E,1,Heath Street - Government Center,,4,100351
 Green-E-885-1_70201_70205_2,Green-E,1,North Station - Union Square,,4,10035199,50973988-GovtCtrNorthSta2
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,50982312
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040004,50982535
+Blue-6-0_70047_70838_0,Blue,0,Wonderland - Airport,,4,10040099,50982312-AirportBowdoinViaGate0
+Blue-6-0_70059_70051_2,Blue,0,Orient Heights - Bowdoin,,4,10040099,50982312-OrientHeightsWonderland2
+Blue-8-0_70047_70838_0,Blue,0,Orient Heights - Airport,,4,10040099,50982535-AirportBowdoinViaGate0
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,50982363
+Blue-6-1_70038_70048_2,Blue,1,Airport - Wonderland,,4,10040199,50982363-AirportBowdoinViaGate2
+Blue-6-1_70052_70060_0,Blue,1,Bowdoin - Orient Heights,,4,10040199,50982363-OrientHeightsWonderland0
 741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,51272686
 741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051100,51272692
 741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Late nights only,3,10051104,51272900
@@ -808,6 +813,10 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140106,51324910
 716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,51324877
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,51324872
+Shuttle-AirportGovernmentCenterExpress-0-0,Shuttle-AirportGovernmentCenterExpress,0,Airport - Government Center (Express),,4,60205099,50982312-AirportBowdoinViaGate01
+Shuttle-AirportGovernmentCenterExpress-0-1,Shuttle-AirportGovernmentCenterExpress,1,Government Center - Airport (Express),,4,60205199,50982363-AirportBowdoinViaGate21
+Shuttle-AirportGovernmentCenterLocalViaGate-0-0,Shuttle-AirportGovernmentCenterLocalViaGate,0,Airport via Maverick - Government Center via Maverick,,4,60209099,50982312-AirportBowdoinViaGateAirportBowdoinViaGate
+Shuttle-AirportGovernmentCenterLocalViaGate-0-1,Shuttle-AirportGovernmentCenterLocalViaGate,1,Government Center via Maverick - Airport via Maverick,,4,60209199,50982363-AirportBowdoinViaGateAirportBowdoinViaGate
 Shuttle-AlewifeHarvard-0-0,Shuttle-AlewifeHarvard,0,Alewife - Harvard,,4,60220099,50891413-AlewifeHarvard1
 Shuttle-AlewifeHarvard-0-1,Shuttle-AlewifeHarvard,1,Harvard - Alewife,,4,60220199,50891327-AlewifeHarvard1
 Shuttle-AndersonWoburnNorthStationExpress-0-0,Shuttle-AndersonWoburnNorthStationExpress,0,North Station - Anderson/Woburn (Express),,4,60225099,CR-503089-1317-LowellGLX1AndersonXpress
@@ -834,6 +843,8 @@ Shuttle-OakGroveSalemLocal-0-0,Shuttle-OakGroveSalemLocal,0,Oak Grove - Salem,,4
 Shuttle-OakGroveSalemLocal-0-1,Shuttle-OakGroveSalemLocal,1,Salem - Oak Grove,,4,62190199,CR-OakGroveAprilShuttle-Saturday-LSal-1-04:45:00
 Shuttle-AndersonWoburnNorthStationLocal-0-0,Shuttle-AndersonWoburnNorthStationLocal,0,North Station - Anderson/Woburn (Local),,4,62230099,CR-503089-1317-LowellGLX1AndersonLocal
 Shuttle-AndersonWoburnNorthStationLocal-0-1,Shuttle-AndersonWoburnNorthStationLocal,1,Anderson/Woburn - North Station (Local),,4,62230199,CR-503025-1302-LowellGLX1AndersonLocal
+Shuttle-OrientHeightsWonderland-0-0,Shuttle-OrientHeightsWonderland,0,Wonderland - Orient Heights,,4,62350099,50982312-OrientHeightsWonderland1
+Shuttle-OrientHeightsWonderland-0-1,Shuttle-OrientHeightsWonderland,1,Orient Heights - Wonderland,,4,62350199,50982363-OrientHeightsWonderland1
 Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,50977301-ReservoirRiverside1
 Shuttle-ReservoirRiverside-0-1,Shuttle-ReservoirRiverside,1,Riverside - Reservoir,,4,62400199,50976529-ReservoirRiverside1
 Shuttle-RockportSalemExpress-0-0,Shuttle-RockportSalemExpress,0,Salem - Rockport (Express),,4,62405099,CR-523148-147-MRNewbptRkptSlmRockportBXR1
