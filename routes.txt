@@ -28,6 +28,7 @@ CR-Providence,1,,Providence/Stoughton Line,Commuter Rail,2,https://www.mbta.com/
 CR-Foxboro,1,,Foxboro Event Service,Commuter Rail,2,https://www.mbta.com/schedules/CR-Foxboro,80276C,FFFFFF,20013,Commuter Rail,line-Foxboro,
 Boat-F4,1,,Charlestown Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F4,008EAA,FFFFFF,30001,Ferry,line-Boat-F4,
 Boat-F1,1,,Hingham/Hull Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F1,008EAA,FFFFFF,30002,Ferry,line-Boat-F1,
+Boat-EastBoston,1,,East Boston Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-EastBoston,008EAA,FFFFFF,30005,Free,line-Blue,1
 747,1,CT2,Sullivan Square Station - Ruggles Station,Local Bus,3,https://www.mbta.com/schedules/747,FFC72C,000000,40020,Local Bus,line-747,
 708,1,CT3,Beth Israel Deaconess Hospital - Andrew Station,Local Bus,3,https://www.mbta.com/schedules/708,FFC72C,000000,40030,Local Bus,line-171708,
 1,1,1,Harvard Square - Nubian Station,Key Bus,3,https://www.mbta.com/schedules/1,FFC72C,000000,50010,Local Bus,line-1,
@@ -195,8 +196,10 @@ Boat-F1,1,,Hingham/Hull Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F1,008
 713,1,713,Point Shirley - Orient Heights Station via Winthrop Center,Local Bus,3,https://www.mbta.com/schedules/713,FFC72C,000000,57130,Local Bus,line-712713,
 714,1,714,"Pemberton Point, Hull - Station Street, Hingham",Local Bus,3,https://www.mbta.com/schedules/714,FFC72C,000000,57140,Local Bus,line-714,
 716,1,716,Cobbs Corner - Mattapan Station,Local Bus,3,https://www.mbta.com/schedules/716,FFC72C,000000,57160,Local Bus,line-716,
+Shuttle-AirportGovernmentCenterExpress,1,Blue Line Shuttle,Airport - Government Center (Express),Rail Replacement Bus,3,,FFC72C,000000,60205,Free,line-Blue,1
 Shuttle-AirportGovernmentCenterLocalViaGate,1,Blue Line Shuttle,Airport - Government Center via Maverick,Rail Replacement Bus,3,,FFC72C,000000,60209,Free,line-Blue,1
-Shuttle-AlewifeHarvard,1,Red Line Shuttle,Alewife - Harvard,Rail Replacement Bus,3,,FFC72C,000000,60220,Free,line-Red,1
+Shuttle-AlewifeHarvard,1,Red Line Shuttle,Alewife - Harvard,Rail Replacement Bus,3,,FFC72C,000000,60219,Free,line-Red,1
+Shuttle-AlewifeKendall,1,Red Line Shuttle,Alewife - Kendall/MIT,Rail Replacement Bus,3,,FFC72C,000000,60220,Free,line-Red,1
 Shuttle-AndersonWoburnNorthStationExpress,1,Lowell Line Shuttle,Anderson/Woburn - North Station (Express),Rail Replacement Bus,3,,FFC72C,000000,60225,Free,line-Lowell,1
 Shuttle-AshmontMattapan,1,Mattapan Line Shuttle,Mattapan - Ashmont,Rail Replacement Bus,3,,FFC72C,000000,60350,Free,line-Mattapan,1
 Shuttle-Generic,1,Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61910,Free,,1

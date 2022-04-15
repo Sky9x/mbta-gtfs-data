@@ -2,11 +2,15 @@ route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_des
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,50890602
 Red-3-0,Red,0,Alewife - Braintree,,1,10010005,50890817
 Red-1-0_70061_70067_2,Red,0,Harvard - Ashmont,,4,10010099,50891413-AlewifeHarvard2
+Red-1-0_70061_70071_2,Red,0,Kendall/MIT - Ashmont,,4,10010099,50891413-AlewifeKendall2
 Red-3-0_70061_70067_2,Red,0,Harvard - Braintree,,4,10010099,50891584-AlewifeHarvard2
+Red-3-0_70061_70071_2,Red,0,Kendall/MIT - Braintree,,4,10010099,50891584-AlewifeKendall2
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010104,50890494
 Red-3-1,Red,1,Braintree - Alewife,,1,10010105,50890710
 Red-1-1_70068_70061_0,Red,1,Ashmont - Harvard,,4,10010199,50891327-AlewifeHarvard0
+Red-1-1_70072_70061_0,Red,1,Ashmont - Kendall/MIT,,4,10010199,50891327-AlewifeKendall0
 Red-3-1_70068_70061_0,Red,1,Braintree - Harvard,,4,10010199,50891499-AlewifeHarvard0
+Red-3-1_70072_70061_0,Red,1,Braintree - Kendall/MIT,,4,10010199,50891499-AlewifeKendall0
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,50973684
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,50973682
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,51023386
@@ -157,6 +161,8 @@ Boat-F1-5-1,Boat-F1,1,Hingham - Long Wharf via Hull & Georges Island,,1,30002105
 Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-Weekday-Spring-22
 Boat-F1-7-1,Boat-F1,1,Hingham - Long Wharf via Georges Island,,2,30002107,Boat-F1-1000-Hingham-Sunday-Summer-22
 Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Summer weekday middays only,2,30002108,Boat-F1-1000-Hingham-Weekday-Summer-22
+Boat-EastBoston-0-0,Boat-EastBoston,0,Long Wharf - Lewis Wharf,,4,30005099,EastBostonFerry-Weekday-0-06:20:00
+Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Wharf - Long Wharf,,4,30005199,EastBostonFerry-Weekday-1-06:00:00
 747-_-0,747,0,Ruggles Station - Sullivan Square Station,Weekdays only,1,40020000,51049684
 747-_-1,747,1,Sullivan Square Station - Ruggles Station,Weekdays only,1,40020100,51049685
 708-1-0,708,0,Andrew Station - Ave Louis Pasteur,Weekdays only,1,40030000,51049657
@@ -813,10 +819,14 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140106,51324910
 716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,51324877
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,51324872
+Shuttle-AirportGovernmentCenterExpress-0-0,Shuttle-AirportGovernmentCenterExpress,0,Airport - Government Center (Express),,4,60205099,50982312-AirportBowdoinViaGate01
+Shuttle-AirportGovernmentCenterExpress-0-1,Shuttle-AirportGovernmentCenterExpress,1,Government Center - Airport (Express),,4,60205199,50982363-AirportBowdoinViaGate21
 Shuttle-AirportGovernmentCenterLocalViaGate-0-0,Shuttle-AirportGovernmentCenterLocalViaGate,0,Airport via Maverick - Government Center via Maverick,,4,60209099,50982312-AirportBowdoinViaGateAirportBowdoinViaGate
 Shuttle-AirportGovernmentCenterLocalViaGate-0-1,Shuttle-AirportGovernmentCenterLocalViaGate,1,Government Center via Maverick - Airport via Maverick,,4,60209199,50982363-AirportBowdoinViaGateAirportBowdoinViaGate
-Shuttle-AlewifeHarvard-0-0,Shuttle-AlewifeHarvard,0,Alewife - Harvard,,4,60220099,50891413-AlewifeHarvard1
-Shuttle-AlewifeHarvard-0-1,Shuttle-AlewifeHarvard,1,Harvard - Alewife,,4,60220199,50891327-AlewifeHarvard1
+Shuttle-AlewifeHarvard-0-0,Shuttle-AlewifeHarvard,0,Alewife - Harvard,,4,60219099,50891413-AlewifeHarvard1
+Shuttle-AlewifeHarvard-0-1,Shuttle-AlewifeHarvard,1,Harvard - Alewife,,4,60219199,50891327-AlewifeHarvard1
+Shuttle-AlewifeKendall-0-0,Shuttle-AlewifeKendall,0,Alewife - Kendall/MIT,,4,60220099,50891413-AlewifeKendall1
+Shuttle-AlewifeKendall-0-1,Shuttle-AlewifeKendall,1,Kendall/MIT - Alewife,,4,60220199,50891327-AlewifeKendall1
 Shuttle-AndersonWoburnNorthStationExpress-0-0,Shuttle-AndersonWoburnNorthStationExpress,0,North Station - Anderson/Woburn (Express),,4,60225099,CR-503089-1317-LowellGLX1AndersonXpress
 Shuttle-AndersonWoburnNorthStationExpress-0-1,Shuttle-AndersonWoburnNorthStationExpress,1,Anderson/Woburn - North Station (Express),,4,60225199,CR-503025-1302-LowellGLX1AndersonXpress
 Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,4,60350099,50933490-AshmontMattapan1
