@@ -57,6 +57,8 @@ Boat-F4,0,Outbound,Charlestown
 Boat-F4,1,Inbound,Long Wharf
 Boat-F1,0,Outbound,Hingham or Hull
 Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
+Boat-EastBoston,0,Outbound,Lewis Wharf
+Boat-EastBoston,1,Inbound,Long Wharf
 747,0,Outbound,Sullivan Square Station
 747,1,Inbound,Ruggles Station
 708,0,Outbound,Beth Israel Deaconess Hospital
@@ -391,10 +393,14 @@ Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
 714,1,Inbound,"Station Street, Hingham"
 716,0,Outbound,Cobbs Corner
 716,1,Inbound,Mattapan Station
+Shuttle-AirportGovernmentCenterExpress,0,West,Bowdoin
+Shuttle-AirportGovernmentCenterExpress,1,East,Wonderland
 Shuttle-AirportGovernmentCenterLocalViaGate,0,West,Bowdoin
 Shuttle-AirportGovernmentCenterLocalViaGate,1,East,Wonderland
 Shuttle-AlewifeHarvard,0,South,Ashmont/Braintree
 Shuttle-AlewifeHarvard,1,North,Alewife
+Shuttle-AlewifeKendall,0,South,Ashmont/Braintree
+Shuttle-AlewifeKendall,1,North,Alewife
 Shuttle-AndersonWoburnNorthStationExpress,0,Outbound,Lowell
 Shuttle-AndersonWoburnNorthStationExpress,1,Inbound,North Station
 Shuttle-AndersonWoburnNorthStationLocal,0,Outbound,Lowell
