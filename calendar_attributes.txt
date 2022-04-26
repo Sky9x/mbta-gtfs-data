@@ -1,5 +1,4 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-BUS222-hba22pt1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
 BUS222-hba22sn1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
 BUS222-hbb22ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
 BUS222-hbc22ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
@@ -19,8 +18,6 @@ Boat-F4-Su-Smr-22,Sunday schedule,Sunday,Sunday,1,20220528,,Fall
 Boat-F4-Su-Spr-22,Sunday schedule,Sunday,Sunday,1,20220401,20220527,Fall
 Boat-F4-Wdy-Smr-22,Weekday schedule,Weekday,Weekday,1,20220528,,Fall
 Boat-F4-Wdy-Spr-22,Weekday schedule,Weekday,Weekday,1,20220401,20220527,Fall
-CR-Newburyport-OakGroveAprilShuttle-Snd,Sunday schedule,Sunday,Sunday,4,20211011,,Fall
-CR-Newburyport-OakGroveAprilShuttle-Std,Saturday schedule,Saturday,Saturday,4,20211011,,Fall
 EastBostonFerry-Snd,Sunday schedule,Sunday,Sunday,4,20220313,20220619,Spring
 EastBostonFerry-Std,Saturday schedule,Saturday,Saturday,4,20220313,20220619,Spring
 EastBostonFerry-Wkd,Weekday schedule,Weekday,Weekday,4,20220313,20220619,Spring
@@ -30,7 +27,6 @@ FLL 21-N-Sa-5-S6d,Saturday schedule (modified service),Saturday (modified servic
 FLL 21-N-Sa-5-S72,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20211011,,Fall
 FLL 21-N-Sa-5-S7d8482ee-LwlGLX,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20211011,,Fall
 FLL 21-N-Sa-5-S9d378dcf-MRRct,Saturday schedule (modified service),Saturday (modified service),Saturday,1,20211011,,Fall
-FLL 21-N-Sa-81,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20211011,,Fall
 FLL 21-N-Su-24,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
 FLL 21-N-Su-24A-S9d378dcf-MRNwtSlmRct,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
 FLL 21-N-Su-5,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
@@ -38,10 +34,8 @@ FLL 21-N-Su-5-S6d,Sunday schedule (modified service),Sunday (modified service),S
 FLL 21-N-Su-5-S72,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
 FLL 21-N-Su-5-S7d8482ee-LwlGLX,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
 FLL 21-N-Su-5-S9d378dcf-MRRct,Sunday schedule (modified service),Sunday (modified service),Sunday,1,20211011,,Fall
-FLL 21-N-Su-81,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20211011,,Fall
 FLL 21-N-Wdy-24A-S9d378dcf-MRNwtSlmRct,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
-FLL 21-N-Wdy-26-1a8c343a,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
-FLL 21-N-Wdy-26-a3d0c482,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
+FLL 21-N-Wdy-26,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
 FLL 21-N-Wdy-5,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
 FLL 21-N-Wdy-5-S6d,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
 FLL 21-N-Wdy-5-S72,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
@@ -65,9 +59,7 @@ FLL 21-S-Wdy-BIKEADJ1-S8f,Weekday schedule (modified service),Weekday (modified 
 FLL 21-S-Wdy-BIKEADJ1-Sb6,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
 FLL 21-S-Wdy-BIKEADJ1-Sc0,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20211011,,Fall
 LRV222-hlb22011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
-LRV222-hlb22011-Wdy-01-GvtCtrNrhSt,Weekday schedule,Weekday,Weekday,4,20220313,20220618,Spring
 LRV222-hlb22016-Sa-01,Saturday schedule,Saturday,Saturday,1,20220313,20220618,Spring
-LRV222-hlb22016-Sa-01-1-GvtCtrNrhSt,Saturday schedule,Saturday,Saturday,4,20220313,20220618,Spring
 LRV222-hlb22016-Sa-01-NwnHgsRvd,Saturday schedule,Saturday,Saturday,4,20220313,20220618,Spring
 LRV222-hlb22016-Sa-01-RsrRvd,Saturday schedule,Saturday,Saturday,4,20220313,20220618,Spring
 LRV222-hlb22017-Su-01,Sunday schedule,Sunday,Sunday,1,20220313,20220618,Spring
