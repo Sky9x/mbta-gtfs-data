@@ -1,13 +1,13 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-BUS222-hba22011-Wdy-02,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
-BUS222-hbb22011-Wdy-02,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
-BUS222-hbc22011-Wdy-02,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
-BUS222-hbf22011-Wdy-02,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
-BUS222-hbg22011-Wdy-02,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
-BUS222-hbl22011-Wdy-02,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
-BUS222-hbq22011-Wdy-02,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
-BUS222-hbs22011-Wdy-02,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
-BUS222-hbt22011-Wdy-02,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
+BUS222-hba22sn1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
+BUS222-hbb22ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
+BUS222-hbc22ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
+BUS222-hbf22ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
+BUS222-hbg22ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
+BUS222-hbl22ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
+BUS222-hbq22ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
+BUS222-hbs22NS1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
+BUS222-hbt22ns1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
 Boat-F1-Sa-Smr-22,Saturday schedule,Saturday,Saturday,1,20220528,,Fall
 Boat-F1-Su-Smr-22,Sunday schedule,Sunday,Sunday,1,20220528,,Fall
 Boat-F1-Wdy-Smr-22,Weekday schedule,Weekday,Weekday,1,20220528,,Fall
@@ -77,7 +77,7 @@ MemorialDay,Holiday (Sunday schedule),Holiday,Sunday,3,20220313,20220618,Spring
 PRIV222-hpa22011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
 PRIV222-hpj22011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
 PRIV222-hpj22017-Su-01,Sunday schedule,Sunday,Sunday,1,20220313,20220618,Spring
-PRIV222-hpp22011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
+PRIV222-hpp22ns1-Wdy-01,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
 RTL222-hmb22011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
 RTL222-hmb22011-Wdy-01-ArtBwnVGt,Weekday schedule,Weekday,Weekday,4,20220313,20220618,Spring
 RTL222-hmb22011-Wdy-01-OrtHgsWnd,Weekday schedule,Weekday,Weekday,4,20220313,20220618,Spring
@@ -97,4 +97,4 @@ RTL222-hms22017-Su-01-AlfHrd,Sunday schedule,Sunday,Sunday,4,20220313,20220618,S
 RTL222-hms22017-Su-01-AlfKnl,Sunday schedule,Sunday,Sunday,4,20220313,20220618,Spring
 SpringSaturday,Saturday schedule,Saturday,Saturday,1,20220313,20220618,Spring
 SpringSunday,Sunday schedule,Sunday,Sunday,1,20220313,20220618,Spring
-SpringWeekday,Weekday schedule (no school),Weekday (no school),Weekday,1,20220313,20220618,Spring
+SpringWeekday,Weekday schedule,Weekday,Weekday,1,20220313,20220618,Spring
