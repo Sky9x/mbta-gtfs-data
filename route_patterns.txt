@@ -2,15 +2,11 @@ route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_des
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,50890602
 Red-3-0,Red,0,Alewife - Braintree,,1,10010005,50890817
 Red-1-0_70061_70067_2,Red,0,Harvard - Ashmont,,4,10010099,50891413-AlewifeHarvard2
-Red-1-0_70061_70071_2,Red,0,Kendall/MIT - Ashmont,,4,10010099,50891413-AlewifeKendall2
 Red-3-0_70061_70067_2,Red,0,Harvard - Braintree,,4,10010099,50891584-AlewifeHarvard2
-Red-3-0_70061_70071_2,Red,0,Kendall/MIT - Braintree,,4,10010099,50891584-AlewifeKendall2
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010104,50890494
 Red-3-1,Red,1,Braintree - Alewife,,1,10010105,50890710
 Red-1-1_70068_70061_0,Red,1,Ashmont - Harvard,,4,10010199,50891327-AlewifeHarvard0
-Red-1-1_70072_70061_0,Red,1,Ashmont - Kendall/MIT,,4,10010199,50891327-AlewifeKendall0
 Red-3-1_70068_70061_0,Red,1,Braintree - Harvard,,4,10010199,50891499-AlewifeHarvard0
-Red-3-1_70072_70061_0,Red,1,Braintree - Kendall/MIT,,4,10010199,50891499-AlewifeKendall0
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,50973684
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,50973682
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,51023386
@@ -57,15 +53,15 @@ CR-Fitchburg-979a6935-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-
 CR-Fitchburg-ce651dfc-0,CR-Fitchburg,0,North Station - Littleton/Route 495,,2,20002001,CR-503251-2411
 CR-Fitchburg-008fca34-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-503412-432
 CR-Fitchburg-472835d4-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,20002101,CR-503270-2414
-CR-Worcester-38e2728b-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-502250-537
-CR-Worcester-31b7b4bc-0,CR-Worcester,0,South Station - Framingham,,2,20003001,CR-502240-595
-CR-Worcester-1d310675-0,CR-Worcester,0,South Station - Worcester,,2,20003002,CR-502256-527
-CR-Worcester-b38f30d8-0,CR-Worcester,0,South Station - Worcester,,2,20003003,CR-502261-517
-CR-Worcester-c7319c64-1,CR-Worcester,1,Worcester - South Station,,1,20003100,CR-500842-510
-CR-Worcester-b8da484f-1,CR-Worcester,1,Worcester - South Station,,2,20003101,CR-500851-518
-CR-Worcester-74814426-1,CR-Worcester,1,Framingham - South Station,,2,20003102,CR-500896-592
-CR-Worcester-efaae72e-1,CR-Worcester,1,Framingham - South Station,,2,20003103,CR-500900-596
-CR-Worcester-96ddd717-1,CR-Worcester,1,Worcester - South Station,,2,20003104,CR-502268-506
+CR-Worcester-38e2728b-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-532883-535
+CR-Worcester-31b7b4bc-0,CR-Worcester,0,South Station - Framingham,,2,20003001,CR-532280-595
+CR-Worcester-1d310675-0,CR-Worcester,0,South Station - Worcester,,2,20003002,CR-532882-527
+CR-Worcester-b38f30d8-0,CR-Worcester,0,South Station - Worcester,,2,20003003,CR-532881-503
+CR-Worcester-c7319c64-1,CR-Worcester,1,Worcester - South Station,,1,20003100,CR-532302-508
+CR-Worcester-b8da484f-1,CR-Worcester,1,Worcester - South Station,,2,20003101,CR-532030-526
+CR-Worcester-74814426-1,CR-Worcester,1,Framingham - South Station,,2,20003102,CR-532044-592
+CR-Worcester-efaae72e-1,CR-Worcester,1,Framingham - South Station,,2,20003103,CR-532045-596
+CR-Worcester-96ddd717-1,CR-Worcester,1,Worcester - South Station,,2,20003104,CR-532304-506
 CR-Franklin-e19b0358-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,20004000,CR-502194-729
 CR-Franklin-f497dbd2-0,CR-Franklin,0,South Station - Norwood Central via Back Bay,,2,20004001,CR-502187-745
 CR-Franklin-58bf35a6-0,CR-Franklin,0,South Station - Forge Park/495 via Fairmount,,2,20004002,CR-502192-731
@@ -88,9 +84,7 @@ CR-Kingston-a80a8fd4-0,CR-Kingston,0,Braintree - Kingston,,2,20007001,CR-BIKEADJ
 CR-Kingston-5615f391-1,CR-Kingston,1,Kingston - South Station,,1,20007100,CR-BIKEADJ-502304-062
 CR-Kingston-285ad791-1,CR-Kingston,1,Kingston - Braintree,,2,20007101,CR-BIKEADJ-502303-064
 CR-Lowell-3b023975-0,CR-Lowell,0,North Station - Lowell,,1,20008000,CR-503441-341
-CR-Lowell-3b023975-0_BNT-0000_NHRML-0127_2,CR-Lowell,0,Anderson/Woburn - Lowell,,4,20008099,CR-503089-1317-LowellGLX2AndersonLocal
 CR-Lowell-89fe964c-1,CR-Lowell,1,Lowell - North Station,,1,20008100,CR-503383-312
-CR-Lowell-89fe964c-1_NHRML-0127_BNT-0000_0,CR-Lowell,1,Lowell - Anderson/Woburn,,4,20008199,CR-503025-1302-LowellGLX0AndersonLocal
 CR-Middleborough-2507c3b4-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,20009000,CR-BIKEADJ-502151-003
 CR-Middleborough-cd96ff97-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,20009100,CR-BIKEADJ-502142-002
 CR-Needham-8ca06f5a-0,CR-Needham,0,South Station - Needham Heights,,1,20010000,CR-500836-613
@@ -100,7 +94,6 @@ CR-Newburyport-76fa2c91-0,CR-Newburyport,0,North Station - Newburyport,,1,200110
 CR-Newburyport-adde8a7c-0,CR-Newburyport,0,North Station - Manchester,,1,20011001,CR-A521782-123-MRNewbptSlmRockport
 CR-Newburyport-23488827-0,CR-Newburyport,0,North Station - Beverly,,2,20011003,CR-A522050-191-MRNewbptSlmRockport
 CR-Newburyport-9fc94546-0,CR-Newburyport,0,North Station - Salem,,2,20011004,CR-A522053-149-MRNewbptSlmRockport0
-CR-Newburyport-b691bdaf-0,CR-Newburyport,0,North Station - Salem,,2,20011005,CR-523194-103-MRNewbptRkptSlmRockport0
 CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011007,CR-503363-167-MRRockport
 CR-Newburyport-cb740ab0-0,CR-Newburyport,0,North Station - West Gloucester,,2,20011008,CR-A521767-117-MRNewbptSlmRockport
 CR-Newburyport-98fe3d94-0,CR-Newburyport,0,North Station - Beverly,,2,20011009,CR-A521780-103-MRNewbptSlmRockport
@@ -815,10 +808,6 @@ Shuttle-AirportGovernmentCenterLocalViaGate-0-0,Shuttle-AirportGovernmentCenterL
 Shuttle-AirportGovernmentCenterLocalViaGate-0-1,Shuttle-AirportGovernmentCenterLocalViaGate,1,Government Center via Maverick - Airport via Maverick,,4,60209199,50982363-AirportBowdoinViaGateAirportBowdoinViaGate
 Shuttle-AlewifeHarvard-0-0,Shuttle-AlewifeHarvard,0,Alewife - Harvard,,4,60219099,50891413-AlewifeHarvard1
 Shuttle-AlewifeHarvard-0-1,Shuttle-AlewifeHarvard,1,Harvard - Alewife,,4,60219199,50891327-AlewifeHarvard1
-Shuttle-AlewifeKendall-0-0,Shuttle-AlewifeKendall,0,Alewife - Kendall/MIT,,4,60220099,50891413-AlewifeKendall1
-Shuttle-AlewifeKendall-0-1,Shuttle-AlewifeKendall,1,Kendall/MIT - Alewife,,4,60220199,50891327-AlewifeKendall1
-Shuttle-AndersonWoburnNorthStationExpress-0-0,Shuttle-AndersonWoburnNorthStationExpress,0,North Station - Anderson/Woburn (Express),,4,60225099,CR-503089-1317-LowellGLX1AndersonXpress
-Shuttle-AndersonWoburnNorthStationExpress-0-1,Shuttle-AndersonWoburnNorthStationExpress,1,Anderson/Woburn - North Station (Express),,4,60225199,CR-503025-1302-LowellGLX1AndersonXpress
 Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,4,60350099,50933490-AshmontMattapan1
 Shuttle-AshmontMattapan-0-1,Shuttle-AshmontMattapan,1,Mattapan - Ashmont,,4,60350199,50933489-AshmontMattapan1
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-A521778-111-MRNewbptSlmRockportB1
@@ -829,17 +818,11 @@ Shuttle-NewburyportSalemLocal-0-0,Shuttle-NewburyportSalemLocal,0,Salem - Newbur
 Shuttle-NewburyportSalemLocal-0-1,Shuttle-NewburyportSalemLocal,1,Newburyport - Salem (Local),,4,62076199,CR-A522046-158-MRNewbptSlmRockportBLN1
 Shuttle-NewtonHighlandsRiverside-0-0,Shuttle-NewtonHighlandsRiverside,0,Newton Highlands - Riverside,,4,62100099,50977301-NewtonHighlandsRiverside1
 Shuttle-NewtonHighlandsRiverside-0-1,Shuttle-NewtonHighlandsRiverside,1,Riverside - Newton Highlands,,4,62100199,50976529-NewtonHighlandsRiverside1
-Shuttle-AndersonWoburnNorthStationLocal-0-0,Shuttle-AndersonWoburnNorthStationLocal,0,North Station - Anderson/Woburn (Local),,4,62230099,CR-503089-1317-LowellGLX1AndersonLocal
-Shuttle-AndersonWoburnNorthStationLocal-0-1,Shuttle-AndersonWoburnNorthStationLocal,1,Anderson/Woburn - North Station (Local),,4,62230199,CR-503025-1302-LowellGLX1AndersonLocal
 Shuttle-OrientHeightsWonderland-0-0,Shuttle-OrientHeightsWonderland,0,Wonderland - Orient Heights,,4,62350099,50982312-OrientHeightsWonderland1
 Shuttle-OrientHeightsWonderland-0-1,Shuttle-OrientHeightsWonderland,1,Orient Heights - Wonderland,,4,62350199,50982363-OrientHeightsWonderland1
 Shuttle-ReadvilleSouthStation-0-0,Shuttle-ReadvilleSouthStation,0,South Station - Readville,,4,62375099,CR-501491-1903-ReadvilleSouthStationFMT1
 Shuttle-ReadvilleSouthStation-0-1,Shuttle-ReadvilleSouthStation,1,Readville - South Station,,4,62375199,CR-501490-1902-ReadvilleSouthStationFMT1
 Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,50977301-ReservoirRiverside1
 Shuttle-ReservoirRiverside-0-1,Shuttle-ReservoirRiverside,1,Riverside - Reservoir,,4,62400199,50976529-ReservoirRiverside1
-Shuttle-RockportSalemExpress-0-0,Shuttle-RockportSalemExpress,0,Salem - Rockport (Express),,4,62405099,CR-523148-147-MRNewbptRkptSlmRockportBXR1
-Shuttle-RockportSalemExpress-0-1,Shuttle-RockportSalemExpress,1,Rockport - Salem (Express),,4,62405199,CR-523147-192-MRNewbptRkptSlmRockportBXR1
-Shuttle-RockportSalemLocal-0-0,Shuttle-RockportSalemLocal,0,Salem - Rockport (Local),,4,62406099,CR-523140-165-MRNewbptRkptSlmRockportBLR1
-Shuttle-RockportSalemLocal-0-1,Shuttle-RockportSalemLocal,1,Rockport - Salem (Local),,4,62406199,CR-523139-164-MRNewbptRkptSlmRockportBLR1
 Shuttle-RockportWestGloucester-0-0,Shuttle-RockportWestGloucester,0,West Gloucester - Rockport,,1,62410099,CR-503658-117-MRRockportB1
 Shuttle-RockportWestGloucester-0-1,Shuttle-RockportWestGloucester,1,Rockport - West Gloucester,,1,62410199,CR-503632-100-MRRockportB1
