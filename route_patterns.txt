@@ -17,22 +17,18 @@ Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,10033000,5097414
 Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,50974144
 Green-D-851-0,Green-D,0,North Station - Riverside,,1,10034000,50974369
 Green-D-855-0,Green-D,0,Union Square - Riverside,Weekday early mornings only,3,10034004,50974443
-Green-D-851-0_70169_70161_0,Green-D,0,North Station - Newton Highlands,,4,10034099,50977301-NewtonHighlandsRiverside0
 Green-D-851-0_70175_70161_0,Green-D,0,North Station - Reservoir,,4,10034099,50977301-ReservoirRiverside0
 Green-D-851-1,Green-D,1,Riverside - North Station,,1,10034100,50974367
 Green-D-855-1,Green-D,1,Riverside - Union Square,Weekday mornings only,3,10034104,50974444
-Green-D-851-1_70160_70168_2,Green-D,1,Newton Highlands - North Station,,4,10034199,50976529-NewtonHighlandsRiverside2
 Green-D-851-1_70160_70174_2,Green-D,1,Reservoir - North Station,,4,10034199,50976529-ReservoirRiverside2
 Green-E-885-0,Green-E,0,Union Square - Heath Street,,1,10035000,50973989
 Green-E-885-1,Green-E,1,Heath Street - Union Square,,1,10035100,50973988
-Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,51266813
+Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,50982312
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040004,50982535
 Blue-6-0_70047_70838_0,Blue,0,Wonderland - Airport,,4,10040099,50982312-AirportBowdoinViaGate0
-Blue-6-0_70059_70051_2,Blue,0,Orient Heights - Bowdoin,,4,10040099,50982312-OrientHeightsWonderland2
 Blue-8-0_70047_70838_0,Blue,0,Orient Heights - Airport,,4,10040099,50982535-AirportBowdoinViaGate0
-Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,51266852
+Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,50982363
 Blue-6-1_70038_70048_2,Blue,1,Airport - Wonderland,,4,10040199,50982363-AirportBowdoinViaGate2
-Blue-6-1_70052_70060_0,Blue,1,Bowdoin - Orient Heights,,4,10040199,50982363-OrientHeightsWonderland0
 741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,51272686
 741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051100,51272692
 741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Late nights only,3,10051104,51272900
@@ -86,7 +82,9 @@ CR-Kingston-285ad791-1,CR-Kingston,1,Kingston - Braintree,,2,20007101,CR-BIKEADJ
 CR-Lowell-3b023975-0,CR-Lowell,0,North Station - Lowell,,1,20008000,CR-503441-341
 CR-Lowell-89fe964c-1,CR-Lowell,1,Lowell - North Station,,1,20008100,CR-503383-312
 CR-Middleborough-2507c3b4-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,20009000,CR-BIKEADJ-502151-003
+CR-Middleborough-2507c3b4-0_MM-0277-S_MM-0356-S_0,CR-Middleborough,0,South Station - Bridgewater,,4,20009099,CR-501377-1003-BridgeMiddle0
 CR-Middleborough-cd96ff97-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,20009100,CR-BIKEADJ-502142-002
+CR-Middleborough-cd96ff97-1_MM-0356-S_MM-0277-S_2,CR-Middleborough,1,Bridgewater - South Station,,4,20009199,CR-501376-1002-BridgeMiddle2
 CR-Needham-8ca06f5a-0,CR-Needham,0,South Station - Needham Heights,,1,20010000,CR-500836-613
 CR-Needham-ba733d01-0,CR-Needham,0,Forest Hills - Needham Heights,,2,20010001,CR-502224-633
 CR-Needham-31ea698c-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,CR-500837-616
@@ -816,22 +814,20 @@ Shuttle-BeverlyOrientHeightsLocal-0-0,Shuttle-BeverlyOrientHeightsLocal,0,Orient
 Shuttle-BeverlyOrientHeightsLocal-0-1,Shuttle-BeverlyOrientHeightsLocal,1,Beverly - Orient Heights,,4,60697199,CR-MidMayShuttle-Weekday-LBev-1-04:55:00
 Shuttle-BeverlyRockport-0-0,Shuttle-BeverlyRockport,0,Beverly - Rockport,,4,60700099,CR-534922-143-MRNBBVRRockport1
 Shuttle-BeverlyRockport-0-1,Shuttle-BeverlyRockport,1,Rockport - Beverly,,4,60700199,CR-534919-150-MRNBBVRRockport1
+Shuttle-BridgewaterMiddleboroughLakeville-0-0,Shuttle-BridgewaterMiddleboroughLakeville,0,Bridgewater - Middleborough/Lakeville,,4,61030099,CR-501377-1003-BridgeMiddle1
+Shuttle-BridgewaterMiddleboroughLakeville-0-1,Shuttle-BridgewaterMiddleboroughLakeville,1,Middleborough/Lakeville - Bridgewater,,4,61030199,CR-501376-1002-BridgeMiddle1
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-503633-125-MRRockportB1
 Shuttle-ManchesterRockport-0-0,Shuttle-ManchesterRockport,0,Manchester - Rockport,,4,62060099,CR-503633-125-MRRockportC1
 Shuttle-NewburyportSalemExpress-0-0,Shuttle-NewburyportSalemExpress,0,Salem - Newburyport (Express),,4,62075099,CR-A521767-117-MRNewbptSlmRockport1
 Shuttle-NewburyportSalemExpress-0-1,Shuttle-NewburyportSalemExpress,1,Newburyport - Salem (Express),,4,62075199,CR-A521574-192-MRNewbptSlmRockport1
 Shuttle-NewburyportSalemLocal-0-0,Shuttle-NewburyportSalemLocal,0,Salem - Newburyport (Local),,4,62076099,CR-A521779-125-MRNewbptSlmRockport1
 Shuttle-NewburyportSalemLocal-0-1,Shuttle-NewburyportSalemLocal,1,Newburyport - Salem (Local),,4,62076199,CR-A522046-158-MRNewbptSlmRockportBLN1
-Shuttle-NewtonHighlandsRiverside-0-0,Shuttle-NewtonHighlandsRiverside,0,Newton Highlands - Riverside,,4,62100099,50977301-NewtonHighlandsRiverside1
-Shuttle-NewtonHighlandsRiverside-0-1,Shuttle-NewtonHighlandsRiverside,1,Riverside - Newton Highlands,,4,62100199,50976529-NewtonHighlandsRiverside1
 Shuttle-OrientHeightsRockportExpress-0-0,Shuttle-OrientHeightsRockportExpress,0,Orient Heights - Rockport,,4,62330099,CR-MidMayShuttle-Weekday-XRoc-0-16:00:00
 Shuttle-OrientHeightsRockportExpress-0-1,Shuttle-OrientHeightsRockportExpress,1,Rockport - Orient Heights,,4,62330199,CR-MidMayShuttle-Weekday-XRoc-1-05:44:00
 Shuttle-OrientHeightsRockportLimited-0-0,Shuttle-OrientHeightsRockportLimited,0,Orient Heights - Rockport,,4,62333099,CR-MidMayShuttle-Weekday-LtdRoc-0-06:05:00
 Shuttle-OrientHeightsRockportLimited-0-1,Shuttle-OrientHeightsRockportLimited,1,Rockport - Orient Heights,,4,62333199,CR-MidMayShuttle-Weekday-LtdRoc-1-04:19:00
 Shuttle-OrientHeightsRockportLocal-0-0,Shuttle-OrientHeightsRockportLocal,0,Orient Heights - Rockport,,4,62335099,CR-MidMayShuttle-Saturday-LRoc-0-05:10:00
 Shuttle-OrientHeightsRockportLocal-0-1,Shuttle-OrientHeightsRockportLocal,1,Rockport - Orient Heights,,4,62335199,CR-MidMayShuttle-Saturday-LRoc-1-21:45:00
-Shuttle-OrientHeightsWonderland-0-0,Shuttle-OrientHeightsWonderland,0,Wonderland - Orient Heights,,4,62350099,50982312-OrientHeightsWonderland1
-Shuttle-OrientHeightsWonderland-0-1,Shuttle-OrientHeightsWonderland,1,Orient Heights - Wonderland,,4,62350199,50982363-OrientHeightsWonderland1
 Shuttle-ReadvilleSouthStation-0-0,Shuttle-ReadvilleSouthStation,0,South Station - Readville,,4,62375099,CR-501491-1903-ReadvilleSouthStationFMT1
 Shuttle-ReadvilleSouthStation-0-1,Shuttle-ReadvilleSouthStation,1,Readville - South Station,,4,62375199,CR-501490-1902-ReadvilleSouthStationFMT1
 Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,50977301-ReservoirRiverside1
