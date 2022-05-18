@@ -26,9 +26,11 @@ Green-E-885-1,Green-E,1,Heath Street - Union Square,,1,10035100,50973988
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,50982312
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040004,50982535
 Blue-6-0_70047_70838_0,Blue,0,Wonderland - Airport,,4,10040099,50982312-AirportBowdoinViaGate0
+Blue-6-0_70059_70051_2,Blue,0,Orient Heights - Bowdoin,,4,10040099,50982312-OrientHeightsWonderland2
 Blue-8-0_70047_70838_0,Blue,0,Orient Heights - Airport,,4,10040099,50982535-AirportBowdoinViaGate0
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,50982363
 Blue-6-1_70038_70048_2,Blue,1,Airport - Wonderland,,4,10040199,50982363-AirportBowdoinViaGate2
+Blue-6-1_70052_70060_0,Blue,1,Bowdoin - Orient Heights,,4,10040199,50982363-OrientHeightsWonderland0
 741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,51272686
 741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051100,51272692
 741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Late nights only,3,10051104,51272900
@@ -46,27 +48,32 @@ Blue-6-1_70038_70048_2,Blue,1,Airport - Wonderland,,4,10040199,50982363-AirportB
 CR-Fairmount-dc5eb181-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,20001000,CR-500883-925
 CR-Fairmount-3dfc2722-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-500882-926
 CR-Fitchburg-979a6935-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-503411-433
-CR-Fitchburg-ce651dfc-0,CR-Fitchburg,0,North Station - Littleton/Route 495,,2,20002001,CR-503251-2411
+CR-Fitchburg-ce651dfc-0,CR-Fitchburg,0,North Station - Littleton/Route 495,,2,20002001,CR-528303-413
 CR-Fitchburg-008fca34-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-503412-432
-CR-Fitchburg-472835d4-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,20002101,CR-503270-2414
+CR-Fitchburg-472835d4-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,20002101,CR-528306-418
 CR-Worcester-38e2728b-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-532883-535
 CR-Worcester-31b7b4bc-0,CR-Worcester,0,South Station - Framingham,,2,20003001,CR-532280-595
 CR-Worcester-1d310675-0,CR-Worcester,0,South Station - Worcester,,2,20003002,CR-532882-527
 CR-Worcester-b38f30d8-0,CR-Worcester,0,South Station - Worcester,,2,20003003,CR-532881-503
+CR-Worcester-e29de795-0,CR-Worcester,0,South Station - Worcester,,2,20003005,CR-536396-551
 CR-Worcester-c7319c64-1,CR-Worcester,1,Worcester - South Station,,1,20003100,CR-532302-508
 CR-Worcester-b8da484f-1,CR-Worcester,1,Worcester - South Station,,2,20003101,CR-532030-526
 CR-Worcester-74814426-1,CR-Worcester,1,Framingham - South Station,,2,20003102,CR-532044-592
 CR-Worcester-efaae72e-1,CR-Worcester,1,Framingham - South Station,,2,20003103,CR-532045-596
 CR-Worcester-96ddd717-1,CR-Worcester,1,Worcester - South Station,,2,20003104,CR-532304-506
+CR-Worcester-aedc1166-1,CR-Worcester,1,Worcester - South Station,,2,20003106,CR-536421-552
 CR-Franklin-e19b0358-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,20004000,CR-502194-729
-CR-Franklin-f497dbd2-0,CR-Franklin,0,South Station - Norwood Central via Back Bay,,2,20004001,CR-502187-745
-CR-Franklin-58bf35a6-0,CR-Franklin,0,South Station - Forge Park/495 via Fairmount,,2,20004002,CR-502192-731
-CR-Franklin-dcca6140-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,2,20004003,CR-502198-725
-CR-Franklin-2c9035ac-0,CR-Franklin,0,South Station - Walpole via Back Bay,,2,20004004,CR-502651-717
-CR-Franklin-93556463-0,CR-Franklin,0,South Station - Walpole via Back Bay,,2,20004005,CR-502653-705
+CR-Franklin-52d9daf4-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,1,20004001,CR-528554-755
+CR-Franklin-f497dbd2-0,CR-Franklin,0,South Station - Norwood Central via Back Bay,,2,20004002,CR-502187-745
+CR-Franklin-58bf35a6-0,CR-Franklin,0,South Station - Forge Park/495 via Fairmount,,2,20004003,CR-502192-731
+CR-Franklin-dcca6140-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,2,20004004,CR-502198-725
+CR-Franklin-2c9035ac-0,CR-Franklin,0,South Station - Walpole via Back Bay,,2,20004005,CR-502651-717
+CR-Franklin-93556463-0,CR-Franklin,0,South Station - Walpole via Back Bay,,2,20004006,CR-502653-705
+CR-Franklin-d0b90bd1-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,2,20004007,CR-528556-757
 CR-Franklin-efecf2cd-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,20004100,CR-502193-730
-CR-Franklin-0bc5279e-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,2,20004101,CR-502199-724
-CR-Franklin-0e04afee-1,CR-Franklin,1,Walpole - South Station via Back Bay,,2,20004102,CR-502652-722
+CR-Franklin-6fb5dbbb-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,1,20004101,CR-528553-754
+CR-Franklin-0bc5279e-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,2,20004102,CR-502199-724
+CR-Franklin-0e04afee-1,CR-Franklin,1,Walpole - South Station via Back Bay,,2,20004103,CR-502652-722
 CR-Greenbush-6d652c57-0,CR-Greenbush,0,South Station - Greenbush,,1,20005000,CR-BIKEADJ-502275-095
 CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,20005100,CR-BIKEADJ-502276-094
 CR-Haverhill-ead99721-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,20006000,CR-503379-223
@@ -88,26 +95,21 @@ CR-Middleborough-cd96ff97-1_MM-0356-S_MM-0277-S_2,CR-Middleborough,1,Bridgewater
 CR-Needham-8ca06f5a-0,CR-Needham,0,South Station - Needham Heights,,1,20010000,CR-500836-613
 CR-Needham-ba733d01-0,CR-Needham,0,Forest Hills - Needham Heights,,2,20010001,CR-502224-633
 CR-Needham-31ea698c-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,CR-500837-616
-CR-Newburyport-76fa2c91-0,CR-Newburyport,0,North Station - Newburyport,,1,20011000,CR-534938-145-MRNBBVRRockport
-CR-Newburyport-adde8a7c-0,CR-Newburyport,0,North Station - Manchester,,1,20011001,CR-503645-105-MRRockport
-CR-Newburyport-23488827-0,CR-Newburyport,0,North Station - Beverly,,2,20011003,CR-503404-197-MRRockport
-CR-Newburyport-9fc94546-0,CR-Newburyport,0,North Station - Salem,,2,20011004,CR-A522053-149-MRNewbptSlmRockport0
-CR-Newburyport-5bf8e4e7-0,CR-Newburyport,0,Beverly - Newburyport,,2,20011005,CR-530677-141-MRRockport
-CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011008,CR-503363-167-MRRockport
-CR-Newburyport-cb740ab0-0,CR-Newburyport,0,North Station - West Gloucester,,2,20011009,CR-503658-117-MRRockport
-CR-Newburyport-98fe3d94-0,CR-Newburyport,0,North Station - Beverly,,2,20011010,CR-503642-103-MRRockport
-CR-Newburyport-41467013-0,CR-Newburyport,0,North Station - Newburyport,,2,20011011,CR-534922-143-MRNBBVRRockport
-CR-Newburyport-4444b78b-0,CR-Newburyport,0,North Station - Manchester,,2,20011012,CR-503633-125-MRRockport
-CR-Newburyport-e4feaecd-0,CR-Newburyport,0,North Station - Salem,,2,20011014,CR-A522049-161-MRNewbptSlmRockport0
-CR-Newburyport-173cb7ae-1,CR-Newburyport,1,West Gloucester - North Station,,1,20011100,CR-503640-106-MRRockport
-CR-Newburyport-ff47d622-1,CR-Newburyport,1,Newburyport - North Station,,1,20011101,CR-534919-150-MRNBBVRRockport
-CR-Newburyport-6c947f8b-1,CR-Newburyport,1,Beverly - North Station,,2,20011102,CR-503408-192-MRRockport
-CR-Newburyport-2487f081-1,CR-Newburyport,1,Salem - North Station,,2,20011103,CR-A522047-152-MRNewbptSlmRockport2
-CR-Newburyport-5e0dff25-1,CR-Newburyport,1,Newburyport - Beverly,,2,20011104,CR-530676-140-MRRockport
-CR-Newburyport-bcb24456-1,CR-Newburyport,1,West Gloucester - North Station,,2,20011105,CR-503632-100-MRRockport
-CR-Newburyport-752605f8-1,CR-Newburyport,1,Newburyport - North Station,,2,20011106,CR-534929-140-MRNBBVRRockport
-CR-Newburyport-f0909b4e-1,CR-Newburyport,1,Beverly - North Station,,2,20011107,CR-503405-198-MRRockport
-CR-Newburyport-a5611c8c-1,CR-Newburyport,1,Salem - North Station,,2,20011108,CR-A522046-158-MRNewbptSlmRockport2
+CR-Newburyport-76fa2c91-0,CR-Newburyport,0,North Station - Newburyport,,1,20011000,CR-528388-165
+CR-Newburyport-5c4ca768-0,CR-Newburyport,0,North Station - Rockport,,1,20011001,CR-528416-123
+CR-Newburyport-23488827-0,CR-Newburyport,0,North Station - Beverly,,2,20011004,CR-528383-197
+CR-Newburyport-5bf8e4e7-0,CR-Newburyport,0,Beverly - Newburyport,,2,20011006,CR-530677-141-MRRockport
+CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011009,CR-528389-167
+CR-Newburyport-41467013-0,CR-Newburyport,0,North Station - Newburyport,,2,20011012,CR-528392-161
+CR-Newburyport-60c66f68-0,CR-Newburyport,0,North Station - Rockport,,2,20011017,CR-528415-125
+CR-Newburyport-2917cd27-0,CR-Newburyport,0,North Station - Rockport,,2,20011018,CR-528435-103
+CR-Newburyport-ff47d622-1,CR-Newburyport,1,Newburyport - North Station,,1,20011100,CR-528403-154
+CR-Newburyport-7d8a4d5e-1,CR-Newburyport,1,Rockport - North Station,,1,20011101,CR-528418-124
+CR-Newburyport-6c947f8b-1,CR-Newburyport,1,Beverly - North Station,,2,20011103,CR-528386-192
+CR-Newburyport-5e0dff25-1,CR-Newburyport,1,Newburyport - Beverly,,2,20011105,CR-530676-140-MRRockport
+CR-Newburyport-752605f8-1,CR-Newburyport,1,Newburyport - North Station,,2,20011107,CR-528390-164
+CR-Newburyport-f0909b4e-1,CR-Newburyport,1,Beverly - North Station,,2,20011108,CR-528384-198
+CR-Newburyport-8781957a-1,CR-Newburyport,1,Rockport - North Station,,2,20011111,CR-528422-120
 CR-Providence-d29e0167-0,CR-Providence,0,South Station - Stoughton,,1,20012000,CR-500852-877
 CR-Providence-55a1868e-0,CR-Providence,0,South Station - Wickford Junction,,1,20012001,CR-500858-803
 CR-Providence-cfcbef70-0,CR-Providence,0,South Station - Providence,,2,20012002,CR-501048-813
@@ -124,6 +126,8 @@ CR-Providence-e99e5ce2-1,CR-Providence,1,Providence - South Station,,2,20012104,
 CR-Providence-87821f71-1,CR-Providence,1,Wickford Junction - South Station,,2,20012105,CR-501025-836
 CR-Providence-bffb2f0c-1,CR-Providence,1,Providence - South Station,,2,20012106,CR-501030-824
 CR-Providence-4f7f6e16-1,CR-Providence,1,Wickford Junction - South Station,,2,20012107,CR-502177-810
+CapeFlyer-0c525908-0,CapeFlyer,0,South Station - Hyannis,,1,21000000,CR-529155-9001
+CapeFlyer-96005428-1,CapeFlyer,1,Hyannis - South Station,,1,21000100,CR-529154-9002
 Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-0630-Long-Weekday-Spring-22
 Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,30001100,Boat-F4-0645-Charlestown-Weekday-Spring-22
 Boat-F1-0-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport & Hull,,1,30002000,Boat-F1-1300-Long-Weekday-Spring-22
@@ -778,22 +782,14 @@ Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Wharf - Long Wharf,,4,30005199,EastB
 556-7-1,556,1,Waltham Highlands - Newton Corner,Weekdays only,1,55560100,51049646
 558-7-0,558,0,Newton Corner - Riverside Station,Weekdays only,1,55580000,51049654
 558-7-1,558,1,Riverside Station - Newton Corner,Weekdays only,1,55580100,51049653
-712-_-0,712,0,"Orient Heights Station, South Busway - Point Shirley",,1,57120000,51291076
-712-1-0,712,0,"Orient Heights Station, South Busway - Winthrop Beach",,2,57120004,51291081
-712-2-0,712,0,"Orient Heights Station, North Busway - Point Shirley",Weekdays only,2,57120008,51291022
-712-3-0,712,0,"Orient Heights Station, North Busway - Winthrop Beach",Weekday mornings only,2,57120011,51291080
-712-1-1,712,1,"Winthrop Beach - Orient Heights Station, South Busway",,1,57120100,51291024
-712-3-1,712,1,"Winthrop Beach - Orient Heights Station, North Busway",Weekdays only,2,57120104,51291023
-712-_-1,712,1,"Point Shirley - Orient Heights Station, South Busway",,2,57120107,51291078
-712-2-1,712,1,"Point Shirley - Orient Heights Station, North Busway",Weekday mornings only,3,57120111,51291075
-713-1-0,713,0,"Orient Heights Station, South Busway - Winthrop Beach",,1,57130000,51291135
-713-3-0,713,0,"Orient Heights Station, North Busway - Winthrop Beach",Weekdays only,2,57130004,51291121
-713-_-0,713,0,Orient Heights Station  - Point Shirley (South Busway),,2,57130007,51291118
-713-2-0,713,0,"Orient Heights Station, North Busway - Point Shirley",Weekday mornings only,3,57130010,51291116
-713-_-1,713,1,Point Shirley - Orient Heights Station  (South Busway),,1,57130100,51290998
-713-1-1,713,1,"Winthrop Beach - Orient Heights Station, South Busway",,2,57130104,51291083
-713-3-1,713,1,"Winthrop Beach - Orient Heights Station, North Busway",Weekdays only,2,57130108,51291068
-713-2-1,713,1,"Point Shirley - Orient Heights Station, North Busway",Weekdays only,2,57130111,51290994
+712-_-0,712,0,"Orient Heights Station, South Busway - Point Shirley",,1,57120000,51291022
+712-1-0,712,0,"Orient Heights Station, South Busway - Winthrop Beach",,2,57120004,51291080
+712-1-1,712,1,"Winthrop Beach - Orient Heights Station, South Busway",,1,57120100,51291023
+712-_-1,712,1,"Point Shirley - Orient Heights Station, South Busway",,2,57120104,51291075
+713-1-0,713,0,"Orient Heights Station, South Busway - Winthrop Beach",,1,57130000,51291121
+713-_-0,713,0,Orient Heights Station  - Point Shirley (South Busway),,2,57130004,51291116
+713-_-1,713,1,Point Shirley - Orient Heights Station  (South Busway),,1,57130100,51290994
+713-1-1,713,1,"Winthrop Beach - Orient Heights Station, South Busway",,2,57130104,51291068
 714-_-0,714,0,Hingham Depot - Pemberton Point,,1,57140000,51324908
 714-1-0,714,0,Hingham Depot - Pemberton Point via Hull Medical Center,Weekdays only,2,57140004,51324907
 714-2-0,714,0,Hingham Depot - Pemberton Point via Washington Blvd,Weekdays only,2,57140006,51324924
@@ -816,21 +812,13 @@ Shuttle-BeverlyRockport-0-0,Shuttle-BeverlyRockport,0,Beverly - Rockport,,4,6070
 Shuttle-BeverlyRockport-0-1,Shuttle-BeverlyRockport,1,Rockport - Beverly,,4,60700199,CR-534919-150-MRNBBVRRockport1
 Shuttle-BridgewaterMiddleboroughLakeville-0-0,Shuttle-BridgewaterMiddleboroughLakeville,0,Bridgewater - Middleborough/Lakeville,,4,61030099,CR-501377-1003-BridgeMiddle1
 Shuttle-BridgewaterMiddleboroughLakeville-0-1,Shuttle-BridgewaterMiddleboroughLakeville,1,Middleborough/Lakeville - Bridgewater,,4,61030199,CR-501376-1002-BridgeMiddle1
-Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Manchester - Gloucester,,4,62055099,CR-503633-125-MRRockportB1
-Shuttle-ManchesterRockport-0-0,Shuttle-ManchesterRockport,0,Manchester - Rockport,,4,62060099,CR-503633-125-MRRockportC1
-Shuttle-NewburyportSalemExpress-0-0,Shuttle-NewburyportSalemExpress,0,Salem - Newburyport (Express),,4,62075099,CR-A521767-117-MRNewbptSlmRockport1
-Shuttle-NewburyportSalemExpress-0-1,Shuttle-NewburyportSalemExpress,1,Newburyport - Salem (Express),,4,62075199,CR-A521574-192-MRNewbptSlmRockport1
-Shuttle-NewburyportSalemLocal-0-0,Shuttle-NewburyportSalemLocal,0,Salem - Newburyport (Local),,4,62076099,CR-A521779-125-MRNewbptSlmRockport1
-Shuttle-NewburyportSalemLocal-0-1,Shuttle-NewburyportSalemLocal,1,Newburyport - Salem (Local),,4,62076199,CR-A522046-158-MRNewbptSlmRockportBLN1
 Shuttle-OrientHeightsRockportExpress-0-0,Shuttle-OrientHeightsRockportExpress,0,Orient Heights - Rockport,,4,62330099,CR-MidMayShuttle-Weekday-XRoc-0-16:00:00
 Shuttle-OrientHeightsRockportExpress-0-1,Shuttle-OrientHeightsRockportExpress,1,Rockport - Orient Heights,,4,62330199,CR-MidMayShuttle-Weekday-XRoc-1-05:44:00
 Shuttle-OrientHeightsRockportLimited-0-0,Shuttle-OrientHeightsRockportLimited,0,Orient Heights - Rockport,,4,62333099,CR-MidMayShuttle-Weekday-LtdRoc-0-06:05:00
 Shuttle-OrientHeightsRockportLimited-0-1,Shuttle-OrientHeightsRockportLimited,1,Rockport - Orient Heights,,4,62333199,CR-MidMayShuttle-Weekday-LtdRoc-1-04:19:00
 Shuttle-OrientHeightsRockportLocal-0-0,Shuttle-OrientHeightsRockportLocal,0,Orient Heights - Rockport,,4,62335099,CR-MidMayShuttle-Saturday-LRoc-0-05:10:00
 Shuttle-OrientHeightsRockportLocal-0-1,Shuttle-OrientHeightsRockportLocal,1,Rockport - Orient Heights,,4,62335199,CR-MidMayShuttle-Saturday-LRoc-1-21:45:00
-Shuttle-ReadvilleSouthStation-0-0,Shuttle-ReadvilleSouthStation,0,South Station - Readville,,4,62375099,CR-501491-1903-ReadvilleSouthStationFMT1
-Shuttle-ReadvilleSouthStation-0-1,Shuttle-ReadvilleSouthStation,1,Readville - South Station,,4,62375199,CR-501490-1902-ReadvilleSouthStationFMT1
+Shuttle-OrientHeightsWonderland-0-0,Shuttle-OrientHeightsWonderland,0,Wonderland - Orient Heights,,4,62350099,50982312-OrientHeightsWonderland1
+Shuttle-OrientHeightsWonderland-0-1,Shuttle-OrientHeightsWonderland,1,Orient Heights - Wonderland,,4,62350199,50982363-OrientHeightsWonderland1
 Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,50977301-ReservoirRiverside1
 Shuttle-ReservoirRiverside-0-1,Shuttle-ReservoirRiverside,1,Riverside - Reservoir,,4,62400199,50976529-ReservoirRiverside1
-Shuttle-RockportWestGloucester-0-0,Shuttle-RockportWestGloucester,0,West Gloucester - Rockport,,1,62410099,CR-503658-117-MRRockportB1
-Shuttle-RockportWestGloucester-0-1,Shuttle-RockportWestGloucester,1,Rockport - West Gloucester,,1,62410199,CR-503632-100-MRRockportB1
