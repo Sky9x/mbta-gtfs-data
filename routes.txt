@@ -16,7 +16,7 @@ Blue,1,,Blue Line,Rapid Transit,1,https://www.mbta.com/schedules/Blue,003DA5,FFF
 CR-Fairmount,1,,Fairmount Line,Commuter Rail,2,https://www.mbta.com/schedules/CR-Fairmount,80276C,FFFFFF,20001,Commuter Rail,line-Fairmount,
 CR-Fitchburg,1,,Fitchburg Line,Commuter Rail,2,https://www.mbta.com/schedules/CR-Fitchburg,80276C,FFFFFF,20002,Commuter Rail,line-Fitchburg,
 CR-Worcester,1,,Framingham/Worcester Line,Commuter Rail,2,https://www.mbta.com/schedules/CR-Worcester,80276C,FFFFFF,20003,Commuter Rail,line-Worcester,
-CR-Franklin,1,,Franklin Line,Commuter Rail,2,https://www.mbta.com/schedules/CR-Franklin,80276C,FFFFFF,20004,Commuter Rail,line-Franklin,
+CR-Franklin,1,,Franklin/Foxboro Line,Commuter Rail,2,https://www.mbta.com/schedules/CR-Franklin,80276C,FFFFFF,20004,Commuter Rail,line-Franklin,
 CR-Greenbush,1,,Greenbush Line,Commuter Rail,2,https://www.mbta.com/schedules/CR-Greenbush,80276C,FFFFFF,20005,Commuter Rail,line-Greenbush,
 CR-Haverhill,1,,Haverhill Line,Commuter Rail,2,https://www.mbta.com/schedules/CR-Haverhill,80276C,FFFFFF,20006,Commuter Rail,line-Haverhill,
 CR-Kingston,1,,Kingston Line,Commuter Rail,2,https://www.mbta.com/schedules/CR-Kingston,80276C,FFFFFF,20007,Commuter Rail,line-Kingston,
@@ -200,8 +200,10 @@ Boat-EastBoston,1,,East Boston Ferry,Ferry,4,https://www.mbta.com/schedules/Boat
 Shuttle-AirportGovernmentCenterExpress,1,Blue Line Shuttle,Airport - Government Center (Express),Rail Replacement Bus,3,,FFC72C,000000,60205,Free,line-Blue,1
 Shuttle-AirportGovernmentCenterLocalViaGate,1,Blue Line Shuttle,Airport - Government Center via Maverick,Rail Replacement Bus,3,,FFC72C,000000,60209,Free,line-Blue,1
 Shuttle-AlewifeHarvard,1,Red Line Shuttle,Alewife - Harvard,Rail Replacement Bus,3,,FFC72C,000000,60219,Free,line-Red,1
+Shuttle-BallardvaleMaldenCenter,1,Haverhill Line Shuttle,Ballardvale - Malden Center,Rail Replacement Bus,3,,FFC72C,000000,60650,Free,line-Haverhill,1
 Shuttle-BeverlyOrientHeightsExpress,1,Newburyport/Rockport Line Shuttle,Beverly - Orient Heights (Express),Rail Replacement Bus,3,,FFC72C,000000,60696,Free,line-Newburyport,1
-Shuttle-BeverlyOrientHeightsLocal,1,Newburyport/Rockport Line Shuttle,Beverly - Orient Heights (Local),Rail Replacement Bus,3,,FFC72C,000000,60697,Free,line-Newburyport,1
+Shuttle-BeverlyOrientHeightsLimited,1,Newburyport/Rockport Line Shuttle,Beverly - Orient Heights (Limited),Rail Replacement Bus,3,,FFC72C,000000,60697,Free,line-Newburyport,1
+Shuttle-BeverlyOrientHeightsLocal,1,Newburyport/Rockport Line Shuttle,Beverly - Orient Heights (Local),Rail Replacement Bus,3,,FFC72C,000000,60698,Free,line-Newburyport,1
 Shuttle-BeverlyRockport,1,Rockport Line Shuttle,Beverly - Rockport,Rail Replacement Bus,3,,FFC72C,000000,60700,Free,line-Newburyport,1
 Shuttle-BridgewaterMiddleboroughLakeville,1,Middleborough/Lakeville Line Shuttle,Middleborough/Lakeville - Bridgewater,Rail Replacement Bus,3,,FFC72C,000000,61030,Free,line-Middleborough,1
 Shuttle-Generic,1,Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61910,Free,,1
@@ -212,7 +214,7 @@ Shuttle-Generic-CommuterRail-South,1,South Side Commuter Rail Shuttle,,Rail Repl
 Shuttle-Generic-Elevator,1,Elevator Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61915,Free,,1
 Shuttle-Generic-Fairmount,1,Fairmount Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61916,Free,line-Fairmount,1
 Shuttle-Generic-Fitchburg,1,Fitchburg Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61917,Free,line-Fitchburg,1
-Shuttle-Generic-Franklin,1,Franklin Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61918,Free,line-Franklin,1
+Shuttle-Generic-Franklin,1,Franklin/Foxboro Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61918,Free,line-Franklin,1
 Shuttle-Generic-Green,1,Green Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61919,Free,line-Green,1
 Shuttle-Generic-Green-B,1,Green Line B Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61920,Free,line-Green,1
 Shuttle-Generic-Greenbush,1,Greenbush Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61921,Free,line-Greenbush,1
