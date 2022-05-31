@@ -59,8 +59,6 @@ Boat-F4,0,Outbound,Charlestown
 Boat-F4,1,Inbound,Long Wharf
 Boat-F1,0,Outbound,Hingham or Hull
 Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
-Boat-EastBoston,0,Outbound,Lewis Wharf
-Boat-EastBoston,1,Inbound,Long Wharf
 747,0,Outbound,Sullivan Square Station
 747,1,Inbound,Ruggles Station
 708,0,Outbound,Beth Israel Deaconess Hospital
@@ -395,30 +393,12 @@ Boat-EastBoston,1,Inbound,Long Wharf
 714,1,Inbound,"Station Street, Hingham"
 716,0,Outbound,Cobbs Corner
 716,1,Inbound,Mattapan Station
-Shuttle-AirportGovernmentCenterExpress,0,West,Bowdoin
-Shuttle-AirportGovernmentCenterExpress,1,East,Wonderland
-Shuttle-AirportGovernmentCenterLocalViaGate,0,West,Bowdoin
-Shuttle-AirportGovernmentCenterLocalViaGate,1,East,Wonderland
-Shuttle-AlewifeHarvard,0,South,Ashmont/Braintree
-Shuttle-AlewifeHarvard,1,North,Alewife
-Shuttle-BallardvaleMaldenCenter,0,Outbound,Haverhill
-Shuttle-BallardvaleMaldenCenter,1,Inbound,North Station
-Shuttle-BeverlyOrientHeightsExpress,0,Outbound,Newburyport or Rockport
-Shuttle-BeverlyOrientHeightsExpress,1,Inbound,North Station
 Shuttle-BeverlyOrientHeightsLimited,0,Outbound,Newburyport or Rockport
 Shuttle-BeverlyOrientHeightsLimited,1,Inbound,North Station
 Shuttle-BeverlyOrientHeightsLocal,0,Outbound,Newburyport or Rockport
 Shuttle-BeverlyOrientHeightsLocal,1,Inbound,North Station
-Shuttle-BeverlyRockport,0,Outbound,Rockport
-Shuttle-BeverlyRockport,1,Inbound,North Station
-Shuttle-BridgewaterMiddleboroughLakeville,0,Outbound,Middleborough/Lakeville
-Shuttle-BridgewaterMiddleboroughLakeville,1,Inbound,South Station
-Shuttle-OrientHeightsRockportExpress,0,Outbound,Rockport
-Shuttle-OrientHeightsRockportExpress,1,Inbound,North Station
-Shuttle-OrientHeightsRockportLimited,0,Outbound,Rockport
-Shuttle-OrientHeightsRockportLimited,1,Inbound,North Station
-Shuttle-OrientHeightsRockportLocal,0,Outbound,Rockport
-Shuttle-OrientHeightsRockportLocal,1,Inbound,North Station
+Shuttle-BroadwayJFK,0,South,Ashmont/Braintree
+Shuttle-BroadwayJFK,1,North,Alewife
 Shuttle-OrientHeightsWonderland,0,West,Bowdoin
 Shuttle-OrientHeightsWonderland,1,East,Wonderland
 Shuttle-ReservoirRiverside,0,West,Riverside
