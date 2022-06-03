@@ -1,16 +1,8 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,50890602
 Red-3-0,Red,0,Alewife - Braintree,,1,10010005,50890817
-Red-1-0_70081_70085_0,Red,0,Alewife - Broadway,,4,10010099,50891413-BroadwayJFK0
-Red-1-0_70081_70085_2,Red,0,JFK/UMass - Ashmont,,4,10010099,50891413-BroadwayJFK2
-Red-3-0_70081_70095_0,Red,0,Alewife - Broadway,,4,10010099,50891584-BroadwayJFK0
-Red-3-0_70081_70095_2,Red,0,JFK/UMass - Braintree,,4,10010099,50891584-BroadwayJFK2
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010104,50890494
 Red-3-1,Red,1,Braintree - Alewife,,1,10010105,50890710
-Red-1-1_70086_70082_0,Red,1,Ashmont - JFK/UMass,,4,10010199,50891327-BroadwayJFK0
-Red-1-1_70086_70082_2,Red,1,Broadway - Alewife,,4,10010199,50891327-BroadwayJFK2
-Red-3-1_70096_70082_0,Red,1,Braintree - JFK/UMass,,4,10010199,50891499-BroadwayJFK0
-Red-3-1_70096_70082_2,Red,1,Broadway - Alewife,,4,10010199,50891499-BroadwayJFK2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,50973684
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,50973682
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,51023386
@@ -63,19 +55,19 @@ CR-Worcester-74814426-1,CR-Worcester,1,Framingham - South Station,,2,20003102,CR
 CR-Worcester-efaae72e-1,CR-Worcester,1,Framingham - South Station,,2,20003103,CR-536103-596
 CR-Worcester-96ddd717-1,CR-Worcester,1,Worcester - South Station,,2,20003104,CR-536295-506
 CR-Worcester-aedc1166-1,CR-Worcester,1,Worcester - South Station,,2,20003105,CR-536421-552
-CR-Franklin-e19b0358-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,20004000,CR-528571-729
-CR-Franklin-52d9daf4-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,1,20004001,CR-528554-755
-CR-Franklin-f497dbd2-0,CR-Franklin,0,South Station - Norwood Central via Back Bay,,2,20004002,CR-524922-745
-CR-Franklin-58bf35a6-0,CR-Franklin,0,South Station - Forge Park/495 via Fairmount,,2,20004003,CR-528569-731
-CR-Franklin-dcca6140-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,2,20004004,CR-528575-725
-CR-Franklin-2c9035ac-0,CR-Franklin,0,South Station - Walpole via Back Bay,,2,20004005,CR-528563-747
-CR-Franklin-93556463-0,CR-Franklin,0,South Station - Walpole via Back Bay,,2,20004006,CR-528566-743
+CR-Franklin-e19b0358-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,20004000,CR-539505-729
+CR-Franklin-52d9daf4-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,1,20004001,CR-539489-755
+CR-Franklin-f497dbd2-0,CR-Franklin,0,South Station - Norwood Central via Back Bay,,2,20004002,CR-539411-745
+CR-Franklin-58bf35a6-0,CR-Franklin,0,South Station - Forge Park/495 via Fairmount,,2,20004003,CR-539503-731
+CR-Franklin-dcca6140-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,2,20004004,CR-539509-725
+CR-Franklin-2c9035ac-0,CR-Franklin,0,South Station - Walpole via Back Bay,,2,20004005,CR-539497-747
+CR-Franklin-93556463-0,CR-Franklin,0,South Station - Walpole via Back Bay,,2,20004006,CR-539500-743
 CR-Franklin-b8023197-0,CR-Franklin,0,South Station - Forge Park/495,,2,20004007,CR-539174-1709
-CR-Franklin-d0b90bd1-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,2,20004008,CR-528556-757
-CR-Franklin-efecf2cd-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,20004100,CR-528570-730
-CR-Franklin-6fb5dbbb-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,1,20004101,CR-528553-754
-CR-Franklin-0bc5279e-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,2,20004102,CR-528578-724
-CR-Franklin-0e04afee-1,CR-Franklin,1,Walpole - South Station via Back Bay,,2,20004103,CR-528564-748
+CR-Franklin-d0b90bd1-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,2,20004008,CR-539491-757
+CR-Franklin-efecf2cd-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,20004100,CR-539506-728
+CR-Franklin-6fb5dbbb-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,1,20004101,CR-539488-754
+CR-Franklin-0bc5279e-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,2,20004102,CR-539512-724
+CR-Franklin-0e04afee-1,CR-Franklin,1,Walpole - South Station via Back Bay,,2,20004103,CR-539498-748
 CR-Franklin-f562a79e-1,CR-Franklin,1,Forge Park/495 - South Station,,2,20004104,CR-539688-730
 CR-Greenbush-6d652c57-0,CR-Greenbush,0,South Station - Greenbush,,1,20005000,CR-528625-095
 CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,20005100,CR-528627-094
@@ -806,8 +798,6 @@ Shuttle-BeverlyOrientHeightsLimited-0-0,Shuttle-BeverlyOrientHeightsLimited,0,Or
 Shuttle-BeverlyOrientHeightsLimited-0-1,Shuttle-BeverlyOrientHeightsLimited,1,Beverly - Orient Heights,,4,60697199,CR-LateMayShuttle-Weekday-LtdBev-1-05:20:00
 Shuttle-BeverlyOrientHeightsLocal-0-0,Shuttle-BeverlyOrientHeightsLocal,0,Orient Heights - Beverly,,4,60698099,CR-LateMayShuttle-Weekday-LBev-0-05:09:00
 Shuttle-BeverlyOrientHeightsLocal-0-1,Shuttle-BeverlyOrientHeightsLocal,1,Beverly - Orient Heights,,4,60698199,CR-LateMayShuttle-Weekday-LBev-1-04:50:00
-Shuttle-BroadwayJFK-0-0,Shuttle-BroadwayJFK,0,Broadway - JFK/UMass,,4,61040099,50891413-BroadwayJFK1
-Shuttle-BroadwayJFK-0-1,Shuttle-BroadwayJFK,1,JFK/UMass - Broadway,,4,61040199,50891327-BroadwayJFK1
 Shuttle-OrientHeightsWonderland-0-0,Shuttle-OrientHeightsWonderland,0,Wonderland - Orient Heights,,4,62350099,50982312-OrientHeightsWonderland1
 Shuttle-OrientHeightsWonderland-0-1,Shuttle-OrientHeightsWonderland,1,Orient Heights - Wonderland,,4,62350199,50982363-OrientHeightsWonderland1
 Shuttle-ReservoirRiverside-0-0,Shuttle-ReservoirRiverside,0,Reservoir - Riverside,,4,62400099,50977301-ReservoirRiverside1
