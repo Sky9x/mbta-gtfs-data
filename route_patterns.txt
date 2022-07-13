@@ -3,14 +3,24 @@ Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,52370898
 Red-3-0,Red,0,Alewife - Braintree,,1,10010005,52371137
 Red-1-0_70061_70067_2,Red,0,Harvard - Ashmont,,4,10010099,51849598-AlewifeHarvard2
 Red-1-0_70061_70071_2,Red,0,Kendall/MIT - Ashmont,,4,10010099,51849598-AlewifeKendall2
+Red-1-0_70067_70079_0,Red,0,Alewife - Harvard,,4,10010099,51849257-HarvardSouthStation0
+Red-1-0_70067_70079_2,Red,0,South Station - Ashmont,,4,10010099,51849257-HarvardSouthStation2
+Red-1-0_70085_70093_0,Red,0,Alewife - JFK/UMass,,4,10010099,51849601-18:00-JFKMattapanRed0
 Red-3-0_70061_70067_2,Red,0,Harvard - Braintree,,4,10010099,51849837-AlewifeHarvard2
 Red-3-0_70061_70071_2,Red,0,Kendall/MIT - Braintree,,4,10010099,51849837-AlewifeKendall2
+Red-3-0_70067_70079_0,Red,0,Alewife - Harvard,,4,10010099,51849255-HarvardSouthStation0
+Red-3-0_70067_70079_2,Red,0,South Station - Braintree,,4,10010099,51849255-HarvardSouthStation2
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010100,52370903
 Red-3-1,Red,1,Braintree - Alewife,,1,10010101,52371057
 Red-1-1_70068_70061_0,Red,1,Ashmont - Harvard,,4,10010199,51849603-AlewifeHarvard0
 Red-1-1_70072_70061_0,Red,1,Ashmont - Kendall/MIT,,4,10010199,51849603-AlewifeKendall0
+Red-1-1_70080_70068_0,Red,1,Ashmont - South Station,,4,10010199,51849258-HarvardSouthStation0
+Red-1-1_70080_70068_2,Red,1,Harvard - Alewife,,4,10010199,51849258-HarvardSouthStation2
+Red-1-1_70094_70086_2,Red,1,JFK/UMass - Alewife,,4,10010199,51849604-18:00-JFKMattapanRed2
 Red-3-1_70068_70061_0,Red,1,Braintree - Harvard,,4,10010199,51849757-AlewifeHarvard0
 Red-3-1_70072_70061_0,Red,1,Braintree - Kendall/MIT,,4,10010199,51849757-AlewifeKendall0
+Red-3-1_70080_70068_0,Red,1,Braintree - South Station,,4,10010199,51849256-HarvardSouthStation0
+Red-3-1_70080_70068_2,Red,1,Harvard - Alewife,,4,10010199,51849256-HarvardSouthStation2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,51931609
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,51931607
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,52371252
@@ -706,10 +716,12 @@ Shuttle-BeverlyWellingtonExpress-0-0,Shuttle-BeverlyWellingtonExpress,0,Wellingt
 Shuttle-BeverlyWellingtonExpress-0-1,Shuttle-BeverlyWellingtonExpress,1,Newburyport or Rockport - Wellington,,4,60735199,CR-WellingtonJulyShuttle-Saturday-Exp-1-05:42:00
 Shuttle-BeverlyWellingtonLocal-0-0,Shuttle-BeverlyWellingtonLocal,0,Wellington - Newburyport or Rockport,,4,60740099,CR-WellingtonJulyShuttle-Saturday-Loc-0-04:55:00
 Shuttle-BeverlyWellingtonLocal-0-1,Shuttle-BeverlyWellingtonLocal,1,Newburyport or Rockport - Wellington,,4,60740199,CR-WellingtonJulyShuttle-Saturday-Loc-1-04:42:00
-Shuttle-BostonCollegeKenmore-0-0,Shuttle-BostonCollegeKenmore,0,Kenmore - Boston College,,4,60790099,Green-B-JuneShuttle-Weekday-0-05:59:00
-Shuttle-BostonCollegeKenmore-0-1,Shuttle-BostonCollegeKenmore,1,Boston College - Kenmore,,4,60790199,Green-B-JuneShuttle-Weekday-1-05:01:00
 Shuttle-ClevelandCircleKenmore-0-0,Shuttle-ClevelandCircleKenmore,0,Kenmore - Cleveland Circle,,4,61400099,52139574-ClevelandCircleKenmore1
 Shuttle-ClevelandCircleKenmore-0-1,Shuttle-ClevelandCircleKenmore,1,Cleveland Circle - Kenmore,,4,61400199,52139575-ClevelandCircleKenmore1
+Shuttle-HarvardSouthStation-0-0,Shuttle-HarvardSouthStation,0,Harvard - South Station,,4,61962099,51849255-HarvardSouthStation1
+Shuttle-HarvardSouthStation-0-1,Shuttle-HarvardSouthStation,1,South Station - Harvard,,4,61962199,51849256-HarvardSouthStation1
+Shuttle-JFKMattapan-0-0,Shuttle-JFKMattapan,0,JFK/UMass via Ashmont - Mattapan via Ashmont,,4,61990099,51931412-18:00-JFKMattapanMattapan1
+Shuttle-JFKMattapan-0-1,Shuttle-JFKMattapan,1,Mattapan via Ashmont - JFK/UMass via Ashmont,,4,61990199,51931411-18:00-JFKMattapanMattapan1
 Shuttle-AndersonWoburnNorthStationLocal-0-0,Shuttle-AndersonWoburnNorthStationLocal,0,North Station - Anderson/Woburn,,4,62230099,CR-AndersonJulyShuttle-Saturday-Loc-0-06:06:00
 Shuttle-AndersonWoburnNorthStationLocal-0-1,Shuttle-AndersonWoburnNorthStationLocal,1,Anderson/Woburn - North Station,,4,62230199,CR-AndersonJulyShuttle-Saturday-Loc-1-05:54:00
 Shuttle-OakGroveWellington-0-0,Shuttle-OakGroveWellington,0,Oak Grove - Wellington,,4,62300099,52371252-OakGroveWellington1
