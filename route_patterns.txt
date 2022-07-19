@@ -1,35 +1,27 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,52370898
 Red-3-0,Red,0,Alewife - Braintree,,1,10010005,52371137
-Red-1-0_70061_70067_2,Red,0,Harvard - Ashmont,,4,10010099,51849598-AlewifeHarvard2
 Red-1-0_70061_70071_2,Red,0,Kendall/MIT - Ashmont,,4,10010099,51849598-AlewifeKendall2
 Red-1-0_70067_70079_0,Red,0,Alewife - Harvard,,4,10010099,51849257-HarvardSouthStation0
 Red-1-0_70067_70079_2,Red,0,South Station - Ashmont,,4,10010099,51849257-HarvardSouthStation2
 Red-1-0_70085_70093_0,Red,0,Alewife - JFK/UMass,,4,10010099,51849601-18:00-JFKMattapanRed0
-Red-3-0_70061_70067_2,Red,0,Harvard - Braintree,,4,10010099,51849837-AlewifeHarvard2
 Red-3-0_70061_70071_2,Red,0,Kendall/MIT - Braintree,,4,10010099,51849837-AlewifeKendall2
 Red-3-0_70067_70079_0,Red,0,Alewife - Harvard,,4,10010099,51849255-HarvardSouthStation0
 Red-3-0_70067_70079_2,Red,0,South Station - Braintree,,4,10010099,51849255-HarvardSouthStation2
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010100,52370903
 Red-3-1,Red,1,Braintree - Alewife,,1,10010101,52371057
-Red-1-1_70068_70061_0,Red,1,Ashmont - Harvard,,4,10010199,51849603-AlewifeHarvard0
 Red-1-1_70072_70061_0,Red,1,Ashmont - Kendall/MIT,,4,10010199,51849603-AlewifeKendall0
 Red-1-1_70080_70068_0,Red,1,Ashmont - South Station,,4,10010199,51849258-HarvardSouthStation0
 Red-1-1_70080_70068_2,Red,1,Harvard - Alewife,,4,10010199,51849258-HarvardSouthStation2
 Red-1-1_70094_70086_2,Red,1,JFK/UMass - Alewife,,4,10010199,51849604-18:00-JFKMattapanRed2
-Red-3-1_70068_70061_0,Red,1,Braintree - Harvard,,4,10010199,51849757-AlewifeHarvard0
 Red-3-1_70072_70061_0,Red,1,Braintree - Kendall/MIT,,4,10010199,51849757-AlewifeKendall0
 Red-3-1_70080_70068_0,Red,1,Braintree - South Station,,4,10010199,51849256-HarvardSouthStation0
 Red-3-1_70080_70068_2,Red,1,Harvard - Alewife,,4,10010199,51849256-HarvardSouthStation2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,51931609
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,51931607
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,52371252
-Orange-3-0_70026_70010_0,Orange,0,Oak Grove - North Station,,4,10020099,51720980-NorthStationRugglesSuspend0
-Orange-3-0_70026_70010_2,Orange,0,Ruggles - Forest Hills,,4,10020099,51720980-NorthStationRugglesSuspend2
 Orange-3-0_70036_70032_2,Orange,0,Wellington - Forest Hills,,4,10020099,52371252-OakGroveWellington2
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,52371253
-Orange-3-1_70011_70027_0,Orange,1,Forest Hills - Ruggles,,4,10020199,51720978-NorthStationRugglesSuspend0
-Orange-3-1_70011_70027_2,Orange,1,North Station - Oak Grove,,4,10020199,51720978-NorthStationRugglesSuspend2
 Orange-3-1_70033_70036_0,Orange,1,Forest Hills - Wellington,,4,10020199,52371253-OakGroveWellington0
 Green-B-812-0,Green-B,0,Government Center - Boston College,,1,10032000,52139435
 Green-B-812-1,Green-B,1,Boston College - Government Center,,1,10032100,52139434
@@ -116,19 +108,19 @@ CR-Needham-31ea698c-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,C
 CR-Newburyport-76fa2c91-0,CR-Newburyport,0,North Station - Newburyport,,1,20011000,CR-528388-165
 CR-Newburyport-5c4ca768-0,CR-Newburyport,0,North Station - Rockport,,1,20011001,CR-528416-123
 CR-Newburyport-23488827-0,CR-Newburyport,0,North Station - Beverly,,2,20011004,CR-528383-197
-CR-Newburyport-5bf8e4e7-0,CR-Newburyport,0,Beverly - Newburyport,,2,20011006,CR-541176-1151
+CR-Newburyport-5bf8e4e7-0,CR-Newburyport,0,Beverly - Newburyport,,2,20011006,CR-542907-161
 CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011009,CR-528389-167
 CR-Newburyport-41467013-0,CR-Newburyport,0,North Station - Newburyport,,2,20011012,CR-528392-161
-CR-Newburyport-fa1237e3-0,CR-Newburyport,0,Beverly - Rockport,,2,20011016,CR-541157-1101
+CR-Newburyport-fa1237e3-0,CR-Newburyport,0,Beverly - Rockport,,2,20011016,CR-542913-109
 CR-Newburyport-60c66f68-0,CR-Newburyport,0,North Station - Rockport,,2,20011017,CR-528415-125
 CR-Newburyport-2917cd27-0,CR-Newburyport,0,North Station - Rockport,,2,20011018,CR-528435-103
 CR-Newburyport-ff47d622-1,CR-Newburyport,1,Newburyport - North Station,,1,20011100,CR-528403-154
 CR-Newburyport-7d8a4d5e-1,CR-Newburyport,1,Rockport - North Station,,1,20011101,CR-528418-124
 CR-Newburyport-6c947f8b-1,CR-Newburyport,1,Beverly - North Station,,2,20011103,CR-528386-192
-CR-Newburyport-5e0dff25-1,CR-Newburyport,1,Newburyport - Beverly,,2,20011105,CR-541175-1150
+CR-Newburyport-5e0dff25-1,CR-Newburyport,1,Newburyport - Beverly,,2,20011105,CR-542902-160
 CR-Newburyport-752605f8-1,CR-Newburyport,1,Newburyport - North Station,,2,20011107,CR-528390-164
 CR-Newburyport-f0909b4e-1,CR-Newburyport,1,Beverly - North Station,,2,20011108,CR-528384-198
-CR-Newburyport-c7b64e55-1,CR-Newburyport,1,Rockport - Beverly,,2,20011110,CR-541158-1102
+CR-Newburyport-c7b64e55-1,CR-Newburyport,1,Rockport - Beverly,,2,20011110,CR-542912-114
 CR-Newburyport-8781957a-1,CR-Newburyport,1,Rockport - North Station,,2,20011111,CR-528422-120
 CR-Providence-d29e0167-0,CR-Providence,0,South Station - Stoughton,,1,20012000,CR-524707-877
 CR-Providence-55a1868e-0,CR-Providence,0,South Station - Wickford Junction,,1,20012001,CR-524710-803
@@ -706,16 +698,14 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140106,52444805
 716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,52441752
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,52441747
-Shuttle-AlewifeHarvard-0-0,Shuttle-AlewifeHarvard,0,Alewife - Harvard,,4,60219099,51849598-AlewifeHarvard1
-Shuttle-AlewifeHarvard-0-1,Shuttle-AlewifeHarvard,1,Harvard - Alewife,,4,60219199,51849603-AlewifeHarvard1
 Shuttle-AlewifeKendall-0-0,Shuttle-AlewifeKendall,0,Alewife - Kendall/MIT,,4,60220099,51849598-AlewifeKendall1
 Shuttle-AlewifeKendall-0-1,Shuttle-AlewifeKendall,1,Kendall/MIT - Alewife,,4,60220199,51849603-AlewifeKendall1
 Shuttle-AndersonWoburnNorthStationExpress-0-0,Shuttle-AndersonWoburnNorthStationExpress,0,North Station - Anderson/Woburn,,4,60225099,CR-AndersonJulyShuttle-Saturday-Exp-0-06:21:00
 Shuttle-AndersonWoburnNorthStationExpress-0-1,Shuttle-AndersonWoburnNorthStationExpress,1,Anderson/Woburn - North Station,,4,60225199,CR-AndersonJulyShuttle-Saturday-Exp-1-05:54:00
-Shuttle-BeverlyWellingtonExpress-0-0,Shuttle-BeverlyWellingtonExpress,0,Wellington - Newburyport or Rockport,,4,60735099,CR-WellingtonJulyShuttle-Saturday-Exp-0-05:10:00
-Shuttle-BeverlyWellingtonExpress-0-1,Shuttle-BeverlyWellingtonExpress,1,Newburyport or Rockport - Wellington,,4,60735199,CR-WellingtonJulyShuttle-Saturday-Exp-1-05:42:00
-Shuttle-BeverlyWellingtonLocal-0-0,Shuttle-BeverlyWellingtonLocal,0,Wellington - Newburyport or Rockport,,4,60740099,CR-WellingtonJulyShuttle-Saturday-Loc-0-04:55:00
-Shuttle-BeverlyWellingtonLocal-0-1,Shuttle-BeverlyWellingtonLocal,1,Newburyport or Rockport - Wellington,,4,60740199,CR-WellingtonJulyShuttle-Saturday-Loc-1-04:42:00
+Shuttle-BeverlyWellingtonExpress-0-0,Shuttle-BeverlyWellingtonExpress,0,Wellington - Newburyport or Rockport,,4,60735099,CR-WellingtonJulyShuttle-Weekday-Exp-0-05:15:00
+Shuttle-BeverlyWellingtonExpress-0-1,Shuttle-BeverlyWellingtonExpress,1,Newburyport or Rockport - Wellington,,4,60735199,CR-WellingtonJulyShuttle-Weekday-Exp-1-05:20:00
+Shuttle-BeverlyWellingtonLocal-0-0,Shuttle-BeverlyWellingtonLocal,0,Wellington - Newburyport or Rockport,,4,60740099,CR-WellingtonJulyShuttle-Weekday-Loc-0-04:55:00
+Shuttle-BeverlyWellingtonLocal-0-1,Shuttle-BeverlyWellingtonLocal,1,Newburyport or Rockport - Wellington,,4,60740199,CR-WellingtonJulyShuttle-Weekday-Loc-1-04:50:00
 Shuttle-ClevelandCircleKenmore-0-0,Shuttle-ClevelandCircleKenmore,0,Kenmore - Cleveland Circle,,4,61400099,52139574-ClevelandCircleKenmore1
 Shuttle-ClevelandCircleKenmore-0-1,Shuttle-ClevelandCircleKenmore,1,Cleveland Circle - Kenmore,,4,61400199,52139575-ClevelandCircleKenmore1
 Shuttle-HarvardSouthStation-0-0,Shuttle-HarvardSouthStation,0,Harvard - South Station,,4,61962099,51849255-HarvardSouthStation1
@@ -726,5 +716,3 @@ Shuttle-AndersonWoburnNorthStationLocal-0-0,Shuttle-AndersonWoburnNorthStationLo
 Shuttle-AndersonWoburnNorthStationLocal-0-1,Shuttle-AndersonWoburnNorthStationLocal,1,Anderson/Woburn - North Station,,4,62230199,CR-AndersonJulyShuttle-Saturday-Loc-1-05:54:00
 Shuttle-OakGroveWellington-0-0,Shuttle-OakGroveWellington,0,Oak Grove - Wellington,,4,62300099,52371252-OakGroveWellington1
 Shuttle-OakGroveWellington-0-1,Shuttle-OakGroveWellington,1,Wellington - Oak Grove,,4,62300199,52371253-OakGroveWellington1
-Shuttle-ReadvilleSouthStation-0-0,Shuttle-ReadvilleSouthStation,0,South Station - Readville,,4,62375099,CR-525225-1903-ReadvilleSouthStationFMT1
-Shuttle-ReadvilleSouthStation-0-1,Shuttle-ReadvilleSouthStation,1,Readville - South Station,,4,62375199,CR-525224-1902-ReadvilleSouthStationFMT1
