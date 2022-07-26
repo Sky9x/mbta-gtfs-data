@@ -2,21 +2,11 @@ route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_des
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,52370898
 Red-3-0,Red,0,Alewife - Braintree,,1,10010005,52371137
 Red-1-0_70061_70071_2,Red,0,Kendall/MIT - Ashmont,,4,10010099,51849598-AlewifeKendall2
-Red-1-0_70067_70079_0,Red,0,Alewife - Harvard,,4,10010099,51849257-HarvardSouthStation0
-Red-1-0_70067_70079_2,Red,0,South Station - Ashmont,,4,10010099,51849257-HarvardSouthStation2
-Red-1-0_70085_70093_0,Red,0,Alewife - JFK/UMass,,4,10010099,51849601-18:00-JFKMattapanRed0
 Red-3-0_70061_70071_2,Red,0,Kendall/MIT - Braintree,,4,10010099,51849837-AlewifeKendall2
-Red-3-0_70067_70079_0,Red,0,Alewife - Harvard,,4,10010099,51849255-HarvardSouthStation0
-Red-3-0_70067_70079_2,Red,0,South Station - Braintree,,4,10010099,51849255-HarvardSouthStation2
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010100,52370903
 Red-3-1,Red,1,Braintree - Alewife,,1,10010101,52371057
 Red-1-1_70072_70061_0,Red,1,Ashmont - Kendall/MIT,,4,10010199,51849603-AlewifeKendall0
-Red-1-1_70080_70068_0,Red,1,Ashmont - South Station,,4,10010199,51849258-HarvardSouthStation0
-Red-1-1_70080_70068_2,Red,1,Harvard - Alewife,,4,10010199,51849258-HarvardSouthStation2
-Red-1-1_70094_70086_2,Red,1,JFK/UMass - Alewife,,4,10010199,51849604-18:00-JFKMattapanRed2
 Red-3-1_70072_70061_0,Red,1,Braintree - Kendall/MIT,,4,10010199,51849757-AlewifeKendall0
-Red-3-1_70080_70068_0,Red,1,Braintree - South Station,,4,10010199,51849256-HarvardSouthStation0
-Red-3-1_70080_70068_2,Red,1,Harvard - Alewife,,4,10010199,51849256-HarvardSouthStation2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,51931609
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,51931607
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,52371252
@@ -138,6 +128,8 @@ CR-Providence-e99e5ce2-1,CR-Providence,1,Providence - South Station,,2,20012104,
 CR-Providence-87821f71-1,CR-Providence,1,Wickford Junction - South Station,,2,20012105,CR-524784-836
 CR-Providence-bffb2f0c-1,CR-Providence,1,Providence - South Station,,2,20012106,CR-524787-824
 CR-Providence-4f7f6e16-1,CR-Providence,1,Wickford Junction - South Station,,2,20012107,CR-524914-810
+CR-Providence-af596fdf-1_NEC-1851_NEC-1969_2,CR-Providence,1,Attleboro - South Station,,4,20012199,CR-525338-1800-AttleboroProvidenceExpress2
+CR-Foxboro-ee315553-0,CR-Foxboro,0,South Station - Foxboro,,1,20013000,CR-544876-9781
 CapeFlyer-0c525908-0,CapeFlyer,0,South Station - Hyannis,,1,21000000,CR-529155-9001
 CapeFlyer-96005428-1,CapeFlyer,1,Hyannis - South Station,,1,21000100,CR-529154-9002
 Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-0630-Long-B-01-Weekday-Summer-22
@@ -702,16 +694,13 @@ Shuttle-AlewifeKendall-0-0,Shuttle-AlewifeKendall,0,Alewife - Kendall/MIT,,4,602
 Shuttle-AlewifeKendall-0-1,Shuttle-AlewifeKendall,1,Kendall/MIT - Alewife,,4,60220199,51849603-AlewifeKendall1
 Shuttle-AndersonWoburnNorthStationExpress-0-0,Shuttle-AndersonWoburnNorthStationExpress,0,North Station - Anderson/Woburn,,4,60225099,CR-AndersonJulyShuttle-Saturday-Exp-0-06:21:00
 Shuttle-AndersonWoburnNorthStationExpress-0-1,Shuttle-AndersonWoburnNorthStationExpress,1,Anderson/Woburn - North Station,,4,60225199,CR-AndersonJulyShuttle-Saturday-Exp-1-05:54:00
+Shuttle-AttleboroProvidenceExpress-0-1,Shuttle-AttleboroProvidenceExpress,1,Providence - Attleboro,,4,60375199,CR-525338-1800-AttleboroProvidenceExpress1
 Shuttle-BeverlyWellingtonExpress-0-0,Shuttle-BeverlyWellingtonExpress,0,Wellington - Newburyport or Rockport,,4,60735099,CR-WellingtonJulyShuttle-Weekday-Exp-0-05:15:00
 Shuttle-BeverlyWellingtonExpress-0-1,Shuttle-BeverlyWellingtonExpress,1,Newburyport or Rockport - Wellington,,4,60735199,CR-WellingtonJulyShuttle-Weekday-Exp-1-05:20:00
 Shuttle-BeverlyWellingtonLocal-0-0,Shuttle-BeverlyWellingtonLocal,0,Wellington - Newburyport or Rockport,,4,60740099,CR-WellingtonJulyShuttle-Weekday-Loc-0-04:55:00
 Shuttle-BeverlyWellingtonLocal-0-1,Shuttle-BeverlyWellingtonLocal,1,Newburyport or Rockport - Wellington,,4,60740199,CR-WellingtonJulyShuttle-Weekday-Loc-1-04:50:00
 Shuttle-ClevelandCircleKenmore-0-0,Shuttle-ClevelandCircleKenmore,0,Kenmore - Cleveland Circle,,4,61400099,52139574-ClevelandCircleKenmore1
 Shuttle-ClevelandCircleKenmore-0-1,Shuttle-ClevelandCircleKenmore,1,Cleveland Circle - Kenmore,,4,61400199,52139575-ClevelandCircleKenmore1
-Shuttle-HarvardSouthStation-0-0,Shuttle-HarvardSouthStation,0,Harvard - South Station,,4,61962099,51849255-HarvardSouthStation1
-Shuttle-HarvardSouthStation-0-1,Shuttle-HarvardSouthStation,1,South Station - Harvard,,4,61962199,51849256-HarvardSouthStation1
-Shuttle-JFKMattapan-0-0,Shuttle-JFKMattapan,0,JFK/UMass via Ashmont - Mattapan via Ashmont,,4,61990099,51931412-18:00-JFKMattapanMattapan1
-Shuttle-JFKMattapan-0-1,Shuttle-JFKMattapan,1,Mattapan via Ashmont - JFK/UMass via Ashmont,,4,61990199,51931411-18:00-JFKMattapanMattapan1
 Shuttle-AndersonWoburnNorthStationLocal-0-0,Shuttle-AndersonWoburnNorthStationLocal,0,North Station - Anderson/Woburn,,4,62230099,CR-AndersonJulyShuttle-Saturday-Loc-0-06:06:00
 Shuttle-AndersonWoburnNorthStationLocal-0-1,Shuttle-AndersonWoburnNorthStationLocal,1,Anderson/Woburn - North Station,,4,62230199,CR-AndersonJulyShuttle-Saturday-Loc-1-05:54:00
 Shuttle-OakGroveWellington-0-0,Shuttle-OakGroveWellington,0,Oak Grove - Wellington,,4,62300099,52371252-OakGroveWellington1
