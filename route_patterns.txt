@@ -1,13 +1,9 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,52370898
 Red-3-0,Red,0,Alewife - Braintree,,1,10010005,52371137
-Red-1-0_70061_70071_2,Red,0,Kendall/MIT - Ashmont,,4,10010099,51849598-AlewifeKendall2
-Red-3-0_70061_70071_2,Red,0,Kendall/MIT - Braintree,,4,10010099,51849837-AlewifeKendall2
 Red-3-0_70095_70105_0,Red,0,Alewife - JFK/UMass,,4,10010099,52371198-20:45-BraintreeJFK0
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010100,52370903
 Red-3-1,Red,1,Braintree - Alewife,,1,10010101,52371057
-Red-1-1_70072_70061_0,Red,1,Ashmont - Kendall/MIT,,4,10010199,51849603-AlewifeKendall0
-Red-3-1_70072_70061_0,Red,1,Braintree - Kendall/MIT,,4,10010199,51849757-AlewifeKendall0
 Red-3-1_70105_70096_2,Red,1,JFK/UMass - Alewife,,4,10010199,52371057-20:45-BraintreeJFK2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,51931609
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,51931607
@@ -16,13 +12,13 @@ Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,52371253
 Green-B-812-0,Green-B,0,Government Center - Boston College,,1,10032000,52139435
 Green-B-812-1,Green-B,1,Boston College - Government Center,,1,10032100,52139434
 Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,10033000,52139574
-Green-C-832-0_70151_70237_0,Green-C,0,Government Center - Kenmore,,4,10033099,52139574-ClevelandCircleKenmore0
 Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,52139575
-Green-C-832-1_70238_70150_2,Green-C,1,Kenmore - Government Center,,4,10033199,52139575-ClevelandCircleKenmore2
 Green-D-851-0,Green-D,0,North Station - Riverside,,1,10034000,52139800
 Green-D-855-0,Green-D,0,Union Square - Riverside,Weekday early mornings only,3,10034004,52139874
+Green-D-0-0,Green-D,0,Union Square - Reservoir,,4,10034099,Green-D-AugUnionSq-Weekday-0-04:50:00
 Green-D-851-1,Green-D,1,Riverside - North Station,,1,10034100,52139798
 Green-D-855-1,Green-D,1,Riverside - Union Square,Weekday mornings only,3,10034104,52139875
+Green-D-0-1,Green-D,1,Reservoir - Union Square,,4,10034199,Green-D-AugUnionSq-Weekday-1-05:47:00
 Green-E-885-0,Green-E,0,Union Square - Heath Street,,1,10035000,52139420
 Green-E-885-1,Green-E,1,Heath Street - Union Square,,1,10035100,52139419
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,52451735
@@ -76,19 +72,15 @@ CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,20005100,CR-
 CR-Haverhill-ead99721-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,20006000,CR-525633-223
 CR-Haverhill-d8edcefc-0,CR-Haverhill,0,North Station - Haverhill,,2,20006001,CR-525754-217
 CR-Haverhill-1ec1f271-0,CR-Haverhill,0,North Station - Reading,,2,20006002,CR-525634-281
-CR-Haverhill-6cbbbdd2-0,CR-Haverhill,0,Malden Center - Haverhill via Reading,,2,20006003,CR-541194-1201
 CR-Haverhill-5c4518ee-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,20006100,CR-528370-224
 CR-Haverhill-76e7e4ff-1,CR-Haverhill,1,Haverhill - North Station,,2,20006101,CR-528373-218
 CR-Haverhill-dbb78d1b-1,CR-Haverhill,1,Reading - North Station,,2,20006103,CR-528360-298
-CR-Haverhill-56b19745-1,CR-Haverhill,1,Haverhill - Malden Center via Reading,,2,20006104,CR-541193-1200
 CR-Kingston-8edf9cf3-0,CR-Kingston,0,South Station - Kingston,,1,20007000,CR-528653-063
 CR-Kingston-a80a8fd4-0,CR-Kingston,0,Braintree - Kingston,,2,20007001,CR-528652-065
 CR-Kingston-5615f391-1,CR-Kingston,1,Kingston - South Station,,1,20007100,CR-528654-062
 CR-Kingston-285ad791-1,CR-Kingston,1,Kingston - Braintree,,2,20007101,CR-528651-064
 CR-Lowell-3b023975-0,CR-Lowell,0,North Station - Lowell,,1,20008000,CR-528314-341
-CR-Lowell-b7262e5d-0,CR-Lowell,0,Anderson/Woburn - Lowell,,2,20008001,CR-541197-1313
 CR-Lowell-89fe964c-1,CR-Lowell,1,Lowell - North Station,,1,20008100,CR-528316-342
-CR-Lowell-7745ae7e-1,CR-Lowell,1,Lowell - Anderson/Woburn,,2,20008101,CR-541198-1314
 CR-Middleborough-2507c3b4-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,20009000,CR-524888-003
 CR-Middleborough-cd96ff97-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,20009100,CR-524879-002
 CR-Needham-8ca06f5a-0,CR-Needham,0,South Station - Needham Heights,,1,20010000,CR-524702-613
@@ -97,19 +89,19 @@ CR-Needham-31ea698c-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,C
 CR-Newburyport-76fa2c91-0,CR-Newburyport,0,North Station - Newburyport,,1,20011000,CR-528388-165
 CR-Newburyport-5c4ca768-0,CR-Newburyport,0,North Station - Rockport,,1,20011001,CR-528416-123
 CR-Newburyport-23488827-0,CR-Newburyport,0,North Station - Beverly,,2,20011004,CR-528383-197
-CR-Newburyport-5bf8e4e7-0,CR-Newburyport,0,Beverly - Newburyport,,2,20011006,CR-541176-1151
+CR-Newburyport-5bf8e4e7-0,CR-Newburyport,0,Beverly - Newburyport,,2,20011006,CR-542907-161
 CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011009,CR-528389-167
 CR-Newburyport-41467013-0,CR-Newburyport,0,North Station - Newburyport,,2,20011012,CR-528392-161
-CR-Newburyport-fa1237e3-0,CR-Newburyport,0,Beverly - Rockport,,2,20011016,CR-541157-1101
+CR-Newburyport-fa1237e3-0,CR-Newburyport,0,Beverly - Rockport,,2,20011016,CR-542913-109
 CR-Newburyport-60c66f68-0,CR-Newburyport,0,North Station - Rockport,,2,20011017,CR-528415-125
 CR-Newburyport-2917cd27-0,CR-Newburyport,0,North Station - Rockport,,2,20011018,CR-528435-103
 CR-Newburyport-ff47d622-1,CR-Newburyport,1,Newburyport - North Station,,1,20011100,CR-528403-154
 CR-Newburyport-7d8a4d5e-1,CR-Newburyport,1,Rockport - North Station,,1,20011101,CR-528418-124
 CR-Newburyport-6c947f8b-1,CR-Newburyport,1,Beverly - North Station,,2,20011103,CR-528386-192
-CR-Newburyport-5e0dff25-1,CR-Newburyport,1,Newburyport - Beverly,,2,20011105,CR-541175-1150
+CR-Newburyport-5e0dff25-1,CR-Newburyport,1,Newburyport - Beverly,,2,20011105,CR-542902-160
 CR-Newburyport-752605f8-1,CR-Newburyport,1,Newburyport - North Station,,2,20011107,CR-528390-164
 CR-Newburyport-f0909b4e-1,CR-Newburyport,1,Beverly - North Station,,2,20011108,CR-528384-198
-CR-Newburyport-c7b64e55-1,CR-Newburyport,1,Rockport - Beverly,,2,20011110,CR-541158-1102
+CR-Newburyport-c7b64e55-1,CR-Newburyport,1,Rockport - Beverly,,2,20011110,CR-542912-114
 CR-Newburyport-8781957a-1,CR-Newburyport,1,Rockport - North Station,,2,20011111,CR-528422-120
 CR-Providence-d29e0167-0,CR-Providence,0,South Station - Stoughton,,1,20012000,CR-524707-877
 CR-Providence-55a1868e-0,CR-Providence,0,South Station - Wickford Junction,,1,20012001,CR-524710-803
@@ -689,22 +681,10 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140106,52444805
 716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,52441752
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,52441747
-Shuttle-AlewifeKendall-0-0,Shuttle-AlewifeKendall,0,Alewife - Kendall/MIT,,4,60220099,51849598-AlewifeKendall1
-Shuttle-AlewifeKendall-0-1,Shuttle-AlewifeKendall,1,Kendall/MIT - Alewife,,4,60220199,51849603-AlewifeKendall1
-Shuttle-AndersonWoburnNorthStationExpress-0-0,Shuttle-AndersonWoburnNorthStationExpress,0,North Station - Anderson/Woburn,,4,60225099,CR-AndersonJulyShuttle-Saturday-Exp-0-06:21:00
-Shuttle-AndersonWoburnNorthStationExpress-0-1,Shuttle-AndersonWoburnNorthStationExpress,1,Anderson/Woburn - North Station,,4,60225199,CR-AndersonJulyShuttle-Saturday-Exp-1-05:54:00
 Shuttle-AttleboroProvidenceExpress-0-1,Shuttle-AttleboroProvidenceExpress,1,Providence - Attleboro,,4,60375199,CR-525338-1800-AttleboroProvidenceExpress1
-Shuttle-BeverlyNorthStationExpress-0-0,Shuttle-BeverlyNorthStationExpress,0,North Station - Newburyport or Rockport,,4,60692099,CR-NorthStaAugShuttle-Saturday-Exp-0-05:14:00
-Shuttle-BeverlyNorthStationExpress-0-1,Shuttle-BeverlyNorthStationExpress,1,Newburyport or Rockport - North Station,,4,60692199,CR-NorthStaAugShuttle-Saturday-Exp-1-05:42:00
-Shuttle-BeverlyNorthStationLocal-0-0,Shuttle-BeverlyNorthStationLocal,0,North Station - Newburyport or Rockport,,4,60693099,CR-NorthStaAugShuttle-Saturday-Loc-0-04:54:00
-Shuttle-BeverlyNorthStationLocal-0-1,Shuttle-BeverlyNorthStationLocal,1,Newburyport or Rockport - North Station,,4,60693199,CR-NorthStaAugShuttle-Saturday-Loc-1-04:42:00
-Shuttle-BeverlyWellingtonExpress-0-0,Shuttle-BeverlyWellingtonExpress,0,Wellington - Newburyport or Rockport,,4,60735099,CR-WellingtonJulyShuttle-Weekday-Exp-0-05:15:00
-Shuttle-BeverlyWellingtonExpress-0-1,Shuttle-BeverlyWellingtonExpress,1,Newburyport or Rockport - Wellington,,4,60735199,CR-WellingtonJulyShuttle-Weekday-Exp-1-05:20:00
-Shuttle-BeverlyWellingtonLocal-0-0,Shuttle-BeverlyWellingtonLocal,0,Wellington - Newburyport or Rockport,,4,60740099,CR-WellingtonJulyShuttle-Weekday-Loc-0-04:55:00
-Shuttle-BeverlyWellingtonLocal-0-1,Shuttle-BeverlyWellingtonLocal,1,Newburyport or Rockport - Wellington,,4,60740199,CR-WellingtonJulyShuttle-Weekday-Loc-1-04:50:00
+Shuttle-BeverlyNorthStationExpress-0-0,Shuttle-BeverlyNorthStationExpress,0,North Station - Newburyport or Rockport,,4,60692099,CR-NorthStationAugustShuttle-Weekday-Exp-0-05:15:00
+Shuttle-BeverlyNorthStationExpress-0-1,Shuttle-BeverlyNorthStationExpress,1,Newburyport or Rockport - North Station,,4,60692199,CR-NorthStationAugustShuttle-Weekday-Exp-1-05:20:00
+Shuttle-BeverlyNorthStationLocal-0-0,Shuttle-BeverlyNorthStationLocal,0,North Station - Newburyport or Rockport,,4,60693099,CR-NorthStationAugustShuttle-Weekday-Loc-0-05:00:00
+Shuttle-BeverlyNorthStationLocal-0-1,Shuttle-BeverlyNorthStationLocal,1,Newburyport or Rockport - North Station,,4,60693199,CR-NorthStationAugustShuttle-Weekday-Loc-1-05:20:00
 Shuttle-BraintreeJFK-0-0,Shuttle-BraintreeJFK,0,JFK/UMass - Braintree,,4,60940099,52371198-20:45-BraintreeJFK1
 Shuttle-BraintreeJFK-0-1,Shuttle-BraintreeJFK,1,Braintree - JFK/UMass,,4,60940199,52371057-20:45-BraintreeJFK1
-Shuttle-ClevelandCircleKenmore-0-0,Shuttle-ClevelandCircleKenmore,0,Kenmore - Cleveland Circle,,4,61400099,52139574-ClevelandCircleKenmore1
-Shuttle-ClevelandCircleKenmore-0-1,Shuttle-ClevelandCircleKenmore,1,Cleveland Circle - Kenmore,,4,61400199,52139575-ClevelandCircleKenmore1
-Shuttle-AndersonWoburnNorthStationLocal-0-0,Shuttle-AndersonWoburnNorthStationLocal,0,North Station - Anderson/Woburn,,4,62230099,CR-AndersonJulyShuttle-Saturday-Loc-0-06:06:00
-Shuttle-AndersonWoburnNorthStationLocal-0-1,Shuttle-AndersonWoburnNorthStationLocal,1,Anderson/Woburn - North Station,,4,62230199,CR-AndersonJulyShuttle-Saturday-Loc-1-05:54:00
