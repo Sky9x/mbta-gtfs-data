@@ -42,8 +42,10 @@ CR-Fairmount-dc5eb181-0,CR-Fairmount,0,South Station - Readville via Fairmount,,
 CR-Fairmount-3dfc2722-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-524720-926
 CR-Fitchburg-979a6935-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-525665-433
 CR-Fitchburg-ce651dfc-0,CR-Fitchburg,0,North Station - Littleton/Route 495,,2,20002001,CR-528303-413
+CR-Fitchburg-979a6935-0_FR-0451_FR-3338-CS_0,CR-Fitchburg,0,North Station - North Leominster,,4,20002099,CR-525681-417-LeoWachuEarly0
 CR-Fitchburg-008fca34-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-528295-428
 CR-Fitchburg-472835d4-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,20002101,CR-528306-418
+CR-Fitchburg-008fca34-1_FR-3338-CS_FR-0451_2,CR-Fitchburg,1,North Leominster - North Station,,4,20002199,CR-528300-420-LeoWachuEarly2
 CR-Worcester-38e2728b-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-536397-537
 CR-Worcester-31b7b4bc-0,CR-Worcester,0,South Station - Framingham,,2,20003001,CR-536291-595
 CR-Worcester-1d310675-0,CR-Worcester,0,South Station - Worcester,,2,20003002,CR-536406-527
@@ -119,8 +121,8 @@ CR-Providence-e99e5ce2-1,CR-Providence,1,Providence - South Station,,2,20012104,
 CR-Providence-87821f71-1,CR-Providence,1,Wickford Junction - South Station,,2,20012105,CR-524784-836
 CR-Providence-bffb2f0c-1,CR-Providence,1,Providence - South Station,,2,20012106,CR-524787-824
 CR-Providence-4f7f6e16-1,CR-Providence,1,Wickford Junction - South Station,,2,20012107,CR-524914-810
-CR-Providence-af596fdf-1_NEC-1851_NEC-1969_2,CR-Providence,1,Attleboro - South Station,,4,20012199,CR-525338-1800-AttleboroProvidenceExpress2
-CR-Foxboro-ee315553-0,CR-Foxboro,0,South Station - Foxboro,,1,20013000,CR-544876-9781
+CR-Foxboro-ee315553-0,CR-Foxboro,0,South Station - Foxboro,,1,20013000,CR-549893-9771
+CR-Foxboro-26725160-1,CR-Foxboro,1,Providence - Foxboro,,1,20013100,CR-549894-9882
 CapeFlyer-0c525908-0,CapeFlyer,0,South Station - Hyannis,,1,21000000,CR-529155-9001
 CapeFlyer-96005428-1,CapeFlyer,1,Hyannis - South Station,,1,21000100,CR-529154-9002
 Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-0630-Long-B-01-Weekday-Summer-22
@@ -681,10 +683,11 @@ Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Su
 714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140106,52444805
 716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,52441752
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,52441747
-Shuttle-AttleboroProvidenceExpress-0-1,Shuttle-AttleboroProvidenceExpress,1,Providence - Attleboro,,4,60375199,CR-525338-1800-AttleboroProvidenceExpress1
 Shuttle-BeverlyNorthStationExpress-0-0,Shuttle-BeverlyNorthStationExpress,0,North Station - Newburyport or Rockport,,4,60692099,CR-NorthStationAugustShuttle-Weekday-Exp-0-05:15:00
 Shuttle-BeverlyNorthStationExpress-0-1,Shuttle-BeverlyNorthStationExpress,1,Newburyport or Rockport - North Station,,4,60692199,CR-NorthStationAugustShuttle-Weekday-Exp-1-05:20:00
 Shuttle-BeverlyNorthStationLocal-0-0,Shuttle-BeverlyNorthStationLocal,0,North Station - Newburyport or Rockport,,4,60693099,CR-NorthStationAugustShuttle-Weekday-Loc-0-05:00:00
 Shuttle-BeverlyNorthStationLocal-0-1,Shuttle-BeverlyNorthStationLocal,1,Newburyport or Rockport - North Station,,4,60693199,CR-NorthStationAugustShuttle-Weekday-Loc-1-05:20:00
 Shuttle-BraintreeJFK-0-0,Shuttle-BraintreeJFK,0,JFK/UMass - Braintree,,4,60940099,52371198-20:45-BraintreeJFK1
 Shuttle-BraintreeJFK-0-1,Shuttle-BraintreeJFK,1,Braintree - JFK/UMass,,4,60940199,52371057-20:45-BraintreeJFK1
+Shuttle-NorthLeominsterWachusett-0-0,Shuttle-NorthLeominsterWachusett,0,North Leominster - Wachusett,,4,62122099,CR-525681-417-LeoWachuEarly1
+Shuttle-NorthLeominsterWachusett-0-1,Shuttle-NorthLeominsterWachusett,1,Wachusett - North Leominster,,4,62122199,CR-528300-420-LeoWachuEarly1
