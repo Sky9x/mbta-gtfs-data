@@ -9,18 +9,22 @@ Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,51931609
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,51931607
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,52371252
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,52371253
-Green-B-812-0,Green-B,0,Government Center - Boston College,,1,10032000,52139435
-Green-B-812-1,Green-B,1,Boston College - Government Center,,1,10032100,52139434
-Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,10033000,52139574
-Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,52139575
-Green-D-851-0,Green-D,0,North Station - Riverside,,1,10034000,52139800
-Green-D-855-0,Green-D,0,Union Square - Riverside,Weekday early mornings only,3,10034004,52139874
+Green-B-812-0,Green-B,0,Government Center - Boston College,,1,10032000,52139435-CloseFullE
+Green-B-812-1,Green-B,1,Boston College - Government Center,,1,10032100,52139434-CloseFullE
+Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,10033000,52139574-CloseFullE
+Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,52139575-CloseFullE
+Green-D-851-0,Green-D,0,North Station - Riverside,,1,10034000,52139800-CloseFullE
+Green-D-855-0,Green-D,0,Union Square - Riverside,Weekday early mornings only,3,10034004,52139874-CloseFullE
 Green-D-0-0,Green-D,0,Union Square - Reservoir,,4,10034099,Green-D-AugUnionSq-Weekday-0-04:50:00
-Green-D-851-1,Green-D,1,Riverside - North Station,,1,10034100,52139798
-Green-D-855-1,Green-D,1,Riverside - Union Square,Weekday mornings only,3,10034104,52139875
+Green-D-851-0_70206_70202_2,Green-D,0,Government Center - Riverside,,4,10034099,52139800-CloseUnionGovtGovtCtrNorthSta2
+Green-D-855-0_70504_70202_2,Green-D,0,Government Center - Riverside,,4,10034099,52139874-CloseUnionGovtGovtCtrNorthSta2
+Green-D-851-1,Green-D,1,Riverside - North Station,,1,10034100,52139798-CloseFullE
+Green-D-855-1,Green-D,1,Riverside - Union Square,Weekday mornings only,3,10034104,52139875-CloseFullE
 Green-D-0-1,Green-D,1,Reservoir - Union Square,,4,10034199,Green-D-AugUnionSq-Weekday-1-05:47:00
-Green-E-885-0,Green-E,0,Union Square - Heath Street,,1,10035000,52139420
-Green-E-885-1,Green-E,1,Heath Street - Union Square,,1,10035100,52139419
+Green-D-851-1_70201_70205_0,Green-D,1,Riverside - Government Center,,4,10034199,52139798-CloseUnionGovtGovtCtrNorthSta0
+Green-D-855-1_70201_70503_0,Green-D,1,Riverside - Government Center,,4,10034199,52139875-CloseUnionGovtGovtCtrNorthSta0
+Green-E-885-0_70504_70202_2,Green-E,0,Government Center - Heath Street,,4,10035099,52139420-CloseUnionGovtGovtCtrNorthSta2
+Green-E-885-1_70201_70503_0,Green-E,1,Heath Street - Government Center,,4,10035199,52139419-CloseUnionGovtGovtCtrNorthSta0
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,52451735
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040004,52452004
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,52451736
@@ -134,7 +138,7 @@ CR-Providence-680a3c01-1,CR-Providence,1,Stoughton - South Station,,2,20012109,C
 CR-Providence-0f69fc94-1,CR-Providence,1,Providence - South Station,,2,20012110,CR-OL-538633-804
 CR-Providence-3d18a616-1,CR-Providence,1,Wickford Junction - South Station,,2,20012111,CR-OL-538636-814
 CR-Providence-0dd7b8f7-1,CR-Providence,1,Providence - South Station,,2,20012112,CR-OL-538644-824
-CR-Foxboro-ee315553-0,CR-Foxboro,0,South Station - Foxboro,,1,20013000,CR-549893-9771
+CR-Foxboro-ee315553-0,CR-Foxboro,0,South Station - Foxboro,,1,20013000,CR-550724-9771
 CR-Foxboro-26725160-1,CR-Foxboro,1,Providence - Foxboro,,1,20013100,CR-549894-9882
 CapeFlyer-0c525908-0,CapeFlyer,0,South Station - Hyannis,,1,21000000,CR-529155-9001
 CapeFlyer-96005428-1,CapeFlyer,1,Hyannis - South Station,,1,21000100,CR-529154-9002
@@ -702,5 +706,11 @@ Shuttle-BeverlyNorthStationLocal-0-0,Shuttle-BeverlyNorthStationLocal,0,North St
 Shuttle-BeverlyNorthStationLocal-0-1,Shuttle-BeverlyNorthStationLocal,1,Newburyport or Rockport - North Station,,4,60693199,CR-NorthStationAugustShuttle-Weekday-Loc-1-05:20:00
 Shuttle-BraintreeJFK-0-0,Shuttle-BraintreeJFK,0,JFK/UMass - Braintree,,4,60940099,52371198-20:45-BraintreeJFK1
 Shuttle-BraintreeJFK-0-1,Shuttle-BraintreeJFK,1,Braintree - JFK/UMass,,4,60940199,52371057-20:45-BraintreeJFK1
+Shuttle-CopleyForestHills-0-0,Shuttle-CopleyForestHills,0,Copley - Forest Hills,,4,61420099,Orange-AugSuperSurge-FridayEA-S-0-21:05:30
+Shuttle-CopleyForestHills-0-1,Shuttle-CopleyForestHills,1,Forest Hills - Copley,,4,61420199,Orange-AugSuperSurge-FridayEA-S-1-21:07:36
+Shuttle-GovernmentCenterOakGrove-0-0,Shuttle-GovernmentCenterOakGrove,0,Government Center - Oak Grove,,4,61948099,Orange-AugSuperSurge-FridayEA-N-0-21:01:42
+Shuttle-GovernmentCenterOakGrove-0-1,Shuttle-GovernmentCenterOakGrove,1,Oak Grove - Government Center,,4,61948199,Orange-AugSuperSurge-FridayEA-N-1-21:05:54
+Shuttle-GovernmentCenterUnionSquare-0-0,Shuttle-GovernmentCenterUnionSquare,0,Government Center - Union Square,,4,61949099,Green-E-AugSuperSurge-Weekday-0-04:54:00
+Shuttle-GovernmentCenterUnionSquare-0-1,Shuttle-GovernmentCenterUnionSquare,1,Union Square - Government Center,,4,61949199,Green-E-AugSuperSurge-Weekday-1-06:16:48
 Shuttle-NorthLeominsterWachusett-0-0,Shuttle-NorthLeominsterWachusett,0,North Leominster - Wachusett,,4,62122099,CR-525681-417-LeoWachuEarly1
 Shuttle-NorthLeominsterWachusett-0-1,Shuttle-NorthLeominsterWachusett,1,Wachusett - North Leominster,,4,62122199,CR-528300-420-LeoWachuEarly1
