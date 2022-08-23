@@ -393,10 +393,16 @@ Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
 714,1,Inbound,"Station Street, Hingham"
 716,0,Outbound,Cobbs Corner
 716,1,Inbound,Mattapan Station
+Shuttle-AlewifeHarvard,0,South,Ashmont/Braintree
+Shuttle-AlewifeHarvard,1,North,Alewife
+Shuttle-AshmontJFK,0,Outbound,Ashmont
+Shuttle-AshmontJFK,1,Inbound,Alewife
 Shuttle-BeverlyNorthStationExpress,0,Outbound,Newburyport or Rockport
 Shuttle-BeverlyNorthStationExpress,1,Inbound,North Station
 Shuttle-BeverlyNorthStationLocal,0,Outbound,Newburyport or Rockport
 Shuttle-BeverlyNorthStationLocal,1,Inbound,North Station
+Shuttle-BroadwayJFK,0,South,Ashmont/Braintree
+Shuttle-BroadwayJFK,1,North,Alewife
 Shuttle-CopleyForestHills,0,South,Forest Hills
 Shuttle-CopleyForestHills,1,North,Oak Grove
 Shuttle-GovernmentCenterOakGrove,0,South,Forest Hills
@@ -405,6 +411,8 @@ Shuttle-GovernmentCenterTuftsMedical,0,South,Forest Hills
 Shuttle-GovernmentCenterTuftsMedical,1,North,Oak Grove
 Shuttle-GovernmentCenterUnionSquare,0,West,Copley & West
 Shuttle-GovernmentCenterUnionSquare,1,East,Union Square
+Shuttle-KenmoreRiverside,0,West,Riverside
+Shuttle-KenmoreRiverside,1,East,Government Center
 Shuttle-NorthLeominsterWachusett,0,Outbound,Wachusett
 Shuttle-NorthLeominsterWachusett,1,Inbound,North Station
 Shuttle-ReadvilleSouthStation,0,Outbound,Readville
