@@ -1,24 +1,28 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010000,53559346
 Red-3-0,Red,0,Alewife - Braintree,,1,10010001,53559585
-Red-1-0_70085_70093_0,Red,0,Alewife - JFK/UMass,,4,10010099,52928242-AshmontJFK0
+Red-1-0_70081_70093_0,Red,0,Alewife - Broadway,,4,10010099,52928242-AshmontBwayAshBranchAshmontBwayBtreeBranch0
+Red-3-0_70081_70095_0,Red,0,Alewife - Broadway,,4,10010099,52928481-AshmontBwayAshBranchAshmontBwayBtreeBranch0
+Red-3-0_70081_70095_2,Red,0,JFK/UMass - Braintree,,4,10010099,52928481-AshmontBwayAshBranchAshmontBwayBtreeBranch2
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010100,53559351
 Red-3-1,Red,1,Braintree - Alewife,,1,10010101,53559505
-Red-1-1_70094_70086_2,Red,1,JFK/UMass - Alewife,,4,10010199,52928247-AshmontJFK2
+Red-1-1_70094_70082_2,Red,1,Broadway - Alewife,,4,10010199,52928247-AshmontBwayAshBranchAshmontBwayBtreeBranch2
+Red-3-1_70096_70082_0,Red,1,Braintree - JFK/UMass,,4,10010199,52928401-AshmontBwayAshBranchAshmontBwayBtreeBranch0
+Red-3-1_70096_70082_2,Red,1,Broadway - Alewife,,4,10010199,52928401-AshmontBwayAshBranchAshmontBwayBtreeBranch2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,52554918
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,52554916
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,53244711
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,53244830
 Green-B-812-0,Green-B,0,Government Center - Boston College,,1,10032000,53126110-NoGLX
-Green-B-816-0_70512_70502_2,Green-B,0,Lechmere - Boston College,,4,10032099,53126208-KenLechSuspendDKenmoreRiversideLechUnionSuspendDNoGLX2
+Green-B-816-0_70512_70502_2,Green-B,0,Lechmere - Boston College,,4,10032099,53126208-NoGLX2
 Green-B-812-1,Green-B,1,Boston College - Government Center,,1,10032100,53126109-NoGLX
-Green-B-816-1_70501_70511_0,Green-B,1,Boston College - Lechmere,,4,10032199,53126117-KenLechSuspendDKenmoreRiversideLechUnionSuspendDNoGLX0
+Green-B-816-1_70501_70511_0,Green-B,1,Boston College - Lechmere,,4,10032199,53126117-NoGLX0
 Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,10033000,53126184-NoGLX
 Green-C-0-0,Green-C,0,Union Square - Cleveland Circle,,4,10033099,Green-C-SeptUnionSq-Weekday-0-04:50:00-NoGLX
-Green-C-836-0_70512_70502_2,Green-C,0,Lechmere - Cleveland Circle,,4,10033099,53126190-KenLechSuspendDKenmoreRiversideLechUnionSuspendDNoGLX2
+Green-C-836-0_70512_70502_2,Green-C,0,Lechmere - Cleveland Circle,,4,10033099,53126190-NoGLX2
 Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,53126185-NoGLX
 Green-C-0-1,Green-C,1,Cleveland Circle - Union Square,,4,10033199,Green-C-SeptUnionSq-Weekday-1-05:15:00-NoGLX
-Green-C-836-1_70501_70511_0,Green-C,1,Cleveland Circle - Lechmere,,4,10033199,53126191-KenLechSuspendDKenmoreRiversideLechUnionSuspendDNoGLX0
+Green-C-836-1_70501_70511_0,Green-C,1,Cleveland Circle - Lechmere,,4,10033199,53126191-NoGLX0
 Green-D-855-0,Green-D,0,Union Square - Riverside,,1,10034000,53126282-NoGLX
 Green-D-855-0_70169_70161_0,Green-D,0,Union Square - Newton Highlands,,4,10034099,53128750-NewtonHighlandsRiversideNoGLX0
 Green-D-856-0_70512_70502_2,Green-D,0,Lechmere - Riverside,,4,10034099,53126284-NoGLX2
@@ -46,10 +50,11 @@ Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,53398106
 746-_-1,746,1,Silver Line Way - South Station,,1,10057100,53422517
 CR-Fairmount-dc5eb181-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,20001000,CR-551297-925
 CR-Fairmount-3dfc2722-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-551296-926
-CR-Fitchburg-979a6935-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-558426-429
-CR-Fitchburg-ce651dfc-0,CR-Fitchburg,0,North Station - Littleton/Route 495,,2,20002001,CR-558897-417
-CR-Fitchburg-008fca34-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-558874-402
-CR-Fitchburg-472835d4-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,20002101,CR-558879-416
+CR-Fitchburg-49af7493-0,CR-Fitchburg,0,North Station - Wachusett,,2,20002001,CR-558426-429
+CR-Fitchburg-51c0902f-0,CR-Fitchburg,0,North Station - Littleton/Route 495,,2,20002003,CR-558897-417
+CR-Fitchburg-008fca34-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-558884-412
+CR-Fitchburg-5cd4afcd-1,CR-Fitchburg,1,Wachusett - North Station,,2,20002101,CR-558874-402
+CR-Fitchburg-8756be66-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,20002103,CR-558879-416
 CR-Worcester-38e2728b-0,CR-Worcester,0,South Station - Worcester,,1,20003000,CR-554442-515
 CR-Worcester-b38f30d8-0,CR-Worcester,0,South Station - Worcester,,2,20003001,CR-554427-511
 CR-Worcester-1d310675-0,CR-Worcester,0,South Station - Worcester,,2,20003002,CR-554475-523
@@ -74,15 +79,15 @@ CR-Franklin-5d1ddd9e-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay
 CR-Franklin-129210c1-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,2,20004104,CR-554485-700
 CR-Franklin-a8c004cf-1,CR-Franklin,1,Foxboro - South Station,,2,20004105,CR-554725-756
 CR-Greenbush-6d652c57-0,CR-Greenbush,0,South Station - Greenbush,,1,20005000,CR-554428-083
-CR-Greenbush-BraintreeGreenbush-0,CR-Greenbush,0,Braintree - Greenbush,,4,20005099,CR-554832-1085-BraintreeSouthStationSuspendGreenbush-1
 CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,20005100,CR-551625-094
-CR-Greenbush-BraintreeGreenbush-1,CR-Greenbush,1,Greenbush - Braintree,,4,20005199,CR-551012-1084-BraintreeSouthStationSuspendGreenbush-1
 CR-Haverhill-b1bc288b-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,20006000,CR-553723-215
-CR-Haverhill-b9346825-0,CR-Haverhill,0,North Station - Reading,,2,20006001,CR-553658-285
-CR-Haverhill-d8edcefc-0,CR-Haverhill,0,North Station - Haverhill,,2,20006002,CR-553724-217
+CR-Haverhill-ca479fd8-0,CR-Haverhill,0,North Station - Bradford via Reading,,2,20006001,CR-564938-1213
+CR-Haverhill-b9346825-0,CR-Haverhill,0,North Station - Reading,,2,20006003,CR-553658-285
+CR-Haverhill-d8edcefc-0,CR-Haverhill,0,North Station - Haverhill,,2,20006004,CR-553724-217
 CR-Haverhill-f38813d4-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,20006100,CR-553655-214
-CR-Haverhill-76e7e4ff-1,CR-Haverhill,1,Haverhill - North Station,,2,20006101,CR-551892-204
-CR-Haverhill-294b20df-1,CR-Haverhill,1,Reading - North Station,,2,20006102,CR-553737-280
+CR-Haverhill-4434bbf9-1,CR-Haverhill,1,Bradford - North Station via Reading,,2,20006101,CR-564937-1212
+CR-Haverhill-76e7e4ff-1,CR-Haverhill,1,Haverhill - North Station,,2,20006103,CR-551892-204
+CR-Haverhill-294b20df-1,CR-Haverhill,1,Reading - North Station,,2,20006104,CR-553737-280
 CR-Kingston-8edf9cf3-0,CR-Kingston,0,South Station - Kingston,,1,20007000,CR-551651-063
 CR-Kingston-a80a8fd4-0,CR-Kingston,0,Braintree - Kingston,,2,20007001,CR-551650-065
 CR-Kingston-5615f391-1,CR-Kingston,1,Kingston - South Station,,1,20007100,CR-554420-042
@@ -96,18 +101,18 @@ CR-Needham-ba733d01-0,CR-Needham,0,Forest Hills - Needham Heights,,2,20010001,CR
 CR-Needham-31ea698c-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,CR-551287-616
 CR-Newburyport-aa00371a-0,CR-Newburyport,0,North Station - Newburyport,,1,20011000,CR-556199-151-BevRockFl22
 CR-Newburyport-0381770c-0,CR-Newburyport,0,North Station - Beverly,,2,20011002,CR-556187-107-BevRockFl22
-CR-Newburyport-e302ea87-0,CR-Newburyport,0,North Station - Salem,,2,20011003,CR-563103-7181-BevRockFl22
-CR-Newburyport-b691bdaf-0,CR-Newburyport,0,North Station - Salem,,2,20011004,CR-563109-7187-BevRockFl22
-CR-Newburyport-6d6070de-0,CR-Newburyport,0,Salem - Beverly,,2,20011005,CR-563113-7191-BevRockFl22
-CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011006,CR-563163-7161-BevRockFl22
-CR-Newburyport-ecafd926-0,CR-Newburyport,0,North Station - Newburyport,,2,20011008,CR-556176-141-BevRockFl22
-CR-Newburyport-98fe3d94-0,CR-Newburyport,0,North Station - Beverly,,2,20011010,CR-556178-103-BevRockFl22
-CR-Newburyport-f2cc4bfd-0,CR-Newburyport,0,North Station - Beverly,,2,20011011,CR-556185-101-BevRockFl22
+CR-Newburyport-e302ea87-0,CR-Newburyport,0,North Station - Salem,,2,20011005,CR-563103-7181-BevRockFl22
+CR-Newburyport-b691bdaf-0,CR-Newburyport,0,North Station - Salem,,2,20011006,CR-563109-7187-BevRockFl22
+CR-Newburyport-6d6070de-0,CR-Newburyport,0,Salem - Beverly,,2,20011007,CR-563113-7191-BevRockFl22
+CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011008,CR-563163-7161-BevRockFl22
+CR-Newburyport-ecafd926-0,CR-Newburyport,0,North Station - Newburyport,,2,20011010,CR-556176-141-BevRockFl22
+CR-Newburyport-98fe3d94-0,CR-Newburyport,0,North Station - Beverly,,2,20011013,CR-556178-103-BevRockFl22
+CR-Newburyport-f2cc4bfd-0,CR-Newburyport,0,North Station - Beverly,,2,20011014,CR-556185-101-BevRockFl22
 CR-Newburyport-7d8bacee-1,CR-Newburyport,1,Newburyport - North Station,,1,20011100,CR-556172-144-BevRockFl22
 CR-Newburyport-f8ea0e48-1,CR-Newburyport,1,Beverly - North Station,,2,20011102,CR-556170-106-BevRockFl22
-CR-Newburyport-00822ac7-1,CR-Newburyport,1,Salem - North Station,,2,20011103,CR-563104-7182-BevRockFl22
-CR-Newburyport-2d1cfaa0-1,CR-Newburyport,1,Newburyport - North Station,,2,20011104,CR-556188-146-BevRockFl22
-CR-Newburyport-ffff0146-1,CR-Newburyport,1,Beverly - North Station,,2,20011106,CR-556174-114-BevRockFl22
+CR-Newburyport-00822ac7-1,CR-Newburyport,1,Salem - North Station,,2,20011105,CR-563104-7182-BevRockFl22
+CR-Newburyport-2d1cfaa0-1,CR-Newburyport,1,Newburyport - North Station,,2,20011106,CR-556188-146-BevRockFl22
+CR-Newburyport-ffff0146-1,CR-Newburyport,1,Beverly - North Station,,2,20011108,CR-556174-114-BevRockFl22
 CR-Providence-d29e0167-0,CR-Providence,0,South Station - Stoughton,,1,20012000,CR-551288-877
 CR-Providence-55a1868e-0,CR-Providence,0,South Station - Wickford Junction,,1,20012001,CR-551291-803
 CR-Providence-cfcbef70-0,CR-Providence,0,South Station - Providence,,2,20012002,CR-551109-2801
@@ -782,8 +787,8 @@ Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Wharf - Long Wharf,,4,30005199,Boat-
 714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140106,53531443
 716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,53531408
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,53531403
-Shuttle-AshmontJFK-0-0,Shuttle-AshmontJFK,0,JFK/UMass - Ashmont,,4,60250099,52928242-AshmontJFK1
-Shuttle-AshmontJFK-0-1,Shuttle-AshmontJFK,1,Ashmont - JFK/UMass,,4,60250199,52928247-AshmontJFK1
+Shuttle-AshmontBroadway-0-0,Shuttle-AshmontBroadway,0,Broadway - Ashmont,,4,60260099,52928242-AshmontBwayAshBranchAshmontBwayBtreeBranchAshmontBwayAshBranch
+Shuttle-AshmontBroadway-0-1,Shuttle-AshmontBroadway,1,Ashmont - Broadway,,4,60260199,52928247-AshmontBwayAshBranchAshmontBwayBtreeBranchAshmontBwayAshBranch
 Shuttle-BeverlyRockportExpress-0-0,Shuttle-BeverlyRockportExpress,0,Beverly - Rockport (Express),,4,60700099,CR-556186-155-BevRockFl221
 Shuttle-BeverlyRockportExpress-0-1,Shuttle-BeverlyRockportExpress,1,Rockport - Beverly (Express),,4,60700199,CR-556170-106-BevRockFl22BX1
 Shuttle-BeverlyRockportLocal-0-0,Shuttle-BeverlyRockportLocal,0,Beverly - Rockport (Local),,4,60705099,CR-556178-103-BevRockFl22BL1
