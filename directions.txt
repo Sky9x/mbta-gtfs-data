@@ -12,7 +12,7 @@ Green-C,1,East,Government Center
 Green-D,0,West,Riverside
 Green-D,1,East,Union Square
 Green-E,0,West,Heath Street
-Green-E,1,East,Union Square
+Green-E,1,East,Lechmere
 Blue,0,West,Bowdoin
 Blue,1,East,Wonderland
 741,0,Outbound,Logan Airport Terminals
@@ -399,6 +399,12 @@ Shuttle-BeverlyRockportExpress,0,Outbound,Rockport
 Shuttle-BeverlyRockportExpress,1,Inbound,North Station
 Shuttle-BeverlyRockportLocal,0,Outbound,Rockport
 Shuttle-BeverlyRockportLocal,1,Inbound,North Station
+Shuttle-BraintreeJFK,0,South,Braintree
+Shuttle-BraintreeJFK,1,North,Alewife
+Shuttle-GovernmentCenterOrientHeightsLocal,0,West,Government Center
+Shuttle-GovernmentCenterOrientHeightsLocal,1,East,Orient Heights
+Shuttle-GovernmentCenterOrientHeightsExpress,0,West,Government Center
+Shuttle-GovernmentCenterOrientHeightsExpress,1,East,Orient Heights
 Shuttle-HaverhillReadingExpress,0,Outbound,Haverhill
 Shuttle-HaverhillReadingExpress,1,Inbound,North Station
 Shuttle-HaverhillReadingLocal,0,Outbound,Haverhill
