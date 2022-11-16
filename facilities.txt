@@ -223,7 +223,14 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 762,762,1,elevator,place-lech,Platform to North First Street lobby,Lechmere Elevator 762 (Platform to North First Street lobby),,,,1
 763,763,1,elevator,place-lech,Platform to North First Street lobby,Lechmere Elevator 763 (Platform to North First Street lobby),,,,1
 764,764,1,elevator,place-lech,Platform to O'Brien Highway lobby,Lechmere Elevator 764 (Platform to O'Brien Highway lobby),,,,1
+765,765,1,elevator,place-gilmn,Platform to Medford Street lobby,Gilman Square Elevator 765 (Platform to Medford Street lobby),,,,1
+766,766,1,elevator,place-gilmn,Platform to School Street lobby,Gilman Square Elevator 766 (Platform to School Street lobby),,,,1
+767,767,1,elevator,place-mgngl,Platform to lobby,Magoun Square Elevator 767 (Platform to lobby),,,,1
+768,768,1,elevator,place-mgngl,Platform to lobby,Magoun Square Elevator 768 (Platform to lobby),,,,1
+769,769,1,elevator,place-balsq,Platform to Broadway lobby,Ball Square Elevator 769 (Platform to Broadway lobby),,,,1
+770,770,1,elevator,place-mdftf,Platform to lobby,Medford/Tufts Elevator 770 (Platform to lobby),,,,1
 771,771,1,elevator,place-unsqu,Platform to Prospect Street,Union Square Elevator 771 (Platform to Prospect Street),,,,1
+772,772,1,elevator,place-mdftf,Platform to lobby,Medford/Tufts Elevator 772 (Platform to lobby),,,,1
 800,800,1,elevator,place-ogmnl,"Busway, Commuter Rail, parking lot to lobby","Oak Grove Elevator 800 (Busway, Commuter Rail, parking lot to lobby)",,,,1
 801,801,1,elevator,place-ogmnl,Orange Line platform to paid lobby,Oak Grove Elevator 801 (Orange Line platform to paid lobby),,,,1
 802,802,1,elevator,place-state,"Oak Grove platform to Forest Hills, Wonderland platforms","State Elevator 802 (Oak Grove platform to Forest Hills, Wonderland platforms)",,,,1
@@ -562,7 +569,7 @@ bike-sull,,3,bike-storage,place-sull,Covered bike rack,Sullivan Square covered b
 bike-sumav,,3,bike-storage,place-sumav,Covered bike rack,Summit Avenue covered bike rack,,,,0
 bike-unsqu-rackeast,,3,bike-storage,place-unsqu,Bike rack,Union Square bike rack,,42.3774040,-71.0948840,0
 bike-unsqu-rackwest,,3,bike-storage,place-unsqu,Bike rack,Union Square bike rack,,42.3774690,-71.0948400,0
-bike-unsqu-storage,,3,bike-storage,place-unsqu,Pedal and Park,Union Square Pedal and Park,,42.3771810,-71.0942380,0
+bike-unsqu-storage,,3,bike-storage,place-unsqu,Pedal and Park,Union Square Pedal and Park,,42.3772330,-71.0941990,0
 bike-waban,,3,bike-storage,place-waban,Bike rack,Waban bike rack,,,,0
 bike-welln,,3,bike-storage,place-welln,Covered bike rack,Wellington covered bike rack,,,,0
 bike-wimnl,,3,bike-storage,place-wimnl,Covered bike rack,Wood Island covered bike rack,,,,0
@@ -591,6 +598,7 @@ charliecard-sstat,,4,fare-media-assistant,place-sstat,Employee with blank Charli
 charliecard-wondl,,4,fare-media-assistant,place-wondl,Employee with blank CharlieCards,Wonderland customer service agent with blank CharlieCards,,,,0
 consign-vend-coffeet,,4,fare-vending-retailer,place-KB-0351,Coffee T & Thee,Coffee T & Thee,,41.9763360,-70.7246660,0
 consign-vend-javaj,,4,fare-vending-retailer,place-NEC-2173,Java Junction,Java Junction,,42.2098840,-71.1471000,0
+doors-esomr-washington,,3,pick-drop,place-esomr,Washington St,East Somerville Washington St Station,,42.3793910,-71.0866360,1
 ev-ER-0168-garage,,6,electric-car-chargers,place-ER-0168,EV Chargers,Salem Garage EV Chargers,,,,0
 ev-FR-0301,,6,electric-car-chargers,place-FR-0301,EV Chargers,Littleton/Route 495 Parking Lot EV Chargers,,,,0
 ev-FR-0451-garage,,6,electric-car-chargers,place-FR-0451,EV Chargers,North Leominster Garage EV Chargers,,,,0
