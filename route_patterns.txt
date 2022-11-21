@@ -1,15 +1,9 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010000,53559346
 Red-3-0,Red,0,Alewife - Braintree,,1,10010001,53559585
-Red-1-0_70081_70093_0,Red,0,Alewife - Broadway,,4,10010099,52928242-AshmontBwayAshBranchAshmontBwayBtreeBranch0
-Red-3-0_70081_70095_0,Red,0,Alewife - Broadway,,4,10010099,52928481-AshmontBwayAshBranchAshmontBwayBtreeBranch0
-Red-3-0_70081_70095_2,Red,0,JFK/UMass - Braintree,,4,10010099,52928481-AshmontBwayAshBranchAshmontBwayBtreeBranch2
 Red-3-0_70095_70105_0,Red,0,Alewife - JFK/UMass,,4,10010099,52928481-BraintreeJFK0
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010100,53559351
 Red-3-1,Red,1,Braintree - Alewife,,1,10010101,53559505
-Red-1-1_70094_70082_2,Red,1,Broadway - Alewife,,4,10010199,52928247-AshmontBwayAshBranchAshmontBwayBtreeBranch2
-Red-3-1_70096_70082_0,Red,1,Braintree - JFK/UMass,,4,10010199,52928401-AshmontBwayAshBranchAshmontBwayBtreeBranch0
-Red-3-1_70096_70082_2,Red,1,Broadway - Alewife,,4,10010199,52928401-AshmontBwayAshBranchAshmontBwayBtreeBranch2
 Red-3-1_70105_70096_2,Red,1,JFK/UMass - Alewife,,4,10010199,52928401-BraintreeJFK2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,52554918
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,52554916
@@ -34,20 +28,20 @@ Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040004,53398374
 Blue-6-0_70051_70838_0,Blue,0,Wonderland - Orient Heights,,4,10040099,53398109-20:45-GovernmentCenterOrientHeightsExpressGovernmentCenterOrientHeightsLocal0
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,53398106
 Blue-6-1_70038_70052_2,Blue,1,Orient Heights - Wonderland,,4,10040199,53398108-20:45-GovernmentCenterOrientHeightsExpressGovernmentCenterOrientHeightsLocal2
-741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,53423794
-741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051100,53423796
-741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Late nights only,3,10051104,53423976
-742-_-0,742,0,South Station - Drydock Ave (PM Route),,1,10052000,53423610
-742-3-1,742,1,Drydock Ave - South Station (PM - Omits 88 Black Falcon Ave),,1,10052100,53423609
-743-_-0,743,0,South Station - Chelsea Station,,1,10053000,53422516
-743-_-1,743,1,Chelsea Station - South Station,,1,10053100,53422518
-743-1-1,743,1,Chelsea Station - South Station (Surface Route),Late nights only,3,10053104,53422707
-751-_-0,751,0,South Station - Nubian Station,,1,10055000,53422413
-751-_-1,751,1,Nubian Station - South Station,,1,10055100,53422412
-749-_-0,749,0,Temple Place - Nubian Station,,1,10056000,53419232
-749-_-1,749,1,Nubian Station - Temple Place,,1,10056100,53419231
-746-_-0,746,0,South Station - Silver Line Way,,1,10057000,53422551
-746-_-1,746,1,Silver Line Way - South Station,,1,10057100,53422517
+741-_-0,741,0,South Station - Logan Airport Terminals,,1,10051000,53385962
+741-_-1,741,1,Logan Airport Terminals - South Station,,1,10051100,53385963
+741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Late nights only,3,10051104,53386206
+742-_-0,742,0,South Station - Drydock Ave (PM Route),,1,10052000,53385777
+742-3-1,742,1,Drydock Ave - South Station (PM - Omits 88 Black Falcon Ave),,1,10052100,53385776
+743-_-0,743,0,South Station - Chelsea Station,,1,10053000,53384682
+743-_-1,743,1,Chelsea Station - South Station,,1,10053100,53384684
+743-1-1,743,1,Chelsea Station - South Station (Surface Route),Late nights only,3,10053104,53384873
+751-_-0,751,0,South Station - Nubian Station,,1,10055000,53384579
+751-_-1,751,1,Nubian Station - South Station,,1,10055100,53384578
+749-_-0,749,0,Temple Place - Nubian Station,,1,10056000,53383552
+749-_-1,749,1,Nubian Station - Temple Place,,1,10056100,53383551
+746-_-0,746,0,South Station - Silver Line Way,,1,10057000,53384717
+746-_-1,746,1,Silver Line Way - South Station,,1,10057100,53384683
 CR-Fairmount-dc5eb181-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,20001000,CR-551297-925
 CR-Fairmount-3dfc2722-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-551296-926
 CR-Fitchburg-49af7493-0,CR-Fitchburg,0,North Station - Wachusett,,2,20002001,CR-558426-429
@@ -84,12 +78,10 @@ CR-Haverhill-b1bc288b-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,
 CR-Haverhill-ca479fd8-0,CR-Haverhill,0,North Station - Bradford via Reading,,2,20006001,CR-564938-1213
 CR-Haverhill-b9346825-0,CR-Haverhill,0,North Station - Reading,,2,20006003,CR-553658-285
 CR-Haverhill-d8edcefc-0,CR-Haverhill,0,North Station - Haverhill,,2,20006004,CR-553724-217
-CR-Haverhill-c4d21f04-0,CR-Haverhill,0,North Station - Reading via Reading,,2,20006005,CR-566122-281
 CR-Haverhill-f38813d4-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,20006100,CR-553655-214
 CR-Haverhill-4434bbf9-1,CR-Haverhill,1,Bradford - North Station via Reading,,2,20006101,CR-564937-1212
 CR-Haverhill-76e7e4ff-1,CR-Haverhill,1,Haverhill - North Station,,2,20006103,CR-551892-204
 CR-Haverhill-294b20df-1,CR-Haverhill,1,Reading - North Station,,2,20006104,CR-553737-280
-CR-Haverhill-eb736f9e-1,CR-Haverhill,1,Reading - North Station via Reading,,2,20006105,CR-566121-280
 CR-Kingston-8edf9cf3-0,CR-Kingston,0,South Station - Kingston,,1,20007000,CR-551651-063
 CR-Kingston-a80a8fd4-0,CR-Kingston,0,Braintree - Kingston,,2,20007001,CR-551650-065
 CR-Kingston-5615f391-1,CR-Kingston,1,Kingston - South Station,,1,20007100,CR-554420-042
@@ -239,10 +231,10 @@ Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Wharf - Long Wharf,,4,30005199,Boat-
 24-5-1,24,1,Logan Square - Ashmont Station,Early mornings only,3,50240104,53256729
 26-1-0,26,0,Gallivan Blvd - Ashmont Station via Washington St,,1,50260000,53258239
 26-1-1,26,1,Ashmont Station - Gallivan Blvd via Norfolk St,,1,50260100,53258240
-28-_-0,28,0,Ruggles Station - Mattapan Station,,1,50280000,53423057
+28-_-0,28,0,Ruggles Station - Mattapan Station,,1,50280000,53385223
 28-6-0,28,0,Malcolm X Blvd - Mattapan Station (Omits Nubian Station),School days only,3,50280004,53314832
 28-9-0,28,0,Ave Louis Pasteur - Mattapan Station,School days only,3,50280006,53257831
-28-_-1,28,1,Mattapan Station - Ruggles Station,,1,50280100,53423056
+28-_-1,28,1,Mattapan Station - Ruggles Station,,1,50280100,53385222
 28-2-1,28,1,Mattapan Station - Nubian Station,Early mornings only,3,50280104,53314640
 28-5-1,28,1,Townsend St & Warren St - Ruggles Station,School days only,3,50280107,53317133
 29-1-0,29,0,Jackson Square Station - Mattapan Station via Franklin Field,Weekdays only,1,50290000,53258008
@@ -308,11 +300,11 @@ Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Wharf - Long Wharf,,4,30005199,Boat-
 38-_-1,38,1,Wren St - Forest Hills Station,,1,50380100,53258719
 38-C-1,38,1,Centre & W Roxbury Pkwy - Forest Hills Station,School days only,3,50380104,53257833_1
 38-D-1,38,1,Wren St - Forest Hills Station,School days only,3,50380106,53257832_1
-39-3-0,39,0,Back Bay Station - Forest Hills Station,,1,50390000,53422779
+39-3-0,39,0,Back Bay Station - Forest Hills Station,,1,50390000,53384945
 39-7-0,39,0,Huntington Ave & Longwood Ave - Forest Hills Station,School days only,3,50390004,53257854_1
 39-Y-0,39,0,Ave Louis Pasteur - Forest Hills Station via Brigham Cir,School days only,3,50390006,53257852_1
 39-M-0,39,0,Haymarket Station - Cleary Square (Detour),Early mornings only,3,50390008,53257827
-39-3-1,39,1,Forest Hills Station - Back Bay Station,,1,50390100,53422778
+39-3-1,39,1,Forest Hills Station - Back Bay Station,,1,50390100,53384944
 39-7-1,39,1,Forest Hills Station - Huntington Ave & Longwood Ave,School days only,3,50390104,53257825_2
 39-I-1,39,1,Forest Hills Station - Ave Louis Pasteur,School days only,3,50390106,53257832_2
 39-_-1,39,1,Cleary Square - Haymarket Station,Early mornings only,3,50390108,53257826
@@ -784,8 +776,6 @@ Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Wharf - Long Wharf,,4,30005199,Boat-
 714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140106,53531443
 716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,53531408
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,53531403
-Shuttle-AshmontBroadway-0-0,Shuttle-AshmontBroadway,0,Broadway - Ashmont,,4,60260099,52928242-AshmontBwayAshBranchAshmontBwayBtreeBranchAshmontBwayAshBranch
-Shuttle-AshmontBroadway-0-1,Shuttle-AshmontBroadway,1,Ashmont - Broadway,,4,60260199,52928247-AshmontBwayAshBranchAshmontBwayBtreeBranchAshmontBwayAshBranch
 Shuttle-BeverlyRockportExpress-0-0,Shuttle-BeverlyRockportExpress,0,Beverly - Rockport (Express),,4,60700099,CR-556186-155-BevRockFl221
 Shuttle-BeverlyRockportExpress-0-1,Shuttle-BeverlyRockportExpress,1,Rockport - Beverly (Express),,4,60700199,CR-556170-106-BevRockFl22BX1
 Shuttle-BeverlyRockportLocal-0-0,Shuttle-BeverlyRockportLocal,0,Beverly - Rockport (Local),,4,60705099,CR-556178-103-BevRockFl22BL1
@@ -796,10 +786,6 @@ Shuttle-GovernmentCenterOrientHeightsLocal-0-0,Shuttle-GovernmentCenterOrientHei
 Shuttle-GovernmentCenterOrientHeightsLocal-0-1,Shuttle-GovernmentCenterOrientHeightsLocal,1,Government Center - Orient Heights (Local Shuttle),,4,61948199,53398108-20:45-GovernmentCenterOrientHeightsExpressGovernmentCenterOrientHeightsLocalGovernmentCenterOrientHeightsLocal
 Shuttle-GovernmentCenterOrientHeightsExpress-0-0,Shuttle-GovernmentCenterOrientHeightsExpress,0,Orient Heights - Government Center (Express),,4,61949099,53398109-20:45-GovernmentCenterOrientHeightsExpressGovernmentCenterOrientHeightsLocal01
 Shuttle-GovernmentCenterOrientHeightsExpress-0-1,Shuttle-GovernmentCenterOrientHeightsExpress,1,Government Center - Orient Heights (Express),,4,61949199,53398108-20:45-GovernmentCenterOrientHeightsExpressGovernmentCenterOrientHeightsLocal21
-Shuttle-HaverhillReadingExpress-0-0,Shuttle-HaverhillReadingExpress,0,Reading - Haverhill (Express),,4,61973099,CR-566727-203-16:00-HavReadDynBX1
-Shuttle-HaverhillReadingExpress-0-1,Shuttle-HaverhillReadingExpress,1,Haverhill - Reading (Express),,4,61973199,CR-566731-208-16:00-HavReadDynBX1
-Shuttle-HaverhillReadingLocal-0-0,Shuttle-HaverhillReadingLocal,0,Reading - Haverhill (Local),,4,61974099,CR-566727-203-16:00-HavReadDynBL1
-Shuttle-HaverhillReadingLocal-0-1,Shuttle-HaverhillReadingLocal,1,Haverhill - Reading (Local),,4,61974199,CR-566731-208-16:00-HavReadDynBL1
 Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,4,62053099,CR-NewburyportLynnShuttleFall-Weekday-0-05:08:00
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,4,62053199,CR-NewburyportLynnShuttleFall-Weekday-1-05:31:00
 Shuttle-ReadvilleSouthStation-0-0,Shuttle-ReadvilleSouthStation,0,South Station - Readville,,4,62375099,CR-FairmountNovemberShuttle-Saturday-0-07:00:00
