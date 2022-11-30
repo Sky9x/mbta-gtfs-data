@@ -1,8 +1,12 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010000,53559346
 Red-3-0,Red,0,Alewife - Braintree,,1,10010001,53559585
+Red-1-0_70085_70093_0,Red,0,Alewife - JFK/UMass,,4,10010099,52928242-AshmontJFKBraintreeJFK0
+Red-3-0_70095_70105_0,Red,0,Alewife - JFK/UMass,,4,10010099,52928481-AshmontJFKBraintreeJFK0
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010100,53559351
 Red-3-1,Red,1,Braintree - Alewife,,1,10010101,53559505
+Red-1-1_70094_70086_2,Red,1,JFK/UMass - Alewife,,4,10010199,52928247-AshmontJFKBraintreeJFK2
+Red-3-1_70105_70096_2,Red,1,JFK/UMass - Alewife,,4,10010199,52928401-AshmontJFKBraintreeJFK2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,52554918
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,52554916
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,53244711
@@ -774,9 +778,13 @@ Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Wharf - Long Wharf,,4,30005199,Boat-
 714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140104,53531443
 716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,53531408
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,53531403
+Shuttle-AshmontJFK-0-0,Shuttle-AshmontJFK,0,JFK/UMass - Ashmont,,4,60250099,52928242-AshmontJFKBraintreeJFKAshmontJFK
+Shuttle-AshmontJFK-0-1,Shuttle-AshmontJFK,1,Ashmont - JFK/UMass,,4,60250199,52928247-AshmontJFKBraintreeJFKAshmontJFK
 Shuttle-BeverlyRockportExpress-0-0,Shuttle-BeverlyRockportExpress,0,Beverly - Rockport (Express),,4,60700099,CR-556186-155-BevRockFl221
 Shuttle-BeverlyRockportExpress-0-1,Shuttle-BeverlyRockportExpress,1,Rockport - Beverly (Express),,4,60700199,CR-556170-106-BevRockFl22BX1
 Shuttle-BeverlyRockportLocal-0-0,Shuttle-BeverlyRockportLocal,0,Beverly - Rockport (Local),,4,60705099,CR-556178-103-BevRockFl22BL1
 Shuttle-BeverlyRockportLocal-0-1,Shuttle-BeverlyRockportLocal,1,Rockport - Beverly (Local),,4,60705199,CR-556170-106-BevRockFl22BL1
+Shuttle-BraintreeJFK-0-0,Shuttle-BraintreeJFK,0,JFK/UMass - Braintree,,4,60940099,52928481-AshmontJFKBraintreeJFKBraintreeJFK
+Shuttle-BraintreeJFK-0-1,Shuttle-BraintreeJFK,1,Braintree - JFK/UMass,,4,60940199,52928401-AshmontJFKBraintreeJFKBraintreeJFK
 Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,4,62053099,CR-NewburyportLynnShuttleFall-Weekday-0-05:08:00
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,4,62053199,CR-NewburyportLynnShuttleFall-Weekday-1-05:31:00
