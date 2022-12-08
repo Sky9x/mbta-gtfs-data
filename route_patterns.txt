@@ -1,29 +1,43 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010000,53559346
 Red-3-0,Red,0,Alewife - Braintree,,1,10010001,53559585
+Red-0-0,Red,0,Alewife - Harvard,,4,10010099,Red-DecShuttleTrain-Saturday-0-05:21:00
+Red-1-0_70061_70075_2,Red,0,Park Street - Ashmont,,4,10010099,52928242-AlewifeParkStreetSuspend2
 Red-1-0_70085_70093_0,Red,0,Alewife - JFK/UMass,,4,10010099,52928242-AshmontJFKBraintreeJFK0
+Red-3-0_70061_70075_2,Red,0,Park Street - Braintree,,4,10010099,52928481-AlewifeParkStreetSuspend2
 Red-3-0_70095_70105_0,Red,0,Alewife - JFK/UMass,,4,10010099,52928481-AshmontJFKBraintreeJFK0
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010100,53559351
 Red-3-1,Red,1,Braintree - Alewife,,1,10010101,53559505
+Red-0-1,Red,1,Harvard - Alewife,,4,10010199,Red-DecShuttleTrain-Saturday-1-05:49:00
+Red-1-1_70076_70061_0,Red,1,Ashmont - Park Street,,4,10010199,52928247-AlewifeParkStreetSuspend0
 Red-1-1_70094_70086_2,Red,1,JFK/UMass - Alewife,,4,10010199,52928247-AshmontJFKBraintreeJFK2
+Red-3-1_70076_70061_0,Red,1,Braintree - Park Street,,4,10010199,52928401-AlewifeParkStreetSuspend0
 Red-3-1_70105_70096_2,Red,1,JFK/UMass - Alewife,,4,10010199,52928401-AshmontJFKBraintreeJFK2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,52554918
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,52554916
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,53244711
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,53244830
 Green-B-812-0,Green-B,0,Government Center - Boston College,,1,10032000,53126110-NoGLX
+Green-B-816-0,Green-B,0,Medford/Tufts - Boston College,Mornings only,3,10032004,53126208
 Green-B-816-0_70512_70502_2,Green-B,0,Lechmere - Boston College,,4,10032099,53126208-NoGLX2
 Green-B-812-1,Green-B,1,Boston College - Government Center,,1,10032100,53126109-NoGLX
+Green-B-816-1,Green-B,1,Boston College - Medford/Tufts,Early mornings only,3,10032104,53126117
 Green-B-816-1_70501_70511_0,Green-B,1,Boston College - Lechmere,,4,10032199,53126117-NoGLX0
 Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,10033000,53126184-NoGLX
+Green-C-836-0,Green-C,0,Medford/Tufts - Cleveland Circle,Mornings only,3,10033004,53126190
 Green-C-836-0_70512_70502_2,Green-C,0,Lechmere - Cleveland Circle,,4,10033099,53126190-NoGLX2
 Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,53126185-NoGLX
+Green-C-836-1,Green-C,1,Cleveland Circle - Medford/Tufts,Early mornings only,3,10033104,53126191
 Green-C-836-1_70501_70511_0,Green-C,1,Cleveland Circle - Lechmere,,4,10033199,53126191-NoGLX0
 Green-D-855-0,Green-D,0,Union Square - Riverside,,1,10034000,53126282-NoGLX
+Green-D-856-0,Green-D,0,Medford/Tufts - Riverside,Weekday mornings only,3,10034004,53126284
 Green-D-856-0_70512_70502_2,Green-D,0,Lechmere - Riverside,,4,10034099,53126284-NoGLX2
 Green-D-855-1,Green-D,1,Riverside - Union Square,,1,10034100,53126281-NoGLX
+Green-D-856-1,Green-D,1,Riverside - Medford/Tufts,Weekday early mornings only,3,10034104,53126283
 Green-D-856-1_70501_70511_0,Green-D,1,Riverside - Lechmere,,4,10034199,53126283-NoGLX0
+Green-E-886-0,Green-E,0,Medford/Tufts - Heath Street,,1,10035000,53126421
 Green-E-886-0_70512_70502_2,Green-E,0,Lechmere - Heath Street,,1,10035096,53126421-NoGLX2
+Green-E-886-1,Green-E,1,Heath Street - Medford/Tufts,,1,10035100,53126206
 Green-E-886-1_70501_70511_0,Green-E,1,Heath Street - Lechmere,,1,10035196,53126206-NoGLX0
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,53398105
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040004,53398374
@@ -139,8 +153,6 @@ Boat-F1-2-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,30002102,Boat-F1-060
 Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,30002103,Boat-F1-0730-Hull-BF2H-01-Weekday-Fall-22
 Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,30002104,Boat-F1-1000-Hingham-BF2H-01-Weekday-Fall-22
 Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,30002106,Boat-F1-1400-Hingham-BF2H-01-Weekday-Fall-22
-Boat-EastBoston-0-0,Boat-EastBoston,0,Long Wharf - Lewis Wharf,,4,30005099,Boat-EastBoston-0715-Long-BEB-01-Weekday-Fall-22
-Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Wharf - Long Wharf,,4,30005199,Boat-EastBoston-0700-Lewis-BEB-01-Weekday-Fall-22
 747-_-0,747,0,Ruggles Station - Sullivan Square Station,Weekdays only,1,40020000,53164904
 747-_-1,747,1,Sullivan Square Station - Ruggles Station,Weekdays only,1,40020100,53164871
 708-_-0,708,0,Andrew Station - Brookline Ave,Weekdays only,1,40030000,53315739
@@ -790,5 +802,7 @@ Shuttle-BraintreeJFK-0-0,Shuttle-BraintreeJFK,0,JFK/UMass - Braintree,,4,6094009
 Shuttle-BraintreeJFK-0-1,Shuttle-BraintreeJFK,1,Braintree - JFK/UMass,,4,60940199,52928401-AshmontJFKBraintreeJFKBraintreeJFK
 Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,South Station - Braintree (Express),,4,61010099,CR-554823-1005-MDLBrainSouthDynamic2B1
 Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,4,61010199,CR-550873-1002-MDLBrainSouthDynamic0B1
+Shuttle-HarvardPark-0-0,Shuttle-HarvardPark,0,Harvard - Park Street,,4,61961099,Red-DecShuttleBus-Saturday-0-05:30:00
+Shuttle-HarvardPark-0-1,Shuttle-HarvardPark,1,Park Street - Harvard,,4,61961199,Red-DecShuttleBus-Saturday-1-05:40:00
 Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,4,62053099,CR-NewburyportLynnShuttleFall-Weekday-0-05:08:00
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,4,62053199,CR-NewburyportLynnShuttleFall-Weekday-1-05:31:00

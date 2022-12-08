@@ -12,7 +12,7 @@ Green-C,1,East,Government Center
 Green-D,0,West,Riverside
 Green-D,1,East,Union Square
 Green-E,0,West,Heath Street
-Green-E,1,East,Lechmere
+Green-E,1,East,Medford/Tufts
 Blue,0,West,Bowdoin
 Blue,1,East,Wonderland
 741,0,Outbound,Logan Airport Terminals
@@ -57,8 +57,6 @@ Boat-F4,0,Outbound,Charlestown
 Boat-F4,1,Inbound,Long Wharf
 Boat-F1,0,Outbound,Hingham or Hull
 Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
-Boat-EastBoston,0,Outbound,Lewis Wharf
-Boat-EastBoston,1,Inbound,Long Wharf
 747,0,Outbound,Sullivan Square Station
 747,1,Inbound,Ruggles Station
 708,0,Outbound,Beth Israel Deaconess Hospital
@@ -403,5 +401,7 @@ Shuttle-BraintreeJFK,0,South,Braintree
 Shuttle-BraintreeJFK,1,North,Alewife
 Shuttle-BraintreeSouthStationExpress,0,Outbound,Braintree
 Shuttle-BraintreeSouthStationExpress,1,Inbound,South Station
+Shuttle-HarvardPark,0,South,Ashmont/Braintree
+Shuttle-HarvardPark,1,North,Alewife
 Shuttle-LynnSwampscott,0,Outbound,Swampscott
 Shuttle-LynnSwampscott,1,Inbound,Lynn
