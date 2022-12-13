@@ -57,6 +57,8 @@ Boat-F4,0,Outbound,Charlestown
 Boat-F4,1,Inbound,Long Wharf
 Boat-F1,0,Outbound,Hingham or Hull
 Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
+Boat-EastBoston,0,Outbound,Lewis Wharf
+Boat-EastBoston,1,Inbound,Long Wharf
 747,0,Outbound,Sullivan Square Station
 747,1,Inbound,Ruggles Station
 708,0,Outbound,Beth Israel Deaconess Hospital
@@ -393,14 +395,12 @@ Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
 716,1,Inbound,Mattapan Station
 Shuttle-AshmontJFK,0,Outbound,Ashmont
 Shuttle-AshmontJFK,1,Inbound,Alewife
+Shuttle-BabcockBostonCollege,0,West,Boston College
+Shuttle-BabcockBostonCollege,1,East,Park Street
 Shuttle-BeverlyRockportExpress,0,Outbound,Rockport
 Shuttle-BeverlyRockportExpress,1,Inbound,North Station
 Shuttle-BeverlyRockportLocal,0,Outbound,Rockport
 Shuttle-BeverlyRockportLocal,1,Inbound,North Station
-Shuttle-BraintreeJFK,0,South,Braintree
-Shuttle-BraintreeJFK,1,North,Alewife
-Shuttle-BraintreeSouthStationExpress,0,Outbound,Braintree
-Shuttle-BraintreeSouthStationExpress,1,Inbound,South Station
 Shuttle-HarvardPark,0,South,Ashmont/Braintree
 Shuttle-HarvardPark,1,North,Alewife
 Shuttle-LynnSwampscott,0,Outbound,Swampscott
