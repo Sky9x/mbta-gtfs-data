@@ -8276,13 +8276,57 @@ facility_id,property_id,value
 764,excludes-stop,node-lech-obrienstairs-top
 765,alternate-service-text,"To exit, use Gilman Square Elevator 766 located at the opposite end of the platform to access School St. To board, travel north along the Community Path to the School St entrance and use Gilman Square Elevator 766."
 765,excludes-stop,door-gilmn-school
+765,excludes-stop,node-765-bottom
+765,excludes-stop,node-765-top
+765,excludes-stop,node-766-bottom
+765,excludes-stop,node-766-top
+765,excludes-stop,node-gilmn-medstairs-bottom
+765,excludes-stop,node-gilmn-medstairs-top
+765,excludes-stop,node-gilmn-schstairs-bottom
+765,excludes-stop,node-gilmn-schstairs-top
 766,alternate-service-text,"To exit, use Gilman Square Elevator 765 located at the opposite end of the platform to access the Community Path and Medford St. To board, travel south along the Community Path to the Medford St entrance and use Gilman Square Elevator 765."
 766,excludes-stop,door-gilmn-medford
+766,excludes-stop,node-765-bottom
+766,excludes-stop,node-765-top
+766,excludes-stop,node-766-bottom
+766,excludes-stop,node-766-top
+766,excludes-stop,node-gilmn-medstairs-bottom
+766,excludes-stop,node-gilmn-medstairs-top
+766,excludes-stop,node-gilmn-schstairs-bottom
+766,excludes-stop,node-gilmn-schstairs-top
 767,alternate-service-text,Please use nearby Magoun Square Elevator 768.
+767,excludes-stop,node-767-bottom
+767,excludes-stop,node-767-top
+767,excludes-stop,node-768-bottom
+767,excludes-stop,node-768-top
+767,excludes-stop,node-mgngl-ramp-bottom
+767,excludes-stop,node-mgngl-ramp-top
+767,excludes-stop,node-mgngl-stairs-bottom
+767,excludes-stop,node-mgngl-stairs-top
 768,alternate-service-text,Please use nearby Magoun Square Elevator 767.
+768,excludes-stop,node-767-bottom
+768,excludes-stop,node-767-top
+768,excludes-stop,node-768-bottom
+768,excludes-stop,node-768-top
+768,excludes-stop,node-mgngl-ramp-bottom
+768,excludes-stop,node-mgngl-ramp-top
+768,excludes-stop,node-mgngl-stairs-bottom
+768,excludes-stop,node-mgngl-stairs-top
 769,alternate-service-text,"To exit, proceed to the track crossing located at the south end of the platform, then continue to the Boston Ave lobby. To board, use the Boston Ave entrance located at the intersection of Boston Ave and Broadway."
 769,excludes-stop,door-balsq-boston
+769,excludes-stop,node-769-bottom
+769,excludes-stop,node-769-top
+769,excludes-stop,node-balsq-ramp-bottom
+769,excludes-stop,node-balsq-ramp-top
+769,excludes-stop,node-balsq-stairs-bottom
+769,excludes-stop,node-balsq-stairs-top
 770,alternate-service-text,Please use nearby Medford/Tufts Elevator 772.
+770,excludes-stop,node-770-bottom
+770,excludes-stop,node-770-top
+770,excludes-stop,node-772-bottom
+770,excludes-stop,node-772-top
+770,excludes-stop,node-mdftf-stairs-bottom
+770,excludes-stop,node-mdftf-stairs-top
 771,alternate-service-text,"To board or exit, use the accessible walkway that connects the station entrance with Prospect St."
 771,excludes-stop,door-unsqu-allen
 771,excludes-stop,door-unsqu-ramp
@@ -8293,6 +8337,12 @@ facility_id,property_id,value
 771,excludes-stop,node-unsqu-stairs-bottom
 771,excludes-stop,node-unsqu-stairs-top
 772,alternate-service-text,Please use nearby Medford/Tufts Elevator 770.
+772,excludes-stop,node-770-bottom
+772,excludes-stop,node-770-top
+772,excludes-stop,node-772-bottom
+772,excludes-stop,node-772-top
+772,excludes-stop,node-mdftf-stairs-bottom
+772,excludes-stop,node-mdftf-stairs-top
 800,alternate-service-text,"A shuttle bus will be available to transport customers between Oak Grove and Malden Center. To exit, exit the train at Malden Center and find station personnel or use a station call box to request the shuttle bus to Oak Grove. To board, find station personnel or use a station call box to request the shuttle bus to Malden Center. Alternatively, customers may utilize the Oak Grove Elevator 744 located at the station entrance on Washington Street."
 800,excludes-stop,9328
 800,excludes-stop,door-ogmnl-wash
@@ -14347,9 +14397,12 @@ bike-alfcl-west,secured,1
 bike-asmnl,capacity,8
 bike-asmnl,enclosed,1
 bike-asmnl,secured,1
-bike-balsq,capacity,18
-bike-balsq,enclosed,2
-bike-balsq,secured,2
+bike-balsq-pedalpark,capacity,50
+bike-balsq-pedalpark,enclosed,1
+bike-balsq-pedalpark,secured,2
+bike-balsq-racks,capacity,18
+bike-balsq-racks,enclosed,2
+bike-balsq-racks,secured,2
 bike-bbsta,capacity,40
 bike-bbsta,enclosed,1
 bike-bbsta,secured,1
@@ -14401,6 +14454,9 @@ bike-davis,secured,1
 bike-eliot,capacity,32
 bike-eliot,enclosed,1
 bike-eliot,secured,2
+bike-esomr-pedalpark,capacity,52
+bike-esomr-pedalpark,enclosed,1
+bike-esomr-pedalpark,secured,2
 bike-fenwy,capacity,18
 bike-fenwy,enclosed,2
 bike-fenwy,secured,2
@@ -14410,9 +14466,9 @@ bike-fldcr,secured,2
 bike-forhl,capacity,110
 bike-forhl,enclosed,1
 bike-forhl,secured,1
-bike-gilmn,capacity,12
-bike-gilmn,enclosed,2
-bike-gilmn,secured,2
+bike-gilmn-racks,capacity,12
+bike-gilmn-racks,enclosed,2
+bike-gilmn-racks,secured,2
 bike-grnst,capacity,22
 bike-grnst,enclosed,1
 bike-grnst,secured,2
@@ -14445,7 +14501,7 @@ bike-lech-obrienwb,enclosed,2
 bike-lech-obrienwb,secured,2
 bike-lech-storage,capacity,182
 bike-lech-storage,enclosed,1
-bike-lech-storage,secured,1
+bike-lech-storage,secured,2
 bike-longw,capacity,15
 bike-longw,enclosed,2
 bike-longw,secured,2
@@ -14455,6 +14511,12 @@ bike-masta,secured,2
 bike-matt,capacity,9
 bike-matt,enclosed,2
 bike-matt,secured,2
+bike-mdftf-pedalpark,capacity,50
+bike-mdftf-pedalpark,enclosed,1
+bike-mdftf-pedalpark,secured,2
+bike-mgngl-pedalpark,capacity,36
+bike-mgngl-pedalpark,enclosed,1
+bike-mgngl-pedalpark,secured,2
 bike-miltt,capacity,26
 bike-miltt,enclosed,2
 bike-miltt,secured,2
@@ -14532,7 +14594,7 @@ bike-unsqu-rackwest,enclosed,2
 bike-unsqu-rackwest,secured,2
 bike-unsqu-storage,capacity,86
 bike-unsqu-storage,enclosed,1
-bike-unsqu-storage,secured,1
+bike-unsqu-storage,secured,2
 bike-waban,capacity,12
 bike-waban,enclosed,2
 bike-waban,secured,2
@@ -14648,15 +14710,15 @@ ev-forhl,capacity,3
 ev-qamnl-garage,capacity,2
 ev-wondl-garage,capacity,4
 ev-woodl-garage,capacity,4
-fake_fcb8_1082_14105,excludes-stop,NEC-1851-03
-fake_fcb8_1e6c_14106,excludes-stop,NEC-1851-05
-fake_fcb8_4af0_14112,excludes-stop,NEC-2173
-fake_fcb8_6c22_14110,excludes-stop,NEC-1851-02
-fake_fcb8_aced_14104,excludes-stop,NEC-1851
-fake_fcb8_aced_14108,excludes-stop,NEC-1851
-fake_fcb8_af4e_14109,excludes-stop,NEC-1851-01
-fake_fcb8_eb37_14101,excludes-stop,NHRML-0254
-fake_fcb8_eb37_14103,excludes-stop,NHRML-0254
+fake_fcb8_1082_14155,excludes-stop,NEC-1851-03
+fake_fcb8_1e6c_14156,excludes-stop,NEC-1851-05
+fake_fcb8_4af0_14162,excludes-stop,NEC-2173
+fake_fcb8_6c22_14160,excludes-stop,NEC-1851-02
+fake_fcb8_aced_14154,excludes-stop,NEC-1851
+fake_fcb8_aced_14158,excludes-stop,NEC-1851
+fake_fcb8_af4e_14159,excludes-stop,NEC-1851-01
+fake_fcb8_eb37_14151,excludes-stop,NHRML-0254
+fake_fcb8_eb37_14153,excludes-stop,NHRML-0254
 fvm-201001,enclosed,1
 fvm-201001,excludes-stop,door-aqucl-mcknorth
 fvm-201001,excludes-stop,door-aqucl-mcksouth
@@ -20327,6 +20389,7 @@ portlift-babck-0,excludes-stop,170136
 portlift-babck-0,note,Customers can board/exit certain trains using mobile lift
 portlift-babck-1,excludes-stop,170137
 portlift-babck-1,note,Customers can board/exit certain trains using mobile lift
+portlift-balsq,note,Customers can board/exit certain trains using mobile lift
 portlift-bcnwa-0,excludes-stop,1276
 portlift-bcnwa-0,excludes-stop,1292
 portlift-bcnwa-0,excludes-stop,70230
@@ -20355,10 +20418,12 @@ portlift-cool-1,excludes-stop,1308
 portlift-cool-1,excludes-stop,1372
 portlift-cool-1,excludes-stop,70219
 portlift-cool-1,note,Customers can board/exit certain trains using mobile lift
+portlift-esomr,note,Customers can board/exit certain trains using mobile lift
 portlift-fenwy,excludes-stop,1807
 portlift-fenwy,excludes-stop,70186
 portlift-fenwy,excludes-stop,9434
 portlift-fenwy,note,Customers can board/exit certain trains using mobile lift
+portlift-gilmn,note,Customers can board/exit certain trains using mobile lift
 portlift-gover,excludes-stop,4510
 portlift-gover,excludes-stop,70039
 portlift-gover,excludes-stop,70040
@@ -20372,12 +20437,8 @@ portlift-haecl-1,excludes-stop,70025
 portlift-haecl-1,excludes-stop,70203
 portlift-haecl-1,note,Customers can board/exit certain trains using mobile lift
 portlift-harvd-0,excludes-stop,70131
-portlift-harvd-0,excludes-stop,9070130
-portlift-harvd-0,excludes-stop,9070131
 portlift-harvd-0,note,Customers can board/exit certain trains using mobile lift
 portlift-harvd-1,excludes-stop,70130
-portlift-harvd-1,excludes-stop,9070130
-portlift-harvd-1,excludes-stop,9070131
 portlift-harvd-1,note,Customers can board/exit certain trains using mobile lift
 portlift-hsmnl,note,Customers can board/exit certain trains using mobile lift
 portlift-kencl,note,Customers can board/exit certain trains using mobile lift
@@ -20392,8 +20453,10 @@ portlift-lngmd-0,excludes-stop,70248
 portlift-lngmd-0,note,Customers can board/exit certain trains using mobile lift
 portlift-lngmd-1,excludes-stop,70247
 portlift-lngmd-1,note,Customers can board/exit certain trains using mobile lift
+portlift-mdftf,note,Customers can board/exit certain trains using mobile lift
 portlift-mfa,excludes-stop,70245
 portlift-mfa,note,Customers can board/exit certain trains using mobile lift
+portlift-mgngl,note,Customers can board/exit certain trains using mobile lift
 portlift-newtn-0,excludes-stop,70169
 portlift-newtn-0,excludes-stop,8155
 portlift-newtn-0,excludes-stop,8203
@@ -21400,12 +21463,8 @@ subplat-spmnl-0,note,Mini high level platform is available to provide level boar
 subplat-spmnl-1,excludes-stop,70207
 subplat-spmnl-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-wascm-0,excludes-stop,70121
-subplat-wascm-0,excludes-stop,9070120
-subplat-wascm-0,excludes-stop,9070121
 subplat-wascm-0,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-wascm-1,excludes-stop,70120
-subplat-wascm-1,excludes-stop,9070120
-subplat-wascm-1,excludes-stop,9070121
 subplat-wascm-1,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 ticket-bbsta,address,"145 Dartmouth St, Boston, MA 02116"
 ticket-bbsta,dispenses,fare-media
