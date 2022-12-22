@@ -1,16 +1,16 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-BUS12023-hba13011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-BUS12023-hbb13011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
+BUS12023-hba13ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
+BUS12023-hbb13ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
 BUS12023-hbc13fr1-Weekday-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
 BUS12023-hbc13nf1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
 BUS12023-hbc13sn1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
 BUS12023-hbc13wk1-Weekday-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-BUS12023-hbf13011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-BUS12023-hbg13011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-BUS12023-hbl13011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-BUS12023-hbq13011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-BUS12023-hbs13011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-BUS12023-hbt13011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
+BUS12023-hbf13ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
+BUS12023-hbg13ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
+BUS12023-hbl13ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
+BUS12023-hbq13ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
+BUS12023-hbs13ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
+BUS12023-hbt13ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
 BUS42022-hba42011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20220828,20221217,Fall
 BUS42022-hbb42011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20220828,20221217,Fall
 BUS42022-hbb42016-Saturday-02,Saturday schedule,Saturday,Saturday,1,20220828,20221217,Fall
@@ -45,6 +45,10 @@ ChristmasDay(Observed)-NwYrsD(),Holiday (Sunday schedule),Holiday,Sunday,3,20221
 ChristmasDay-NwYrsD,Sunday schedule,Sunday,Sunday,1,20221218,20230311,Winter
 FALL 2022-NORTHSAT-Saturday-1,Saturday schedule,Saturday,Saturday,1,20221017,,Fall/Winter
 FALL 2022-NORTHSAT-Saturday-5,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20221017,,Fall/Winter
+FALL 2022-NORTHSAT-Saturday-61,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20221017,,Fall/Winter
+FALL 2022-NORTHSAT-Saturday-61-S6d,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20221017,,Fall/Winter
+FALL 2022-NORTHSAT-Saturday-61-S72,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20221017,,Fall/Winter
+FALL 2022-NORTHSAT-Saturday-61-S9f,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20221017,,Fall/Winter
 FALL 2022-NORTHSUN-Sunday-1,Sunday schedule,Sunday,Sunday,1,20221017,,Fall/Winter
 FALL 2022-NORTHSUN-Sunday-1-S6d,Sunday schedule,Sunday,Sunday,1,20221017,,Fall/Winter
 FALL 2022-NORTHSUN-Sunday-1-S72,Sunday schedule,Sunday,Sunday,1,20221017,,Fall/Winter
@@ -52,6 +56,15 @@ FALL 2022-NORTHSUN-Sunday-1-S9f,Sunday schedule,Sunday,Sunday,1,20221017,,Fall/W
 FALL 2022-NORTHSUN-Sunday-5,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20221017,,Fall/Winter
 FALL 2022-NORTHWKD-Weekday-1,Weekday schedule,Weekday,Weekday,1,20221017,,Fall/Winter
 FALL 2022-NORTHWKD-Weekday-5,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20221017,,Fall/Winter
+FALL 2022-SOUTHSAT-Saturday-1,Saturday schedule,Saturday,Saturday,1,20221017,,Fall/Winter
+FALL 2022-SOUTHSAT-Saturday-16,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20221017,,Fall/Winter
+FALL 2022-SOUTHSAT-Saturday-61,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20221017,,Fall/Winter
+FALL 2022-SOUTHSAT-Saturday-61-S86,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20221017,,Fall/Winter
+FALL 2022-SOUTHSAT-Saturday-61-S8f,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20221017,,Fall/Winter
+FALL 2022-SOUTHSAT-Saturday-61-Sb4,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20221017,,Fall/Winter
+FALL 2022-SOUTHSAT-Saturday-61-Sb6,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20221017,,Fall/Winter
+FALL 2022-SOUTHSAT-Saturday-61-Sc0,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20221017,,Fall/Winter
+FALL 2022-SOUTHSAT-Saturday-61-Sc5,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20221017,,Fall/Winter
 FALL 2022-SOUTHSUN-Sunday-1,Sunday schedule,Sunday,Sunday,1,20221017,,Fall/Winter
 FALL 2022-SOUTHSUN-Sunday-1-S86,Sunday schedule,Sunday,Sunday,1,20221017,,Fall/Winter
 FALL 2022-SOUTHSUN-Sunday-1-S8f,Sunday schedule,Sunday,Sunday,1,20221017,,Fall/Winter
@@ -59,6 +72,9 @@ FALL 2022-SOUTHSUN-Sunday-1-Sb4,Sunday schedule,Sunday,Sunday,1,20221017,,Fall/W
 FALL 2022-SOUTHSUN-Sunday-1-Sb6,Sunday schedule,Sunday,Sunday,1,20221017,,Fall/Winter
 FALL 2022-SOUTHSUN-Sunday-1-Sc0,Sunday schedule,Sunday,Sunday,1,20221017,,Fall/Winter
 FALL 2022-SOUTHSUN-Sunday-1-Sc5,Sunday schedule,Sunday,Sunday,1,20221017,,Fall/Winter
+FALL 2022-SOUTHSUN-Sunday-16,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20221017,,Fall/Winter
+FALL 2022-SOUTHWKD-Weekday-1,Weekday schedule,Weekday,Weekday,1,20221017,,Fall/Winter
+FALL 2022-SOUTHWKD-Weekday-16,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20221017,,Fall/Winter
 FlrStd,Saturday schedule,Saturday,Saturday,1,20221017,,Fall/Winter
 FlrWkd,Weekday schedule,Weekday,Weekday,1,20221017,,Fall/Winter
 LRV12023-hlb13011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
@@ -79,7 +95,7 @@ PRIV12023-hpa13016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20221218,20
 PRIV12023-hpj13011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
 PRIV12023-hpj13016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20221218,20230311,Winter
 PRIV12023-hpj13017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20221218,20230311,Winter
-PRIV12023-hpp13011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
+PRIV12023-hpp13ns1-Weekday-01,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
 PRIV42022-hpa42011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20220828,20221217,Fall
 PRIV42022-hpa42016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20220828,20221217,Fall
 PRIV42022-hpj42011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20220828,20221217,Fall
@@ -107,4 +123,4 @@ RTL42022-hms42l31-Saturday-01,Weekday schedule (reduced service),Weekday (reduce
 SPRING2022-SOUTHSUN-Sunday-78,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20220523,20221016,Spring/Summer
 WnrSnd,Sunday schedule,Sunday,Sunday,1,20221218,20230311,Winter
 WnrStd,Saturday schedule,Saturday,Saturday,1,20221218,20230311,Winter
-WnrWkd,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
+WnrWkd,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
