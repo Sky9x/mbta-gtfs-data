@@ -219,6 +219,8 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 736,736,1,elevator,place-qamnl,Lobby to platform,Quincy Adams Elevator 736 (Lobby to platform),,,,1
 743,743,1,elevator,place-ogmnl,Orange Line platform to paid lobby,Oak Grove Elevator 743 (Orange Line platform to paid lobby),,,,1
 744,744,1,elevator,place-ogmnl,Washington Street to lobby,Oak Grove Elevator 744 (Washington Street to lobby),,,,1
+745,745,1,elevator,place-ogmnl,"Busway, parking lot to lobby","Oak Grove Elevator 745 (Busway, parking lot to lobby)",,,,1
+746,746,1,elevator,place-ogmnl,Orange Line platform to paid lobby,Oak Grove Elevator 746 (Orange Line platform to paid lobby),,,,1
 755,755,1,elevator,place-knncl,Ashmont/Braintree platform to Main Street,Kendall/MIT Elevator 755 (Ashmont/Braintree platform to Main Street),,,,1
 762,762,1,elevator,place-lech,Platform to North First Street lobby,Lechmere Elevator 762 (Platform to North First Street lobby),,,,1
 763,763,1,elevator,place-lech,Platform to North First Street lobby,Lechmere Elevator 763 (Platform to North First Street lobby),,,,1
@@ -617,17 +619,17 @@ ev-forhl,,6,electric-car-chargers,place-forhl,EV Chargers,Forest Hills Parking L
 ev-qamnl-garage,,6,electric-car-chargers,place-qamnl,EV Chargers,Quincy Adams Garage EV Chargers,,,,0
 ev-wondl-garage,,6,electric-car-chargers,place-wondl,EV Chargers,Wonderland Garage EV Chargers,,,,0
 ev-woodl-garage,,6,electric-car-chargers,place-woodl,EV Chargers,Woodland Garage EV Chargers,,,,0
-fake_36ef_bfa5_398,fake_36ef_bfa5_398,1,elevator,place-WML-0442,Lobby to platform,Worcester Elevator (Lobby to platform),,,,1
-fake_3b81_7260_395,fake_3b81_7260_395,1,elevator,place-NEC-1659,Lobby and platform to garage,Wickford Junction Elevator (Lobby and platform to garage),,,,1
-fake_3b81_7260_396,fake_3b81_7260_396,1,elevator,place-NEC-1659,Lobby and platform to garage,Wickford Junction Elevator (Lobby and platform to garage),,,,1
-fake_3b81_c387_397,fake_3b81_c387_397,1,elevator,place-NEC-1659,North end of platform to garage,Wickford Junction Elevator (North end of platform to garage),,,,1
-fake_5a7e_af2a_392,fake_5a7e_af2a_392,1,elevator,place-NEC-2173,Lobby to pedestrian bridge,Route 128 Elevator (Lobby to pedestrian bridge),,,,1
-fake_7a57_3d92_393,fake_7a57_3d92_393,1,elevator,place-NEC-1768,Walkway to platform,TF Green Airport Elevator (Walkway to platform),,,,1
-fake_7a57_3d92_394,fake_7a57_3d92_394,1,elevator,place-NEC-1768,Walkway to platform,TF Green Airport Elevator (Walkway to platform),,,,1
-fake_99c7_af2a_389,fake_99c7_af2a_389,1,elevator,place-NHRML-0254,Lobby to pedestrian bridge,Lowell Elevator (Lobby to pedestrian bridge),,,,1
-fake_99c7_c4e9_388,fake_99c7_c4e9_388,1,elevator,place-NHRML-0254,Platform 1 to pedestrian bridge,Lowell Elevator (Platform 1 to pedestrian bridge),,,,1
-fake_c2ed_07bd_390,fake_c2ed_07bd_390,1,elevator,place-NEC-1851,Lobby to tracks 1 and 2,Providence Elevator (Lobby to tracks 1 and 2),,,,1
-fake_c2ed_e7ea_391,fake_c2ed_e7ea_391,1,elevator,place-NEC-1851,Lobby to tracks 3 and 5,Providence Elevator (Lobby to tracks 3 and 5),,,,1
+fake_36ef_bfa5_400,fake_36ef_bfa5_400,1,elevator,place-WML-0442,Lobby to platform,Worcester Elevator (Lobby to platform),,,,1
+fake_3b81_7260_397,fake_3b81_7260_397,1,elevator,place-NEC-1659,Lobby and platform to garage,Wickford Junction Elevator (Lobby and platform to garage),,,,1
+fake_3b81_7260_398,fake_3b81_7260_398,1,elevator,place-NEC-1659,Lobby and platform to garage,Wickford Junction Elevator (Lobby and platform to garage),,,,1
+fake_3b81_c387_399,fake_3b81_c387_399,1,elevator,place-NEC-1659,North end of platform to garage,Wickford Junction Elevator (North end of platform to garage),,,,1
+fake_5a7e_af2a_394,fake_5a7e_af2a_394,1,elevator,place-NEC-2173,Lobby to pedestrian bridge,Route 128 Elevator (Lobby to pedestrian bridge),,,,1
+fake_7a57_3d92_395,fake_7a57_3d92_395,1,elevator,place-NEC-1768,Walkway to platform,TF Green Airport Elevator (Walkway to platform),,,,1
+fake_7a57_3d92_396,fake_7a57_3d92_396,1,elevator,place-NEC-1768,Walkway to platform,TF Green Airport Elevator (Walkway to platform),,,,1
+fake_99c7_af2a_391,fake_99c7_af2a_391,1,elevator,place-NHRML-0254,Lobby to pedestrian bridge,Lowell Elevator (Lobby to pedestrian bridge),,,,1
+fake_99c7_c4e9_390,fake_99c7_c4e9_390,1,elevator,place-NHRML-0254,Platform 1 to pedestrian bridge,Lowell Elevator (Platform 1 to pedestrian bridge),,,,1
+fake_c2ed_07bd_392,fake_c2ed_07bd_392,1,elevator,place-NEC-1851,Lobby to tracks 1 and 2,Providence Elevator (Lobby to tracks 1 and 2),,,,1
+fake_c2ed_e7ea_393,fake_c2ed_e7ea_393,1,elevator,place-NEC-1851,Lobby to tracks 3 and 5,Providence Elevator (Lobby to tracks 3 and 5),,,,1
 fvm-201001,,4,fare-vending-machine,place-aqucl,Fare vending machine 201001,Aquarium fare vending machine 201001,,,,0
 fvm-201002,,4,fare-vending-machine,place-aqucl,Fare vending machine 201002,Aquarium fare vending machine 201002,,,,0
 fvm-201003,,4,fare-vending-machine,place-aqucl,Fare vending machine 201003,Aquarium fare vending machine 201003,,,,0
