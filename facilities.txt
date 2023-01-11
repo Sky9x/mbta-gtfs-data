@@ -472,6 +472,7 @@ bike-NB-0120,,3,bike-storage,place-NB-0120,Bike rack,Needham Junction bike rack,
 bike-NB-0127,,3,bike-storage,place-NB-0127,Bike rack,Needham Center bike rack,,,,0
 bike-NB-0137,,3,bike-storage,place-NB-0137,Bike rack,Needham Heights bike rack,,,,0
 bike-NEC-1659,,3,bike-storage,place-NEC-1659,Bike rack,Wickford Junction bike rack,,,,0
+bike-NEC-1891-racks,,3,bike-storage,place-NEC-1891,Bike rack,Pawtucket/Central Falls bike rack,,41.8786850,-71.3915770,0
 bike-NEC-1969,,3,bike-storage,place-NEC-1969,Bike rack,Attleboro bike rack,,,,0
 bike-NEC-2108,,3,bike-storage,place-NEC-2108,Bike rack,Sharon bike rack,,,,0
 bike-NEC-2139,,3,bike-storage,place-NEC-2139,Bike rack,Canton Junction bike rack,,,,0
@@ -628,6 +629,8 @@ fake_7a57_3d92_395,fake_7a57_3d92_395,1,elevator,place-NEC-1768,Walkway to platf
 fake_7a57_3d92_396,fake_7a57_3d92_396,1,elevator,place-NEC-1768,Walkway to platform,TF Green Airport Elevator (Walkway to platform),,,,1
 fake_99c7_af2a_391,fake_99c7_af2a_391,1,elevator,place-NHRML-0254,Lobby to pedestrian bridge,Lowell Elevator (Lobby to pedestrian bridge),,,,1
 fake_99c7_c4e9_390,fake_99c7_c4e9_390,1,elevator,place-NHRML-0254,Platform 1 to pedestrian bridge,Lowell Elevator (Platform 1 to pedestrian bridge),,,,1
+fake_b748_c4e7_401,fake_b748_c4e7_401,1,elevator,place-NEC-1891,"Track 1 (outbound platform) to Pine St, Barton St","Pawtucket/Central Falls Elevator (Track 1 (outbound platform) to Pine St, Barton St)",,,,1
+fake_b748_c4e7_402,fake_b748_c4e7_402,1,elevator,place-NEC-1891,"Track 1 (outbound platform) to Pine St, Barton St","Pawtucket/Central Falls Elevator (Track 1 (outbound platform) to Pine St, Barton St)",,,,1
 fake_c2ed_07bd_392,fake_c2ed_07bd_392,1,elevator,place-NEC-1851,Lobby to tracks 1 and 2,Providence Elevator (Lobby to tracks 1 and 2),,,,1
 fake_c2ed_e7ea_393,fake_c2ed_e7ea_393,1,elevator,place-NEC-1851,Lobby to tracks 3 and 5,Providence Elevator (Lobby to tracks 3 and 5),,,,1
 fvm-201001,,4,fare-vending-machine,place-aqucl,Fare vending machine 201001,Aquarium fare vending machine 201001,,,,0
@@ -1353,6 +1356,7 @@ park-NB-0137,,3,parking-area,place-NB-0137,Parking Lot,Needham Heights Parking L
 park-NEC-1659,,3,parking-area,place-NEC-1659,Parking Lot,Wickford Junction Parking Lot,,41.5816700,-71.4914700,0
 park-NEC-1768-garage,,3,parking-area,place-NEC-1768,Garage,TF Green Airport Garage,,41.7276060,-71.4427740,0
 park-NEC-1851-garage,,3,parking-area,place-NEC-1851,Garage,Providence Garage,,41.8291570,-71.4127430,0
+park-NEC-1891-lot,,3,parking-area,place-NEC-1891,Pine Street Parking Lot,Pawtucket/Central Falls Pine Street Parking Lot,,41.8779090,-71.3907100,0
 park-NEC-1919,,3,parking-area,place-NEC-1919,Parking Lot,South Attleboro Parking Lot,,41.8983570,-71.3557510,0
 park-NEC-1969,,3,parking-area,place-NEC-1969,Parking Lot,Attleboro Parking Lot,,41.9403490,-71.2859900,0
 park-NEC-2040,,3,parking-area,place-NEC-2040,Parking Lot,Mansfield Parking Lot,,42.0326890,-71.2209190,0
@@ -1594,8 +1598,6 @@ retailsale-302071,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,
 retailsale-302073,,4,fare-vending-retailer,,Star Market,Star Market,,42.3751587,-71.1489313,0
 retailsale-302077,,4,fare-vending-retailer,,Patriot News,Patriot News,,42.3509312,-71.0715904,0
 retailsale-302079,,4,fare-vending-retailer,,Central Square Check Cashing ,Central Square Check Cashing ,,42.3756567,-71.0392973,0
-retailsale-302082,,4,fare-vending-retailer,,Patriot News,Patriot News,,42.3563292,-71.0526233,0
-retailsale-302083,,4,fare-vending-retailer,,News Mart,News Mart,,42.3541310,-71.0559620,0
 retailsale-302084,,4,fare-vending-retailer,,Marylou's News,Marylou's News,,42.1074918,-70.9447767,0
 retailsale-302085,,4,fare-vending-retailer,,Marylou's News,Marylou's News,,42.1454013,-70.9536593,0
 retailsale-302090,,4,fare-vending-retailer,,Shaws,Shaws,,42.4562287,-71.0660265,0

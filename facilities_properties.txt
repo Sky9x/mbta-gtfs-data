@@ -14378,6 +14378,9 @@ bike-NB-0137,secured,2
 bike-NEC-1659,capacity,8
 bike-NEC-1659,enclosed,2
 bike-NEC-1659,secured,2
+bike-NEC-1891-racks,capacity,12
+bike-NEC-1891-racks,enclosed,2
+bike-NEC-1891-racks,secured,2
 bike-NEC-1969,capacity,28
 bike-NEC-1969,enclosed,2
 bike-NEC-1969,secured,2
@@ -14812,12 +14815,22 @@ ev-qamnl-garage,capacity,2
 ev-wondl-garage,capacity,4
 ev-woodl-garage,capacity,4
 fake_fcb8_1082_14258,excludes-stop,NEC-1851-03
+fake_fcb8_1b4d_14268,excludes-stop,door-NEC-1891-barton
+fake_fcb8_1b4d_14273,excludes-stop,door-NEC-1891-barton
 fake_fcb8_1e6c_14259,excludes-stop,NEC-1851-05
 fake_fcb8_4af0_14265,excludes-stop,NEC-2173
 fake_fcb8_6c22_14263,excludes-stop,NEC-1851-02
+fake_fcb8_7dcf_14266,excludes-stop,NEC-1891
+fake_fcb8_7dcf_14271,excludes-stop,NEC-1891
 fake_fcb8_aced_14257,excludes-stop,NEC-1851
 fake_fcb8_aced_14261,excludes-stop,NEC-1851
+fake_fcb8_ae82_14269,excludes-stop,door-NEC-1891-pinebus
+fake_fcb8_ae82_14274,excludes-stop,door-NEC-1891-pinebus
 fake_fcb8_af4e_14262,excludes-stop,NEC-1851-01
+fake_fcb8_c02a_14267,excludes-stop,NEC-1891-02
+fake_fcb8_c02a_14272,excludes-stop,NEC-1891-02
+fake_fcb8_e791_14270,excludes-stop,door-NEC-1891-pinedrop
+fake_fcb8_e791_14275,excludes-stop,door-NEC-1891-pinedrop
 fake_fcb8_eb37_14254,excludes-stop,NHRML-0254
 fake_fcb8_eb37_14256,excludes-stop,NHRML-0254
 fvm-201001,enclosed,1
@@ -18983,6 +18996,18 @@ park-NEC-1851-garage,operator,Metropark
 park-NEC-1851-garage,owner,Private
 park-NEC-1851-garage,payment-form-accepted,cash
 park-NEC-1851-garage,payment-form-accepted,credit-debit-card
+park-NEC-1891-lot,attended,2
+park-NEC-1891-lot,capacity,201
+park-NEC-1891-lot,capacity-accessible,10
+park-NEC-1891-lot,contact,Rhode Island Department of Transportation
+park-NEC-1891-lot,contact-phone,401-222-2450
+park-NEC-1891-lot,contact-url,http://www.ridetherailsri.com/#locations
+park-NEC-1891-lot,enclosed,2
+park-NEC-1891-lot,fee-daily,free
+park-NEC-1891-lot,municipality,Pawtucket
+park-NEC-1891-lot,operator,Rhode Island Department of Transportation
+park-NEC-1891-lot,overnight-allowed,no
+park-NEC-1891-lot,owner,Local transit authority
 park-NEC-1919,attended,2
 park-NEC-1919,capacity,579
 park-NEC-1919,capacity-accessible,13
@@ -20850,18 +20875,6 @@ retailsale-302079,dispenses,fare-media
 retailsale-302079,enclosed,1
 retailsale-302079,payment-form-accepted,cash
 retailsale-302079,payment-form-accepted,credit-debit-card
-retailsale-302082,address,"One International Place, Boston, MA 02110"
-retailsale-302082,contact-phone,617-345-0971
-retailsale-302082,dispenses,fare-media
-retailsale-302082,enclosed,1
-retailsale-302082,payment-form-accepted,cash
-retailsale-302082,payment-form-accepted,credit-debit-card
-retailsale-302083,address,"160 Federal St, Boston, MA 02110"
-retailsale-302083,contact-phone,857-756-2902
-retailsale-302083,dispenses,fare-media
-retailsale-302083,enclosed,1
-retailsale-302083,payment-form-accepted,cash
-retailsale-302083,payment-form-accepted,credit-debit-card
 retailsale-302084,address,"562 Washington St, Abington, MA 02351"
 retailsale-302084,contact-phone,781-878-9808
 retailsale-302084,dispenses,fare-media
