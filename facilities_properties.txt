@@ -19071,6 +19071,7 @@ park-NEC-2108,fee-daily,$4
 park-NEC-2108,municipality,Sharon
 park-NEC-2108,note,"Town of Sharon is responsible for parking maintenance, payments, and snow removal."
 park-NEC-2108,operator,Town of Sharon
+park-NEC-2108,overnight-allowed,no-except-snow
 park-NEC-2108,owner,City/Town
 park-NEC-2108,payment-app,PayByPhone
 park-NEC-2108,payment-app-id,2232
@@ -20737,6 +20738,12 @@ retailsale-302025,dispenses,fare-media
 retailsale-302025,enclosed,1
 retailsale-302025,payment-form-accepted,cash
 retailsale-302025,payment-form-accepted,credit-debit-card
+retailsale-302026,address,"582 Broadway, Somerville, MA 02143"
+retailsale-302026,contact-phone,617-776-9540
+retailsale-302026,dispenses,fare-media
+retailsale-302026,enclosed,1
+retailsale-302026,payment-form-accepted,cash
+retailsale-302026,payment-form-accepted,credit-debit-card
 retailsale-302028,address,"1383 Commonwealth Ave, Allston, MA 02134"
 retailsale-302028,contact-phone,617-254-8274
 retailsale-302028,dispenses,fare-media
@@ -20773,12 +20780,24 @@ retailsale-302037,dispenses,fare-media
 retailsale-302037,enclosed,1
 retailsale-302037,payment-form-accepted,cash
 retailsale-302037,payment-form-accepted,credit-debit-card
+retailsale-302038,address,"62 Market Sq, Lynn, MA 01905"
+retailsale-302038,contact-phone,781-592-3500
+retailsale-302038,dispenses,fare-media
+retailsale-302038,enclosed,1
+retailsale-302038,payment-form-accepted,cash
+retailsale-302038,payment-form-accepted,credit-debit-card
 retailsale-302041,address,"1998 Revere Beach Pkwy, Everett, MA 02149"
 retailsale-302041,contact-phone,617-381-8902
 retailsale-302041,dispenses,fare-media
 retailsale-302041,enclosed,1
 retailsale-302041,payment-form-accepted,cash
 retailsale-302041,payment-form-accepted,credit-debit-card
+retailsale-302045,address,"722 Huntington Ave, Boston, MA 02115"
+retailsale-302045,contact-phone,617-277-4665
+retailsale-302045,dispenses,fare-media
+retailsale-302045,enclosed,1
+retailsale-302045,payment-form-accepted,cash
+retailsale-302045,payment-form-accepted,credit-debit-card
 retailsale-302046,address,"4 College Ave, Somerville, MA 02144"
 retailsale-302046,contact-phone,617-666-0650
 retailsale-302046,dispenses,fare-media
@@ -20863,30 +20882,18 @@ retailsale-302073,dispenses,fare-media
 retailsale-302073,enclosed,1
 retailsale-302073,payment-form-accepted,cash
 retailsale-302073,payment-form-accepted,credit-debit-card
-retailsale-302077,address,"31 Saint James Ave, Boston, MA 02116"
-retailsale-302077,contact-phone,617-357-1641
-retailsale-302077,dispenses,fare-media
-retailsale-302077,enclosed,1
-retailsale-302077,payment-form-accepted,cash
-retailsale-302077,payment-form-accepted,credit-debit-card
 retailsale-302079,address,"230 Meridian St, East Boston, MA 02128"
 retailsale-302079,contact-phone,617-561-0445
 retailsale-302079,dispenses,fare-media
 retailsale-302079,enclosed,1
 retailsale-302079,payment-form-accepted,cash
 retailsale-302079,payment-form-accepted,credit-debit-card
-retailsale-302084,address,"562 Washington St, Abington, MA 02351"
-retailsale-302084,contact-phone,781-878-9808
-retailsale-302084,dispenses,fare-media
-retailsale-302084,enclosed,1
-retailsale-302084,payment-form-accepted,cash
-retailsale-302084,payment-form-accepted,credit-debit-card
-retailsale-302085,address,"1501 Bedford St, Abington, MA 02351"
-retailsale-302085,contact-phone,781-871-9912
-retailsale-302085,dispenses,fare-media
-retailsale-302085,enclosed,1
-retailsale-302085,payment-form-accepted,cash
-retailsale-302085,payment-form-accepted,credit-debit-card
+retailsale-302086,address,"71 Front St, Scituate, MA 02066"
+retailsale-302086,contact-phone,781-545-4896
+retailsale-302086,dispenses,fare-media
+retailsale-302086,enclosed,1
+retailsale-302086,payment-form-accepted,cash
+retailsale-302086,payment-form-accepted,credit-debit-card
 retailsale-302090,address,"34 Essex St, Melrose, MA 02176"
 retailsale-302090,contact-phone,781-665-8512
 retailsale-302090,dispenses,fare-media
@@ -20917,12 +20924,12 @@ retailsale-302121,dispenses,fare-media
 retailsale-302121,enclosed,1
 retailsale-302121,payment-form-accepted,cash
 retailsale-302121,payment-form-accepted,credit-debit-card
-retailsale-302122,address,"157 Brighton Ave, Allston, MA 02134"
-retailsale-302122,contact-phone,617-782-6065
-retailsale-302122,dispenses,fare-media
-retailsale-302122,enclosed,1
-retailsale-302122,payment-form-accepted,cash
-retailsale-302122,payment-form-accepted,credit-debit-card
+retailsale-302123,address,"2040 Commonwealth Ave, Newton  , MA 02466"
+retailsale-302123,contact-phone,617-965-1793
+retailsale-302123,dispenses,fare-media
+retailsale-302123,enclosed,1
+retailsale-302123,payment-form-accepted,cash
+retailsale-302123,payment-form-accepted,credit-debit-card
 retailsale-302124,address,"1377 Hyde Park Ave, Hyde Park, MA 02136"
 retailsale-302124,contact-phone,617-364-9375
 retailsale-302124,dispenses,fare-media
@@ -20959,12 +20966,6 @@ retailsale-302131,dispenses,fare-media
 retailsale-302131,enclosed,1
 retailsale-302131,payment-form-accepted,cash
 retailsale-302131,payment-form-accepted,credit-debit-card
-retailsale-302132,address,"911 Main St, Hanson, MA 02341"
-retailsale-302132,contact-phone,781-856-0524
-retailsale-302132,dispenses,fare-media
-retailsale-302132,enclosed,1
-retailsale-302132,payment-form-accepted,cash
-retailsale-302132,payment-form-accepted,credit-debit-card
 retailsale-302138,address,"275 Prospect St, Cambridge, MA 02139"
 retailsale-302138,contact-phone,617-547-4711
 retailsale-302138,dispenses,fare-media
@@ -20995,6 +20996,12 @@ retailsale-302149,dispenses,fare-media
 retailsale-302149,enclosed,1
 retailsale-302149,payment-form-accepted,cash
 retailsale-302149,payment-form-accepted,credit-debit-card
+retailsale-302150,address,"2002 Beacon St, Brighton, MA 02135"
+retailsale-302150,contact-phone,617-738-9692
+retailsale-302150,dispenses,fare-media
+retailsale-302150,enclosed,1
+retailsale-302150,payment-form-accepted,cash
+retailsale-302150,payment-form-accepted,credit-debit-card
 retailsale-302152,address,"584 Washington St, Brighton, MA 02136"
 retailsale-302152,contact-phone,617-783-1708
 retailsale-302152,dispenses,fare-media
@@ -21013,12 +21020,6 @@ retailsale-302157,dispenses,fare-media
 retailsale-302157,enclosed,1
 retailsale-302157,payment-form-accepted,cash
 retailsale-302157,payment-form-accepted,credit-debit-card
-retailsale-302160,address,"204-206 North Harvard St, Allston, MA 02134"
-retailsale-302160,contact-phone,617-787-5388
-retailsale-302160,dispenses,fare-media
-retailsale-302160,enclosed,1
-retailsale-302160,payment-form-accepted,cash
-retailsale-302160,payment-form-accepted,credit-debit-card
 retailsale-302163,address,"10 Rockwood Road          , Norfolk, MA 02056"
 retailsale-302163,contact-phone,508-528-1082
 retailsale-302163,dispenses,fare-media
@@ -21031,42 +21032,12 @@ retailsale-302164,dispenses,fare-media
 retailsale-302164,enclosed,1
 retailsale-302164,payment-form-accepted,cash
 retailsale-302164,payment-form-accepted,credit-debit-card
-retailsale-302168,address,"485-A Geneva Ave, Dorchester, MA 02122"
-retailsale-302168,contact-phone,617-436-7160
-retailsale-302168,dispenses,fare-media
-retailsale-302168,enclosed,1
-retailsale-302168,payment-form-accepted,cash
-retailsale-302168,payment-form-accepted,credit-debit-card
 retailsale-302171,address,"43 Granite St, Haverhill, MA 01832"
 retailsale-302171,contact-phone,978-372-9571
 retailsale-302171,dispenses,fare-media
 retailsale-302171,enclosed,1
 retailsale-302171,payment-form-accepted,cash
 retailsale-302171,payment-form-accepted,credit-debit-card
-retailsale-302173,address,"15 Union Sq, Somerville, MA 02143"
-retailsale-302173,contact-phone,617-628-1137
-retailsale-302173,dispenses,fare-media
-retailsale-302173,enclosed,1
-retailsale-302173,payment-form-accepted,cash
-retailsale-302173,payment-form-accepted,credit-debit-card
-retailsale-302176,address,"4196 Washington St, Roslindale, MA 02131"
-retailsale-302176,contact-phone,617-323-3163
-retailsale-302176,dispenses,fare-media
-retailsale-302176,enclosed,1
-retailsale-302176,payment-form-accepted,cash
-retailsale-302176,payment-form-accepted,credit-debit-card
-retailsale-302177,address,"850 Commonwealth Ave, Boston, MA 02115"
-retailsale-302177,contact-phone,617-232-1188
-retailsale-302177,dispenses,fare-media
-retailsale-302177,enclosed,1
-retailsale-302177,payment-form-accepted,cash
-retailsale-302177,payment-form-accepted,credit-debit-card
-retailsale-302183,address,"12 Monponsett St, Hanson, MA 02341"
-retailsale-302183,contact-phone,781-293-3529
-retailsale-302183,dispenses,fare-media
-retailsale-302183,enclosed,1
-retailsale-302183,payment-form-accepted,cash
-retailsale-302183,payment-form-accepted,credit-debit-card
 retailsale-302184,address,"224 Centre Ave, Abington, MA 02351"
 retailsale-302184,contact-phone,781-878-7662
 retailsale-302184,dispenses,fare-media
@@ -21109,12 +21080,6 @@ retailsale-302200,dispenses,fare-media
 retailsale-302200,enclosed,1
 retailsale-302200,payment-form-accepted,cash
 retailsale-302200,payment-form-accepted,credit-debit-card
-retailsale-302204,address,"483 Cambridge St, Allston, MA 02134"
-retailsale-302204,contact-phone,617-782-2515
-retailsale-302204,dispenses,fare-media
-retailsale-302204,enclosed,1
-retailsale-302204,payment-form-accepted,cash
-retailsale-302204,payment-form-accepted,credit-debit-card
 retailsale-302210,address,"1266 Hyde Park Ave, Hyde Park, MA 02136"
 retailsale-302210,contact-phone,617-361-1175
 retailsale-302210,dispenses,fare-media
@@ -21139,12 +21104,6 @@ retailsale-302234,dispenses,fare-media
 retailsale-302234,enclosed,1
 retailsale-302234,payment-form-accepted,cash
 retailsale-302234,payment-form-accepted,credit-debit-card
-retailsale-302238,address,"1 Crocker St, Mansfield, MA 02048"
-retailsale-302238,contact-phone,850-212-7089
-retailsale-302238,dispenses,fare-media
-retailsale-302238,enclosed,1
-retailsale-302238,payment-form-accepted,cash
-retailsale-302238,payment-form-accepted,credit-debit-card
 retailsale-303004,address,"370 Western Ave, Brighton, MA 02135"
 retailsale-303004,contact-phone,617-787-5266
 retailsale-303004,dispenses,fare-media
@@ -21163,12 +21122,6 @@ retailsale-303008,dispenses,fare-media
 retailsale-303008,enclosed,1
 retailsale-303008,payment-form-accepted,cash
 retailsale-303008,payment-form-accepted,credit-debit-card
-retailsale-303009,address,"4254 Washington St, Roslindale, MA 02131"
-retailsale-303009,contact-phone,617-323-2442
-retailsale-303009,dispenses,fare-media
-retailsale-303009,enclosed,1
-retailsale-303009,payment-form-accepted,cash
-retailsale-303009,payment-form-accepted,credit-debit-card
 retailsale-303012,address,"131 Lexington St, Waltham, MA 02451"
 retailsale-303012,contact-phone,781-893-1333
 retailsale-303012,dispenses,fare-media
@@ -21223,12 +21176,6 @@ retailsale-303028,dispenses,fare-media
 retailsale-303028,enclosed,1
 retailsale-303028,payment-form-accepted,cash
 retailsale-303028,payment-form-accepted,credit-debit-card
-retailsale-303029,address,"23 Drydock Ave, Boston, MA 02110"
-retailsale-303029,contact-phone,617-330-1422
-retailsale-303029,dispenses,fare-media
-retailsale-303029,enclosed,1
-retailsale-303029,payment-form-accepted,cash
-retailsale-303029,payment-form-accepted,credit-debit-card
 retailsale-303031,address,"699 Main St, Waltham, MA 02451"
 retailsale-303031,contact-phone,781-472-2267
 retailsale-303031,dispenses,fare-media
@@ -21277,12 +21224,6 @@ retailsale-303041,dispenses,fare-media
 retailsale-303041,enclosed,1
 retailsale-303041,payment-form-accepted,cash
 retailsale-303041,payment-form-accepted,credit-debit-card
-retailsale-303042,address,"4174A Washington St, Roslindale, MA 02131"
-retailsale-303042,contact-phone,617-477-9036
-retailsale-303042,dispenses,fare-media
-retailsale-303042,enclosed,1
-retailsale-303042,payment-form-accepted,cash
-retailsale-303042,payment-form-accepted,credit-debit-card
 retailsale-303043,address,"571 Broadway, Chelsea, MA 02150"
 retailsale-303043,contact-phone,617-409-9682
 retailsale-303043,dispenses,fare-media
@@ -21295,18 +21236,12 @@ retailsale-303044,dispenses,fare-media
 retailsale-303044,enclosed,1
 retailsale-303044,payment-form-accepted,cash
 retailsale-303044,payment-form-accepted,credit-debit-card
-retailsale-303045,address,"50 University Ave, Westwood, MA 02090"
-retailsale-303045,contact-phone,781-428-5273
-retailsale-303045,dispenses,fare-media
-retailsale-303045,enclosed,1
-retailsale-303045,payment-form-accepted,cash
-retailsale-303045,payment-form-accepted,credit-debit-card
-retailsale-303049,address,"252 West Newton St, Boston, MA 02116"
-retailsale-303049,contact-phone,617-697-4529
-retailsale-303049,dispenses,fare-media
-retailsale-303049,enclosed,1
-retailsale-303049,payment-form-accepted,cash
-retailsale-303049,payment-form-accepted,credit-debit-card
+retailsale-303047,address,"100 Cambridgeside Place, Cambridge, MA 02141"
+retailsale-303047,contact-phone,617-577-0201
+retailsale-303047,dispenses,fare-media
+retailsale-303047,enclosed,1
+retailsale-303047,payment-form-accepted,cash
+retailsale-303047,payment-form-accepted,credit-debit-card
 subplat-25,note,Mini high level platform is available to provide level boarding to certain cars in a train set
 subplat-DB-0095-2,excludes-stop,FB-0095-04
 subplat-DB-0095-2,excludes-stop,FB-0095-05
