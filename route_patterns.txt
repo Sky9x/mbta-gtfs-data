@@ -1,11 +1,15 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,54975444
 Red-3-0,Red,0,Alewife - Braintree,,1,10010005,54977472
+Red-1-0_70061_70063_2,Red,0,Davis - Ashmont,,4,10010099,54975444-AlewifeDavis2
 Red-1-0_70061_70071_2,Red,0,Kendall/MIT - Ashmont,,4,10010099,54978645-AlewifeKendall2
+Red-3-0_70061_70063_2,Red,0,Davis - Braintree,,4,10010099,54977472-AlewifeDavis2
 Red-3-0_70061_70071_2,Red,0,Kendall/MIT - Braintree,,4,10010099,54978859-AlewifeKendall2
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010104,54975448
 Red-3-1,Red,1,Braintree - Alewife,,1,10010105,54977389
+Red-1-1_70064_70061_0,Red,1,Ashmont - Davis,,4,10010199,54975448-AlewifeDavis0
 Red-1-1_70072_70061_0,Red,1,Ashmont - Kendall/MIT,,4,10010199,54978644-AlewifeKendall0
+Red-3-1_70064_70061_0,Red,1,Braintree - Davis,,4,10010199,54977389-AlewifeDavis0
 Red-3-1_70072_70061_0,Red,1,Braintree - Kendall/MIT,,4,10010199,54978787-AlewifeKendall0
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,54219352
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,54219350
@@ -807,6 +811,8 @@ Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Wharf - Long Wharf,,4,30005199,Boat-
 714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140106,55050097
 716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,55050063
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,55050058
+Shuttle-AlewifeDavis-0-0,Shuttle-AlewifeDavis,0,Alewife - Davis,,4,60218099,54975444-AlewifeDavis1
+Shuttle-AlewifeDavis-0-1,Shuttle-AlewifeDavis,1,Davis - Alewife,,4,60218199,54975448-AlewifeDavis1
 Shuttle-AlewifeKendall-0-0,Shuttle-AlewifeKendall,0,Alewife - Kendall/MIT,,4,60220099,54978645-AlewifeKendall1
 Shuttle-AlewifeKendall-0-1,Shuttle-AlewifeKendall,1,Kendall/MIT - Alewife,,4,60220199,54978644-AlewifeKendall1
 Shuttle-CopleyRuggles-0-0,Shuttle-CopleyRuggles,0,Copley - Ruggles,,4,61455099,Green-WinterCopleyRuggles-Saturday-0-05:18:00
