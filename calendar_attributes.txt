@@ -1,16 +1,16 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-BUS123-1-Wdy-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-BUS123-2-Wdy-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
+BUS123-1-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
+BUS123-2-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
 BUS123-3-Wdy-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
 BUS123-4-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
 BUS123-5-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
 BUS123-6-Wdy-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-BUS123-7-Wdy-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-BUS123-8-Wdy-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-BUS123-9-Wdy-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-BUS123-A-Wdy-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-BUS123-B-Wdy-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-BUS123-C-Wdy-02,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
+BUS123-7-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
+BUS123-8-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
+BUS123-9-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
+BUS123-A-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
+BUS123-B-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
+BUS123-C-Wdy-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
 Boat-1-SaMarch-Fll-22,Saturday schedule,Saturday,Saturday,1,20220828,,Fall
 Boat-1-SuMarch-Fll-22,Sunday schedule,Sunday,Sunday,1,20220828,,Fall
 Boat-1-WdyMarch-Fll-22,Weekday schedule,Weekday,Weekday,1,20220828,,Fall
@@ -82,7 +82,7 @@ PRIV123-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
 PRIV123-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20221218,20230311,Winter
 PRIV123-3-Wdy-01,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
 PRIV123-4-Sa-01,Saturday schedule,Saturday,Saturday,1,20221218,20230311,Winter
-PRIV123-5-Wdy-01,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
+PRIV123-5-Wdy-01,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
 PresidentsDay,Holiday (Saturday schedule),Holiday,Saturday,3,20221218,20230311,Winter
 RTL123-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
 RTL123-2-Wdy-01,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20221218,20230311,Winter
@@ -94,7 +94,6 @@ RTL123-4-Su-01-HOL,Sunday schedule,Sunday,Sunday,4,20221218,20230311,Winter
 RTL123-5-Sa-01,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20221218,20230311,Winter
 RTL123-6-Su-01,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20221218,20230311,Winter
 RTL123-7-Wdy-01,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
-RTL123-7-Wdy-01-1-AlfDvs,Weekday schedule,Weekday,Weekday,4,20221218,20230311,Winter
 RTL123-7-Wdy-01-AlfDvs,Weekday schedule,Weekday,Weekday,4,20221218,20230311,Winter
 RTL123-8-Sa-01,Saturday schedule,Saturday,Saturday,1,20221218,20230311,Winter
 RTL123-8-Sa-01-AlfKnl,Saturday schedule,Saturday,Saturday,4,20221218,20230311,Winter
@@ -103,4 +102,4 @@ RTL123-9-Su-01-AlfDvs,Sunday schedule,Sunday,Sunday,4,20221218,20230311,Winter
 RTL123-9-Su-01-AlfKnl,Sunday schedule,Sunday,Sunday,4,20221218,20230311,Winter
 WinterSaturday,Saturday schedule,Saturday,Saturday,1,20221218,20230311,Winter
 WinterSunday,Sunday schedule,Sunday,Sunday,1,20221218,20230311,Winter
-WinterWeekday,Weekday schedule (no school),Weekday (no school),Weekday,1,20221218,20230311,Winter
+WinterWeekday,Weekday schedule,Weekday,Weekday,1,20221218,20230311,Winter
