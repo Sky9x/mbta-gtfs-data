@@ -6512,6 +6512,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9069,9069,Salem St @ Revere St,,,,42.437257,-71.025457,LocalBus,,https://www.mbta.com/stops/9069,,0,,1,Malden,Salem Street,Revere Street,3
 907,907,Tremont St @ Pembroke St,,,,42.352946,-71.176810,LocalBus,,https://www.mbta.com/stops/907,,0,,1,Newton,Tremont Street,Playstead Road,3
 9070,9070,Salem St @ Lynn St,,,,42.436065,-71.021736,LocalBus,,https://www.mbta.com/stops/9070,,0,,1,Malden,Salem Street,Lynn Street,3
+9070025,9070025,Haymarket - Congress St @ Hanover St,Haymarket - Red Line Alewife Shuttle - Congress St @ Hanover St,,Alewife Shuttle,42.361361,-71.057419,LocalBus,,https://www.mbta.com/stops/9070025,,0,,1,Boston,Congress Street,Hanover Street,3
 9070072,9070072,Harvard - Brattle St @ Palmer St,Harvard - Red Line Shuttle - Brattle St @ Palmer St,,Red Line Shuttle,42.373396,-71.120200,LocalBus,,https://www.mbta.com/stops/9070072,,0,,1,Cambridge,Brattle Street,Palmer Street,3
 9070073,9070073,Charles/MGH - Cambridge St @ Lindall Pl,Charles/MGH - Red Line Ashmont/Braintree Shuttle - Cambridge St @ Lindall Pl,,Ashmont/Braintree Shuttle,42.361018,-71.069163,LocalBus,,https://www.mbta.com/stops/9070073,,0,,1,Boston,Cambridge Street,Lindall Place,3
 9070074,9070074,Charles/MGH - 325 Cambridge St,Charles/MGH - Red Line Alewife Shuttle - 325 Cambridge St,,Alewife Shuttle,42.361245,-71.069722,LocalBus,,https://www.mbta.com/stops/9070074,,0,,1,Boston,Cambridge Street,,3
@@ -9008,6 +9009,7 @@ node-prmnl-prustair-street,,Prudential,Prudential - Top of stairs between Pruden
 node-prmnl-wbstair-lobby,,Prudential,Prudential - Top of Heath Street stairs,,,,,,,,level_-1_lobby,3,place-prmnl,1,Boston,,,
 node-prmnl-wbstair-platform,,Prudential,Prudential - Bottom of Heath Street stairs,,,,,,,,level_-2_platform,3,place-prmnl,1,Boston,,,
 place-qamnl,,Quincy Adams,,,,42.233391,-71.007153,,"Burgin Pkwy and Centre St, Quincy, MA 02169",https://www.mbta.com/stops/place-qamnl,,1,,1,Quincy,,,
+41031,41031,Quincy Adams,Quincy Adams - Busway,,Busway,42.233391,-71.007153,LocalBus,,https://www.mbta.com/stops/place-qamnl,level_ground,0,place-qamnl,1,Quincy,Quincy Adams Busway,,3
 70103,70103,Quincy Adams,Quincy Adams - Red Line - Braintree,,Braintree,42.233391,-71.007153,RapidTransit,,https://www.mbta.com/stops/place-qamnl,level_1_platform,0,place-qamnl,1,Quincy,,,1
 70104,70104,Quincy Adams,Quincy Adams - Red Line - Alewife,,Alewife,42.233391,-71.007153,RapidTransit,,https://www.mbta.com/stops/place-qamnl,level_1_platform,0,place-qamnl,1,Quincy,,,1
 door-qamnl-burgin,,Quincy Adams - Burgin Parkway,Quincy Adams - Burgin Parkway,,,42.233317,-71.007363,,,,level_ground,2,place-qamnl,1,Quincy,,,
