@@ -118,17 +118,23 @@ CR-Needham-ba733d01-0,CR-Needham,0,Forest Hills - Needham Heights,,2,20010001,CR
 CR-Needham-31ea698c-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,CR-573242-616
 CR-Newburyport-aa00371a-0,CR-Newburyport,0,North Station - Newburyport,,1,20011000,CR-553651-151
 CR-Newburyport-a02095c2-0,CR-Newburyport,0,North Station - Rockport,,1,20011001,CR-553654-105
-CR-Newburyport-0381770c-0,CR-Newburyport,0,North Station - Beverly,,2,20011003,CR-553691-191
-CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011008,CR-553725-167
-CR-Newburyport-ef242f77-0,CR-Newburyport,0,North Station - Rockport,,2,20011009,CR-553666-115
-CR-Newburyport-ecafd926-0,CR-Newburyport,0,North Station - Newburyport,,2,20011010,CR-553683-153
-CR-Newburyport-2917cd27-0,CR-Newburyport,0,North Station - Rockport,,2,20011011,CR-553684-103
+CR-Newburyport-dbcce06b-0,CR-Newburyport,0,Swampscott - Rockport,,2,20011003,CR-576929-103
+CR-Newburyport-03e43d8a-0,CR-Newburyport,0,Swampscott - Newburyport,,2,20011004,CR-576925-141
+CR-Newburyport-0381770c-0,CR-Newburyport,0,North Station - Beverly,,2,20011005,CR-553691-191
+CR-Newburyport-d340fe35-0,CR-Newburyport,0,Salem - Newburyport,,2,20011010,CR-553725-167
+CR-Newburyport-ef242f77-0,CR-Newburyport,0,North Station - Rockport,,2,20011011,CR-553666-115
+CR-Newburyport-ecafd926-0,CR-Newburyport,0,North Station - Newburyport,,2,20011012,CR-553683-153
+CR-Newburyport-2917cd27-0,CR-Newburyport,0,North Station - Rockport,,2,20011013,CR-553684-103
+CR-Newburyport-91c2e8e8-0,CR-Newburyport,0,Swampscott - Beverly,,2,20011018,CR-576963-191
 CR-Newburyport-7d8bacee-1,CR-Newburyport,1,Newburyport - North Station,,1,20011100,CR-553649-154
 CR-Newburyport-a4d47351-1,CR-Newburyport,1,Rockport - North Station,,1,20011101,CR-553661-106
-CR-Newburyport-f8ea0e48-1,CR-Newburyport,1,Beverly - North Station,,2,20011105,CR-553693-192
-CR-Newburyport-2d1cfaa0-1,CR-Newburyport,1,Newburyport - North Station,,2,20011108,CR-553648-162
-CR-Newburyport-0406c4c6-1,CR-Newburyport,1,Rockport - North Station,,2,20011109,CR-553659-100
-CR-Newburyport-ffff0146-1,CR-Newburyport,1,Beverly - North Station,,2,20011110,CR-553696-198
+CR-Newburyport-96b1a854-1,CR-Newburyport,1,Rockport - Swampscott,,2,20011105,CR-576927-100
+CR-Newburyport-37bf80aa-1,CR-Newburyport,1,Newburyport - Swampscott,,2,20011106,CR-576926-140
+CR-Newburyport-f8ea0e48-1,CR-Newburyport,1,Beverly - North Station,,2,20011107,CR-553693-192
+CR-Newburyport-2d1cfaa0-1,CR-Newburyport,1,Newburyport - North Station,,2,20011110,CR-553648-162
+CR-Newburyport-0406c4c6-1,CR-Newburyport,1,Rockport - North Station,,2,20011111,CR-553659-100
+CR-Newburyport-ffff0146-1,CR-Newburyport,1,Beverly - North Station,,2,20011112,CR-553696-198
+CR-Newburyport-7b0cf861-1,CR-Newburyport,1,Beverly - Swampscott,,2,20011120,CR-576959-192
 CR-Providence-d29e0167-0,CR-Providence,0,South Station - Stoughton,,1,20012000,CR-573243-877
 CR-Providence-6d50e904-0,CR-Providence,0,South Station - Wickford Junction,,1,20012002,CR-574036-833
 CR-Providence-f89dd10f-0,CR-Providence,0,South Station - Providence,,2,20012004,CR-574120-2805
@@ -852,6 +858,7 @@ Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Wharf - Long Wharf,,4,30005199,Boat-
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,55050058
 Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,4,60350099,54219368-20:45-AshmontMattapan1
 Shuttle-AshmontMattapan-0-1,Shuttle-AshmontMattapan,1,Mattapan - Ashmont,,4,60350199,54219367-20:45-AshmontMattapan1
+Shuttle-BeverlyNorthStationLocal-0-0,Shuttle-BeverlyNorthStationLocal,0,North Station - Beverly,,4,60693099,CR-SwampscottMarShuttle-Weekday-Bv-0-23:30:00
 Shuttle-BraintreeNorthQuincy-0-0,Shuttle-BraintreeNorthQuincy,0,North Quincy - Braintree,,4,60950099,56143390-20:45-BraintreeNQuincy1
 Shuttle-BraintreeNorthQuincy-0-1,Shuttle-BraintreeNorthQuincy,1,Braintree - North Quincy,,4,60950199,56143244-20:45-BraintreeNQuincy1
 Shuttle-CopleyRuggles-0-0,Shuttle-CopleyRuggles,0,Copley - Ruggles,,4,61455099,Green-WinterCopleyRuggles-Saturday-0-05:18:00
@@ -866,3 +873,5 @@ Shuttle-HaverhillReadingLocal-0-0,Shuttle-HaverhillReadingLocal,0,Reading - Have
 Shuttle-HaverhillReadingLocal-0-1,Shuttle-HaverhillReadingLocal,1,Haverhill - Reading,,4,61974199,CR-HaverhillReadingFebMarShuttle-Weekday-Loc-1-04:56:00
 Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,4,62053099,CR-NewburyportLynnShuttleWinter-Weekday-0-05:08:00
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,4,62053199,CR-NewburyportLynnShuttleWinter-Weekday-1-05:31:00
+Shuttle-NorthStationSwampscott-0-0,Shuttle-NorthStationSwampscott,0,North Station - Swampscott,,4,62127099,CR-SwampscottMarShuttle-Weekday-Sw-0-05:04:00
+Shuttle-NorthStationSwampscott-0-1,Shuttle-NorthStationSwampscott,1,Swampscott - North Station,,4,62127199,CR-SwampscottMarShuttle-Weekday-Sw-1-05:31:00
