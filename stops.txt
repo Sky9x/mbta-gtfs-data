@@ -6910,6 +6910,7 @@ place-ER-0128,,Swampscott,,,,42.473743,-70.922537,CR-zone-3,"Burrill St and Rail
 ER-0128,,Swampscott,Swampscott - Commuter Rail,,Commuter Rail,42.473743,-70.922537,CR-zone-3,,https://www.mbta.com/stops/place-ER-0128,,0,place-ER-0128,1,Swampscott,,,2
 ER-0128-01,,Swampscott,Swampscott - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.473743,-70.922537,CR-zone-3,,https://www.mbta.com/stops/place-ER-0128,,0,place-ER-0128,1,Swampscott,,,2
 ER-0128-02,,Swampscott,Swampscott - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.473743,-70.922537,CR-zone-3,,https://www.mbta.com/stops/place-ER-0128,,0,place-ER-0128,1,Swampscott,,,2
+ER-0128-B0,,Swampscott - Railroad Ave @ Burrill St,Swampscott - Commuter Rail Shuttle - Railroad Ave @ Burrill St,,Outbound Shuttle,42.473543,-70.922023,LocalBus,,https://www.mbta.com/stops/place-ER-0128,,0,place-ER-0128,1,Swampscott,Railroad Avenue,Burrill Street,3
 ER-0128-B1,,Swampscott - Railroad Ave @ Burrill St,Swampscott - Commuter Rail Shuttle - Railroad Ave @ Burrill St,,Commuter Rail Shuttle,42.473671,-70.922011,LocalBus,,https://www.mbta.com/stops/place-ER-0128,,0,place-ER-0128,1,Swampscott,Railroad Avenue,Burrill Street,3
 place-ER-0168,,Salem,,,,42.524792,-70.895876,CR-zone-3,"252 Bridge St, Salem, MA 01970",https://www.mbta.com/stops/place-ER-0168,,1,,1,Salem,,,
 37150,37150,Salem,Salem - Busway,,Busway,42.524466,-70.895998,LocalBus,,https://www.mbta.com/stops/place-ER-0168,level_ground,0,place-ER-0168,1,Salem,,,3
@@ -6918,6 +6919,7 @@ place-ER-0183,,Beverly,,,,42.547276,-70.885432,CR-zone-4,"10 Park St, Beverly, M
 ER-0183,,Beverly,Beverly - Commuter Rail,,Commuter Rail,42.547276,-70.885432,CR-zone-4,,https://www.mbta.com/stops/place-ER-0183,,0,place-ER-0183,1,Beverly,,,2
 ER-0183-01,,Beverly,Beverly - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.547276,-70.885432,CR-zone-4,,https://www.mbta.com/stops/place-ER-0183,,0,place-ER-0183,1,Beverly,,,2
 ER-0183-02,,Beverly,Beverly - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.547276,-70.885432,CR-zone-4,,https://www.mbta.com/stops/place-ER-0183,,0,place-ER-0183,1,Beverly,,,2
+ER-0183-B,,Beverly - Park St,Beverly - Commuter Rail Shuttle - Park St,,Commuter Rail Shuttle,42.547223,-70.885254,LocalBus,,https://www.mbta.com/stops/place-ER-0183,,0,place-ER-0183,1,Beverly,Park Street,Railroad Avenue,3
 place-ER-0208,,North Beverly,,,,42.583779,-70.883851,CR-zone-5,"Enon St and Dodge St, Beverly, MA 01915",https://www.mbta.com/stops/place-ER-0208,,1,,1,Beverly,,,
 ER-0208,,North Beverly,North Beverly - Commuter Rail,,Commuter Rail,42.583779,-70.883851,CR-zone-5,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,2
 ER-0208-01,,North Beverly,North Beverly - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.583779,-70.883851,CR-zone-5,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,2
@@ -8504,17 +8506,20 @@ place-knncl,,Kendall/MIT,,,,42.362491,-71.086176,,"300 Main St, Cambridge, MA 02
 70072,70072,Kendall/MIT,Kendall/MIT - Red Line - Alewife,,Alewife,42.362434,-71.085591,RapidTransit,,https://www.mbta.com/stops/place-knncl,level_-1_platform,0,place-knncl,1,Cambridge,,,1
 door-knncl-nbmain,,"Kendall/MIT - Main St, Buses, Cambridge Center","Kendall/MIT - Main St, Buses, Cambridge Center",,,42.362588,-71.086167,,,,level_in_street,2,place-knncl,1,Cambridge,,,
 door-knncl-nbsecond,,"Kendall/MIT - Main St, Third St","Kendall/MIT - Main St, Third St",,,42.362439,-71.084837,,,,level_in_street,2,place-knncl,2,Cambridge,,,
-door-knncl-sbmain,,"Kendall/MIT - Buses, Main St","Kendall/MIT - Buses, Main St",,,42.362309,-71.086266,,,,level_in_street,2,place-knncl,1,Cambridge,,,
+door-knncl-sbcarleton,,Kendall/MIT - Carleton St,Kendall/MIT - Carleton St,,,42.362005,-71.086255,,,,level_in_street,2,place-knncl,2,Cambridge,,,
+door-knncl-sbelevator,,"Kendall/MIT - Elevator, Buses, Main St, Third St, Carleton St","Kendall/MIT - Elevator, Buses, Main St, Third St, Carleton St",,,42.362125,-71.086145,,,,level_in_street,2,place-knncl,1,Cambridge,,,
+door-knncl-sbmain,,"Kendall/MIT - Buses, Main St, Third St","Kendall/MIT - Buses, Main St, Third St",,,42.362303,-71.086149,,,,level_in_street,2,place-knncl,2,Cambridge,,,
 door-knncl-sbsecond,,"Kendall/MIT - Main St, Third St","Kendall/MIT - Main St, Third St",,,42.362232,-71.084862,,,,level_in_street,2,place-knncl,2,Cambridge,,,
 node-362-entrance,,Kendall/MIT,Kendall/MIT - Top of Escalator 362,,,42.362721,-71.086168,,,,level_in_street,3,place-knncl,1,Cambridge,,,
 node-362-platform,,Kendall/MIT,Kendall/MIT - Bottom of Escalator 362,,,42.362612,-71.086188,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
-node-755-entrance,,Kendall/MIT,Kendall/MIT - Top of Elevator 755 for Ashmont/Braintree platform,,,42.362202,-71.086281,,,,level_in_street,3,place-knncl,1,Cambridge,,,
-node-755-platform,,Kendall/MIT,Kendall/MIT - Bottom of Elevator 755 for Ashmont/Braintree platform,,,42.362202,-71.086281,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
+node-450-entrance,,Kendall/MIT,Kendall/MIT - Top of Elevator 450 to Carleton St,,,42.362030,-71.086261,,,,level_in_street,3,place-knncl,1,Cambridge,,,
+node-450-platform,,Kendall/MIT,Kendall/MIT - Bottom of Escalator 450 to Carleton St,,,42.362142,-71.086250,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
+node-756-entrance,,Kendall/MIT,Kendall/MIT - Top of Elevator 756 for Ashmont/Braintree platform,,,42.362143,-71.086170,,,,level_in_street,3,place-knncl,1,Cambridge,,,
+node-756-platform,,Kendall/MIT,Kendall/MIT - Bottom of Elevator 756 for Ashmont/Braintree platform,,,42.362143,-71.086170,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
+node-757-entrance,,Kendall/MIT,Kendall/MIT - Top of Elevator 757 for Ashmont/Braintree platform,,,42.362110,-71.086174,,,,level_in_street,3,place-knncl,1,Cambridge,,,
+node-757-platform,,Kendall/MIT,Kendall/MIT - Bottom of Elevator 757 for Ashmont/Braintree platform,,,42.362110,-71.086174,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
 node-866-entrance,,Kendall/MIT,Kendall/MIT - Top of Elevator 866,,,42.362724,-71.086223,,,,level_in_street,3,place-knncl,1,Cambridge,,,
 node-866-platform,,Kendall/MIT,Kendall/MIT - Bottom of Elevator 866,,,42.362724,-71.086223,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
-node-kenncl-tempsbramp-entrance,,Kendall/MIT,Kendall/MIT - Bottom of ramp for Elevator 755,,,42.362283,-71.086267,,,,level_in_street,3,place-knncl,1,Cambridge,,,
-node-kenncl-tempsbstair-entrance,,Kendall/MIT,Kendall/MIT - Top of stairs between Main St and Ashmont/Braintree platform,,,42.362275,-71.086291,,,,level_in_street,3,place-knncl,1,Cambridge,,,
-node-kenncl-tempsbstair-platform,,Kendall/MIT,Kendall/MIT - Bottom of stairs between Main St and Ashmont/Braintree platform,,,42.362273,-71.086267,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
 node-knncl-backnbstair-entrance,,Kendall/MIT,Kendall/MIT - Stairs street level,,,42.362450,-71.084845,,,,level_in_street,3,place-knncl,1,Cambridge,,,
 node-knncl-backnbstair-platform,,Kendall/MIT,Kendall/MIT - Stairs platform level,,,42.362628,-71.086204,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
 node-knncl-frontnbstair-entrance,,Kendall/MIT,Kendall/MIT - Stairs street level,,,42.362709,-71.086198,,,,level_in_street,3,place-knncl,1,Cambridge,,,
@@ -8525,8 +8530,12 @@ node-knncl-nbmain-farepaid,,Kendall/MIT,Kendall/MIT - Paid side of fare gates,,,
 node-knncl-nbmain-fareunpaid,,Kendall/MIT,Kendall/MIT - Unpaid side of fare gates,,,42.362507,-71.086214,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
 node-knncl-nbsec-farepaid,,Kendall/MIT,Kendall/MIT - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
 node-knncl-nbsec-fareunpaid,,Kendall/MIT,Kendall/MIT - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
+node-knncl-sbcarleton-entrance,,Kendall/MIT,Kendall/MIT - Top of stairs between Carleton St and Ashmont/Braintree platform,,,42.362029,-71.086242,,,,level_in_street,3,place-knncl,1,Cambridge,,,
+node-knncl-sbcarleton-platform,,Kendall/MIT,Kendall/MIT - Bottom of stairs between Carleton St and Ashmont/Braintree platform,,,42.362121,-71.086230,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
+node-knncl-sbmain-entrance,,Kendall/MIT,Kendall/MIT - Top of stairs between Main St and Ashmont/Braintree platform,,,42.362292,-71.086150,,,,level_in_street,3,place-knncl,1,Cambridge,,,
 node-knncl-sbmain-farepaid,,Kendall/MIT,Kendall/MIT - Paid side of fare gates,,,42.362366,-71.086186,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
 node-knncl-sbmain-fareunpaid,,Kendall/MIT,Kendall/MIT - Unpaid side of fare gates,,,42.362366,-71.086186,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
+node-knncl-sbmain-platform,,Kendall/MIT,Kendall/MIT - Bottom of stairs between Main St and Ashmont/Braintree platform,,,42.362225,-71.086159,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
 node-knncl-sbsec-farepaid,,Kendall/MIT,Kendall/MIT - Paid side of fare gates,,,,,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
 node-knncl-sbsec-fareunpaid,,Kendall/MIT,Kendall/MIT - Unpaid side of fare gates,,,,,,,,level_-1_platform,3,place-knncl,1,Cambridge,,,
 place-kntst,,Kent Street,,,,42.344074,-71.114197,,"Beacon St and Powell St, Brookline, MA",https://www.mbta.com/stops/place-kntst,,1,,2,Brookline,,,
@@ -8741,6 +8750,7 @@ BNT-0000-07,,North Station,North Station - Commuter Rail - Track 7,7,Commuter Ra
 BNT-0000-08,,North Station,North Station - Commuter Rail - Track 8,8,Commuter Rail - Track 8,42.366687,-71.062475,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1,Boston,,,2
 BNT-0000-09,,North Station,North Station - Commuter Rail - Track 9,9,Commuter Rail - Track 9,42.366761,-71.062365,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1,Boston,,,2
 BNT-0000-10,,North Station,North Station - Commuter Rail - Track 10,10,Commuter Rail - Track 10,42.366761,-71.062365,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1,Boston,,,2
+BNT-0000-B2,,North Station - Nashua St @ Red Auerbach Way,North Station - Commuter Rail Shuttle - Nashua St @ Red Auerbach Way,,Commuter Rail Shuttle,42.365641,-71.064022,LocalBus,,https://www.mbta.com/stops/place-north,,0,place-north,1,Boston,Nashua Street,Red Auerbach Way,3
 door-north-causewaye,,North Station - Causeway St (Elevator),North Station - Causeway St (Elevator),,,42.365639,-71.060472,,,,level_in_street,2,place-north,1,Boston,,,
 door-north-causeways,,"North Station - Causeway St, Haverhill St","North Station - Causeway St, Haverhill St",,,42.365496,-71.060490,,,,level_in_street,2,place-north,2,Boston,,,
 door-north-crcanal,,"North Station - Causeway St, Canal St","North Station - Causeway St, Canal St",,,42.365975,-71.061759,,,,level_in_street,2,place-north,1,Boston,,,
