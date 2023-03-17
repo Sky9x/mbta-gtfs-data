@@ -8271,7 +8271,7 @@ facility_id,property_id,value
 743,excludes-stop,node-ogmnl-olstair-platform
 743,excludes-stop,node-ogmnl-washstair-lobby
 743,excludes-stop,node-ogmnl-washstair-street
-744,alternate-service-text,"A shuttle bus will be available to transport customers between Oak Grove and Malden Center. To exit at Oak Grove, exit the train at Malden Center and find station personnel or use a station call box to request the shuttle bus to Oak Grove. To board the Orange Line, find station personnel or use a station call box to request the shuttle bus to Malden Center. Alternatively, customers may utilize the Oak Grove Elevator 800 located at the station entrance on Banks Place (busway/parking lot)."
+744,alternate-service-text,"To exit, use Oak Grove Elevator 745 located at the opposite end of the lobby to access the busway and parking lot. To board, travel to the intersection of Washington St and Winter St, then turn left onto Winter St. Proceed to Banks Pl, then turn left and continue to the busway/parking lot entrance and use Oak Grove Elevator 745 to access the lobby. See station personnel or use a station call box if assistance is required. Alternatively, customers may also use Bus Route 132 for transportation between the Oak Grove Washington St entrance and Malden Center."
 744,excludes-stop,9328
 744,excludes-stop,door-ogmnl-banks
 744,excludes-stop,door-ogmnl-wash
@@ -8305,7 +8305,7 @@ facility_id,property_id,value
 744,excludes-stop,node-ogmnl-olstair-platform
 744,excludes-stop,node-ogmnl-washstair-lobby
 744,excludes-stop,node-ogmnl-washstair-street
-745,alternate-service-text,"To board, exit the station lobby, turn left and proceed towards the bike cage. At the bike cage, turn left and travel straight across the parking lot crosswalk to Oak Grove Elevator 800 (Lobby to main busway/parking lot). To exit, after exiting thrhough the faregates, turn left and proceed to Oak Grove Elevator 800 (Lobby to main busway/parking lot)."
+745,alternate-service-text,"To exit, use Oak Grove Elevator 744 located at the opposite end of the lobby to access Washington St. To board, travel to the intersection of Banks Pl and Winter St, then turn right onto Winter St. Proceed to Washington St, then turn right and continue to the Washington St entrance and use Oak Grove Elevator 744. Alternatively, a shuttle bus will be available to transport customers, upon their request, between the Oak Grove busway entrance and Malden Center. Find station personnel or use a station call box to request the shuttle bus."
 745,excludes-stop,9328
 745,excludes-stop,WR-0053-S
 745,excludes-stop,door-ogmnl-wash
@@ -8556,7 +8556,7 @@ facility_id,property_id,value
 772,excludes-stop,node-772-top
 772,excludes-stop,node-mdftf-stairs-bottom
 772,excludes-stop,node-mdftf-stairs-top
-800,alternate-service-text,"A shuttle bus will be available to transport customers between Oak Grove and Malden Center. To exit, exit the train at Malden Center and find station personnel or use a station call box to request the shuttle bus to Oak Grove. To board, find station personnel or use a station call box to request the shuttle bus to Malden Center. Alternatively, customers may utilize the Oak Grove Elevator 744 located at the station entrance on Washington Street."
+800,alternate-service-text,"To exit, upon exiting the faregates, turn left and proceed to Oak Grove Elevator 745 to access the busway and parking lot. To board, proceed to the station entrance located near the busway and use Oak Grove Elevator 745 to access the lobby. Alternatively, customers may utilize the Oak Grove Elevator 744 (Lobby to Washington St) located at the station entrance on Washington St."
 800,excludes-stop,9328
 800,excludes-stop,door-ogmnl-wash
 800,excludes-stop,door-ogmnl-washel
@@ -10266,7 +10266,7 @@ facility_id,property_id,value
 865,excludes-stop,node-welln-skyelev-bridge
 865,excludes-stop,node-welln-skyentry
 865,excludes-stop,node-welln-skystairs-bridge
-866,alternate-service-text,"To exit, exit the train Harvard, then take an Ashmont or Braintree-bound train to Kendall/MIT and use Kendall/MIT Elevator 863. To board, cross Main St and use Kendall/MIT Elevator 863 to access the Ashmont/Braintree platform. Take an Ashmont or Braintree-bound train to Charles/MGH, then transfer to an Alewife-bound train."
+866,alternate-service-text,"To exit, exit the train at Harvard, then take an Ashmont or Braintree-bound train to Kendall/MIT and use Kendall/MIT Elevator 756 or 757 to access Main St. To board, cross Main St and use Kendall/MIT Elevator 756 or 757 to access the Ashmont/Braintree platform. Take an Ashmont or Braintree-bound train to Charles/MGH, then transfer to an Alewife-bound train."
 866,excludes-stop,70071
 866,excludes-stop,door-knncl-nbsecond
 866,excludes-stop,door-knncl-sbcarleton
@@ -17982,7 +17982,7 @@ park-900,enclosed,2
 park-900,fee-daily,Mon-Fri: $2.50 | Sat-Sun: $2.50
 park-900,fee-monthly,$43.75
 park-900,municipality,Watertown
-park-900,operator,Keolis Commuter Service 
+park-900,operator,Keolis Commuter Services
 park-900,overnight-allowed,no
 park-900,owner,MBTA
 park-900,payment-app,PayByPhone
@@ -18001,7 +18001,7 @@ park-Boat-Hingham,enclosed,2
 park-Boat-Hingham,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-Boat-Hingham,fee-monthly,$35
 park-Boat-Hingham,municipality,Hingham
-park-Boat-Hingham,operator,Keolis Commuter Service 
+park-Boat-Hingham,operator,Keolis Commuter Services
 park-Boat-Hingham,overnight-allowed,yes-except-snow
 park-Boat-Hingham,owner,MBTA
 park-Boat-Hingham,payment-app,PayByPhone
@@ -18031,7 +18031,7 @@ park-DB-0095,enclosed,2
 park-DB-0095,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-DB-0095,fee-monthly,$35
 park-DB-0095,municipality,Boston
-park-DB-0095,operator,Keolis Commuter Service 
+park-DB-0095,operator,Keolis Commuter Services
 park-DB-0095,overnight-allowed,no
 park-DB-0095,owner,MBTA
 park-DB-0095,payment-app,PayByPhone
@@ -18051,7 +18051,7 @@ park-DB-2205,enclosed,2
 park-DB-2205,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-DB-2205,fee-monthly,$70
 park-DB-2205,municipality,Boston
-park-DB-2205,operator,Keolis Commuter Service 
+park-DB-2205,operator,Keolis Commuter Services
 park-DB-2205,overnight-allowed,no
 park-DB-2205,owner,MBTA
 park-DB-2205,payment-app,PayByPhone
@@ -18077,7 +18077,7 @@ park-ER-0115-garage,enclosed,1
 park-ER-0115-garage,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-ER-0115-garage,fee-monthly,$35
 park-ER-0115-garage,municipality,Lynn
-park-ER-0115-garage,operator,Keolis Commuter Service 
+park-ER-0115-garage,operator,Keolis Commuter Services
 park-ER-0115-garage,overnight-allowed,yes
 park-ER-0115-garage,owner,MBTA
 park-ER-0115-garage,payment-app,PayByPhone
@@ -18096,7 +18096,7 @@ park-ER-0128,enclosed,2
 park-ER-0128,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-ER-0128,fee-monthly,$105
 park-ER-0128,municipality,Swampscott
-park-ER-0128,operator,Keolis Commuter Service 
+park-ER-0128,operator,Keolis Commuter Services
 park-ER-0128,overnight-allowed,no
 park-ER-0128,owner,MBTA
 park-ER-0128,payment-app,PayByPhone
@@ -18116,7 +18116,7 @@ park-ER-0168-garage,enclosed,1
 park-ER-0168-garage,fee-daily,Mon-Fri: $5 | Sat-Sun: $2 
 park-ER-0168-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-ER-0168-garage,municipality,Salem
-park-ER-0168-garage,operator,Keolis Commuter Service 
+park-ER-0168-garage,operator,Keolis Commuter Services
 park-ER-0168-garage,overnight-allowed,yes
 park-ER-0168-garage,owner,MBTA
 park-ER-0168-garage,payment-app,PayByPhone
@@ -18134,7 +18134,7 @@ park-ER-0183-garage,enclosed,1
 park-ER-0183-garage,fee-daily,Mon-Fri: $4 | Sat-Sun: $2 
 park-ER-0183-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-ER-0183-garage,municipality,Beverly
-park-ER-0183-garage,operator,Keolis Commuter Service 
+park-ER-0183-garage,operator,Keolis Commuter Services
 park-ER-0183-garage,overnight-allowed,yes
 park-ER-0183-garage,owner,MBTA
 park-ER-0183-garage,payment-app,PayByPhone
@@ -18153,7 +18153,7 @@ park-ER-0208,enclosed,2
 park-ER-0208,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-ER-0208,fee-monthly,$70
 park-ER-0208,municipality,Beverly
-park-ER-0208,operator,Keolis Commuter Service 
+park-ER-0208,operator,Keolis Commuter Services
 park-ER-0208,overnight-allowed,no
 park-ER-0208,owner,MBTA
 park-ER-0208,payment-app,PayByPhone
@@ -18172,7 +18172,7 @@ park-ER-0227,enclosed,2
 park-ER-0227,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-ER-0227,fee-monthly,$70
 park-ER-0227,municipality,Hamilton
-park-ER-0227,operator,Keolis Commuter Service 
+park-ER-0227,operator,Keolis Commuter Services
 park-ER-0227,overnight-allowed,no
 park-ER-0227,owner,MBTA
 park-ER-0227,payment-app,PayByPhone
@@ -18203,7 +18203,7 @@ park-ER-0312,enclosed,2
 park-ER-0312,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-ER-0312,fee-monthly,$35
 park-ER-0312,municipality,Rowley
-park-ER-0312,operator,Keolis Commuter Service 
+park-ER-0312,operator,Keolis Commuter Services
 park-ER-0312,overnight-allowed,no
 park-ER-0312,owner,MBTA
 park-ER-0312,payment-app,PayByPhone
@@ -18222,7 +18222,7 @@ park-ER-0362,enclosed,2
 park-ER-0362,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-ER-0362,fee-monthly,$70
 park-ER-0362,municipality,Newburyport
-park-ER-0362,operator,Keolis Commuter Service 
+park-ER-0362,operator,Keolis Commuter Services
 park-ER-0362,overnight-allowed,no
 park-ER-0362,owner,MBTA
 park-ER-0362,payment-app,PayByPhone
@@ -18252,7 +18252,7 @@ park-FB-0118,enclosed,2
 park-FB-0118,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-FB-0118,fee-monthly,$35
 park-FB-0118,municipality,Dedham
-park-FB-0118,operator,Keolis Commuter Service 
+park-FB-0118,operator,Keolis Commuter Services
 park-FB-0118,overnight-allowed,no
 park-FB-0118,owner,MBTA
 park-FB-0118,payment-app,PayByPhone
@@ -18271,7 +18271,7 @@ park-FB-0125,enclosed,2
 park-FB-0125,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-FB-0125,fee-monthly,$70
 park-FB-0125,municipality,Westwood
-park-FB-0125,operator,Keolis Commuter Service 
+park-FB-0125,operator,Keolis Commuter Services
 park-FB-0125,overnight-allowed,no
 park-FB-0125,owner,MBTA
 park-FB-0125,payment-app,PayByPhone
@@ -18290,7 +18290,7 @@ park-FB-0143,enclosed,2
 park-FB-0143,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-FB-0143,fee-monthly,$35
 park-FB-0143,municipality,Norwood
-park-FB-0143,operator,Keolis Commuter Service 
+park-FB-0143,operator,Keolis Commuter Services
 park-FB-0143,overnight-allowed,no
 park-FB-0143,owner,MBTA
 park-FB-0143,payment-app,PayByPhone
@@ -18309,7 +18309,7 @@ park-FB-0148,enclosed,2
 park-FB-0148,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-FB-0148,fee-monthly,$70
 park-FB-0148,municipality,Norwood
-park-FB-0148,operator,Keolis Commuter Service 
+park-FB-0148,operator,Keolis Commuter Services
 park-FB-0148,overnight-allowed,no
 park-FB-0148,owner,MBTA
 park-FB-0148,payment-app,PayByPhone
@@ -18328,7 +18328,7 @@ park-FB-0191,enclosed,2
 park-FB-0191,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-FB-0191,fee-monthly,$70
 park-FB-0191,municipality,Walpole
-park-FB-0191,operator,Keolis Commuter Service 
+park-FB-0191,operator,Keolis Commuter Services
 park-FB-0191,overnight-allowed,no
 park-FB-0191,owner,MBTA
 park-FB-0191,payment-app,PayByPhone
@@ -18347,7 +18347,7 @@ park-FB-0230,enclosed,2
 park-FB-0230,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-FB-0230,fee-monthly,$70
 park-FB-0230,municipality,Norfolk
-park-FB-0230,operator,Keolis Commuter Service 
+park-FB-0230,operator,Keolis Commuter Services
 park-FB-0230,overnight-allowed,no
 park-FB-0230,owner,MBTA
 park-FB-0230,payment-app,PayByPhone
@@ -18366,7 +18366,7 @@ park-FB-0275,enclosed,2
 park-FB-0275,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-FB-0275,fee-monthly,$105
 park-FB-0275,municipality,Franklin
-park-FB-0275,operator,Keolis Commuter Service 
+park-FB-0275,operator,Keolis Commuter Services
 park-FB-0275,overnight-allowed,no
 park-FB-0275,owner,MBTA
 park-FB-0275,payment-app,PayByPhone
@@ -18385,7 +18385,7 @@ park-FB-0303,enclosed,2
 park-FB-0303,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-FB-0303,fee-monthly,$70
 park-FB-0303,municipality,Franklin
-park-FB-0303,operator,Keolis Commuter Service 
+park-FB-0303,operator,Keolis Commuter Services
 park-FB-0303,overnight-allowed,no
 park-FB-0303,owner,MBTA
 park-FB-0303,payment-app,PayByPhone
@@ -18464,7 +18464,7 @@ park-FR-0115,enclosed,2
 park-FR-0115,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-FR-0115,fee-monthly,$70
 park-FR-0115,municipality,Waltham
-park-FR-0115,operator,Keolis Commuter Service 
+park-FR-0115,operator,Keolis Commuter Services
 park-FR-0115,overnight-allowed,no
 park-FR-0115,owner,MBTA
 park-FR-0115,payment-app,PayByPhone
@@ -18561,7 +18561,7 @@ park-FR-0301,enclosed,2
 park-FR-0301,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-FR-0301,fee-monthly,$105
 park-FR-0301,municipality,Littleton
-park-FR-0301,operator,Keolis Commuter Service 
+park-FR-0301,operator,Keolis Commuter Services
 park-FR-0301,overnight-allowed,no
 park-FR-0301,owner,MBTA
 park-FR-0301,payment-app,PayByPhone
@@ -18661,7 +18661,7 @@ park-GB-0198,enclosed,2
 park-GB-0198,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-GB-0198,fee-monthly,$70
 park-GB-0198,municipality,Beverly
-park-GB-0198,operator,Keolis Commuter Service 
+park-GB-0198,operator,Keolis Commuter Services
 park-GB-0198,overnight-allowed,no
 park-GB-0198,owner,MBTA
 park-GB-0198,payment-app,PayByPhone
@@ -18704,7 +18704,7 @@ park-GB-0296,enclosed,2
 park-GB-0296,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-GB-0296,fee-monthly,$35
 park-GB-0296,municipality,Gloucester
-park-GB-0296,operator,Keolis Commuter Service 
+park-GB-0296,operator,Keolis Commuter Services
 park-GB-0296,overnight-allowed,no
 park-GB-0296,owner,MBTA
 park-GB-0296,payment-app,PayByPhone
@@ -18723,7 +18723,7 @@ park-GB-0316,enclosed,2
 park-GB-0316,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-GB-0316,fee-monthly,$35
 park-GB-0316,municipality,Gloucester
-park-GB-0316,operator,Keolis Commuter Service 
+park-GB-0316,operator,Keolis Commuter Services
 park-GB-0316,overnight-allowed,no
 park-GB-0316,owner,MBTA
 park-GB-0316,payment-app,PayByPhone
@@ -18753,7 +18753,7 @@ park-GRB-0118,enclosed,2
 park-GRB-0118,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-GRB-0118,fee-monthly,$70
 park-GRB-0118,municipality,Weymouth
-park-GRB-0118,operator,Keolis Commuter Service 
+park-GRB-0118,operator,Keolis Commuter Services
 park-GRB-0118,overnight-allowed,no
 park-GRB-0118,owner,MBTA
 park-GRB-0118,payment-app,PayByPhone
@@ -18771,7 +18771,7 @@ park-GRB-0146,enclosed,2
 park-GRB-0146,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-GRB-0146,fee-monthly,$105
 park-GRB-0146,municipality,East Weymouth
-park-GRB-0146,operator,Keolis Commuter Service 
+park-GRB-0146,operator,Keolis Commuter Services
 park-GRB-0146,overnight-allowed,no
 park-GRB-0146,owner,MBTA
 park-GRB-0146,payment-app,PayByPhone
@@ -18790,7 +18790,7 @@ park-GRB-0162,enclosed,2
 park-GRB-0162,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-GRB-0162,fee-monthly,$70
 park-GRB-0162,municipality,Hingham
-park-GRB-0162,operator,Keolis Commuter Service 
+park-GRB-0162,operator,Keolis Commuter Services
 park-GRB-0162,overnight-allowed,no
 park-GRB-0162,owner,MBTA
 park-GRB-0162,payment-app,PayByPhone
@@ -18809,7 +18809,7 @@ park-GRB-0183,enclosed,2
 park-GRB-0183,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-GRB-0183,fee-monthly,$35
 park-GRB-0183,municipality,Hingham
-park-GRB-0183,operator,Keolis Commuter Service 
+park-GRB-0183,operator,Keolis Commuter Services
 park-GRB-0183,overnight-allowed,no
 park-GRB-0183,owner,MBTA
 park-GRB-0183,payment-app,PayByPhone
@@ -18828,7 +18828,7 @@ park-GRB-0199,enclosed,2
 park-GRB-0199,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-GRB-0199,fee-monthly,$35
 park-GRB-0199,municipality,Cohasset
-park-GRB-0199,operator,Keolis Commuter Service 
+park-GRB-0199,operator,Keolis Commuter Services
 park-GRB-0199,overnight-allowed,no
 park-GRB-0199,owner,MBTA
 park-GRB-0199,payment-app,PayByPhone
@@ -18847,7 +18847,7 @@ park-GRB-0233,enclosed,2
 park-GRB-0233,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-GRB-0233,fee-monthly,$70
 park-GRB-0233,municipality,Scituate
-park-GRB-0233,operator,Keolis Commuter Service 
+park-GRB-0233,operator,Keolis Commuter Services
 park-GRB-0233,overnight-allowed,no
 park-GRB-0233,owner,MBTA
 park-GRB-0233,payment-app,PayByPhone
@@ -18866,7 +18866,7 @@ park-GRB-0276,enclosed,2
 park-GRB-0276,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-GRB-0276,fee-monthly,$35
 park-GRB-0276,municipality,Scituate
-park-GRB-0276,operator,Keolis Commuter Service 
+park-GRB-0276,operator,Keolis Commuter Services
 park-GRB-0276,overnight-allowed,no
 park-GRB-0276,owner,MBTA
 park-GRB-0276,payment-app,PayByPhone
@@ -18885,7 +18885,7 @@ park-KB-0351,enclosed,2
 park-KB-0351,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-KB-0351,fee-monthly,$70
 park-KB-0351,municipality,Kingston
-park-KB-0351,operator,Keolis Commuter Service 
+park-KB-0351,operator,Keolis Commuter Services
 park-KB-0351,overnight-allowed,no
 park-KB-0351,owner,MBTA
 park-KB-0351,payment-app,PayByPhone
@@ -18904,7 +18904,7 @@ park-MM-0150,enclosed,2
 park-MM-0150,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-MM-0150,fee-monthly,$70
 park-MM-0150,municipality,Randolph
-park-MM-0150,operator,Keolis Commuter Service 
+park-MM-0150,operator,Keolis Commuter Services
 park-MM-0150,overnight-allowed,no
 park-MM-0150,owner,MBTA
 park-MM-0150,payment-app,PayByPhone
@@ -18923,7 +18923,7 @@ park-MM-0186,enclosed,2
 park-MM-0186,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-MM-0186,fee-monthly,$35
 park-MM-0186,municipality,Brockton
-park-MM-0186,operator,Keolis Commuter Service 
+park-MM-0186,operator,Keolis Commuter Services
 park-MM-0186,overnight-allowed,no
 park-MM-0186,owner,MBTA
 park-MM-0186,payment-app,PayByPhone
@@ -18960,7 +18960,7 @@ park-MM-0219,enclosed,2
 park-MM-0219,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-MM-0219,fee-monthly,$35
 park-MM-0219,municipality,Brockton
-park-MM-0219,operator,Keolis Commuter Service 
+park-MM-0219,operator,Keolis Commuter Services
 park-MM-0219,overnight-allowed,no
 park-MM-0219,owner,MBTA
 park-MM-0219,payment-app,PayByPhone
@@ -18980,7 +18980,7 @@ park-MM-0277,enclosed,2
 park-MM-0277,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-MM-0277,fee-monthly,$70
 park-MM-0277,municipality,Bridgewater
-park-MM-0277,operator,Keolis Commuter Service 
+park-MM-0277,operator,Keolis Commuter Services
 park-MM-0277,overnight-allowed,no
 park-MM-0277,owner,MBTA
 park-MM-0277,payment-app,PayByPhone
@@ -18999,7 +18999,7 @@ park-MM-0356,enclosed,2
 park-MM-0356,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-MM-0356,fee-monthly,$70
 park-MM-0356,municipality,Lakeville
-park-MM-0356,operator,Keolis Commuter Service 
+park-MM-0356,operator,Keolis Commuter Services
 park-MM-0356,overnight-allowed,no
 park-MM-0356,owner,MBTA
 park-MM-0356,payment-app,PayByPhone
@@ -19019,7 +19019,7 @@ park-NB-0064,enclosed,2
 park-NB-0064,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-NB-0064,fee-monthly,$70
 park-NB-0064,municipality,Boston
-park-NB-0064,operator,Keolis Commuter Service 
+park-NB-0064,operator,Keolis Commuter Services
 park-NB-0064,overnight-allowed,no
 park-NB-0064,owner,MBTA
 park-NB-0064,payment-app,PayByPhone
@@ -19038,7 +19038,7 @@ park-NB-0072,enclosed,2
 park-NB-0072,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-NB-0072,fee-monthly,$70
 park-NB-0072,municipality,Boston
-park-NB-0072,operator,Keolis Commuter Service 
+park-NB-0072,operator,Keolis Commuter Services
 park-NB-0072,overnight-allowed,no
 park-NB-0072,owner,MBTA
 park-NB-0072,payment-app,PayByPhone
@@ -19057,7 +19057,7 @@ park-NB-0076,enclosed,2
 park-NB-0076,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-NB-0076,fee-monthly,$70
 park-NB-0076,municipality,Boston
-park-NB-0076,operator,Keolis Commuter Service 
+park-NB-0076,operator,Keolis Commuter Services
 park-NB-0076,overnight-allowed,no
 park-NB-0076,owner,MBTA
 park-NB-0076,payment-app,PayByPhone
@@ -19077,7 +19077,7 @@ park-NB-0080,enclosed,2
 park-NB-0080,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-NB-0080,fee-monthly,$105
 park-NB-0080,municipality,Boston
-park-NB-0080,operator,Keolis Commuter Service 
+park-NB-0080,operator,Keolis Commuter Services
 park-NB-0080,overnight-allowed,no
 park-NB-0080,owner,MBTA
 park-NB-0080,payment-app,PayByPhone
@@ -19096,7 +19096,7 @@ park-NB-0109,enclosed,2
 park-NB-0109,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-NB-0109,fee-monthly,$70
 park-NB-0109,municipality,Needham
-park-NB-0109,operator,Keolis Commuter Service 
+park-NB-0109,operator,Keolis Commuter Services
 park-NB-0109,overnight-allowed,no
 park-NB-0109,owner,MBTA
 park-NB-0109,payment-app,PayByPhone
@@ -19115,7 +19115,7 @@ park-NB-0120,enclosed,2
 park-NB-0120,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-NB-0120,fee-monthly,$105
 park-NB-0120,municipality,Needham
-park-NB-0120,operator,Keolis Commuter Service 
+park-NB-0120,operator,Keolis Commuter Services
 park-NB-0120,overnight-allowed,no
 park-NB-0120,owner,MBTA
 park-NB-0120,payment-app,PayByPhone
@@ -19145,7 +19145,7 @@ park-NB-0137,enclosed,2
 park-NB-0137,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-NB-0137,fee-monthly,$70
 park-NB-0137,municipality,Needham
-park-NB-0137,operator,Keolis Commuter Service 
+park-NB-0137,operator,Keolis Commuter Services
 park-NB-0137,overnight-allowed,no
 park-NB-0137,owner,MBTA
 park-NB-0137,payment-app,PayByPhone
@@ -19213,7 +19213,7 @@ park-NEC-1919,enclosed,2
 park-NEC-1919,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-NEC-1919,fee-monthly,$105
 park-NEC-1919,municipality,Attleboro
-park-NEC-1919,operator,Keolis Commuter Service 
+park-NEC-1919,operator,Keolis Commuter Services
 park-NEC-1919,overnight-allowed,no
 park-NEC-1919,owner,MBTA
 park-NEC-1919,payment-app,PayByPhone
@@ -19283,7 +19283,7 @@ park-NEC-2139,enclosed,2
 park-NEC-2139,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-NEC-2139,fee-monthly,$70
 park-NEC-2139,municipality,Canton
-park-NEC-2139,operator,Keolis Commuter Service 
+park-NEC-2139,operator,Keolis Commuter Services
 park-NEC-2139,overnight-allowed,no
 park-NEC-2139,owner,MBTA
 park-NEC-2139,payment-app,PayByPhone
@@ -19302,7 +19302,7 @@ park-NEC-2173-garage,enclosed,1
 park-NEC-2173-garage,fee-daily,Mon-Fri: $7 | Sat-Sun: $3 
 park-NEC-2173-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-NEC-2173-garage,municipality,Westwood
-park-NEC-2173-garage,operator,Keolis Commuter Service 
+park-NEC-2173-garage,operator,Keolis Commuter Services
 park-NEC-2173-garage,overnight-allowed,yes
 park-NEC-2173-garage,owner,MBTA
 park-NEC-2173-garage,payment-app,PayByPhone
@@ -19321,7 +19321,7 @@ park-NEC-2203,enclosed,2
 park-NEC-2203,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-NEC-2203,fee-monthly,$70
 park-NEC-2203,municipality,Boston
-park-NEC-2203,operator,Keolis Commuter Service 
+park-NEC-2203,operator,Keolis Commuter Services
 park-NEC-2203,overnight-allowed,no
 park-NEC-2203,owner,MBTA
 park-NEC-2203,payment-app,PayByPhone
@@ -19341,7 +19341,7 @@ park-NHRML-0055,enclosed,2
 park-NHRML-0055,fee-daily,Mon-Fri: $5 | Sat-Sun: $2
 park-NHRML-0055,fee-monthly,$87.50
 park-NHRML-0055,municipality,Medford
-park-NHRML-0055,operator,Keolis Commuter Service 
+park-NHRML-0055,operator,Keolis Commuter Services
 park-NHRML-0055,overnight-allowed,no
 park-NHRML-0055,owner,MBTA
 park-NHRML-0055,payment-app,PayByPhone
@@ -19425,7 +19425,7 @@ park-NHRML-0152,enclosed,2
 park-NHRML-0152,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-NHRML-0152,fee-monthly,$105
 park-NHRML-0152,municipality,Wilmington
-park-NHRML-0152,operator,Keolis Commuter Service 
+park-NHRML-0152,operator,Keolis Commuter Services
 park-NHRML-0152,overnight-allowed,no
 park-NHRML-0152,owner,MBTA
 park-NHRML-0152,payment-app,PayByPhone
@@ -19492,7 +19492,7 @@ park-PB-0158,enclosed,2
 park-PB-0158,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-PB-0158,fee-monthly,$35
 park-PB-0158,municipality,Weymouth
-park-PB-0158,operator,Keolis Commuter Service 
+park-PB-0158,operator,Keolis Commuter Services
 park-PB-0158,overnight-allowed,no
 park-PB-0158,owner,MBTA
 park-PB-0158,payment-app,PayByPhone
@@ -19511,7 +19511,7 @@ park-PB-0194,enclosed,2
 park-PB-0194,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-PB-0194,fee-monthly,$70
 park-PB-0194,municipality,Abington
-park-PB-0194,operator,Keolis Commuter Service 
+park-PB-0194,operator,Keolis Commuter Services
 park-PB-0194,overnight-allowed,no
 park-PB-0194,owner,MBTA
 park-PB-0194,payment-app,PayByPhone
@@ -19530,7 +19530,7 @@ park-PB-0212,enclosed,2
 park-PB-0212,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-PB-0212,fee-monthly,$105
 park-PB-0212,municipality,Whitman
-park-PB-0212,operator,Keolis Commuter Service 
+park-PB-0212,operator,Keolis Commuter Services
 park-PB-0212,overnight-allowed,no
 park-PB-0212,owner,MBTA
 park-PB-0212,payment-app,PayByPhone
@@ -19549,7 +19549,7 @@ park-PB-0245,enclosed,2
 park-PB-0245,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-PB-0245,fee-monthly,$70
 park-PB-0245,municipality,Hanson
-park-PB-0245,operator,Keolis Commuter Service 
+park-PB-0245,operator,Keolis Commuter Services
 park-PB-0245,overnight-allowed,no
 park-PB-0245,owner,MBTA
 park-PB-0245,payment-app,PayByPhone
@@ -19568,7 +19568,7 @@ park-PB-0281,enclosed,2
 park-PB-0281,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-PB-0281,fee-monthly,$35
 park-PB-0281,municipality,Halifax
-park-PB-0281,operator,Keolis Commuter Service 
+park-PB-0281,operator,Keolis Commuter Services
 park-PB-0281,overnight-allowed,no
 park-PB-0281,owner,MBTA
 park-PB-0281,payment-app,PayByPhone
@@ -19587,7 +19587,7 @@ park-PB-0356,enclosed,2
 park-PB-0356,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-PB-0356,fee-monthly,$35
 park-PB-0356,municipality,Plymouth
-park-PB-0356,operator,Keolis Commuter Service 
+park-PB-0356,operator,Keolis Commuter Services
 park-PB-0356,overnight-allowed,no
 park-PB-0356,owner,MBTA
 park-PB-0356,payment-app,PayByPhone
@@ -19606,7 +19606,7 @@ park-SB-0156,enclosed,2
 park-SB-0156,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-SB-0156,fee-monthly,$70
 park-SB-0156,municipality,Canton
-park-SB-0156,operator,Keolis Commuter Service 
+park-SB-0156,operator,Keolis Commuter Services
 park-SB-0156,overnight-allowed,no
 park-SB-0156,owner,MBTA
 park-SB-0156,payment-app,PayByPhone
@@ -19625,7 +19625,7 @@ park-SB-0189,enclosed,2
 park-SB-0189,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-SB-0189,fee-monthly,$70
 park-SB-0189,municipality,Stoughton
-park-SB-0189,operator,Keolis Commuter Service 
+park-SB-0189,operator,Keolis Commuter Services
 park-SB-0189,overnight-allowed,no
 park-SB-0189,owner,MBTA
 park-SB-0189,payment-app,PayByPhone
@@ -19644,7 +19644,7 @@ park-WML-0091-newton,enclosed,2
 park-WML-0091-newton,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-WML-0091-newton,fee-monthly,$70
 park-WML-0091-newton,municipality,Newton
-park-WML-0091-newton,operator,Keolis Commuter Service 
+park-WML-0091-newton,operator,Keolis Commuter Services
 park-WML-0091-newton,overnight-allowed,no
 park-WML-0091-newton,owner,MassDOT
 park-WML-0091-newton,payment-app,PayByPhone
@@ -19663,7 +19663,7 @@ park-WML-0091-wash,enclosed,2
 park-WML-0091-wash,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-WML-0091-wash,fee-monthly,$70
 park-WML-0091-wash,municipality,Newton
-park-WML-0091-wash,operator,Keolis Commuter Service 
+park-WML-0091-wash,operator,Keolis Commuter Services
 park-WML-0091-wash,overnight-allowed,no
 park-WML-0091-wash,owner,MassDOT
 park-WML-0091-wash,payment-app,PayByPhone
@@ -19682,7 +19682,7 @@ park-WML-0102,enclosed,2
 park-WML-0102,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-WML-0102,fee-monthly,$105
 park-WML-0102,municipality,Newton
-park-WML-0102,operator,Keolis Commuter Service 
+park-WML-0102,operator,Keolis Commuter Services
 park-WML-0102,overnight-allowed,no
 park-WML-0102,owner,MassDOT
 park-WML-0102,payment-app,PayByPhone
@@ -19767,7 +19767,7 @@ park-WML-0199,enclosed,2
 park-WML-0199,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-WML-0199,fee-monthly,$105
 park-WML-0199,municipality,Natick
-park-WML-0199,operator,Keolis Commuter Service 
+park-WML-0199,operator,Keolis Commuter Services
 park-WML-0199,overnight-allowed,no
 park-WML-0199,owner,MBTA
 park-WML-0199,payment-app,PayByPhone
@@ -19806,7 +19806,7 @@ park-WML-0252,enclosed,2
 park-WML-0252,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-WML-0252,fee-monthly,$70
 park-WML-0252,municipality,Ashland
-park-WML-0252,operator,Keolis Commuter Service 
+park-WML-0252,operator,Keolis Commuter Services
 park-WML-0252,overnight-allowed,no
 park-WML-0252,owner,MBTA
 park-WML-0252,payment-app,PayByPhone
@@ -19825,7 +19825,7 @@ park-WML-0274,enclosed,2
 park-WML-0274,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-WML-0274,fee-monthly,$105
 park-WML-0274,municipality,Southborough
-park-WML-0274,operator,Keolis Commuter Service 
+park-WML-0274,operator,Keolis Commuter Services
 park-WML-0274,overnight-allowed,no
 park-WML-0274,owner,MBTA
 park-WML-0274,payment-app,PayByPhone
@@ -19844,7 +19844,7 @@ park-WML-0340,enclosed,2
 park-WML-0340,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-WML-0340,fee-monthly,$105
 park-WML-0340,municipality,Westborough
-park-WML-0340,operator,Keolis Commuter Service 
+park-WML-0340,operator,Keolis Commuter Services
 park-WML-0340,overnight-allowed,no
 park-WML-0340,owner,MBTA
 park-WML-0340,payment-app,PayByPhone
@@ -19863,7 +19863,7 @@ park-WML-0364,enclosed,2
 park-WML-0364,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-WML-0364,fee-monthly,$70
 park-WML-0364,municipality,Grafton
-park-WML-0364,operator,Keolis Commuter Service 
+park-WML-0364,operator,Keolis Commuter Services
 park-WML-0364,overnight-allowed,no
 park-WML-0364,owner,MBTA
 park-WML-0364,payment-app,PayByPhone
@@ -19969,7 +19969,7 @@ park-WR-0099,enclosed,2
 park-WR-0099,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-WR-0099,fee-monthly,$105
 park-WR-0099,municipality,Wakefield
-park-WR-0099,operator,Keolis Commuter Service 
+park-WR-0099,operator,Keolis Commuter Services
 park-WR-0099,overnight-allowed,no
 park-WR-0099,owner,MBTA
 park-WR-0099,payment-app,PayByPhone
@@ -19988,7 +19988,7 @@ park-WR-0120,enclosed,2
 park-WR-0120,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-WR-0120,fee-monthly,$105
 park-WR-0120,municipality,Reading
-park-WR-0120,operator,Keolis Commuter Service 
+park-WR-0120,operator,Keolis Commuter Services
 park-WR-0120,overnight-allowed,no
 park-WR-0120,owner,MBTA
 park-WR-0120,payment-app,PayByPhone
@@ -20019,7 +20019,7 @@ park-WR-0205,enclosed,2
 park-WR-0205,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-WR-0205,fee-monthly,$70
 park-WR-0205,municipality,Andover
-park-WR-0205,operator,Keolis Commuter Service 
+park-WR-0205,operator,Keolis Commuter Services
 park-WR-0205,overnight-allowed,no
 park-WR-0205,owner,MBTA
 park-WR-0205,payment-app,PayByPhone
@@ -20038,7 +20038,7 @@ park-WR-0228,enclosed,2
 park-WR-0228,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-WR-0228,fee-monthly,$70
 park-WR-0228,municipality,Andover
-park-WR-0228,operator,Keolis Commuter Service 
+park-WR-0228,operator,Keolis Commuter Services
 park-WR-0228,overnight-allowed,no
 park-WR-0228,owner,MBTA
 park-WR-0228,payment-app,PayByPhone
@@ -20070,7 +20070,7 @@ park-WR-0325,enclosed,2
 park-WR-0325,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-WR-0325,fee-monthly,$35
 park-WR-0325,municipality,Bradford
-park-WR-0325,operator,Keolis Commuter Service 
+park-WR-0325,operator,Keolis Commuter Services
 park-WR-0325,overnight-allowed,no
 park-WR-0325,owner,MBTA
 park-WR-0325,payment-app,PayByPhone
@@ -20089,7 +20089,7 @@ park-WR-0329,enclosed,2
 park-WR-0329,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-WR-0329,fee-monthly,$35
 park-WR-0329,municipality,Haverhill
-park-WR-0329,operator,Keolis Commuter Service 
+park-WR-0329,operator,Keolis Commuter Services
 park-WR-0329,overnight-allowed,no
 park-WR-0329,owner,MBTA
 park-WR-0329,payment-app,PayByPhone
@@ -20109,7 +20109,7 @@ park-alfcl-garage,enclosed,1
 park-alfcl-garage,fee-daily,Mon-Fri: $9 | Sat-Sun: $3 
 park-alfcl-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-alfcl-garage,municipality,Cambridge
-park-alfcl-garage,operator,Keolis Commuter Service 
+park-alfcl-garage,operator,Keolis Commuter Services
 park-alfcl-garage,overnight-allowed,yes
 park-alfcl-garage,owner,MBTA
 park-alfcl-garage,payment-app,PayByPhone
@@ -20144,7 +20144,7 @@ park-bmmnl,enclosed,2
 park-bmmnl,fee-daily,Mon-Fri: $5 | Sat-Sun: $2.50
 park-bmmnl,fee-monthly,$87.50
 park-bmmnl,municipality,Revere
-park-bmmnl,operator,Keolis Commuter Service 
+park-bmmnl,operator,Keolis Commuter Services
 park-bmmnl,overnight-allowed,no
 park-bmmnl,owner,MBTA
 park-bmmnl,payment-app,PayByPhone
@@ -20180,7 +20180,7 @@ park-brntn-garage,enclosed,1
 park-brntn-garage,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-brntn-garage,fee-monthly,"Monthly passes are not available at MBTA garages, but premium spots are available at this garage."
 park-brntn-garage,municipality,Braintree
-park-brntn-garage,operator,Keolis Commuter Service 
+park-brntn-garage,operator,Keolis Commuter Services
 park-brntn-garage,overnight-allowed,yes
 park-brntn-garage,owner,MBTA
 park-brntn-garage,payment-app,PayByPhone
@@ -20198,7 +20198,7 @@ park-brntn-lot-a,enclosed,2
 park-brntn-lot-a,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-brntn-lot-a,fee-monthly,Monthly passes are not available at this MBTA lot.
 park-brntn-lot-a,municipality,Braintree
-park-brntn-lot-a,operator,Keolis Commuter Service 
+park-brntn-lot-a,operator,Keolis Commuter Services
 park-brntn-lot-a,overnight-allowed,no
 park-brntn-lot-a,owner,MBTA
 park-brntn-lot-a,payment-app,PayByPhone
@@ -20216,7 +20216,7 @@ park-butlr,enclosed,2
 park-butlr,fee-daily,Mon-Fri: $4 | Sat-Sun: $2
 park-butlr,fee-monthly,$70
 park-butlr,municipality,Boston
-park-butlr,operator,Keolis Commuter Service 
+park-butlr,operator,Keolis Commuter Services
 park-butlr,overnight-allowed,no
 park-butlr,owner,MBTA
 park-butlr,payment-app,PayByPhone
@@ -20234,7 +20234,7 @@ park-chhil,enclosed,2
 park-chhil,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-chhil,fee-monthly,$157.50
 park-chhil,municipality,Newton
-park-chhil,operator,Keolis Commuter Service 
+park-chhil,operator,Keolis Commuter Services
 park-chhil,overnight-allowed,no
 park-chhil,owner,MBTA
 park-chhil,payment-app,PayByPhone
@@ -20253,7 +20253,7 @@ park-eliot,enclosed,2
 park-eliot,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-eliot,fee-monthly,$157.50
 park-eliot,municipality,Newton
-park-eliot,operator,Keolis Commuter Service 
+park-eliot,operator,Keolis Commuter Services
 park-eliot,overnight-allowed,no
 park-eliot,owner,MBTA
 park-eliot,payment-app,PayByPhone
@@ -20273,7 +20273,7 @@ park-forhl,enclosed,2
 park-forhl,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-forhl,fee-monthly,$157.50
 park-forhl,municipality,Boston
-park-forhl,operator,Keolis Commuter Service 
+park-forhl,operator,Keolis Commuter Services
 park-forhl,overnight-allowed,no
 park-forhl,owner,MBTA
 park-forhl,payment-app,PayByPhone
@@ -20321,7 +20321,7 @@ park-matt,enclosed,2
 park-matt,fee-daily,Mon-Fri: $2 | Sat-Sun: $2
 park-matt,fee-monthly,$35
 park-matt,municipality,Boston
-park-matt,operator,Keolis Commuter Service 
+park-matt,operator,Keolis Commuter Services
 park-matt,overnight-allowed,no
 park-matt,owner,MBTA
 park-matt,payment-app,PayByPhone
@@ -20340,7 +20340,7 @@ park-miltt,enclosed,2
 park-miltt,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
 park-miltt,fee-monthly,$105
 park-miltt,municipality,Milton
-park-miltt,operator,Keolis Commuter Service 
+park-miltt,operator,Keolis Commuter Services
 park-miltt,overnight-allowed,no
 park-miltt,owner,MBTA
 park-miltt,payment-app,PayByPhone
@@ -20360,7 +20360,7 @@ park-mlmnl,enclosed,2
 park-mlmnl,fee-daily,Mon-Fri: $7.50 | Sat-Sun: $3
 park-mlmnl,fee-monthly,$131.25
 park-mlmnl,municipality,Malden
-park-mlmnl,operator,Keolis Commuter Service 
+park-mlmnl,operator,Keolis Commuter Services
 park-mlmnl,overnight-allowed,no
 park-mlmnl,owner,MBTA
 park-mlmnl,payment-app,PayByPhone
@@ -20395,7 +20395,7 @@ park-nqncy-newport,enclosed,2
 park-nqncy-newport,fee-daily,Mon-Fri: $5 | Sat-Sun: $3
 park-nqncy-newport,fee-monthly,Monthly passes are not available at this MBTA lot.
 park-nqncy-newport,municipality,Quincy
-park-nqncy-newport,operator,Keolis Commuter Service 
+park-nqncy-newport,operator,Keolis Commuter Services
 park-nqncy-newport,overnight-allowed,no
 park-nqncy-newport,owner,MBTA
 park-nqncy-newport,payment-app,PayByPhone
@@ -20414,7 +20414,7 @@ park-ogmnl,enclosed,2
 park-ogmnl,fee-daily,"Mon-Fri: $9 | Sat-Sun: $3 (Prices are valid for up to 14 hours of parking. After the first 14 hours, the daily rate is $15.)"
 park-ogmnl,fee-monthly,"Monthly passes are not available at this MBTA lot, but premium spots are available."
 park-ogmnl,municipality,Malden
-park-ogmnl,operator,Keolis Commuter Service 
+park-ogmnl,operator,Keolis Commuter Services
 park-ogmnl,overnight-allowed,no
 park-ogmnl,owner,MBTA
 park-ogmnl,payment-app,PayByPhone
@@ -20434,7 +20434,7 @@ park-orhte,enclosed,2
 park-orhte,fee-daily,Mon-Fri: $5 | Sat-Sun: $2.50
 park-orhte,fee-monthly,$87.50
 park-orhte,municipality,Boston
-park-orhte,operator,Keolis Commuter Service 
+park-orhte,operator,Keolis Commuter Services
 park-orhte,overnight-allowed,no
 park-orhte,owner,MBTA
 park-orhte,payment-app,PayByPhone
@@ -20454,7 +20454,7 @@ park-qamnl-garage,enclosed,1
 park-qamnl-garage,fee-daily,Mon-Fri: $9 | Sat-Sun: $3 
 park-qamnl-garage,fee-monthly,"Monthly passes are not available at MBTA garages, but premium spots are available at this garage."
 park-qamnl-garage,municipality,Quincy
-park-qamnl-garage,operator,Keolis Commuter Service 
+park-qamnl-garage,operator,Keolis Commuter Services
 park-qamnl-garage,overnight-allowed,yes
 park-qamnl-garage,owner,MBTA
 park-qamnl-garage,payment-app,PayByPhone
@@ -20471,7 +20471,7 @@ park-qamnl-lot,enclosed,2
 park-qamnl-lot,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-qamnl-lot,fee-monthly,"Monthly passes are not available at this MBTA lot, but premium spots are available."
 park-qamnl-lot,municipality,Quincy
-park-qamnl-lot,operator,Keolis Commuter Service 
+park-qamnl-lot,operator,Keolis Commuter Services
 park-qamnl-lot,overnight-allowed,no
 park-qamnl-lot,owner,MBTA
 park-qamnl-lot,payment-app,PayByPhone
@@ -20489,7 +20489,7 @@ park-river,enclosed,2
 park-river,fee-daily,Mon-Fri: $6 | Sat-Sun: $3
 park-river,fee-monthly,$105
 park-river,municipality,Newton
-park-river,operator,Keolis Commuter Service 
+park-river,operator,Keolis Commuter Services
 park-river,overnight-allowed,yes-except-snow
 park-river,owner,MBTA
 park-river,payment-app,PayByPhone
@@ -20508,7 +20508,7 @@ park-sdmnl,enclosed,2
 park-sdmnl,fee-daily,Mon-Fri: $2.50 | Sat-Sun: $2.50
 park-sdmnl,fee-monthly,$43.75
 park-sdmnl,municipality,Boston
-park-sdmnl,operator,Keolis Commuter Service 
+park-sdmnl,operator,Keolis Commuter Services
 park-sdmnl,overnight-allowed,no
 park-sdmnl,owner,MBTA
 park-sdmnl,payment-app,PayByPhone
@@ -20528,7 +20528,7 @@ park-shmnl,enclosed,2
 park-shmnl,fee-daily,Mon-Fri: $7.50 | Sat-Sun: $2.50
 park-shmnl,fee-monthly,$131.25
 park-shmnl,municipality,Boston
-park-shmnl,operator,Keolis Commuter Service 
+park-shmnl,operator,Keolis Commuter Services
 park-shmnl,overnight-allowed,no
 park-shmnl,owner,MBTA
 park-shmnl,payment-app,PayByPhone
@@ -20562,7 +20562,7 @@ park-sull,enclosed,2
 park-sull,fee-daily,Mon-Fri: $9 | Sat-Sun: $6
 park-sull,fee-monthly,$157.50
 park-sull,municipality,Boston
-park-sull,operator,Keolis Commuter Service 
+park-sull,operator,Keolis Commuter Services
 park-sull,overnight-allowed,no
 park-sull,owner,MBTA
 park-sull,payment-app,PayByPhone
@@ -20582,7 +20582,7 @@ park-waban,enclosed,2
 park-waban,fee-daily,Mon-Fri: $9 | Sat-Sun: $3
 park-waban,fee-monthly,$157.50
 park-waban,municipality,Newton
-park-waban,operator,Keolis Commuter Service 
+park-waban,operator,Keolis Commuter Services
 park-waban,overnight-allowed,no
 park-waban,owner,MBTA
 park-waban,payment-app,PayByPhone
@@ -20617,7 +20617,7 @@ park-welln-lot,enclosed,2
 park-welln-lot,fee-daily,Mon-Fri: $9 | Sat-Sun: $4
 park-welln-lot,fee-monthly,$157.50
 park-welln-lot,municipality,Medford
-park-welln-lot,operator,Keolis Commuter Service 
+park-welln-lot,operator,Keolis Commuter Services
 park-welln-lot,overnight-allowed,no
 park-welln-lot,owner,MBTA
 park-welln-lot,payment-app,PayByPhone
@@ -20636,7 +20636,7 @@ park-wlsta,enclosed,2
 park-wlsta,fee-daily,Mon-Fri: $6 | Sat-Sun: $3
 park-wlsta,fee-monthly,$105
 park-wlsta,municipality,Quincy
-park-wlsta,operator,Keolis Commuter Service 
+park-wlsta,operator,Keolis Commuter Services
 park-wlsta,overnight-allowed,no
 park-wlsta,owner,MBTA
 park-wlsta,payment-app,PayByPhone
@@ -20654,7 +20654,7 @@ park-wondl-garage,enclosed,1
 park-wondl-garage,fee-daily,Mon-Fri: $7 | Sat-Sun: $2
 park-wondl-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-wondl-garage,municipality,Revere
-park-wondl-garage,operator,Keolis Commuter Service 
+park-wondl-garage,operator,Keolis Commuter Services
 park-wondl-garage,overnight-allowed,yes
 park-wondl-garage,owner,MBTA
 park-wondl-garage,payment-app,PayByPhone
@@ -20673,7 +20673,7 @@ park-wondl-nshore,enclosed,2
 park-wondl-nshore,fee-daily,Mon-Fri: $7 | Sat-Sun: $2
 park-wondl-nshore,fee-monthly,$122.50
 park-wondl-nshore,municipality,Revere
-park-wondl-nshore,operator,Keolis Commuter Service 
+park-wondl-nshore,operator,Keolis Commuter Services
 park-wondl-nshore,overnight-allowed,no
 park-wondl-nshore,owner,MBTA
 park-wondl-nshore,payment-app,PayByPhone
@@ -20691,7 +20691,7 @@ park-woodl-garage,enclosed,1
 park-woodl-garage,fee-daily,Mon-Fri: $6 | Sat-Sun: $3 
 park-woodl-garage,fee-monthly,Monthly passes are not available at MBTA garages.
 park-woodl-garage,municipality,Newton
-park-woodl-garage,operator,Keolis Commuter Service 
+park-woodl-garage,operator,Keolis Commuter Services
 park-woodl-garage,overnight-allowed,yes
 park-woodl-garage,owner,MBTA
 park-woodl-garage,payment-app,PayByPhone
