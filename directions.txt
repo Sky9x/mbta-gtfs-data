@@ -361,12 +361,10 @@ Boat-EastBoston,1,Inbound,Long Wharf
 714,1,Inbound,"Station Street, Hingham"
 716,0,Outbound,Cobbs Corner
 716,1,Inbound,Mattapan Station
-Shuttle-AshmontMattapan,0,Outbound,Mattapan
-Shuttle-AshmontMattapan,1,Inbound,Ashmont
+Shuttle-BraintreeJFK,0,South,Braintree
+Shuttle-BraintreeJFK,1,North,Alewife
 Shuttle-BraintreeNorthQuincy,0,South,Braintree
 Shuttle-BraintreeNorthQuincy,1,North,Alewife
-Shuttle-CopleyRuggles,0,South,Forest Hills
-Shuttle-CopleyRuggles,1,North,Oak Grove
 Shuttle-EastFirstSouthStation,0,Outbound,East First Street
 Shuttle-EastFirstSouthStation,1,Inbound,South Station
 Shuttle-GovernmentCenterNorthStation,0,West,Copley & West
@@ -375,9 +373,11 @@ Shuttle-GreenbushNorthScituate,0,Outbound,Greenbush
 Shuttle-GreenbushNorthScituate,1,Inbound,South Station
 Shuttle-HarvardJFK,0,South,Ashmont/Braintree
 Shuttle-HarvardJFK,1,North,Alewife
-Shuttle-HaverhillReadingExpress,0,Outbound,Haverhill
-Shuttle-HaverhillReadingExpress,1,Inbound,North Station
-Shuttle-HaverhillReadingLocal,0,Outbound,Haverhill
-Shuttle-HaverhillReadingLocal,1,Inbound,North Station
+Shuttle-HarvardJFKOmitCongress,0,South,Ashmont/Braintree
+Shuttle-HarvardJFKOmitCongress,1,North,Alewife
 Shuttle-LynnSwampscott,0,Outbound,Swampscott
 Shuttle-LynnSwampscott,1,Inbound,Lynn
+Shuttle-NorthStationWellington,0,South,Forest Hills
+Shuttle-NorthStationWellington,1,North,Oak Grove
+Shuttle-ReadvilleSouthStation,0,Outbound,Readville
+Shuttle-ReadvilleSouthStation,1,Inbound,South Station
