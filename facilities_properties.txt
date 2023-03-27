@@ -2561,6 +2561,7 @@ facility_id,property_id,value
 349,direction,up
 349,excludes-stop,141
 349,excludes-stop,9070061
+349,excludes-stop,door-alfcl-alewife
 349,excludes-stop,door-alfcl-busway
 349,excludes-stop,door-alfcl-cambridgepark
 349,excludes-stop,door-alfcl-pathbusway
@@ -2568,6 +2569,7 @@ facility_id,property_id,value
 350,direction,down
 350,excludes-stop,141
 350,excludes-stop,9070061
+350,excludes-stop,door-alfcl-alewife
 350,excludes-stop,door-alfcl-busway
 350,excludes-stop,door-alfcl-cambridgepark
 350,excludes-stop,door-alfcl-pathbusway
@@ -2575,6 +2577,7 @@ facility_id,property_id,value
 351,direction,down
 351,excludes-stop,141
 351,excludes-stop,9070061
+351,excludes-stop,door-alfcl-alewife
 351,excludes-stop,door-alfcl-busway
 351,excludes-stop,door-alfcl-cambridgepark
 351,excludes-stop,door-alfcl-pathbusway
@@ -2583,6 +2586,7 @@ facility_id,property_id,value
 352,direction,up
 352,excludes-stop,141
 352,excludes-stop,9070061
+352,excludes-stop,door-alfcl-alewife
 352,excludes-stop,door-alfcl-busway
 352,excludes-stop,door-alfcl-cambridgepark
 352,excludes-stop,door-alfcl-pathbusway
@@ -2590,6 +2594,7 @@ facility_id,property_id,value
 352,excludes-stop,door-alfcl-steel
 353,direction,up
 353,excludes-stop,9070061
+353,excludes-stop,door-alfcl-alewife
 353,excludes-stop,door-alfcl-busway
 353,excludes-stop,door-alfcl-cambridgepark
 353,excludes-stop,door-alfcl-pathbusway
@@ -2598,6 +2603,7 @@ facility_id,property_id,value
 354,direction,up
 354,excludes-stop,141
 354,excludes-stop,9070061
+354,excludes-stop,door-alfcl-alewife
 354,excludes-stop,door-alfcl-busway
 354,excludes-stop,door-alfcl-cambridgepark
 354,excludes-stop,door-alfcl-pathbusway
@@ -2606,6 +2612,7 @@ facility_id,property_id,value
 355,direction,up
 355,excludes-stop,141
 355,excludes-stop,9070061
+355,excludes-stop,door-alfcl-alewife
 355,excludes-stop,door-alfcl-busway
 355,excludes-stop,door-alfcl-cambridgepark
 355,excludes-stop,door-alfcl-pathbusway
@@ -2614,6 +2621,7 @@ facility_id,property_id,value
 356,direction,up
 356,excludes-stop,141
 356,excludes-stop,9070061
+356,excludes-stop,door-alfcl-alewife
 356,excludes-stop,door-alfcl-busway
 356,excludes-stop,door-alfcl-cambridgepark
 356,excludes-stop,door-alfcl-pathbusway
@@ -2622,6 +2630,7 @@ facility_id,property_id,value
 357,direction,up
 357,excludes-stop,141
 357,excludes-stop,9070061
+357,excludes-stop,door-alfcl-alewife
 357,excludes-stop,door-alfcl-busway
 357,excludes-stop,door-alfcl-cambridgepark
 357,excludes-stop,door-alfcl-pathbusway
@@ -9065,6 +9074,7 @@ facility_id,property_id,value
 813,alternate-service-text,"To exit, use Elevator 961 located at the opposite end of the platform. To board, travel east down the Alewife Linear Path to the Russell Field entrance, and use Elevator 961."
 813,excludes-stop,141
 813,excludes-stop,9070061
+813,excludes-stop,door-alfcl-alewife
 813,excludes-stop,door-alfcl-busway
 813,excludes-stop,door-alfcl-cambridgepark
 813,excludes-stop,door-alfcl-pathbusway
@@ -9073,6 +9083,7 @@ facility_id,property_id,value
 814,alternate-service-text,Please use the nearby Alewife Elevator 815.
 814,excludes-stop,141
 814,excludes-stop,9070061
+814,excludes-stop,door-alfcl-alewife
 814,excludes-stop,door-alfcl-busway
 814,excludes-stop,door-alfcl-cambridgepark
 814,excludes-stop,door-alfcl-pathbusway
@@ -9081,6 +9092,7 @@ facility_id,property_id,value
 815,alternate-service-text,Please use the nearby Alewife Elevator 814.
 815,excludes-stop,141
 815,excludes-stop,9070061
+815,excludes-stop,door-alfcl-alewife
 815,excludes-stop,door-alfcl-busway
 815,excludes-stop,door-alfcl-cambridgepark
 815,excludes-stop,door-alfcl-pathbusway
@@ -13097,6 +13109,7 @@ facility_id,property_id,value
 961,alternate-service-text,"To exit, use Elevator 813 located at the opposite end of the platform to access the main lobby. To board, travel west down the Alewife Linear Path to the main station entrance and use Elevator 813."
 961,excludes-stop,141
 961,excludes-stop,9070061
+961,excludes-stop,door-alfcl-alewife
 961,excludes-stop,door-alfcl-busway
 961,excludes-stop,door-alfcl-cambridgepark
 961,excludes-stop,door-alfcl-pathbusway
@@ -14974,25 +14987,29 @@ ev-forhl,capacity,3
 ev-qamnl-garage,capacity,2
 ev-wondl-garage,capacity,4
 ev-woodl-garage,capacity,4
-fake_fcb8_1082_14398,excludes-stop,NEC-1851-03
-fake_fcb8_1b4d_14408,excludes-stop,door-NEC-1891-barton
-fake_fcb8_1b4d_14413,excludes-stop,door-NEC-1891-barton
-fake_fcb8_1e6c_14399,excludes-stop,NEC-1851-05
-fake_fcb8_4af0_14405,excludes-stop,NEC-2173
-fake_fcb8_6c22_14403,excludes-stop,NEC-1851-02
-fake_fcb8_7dcf_14406,excludes-stop,NEC-1891
-fake_fcb8_7dcf_14411,excludes-stop,NEC-1891
-fake_fcb8_aced_14397,excludes-stop,NEC-1851
-fake_fcb8_aced_14401,excludes-stop,NEC-1851
-fake_fcb8_ae82_14409,excludes-stop,door-NEC-1891-pinebus
-fake_fcb8_ae82_14414,excludes-stop,door-NEC-1891-pinebus
-fake_fcb8_af4e_14402,excludes-stop,NEC-1851-01
-fake_fcb8_c02a_14407,excludes-stop,NEC-1891-02
-fake_fcb8_c02a_14412,excludes-stop,NEC-1891-02
-fake_fcb8_e791_14410,excludes-stop,door-NEC-1891-pinedrop
-fake_fcb8_e791_14415,excludes-stop,door-NEC-1891-pinedrop
-fake_fcb8_eb37_14394,excludes-stop,NHRML-0254
-fake_fcb8_eb37_14396,excludes-stop,NHRML-0254
+fake_fcb8_0399_14413,excludes-stop,NEC-1851-B0
+fake_fcb8_0399_14419,excludes-stop,NEC-1851-B0
+fake_fcb8_1082_14411,excludes-stop,NEC-1851-03
+fake_fcb8_1b4d_14426,excludes-stop,door-NEC-1891-barton
+fake_fcb8_1b4d_14432,excludes-stop,door-NEC-1891-barton
+fake_fcb8_1e6c_14412,excludes-stop,NEC-1851-05
+fake_fcb8_4af0_14422,excludes-stop,NEC-2173
+fake_fcb8_6c22_14418,excludes-stop,NEC-1851-02
+fake_fcb8_7dcf_14423,excludes-stop,NEC-1891
+fake_fcb8_7dcf_14429,excludes-stop,NEC-1891
+fake_fcb8_aced_14410,excludes-stop,NEC-1851
+fake_fcb8_aced_14416,excludes-stop,NEC-1851
+fake_fcb8_ae82_14427,excludes-stop,door-NEC-1891-pinebus
+fake_fcb8_ae82_14433,excludes-stop,door-NEC-1891-pinebus
+fake_fcb8_af4e_14417,excludes-stop,NEC-1851-01
+fake_fcb8_c02a_14424,excludes-stop,NEC-1891-02
+fake_fcb8_c02a_14430,excludes-stop,NEC-1891-02
+fake_fcb8_cf9b_14425,excludes-stop,NEC-1891-B
+fake_fcb8_cf9b_14431,excludes-stop,NEC-1891-B
+fake_fcb8_e791_14428,excludes-stop,door-NEC-1891-pinedrop
+fake_fcb8_e791_14434,excludes-stop,door-NEC-1891-pinedrop
+fake_fcb8_eb37_14407,excludes-stop,NHRML-0254
+fake_fcb8_eb37_14409,excludes-stop,NHRML-0254
 fvm-201001,enclosed,1
 fvm-201001,excludes-stop,door-aqucl-mcknorth
 fvm-201001,excludes-stop,door-aqucl-mcksouth
@@ -15587,6 +15604,7 @@ fvm-201119,excludes-stop,door-alfcl-russell
 fvm-201119,payment-form-accepted,cash
 fvm-201119,payment-form-accepted,credit-debit-card
 fvm-201120,enclosed,1
+fvm-201120,excludes-stop,door-alfcl-alewife
 fvm-201120,excludes-stop,door-alfcl-busway
 fvm-201120,excludes-stop,door-alfcl-cambridgepark
 fvm-201120,excludes-stop,door-alfcl-steel
@@ -16381,6 +16399,7 @@ fvm-201345,enclosed,1
 fvm-201345,payment-form-accepted,cash
 fvm-201345,payment-form-accepted,credit-debit-card
 fvm-201350,enclosed,1
+fvm-201350,excludes-stop,door-alfcl-alewife
 fvm-201350,excludes-stop,door-alfcl-busway
 fvm-201350,excludes-stop,door-alfcl-cambridgepark
 fvm-201350,excludes-stop,door-alfcl-steel
@@ -21386,12 +21405,6 @@ retailsale-303032,dispenses,fare-media
 retailsale-303032,enclosed,1
 retailsale-303032,payment-form-accepted,cash
 retailsale-303032,payment-form-accepted,credit-debit-card
-retailsale-303036,address,"411 Broadway, Chelsea, MA 02150"
-retailsale-303036,contact-phone,617-884-6494
-retailsale-303036,dispenses,fare-media
-retailsale-303036,enclosed,1
-retailsale-303036,payment-form-accepted,cash
-retailsale-303036,payment-form-accepted,credit-debit-card
 retailsale-303037,address,"1227 Commonwealth Ave, Allston, MA 02134"
 retailsale-303037,contact-phone,617-782-0453
 retailsale-303037,dispenses,fare-media
