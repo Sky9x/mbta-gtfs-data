@@ -1,17 +1,11 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,56494734
 Red-3-0,Red,0,Alewife - Braintree,,1,10010005,56494858
-Red-2-0,Red,0,Alewife - Harvard,Weekends only,3,10010008,56148253
-Red-A-0,Red,0,JFK/UMass - Ashmont,Weekends only,3,10010009,56147846
-Red-B-0,Red,0,JFK/UMass - Braintree,Weekends only,3,10010010,56147967
 Red-3-0_70095_70097_0,Red,0,Alewife - JFK/UMass,,4,10010099,56494905-20:45-JFKNorthQuincy0
 Red-3-0_70095_70097_2,Red,0,North Quincy - Braintree,,4,10010099,56494905-20:45-JFKNorthQuincy2
 Red-3-0_70095_70105_0,Red,0,Alewife - JFK/UMass,,4,10010099,56534549-BraintreeJFK0
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010100,56494670
 Red-3-1,Red,1,Braintree - Alewife,,1,10010101,56494795
-Red-2-1,Red,1,Harvard - Alewife,Weekends only,3,10010108,56148304
-Red-A-1,Red,1,Ashmont - JFK/UMass,Weekends only,3,10010109,56147749
-Red-B-1,Red,1,Braintree - JFK/UMass,Weekends only,3,10010110,56147972
 Red-3-1_70098_70096_0,Red,1,Braintree - North Quincy,,4,10010199,56494795-20:45-JFKNorthQuincy0
 Red-3-1_70098_70096_2,Red,1,JFK/UMass - Alewife,,4,10010199,56494795-20:45-JFKNorthQuincy2
 Red-3-1_70105_70096_2,Red,1,JFK/UMass - Alewife,,4,10010199,56534496-BraintreeJFK2
@@ -78,8 +72,8 @@ Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,55458730
 749-_-1,749,1,Nubian Station - Temple Place,,1,10056100,56105219
 746-_-0,746,0,South Station - Silver Line Way,,1,10057000,56105530
 746-_-1,746,1,Silver Line Way - South Station,,1,10057100,56105496
-CR-Fairmount-dc5eb181-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,20001000,CR-578538-925
-CR-Fairmount-3dfc2722-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-578537-926
+CR-Fairmount-dc5eb181-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,20001000,CR-551297-925
+CR-Fairmount-3dfc2722-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,20001100,CR-551296-926
 CR-Fitchburg-979a6935-0,CR-Fitchburg,0,North Station - Wachusett,,1,20002000,CR-551759-429
 CR-Fitchburg-ce651dfc-0,CR-Fitchburg,0,North Station - Littleton/Route 495,,2,20002002,CR-551815-413
 CR-Fitchburg-008fca34-1,CR-Fitchburg,1,Wachusett - North Station,,1,20002100,CR-553653-410
@@ -126,9 +120,9 @@ CR-Lowell-3b023975-0,CR-Lowell,0,North Station - Lowell,,1,20008000,CR-551826-34
 CR-Lowell-89fe964c-1,CR-Lowell,1,Lowell - North Station,,1,20008100,CR-551828-342
 CR-Middleborough-2507c3b4-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,20009000,CR-554417-029
 CR-Middleborough-cd96ff97-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,20009100,CR-551436-002
-CR-Needham-8ca06f5a-0,CR-Needham,0,South Station - Needham Heights,,1,20010000,CR-578531-613
-CR-Needham-ba733d01-0,CR-Needham,0,Forest Hills - Needham Heights,,2,20010001,CR-578649-633
-CR-Needham-31ea698c-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,CR-578532-616
+CR-Needham-8ca06f5a-0,CR-Needham,0,South Station - Needham Heights,,1,20010000,CR-573241-613
+CR-Needham-ba733d01-0,CR-Needham,0,Forest Hills - Needham Heights,,2,20010001,CR-573396-633
+CR-Needham-31ea698c-1,CR-Needham,1,Needham Heights - South Station,,1,20010100,CR-573242-616
 CR-Newburyport-aa00371a-0,CR-Newburyport,0,North Station - Newburyport,,1,20011000,CR-553651-151
 CR-Newburyport-a02095c2-0,CR-Newburyport,0,North Station - Rockport,,1,20011001,CR-553654-105
 CR-Newburyport-0381770c-0,CR-Newburyport,0,North Station - Beverly,,2,20011005,CR-553691-191
@@ -142,24 +136,24 @@ CR-Newburyport-f8ea0e48-1,CR-Newburyport,1,Beverly - North Station,,2,20011107,C
 CR-Newburyport-2d1cfaa0-1,CR-Newburyport,1,Newburyport - North Station,,2,20011110,CR-553648-162
 CR-Newburyport-0406c4c6-1,CR-Newburyport,1,Rockport - North Station,,2,20011111,CR-553659-100
 CR-Newburyport-ffff0146-1,CR-Newburyport,1,Beverly - North Station,,2,20011112,CR-553696-198
-CR-Providence-d29e0167-0,CR-Providence,0,South Station - Stoughton,,1,20012000,CR-578533-877
-CR-Providence-6d50e904-0,CR-Providence,0,South Station - Wickford Junction,,1,20012002,CR-578921-833
+CR-Providence-d29e0167-0,CR-Providence,0,South Station - Stoughton,,1,20012000,CR-573243-877
+CR-Providence-6d50e904-0,CR-Providence,0,South Station - Wickford Junction,,1,20012002,CR-574036-833
 CR-Providence-f89dd10f-0,CR-Providence,0,South Station - Providence,,2,20012004,CR-574120-2805
 CR-Providence-89618276-0,CR-Providence,0,South Station - Attleboro,,2,20012005,CR-582407-1817
-CR-Providence-c8a4ba7c-0,CR-Providence,0,South Station - Stoughton,,2,20012007,CR-578545-865
-CR-Providence-cecc82f0-0,CR-Providence,0,South Station - Wickford Junction,,2,20012011,CR-578924-827
-CR-Providence-c05779ce-0,CR-Providence,0,South Station - Providence,,2,20012012,CR-578926-825
-CR-Providence-27226e4a-0,CR-Providence,0,South Station - Providence,,2,20012013,CR-578950-813
-CR-Providence-e9d502e6-0,CR-Providence,0,South Station - Wickford Junction,,2,20012014,CR-578946-809
+CR-Providence-c8a4ba7c-0,CR-Providence,0,South Station - Stoughton,,2,20012007,CR-573259-865
+CR-Providence-cecc82f0-0,CR-Providence,0,South Station - Wickford Junction,,2,20012011,CR-574039-827
+CR-Providence-c05779ce-0,CR-Providence,0,South Station - Providence,,2,20012012,CR-574041-825
+CR-Providence-27226e4a-0,CR-Providence,0,South Station - Providence,,2,20012013,CR-574049-839
+CR-Providence-e9d502e6-0,CR-Providence,0,South Station - Wickford Junction,,2,20012014,CR-574061-809
 CR-Providence-97c7937e-0,CR-Providence,0,South Station - Attleboro,,2,20012015,CR-582692-839
-CR-Providence-cc900769-1,CR-Providence,1,Stoughton - South Station,,1,20012100,CR-578534-878
-CR-Providence-27135a68-1,CR-Providence,1,Wickford Junction - South Station,,1,20012102,CR-578920-838
-CR-Providence-01e4958c-1,CR-Providence,1,Providence - South Station,,2,20012104,CR-578955-818
+CR-Providence-cc900769-1,CR-Providence,1,Stoughton - South Station,,1,20012100,CR-573244-878
+CR-Providence-27135a68-1,CR-Providence,1,Wickford Junction - South Station,,1,20012102,CR-574035-838
+CR-Providence-01e4958c-1,CR-Providence,1,Providence - South Station,,2,20012104,CR-574070-818
 CR-Providence-04ad963f-1,CR-Providence,1,Attleboro - South Station,,2,20012105,CR-582418-1800
-CR-Providence-dd9f66fe-1,CR-Providence,1,Providence - South Station,,2,20012110,CR-578923-824
-CR-Providence-17ac3b3b-1,CR-Providence,1,Wickford Junction - South Station,,2,20012111,CR-578925-830
-CR-Providence-52e51656-1,CR-Providence,1,Providence - South Station,,2,20012112,CR-578929-834
-CR-Providence-98bdef98-1,CR-Providence,1,Wickford Junction - South Station,,2,20012113,CR-578939-806
+CR-Providence-dd9f66fe-1,CR-Providence,1,Providence - South Station,,2,20012110,CR-574038-824
+CR-Providence-17ac3b3b-1,CR-Providence,1,Wickford Junction - South Station,,2,20012111,CR-574040-830
+CR-Providence-52e51656-1,CR-Providence,1,Providence - South Station,,2,20012112,CR-574044-834
+CR-Providence-98bdef98-1,CR-Providence,1,Wickford Junction - South Station,,2,20012113,CR-574054-806
 Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-0630-Long-B-01-Weekday-Fall-22
 Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,30001100,Boat-F4-0645-Charlestown-B-01-Weekday-Fall-22
 Boat-F1-0-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport & Hull,,1,30002000,Boat-F1-1100-Long-BF2H-01-Weekday-Fall-22
@@ -871,10 +865,6 @@ Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,
 Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,4,61010199,CR-550873-1002-MDLBrainSouthDynamic0B1
 Shuttle-GovernmentCenterNorthStation-0-0,Shuttle-GovernmentCenterNorthStation,0,Government Center - North Station,,4,61946099,Green-SpringGovtNorth-Saturday-0-05:00:00
 Shuttle-GovernmentCenterNorthStation-0-1,Shuttle-GovernmentCenterNorthStation,1,North Station - Government Center,,4,61946199,Green-SpringGovtNorth-Saturday-1-05:28:00
-Shuttle-HarvardJFK-0-0,Shuttle-HarvardJFK,0,Harvard - JFK/UMass,,4,61959099,Red-SpringHarvardJFK-SaturdayDetour-0-05:34:00
-Shuttle-HarvardJFK-0-1,Shuttle-HarvardJFK,1,JFK/UMass - Harvard,,4,61959199,Red-SpringHarvardJFK-SaturdayDetour-1-05:29:00
-Shuttle-HarvardJFKOmitCongress-0-0,Shuttle-HarvardJFKOmitCongress,0,Harvard - JFK/UMass,,4,61960099,Red-SpringHarvardJFK-SaturdayDetour-0-17:16:00
-Shuttle-HarvardJFKOmitCongress-0-1,Shuttle-HarvardJFKOmitCongress,1,JFK/UMass - Harvard,,4,61960199,Red-SpringHarvardJFK-SaturdayDetour-1-17:26:00
 Shuttle-HaverhillReadingExpress-0-0,Shuttle-HaverhillReadingExpress,0,Reading - Haverhill,,4,61973099,CR-HaverhillReadingFebMarShuttle-Weekday-Exp-0-06:33:00
 Shuttle-HaverhillReadingExpress-0-1,Shuttle-HaverhillReadingExpress,1,Haverhill - Reading,,4,61973199,CR-HaverhillReadingFebMarShuttle-Weekday-Exp-1-04:23:00
 Shuttle-HaverhillReadingLocal-0-0,Shuttle-HaverhillReadingLocal,0,Reading - Haverhill,,4,61974099,CR-HaverhillReadingFebMarShuttle-Weekday-Loc-0-06:33:00
@@ -885,5 +875,5 @@ Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,4,6205309
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,4,62053199,CR-NewburyportLynnShuttleWinter-Weekday-1-05:31:00
 Shuttle-NorthStationWellington-0-0,Shuttle-NorthStationWellington,0,Wellington - North Station,,4,62140099,Orange-SpringWellNorth-WeekdayEA-0-21:08:00
 Shuttle-NorthStationWellington-0-1,Shuttle-NorthStationWellington,1,North Station - Wellington,,4,62140199,Orange-SpringWellNorth-WeekdayEA-1-21:16:00
-Shuttle-ReadvilleSouthStation-0-0,Shuttle-ReadvilleSouthStation,0,South Station - Readville,,4,62375099,CR-FairmountSpringShuttle-FridayEA-0-20:45:00
-Shuttle-ReadvilleSouthStation-0-1,Shuttle-ReadvilleSouthStation,1,Readville - South Station,,4,62375199,CR-FairmountSpringShuttle-FridayEA-1-20:45:00
+Shuttle-ReadvilleSouthStation-0-0,Shuttle-ReadvilleSouthStation,0,South Station - Readville,,4,62375099,CR-FairmountSpringShuttle-Monday-0-05:45:00
+Shuttle-ReadvilleSouthStation-0-1,Shuttle-ReadvilleSouthStation,1,Readville - South Station,,4,62375199,CR-FairmountSpringShuttle-Monday-1-04:45:00

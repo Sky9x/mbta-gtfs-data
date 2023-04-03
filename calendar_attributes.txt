@@ -11,14 +11,12 @@ BUS223-9-Wdy-02,Weekday schedule,Weekday,Weekday,1,20230312,20230701,Spring
 Boat-1-SaMarch-Fll-22,Saturday schedule,Saturday,Saturday,1,20220828,20230526,Fall
 Boat-1-Su-Smr-22,Sunday schedule,Sunday,Sunday,1,20220523,20220827,Summer
 Boat-1-SuMarch-Fll-22,Sunday schedule,Sunday,Sunday,1,20220828,20230526,Fall
-Boat-1-WdyMarch-Fll-22,Weekday schedule,Weekday,Weekday,1,20220828,20230526,Fall
 Boat-2-Su-Smr-23,Sunday schedule,Sunday,Sunday,1,20230527,,Summer
-Boat-2-Wdy-Fll-22,Weekday schedule,Weekday,Weekday,1,20220828,20230526,Fall
 Boat-3-Sa-Fll-22,Saturday schedule,Saturday,Saturday,1,20220828,20230526,Fall
 Boat-3-Su-Fll-22,Sunday schedule,Sunday,Sunday,1,20220828,20230526,Fall
 Boat-3-Su-Smr-23,Sunday schedule,Sunday,Sunday,1,20230527,,Summer
-Boat-3-Wdy-Fll-22,Weekday schedule,Weekday,Weekday,1,20220828,20230526,Fall
 CR-1-ReadvilleSprShuttle-FrdE,Weekday schedule,Weekday,Weekday,4,20221017,,Fall/Winter
+CR-1-ReadvilleSprShuttle-Mnd,Weekday schedule,Weekday,Weekday,4,20221017,,Fall/Winter
 CR-1-ReadvilleSprShuttle-Snd,Sunday schedule,Sunday,Sunday,4,20221017,,Fall/Winter
 CR-1-ReadvilleSprShuttle-Std,Saturday schedule,Saturday,Saturday,4,20221017,,Fall/Winter
 CR-2-2ReadingFebMarShuttle-Snd,Sunday schedule,Sunday,Sunday,4,20221218,20230701,Fall/Winter
@@ -77,6 +75,7 @@ FLL 22-S-Wdy-16-Sc5,Weekday schedule (modified service),Weekday (modified servic
 FLL 22-S-Wdy-19,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20221017,,Fall/Winter
 FLL 22-S-Wdy-19-S86,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20221017,,Fall/Winter
 FLL 22-S-Wdy-19-Sc5,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20221017,,Fall/Winter
+FallWeekday,Weekday schedule,Weekday,Weekday,1,20220828,20230526,Fall
 Green-1-Snd,Sunday schedule (Government Center Garage construction),Sunday (Government Center Garage construction),Sunday,4,20230312,20230701,Spring
 Green-1-Std,Saturday schedule (Government Center Garage construction),Saturday (Government Center Garage construction),Saturday,4,20230312,20230701,Spring
 LRV223-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20230312,20230701,Spring
@@ -95,26 +94,19 @@ PRIV223-5-Su-01,Sunday schedule,Sunday,Sunday,1,20230312,20230701,Spring
 PRIV223-6-Wdy-01,Weekday schedule,Weekday,Weekday,1,20230312,20230701,Spring
 PatriotsDay,Holiday (Saturday schedule),Holiday,Saturday,3,20230312,20230701,Spring
 RTL223-1-Wdy-01,Weekday schedule,Weekday,Weekday,1,20230312,20230701,Spring
-RTL223-2-Sa-01,Saturday schedule,Saturday,Saturday,1,20230312,20230701,Spring
-RTL223-3-Su-01,Sunday schedule,Sunday,Sunday,1,20230312,20230701,Spring
-RTL223-4-Sa-01,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20230312,20230701,Spring
-RTL223-5-Sa-01,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20230312,20230701,Spring
-RTL223-6-Wdy-01,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20230312,20230701,Spring
-RTL223-7-Sa-01,Saturday schedule,Saturday,Saturday,1,20230312,20230701,Spring
-RTL223-7-Sa-01-BckBNrhStSsd,Saturday schedule,Saturday,Saturday,4,20230312,20230701,Spring
-RTL223-8-Su-01,Sunday schedule,Sunday,Sunday,1,20230312,20230701,Spring
-RTL223-8-Su-01-BckBNrhStSsd,Sunday schedule,Sunday,Sunday,4,20230312,20230701,Spring
-RTL223-9-Wdy-01,Weekday schedule,Weekday,Weekday,1,20230312,20230701,Spring
-RTL223-A-Sa-01,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20230312,20230701,Spring
-RTL223-B-Su-01,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20230312,20230701,Spring
-RTL223-C-Wdy-01,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20230312,20230701,Spring
-RTL223-C-Wdy-01-JFKNrhQnc,Weekday schedule (reduced service),Weekday (reduced service),Weekday,4,20230312,20230701,Spring
-RTL223-D-Sa-01,Saturday schedule,Saturday,Saturday,1,20230312,20230701,Spring
-RTL223-D-Sa-01-BrrJFK,Saturday schedule,Saturday,Saturday,4,20230312,20230701,Spring
-RTL223-E-Su-01,Sunday schedule,Sunday,Sunday,1,20230312,20230701,Spring
-RTL223-E-Su-01-BrrJFK,Sunday schedule,Sunday,Sunday,4,20230312,20230701,Spring
-Red-1-SndDtr,Sunday schedule (Signal/track maintenance),Sunday (Signal/track maintenance),Sunday,4,20230312,20230701,Spring
-Red-1-StdDtr,Saturday schedule (Signal/track maintenance),Saturday (Signal/track maintenance),Saturday,4,20230312,20230701,Spring
+RTL223-2-Sa-01,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20230312,20230701,Spring
+RTL223-3-Wdy-01,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20230312,20230701,Spring
+RTL223-4-Sa-01,Saturday schedule,Saturday,Saturday,1,20230312,20230701,Spring
+RTL223-4-Sa-01-BckBNrhStSsd,Saturday schedule,Saturday,Saturday,4,20230312,20230701,Spring
+RTL223-5-Su-01,Sunday schedule,Sunday,Sunday,1,20230312,20230701,Spring
+RTL223-5-Su-01-BckBNrhStSsd,Sunday schedule,Sunday,Sunday,4,20230312,20230701,Spring
+RTL223-6-Wdy-01,Weekday schedule,Weekday,Weekday,1,20230312,20230701,Spring
+RTL223-7-Wdy-01,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20230312,20230701,Spring
+RTL223-7-Wdy-01-JFKNrhQnc,Weekday schedule (reduced service),Weekday (reduced service),Weekday,4,20230312,20230701,Spring
+RTL223-8-Sa-01,Saturday schedule,Saturday,Saturday,1,20230312,20230701,Spring
+RTL223-8-Sa-01-BrrJFK,Saturday schedule,Saturday,Saturday,4,20230312,20230701,Spring
+RTL223-9-Su-01,Sunday schedule,Sunday,Sunday,1,20230312,20230701,Spring
+RTL223-9-Su-01-BrrJFK,Sunday schedule,Sunday,Sunday,4,20230312,20230701,Spring
 SpringSaturday,Saturday schedule,Saturday,Saturday,1,20230312,20230701,Spring
 SpringSunday,Sunday schedule,Sunday,Sunday,1,20230312,20230701,Spring
 SpringWeekday,Weekday schedule (no school),Weekday (no school),Weekday,1,20230312,20230701,Spring
