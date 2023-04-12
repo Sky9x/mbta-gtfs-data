@@ -89,7 +89,6 @@ CR-Franklin-dcca6140-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay
 CR-Franklin-58bf35a6-0,CR-Franklin,0,South Station - Forge Park/495 via Fairmount,,2,20004003,CR-573719-731
 CR-Franklin-b0b47532-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,2,20004004,CR-574892-759
 CR-Franklin-99bc68e7-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,2,20004005,CR-574910-743
-CR-Franklin-b8023197-0,CR-Franklin,0,South Station - Forge Park/495,,2,20004006,CR-587963-731
 CR-Franklin-efecf2cd-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,20004100,CR-573568-726
 CR-Franklin-6fb5dbbb-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,1,20004101,CR-573503-754
 CR-Franklin-04869814-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,2,20004102,CR-573523-748
@@ -136,6 +135,7 @@ CR-Providence-cecc82f0-0,CR-Providence,0,South Station - Wickford Junction,,2,20
 CR-Providence-c05779ce-0,CR-Providence,0,South Station - Providence,,2,20012012,CR-574041-825
 CR-Providence-27226e4a-0,CR-Providence,0,South Station - Providence,,2,20012013,CR-574049-839
 CR-Providence-e9d502e6-0,CR-Providence,0,South Station - Wickford Junction,,2,20012014,CR-574061-809
+CR-Providence-e9058781-0,CR-Providence,0,South Station - TF Green Airport,,2,20012016,CR-587602-837-TFGreenWickford
 CR-Providence-cc900769-1,CR-Providence,1,Stoughton - South Station,,1,20012100,CR-573244-878
 CR-Providence-27135a68-1,CR-Providence,1,Wickford Junction - South Station,,1,20012102,CR-574035-838
 CR-Providence-01e4958c-1,CR-Providence,1,Providence - South Station,,2,20012104,CR-574070-818
@@ -143,6 +143,7 @@ CR-Providence-dd9f66fe-1,CR-Providence,1,Providence - South Station,,2,20012110,
 CR-Providence-17ac3b3b-1,CR-Providence,1,Wickford Junction - South Station,,2,20012111,CR-574040-830
 CR-Providence-52e51656-1,CR-Providence,1,Providence - South Station,,2,20012112,CR-574044-834
 CR-Providence-98bdef98-1,CR-Providence,1,Wickford Junction - South Station,,2,20012113,CR-574054-806
+CR-Providence-a252ce57-1,CR-Providence,1,TF Green Airport - South Station,,2,20012115,CR-587612-802-TFGreenWickford
 Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,30001000,Boat-F4-0630-Long-B-01-Weekday-Fall-22
 Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,30001100,Boat-F4-0645-Charlestown-B-01-Weekday-Fall-22
 Boat-F1-0-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport & Hull,,1,30002000,Boat-F1-1100-Long-BF2H-01-Weekday-Fall-22
@@ -858,5 +859,5 @@ Shuttle-JFKNorthQuincy-0-0,Shuttle-JFKNorthQuincy,0,JFK/UMass - North Quincy,,4,
 Shuttle-JFKNorthQuincy-0-1,Shuttle-JFKNorthQuincy,1,North Quincy - JFK/UMass,,4,61995199,56494795-20:45-JFKNorthQuincy1
 Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,4,62053099,CR-NewburyportLynnShuttleWinter-Weekday-0-05:08:00
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,4,62053199,CR-NewburyportLynnShuttleWinter-Weekday-1-05:31:00
-Shuttle-ReadvilleSouthStation-0-0,Shuttle-ReadvilleSouthStation,0,South Station - Readville,,4,62375099,CR-FairmountSpringShuttle-Monday-0-05:45:00
-Shuttle-ReadvilleSouthStation-0-1,Shuttle-ReadvilleSouthStation,1,Readville - South Station,,4,62375199,CR-FairmountSpringShuttle-Monday-1-04:45:00
+Shuttle-TFGreenWickfordJunction-0-0,Shuttle-TFGreenWickfordJunction,0,TF Green Airport - Wickford Junction,,4,62550099,CR-587602-837-TFGreenWickfordB1
+Shuttle-TFGreenWickfordJunction-0-1,Shuttle-TFGreenWickfordJunction,1,Wickford Junction - TF Green Airport,,4,62550199,CR-587612-802-TFGreenWickfordB1
