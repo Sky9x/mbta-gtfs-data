@@ -1,50 +1,34 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id
 Red-1-0,Red,0,Alewife - Ashmont,,1,10010004,56494734
 Red-3-0,Red,0,Alewife - Braintree,,1,10010005,56494858
+Red-1-0_70075_70085_0,Red,0,Alewife - Park Street,,4,10010099,56494781-20:30-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms0
+Red-1-0_70075_70085_2,Red,0,JFK/UMass - Ashmont,,4,10010099,56494781-20:30-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms2
+Red-3-0_70075_70095_0,Red,0,Alewife - Park Street,,4,10010099,56494905-20:30-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms0
+Red-3-0_70075_70095_2,Red,0,JFK/UMass - Braintree,,4,10010099,56494905-20:30-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms2
 Red-1-1,Red,1,Ashmont - Alewife,,1,10010100,56494670
 Red-3-1,Red,1,Braintree - Alewife,,1,10010101,56494795
+Red-1-1_70086_70076_0,Red,1,Ashmont - JFK/UMass,,4,10010199,56494721-20:30-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms0
+Red-1-1_70086_70076_2,Red,1,Park Street - Alewife,,4,10010199,56494721-20:30-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms2
+Red-3-1_70096_70076_0,Red,1,Braintree - JFK/UMass,,4,10010199,56494795-20:30-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms0
+Red-3-1_70096_70076_2,Red,1,Park Street - Alewife,,4,10010199,56494795-20:30-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,10011000,55483765
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,10011100,55483763
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,10020000,56494330
-Orange-3-0_70026_70014_0,Orange,0,Oak Grove - North Station,,4,10020099,56535679-BackBayNorthStaSuspend0
-Orange-3-0_70026_70014_2,Orange,0,Back Bay - Forest Hills,,4,10020099,56535679-BackBayNorthStaSuspend2
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,10020100,56494230
-Orange-3-1_70015_70027_0,Orange,1,Forest Hills - Back Bay,,4,10020199,56535574-BackBayNorthStaSuspend0
-Orange-3-1_70015_70027_2,Orange,1,North Station - Oak Grove,,4,10020199,56535574-BackBayNorthStaSuspend2
 Green-B-812-0,Green-B,0,Government Center - Boston College,,1,10032000,55713520
 Green-B-816-0,Green-B,0,Medford/Tufts - Boston College,Mornings only,3,10032004,55713618
-Green-B-812-0_70202_70196_2,Green-B,0,Park Street - Boston College,,4,10032099,55719887-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC2
-Green-B-816-0_70206_70196_0,Green-B,0,Medford/Tufts - North Station,,4,10032099,55719932-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC0
-Green-B-816-0_70206_70196_2,Green-B,0,Park Street - Boston College,,4,10032099,55719932-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC2
 Green-B-812-1,Green-B,1,Boston College - Government Center,,1,10032100,55713519
 Green-B-816-1,Green-B,1,Boston College - Medford/Tufts,Early mornings only,3,10032104,55713527
-Green-B-812-1_70200_70201_0,Green-B,1,Boston College - Park Street,,4,10032199,55719886-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC0
-Green-B-816-1_70200_70205_0,Green-B,1,Boston College - Park Street,,4,10032199,55719919-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC0
-Green-B-816-1_70200_70205_2,Green-B,1,North Station - Medford/Tufts,,4,10032199,55719919-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC2
 Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,10033000,55713594
 Green-C-836-0,Green-C,0,Medford/Tufts - Cleveland Circle,Mornings only,3,10033004,55713600
-Green-C-832-0_70202_70197_2,Green-C,0,Park Street - Cleveland Circle,,4,10033099,55719885-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC2
-Green-C-836-0_70206_70197_0,Green-C,0,Medford/Tufts - North Station,,4,10033099,55719906-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC0
-Green-C-836-0_70206_70197_2,Green-C,0,Park Street - Cleveland Circle,,4,10033099,55719906-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC2
 Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,10033100,55713595
 Green-C-836-1,Green-C,1,Cleveland Circle - Medford/Tufts,Early mornings only,3,10033104,55713601
-Green-C-832-1_70200_70201_0,Green-C,1,Cleveland Circle - Park Street,,4,10033199,55719883-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC0
-Green-C-836-1_70200_70205_0,Green-C,1,Cleveland Circle - Park Street,,4,10033199,55719895-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC0
-Green-C-836-1_70200_70205_2,Green-C,1,North Station - Medford/Tufts,,4,10033199,55719895-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC2
 Green-D-855-0,Green-D,0,Union Square - Riverside,,1,10034000,55713692
 Green-D-856-0,Green-D,0,Medford/Tufts - Riverside,Weekday mornings only,3,10034004,55713694
-Green-D-855-0_70206_70202_0,Green-D,0,Union Square - North Station,,4,10034099,55720097-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC0
-Green-D-855-0_70206_70202_2,Green-D,0,Government Center - Riverside,,4,10034099,55720097-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC2
 Green-D-855-1,Green-D,1,Riverside - Union Square,,1,10034100,55713691
 Green-D-856-1,Green-D,1,Riverside - Medford/Tufts,Weekday early mornings only,3,10034104,55713693
-Green-D-855-1_70201_70205_0,Green-D,1,Riverside - Government Center,,4,10034199,55719888-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC0
-Green-D-855-1_70201_70205_2,Green-D,1,North Station - Union Square,,4,10034199,55719888-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC2
 Green-E-886-0,Green-E,0,Medford/Tufts - Heath Street,,1,10035000,55713831
-Green-E-886-0_70206_70202_0,Green-E,0,Medford/Tufts - North Station,,4,10035099,55720854-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC0
-Green-E-886-0_70206_70202_2,Green-E,0,Government Center - Heath Street,,4,10035099,55720854-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC2
 Green-E-886-1,Green-E,1,Heath Street - Medford/Tufts,,1,10035100,55713616
-Green-E-886-1_70201_70205_0,Green-E,1,Heath Street - Government Center,,4,10035199,55720855-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC0
-Green-E-886-1_70201_70205_2,Green-E,1,North Station - Medford/Tufts,,4,10035199,55720855-GovtCtrNorthStaGovtCtrParkStParkNorBParkNorC2
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,10040000,55458863
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,10040004,55458998
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,10040100,55458730
@@ -851,8 +835,6 @@ Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Wharf - Long Wharf,,4,30005199,Boat-
 714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,57140106,56131770
 716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,57160000,56131748
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,57160100,56131753
-Shuttle-GovernmentCenterNorthStation-0-0,Shuttle-GovernmentCenterNorthStation,0,Government Center - North Station,,4,61946099,Green-SpringGovtNorth-Saturday-0-05:00:00
-Shuttle-GovernmentCenterNorthStation-0-1,Shuttle-GovernmentCenterNorthStation,1,North Station - Government Center,,4,61946199,Green-SpringGovtNorth-Saturday-1-05:28:00
 Shuttle-GovernmentCenterWonderland-0-0,Shuttle-GovernmentCenterWonderland,0,Wonderland - Government Center,,4,61955099,Blue-SpringGovWndr-Weekday-0-20:05:00
 Shuttle-GovernmentCenterWonderland-0-1,Shuttle-GovernmentCenterWonderland,1,Government Center - Wonderland,,4,61955199,Blue-SpringGovWndr-Weekday-1-20:30:00
 Shuttle-HaverhillReadingExpress-0-0,Shuttle-HaverhillReadingExpress,0,Reading - Haverhill,,4,61973099,CR-HaverhillReadingFebMarShuttle-Weekday-Exp-0-06:33:00
