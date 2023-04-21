@@ -8538,12 +8538,10 @@ facility_id,property_id,value
 770,excludes-stop,node-772-top
 770,excludes-stop,node-mdftf-stairs-bottom
 770,excludes-stop,node-mdftf-stairs-top
-771,alternate-service-text,"To board or exit, use the accessible walkway that connects the station entrance with Prospect St."
+771,alternate-service-text,An accessible van is available to transport customers between the station entrance at Prospect St and the entrance located at the intersection of Allen St and Charlestown St. Please see station personnel or use a station call box to request the van.
 771,excludes-stop,door-unsqu-allen
-771,excludes-stop,door-unsqu-ramp
 771,excludes-stop,node-771-bottom
 771,excludes-stop,node-771-top
-771,excludes-stop,node-unsqu-ramp-bottom
 771,excludes-stop,node-unsqu-rollupgate
 771,excludes-stop,node-unsqu-stairs-bottom
 771,excludes-stop,node-unsqu-stairs-top
@@ -14957,7 +14955,7 @@ ev-FR-0301,capacity,4
 ev-FR-0451-garage,capacity,4
 ev-FR-0494-garage,capacity,4
 ev-FR-3338-garage,capacity,4
-ev-NEC-1659,capacity,10
+ev-NEC-1659-garage,capacity,10
 ev-NEC-2173-garage,capacity,4
 ev-NHRML-0152,capacity,2
 ev-WML-0442-garage,capacity,4
@@ -14967,30 +14965,30 @@ ev-forhl,capacity,3
 ev-qamnl-garage,capacity,2
 ev-wondl-garage,capacity,4
 ev-woodl-garage,capacity,4
-fake_fcb8_1082_14411,excludes-stop,NEC-1851-03
-fake_fcb8_1b4d_14431,excludes-stop,door-NEC-1891-barton
-fake_fcb8_1b4d_14437,excludes-stop,door-NEC-1891-barton
-fake_fcb8_1e6c_14412,excludes-stop,NEC-1851-05
+fake_fcb8_1082_14409,excludes-stop,NEC-1851-03
+fake_fcb8_1b4d_14429,excludes-stop,door-NEC-1891-barton
+fake_fcb8_1b4d_14435,excludes-stop,door-NEC-1891-barton
+fake_fcb8_1e6c_14410,excludes-stop,NEC-1851-05
+fake_fcb8_2919_14423,excludes-stop,NEC-1659-B
+fake_fcb8_2919_14424,excludes-stop,NEC-1659-B
 fake_fcb8_2919_14425,excludes-stop,NEC-1659-B
-fake_fcb8_2919_14426,excludes-stop,NEC-1659-B
-fake_fcb8_2919_14427,excludes-stop,NEC-1659-B
-fake_fcb8_4af0_14422,excludes-stop,NEC-2173
-fake_fcb8_6c22_14418,excludes-stop,NEC-1851-02
-fake_fcb8_7dcf_14428,excludes-stop,NEC-1891
-fake_fcb8_7dcf_14434,excludes-stop,NEC-1891
-fake_fcb8_aced_14410,excludes-stop,NEC-1851
-fake_fcb8_aced_14416,excludes-stop,NEC-1851
-fake_fcb8_ae82_14432,excludes-stop,door-NEC-1891-pinebus
-fake_fcb8_ae82_14438,excludes-stop,door-NEC-1891-pinebus
-fake_fcb8_af4e_14417,excludes-stop,NEC-1851-01
-fake_fcb8_b508_14423,excludes-stop,NEC-1768-B
-fake_fcb8_b508_14424,excludes-stop,NEC-1768-B
-fake_fcb8_c02a_14429,excludes-stop,NEC-1891-02
-fake_fcb8_c02a_14435,excludes-stop,NEC-1891-02
-fake_fcb8_e791_14433,excludes-stop,door-NEC-1891-pinedrop
-fake_fcb8_e791_14439,excludes-stop,door-NEC-1891-pinedrop
+fake_fcb8_4af0_14420,excludes-stop,NEC-2173
+fake_fcb8_6c22_14416,excludes-stop,NEC-1851-02
+fake_fcb8_7dcf_14426,excludes-stop,NEC-1891
+fake_fcb8_7dcf_14432,excludes-stop,NEC-1891
+fake_fcb8_aced_14408,excludes-stop,NEC-1851
+fake_fcb8_aced_14414,excludes-stop,NEC-1851
+fake_fcb8_ae82_14430,excludes-stop,door-NEC-1891-pinebus
+fake_fcb8_ae82_14436,excludes-stop,door-NEC-1891-pinebus
+fake_fcb8_af4e_14415,excludes-stop,NEC-1851-01
+fake_fcb8_b508_14421,excludes-stop,NEC-1768-B
+fake_fcb8_b508_14422,excludes-stop,NEC-1768-B
+fake_fcb8_c02a_14427,excludes-stop,NEC-1891-02
+fake_fcb8_c02a_14433,excludes-stop,NEC-1891-02
+fake_fcb8_e791_14431,excludes-stop,door-NEC-1891-pinedrop
+fake_fcb8_e791_14437,excludes-stop,door-NEC-1891-pinedrop
+fake_fcb8_eb37_14405,excludes-stop,NHRML-0254
 fake_fcb8_eb37_14407,excludes-stop,NHRML-0254
-fake_fcb8_eb37_14409,excludes-stop,NHRML-0254
 fvm-201001,enclosed,1
 fvm-201001,excludes-stop,door-aqucl-mcknorth
 fvm-201001,excludes-stop,door-aqucl-mcksouth
@@ -17476,8 +17474,8 @@ highlevel-brntn-2,excludes-stop,door-brntn-faregates
 highlevel-brntn-2,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-chels,excludes-stop,74630
 highlevel-chels,excludes-stop,74631
-highlevel-chels,excludes-stop,ER-0046-01
-highlevel-chels,excludes-stop,ER-0046-02
+highlevel-chels,excludes-stop,ER-0042-01
+highlevel-chels,excludes-stop,ER-0042-02
 highlevel-chels,excludes-stop,door-chels-crnorthever
 highlevel-chels,excludes-stop,door-chels-crnorththird
 highlevel-chels,excludes-stop,door-chels-croutthird
@@ -19157,16 +19155,16 @@ park-NB-0137,payment-app-url,https://www.paybyphone.com/
 park-NB-0137,payment-form-accepted,invoice
 park-NB-0137,payment-form-accepted,mobile-app
 park-NB-0137,weekday-typical-utilization,66
-park-NEC-1659,attended,1
-park-NEC-1659,capacity,1100
-park-NEC-1659,contact,Rhode Island Department of Transportation
-park-NEC-1659,contact-phone,401-222-2450
-park-NEC-1659,contact-url,http://www.ridetherailsri.com/#locations
-park-NEC-1659,enclosed,1
-park-NEC-1659,fee-daily,free
-park-NEC-1659,municipality,North Kingstown
-park-NEC-1659,operator,Rhode Island Department of Transportation
-park-NEC-1659,owner,Local transit authority
+park-NEC-1659-garage,attended,1
+park-NEC-1659-garage,capacity,1100
+park-NEC-1659-garage,contact,Rhode Island Department of Transportation
+park-NEC-1659-garage,contact-phone,401-222-2450
+park-NEC-1659-garage,contact-url,http://www.ridetherailsri.com/#locations
+park-NEC-1659-garage,enclosed,1
+park-NEC-1659-garage,fee-daily,free
+park-NEC-1659-garage,municipality,North Kingstown
+park-NEC-1659-garage,operator,Rhode Island Department of Transportation
+park-NEC-1659-garage,owner,Local transit authority
 park-NEC-1768-garage,attended,1
 park-NEC-1768-garage,capacity,458
 park-NEC-1768-garage,contact,Standard Parking
@@ -20414,7 +20412,7 @@ park-ogmnl,contact,MBTA Customer Support
 park-ogmnl,contact-phone,617-222-3200
 park-ogmnl,contact-url,https://www.mbta.com/customer-support
 park-ogmnl,enclosed,2
-park-ogmnl,fee-daily,"Mon-Fri: $9 | Sat-Sun: $3 (Prices are valid for up to 14 hours of parking. After the first 14 hours, the daily rate is $15.)"
+park-ogmnl,fee-daily,Mon-Fri: $9 | Sat-Sun: $3 
 park-ogmnl,fee-monthly,"Monthly passes are not available at this MBTA lot, but premium spots are available."
 park-ogmnl,municipality,Malden
 park-ogmnl,operator,Keolis Commuter Services
