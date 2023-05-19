@@ -150,24 +150,24 @@ CR-Haverhill-76e7e4ff-1,CR-Haverhill,1,Haverhill - North Station,,2,200061030,CR
 CR-Haverhill-ebc58735-1,CR-Haverhill,1,Haverhill - North Station via Reading,,2,200061040,canonical-CR-Haverhill-C1-1,1
 CR-Haverhill-0629a9bc-1,CR-Haverhill,1,Reading - North Station,,2,200061050,CR-597871-294,2
 CR-Haverhill-6984317f-1,CR-Haverhill,1,Haverhill - North Station,,2,200061060,CR-597974-218,2
-CR-Kingston-8edf9cf3-0,CR-Kingston,0,South Station - Kingston,,1,200070000,CR-551651-063,2
-CR-Kingston-a80a8fd4-0,CR-Kingston,0,Braintree - Kingston,,2,200070010,CR-551650-065,2
+CR-Kingston-8edf9cf3-0,CR-Kingston,0,South Station - Kingston,,1,200070000,CR-551651-063-21:00-KNGBrainSouthDynamic,2
+CR-Kingston-a80a8fd4-0,CR-Kingston,0,Braintree - Kingston,,2,200070010,CR-551650-065-21:00-KNGBrainSouthDynamic2,2
 CR-Kingston-5caee635-0,CR-Kingston,0,South Station - Kingston,,2,200070020,canonical-CR-Kingston-C1-0,1
-CR-Kingston-7014db43-0,CR-Kingston,0,Braintree - Kingston,,2,200070030,CR-595456-065-KNGBrainSouthTrackDynamic2,2
-CR-Kingston-5615f391-1,CR-Kingston,1,Kingston - South Station,,1,200071000,CR-554420-042,2
-CR-Kingston-285ad791-1,CR-Kingston,1,Kingston - Braintree,,2,200071010,CR-554462-064,2
+CR-Kingston-7014db43-0,CR-Kingston,0,Braintree - Kingston,,2,200070030,CR-595456-065,2
+CR-Kingston-5615f391-1,CR-Kingston,1,Kingston - South Station,,1,200071000,CR-554420-042-21:00-KNGBrainSouthDynamic,2
+CR-Kingston-285ad791-1,CR-Kingston,1,Kingston - Braintree,,2,200071010,CR-554462-064-21:00-KNGBrainSouthDynamic,2
 CR-Kingston-6cec404d-1,CR-Kingston,1,Kingston - South Station,,2,200071020,canonical-CR-Kingston-C1-1,1
-CR-Kingston-35bb26b3-1,CR-Kingston,1,Kingston - Braintree,,2,200071030,CR-598256-064-KNGBrainSouthTrackDynamic0,2
+CR-Kingston-35bb26b3-1,CR-Kingston,1,Kingston - Braintree,,2,200071030,CR-598256-064,2
 CR-Lowell-3b023975-0,CR-Lowell,0,North Station - Lowell,,1,200080000,CR-551826-341,2
 CR-Lowell-90161884-0,CR-Lowell,0,North Station - Lowell,,2,200080010,CR-594893-329,2
 CR-Lowell-C1-0,CR-Lowell,0,North Station - Lowell,,5,200080991,canonical-CR-Lowell-C1-0,1
 CR-Lowell-89fe964c-1,CR-Lowell,1,Lowell - North Station,,1,200081000,CR-551828-342,2
 CR-Lowell-5cb1ce1b-1,CR-Lowell,1,Lowell - North Station,,2,200081010,CR-594981-306,2
 CR-Lowell-C1-1,CR-Lowell,1,Lowell - North Station,,5,200081991,canonical-CR-Lowell-C1-1,1
-CR-Middleborough-2507c3b4-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,200090000,CR-554417-029,2
+CR-Middleborough-2507c3b4-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,200090000,CR-554417-029-21:00-MDLBrainSouthDynamic,2
 CR-Middleborough-52b80476-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,2,200090010,canonical-CR-Middleborough-C1-0,1
 CR-Middleborough-2507c3b4-0_MM-0277-S_MM-0356-S_0,CR-Middleborough,0,Braintree - Bridgewater,,4,200090990,CR-554823-1005-BridgeMiddleSuspendMDLBrainSouthDynamic220,2
-CR-Middleborough-cd96ff97-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,200091000,CR-551436-002,2
+CR-Middleborough-cd96ff97-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,200091000,CR-551436-002-21:00-MDLBrainSouthDynamic,2
 CR-Middleborough-75bed2bb-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,2,200091010,canonical-CR-Middleborough-C1-1,1
 CR-Middleborough-cd96ff97-1_MM-0356-S_MM-0277-S_2,CR-Middleborough,1,Bridgewater - Braintree,,4,200091990,CR-550873-1002-BridgeMiddleSuspendMDLBrainSouthDynamic002,2
 CR-Needham-8ca06f5a-0,CR-Needham,0,South Station - Needham Heights,,1,200100000,CR-573241-613,2
@@ -916,16 +916,16 @@ Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Wharf - Long Wharf,,1,300051000,Boat
 714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,571401040,56131770,0
 716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,571600000,56131735,0
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,571601000,56131730,0
-Shuttle-AshmontBroadway-0-0,Shuttle-AshmontBroadway,0,Broadway - Ashmont,,4,602600990,Red-BroadwayAshBrainShuttle-Saturday-A-0-06:00:00,0
-Shuttle-AshmontBroadway-0-1,Shuttle-AshmontBroadway,1,Ashmont - Broadway,,4,602601990,Red-BroadwayAshBrainShuttle-Saturday-A-1-05:16:00,0
-Shuttle-BraintreeJFK-0-0,Shuttle-BraintreeJFK,0,JFK/UMass - Braintree,,4,609400990,Red-SpringBraintreeJFK-Weekday-0-20:45:00,0
-Shuttle-BraintreeJFK-0-1,Shuttle-BraintreeJFK,1,Braintree - JFK/UMass,,4,609401990,Red-SpringBraintreeJFK-Weekday-1-20:00:00,0
+Shuttle-AshmontBroadway-0-0,Shuttle-AshmontBroadway,0,Broadway - Ashmont,,4,602600990,Red-BroadwayAshBrainShuttle-Saturday-A-0-05:00:00,0
+Shuttle-AshmontBroadway-0-1,Shuttle-AshmontBroadway,1,Ashmont - Broadway,,4,602601990,Red-BroadwayAshBrainShuttle-Saturday-A-1-05:00:00,0
+Shuttle-BraintreeJFK-0-0,Shuttle-BraintreeJFK,0,JFK/UMass - Braintree,,4,609400990,Red-SpringBraintreeJFK-Weekday-0-20:20:00,0
+Shuttle-BraintreeJFK-0-1,Shuttle-BraintreeJFK,1,Braintree - JFK/UMass,,4,609401990,Red-SpringBraintreeJFK-Weekday-1-20:08:00,0
 Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,South Station - Braintree (Express),,4,610100990,CR-554524-031-21:00-MDLBrainSouthDynamic2B1,0
 Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,4,610101990,CR-551500-030-21:00-MDLBrainSouthDynamic0B1,0
 Shuttle-BridgewaterMiddleboroughLakeville-0-0,Shuttle-BridgewaterMiddleboroughLakeville,0,Bridgewater - Middleborough/Lakeville,,4,610300990,CR-BridgewaterMayShuttle-Saturday-0-07:28:00,0
 Shuttle-BridgewaterMiddleboroughLakeville-0-1,Shuttle-BridgewaterMiddleboroughLakeville,1,Middleborough/Lakeville - Bridgewater,,4,610301990,CR-BridgewaterMayShuttle-Saturday-1-05:00:00,0
-Shuttle-BraintreeBroadway-0-0,Shuttle-BraintreeBroadway,0,Broadway - Braintree,,4,610350990,Red-BroadwayAshBrainShuttle-Saturday-B-0-06:00:00,0
-Shuttle-BraintreeBroadway-0-1,Shuttle-BraintreeBroadway,1,Braintree - Broadway,,4,610351990,Red-BroadwayAshBrainShuttle-Saturday-B-1-05:14:00,0
+Shuttle-BraintreeBroadway-0-0,Shuttle-BraintreeBroadway,0,Broadway - Braintree,,4,610350990,Red-BroadwayAshBrainShuttle-Saturday-B-0-05:00:00,0
+Shuttle-BraintreeBroadway-0-1,Shuttle-BraintreeBroadway,1,Braintree - Broadway,,4,610351990,Red-BroadwayAshBrainShuttle-Saturday-B-1-04:41:00,0
 Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,4,620530990,CR-NewburyportLynnShuttleWinter-Weekday-0-05:08:00,0
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,4,620531990,CR-NewburyportLynnShuttleWinter-Weekday-1-05:31:00,0
 Shuttle-RockportWestGloucester-0-0,Shuttle-RockportWestGloucester,0,West Gloucester - Rockport,,4,624100990,CR-593328-111-RockportB1,0
