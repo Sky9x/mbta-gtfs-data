@@ -14141,10 +14141,10 @@ facility_id,property_id,value
 992,excludes-stop,WML-0025-05
 993,excludes-stop,WML-0025
 993,excludes-stop,WML-0025-05
-994,alternate-service-text,Please use nearby Beverly Elevator 995
-995,alternate-service-text,Please use nearby Beverly Elevator 994
-996,alternate-service-text,Please use nearby Salem Elevator 997
-997,alternate-service-text,Please use nearby Salem Elevator 996
+994,alternate-service-text,Please use nearby Beverly Elevator 995.
+995,alternate-service-text,Please use nearby Beverly Elevator 994.
+996,alternate-service-text,Please use nearby Salem Elevator 997.
+997,alternate-service-text,Please use nearby Salem Elevator 996.
 998,alternate-service-text,Please use nearby Downtown Crossing Elevator 999.
 998,excludes-stop,70020
 998,excludes-stop,70077
@@ -14987,9 +14987,7 @@ ev-wondl-garage,capacity,4
 ev-woodl-garage,capacity,4
 fake_5a7e_af2a_395,excludes-stop,NEC-2173
 fake_99c7_af2a_392,excludes-stop,NHRML-0254
-fake_99c7_af2a_392,excludes-stop,NHRML-0254-B
 fake_99c7_c4e9_391,excludes-stop,NHRML-0254
-fake_99c7_c4e9_391,excludes-stop,NHRML-0254-B
 fake_b748_c4e7_402,excludes-stop,NEC-1891
 fake_b748_c4e7_402,excludes-stop,NEC-1891-02
 fake_b748_c4e7_402,excludes-stop,door-NEC-1891-barton
@@ -18009,6 +18007,18 @@ park-900,payment-app-url,https://www.paybyphone.com/
 park-900,payment-form-accepted,invoice
 park-900,payment-form-accepted,mobile-app
 park-900,weekday-typical-utilization,129
+park-Boat-Blossom-lot,attended,2
+park-Boat-Blossom-lot,capacity,152
+park-Boat-Blossom-lot,capacity-accessible,6
+park-Boat-Blossom-lot,contact,Lynn EDIC
+park-Boat-Blossom-lot,contact-phone,781-581-9399
+park-Boat-Blossom-lot,contact-url,https://ediclynn.org/wp/
+park-Boat-Blossom-lot,enclosed,2
+park-Boat-Blossom-lot,fee-daily,free
+park-Boat-Blossom-lot,municipality,Lynn
+park-Boat-Blossom-lot,operator,Lynn EDIC
+park-Boat-Blossom-lot,overnight-allowed,no-except-snow
+park-Boat-Blossom-lot,owner,Private
 park-Boat-Hingham,attended,2
 park-Boat-Hingham,capacity,1726
 park-Boat-Hingham,capacity-accessible,29
@@ -19252,6 +19262,7 @@ park-NEC-1969,fee-monthly,$90
 park-NEC-1969,municipality,Attleboro
 park-NEC-1969,note,"Greater Attleboro/Taunton RTA is responsible for parking maintenance, payments, and snow removal."
 park-NEC-1969,operator,Greater Attleboro/Taunton Regional Transit Authority
+park-NEC-1969,overnight-allowed,yes-snow-unknown
 park-NEC-1969,owner,Local transit authority
 park-NEC-1969,payment-app,Parkmobile
 park-NEC-1969,payment-app-id,881
