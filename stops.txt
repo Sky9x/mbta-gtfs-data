@@ -6791,15 +6791,17 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9983,9983,Stuart St @ Charles St S,,,,42.351039,-71.066798,ExpressBus-Downtown,,https://www.mbta.com/stops/9983,,0,,1,Boston,Stuart Street,Charles Street South,3
 99832,99832,245 Washington St,,,,42.251984,-71.168849,LocalBus,,https://www.mbta.com/stops/99832,,0,,1,Dedham,Washington Street,Ivy Lane,3
 99991,99991,South St @ Bardwell St,,,,42.308378,-71.115619,LocalBus,,https://www.mbta.com/stops/99991,,0,,1,Boston,South Street,Bardwell Street,3
+Boat-Blossom,,Blossom Street Pier,Blossom Street Pier - Lynn Ferry,,Lynn Ferry,42.454810,-70.948020,Boat-Lynn,"379 Blossom St Ext, Lynn, MA 01905",https://www.mbta.com/stops/Boat-Blossom,,0,,1,Lynn,,,4
 Boat-Charlestown,,Charlestown,Charlestown - Charlestown Ferry,,Charlestown Ferry,42.372756,-71.052528,,"Pier 4, Boston, MA 02129",https://www.mbta.com/stops/Boat-Charlestown,,0,,1,Boston,,,4
 Boat-George,,Georges Island,Georges Island - Hingham/Hull Ferry,,Hingham/Hull Ferry,42.319742,-70.930427,Boat-George,"George's Island, Boston, MA",https://www.mbta.com/stops/Boat-George,,0,,1,Boston,,,4
 Boat-Hingham,,Hingham,Hingham - Hingham/Hull Ferry,,Hingham/Hull Ferry,42.253956,-70.919844,Boat-Hingham,"28 Shipyard Dr, Hingham, MA 02043",https://www.mbta.com/stops/Boat-Hingham,,0,,1,Hingham,,,4
 Boat-Hull,,Hull,Hull - Hingham/Hull Ferry,,Hingham/Hull Ferry,42.303251,-70.920215,Boat-Hull,"180 Main St, Hull, MA 02045",https://www.mbta.com/stops/Boat-Hull,,0,,1,Hull,,,4
-Boat-Lewis,,Lewis Wharf,Lewis Wharf - East Boston Ferry,,East Boston Ferry,42.365867,-71.041958,Boat-Lewis,"65 Lewis St, Boston, MA 02128",https://www.mbta.com/stops/Boat-Lewis,,0,,1,Boston,,,4
+Boat-Lewis,,Lewis Mall Wharf,Lewis Mall Wharf - East Boston Ferry,,East Boston Ferry,42.365867,-71.041958,Boat-Lewis,"65 Lewis St, Boston, MA 02128",https://www.mbta.com/stops/Boat-Lewis,,0,,1,Boston,,,4
 Boat-Logan,,Logan Airport Ferry Terminal,Logan Airport - Hingham/Hull Ferry,,Hingham/Hull Ferry,42.359789,-71.027340,Boat-Logan,"Harborside Dr, East Boston, MA 02128",https://www.mbta.com/stops/Boat-Logan,,0,,1,Boston,,,4
-Boat-Long,,Long Wharf (North),Long Wharf (North) - Hingham/Hull Ferry,,Hingham/Hull Ferry,42.360795,-71.049976,Boat-Long,"Long Wharf near Christopher Columbus Park, Boston, MA 02110",https://www.mbta.com/stops/Boat-Long,,0,,1,Boston,,,4
+Boat-Long,,Long Wharf (North),Long Wharf (North) - Gate 5,5,Gate 5,42.360795,-71.049976,Boat-Long,"Long Wharf near Christopher Columbus Park, Boston, MA 02110",https://www.mbta.com/stops/Boat-Long,,0,,1,Boston,,,4
 Boat-Long-South,,Long Wharf (South),Long Wharf (South) - Charlestown Ferry,,Charlestown Ferry,42.359448,-71.050498,Boat-Long,"Long Wharf near Old Atlantic Ave, Boston, MA 02110",https://www.mbta.com/stops/Boat-Long-South,,0,,1,Boston,,,4
-Boat-Rowes,,Rowes Wharf,Rowes Wharf - Hingham/Hull Ferry,,Hingham/Hull Ferry,42.355721,-71.049897,Boat-Rowes,"60 Rowes Wharf, Boston, MA 02110",https://www.mbta.com/stops/Boat-Rowes,,0,,1,Boston,,,4
+Boat-Long-South-4,,Long Wharf (South) - Gate 4,Long Wharf (South) - Gate 4,4,Gate 4,42.359897,-71.048590,Boat-Long,"Long Wharf near Old Atlantic Ave, Boston, MA 02110",https://www.mbta.com/stops/Boat-Long-South-4,,0,,1,Boston,,,4
+Boat-Rowes,,Rowes Wharf,Rowes Wharf - Gate C,C,Gate C,42.355721,-71.049897,Boat-Rowes,"60 Rowes Wharf, Boston, MA 02110",https://www.mbta.com/stops/Boat-Rowes,,0,,1,Boston,,,4
 place-CM-0493,,Wareham Village,,,,41.758333,-70.714722,CF-zone-buzzards,"176 Merchants Way, Wareham, MA 02571",https://www.mbta.com/stops/place-CM-0493,,1,,1,Wareham,,,
 CM-0493-S,,Wareham Village,Wareham Village - CapeFLYER - Track 1 (All Trains),1,Track 1 (All Trains),41.758333,-70.714722,CF-zone-buzzards,,https://www.mbta.com/stops/place-CM-0493,,0,place-CM-0493,1,Wareham,,,2
 place-CM-0547,,Buzzards Bay,,,,41.744805,-70.616226,CF-zone-buzzards,"70 Main Street, Buzzards Bay, MA 02532",https://www.mbta.com/stops/place-CM-0547,,1,,1,Bourne,,,
@@ -7121,17 +7123,14 @@ place-NHRML-0152,,Wilmington,,,,42.546624,-71.174334,CR-zone-3,"405 Main St, Wil
 NHRML-0152,,Wilmington,Wilmington - Commuter Rail,,Commuter Rail,42.546624,-71.174334,CR-zone-3,,https://www.mbta.com/stops/place-NHRML-0152,,0,place-NHRML-0152,1,Wilmington,,,2
 NHRML-0152-01,,Wilmington,Wilmington - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.546624,-71.174334,CR-zone-3,,https://www.mbta.com/stops/place-NHRML-0152,,0,place-NHRML-0152,1,Wilmington,,,2
 NHRML-0152-02,,Wilmington,Wilmington - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.546624,-71.174334,CR-zone-3,,https://www.mbta.com/stops/place-NHRML-0152,,0,place-NHRML-0152,1,Wilmington,,,2
-NHRML-0152-B,,Wilmington - Parking Lot,Wilmington - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.546948,-71.174367,LocalBus,,https://www.mbta.com/stops/place-NHRML-0152,,0,place-NHRML-0152,1,Wilmington,,,3
 place-NHRML-0218,,North Billerica,,,,42.593248,-71.280995,CR-zone-5,"Ruggles St and Station St, North Billerica, MA 01862",https://www.mbta.com/stops/place-NHRML-0218,,1,,1,Billerica,,,
 NHRML-0218,,North Billerica,North Billerica - Commuter Rail,,Commuter Rail,42.593248,-71.280995,CR-zone-5,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,,,2
 NHRML-0218-01,,North Billerica,North Billerica - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.593248,-71.280995,CR-zone-5,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,,,2
 NHRML-0218-02,,North Billerica,North Billerica - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.593248,-71.280995,CR-zone-5,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,,,2
-NHRML-0218-B2,,North Billerica - Station St @ West Parking Lot,North Billerica - Commuter Rail Shuttle - Station St @ West Parking Lot,,Commuter Rail Shuttle,42.592849,-71.281409,LocalBus,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,Station Street,,3
 place-NHRML-0254,,Lowell,,,,42.635350,-71.314543,CR-zone-6,"101 Thorndike St, Lowell, MA 01852",https://www.mbta.com/stops/place-NHRML-0254,,1,,1,Lowell,,,
 NHRML-0254,,Lowell,Lowell - Commuter Rail,,Commuter Rail,42.635350,-71.314543,CR-zone-6,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,2
 NHRML-0254-03,,Lowell,Lowell - Commuter Rail - Track 3,3,Track 3,42.635350,-71.314543,CR-zone-6,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,2
 NHRML-0254-04,,Lowell,Lowell - Commuter Rail - Track 4,4,Track 4,42.635350,-71.314543,CR-zone-6,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,2
-NHRML-0254-B,,Lowell - Busway,Lowell - Commuter Rail Shuttle - Busway,,Commuter Rail Shuttle,42.636561,-71.314554,LocalBus,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,3
 place-PB-0158,,South Weymouth,,,,42.155025,-70.953302,CR-zone-3,"89 Trotter Rd, Weymouth, MA 02190",https://www.mbta.com/stops/place-PB-0158,,1,,1,Weymouth,,,
 PB-0158-S,,South Weymouth,South Weymouth - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.155025,-70.953302,CR-zone-3,,https://www.mbta.com/stops/place-PB-0158,,0,place-PB-0158,1,Weymouth,,,2
 place-PB-0194,,Abington,,,,42.107156,-70.934405,CR-zone-4,"231 Centre Ave, Abington, MA 02351",https://www.mbta.com/stops/place-PB-0194,,1,,1,Abington,,,
