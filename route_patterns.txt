@@ -3,10 +3,12 @@ Red-3-0,Red,0,Alewife - Braintree,,1,100100000,canonical-Red-C1-0,1
 Red-1-0,Red,0,Alewife - Ashmont,,1,100100001,canonical-Red-C2-0,1
 Red-3-0_70095_70097_0,Red,0,Alewife - JFK/UMass,,4,100100990,56494905-20:45-JFKNorthQuincySuspend0,2
 Red-3-0_70095_70097_2,Red,0,North Quincy - Braintree,,4,100100990,56494905-20:45-JFKNorthQuincySuspend2,2
+Red-3-0_70097_70105_0,Red,0,Alewife - North Quincy,,4,100100990,57599505-20:45-BraintreeNQuincy0,2
 Red-3-1,Red,1,Braintree - Alewife,,1,100101000,canonical-Red-C1-1,1
 Red-1-1,Red,1,Ashmont - Alewife,,1,100101001,canonical-Red-C2-1,1
 Red-3-1_70098_70096_0,Red,1,Braintree - North Quincy,,4,100101990,56494795-20:45-JFKNorthQuincySuspend0,2
 Red-3-1_70098_70096_2,Red,1,JFK/UMass - Alewife,,4,100101990,56494795-20:45-JFKNorthQuincySuspend2,2
+Red-3-1_70105_70098_2,Red,1,North Quincy - Alewife,,4,100101990,57599395-20:45-BraintreeNQuincy2,2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,100110000,55483765,0
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,100111000,55483763,0
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,100200000,56494330,0
@@ -84,17 +86,17 @@ CR-Fitchburg-6528076d-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,20
 CR-Worcester-6436caf7-0,CR-Worcester,0,South Station - Worcester,,1,200030000,CR-598270-501,2
 CR-Worcester-b2e1af39-0,CR-Worcester,0,South Station - Framingham,,2,200030020,CR-595541-591,2
 CR-Worcester-fa71b593-0,CR-Worcester,0,South Station - Worcester,,2,200030030,CR-598285-523,2
-CR-Worcester-dee234b8-0,CR-Worcester,0,South Station - Worcester,,2,200030040,CR-598278-515,2
-CR-Worcester-b5dda27b-0,CR-Worcester,0,South Station - Worcester,,3,200030050,canonical-CR-Worcester-C1-0,1
+CR-Worcester-b5dda27b-0,CR-Worcester,0,South Station - Worcester,,2,200030040,canonical-CR-Worcester-C1-0,1
+CR-Worcester-dee234b8-0,CR-Worcester,0,South Station - Worcester,,2,200030060,CR-598278-515,2
 CR-Worcester-4b439f03-0,CR-Worcester,0,South Station - Worcester,,3,200030070,CR-598280-517,2
 CR-Worcester-56a7d393-0,CR-Worcester,0,South Station - Worcester,,3,200030080,CR-598283-521,2
 CR-Worcester-2fe54abd-0,CR-Worcester,0,South Station - Worcester,,3,200030090,CR-598294-551,2
 CR-Worcester-b463475c-0,CR-Worcester,0,South Station - Worcester,,3,200030100,CR-598288-529,2
 CR-Worcester-647db84d-1,CR-Worcester,1,Worcester - South Station,,1,200031000,CR-595477-500,2
 CR-Worcester-72c8dfb6-1,CR-Worcester,1,Worcester - South Station,,2,200031030,CR-595493-502,2
-CR-Worcester-257727ec-1,CR-Worcester,1,Worcester - South Station,,2,200031050,CR-595489-526,2
-CR-Worcester-9fe63af0-1,CR-Worcester,1,Worcester - South Station,,2,200031060,CR-595647-524,2
-CR-Worcester-09bc0bc7-1,CR-Worcester,1,Worcester - South Station,,2,200031070,CR-595708-520,2
+CR-Worcester-257727ec-1,CR-Worcester,1,Worcester - South Station,,3,200031050,CR-595489-526,2
+CR-Worcester-9fe63af0-1,CR-Worcester,1,Worcester - South Station,,3,200031060,CR-595647-524,2
+CR-Worcester-09bc0bc7-1,CR-Worcester,1,Worcester - South Station,,3,200031070,CR-595708-520,2
 CR-Worcester-cb9d6625-1,CR-Worcester,1,Framingham - South Station,,3,200031080,CR-595479-584,2
 CR-Worcester-a814f00c-1,CR-Worcester,1,Worcester - South Station,,3,200031100,CR-595505-514,2
 CR-Worcester-16e1833f-1,CR-Worcester,1,Worcester - South Station,,3,200031120,CR-595491-552,2
@@ -171,9 +173,9 @@ CR-Providence-743ff41d-0,CR-Providence,0,South Station - Providence,,2,200120030
 CR-Providence-cf299c9f-0,CR-Providence,0,South Station - Stoughton,,2,200120060,CR-595488-873,2
 CR-Providence-a9a49f44-0,CR-Providence,0,South Station - Wickford Junction,,3,200120080,CR-595552-827,2
 CR-Providence-d36ab58d-0,CR-Providence,0,South Station - Stoughton,,3,200120090,CR-595666-893,2
-CR-Providence-410d3e77-0,CR-Providence,0,South Station - Providence,,3,200120110,CR-595614-813,2
-CR-Providence-09309983-0,CR-Providence,0,South Station - Wickford Junction,,3,200120120,CR-595641-809,2
-CR-Providence-d31884e1-0,CR-Providence,0,South Station - Providence,,3,200120130,CR-595987-1813,2
+CR-Providence-d31884e1-0,CR-Providence,0,South Station - Providence,,3,200120110,CR-612611-1813,2
+CR-Providence-410d3e77-0,CR-Providence,0,South Station - Providence,,3,200120120,CR-595614-813,2
+CR-Providence-09309983-0,CR-Providence,0,South Station - Wickford Junction,,3,200120130,CR-595641-809,2
 CR-Providence-43081d8a-0,CR-Providence,0,South Station - Providence,,3,200120140,CR-595774-839,2
 CR-Providence-C1-0,CR-Providence,0,South Station - Wickford Junction,,5,200120991,canonical-CR-Providence-C1-0,1
 CR-Providence-C2-0,CR-Providence,0,South Station - Stoughton,,5,200120992,canonical-CR-Providence-C2-0,1
@@ -183,8 +185,8 @@ CR-Providence-c2a7e4dc-1,CR-Providence,1,Providence - South Station,,2,200121030
 CR-Providence-30afc537-1,CR-Providence,1,Providence - South Station,,3,200121060,CR-595554-816,2
 CR-Providence-785f05b1-1,CR-Providence,1,Wickford Junction - South Station,,3,200121070,CR-595681-810,2
 CR-Providence-0465673f-1,CR-Providence,1,Providence - South Station,,3,200121080,CR-595722-818,2
-CR-Providence-b469315c-1,CR-Providence,1,Providence - South Station,,3,200121090,CR-595980-1800,2
-CR-Providence-53ce6838-1,CR-Providence,1,Wickford Junction - South Station,,3,200121100,CR-595737-836,2
+CR-Providence-b469315c-1,CR-Providence,1,Providence - South Station,,3,200121100,CR-595980-1800,2
+CR-Providence-53ce6838-1,CR-Providence,1,Wickford Junction - South Station,,3,200121110,CR-595737-836,2
 CR-Providence-C1-1,CR-Providence,1,Wickford Junction - South Station,,5,200121991,canonical-CR-Providence-C1-1,1
 CR-Providence-C2-1,CR-Providence,1,Stoughton - South Station,,5,200121992,canonical-CR-Providence-C2-1,1
 CR-Foxboro-71c5586e-0,CR-Foxboro,0,South Station - Foxboro,,1,200130000,CR-608329-9743-ES,2
@@ -218,15 +220,15 @@ Boat-EastBoston-0-0,Boat-EastBoston,0,Long Wharf - Lewis Mall Wharf,,1,300050000
 Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Mall Wharf - Long Wharf,,1,300051000,Boat-EastBoston-0700-Lewis-BEB-01-Weekday-Summer-23,0
 Boat-Lynn-0-0,Boat-Lynn,0,Long Wharf - Blossom Street Pier,,1,300070000,Boat-Lynn-0645-Long-South-4-BLY-01-Weekday-Summer-23,0
 Boat-Lynn-0-1,Boat-Lynn,1,Blossom Street Pier - Long Wharf,,1,300071000,Boat-Lynn-0600-Blossom-BLY-01-Weekday-Summer-23,0
-Boat-F6-1-0,Boat-F6,0,Central Wharf - Winthrop via Fan Pier & Quincy,,1,300090010,Boat-F6-1615-Aquarium-BWN-01-Weekday-Summer-23,0
-Boat-F6-3-0,Boat-F6,0,Central Wharf - Winthrop via Fan Pier,,2,300090030,Boat-F6-1125-Aquarium-BWN-01-Weekday-Summer-23,0
-Boat-F6-5-0,Boat-F6,0,Central Wharf - Winthrop via Quincy,,2,300090050,Boat-F6-0725-Aquarium-BWN-01-Weekday-Summer-23,0
-Boat-F6-6-0,Boat-F6,0,Central Wharf - Winthrop,,2,300090060,Boat-F6-1750-Aquarium-BWN-01-Weekday-Summer-23,0
-Boat-F6-7-0,Boat-F6,0,Quincy - Winthrop,,2,300090070,Boat-F6-1840-Quincy-BWN-01-Weekday-Summer-23,0
-Boat-F6-0-1,Boat-F6,1,Winthrop - Central Wharf via Quincy & Logan Airport,,1,300091000,Boat-F6-0630-Winthrop-BWN-01-Weekday-Summer-23,0
-Boat-F6-2-1,Boat-F6,1,Winthrop - Central Wharf via Logan Airport & Fan Pier,,2,300091020,Boat-F6-0805-Winthrop-BWN-01-Weekday-Summer-23,0
-Boat-F6-4-1,Boat-F6,1,Winthrop - Central Wharf via Logan Airport,,2,300091040,Boat-F6-1535-Winthrop-BWN-01-Weekday-Summer-23,0
-Boat-F6-7-1,Boat-F6,1,Winthrop - Quincy,,2,300091070,Boat-F6-1815-Winthrop-BWN-01-Weekday-Summer-23,0
+Boat-F6-1-0,Boat-F6,0,Central Wharf - Winthrop Landing via Fan Pier & Quincy,,1,300090010,Boat-F6-1615-Aquarium-BWN-01-Weekday-Summer-23,0
+Boat-F6-3-0,Boat-F6,0,Central Wharf - Winthrop Landing via Fan Pier,,2,300090030,Boat-F6-1125-Aquarium-BWN-01-Weekday-Summer-23,0
+Boat-F6-5-0,Boat-F6,0,Central Wharf - Winthrop Landing via Quincy,,2,300090050,Boat-F6-0725-Aquarium-BWN-01-Weekday-Summer-23,0
+Boat-F6-6-0,Boat-F6,0,Central Wharf - Winthrop Landing,,2,300090060,Boat-F6-1750-Aquarium-BWN-01-Weekday-Summer-23,0
+Boat-F6-7-0,Boat-F6,0,Quincy - Winthrop Landing,,2,300090070,Boat-F6-1840-Quincy-BWN-01-Weekday-Summer-23,0
+Boat-F6-0-1,Boat-F6,1,Winthrop Landing - Central Wharf via Quincy & Logan Airport,,1,300091000,Boat-F6-0630-Winthrop-BWN-01-Weekday-Summer-23,0
+Boat-F6-2-1,Boat-F6,1,Winthrop Landing - Central Wharf via Logan Airport & Fan Pier,,2,300091020,Boat-F6-0805-Winthrop-BWN-01-Weekday-Summer-23,0
+Boat-F6-4-1,Boat-F6,1,Winthrop Landing - Central Wharf via Logan Airport,,2,300091040,Boat-F6-1535-Winthrop-BWN-01-Weekday-Summer-23,0
+Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthrop-BWN-01-Weekday-Summer-23,0
 747-_-0,747,0,Ruggles Station - Sullivan Square Station,Weekdays only,1,400200000,55802783,0
 747-_-1,747,1,Sullivan Square Station - Ruggles Station,Weekdays only,1,400201000,55802789,0
 708-1-0,708,0,Andrew Station - Ave Louis Pasteur,Weekdays only,1,400300000,55803330,0
@@ -873,6 +875,8 @@ Boat-F6-7-1,Boat-F6,1,Winthrop - Quincy,,2,300091070,Boat-F6-1815-Winthrop-BWN-0
 716-1-0,716,0,Mattapan Station - Cobbs Corner (Omits Royall St),Saturdays only,3,571600030,57554631,0
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,571601000,56131730,0
 716-1-1,716,1,Cobbs Corner - Mattapan Station (Omits Royall St),Saturdays only,3,571601030,57554636,0
+Shuttle-BraintreeNorthQuincy-0-0,Shuttle-BraintreeNorthQuincy,0,North Quincy - Braintree,,4,609500990,57599505-20:45-BraintreeNQuincy1,0
+Shuttle-BraintreeNorthQuincy-0-1,Shuttle-BraintreeNorthQuincy,1,Braintree - North Quincy,,4,609501990,57599395-20:45-BraintreeNQuincy1,0
 Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,South Station - Braintree (Express),,4,610100990,CR-598243-027-MDLBrainSouthDynamic2B1,0
 Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,4,610101990,CR-595395-024-MDLBrainSouthDynamic0B1,0
 Shuttle-GovernmentCenterMedfordViaUnionSq-0-0,Shuttle-GovernmentCenterMedfordViaUnionSq,0,Medford/Tufts - Government Center,,4,619450990,Green-SpringGovtMed-Saturday-0-04:45:00,0
