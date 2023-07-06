@@ -18008,7 +18008,7 @@ park-900,payment-form-accepted,invoice
 park-900,payment-form-accepted,mobile-app
 park-900,weekday-typical-utilization,129
 park-Boat-Blossom-lot,attended,2
-park-Boat-Blossom-lot,capacity,152
+park-Boat-Blossom-lot,capacity,300
 park-Boat-Blossom-lot,capacity-accessible,6
 park-Boat-Blossom-lot,contact,Lynn EDIC
 park-Boat-Blossom-lot,contact-phone,781-581-9399
@@ -18472,7 +18472,8 @@ park-FR-0098-carter,contact,Waltham City Hall
 park-FR-0098-carter,contact-phone,781-314-3000
 park-FR-0098-carter,contact-url,https://www.city.waltham.ma.us/parking-meters-division/faq/where-are-the-public-parking-lots-in-waltham
 park-FR-0098-carter,enclosed,2
-park-FR-0098-carter,fee-daily,$2
+park-FR-0098-carter,fee-daily,$6
+park-FR-0098-carter,fee-monthly,$70
 park-FR-0098-carter,municipality,Waltham
 park-FR-0098-carter,note,"City of Waltham is responsible for parking maintenance, payments, and snow removal."
 park-FR-0098-carter,operator,City of Waltham
@@ -18490,7 +18491,8 @@ park-FR-0098-railroad,contact,Waltham City Hall
 park-FR-0098-railroad,contact-phone,781-314-3000
 park-FR-0098-railroad,contact-url,https://www.city.waltham.ma.us/parking-meters-division/faq/where-are-the-public-parking-lots-in-waltham
 park-FR-0098-railroad,enclosed,2
-park-FR-0098-railroad,fee-daily,$2
+park-FR-0098-railroad,fee-daily,$6
+park-FR-0098-railroad,fee-monthly,$70
 park-FR-0098-railroad,municipality,Waltham
 park-FR-0098-railroad,note,"City of Waltham is responsible for parking maintenance, payments, and snow removal."
 park-FR-0098-railroad,operator,City of Waltham
@@ -18549,11 +18551,12 @@ park-FR-0167,contact,"Town of Lincoln, Public Safety"
 park-FR-0167,contact-phone,781-259-8113
 park-FR-0167,contact-url,https://www.lincolntown.org/Faq.aspx
 park-FR-0167,enclosed,2
-park-FR-0167,fee-daily,Mon-Fri: $5 (Cash Only) | Sat-Sun: FREE
+park-FR-0167,fee-daily,Mon-Fri: $5 | Sat-Sun: Free
 park-FR-0167,municipality,Lincoln
 park-FR-0167,note,"Town of Lincoln is responsible for parking maintenance, payments, and snow removal."
 park-FR-0167,operator,Town of Lincoln
 park-FR-0167,owner,City/Town
+park-FR-0167,payment-form-accepted,cash
 park-FR-0201,attended,2
 park-FR-0201,capacity,86
 park-FR-0201,capacity-accessible,2
@@ -19932,7 +19935,6 @@ park-WML-0442-garage,operator,City of Worcester
 park-WML-0442-garage,owner,City/Town
 park-WML-0442-garage,payment-form-accepted,cash
 park-WML-0442-garage,payment-form-accepted,credit-debit-card
-park-WML-0442-garage,payment-form-accepted,mobile-app
 park-WML-0442-lot,attended,2
 park-WML-0442-lot,capacity,124
 park-WML-0442-lot,capacity-accessible,8
