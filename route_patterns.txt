@@ -1,12 +1,8 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id,canonical_route_pattern
 Red-3-0,Red,0,Alewife - Braintree,,1,100100000,canonical-Red-C1-0,1
 Red-1-0,Red,0,Alewife - Ashmont,,1,100100001,canonical-Red-C2-0,1
-Red-3-0_70095_70097_0,Red,0,Alewife - JFK/UMass,,4,100100990,57599505-20:45-JFKNorthQuincySuspend0,2
-Red-3-0_70095_70097_2,Red,0,North Quincy - Braintree,,4,100100990,57599505-20:45-JFKNorthQuincySuspend2,2
 Red-3-1,Red,1,Braintree - Alewife,,1,100101000,canonical-Red-C1-1,1
 Red-1-1,Red,1,Ashmont - Alewife,,1,100101001,canonical-Red-C2-1,1
-Red-3-1_70098_70096_0,Red,1,Braintree - North Quincy,,4,100101990,57599395-20:45-JFKNorthQuincySuspend0,2
-Red-3-1_70098_70096_2,Red,1,JFK/UMass - Alewife,,4,100101990,57599395-20:45-JFKNorthQuincySuspend2,2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,100110000,canonical-Mattapan-C1-0,1
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,100111000,canonical-Mattapan-C1-1,1
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,100200000,canonical-Orange-C1-0,1
@@ -107,9 +103,7 @@ CR-Franklin-9e25d8c4-1,CR-Franklin,1,Foxboro - South Station,,3,200041110,CR-598
 CR-Franklin-C1-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,5,200041991,canonical-CR-Franklin-C1-1,1
 CR-Franklin-C2-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,5,200041992,canonical-CR-Franklin-C2-1,1
 CR-Greenbush-6d652c57-0,CR-Greenbush,0,South Station - Greenbush,,1,200050000,canonical-CR-Greenbush-C1-0,1
-CR-Greenbush-a804aeeb-0,CR-Greenbush,0,Braintree - Greenbush,,3,200050040,CR-612509-093-GRBBrainSouthExtend2,2
 CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,200051000,canonical-CR-Greenbush-C1-1,1
-CR-Greenbush-132de23b-1,CR-Greenbush,1,Greenbush - Braintree,,3,200051040,CR-612501-092-GRBBrainSouthExtend0,2
 CR-Haverhill-779dede9-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,200060000,canonical-CR-Haverhill-C1-0,1
 CR-Haverhill-0afec960-0,CR-Haverhill,0,North Station - Reading,,2,200060030,CR-597870-291,2
 CR-Haverhill-5b586e27-0,CR-Haverhill,0,North Station - Haverhill,,3,200060040,CR-597969-217,2
@@ -117,17 +111,15 @@ CR-Haverhill-ebc58735-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,
 CR-Haverhill-0629a9bc-1,CR-Haverhill,1,Reading - North Station,,2,200061030,CR-597871-294,2
 CR-Haverhill-6984317f-1,CR-Haverhill,1,Haverhill - North Station,,3,200061050,CR-597974-218,2
 CR-Kingston-5caee635-0,CR-Kingston,0,South Station - Kingston,,1,200070000,canonical-CR-Kingston-C1-0,1
-CR-Kingston-7014db43-0,CR-Kingston,0,Braintree - Kingston,,3,200070030,CR-612505-063-KNGBrainSouthExtend2,2
+CR-Kingston-7014db43-0,CR-Kingston,0,Braintree - Kingston,,3,200070030,CR-595456-065,2
 CR-Kingston-6cec404d-1,CR-Kingston,1,Kingston - South Station,,1,200071000,canonical-CR-Kingston-C1-1,1
-CR-Kingston-35bb26b3-1,CR-Kingston,1,Kingston - Braintree,,3,200071030,CR-612498-060-KNGBrainSouthExtend0,2
+CR-Kingston-35bb26b3-1,CR-Kingston,1,Kingston - Braintree,,3,200071030,CR-598256-064,2
 CR-Lowell-90161884-0,CR-Lowell,0,North Station - Lowell,,1,200080000,CR-594893-329,2
 CR-Lowell-C1-0,CR-Lowell,0,North Station - Lowell,,5,200080991,canonical-CR-Lowell-C1-0,1
 CR-Lowell-5cb1ce1b-1,CR-Lowell,1,Lowell - North Station,,1,200081000,CR-594981-306,2
 CR-Lowell-C1-1,CR-Lowell,1,Lowell - North Station,,5,200081991,canonical-CR-Lowell-C1-1,1
 CR-Middleborough-52b80476-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,200090000,canonical-CR-Middleborough-C1-0,1
-CR-Middleborough-92c25d3b-0,CR-Middleborough,0,Braintree - Middleborough/Lakeville,,3,200090030,CR-612493-031-MDLBrainSouthExtend2,2
 CR-Middleborough-75bed2bb-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,200091000,canonical-CR-Middleborough-C1-1,1
-CR-Middleborough-bb403e6b-1,CR-Middleborough,1,Middleborough/Lakeville - Braintree,,3,200091030,CR-612496-028-MDLBrainSouthExtend0,2
 CR-Needham-69669b59-0,CR-Needham,0,South Station - Needham Heights,,1,200100000,CR-595518-629,2
 CR-Needham-a6552e0a-0,CR-Needham,0,South Station - Needham Heights,,2,200100020,CR-595543-627,2
 CR-Needham-7f6dbefb-0,CR-Needham,0,Forest Hills - Needham Heights,,3,200100050,CR-595601-633,2
@@ -287,10 +279,8 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 28-2-1,28,1,Mattapan Station - Nubian Station,Early mornings only,3,502801040,57346138,0
 29-1-0,29,0,Jackson Square Station - Mattapan Station via Franklin Field,Weekdays only,1,502900000,57591205,0
 29-5-0,29,0,Jackson Square Station - Mattapan Station,,1,502900020,57591219,0
-29-_-0,29,0,Ruggles Station - Mattapan Station,,3,502900060,55805666,0
 29-1-1,29,1,Mattapan Station - Jackson Square Station via Franklin Field,Weekdays only,1,502901000,57591196,0
 29-5-1,29,1,Mattapan Station - Jackson Square Station,,1,502901020,57591213,0
-29-_-1,29,1,Mattapan Station - Ruggles Station,Evenings only,3,502901060,55805665,0
 30-2-0,30,0,Forest Hills Station - Mattapan Station,,1,503000000,57591891,0
 30-2-1,30,1,Mattapan Station - Forest Hills Station,,1,503001000,57591923,0
 31-_-0,31,0,Forest Hills Station - Mattapan Station,,1,503100000,57592010,0
@@ -544,13 +534,11 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 134-5-0,134,0,Wellington Station - North Woburn,,2,513400050,57560605,0
 134-2-0,134,0,Wellington - North Woburn via Trade Ctr & Veterans Ctr,Weekday middays only,2,513400090,57560626,0
 134-9-0,134,0,Wellington Station - Woburn Square,Sundays only,3,513400110,57373252,0
-134-7-0,134,0,Wellington Station - Medford Square,,3,513400140,56004125,0
 134-3-1,134,1,North Woburn - Wellington Station via Trade Center,Weekdays only,1,513401000,57560524,0
 134-6-1,134,1,Winthrop St & Playstead Rd - Wellington Station,,2,513401020,57568919,0
 134-5-1,134,1,North Woburn - Wellington Station,,2,513401050,57560522,0
 134-2-1,134,1,North Woburn - Wellington via Trade Ctr & Veterans Ctr,Weekday middays only,3,513401090,57560528,0
 134-9-1,134,1,Woburn Square - Wellington Station,Sundays only,3,513401110,57373245,0
-134-7-1,134,1,Medford Square - Wellington Station,,3,513401140,56004126,0
 137-7-0,137,0,Malden Center - Lincoln St @ Reading Depot,,1,513700000,57560476,0
 137-6-0,137,0,Oak Grove Busway - Lincoln St @ Reading Depot,Weekdays only,1,513700040,57560539,0
 137-4-0,137,0,Malden Center - Main St @ Water St,,3,513700070,57371523,0
@@ -754,9 +742,5 @@ Shuttle-BackBayBostonUniversityEast-0-0,Shuttle-BackBayBostonUniversityEast,0,Ba
 Shuttle-BackBayBostonUniversityEast-0-1,Shuttle-BackBayBostonUniversityEast,1,Boston University East - Back Bay,,4,604901990,Green-SummerBUMaryBay-Saturday-B-1-05:12:00,0
 Shuttle-BackBayStMarys-0-0,Shuttle-BackBayStMarys,0,Back Bay - Saint Mary's Street,,4,606200990,Green-SummerBUMaryBay-Saturday-C-0-05:15:00,0
 Shuttle-BackBayStMarys-0-1,Shuttle-BackBayStMarys,1,Saint Mary's Street - Back Bay,,4,606201990,Green-SummerBUMaryBay-Saturday-C-1-05:07:30,0
-Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,South Station - Braintree (Express),,4,610100990,CR-612493-031-MDLBrainSouthExtendB1,0
-Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,4,610101990,CR-612496-028-MDLBrainSouthExtendB1,0
-Shuttle-JFKNorthQuincy-0-0,Shuttle-JFKNorthQuincy,0,JFK/UMass - North Quincy,,4,619950990,Red-SummerJFKNorthQuincy-Weekday-0-20:45:00,0
-Shuttle-JFKNorthQuincy-0-1,Shuttle-JFKNorthQuincy,1,North Quincy - JFK/UMass,,4,619951990,Red-SummerJFKNorthQuincy-Weekday-1-20:45:00,0
 Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,4,620530990,CR-NewburyportLynnShuttleSummer-Weekday-0-05:08:00,0
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,4,620531990,CR-NewburyportLynnShuttleSummer-Weekday-1-05:31:00,0
