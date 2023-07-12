@@ -6,7 +6,7 @@ Green-B,1,B,Green Line B,Rapid Transit,0,https://www.mbta.com/schedules/Green-B,
 Green-C,1,C,Green Line C,Rapid Transit,0,https://www.mbta.com/schedules/Green-C,00843D,FFFFFF,10033,Rapid Transit,line-Green,,rapid_transit
 Green-D,1,D,Green Line D,Rapid Transit,0,https://www.mbta.com/schedules/Green-D,00843D,FFFFFF,10034,Rapid Transit,line-Green,,rapid_transit
 Green-E,1,E,Green Line E,Rapid Transit,0,https://www.mbta.com/schedules/Green-E,00843D,FFFFFF,10035,Rapid Transit,line-Green,,rapid_transit
-Blue,1,,Blue Line,Rapid Transit,1,https://www.mbta.com/schedules/Blue,003DA5,000000,10040,Free,line-Blue,,rapid_transit
+Blue,1,,Blue Line,Rapid Transit,1,https://www.mbta.com/schedules/Blue,003DA5,FFFFFF,10040,Free,line-Blue,,rapid_transit
 741,1,SL1,Logan Airport Terminals - South Station,Key Bus,3,https://www.mbta.com/schedules/741,7C878E,FFFFFF,10051,Rapid Transit,line-SLWaterfront,,sl_rapid_transit
 742,1,SL2,Drydock Avenue - South Station,Key Bus,3,https://www.mbta.com/schedules/742,7C878E,FFFFFF,10052,Rapid Transit,line-SLWaterfront,,sl_rapid_transit
 743,1,SL3,Chelsea Station - South Station,Key Bus,3,https://www.mbta.com/schedules/743,7C878E,FFFFFF,10053,Rapid Transit,line-SLWaterfront,,sl_rapid_transit
@@ -185,6 +185,7 @@ Boat-F6,1,,Winthrop Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F6,008EAA,
 716,1,716,Cobbs Corner - Mattapan Station,Local Bus,3,https://www.mbta.com/schedules/716,FFC72C,000000,57160,Local Bus,line-716,,local_bus_restricted
 Shuttle-BackBayBostonUniversityEast,1,Green Line B Shuttle,Boston University East - Back Bay,Rail Replacement Bus,3,,FFC72C,000000,60490,Free,line-Green,1,rail_replacement_bus
 Shuttle-BackBayStMarys,1,Green Line C Shuttle,Saint Mary's Street - Back Bay,Rail Replacement Bus,3,,FFC72C,000000,60620,Free,line-Green,1,rail_replacement_bus
+Shuttle-BostonCollegeKenmore,1,Green Line B Shuttle,Boston College - Kenmore,Rail Replacement Bus,3,,FFC72C,000000,60790,Free,line-Green,1,rail_replacement_bus
 Shuttle-Generic,1,Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61910,Free,,1,rail_replacement_bus
 Shuttle-Generic-Blue,1,Blue Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61911,Free,line-Blue,1,rail_replacement_bus
 Shuttle-Generic-CommuterRail,1,Commuter Rail Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61912,Free,,1,rail_replacement_bus
