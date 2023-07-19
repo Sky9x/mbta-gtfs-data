@@ -6467,7 +6467,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9069,9069,Salem St @ Revere St,,,,42.437257,-71.025457,LocalBus,,https://www.mbta.com/stops/9069,,0,,1,Malden,Salem Street,Revere Street,3
 907,907,Tremont St @ Pembroke St,,,,42.352946,-71.176810,LocalBus,,https://www.mbta.com/stops/907,,0,,1,Newton,Tremont Street,Playstead Road,3
 9070,9070,Salem St @ Lynn St,,,,42.436065,-71.021736,LocalBus,,https://www.mbta.com/stops/9070,,0,,1,Malden,Salem Street,Lynn Street,3
-9070101,9070101,Quincy Center - 1259 Hancock St,Quincy Center - Red Line Braintree Suttle - 1259 Hancock St,,Braintree Shuttle,42.251786,-71.003876,LocalBus,,https://www.mbta.com/stops/9070101,,0,,1,Quincy,Hancock Street,,3
 9070107,9070107,Boston College - Commonwealth Ave @ Lake St,Boston College - Green Line Shuttle - Commonwealth Ave @ Lake St,,Green Line Shuttle,42.340070,-71.166492,LocalBus,,https://www.mbta.com/stops/9070107,,0,,1,Boston,Commonwealth Avenue,Lake Street,3
 9070110,9070110,South Street - Commonwealth Ave opp South St,South Street - Green Line Park Street & North Shuttle - Commonwealth Ave opp South St,,Park Street & North Shuttle,42.339477,-71.157805,LocalBus,,https://www.mbta.com/stops/9070110,,0,,1,Boston,Commonwealth Avenue,South Street,3
 9070111,9070111,South Street - Commonwealth Ave @ South St,South Street - Green Line Boston College Shuttle,,Boston College Shuttle - Commonwealth Ave opp South St,42.339669,-71.157486,LocalBus,,https://www.mbta.com/stops/9070111,,0,,1,Boston,Commonwealth Avenue,South Street,3
@@ -7755,9 +7754,9 @@ door-cenav-mattapan,,"Central Avenue - Central Ave (North), Neponset Trail","Cen
 place-chels,,Chelsea,,,,42.397024,-71.041314,CR-zone-1A,"174 Everett Ave, Chelsea, MA 02150",https://www.mbta.com/stops/place-chels,,1,,1,Chelsea,,,
 74630,74630,Chelsea,Chelsea - Silver Line - SL3 South Station,,South Station,42.396661,-71.040290,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-chels,level_ground,0,place-chels,1,Chelsea,Chelsea Busway,,3
 74631,74631,Chelsea,Chelsea - Silver Line - Exit Only,,Exit Only,42.396820,-71.040437,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-chels,level_ground,0,place-chels,1,Chelsea,Chelsea Busway,,3
+ER-0042,,Chelsea,Chelsea - Commuter Rail,,Commuter Rail,42.397222,-71.042290,CR-zone-1A,,https://www.mbta.com/stops/place-chels,level_0_cr_platform,0,place-chels,1,Chelsea,,,2
 ER-0042-01,,Chelsea,Chelsea - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.397222,-71.042290,CR-zone-1A,,https://www.mbta.com/stops/place-chels,level_0_cr_platform,0,place-chels,1,Chelsea,,,2
 ER-0042-02,,Chelsea,Chelsea - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.397336,-71.042409,CR-zone-1A,,https://www.mbta.com/stops/place-chels,level_0_cr_platform,0,place-chels,1,Chelsea,,,2
-ER-0046,,Chelsea,Chelsea - Commuter Rail,,Commuter Rail,42.397222,-71.042290,CR-zone-1A,,https://www.mbta.com/stops/place-chels,level_0_cr_platform,0,place-chels,1,Chelsea,,,2
 door-chels-crnorthever,,"Chelsea - Everett Ave, Silver Line - SL3","Chelsea - Everett Ave, Silver Line - SL3",,,42.396899,-71.040150,,,,level_in_street,2,place-chels,1,Chelsea,,,
 door-chels-crnorththird,,Chelsea - Third St,Chelsea - Third St,,,42.397823,-71.044761,,,,level_in_street,2,place-chels,1,Chelsea,,,
 door-chels-croutthird,,Chelsea - Third St,Chelsea - Third St,,,42.397676,-71.044660,,,,level_in_street,2,place-chels,1,Chelsea,,,
@@ -9509,7 +9508,8 @@ place-unsqu,,Union Square,,,,42.377359,-71.094761,,"50 Prospect St, Somerville, 
 70503,70503,Union Square,Union Square - Green Line - Copley & West,,Copley & West,42.377024,-71.093964,RapidTransit,,https://www.mbta.com/stops/place-unsqu,level_ground,0,place-unsqu,1,Somerville,,,0
 70504,70504,Union Square,Union Square - Green Line - Copley & West,,Copley & West,42.376990,-71.093993,RapidTransit,,https://www.mbta.com/stops/place-unsqu,level_ground,0,place-unsqu,1,Somerville,,,0
 door-unsqu-allen,,Union Square - Allen St,Union Square - Allen St,,,42.376841,-71.093356,,,,level_in_street,2,place-unsqu,1,Somerville,,,
-door-unsqu-elevator,,Union Square - Prospect St,Union Square - Prospect St,,,42.377612,-71.095045,,,,level_1_in_street,2,place-unsqu,1,Somerville,,,
+door-unsqu-elevator,,"Union Square - Prospect St, Webster Ave","Union Square - Prospect St, Webster Ave",,,42.377612,-71.095045,,,,level_1_in_street,2,place-unsqu,1,Somerville,,,
+door-unsqu-somerville,,Union Square - Prospect St,Union Square - Prospect St,,,42.377647,-71.094856,,,,level_in_street,2,place-unsqu,1,Somerville,,,
 node-771-bottom,,Union Square,Union Square - Bottom of Prospect St Elevator 771,,,42.377594,-71.094998,,,,level_ground,3,place-unsqu,1,Somerville,,,
 node-771-top,,Union Square,Union Square - Top of Prospect St Elevator 771,,,42.377604,-71.095025,,,,level_1_in_street,3,place-unsqu,1,Somerville,,,
 node-unsqu-rollupgate,,Union Square,Union Square - Entry/exit gate,,,42.377402,-71.094841,,,,level_ground,3,place-unsqu,1,Somerville,,,
