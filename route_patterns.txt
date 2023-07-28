@@ -1,43 +1,59 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id,canonical_route_pattern
 Red-3-0,Red,0,Alewife - Braintree,,1,100100000,canonical-Red-C1-0,1
 Red-1-0,Red,0,Alewife - Ashmont,,1,100100001,canonical-Red-C2-0,1
-Red-3-0_70101_70105_0,Red,0,Alewife - Quincy Center,,4,100100990,57599964-BraintreeQuincyCenter0,2
+Red-3-0_70095_70097_0,Red,0,Alewife - JFK/UMass,,4,100100990,57599505-20:30-JFKNorthQuincySuspend0,2
+Red-3-0_70095_70097_2,Red,0,North Quincy - Braintree,,4,100100990,57599505-20:30-JFKNorthQuincySuspend2,2
+Red-3-0_70101_70105_0,Red,0,Alewife - Quincy Center,,4,100100990,57599505-20:30-BraintreeQuincyCenter0,2
 Red-3-1,Red,1,Braintree - Alewife,,1,100101000,canonical-Red-C1-1,1
 Red-1-1,Red,1,Ashmont - Alewife,,1,100101001,canonical-Red-C2-1,1
-Red-3-1_70105_70102_2,Red,1,Quincy Center - Alewife,,4,100101990,57599911-BraintreeQuincyCenter2,2
+Red-3-1_70098_70096_0,Red,1,Braintree - North Quincy,,4,100101990,57599395-20:30-JFKNorthQuincySuspend0,2
+Red-3-1_70098_70096_2,Red,1,JFK/UMass - Alewife,,4,100101990,57599395-20:30-JFKNorthQuincySuspend2,2
+Red-3-1_70105_70102_2,Red,1,Quincy Center - Alewife,,4,100101990,57599395-20:30-BraintreeQuincyCenter2,2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,100110000,canonical-Mattapan-C1-0,1
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,100111000,canonical-Mattapan-C1-1,1
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,100200000,canonical-Orange-C1-0,1
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,100201000,canonical-Orange-C1-1,1
 Green-B-812-0,Green-B,0,Government Center - Boston College,,1,100320000,canonical-Green-B-C1-0,1
 Green-B-816-0,Green-B,0,Medford/Tufts - Boston College,Mornings only,3,100320040,57143754,2
-Green-B-812-0_70202_70147_2,Green-B,0,Boston University East - Boston College,,4,100320990,57297969-BUEGovSusEastSomMedfSusFenwayMedSusFenwayUnionSusGovStMarySusHeathESoSus2,2
-Green-B-816-0_70202_70147_2,Green-B,0,Boston University East - Boston College,,4,100320990,57298014-BUEGovSusEastSomMedfSusFenwayMedSusFenwayUnionSusGovStMarySusHeathESoSus2,2
+Green-B-812-0_70202_70196_2,Green-B,0,Park Street - Boston College,,4,100320990,57143656-EastSomGovtSuspEastSomMedfSusGovtCtrParkStGovtMedSuspendDGovtUnSqSuspendD2,2
+Green-B-816-0_70512_70202_2_70202_70196_2,Green-B,0,Park Street - Boston College,,4,100320990,57143754-EastSomGovtSuspEastSomMedfSusGovtCtrParkStGovtMedSuspendDGovtUnSqSuspendD22,2
 Green-B-812-1,Green-B,1,Boston College - Government Center,,1,100321000,canonical-Green-B-C1-1,1
 Green-B-816-1,Green-B,1,Boston College - Medford/Tufts,Early mornings only,3,100321040,57143663,2
-Green-B-812-1_70146_70201_0,Green-B,1,Boston College - Boston University East,,4,100321990,57297968-BUEGovSusEastSomMedfSusFenwayMedSusFenwayUnionSusGovStMarySusHeathESoSus0,2
-Green-B-816-1_70146_70201_0,Green-B,1,Boston College - Boston University East,,4,100321990,57298001-BUEGovSusEastSomMedfSusFenwayMedSusFenwayUnionSusGovStMarySusHeathESoSus0,2
+Green-B-812-1_70200_70201_0,Green-B,1,Boston College - Park Street,,4,100321990,57143655-EastSomGovtSuspEastSomMedfSusGovtCtrParkStGovtMedSuspendDGovtUnSqSuspendD0,2
+Green-B-816-1_70201_70511_0_70200_70201_0,Green-B,1,Boston College - Park Street,,4,100321990,57143663-EastSomGovtSuspEastSomMedfSusGovtCtrParkStGovtMedSuspendDGovtUnSqSuspendD00,2
 Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,100330000,canonical-Green-C-C1-0,1
 Green-C-836-0,Green-C,0,Medford/Tufts - Cleveland Circle,Mornings only,3,100330040,57143736,2
-Green-C-832-0_70202_70211_2,Green-C,0,Saint Mary's Street - Cleveland Circle,,4,100330990,57297967-BUEGovSusEastSomMedfSusFenwayMedSusFenwayUnionSusGovStMarySusHeathESoSus2,2
-Green-C-836-0_70202_70211_2,Green-C,0,Saint Mary's Street - Cleveland Circle,,4,100330990,57297988-BUEGovSusEastSomMedfSusFenwayMedSusFenwayUnionSusGovStMarySusHeathESoSus2,2
+Green-C-832-0_70202_70197_2,Green-C,0,Park Street - Cleveland Circle,,4,100330990,57143730-EastSomGovtSuspEastSomMedfSusGovtCtrParkStGovtMedSuspendDGovtUnSqSuspendD2,2
+Green-C-836-0_70512_70202_2_70202_70197_2,Green-C,0,Park Street - Cleveland Circle,,4,100330990,57143736-EastSomGovtSuspEastSomMedfSusGovtCtrParkStGovtMedSuspendDGovtUnSqSuspendD22,2
 Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,100331000,canonical-Green-C-C1-1,1
 Green-C-836-1,Green-C,1,Cleveland Circle - Medford/Tufts,Early mornings only,3,100331040,57143737,2
-Green-C-832-1_70212_70201_0,Green-C,1,Cleveland Circle - Saint Mary's Street,,4,100331990,57297965-BUEGovSusEastSomMedfSusFenwayMedSusFenwayUnionSusGovStMarySusHeathESoSus0,2
-Green-C-836-1_70212_70201_0,Green-C,1,Cleveland Circle - Saint Mary's Street,,4,100331990,57297977-BUEGovSusEastSomMedfSusFenwayMedSusFenwayUnionSusGovStMarySusHeathESoSus0,2
+Green-C-832-1_70200_70201_0,Green-C,1,Cleveland Circle - Park Street,,4,100331990,57143731-EastSomGovtSuspEastSomMedfSusGovtCtrParkStGovtMedSuspendDGovtUnSqSuspendD0,2
+Green-C-836-1_70201_70511_0_70200_70201_0,Green-C,1,Cleveland Circle - Park Street,,4,100331990,57143737-EastSomGovtSuspEastSomMedfSusGovtCtrParkStGovtMedSuspendDGovtUnSqSuspendD00,2
 Green-D-855-0,Green-D,0,Union Square - Riverside,,1,100340000,canonical-Green-D-C1-0,1
 Green-D-856-0,Green-D,0,Medford/Tufts - Riverside,Weekday mornings only,3,100340040,57144585,2
-Green-D-855-0_70504_70187_2,Green-D,0,Fenway - Riverside,,4,100340990,57298179-BUEGovSusEastSomMedfSusFenwayMedSusFenwayUnionSusGovStMarySusHeathESoSus2,2
-Green-D-NorthStaUnionSq-0,Green-D,0,Union Square - North Station,,4,100340990,Green-SummerGLXNorthSta-Saturday-D-0-04:46:00,2
+Green-D-855-0_70206_70202_0,Green-D,0,Union Square - North Station,,4,100340990,57298179-GovtCtrNorthStaGovtCtrParkStGovtMedSuspendD0,2
+Green-D-855-0_70206_70202_2,Green-D,0,Government Center - Riverside,,4,100340990,57298179-GovtCtrNorthStaGovtCtrParkStGovtMedSuspendD2,2
+Green-D-855-0_70504_70202_2,Green-D,0,Government Center - Riverside,,4,100340990,57144570-EastSomGovtSuspEastSomMedfSusGovtCtrParkStGovtMedSuspendDGovtUnSqSuspendD2,2
+Green-D-856-0_70512_70202_2,Green-D,0,Government Center - Riverside,,4,100340990,57144585-EastSomGovtSuspEastSomMedfSusGovtCtrParkStGovtMedSuspendDGovtUnSqSuspendD2,2
+Green-D-NorthStaUnionSq-0,Green-D,0,Union Square - North Station,,4,100340990,Green-SummerGLXNorthSta-WeekdayNorth-D-0-04:45:00,2
 Green-D-855-1,Green-D,1,Riverside - Union Square,,1,100341000,canonical-Green-D-C1-1,1
 Green-D-856-1,Green-D,1,Riverside - Medford/Tufts,Weekday early mornings only,3,100341040,57144584,2
-Green-D-855-1_70186_70503_0,Green-D,1,Riverside - Fenway,,4,100341990,57297970-BUEGovSusEastSomMedfSusFenwayMedSusFenwayUnionSusGovStMarySusHeathESoSus0,2
-Green-D-NorthStaUnionSq-1,Green-D,1,North Station - Union Square,,4,100341990,Green-SummerGLXNorthSta-Saturday-D-1-04:59:00,2
+Green-D-855-1_70201_70205_0,Green-D,1,Riverside - Government Center,,4,100341990,57297970-GovtCtrNorthStaGovtCtrParkStGovtMedSuspendD0,2
+Green-D-855-1_70201_70205_2,Green-D,1,North Station - Union Square,,4,100341990,57297970-GovtCtrNorthStaGovtCtrParkStGovtMedSuspendD2,2
+Green-D-855-1_70201_70503_0,Green-D,1,Riverside - Government Center,,4,100341990,57144569-EastSomGovtSuspEastSomMedfSusGovtCtrParkStGovtMedSuspendDGovtUnSqSuspendD0,2
+Green-D-856-1_70201_70511_0,Green-D,1,Riverside - Government Center,,4,100341990,57144584-EastSomGovtSuspEastSomMedfSusGovtCtrParkStGovtMedSuspendDGovtUnSqSuspendD0,2
+Green-D-NorthStaUnionSq-1,Green-D,1,North Station - Union Square,,4,100341990,Green-SummerGLXNorthSta-WeekdayNorth-D-1-05:00:00,2
 Green-E-886-0,Green-E,0,Medford/Tufts - Heath Street,,1,100350000,canonical-Green-E-C1-0,1
-Green-E-NorthStaMedford-0,Green-E,0,Medford/Tufts - North Station,,4,100350990,Green-SummerGLXNorthSta-Saturday-E-0-04:45:00,2
+Green-E-886-0_70206_70202_0,Green-E,0,Medford/Tufts - North Station,,4,100350990,57298935-GovtCtrNorthStaGovtCtrParkStGovtMedSuspendD0,2
+Green-E-886-0_70206_70202_2,Green-E,0,Government Center - Heath Street,,4,100350990,57298935-GovtCtrNorthStaGovtCtrParkStGovtMedSuspendD2,2
+Green-E-886-0_70512_70514_2_70514_70202_2,Green-E,0,Government Center - Heath Street,,4,100350990,57143827-EastSomGovtSuspEastSomMedfSusGovtCtrParkStGovtMedSuspendDGovtUnSqSuspendD22,2
+Green-E-NorthStaMedford-0,Green-E,0,Medford/Tufts - North Station,,4,100350990,Green-SummerGLXNorthSta-WeekdayNorth-E-0-04:48:00,2
 Green-E-886-1,Green-E,1,Heath Street - Medford/Tufts,,1,100351000,canonical-Green-E-C1-1,1
 Green-E-86-1,Green-E,1,East Somerville - Medford/Tufts,,3,100351040,57144518,2
-Green-E-NorthStaMedford-1,Green-E,1,North Station - Medford/Tufts,,4,100351990,Green-SummerGLXNorthSta-Saturday-E-1-05:09:00,2
+Green-E-886-1_70201_70205_0,Green-E,1,Heath Street - Government Center,,4,100351990,57298936-GovtCtrNorthStaGovtCtrParkStGovtMedSuspendD0,2
+Green-E-886-1_70201_70205_2,Green-E,1,North Station - Medford/Tufts,,4,100351990,57298936-GovtCtrNorthStaGovtCtrParkStGovtMedSuspendD2,2
+Green-E-886-1_70513_70511_0_70201_70513_0,Green-E,1,Heath Street - Government Center,,4,100351990,57143752-EastSomGovtSuspEastSomMedfSusGovtCtrParkStGovtMedSuspendDGovtUnSqSuspendD00,2
+Green-E-NorthStaMedford-1,Green-E,1,North Station - Medford/Tufts,,4,100351990,Green-SummerGLXNorthSta-WeekdayNorth-E-1-05:10:00,2
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,100400000,canonical-Blue-C1-0,1
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,100400040,57645519,2
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,100401000,canonical-Blue-C1-1,1
@@ -100,7 +116,11 @@ CR-Franklin-9e25d8c4-1,CR-Franklin,1,Foxboro - South Station,,3,200041110,CR-598
 CR-Franklin-C1-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,5,200041991,canonical-CR-Franklin-C1-1,1
 CR-Franklin-C2-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,5,200041992,canonical-CR-Franklin-C2-1,1
 CR-Greenbush-6d652c57-0,CR-Greenbush,0,South Station - Greenbush,,1,200050000,canonical-CR-Greenbush-C1-0,1
+CR-Greenbush-a804aeeb-0,CR-Greenbush,0,Braintree - Greenbush,,3,200050040,CR-612509-093-GRBBrainSouthExtend2,2
+CR-Greenbush-BraintreeGreenbush-0,CR-Greenbush,0,Braintree - Greenbush,,4,200050990,CR-598466-1071-GRBBrainSouthTrackDynamic-12,2
 CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,200051000,canonical-CR-Greenbush-C1-1,1
+CR-Greenbush-132de23b-1,CR-Greenbush,1,Greenbush - Braintree,,3,200051040,CR-612501-092-GRBBrainSouthExtend0,2
+CR-Greenbush-BraintreeGreenbush-1,CR-Greenbush,1,Greenbush - Braintree,,4,200051990,CR-595854-1070-GRBBrainSouthTrackDynamic-10,2
 CR-Haverhill-779dede9-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,200060000,canonical-CR-Haverhill-C1-0,1
 CR-Haverhill-0afec960-0,CR-Haverhill,0,North Station - Reading,,2,200060030,CR-597870-291,2
 CR-Haverhill-5b586e27-0,CR-Haverhill,0,North Station - Haverhill,,3,200060040,CR-597969-217,2
@@ -112,11 +132,15 @@ CR-Kingston-7014db43-0,CR-Kingston,0,Braintree - Kingston,,3,200070030,CR-595456
 CR-Kingston-6cec404d-1,CR-Kingston,1,Kingston - South Station,,1,200071000,canonical-CR-Kingston-C1-1,1
 CR-Kingston-35bb26b3-1,CR-Kingston,1,Kingston - Braintree,,3,200071030,CR-598256-064,2
 CR-Lowell-90161884-0,CR-Lowell,0,North Station - Lowell,,1,200080000,CR-594893-329,2
+CR-Lowell-a4f0136b-0,CR-Lowell,0,North Station - Wilmington,,3,200080030,CR-605620-1317-LowellWilmingtonExtended0,2
 CR-Lowell-C1-0,CR-Lowell,0,North Station - Lowell,,5,200080991,canonical-CR-Lowell-C1-0,1
 CR-Lowell-5cb1ce1b-1,CR-Lowell,1,Lowell - North Station,,1,200081000,CR-594981-306,2
+CR-Lowell-6b4f3960-1,CR-Lowell,1,Wilmington - North Station,,3,200081030,CR-605617-1300-LowellWilmingtonExtended2,2
 CR-Lowell-C1-1,CR-Lowell,1,Lowell - North Station,,5,200081991,canonical-CR-Lowell-C1-1,1
 CR-Middleborough-52b80476-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,200090000,canonical-CR-Middleborough-C1-0,1
+CR-Middleborough-92c25d3b-0,CR-Middleborough,0,Braintree - Middleborough/Lakeville,,3,200090030,CR-612493-031-MDLBrainSouthExtend2,2
 CR-Middleborough-75bed2bb-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,200091000,canonical-CR-Middleborough-C1-1,1
+CR-Middleborough-bb403e6b-1,CR-Middleborough,1,Middleborough/Lakeville - Braintree,,3,200091030,CR-612496-028-MDLBrainSouthExtend0,2
 CR-Needham-69669b59-0,CR-Needham,0,South Station - Needham Heights,,1,200100000,CR-595518-629,2
 CR-Needham-a6552e0a-0,CR-Needham,0,South Station - Needham Heights,,2,200100020,CR-595543-627,2
 CR-Needham-7f6dbefb-0,CR-Needham,0,Forest Hills - Needham Heights,,3,200100050,CR-595601-633,2
@@ -164,7 +188,7 @@ CR-Providence-b469315c-1,CR-Providence,1,Providence - South Station,,3,200121100
 CR-Providence-53ce6838-1,CR-Providence,1,Wickford Junction - South Station,,3,200121110,CR-595737-836,2
 CR-Providence-C1-1,CR-Providence,1,Wickford Junction - South Station,,5,200121991,canonical-CR-Providence-C1-1,1
 CR-Providence-C2-1,CR-Providence,1,Stoughton - South Station,,5,200121992,canonical-CR-Providence-C2-1,1
-CR-Foxboro-71c5586e-0,CR-Foxboro,0,South Station - Foxboro,,1,200130000,CR-608329-9743-LC,2
+CR-Foxboro-71c5586e-0,CR-Foxboro,0,South Station - Foxboro,,1,200130000,CR-615654-9767,2
 CR-Foxboro-C1-0,CR-Foxboro,0,South Station - Foxboro,,5,200130991,canonical-CR-Foxboro-C1-0,1
 CR-Foxboro-C2-0,CR-Foxboro,0,Foxboro - Providence,,5,200130992,canonical-CR-Foxboro-C2-0,1
 CR-Foxboro-19217ef9-1,CR-Foxboro,1,Providence - Foxboro,,1,200131000,CR-608328-9880-LC,2
@@ -351,8 +375,8 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 52-4-0,52,0,Watertown - Charles River Loop via Meadowbrook Rd,AM peak hours only,2,505200030,57592149,0
 52-5-1,52,1,Dedham Mall - Watertown via Meadowbrook Rd,Weekdays only,1,505201000,57592142,0
 52-4-1,52,1,Charles River Loop - Watertown via Meadowbrook Rd,Weekdays only,2,505201020,57592150,0
-55-_-0,55,0,Copley Square - Jersey St & Queensberry St,Middays only,1,505500000,57346651,0
-55-_-1,55,1,Jersey St & Queensberry St - Copley Square,,1,505501000,57345930,0
+55-_-0,55,0,Copley Square - Fenway,Middays only,1,505500000,57346651,0
+55-_-1,55,1,Fenway - Copley Square,,1,505501000,57345930,0
 57-_-0,57,0,Kenmore Station - Watertown Yard,,1,505700000,57350494,0
 57-M-0,57,0,Haymarket Station - Watertown Yard (Detour),Early mornings only,3,505700040,57350730,0
 57-_-1,57,1,Watertown Yard - Kenmore Station,,1,505701000,57350507,0
@@ -735,13 +759,17 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 716-1-0,716,0,Mattapan Station - Cobbs Corner (Omits Royall St),Saturdays only,2,571600030,57554631,0
 716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,571601000,57554614,0
 716-1-1,716,1,Cobbs Corner - Mattapan Station (Omits Royall St),Saturdays only,2,571601030,57554636,0
-Shuttle-BackBayBostonUniversityEast-0-0,Shuttle-BackBayBostonUniversityEast,0,Back Bay - Boston University East,,4,604900990,Green-SummerBUMaryBay-Saturday-B-0-05:15:00,0
-Shuttle-BackBayBostonUniversityEast-0-1,Shuttle-BackBayBostonUniversityEast,1,Boston University East - Back Bay,,4,604901990,Green-SummerBUMaryBay-Saturday-B-1-05:12:00,0
-Shuttle-BackBayStMarys-0-0,Shuttle-BackBayStMarys,0,Back Bay - Saint Mary's Street,,4,606200990,Green-SummerBUMaryBay-Saturday-C-0-05:15:00,0
-Shuttle-BackBayStMarys-0-1,Shuttle-BackBayStMarys,1,Saint Mary's Street - Back Bay,,4,606201990,Green-SummerBUMaryBay-Saturday-C-1-05:07:30,0
 Shuttle-BostonCollegeKenmore-0-0,Shuttle-BostonCollegeKenmore,0,Kenmore - Boston College,,4,607900990,Green-SummerBostonCollegeKenmore-Weekday-0-05:54:00,0
 Shuttle-BostonCollegeKenmore-0-1,Shuttle-BostonCollegeKenmore,1,Boston College - Kenmore,,4,607901990,Green-SummerBostonCollegeKenmore-Weekday-1-05:00:00,0
-Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,4,610000990,57599964-BraintreeQuincyCenter1,0
-Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,4,610001990,57599911-BraintreeQuincyCenter1,0
+Shuttle-BraintreeJFK-0-0,Shuttle-BraintreeJFK,0,JFK/UMass - Braintree,,4,609400990,Red-SummerBraintreeJFK-Weekday-0-20:44:00,0
+Shuttle-BraintreeJFK-0-1,Shuttle-BraintreeJFK,1,Braintree - JFK/UMass,,4,609401990,Red-SummerBraintreeJFK-Weekday-1-20:44:00,0
+Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,4,610000990,57599505-20:30-BraintreeQuincyCenter1,0
+Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,4,610001990,57599395-20:30-BraintreeQuincyCenter1,0
+Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,South Station - Braintree (Express),,4,610100990,CR-612493-031-MDLBrainSouthExtendB1,0
+Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,4,610101990,CR-612496-028-MDLBrainSouthExtendB1,0
+Shuttle-JFKNorthQuincy-0-0,Shuttle-JFKNorthQuincy,0,JFK/UMass - North Quincy,,4,619950990,Red-SummerJFKNorthQuincy-Weekday-0-20:45:00,0
+Shuttle-JFKNorthQuincy-0-1,Shuttle-JFKNorthQuincy,1,North Quincy - JFK/UMass,,4,619951990,Red-SummerJFKNorthQuincy-Weekday-1-20:45:00,0
+Shuttle-LowellWilmington-0-0,Shuttle-LowellWilmington,0,Wilmington - Lowell,,4,620410990,CR-605620-1317-LowellWilmingtonExtendedB1,0
+Shuttle-LowellWilmington-0-1,Shuttle-LowellWilmington,1,Lowell - Wilmington,,4,620411990,CR-605617-1300-LowellWilmingtonExtendedB1,0
 Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,4,620530990,CR-NewburyportLynnShuttleSummer-Weekday-0-05:08:00,0
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,4,620531990,CR-NewburyportLynnShuttleSummer-Weekday-1-05:31:00,0
