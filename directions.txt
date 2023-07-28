@@ -78,7 +78,7 @@ Boat-F6,1,Inbound,Central Wharf
 8,0,Outbound,Harbor Point
 8,1,Inbound,Kenmore Station
 9,0,Outbound,City Point
-9,1,Inbound,Copley Station
+9,1,Inbound,Copley Square
 10,0,Outbound,City Point
 10,1,Inbound,Copley Square
 11,0,Outbound,City Point
@@ -155,8 +155,8 @@ Boat-F6,1,Inbound,Central Wharf
 51,1,Inbound,Forest Hills Station
 52,0,Outbound,Dedham Mall
 52,1,Inbound,Watertown Yard
-55,0,Outbound,Jersey Street & Queensberry Street
-55,1,Inbound,Copley Station
+55,0,Outbound,Fenway
+55,1,Inbound,Copley Square
 57,0,Outbound,Watertown Yard
 57,1,Inbound,Kenmore Station
 59,0,Outbound,Needham Junction
@@ -367,13 +367,17 @@ Boat-F6,1,Inbound,Central Wharf
 714,1,Inbound,"Station Street, Hingham"
 716,0,Outbound,Cobbs Corner
 716,1,Inbound,Mattapan Station
-Shuttle-BackBayBostonUniversityEast,0,West,Boston College
-Shuttle-BackBayBostonUniversityEast,1,East,Government Center
-Shuttle-BackBayStMarys,0,West,Cleveland Circle
-Shuttle-BackBayStMarys,1,East,Government Center
 Shuttle-BostonCollegeKenmore,0,West,Boston College
 Shuttle-BostonCollegeKenmore,1,East,Government Center
+Shuttle-BraintreeJFK,0,South,Braintree
+Shuttle-BraintreeJFK,1,North,Alewife
 Shuttle-BraintreeQuincyCenter,0,South,Braintree
 Shuttle-BraintreeQuincyCenter,1,North,Alewife
+Shuttle-BraintreeSouthStationExpress,0,Outbound,Braintree
+Shuttle-BraintreeSouthStationExpress,1,Inbound,South Station
+Shuttle-JFKNorthQuincy,0,South,Braintree
+Shuttle-JFKNorthQuincy,1,North,Alewife
+Shuttle-LowellWilmington,0,Outbound,Lowell
+Shuttle-LowellWilmington,1,Inbound,North Station
 Shuttle-LynnSwampscott,0,Outbound,Swampscott
 Shuttle-LynnSwampscott,1,Inbound,Lynn
