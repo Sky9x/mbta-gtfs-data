@@ -38,7 +38,7 @@ Boat-F6,1,,Winthrop Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F6,008EAA,
 4,1,4,North Station - Tide Street,Commuter Bus,3,https://www.mbta.com/schedules/4,FFC72C,000000,50040,Local Bus,line-4,,local_bus
 7,1,7,City Point - Otis Street & Summer Street,Local Bus,3,https://www.mbta.com/schedules/7,FFC72C,000000,50070,Local Bus,line-7,,local_bus
 8,1,8,Harbor Point - Kenmore Station,Local Bus,3,https://www.mbta.com/schedules/8,FFC72C,000000,50080,Local Bus,line-8,,local_bus
-9,1,9,City Point - Copley Station,Local Bus,3,https://www.mbta.com/schedules/9,FFC72C,000000,50090,Local Bus,line-9,,local_bus
+9,1,9,City Point - Copley Square,Local Bus,3,https://www.mbta.com/schedules/9,FFC72C,000000,50090,Local Bus,line-9,,local_bus
 10,1,10,City Point - Copley Square,Local Bus,3,https://www.mbta.com/schedules/10,FFC72C,000000,50100,Local Bus,line-10,,local_bus
 11,1,11,City Point - Chauncy Street & Summer Street,Local Bus,3,https://www.mbta.com/schedules/11,FFC72C,000000,50110,Local Bus,line-11,,local_bus
 14,1,14,Roslindale Square - Heath Street,Local Bus,3,https://www.mbta.com/schedules/14,FFC72C,000000,50140,Local Bus,line-14,,local_bus
@@ -77,7 +77,7 @@ Boat-F6,1,,Winthrop Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F6,008EAA,
 50,1,50,Cleary Square - Forest Hills Station,Local Bus,3,https://www.mbta.com/schedules/50,FFC72C,000000,50500,Local Bus,line-4050,,local_bus
 51,1,51,Reservoir Station - Forest Hills Station,Local Bus,3,https://www.mbta.com/schedules/51,FFC72C,000000,50510,Local Bus,line-51,,local_bus
 52,1,52,Dedham Mall - Watertown Yard,Local Bus,3,https://www.mbta.com/schedules/52,FFC72C,000000,50520,Local Bus,line-5259,,local_bus
-55,1,55,Jersey Street & Queensberry Street - Copley Station,Local Bus,3,https://www.mbta.com/schedules/55,FFC72C,000000,50550,Local Bus,line-55,,local_bus
+55,1,55,Fenway - Copley Square,Local Bus,3,https://www.mbta.com/schedules/55,FFC72C,000000,50550,Local Bus,line-55,,local_bus
 57,1,57,Watertown Yard - Kenmore Station,Key Bus,3,https://www.mbta.com/schedules/57,FFC72C,000000,50570,Local Bus,line-5757A,,local_bus
 59,1,59,Needham Junction - Watertown Square,Local Bus,3,https://www.mbta.com/schedules/59,FFC72C,000000,50590,Local Bus,line-5259,,local_bus
 60,1,60,Chestnut Hill - Kenmore Station,Local Bus,3,https://www.mbta.com/schedules/60,FFC72C,000000,50600,Local Bus,line-6065,,local_bus
@@ -183,10 +183,10 @@ Boat-F6,1,,Winthrop Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F6,008EAA,
 713,1,713,Point Shirley - Orient Heights Station via Winthrop Center,Local Bus,3,https://www.mbta.com/schedules/713,FFC72C,000000,57130,Local Bus,line-712713,,local_bus
 714,1,714,"Pemberton Point, Hull - Station Street, Hingham",Local Bus,3,https://www.mbta.com/schedules/714,FFC72C,000000,57140,Local Bus,line-714,,local_bus_restricted
 716,1,716,Cobbs Corner - Mattapan Station,Local Bus,3,https://www.mbta.com/schedules/716,FFC72C,000000,57160,Local Bus,line-716,,local_bus_restricted
-Shuttle-BackBayBostonUniversityEast,1,Green Line B Shuttle,Boston University East - Back Bay,Rail Replacement Bus,3,,FFC72C,000000,60490,Free,line-Green,1,rail_replacement_bus
-Shuttle-BackBayStMarys,1,Green Line C Shuttle,Saint Mary's Street - Back Bay,Rail Replacement Bus,3,,FFC72C,000000,60620,Free,line-Green,1,rail_replacement_bus
 Shuttle-BostonCollegeKenmore,1,Green Line B Shuttle,Boston College - Kenmore,Rail Replacement Bus,3,,FFC72C,000000,60790,Free,line-Green,1,rail_replacement_bus
+Shuttle-BraintreeJFK,1,Red Line Shuttle,Braintree - JFK/UMass,Rail Replacement Bus,3,,FFC72C,000000,60940,Free,line-Red,1,rail_replacement_bus
 Shuttle-BraintreeQuincyCenter,1,Red Line Shuttle,Braintree - Quincy Center,Rail Replacement Bus,3,,FFC72C,000000,61000,Free,line-Red,1,rail_replacement_bus
+Shuttle-BraintreeSouthStationExpress,1,Commuter Rail Shuttle,Braintree - South Station (Express),Rail Replacement Bus,3,,FFC72C,000000,61010,Free,line-Middleborough,1,rail_replacement_bus
 Shuttle-Generic,1,Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61910,Free,,1,rail_replacement_bus
 Shuttle-Generic-Blue,1,Blue Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61911,Free,line-Blue,1,rail_replacement_bus
 Shuttle-Generic-CommuterRail,1,Commuter Rail Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61912,Free,,1,rail_replacement_bus
@@ -217,4 +217,6 @@ Shuttle-Generic-Red-Ashmont,1,Red Line Ashmont Shuttle,,Rail Replacement Bus,3,,
 Shuttle-Generic-Red-Braintree,1,Red Line Braintree Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61937,Free,line-Red,1,rail_replacement_bus
 Shuttle-Generic-Red-Trunk,1,Red Line Trunk Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61938,Free,line-Red,1,rail_replacement_bus
 Shuttle-Generic-Worcester,1,Framingham/Worcester Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61939,Free,line-Worcester,1,rail_replacement_bus
+Shuttle-JFKNorthQuincy,1,Red Line Shuttle,North Quincy - JFK/UMass,Rail Replacement Bus,3,,FFC72C,000000,61995,Free,line-Red,1,rail_replacement_bus
+Shuttle-LowellWilmington,1,Lowell Line Shuttle,Lowell - Wilmington,Rail Replacement Bus,3,,FFC72C,000000,62041,Free,line-Lowell,1,rail_replacement_bus
 Shuttle-LynnSwampscott,1,Newburyport/Rockport Line Shuttle,Lynn - Swampscott,Rail Replacement Bus,3,,FFC72C,000000,62053,Free,line-Newburyport,1,rail_replacement_bus
