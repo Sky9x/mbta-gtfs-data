@@ -184,9 +184,10 @@ CR-Providence-b469315c-1,CR-Providence,1,Providence - South Station,,3,200121100
 CR-Providence-53ce6838-1,CR-Providence,1,Wickford Junction - South Station,,3,200121110,CR-595737-836,2
 CR-Providence-C1-1,CR-Providence,1,Wickford Junction - South Station,,5,200121991,canonical-CR-Providence-C1-1,1
 CR-Providence-C2-1,CR-Providence,1,Stoughton - South Station,,5,200121992,canonical-CR-Providence-C2-1,1
-CR-Foxboro-71c5586e-0,CR-Foxboro,0,South Station - Foxboro,,1,200130000,CR-617981-9767,2
+CR-Foxboro-71c5586e-0,CR-Foxboro,0,South Station - Foxboro,,1,200130000,CR-619687-9771,2
 CR-Foxboro-C1-0,CR-Foxboro,0,South Station - Foxboro,,5,200130991,canonical-CR-Foxboro-C1-0,1
 CR-Foxboro-C2-0,CR-Foxboro,0,Foxboro - Providence,,5,200130992,canonical-CR-Foxboro-C2-0,1
+CR-Foxboro-19217ef9-1,CR-Foxboro,1,Providence - Foxboro,,1,200131000,CR-619689-9886,2
 CR-Foxboro-C1-1,CR-Foxboro,1,Foxboro - South Station,,5,200131991,canonical-CR-Foxboro-C1-1,1
 CR-Foxboro-C2-1,CR-Foxboro,1,Providence - Foxboro,,5,200131992,canonical-CR-Foxboro-C2-1,1
 CapeFlyer-c6405ea1-0,CapeFlyer,0,South Station - Hyannis,,1,210000000,canonical-CapeFlyer-C1-0,1
@@ -226,15 +227,15 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 747-_-0,747,0,Ruggles Station - Sullivan Square Station,Weekdays only,1,400200000,57350508,0
 747-_-1,747,1,Sullivan Square Station - Ruggles Station,Weekdays only,1,400201000,57350509,0
 708-1-0,708,0,Andrew Station - Ave Louis Pasteur,Weekdays only,1,400300000,57350855,0
-708-_-0,708,0,Andrew Station - Brookline Ave,Weekdays only,1,400300030,57344420,0
+708-_-0,708,0,Andrew Station - Brookline Ave,Weekdays only,1,400300020,57344420,0
 708-_-1,708,1,Brookline Ave - Andrew Station,Weekdays only,1,400301000,57344782,0
-708-1-1,708,1,Ave Louis Pasteur - Andrew Station,Weekdays only,1,400301030,57350859,0
+708-1-1,708,1,Ave Louis Pasteur - Andrew Station,Weekdays only,1,400301020,57350859,0
 1-_-0,1,0,Nubian Station - Harvard Square,,1,500100000,57345242,0
 1-_-1,1,1,Harvard Square - Nubian Station,,1,500101000,57345780,0
 4-4-0,4,0,Marine Park - North Station (Detour),Weekdays only,1,500400000,57350817,0
-4-3-0,4,0,Marine Park - North Station via South Station (Detour),Weekdays only,1,500400020,57350528,0
+4-3-0,4,0,Marine Park - North Station via South Station (Detour),Weekdays only,1,500400010,57350528,0
 4-3-1,4,1,North Station - Marine Park (Detour),Weekdays only,1,500401000,57350527,0
-4-4-1,4,1,North Station - Marine Park via South Station (Detour),Weekdays only,1,500401020,57350818,0
+4-4-1,4,1,North Station - Marine Park via South Station (Detour),Weekdays only,1,500401010,57350818,0
 7-1-0,7,0,Otis St & Summer St - City Point,,1,500700000,57350495,0
 7-2-0,7,0,Otis St & Summer St - City Point via East 1st St,Weekdays only,2,500700040,57346166,0
 7-1-1,7,1,City Point - Otis St & Summer St,,1,500701000,57350488,0
@@ -254,22 +255,22 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 14-_-0,14,0,Heath St - Roslindale Square,,1,501400000,57591953,0
 14-_-1,14,1,Roslindale Square - Heath St,,1,501401000,57591954,0
 15-_-0,15,0,Ruggles Station - Kane Square,Weekdays only,1,501500000,57350583,0
-15-2-0,15,0,Ruggles Station - St Peter's Square,Weekday middays only,2,501500030,57346340,0
-15-1-0,15,0,Ruggles Station - Fields Corner Station,,2,501500050,57350942,0
-15-G-0,15,0,Haymarket - Mattapan via Nubian & Fields Corner (Merrimac Detour),Early mornings only,3,501500080,57345779,0
+15-2-0,15,0,Ruggles Station - St Peter's Square,Weekday middays only,2,501500020,57346340,0
+15-1-0,15,0,Ruggles Station - Fields Corner Station,,2,501500030,57350942,0
+15-G-0,15,0,Haymarket - Mattapan via Nubian & Fields Corner (Merrimac Detour),Early mornings only,3,501500060,57345779,0
 15-_-1,15,1,Kane Square - Ruggles Station,Weekdays only,1,501501000,57350582,0
-15-2-1,15,1,St Peter's Square - Ruggles Station,Weekday middays only,2,501501030,57346217,0
-15-1-1,15,1,Fields Corner Station - Ruggles Station,,2,501501050,57351005,0
-15-4-1,15,1,Ashmont Station - Nubian Station,Early mornings only,3,501501080,57344529,0
-15-G-1,15,1,Mattapan - Haymarket via Fields Corner & Nubian (Merrimac Detour),Early mornings only,3,501501110,57346140,0
+15-2-1,15,1,St Peter's Square - Ruggles Station,Weekday middays only,2,501501020,57346217,0
+15-1-1,15,1,Fields Corner Station - Ruggles Station,,2,501501030,57351005,0
+15-4-1,15,1,Ashmont Station - Nubian Station,Early mornings only,3,501501060,57344529,0
+15-G-1,15,1,Mattapan - Haymarket via Fields Corner & Nubian (Merrimac Detour),Early mornings only,3,501501090,57346140,0
 16-9-0,16,0,Andrew Station - Forest Hills Station via South Bay Center,,1,501600000,57350846,0
 16-8-0,16,0,Harbor Point - Forest Hills Station via South Bay Center,Weekdays only,2,501600040,57350836,0
-16-5-0,16,0,McCormack Housing - Forest Hills via South Bay Center,,2,501600060,57346150,0
-16-3-0,16,0,Andrew Station - Forest Hills Station,,3,501600090,57344524,0
+16-5-0,16,0,McCormack Housing - Forest Hills via South Bay Center,,2,501600050,57346150,0
+16-3-0,16,0,Andrew Station - Forest Hills Station,,3,501600080,57344524,0
 16-9-1,16,1,Forest Hills Station - Andrew Station via South Bay Center,,1,501601000,57345490,0
 16-8-1,16,1,Forest Hills Station - Harbor Point via South Bay Center,Weekdays only,2,501601040,57350835,0
-16-5-1,16,1,Forest Hills - McCormack Housing via South Bay Center,,2,501601060,57345502,0
-16-3-1,16,1,Forest Hills Station - Andrew Station,,2,501601090,57345555,0
+16-5-1,16,1,Forest Hills - McCormack Housing via South Bay Center,,2,501601050,57345502,0
+16-3-1,16,1,Forest Hills Station - Andrew Station,,2,501601080,57345555,0
 17-_-0,17,0,Andrew Station - Fields Corner Station,,1,501700000,57350811,0
 17-_-1,17,1,Fields Corner Station - Andrew Station,,1,501701000,57350797,0
 18-1-0,18,0,Andrew Station - Ashmont Station,,1,501800000,57344430,0
@@ -294,9 +295,9 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 28-_-1,28,1,Mattapan Station - Ruggles Station,,1,502801000,57478852,0
 28-2-1,28,1,Mattapan Station - Nubian Station,Early mornings only,3,502801040,57346138,0
 29-1-0,29,0,Jackson Square Station - Mattapan Station via Franklin Field,Weekdays only,1,502900000,57591205,0
-29-5-0,29,0,Jackson Square Station - Mattapan Station,,1,502900020,57591219,0
+29-5-0,29,0,Jackson Square Station - Mattapan Station,,1,502900010,57591219,0
 29-1-1,29,1,Mattapan Station - Jackson Square Station via Franklin Field,Weekdays only,1,502901000,57591196,0
-29-5-1,29,1,Mattapan Station - Jackson Square Station,,1,502901020,57591213,0
+29-5-1,29,1,Mattapan Station - Jackson Square Station,,1,502901010,57591213,0
 30-2-0,30,0,Forest Hills Station - Mattapan Station,,1,503000000,57591891,0
 30-2-1,30,1,Mattapan Station - Forest Hills Station,,1,503001000,57591923,0
 31-_-0,31,0,Forest Hills Station - Mattapan Station,,1,503100000,57592010,0
@@ -308,12 +309,12 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 3233-5-0,3233,0,Forest Hills Station - River St & Milton St,Early mornings only,1,503210000,57591022,0
 33-5-0,33,0,Mattapan Station - River St & Milton St via West Milton St (AM Route),,1,503300000,57591024,0
 33-6-0,33,0,Mattapan Station - River St & Milton St (PM Route),Weekdays only,1,503300040,57591037,0
-33-1-0,33,0,Mattapan Station - River St & Milton St via Westinghouse Plz,AM peak hours only,3,503300070,57591884,0
+33-1-0,33,0,Mattapan Station - River St & Milton St via Westinghouse Plz,AM peak hours only,3,503300060,57591884,0
 33-5-1,33,1,River St & Milton St - Mattapan Station (AM Route),,1,503301000,57591023,0
 33-6-1,33,1,River St & Milton St - Mattapan Station via West Milton St (PM Route),Weekdays only,2,503301040,57591038,0
-33-1-1,33,1,River St & Milton St - Mattapan Station via Westinghouse Plz,Weekdays only,3,503301070,57591063,0
-33-7-1,33,1,River St & Milton St - Forest Hills Station via W Milton St,Weekday evenings only,3,503301090,57591047,0
-33-4-1,33,1,River St & Milton St - Forest Hills Station,,3,503301110,57429041,0
+33-1-1,33,1,River St & Milton St - Mattapan Station via Westinghouse Plz,Weekdays only,3,503301060,57591063,0
+33-7-1,33,1,River St & Milton St - Forest Hills Station via W Milton St,Weekday evenings only,3,503301070,57591047,0
+33-4-1,33,1,River St & Milton St - Forest Hills Station,,3,503301080,57429041,0
 34-3-0,34,0,Forest Hills Station - Dedham Mall,,1,503400000,57591766,0
 34-_-0,34,0,Forest Hills Station - Dedham Line,,3,503400040,57592202,0
 34-3-1,34,1,Dedham Mall - Forest Hills Station,,1,503401000,57592210,0
@@ -328,10 +329,10 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 35-_-1,35,1,Stimson St & Washington St - Forest Hills Station,,2,503501040,57591497,0
 36-8-0,36,0,"Forest Hills Station - VA Hospital, West Roxbury",,1,503600000,57591490,0
 36-1-0,36,0,Forest Hills Station - Millennium Park,Weekdays only,2,503600040,57591589,0
-36-5-0,36,0,Forest Hills Station - Rivermoor Industrial Park,Weekdays only,3,503600070,57591477,0
+36-5-0,36,0,Forest Hills Station - Rivermoor Industrial Park,Weekdays only,3,503600060,57591477,0
 36-8-1,36,1,"VA Hospital, West Roxbury - Forest Hills Station",,1,503601000,57591518,0
 36-1-1,36,1,Millennium Park - Forest Hills Station,Weekdays only,2,503601040,57591517,0
-36-5-1,36,1,Rivermoor Industrial Park - Forest Hills Station,Weekday evenings only,3,503601070,57591548,0
+36-5-1,36,1,Rivermoor Industrial Park - Forest Hills Station,Weekday evenings only,3,503601060,57591548,0
 37-_-0,37,0,Forest Hills Station - Baker St & Vermont St,,1,503700000,57591712,0
 37-_-1,37,1,Baker St & Vermont St - Forest Hills Station,,1,503701000,57591470,0
 38-_-0,38,0,Forest Hills Station - Wren St,,1,503800000,57591824,0
@@ -356,8 +357,8 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 44-1-0,44,0,Ruggles Station - Jackson Square Station,,1,504400000,57346263,0
 44-1-1,44,1,Jackson Square Station - Ruggles Station,,1,504401000,57345878,0
 45-_-0,45,0,Ruggles Station - Franklin Park,Weekdays only,1,504500000,57346265,0
-45-3-0,45,0,Ruggles Station - Franklin Park via Eliot Square,,2,504500030,57346566,0
-45-1-0,45,0,Ruggles Station - Ashmont Station,Late nights only,3,504500060,57346643,0
+45-3-0,45,0,Ruggles Station - Franklin Park via Eliot Square,,2,504500020,57346566,0
+45-1-0,45,0,Ruggles Station - Ashmont Station,Late nights only,3,504500050,57346643,0
 45-_-1,45,1,Franklin Park - Ruggles Station via Eliot Square,,1,504501000,57345628,0
 45-1-1,45,1,Ashmont Station - Ruggles Station,Early mornings only,3,504501040,57243106,0
 47-8-0,47,0,"Broadway Station - Central Square, Cambridge",,1,504700000,57344828,0
@@ -367,9 +368,9 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 51-_-0,51,0,Forest Hills Station - Reservoir Station,,1,505100000,57591678,0
 51-_-1,51,1,Reservoir Station - Forest Hills Station,,1,505101000,57591679,0
 52-5-0,52,0,Watertown - Dedham Mall via Meadowbrook Rd,Weekdays only,1,505200000,57592140,0
-52-4-0,52,0,Watertown - Charles River Loop via Meadowbrook Rd,AM peak hours only,2,505200030,57592149,0
+52-4-0,52,0,Watertown - Charles River Loop via Meadowbrook Rd,AM peak hours only,2,505200020,57592149,0
 52-5-1,52,1,Dedham Mall - Watertown via Meadowbrook Rd,Weekdays only,1,505201000,57592142,0
-52-4-1,52,1,Charles River Loop - Watertown via Meadowbrook Rd,Weekdays only,2,505201020,57592150,0
+52-4-1,52,1,Charles River Loop - Watertown via Meadowbrook Rd,Weekdays only,2,505201010,57592150,0
 55-_-0,55,0,Copley Square - Fenway,Middays only,1,505500000,57346651,0
 55-_-1,55,1,Fenway - Copley Square,,1,505501000,57345930,0
 57-_-0,57,0,Kenmore Station - Watertown Yard,,1,505700000,57350494,0
@@ -382,24 +383,24 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 59-_-1,59,1,Needham Junction - Watertown Square via Eliot St,Weekdays only,2,505901040,57350571,0
 60-_-0,60,0,Kenmore Station - Chestnut Hill,,1,506000000,57350742,0
 60-2-0,60,0,Kenmore Station - Boylston St & Tully St via Chestnut Hill,Weekdays only,2,506000040,57350594,0
-60-4-0,60,0,Brookline Village - Boylston St & Tully St,Weekday early mornings only,3,506000070,57346841,0
-60-3-0,60,0,Brookline Village - Chestnut Hill,Early mornings only,3,506000090,57243136,0
+60-4-0,60,0,Brookline Village - Boylston St & Tully St,Weekday early mornings only,3,506000060,57346841,0
+60-3-0,60,0,Brookline Village - Chestnut Hill,Early mornings only,3,506000070,57243136,0
 60-_-1,60,1,Chestnut Hill - Kenmore Station,,1,506001000,57350780,0
 60-2-1,60,1,Boylston St & Tully St - Kenmore Station,Weekdays only,2,506001040,57350596,0
-60-3-1,60,1,Chestnut Hill - Brookline Village,Late nights only,3,506001070,57344895,0
+60-3-1,60,1,Chestnut Hill - Brookline Village,Late nights only,3,506001060,57344895,0
 61-_-0,61,0,Waltham Center - North Waltham,,1,506100000,57384865,0
 61-_-1,61,1,North Waltham - Waltham Center,,1,506101000,57384864,0
 62-3-0,62,0,Alewife Station - Bedford VA Hospital,Weekdays only,1,506200000,57384487,0
 62-3-1,62,1,Bedford VA Hospital - Alewife Station,Weekdays only,1,506201000,57384485,0
 627-6-0,627,0,Alewife Station - Bedford VA Hospital,Weekdays only,1,506210000,57384499,0
-627-7-0,627,0,Alewife Station - Bedford VA Hospital via Hanscom Airport,,2,506210030,57384521,0
+627-7-0,627,0,Alewife Station - Bedford VA Hospital via Hanscom Airport,,2,506210020,57384521,0
 627-7-1,627,1,Bedford VA Hospital - Alewife Station via Hanscom Airport,,1,506211000,57384508,0
 627-6-1,627,1,Bedford VA Hospital - Alewife Station,Weekdays only,2,506211030,57384497,0
 64-6-0,64,0,Kendall/MIT Station - Oak Square,Weekdays only,1,506400000,57383830,0
-64-_-0,64,0,University Park - Oak Square,,2,506400030,57232119,0
-64-3-0,64,0,"Central Square, Cambridge - Oak Square",Late nights only,3,506400050,57232124,0
+64-_-0,64,0,University Park - Oak Square,,2,506400020,57232119,0
+64-3-0,64,0,"Central Square, Cambridge - Oak Square",Late nights only,3,506400040,57232124,0
 64-6-1,64,1,Oak Square - Kendall/MIT Station,Weekdays only,1,506401000,57383828,0
-64-_-1,64,1,Oak Square - University Park,,2,506401030,57232120,0
+64-_-1,64,1,Oak Square - University Park,,2,506401020,57232120,0
 65-_-0,65,0,Kenmore Station - Brighton Center,,1,506500000,57350519,0
 65-_-1,65,1,Brighton Center - Kenmore Station,,1,506501000,57350517,0
 66-6-0,66,0,Nubian Station - Harvard Square,,1,506600000,57345243,0
@@ -413,16 +414,16 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 70-6-0,70,0,University Park - Market Place Dr,,1,507000000,57385237,0
 70-8-0,70,0,University Park - Waltham Center,,2,507000040,57385262,0
 70-5-0,70,0,University Park - Cedarwood,Weekdays only,3,507000080,57385238,0
-70-2-0,70,0,"Central Square, Cambridge - Watertown Square",Late nights only,3,507000110,57385396,0
+70-2-0,70,0,"Central Square, Cambridge - Watertown Square",Late nights only,3,507000100,57385396,0
 70-6-1,70,1,Market Place Dr - University Park,,1,507001000,57385242,0
 70-8-1,70,1,Waltham Center - University Park,,2,507001040,57385254,0
 70-5-1,70,1,Cedarwood - University Park,Weekdays only,3,507001080,57385240,0
-70-3-1,70,1,"Waltham Center - Central Square, Cambridge",Late nights only,3,507001110,57385401,0
+70-3-1,70,1,"Waltham Center - Central Square, Cambridge",Late nights only,3,507001100,57385401,0
 71-2-0,71,0,"Harvard Station, Upper Busway - Watertown Square",,1,507100000,57384161,0
 71-3-0,71,0,Harvard Square - Aberdeen Ave,AM peak hours only,3,507100040,57383922,0
 71-5-1,71,1,Watertown Square - Harvard Station (Omits Cambridge Common),,1,507101000,57384163,0
 71-1-1,71,1,Watertown Square - Harvard Station (Omits Cambridge Common),Weekdays only,2,507101040,57384166,0
-71-3-1,71,1,Aberdeen Ave - Harvard Square,Weekdays only,3,507101060,57383933,0
+71-3-1,71,1,Aberdeen Ave - Harvard Square,Weekdays only,3,507101050,57383933,0
 73-2-0,73,0,"Harvard Station, Upper Busway - Waverley Square",,1,507300000,57384159,0
 73-5-1,73,1,Waverley Square - Harvard Station (Omits Cambridge Common),,1,507301000,57384157,0
 73-1-1,73,1,Waverley Square - Harvard Station (Omits Cambridge Common),Weekdays only,2,507301040,57384212,0
@@ -433,9 +434,9 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 75-1-1,75,1,Belmont Center - Harvard Station,,1,507501000,57383952,0
 75-2-1,75,1,Aberdeen Ave - Harvard Station,AM peak hours only,2,507501040,57383921,0
 76-_-0,76,0,Alewife Station - Lincoln Lab via Hanscom Civil Air Terminal,Weekdays only,1,507600000,57384488,0
-76-3-0,76,0,Alewife Station - Lincoln Lab,Weekdays only,2,507600030,57384506,0
+76-3-0,76,0,Alewife Station - Lincoln Lab,Weekdays only,2,507600020,57384506,0
 76-3-1,76,1,Lincoln Lab - Alewife Station via Hanscom Civil Air Terminal,Weekdays only,1,507601000,57384505,0
-76-_-1,76,1,Lincoln Lab - Alewife Station,Weekdays only,1,507601020,57384486,0
+76-_-1,76,1,Lincoln Lab - Alewife Station,Weekdays only,1,507601010,57384486,0
 77-_-0,77,0,Harvard Station - Arlington Heights,,1,507700000,57385429,0
 77-_-1,77,1,Arlington Heights - Harvard Station,,1,507701000,57385428,0
 78-1-0,78,0,Harvard Station - Arlmont Village,,1,507800000,57383944,0
@@ -469,11 +470,11 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 92-4-1,92,1,Sullivan Square - Devonshire St @ Milk St,,1,509201000,57569532,0
 92-_-1,92,1,Sullivan Square Station - Haymarket Station,,3,509201040,57569528,0
 93-2-0,93,0,Downtown - Sullivan Square Station via Navy Yard,Weekdays only,1,509300000,57569591,0
-93-1-0,93,0,Downtown - Sullivan Square Station,,1,509300030,57569583,0
-93-_-0,93,0,Haymarket Station - Sullivan Square Station,,2,509300070,57568872,0
+93-1-0,93,0,Downtown - Sullivan Square Station,,1,509300020,57569583,0
+93-_-0,93,0,Haymarket Station - Sullivan Square Station,,2,509300060,57568872,0
 93-6-1,93,1,Sullivan Square Station - Downtown via Navy Yard (Detour),Weekdays only,1,509301000,57569590,0
-93-5-1,93,1,Sullivan Square Station - Downtown (Detour),,1,509301030,57569582,0
-93-_-1,93,1,Sullivan Square Station - Haymarket Station,,2,509301070,57568871,0
+93-5-1,93,1,Sullivan Square Station - Downtown (Detour),,1,509301020,57569582,0
+93-_-1,93,1,Sullivan Square Station - Haymarket Station,,2,509301060,57568871,0
 94-1-0,94,0,Davis Station - Medford Square,,1,509400000,57560981,0
 94-1-1,94,1,Medford Square - Davis Station,,1,509401000,57560842,0
 95-3-0,95,0,Sullivan Square Station - Arlington Center,,1,509500000,57560734,0
@@ -506,12 +507,12 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 106-_-1,106,1,Lebanon Loop - Wellington Station,Weekday evenings only,3,510601060,57568891,0
 108-6-0,108,0,Wellington Station - Linden Square,,1,510800000,57560609,0
 108-6-1,108,1,Linden Square - Wellington Station,,1,510801000,57560457,0
-108-7-1,108,1,Linden Square - Malden Center Station,Weekdays only,3,510801040,57561029,0
+108-7-1,108,1,Linden Square - Malden Center Station,AM peak hours only,3,510801040,57561029,0
 109-_-0,109,0,Sullivan Square Station - Linden Square,,1,510900000,57570083,0
 109-_-1,109,1,Linden Square - Sullivan Square Station,,1,510901000,57570084,0
 110-_-0,110,0,Wellington Station - Wonderland Station,,1,511000000,57560438,0
 110-4-0,110,0,Wellington Station - Broadway & Park Ave,,2,511000040,57560439,0
-110-2-0,110,0,Wellington Station - Woodlawn,,3,511000080,57568942,0
+110-2-0,110,0,Wellington Station - Woodlawn,Late nights only,3,511000080,57568942,0
 110-_-1,110,1,Wonderland Station - Wellington Station,,1,511001000,57560437,0
 110-4-1,110,1,Broadway & Park Ave - Wellington Station,,2,511001040,57560440,0
 111-5-0,111,0,Haymarket Station - Woodlawn,,1,511100000,57569664,0
@@ -532,35 +533,35 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 117-8-1,117,1,Broadway & Central Ave - Haymarket Station,Early mornings only,3,511701070,57382358,0
 117-_-1,117,1,Wonderland Station - Haymarket Station,Sunday early mornings only,3,511701100,57380423,0
 119-1-0,119,0,Beachmont Station - Northgate Shopping Center,Weekdays only,1,511900000,57381747,0
-119-3-0,119,0,Beachmont Station - Northgate Shopping Ctr via Tomasello Way,,1,511900030,57381756,0
+119-3-0,119,0,Beachmont Station - Northgate Shopping Ctr via Tomasello Way,,1,511900020,57381756,0
 119-1-1,119,1,Northgate Shopping Center - Beachmont Station,Weekdays only,1,511901000,57381746,0
-119-3-1,119,1,Northgate Shopping Ctr - Beachmont Station via Tomasello Way,,1,511901030,57381754,0
+119-3-1,119,1,Northgate Shopping Ctr - Beachmont Station via Tomasello Way,,1,511901020,57381754,0
 120-2-0,120,0,Maverick Station - Orient Heights Station via Wood Island,,1,512000000,57381835,0
 120-2-1,120,1,Orient Heights Station - Maverick Station via Jeffries Point,,1,512001000,57381837,0
 121-2-0,121,0,Maverick Station - Eagle Square,Weekdays only,1,512100000,57381783,0
-121-_-0,121,0,Maverick Station - Wood Island Station,Weekday mornings only,2,512100030,57381799,0
+121-_-0,121,0,Maverick Station - Wood Island Station,Weekday mornings only,2,512100020,57381799,0
 121-2-1,121,1,Eagle Square - Maverick Station,Weekdays only,1,512101000,57381784,0
-121-_-1,121,1,Wood Island Station - Maverick Station,Weekday mornings only,2,512101020,57381798,0
+121-_-1,121,1,Wood Island Station - Maverick Station,Weekday mornings only,2,512101010,57381798,0
 131-1-0,131,0,Malden Center - Melrose Highlands Station via East Side,Weekdays only,1,513100000,57560923,0
 131-1-1,131,1,Melrose Highlands - Malden Center Station via East Side,Weekdays only,1,513101000,57560931,0
 132-_-0,132,0,Malden Center Station - Redstone Shopping Center,,1,513200000,57560477,0
 132-_-1,132,1,Redstone Shopping Center - Malden Center Station,,1,513201000,57560553,0
 134-3-0,134,0,Wellington Station - North Woburn via Trade Center,Weekdays only,1,513400000,57560608,0
-134-6-0,134,0,Wellington Station - Winthrop St & Playstead Rd,,2,513400020,57568920,0
-134-5-0,134,0,Wellington Station - North Woburn,,2,513400050,57560605,0
-134-2-0,134,0,Wellington - North Woburn via Trade Ctr & Veterans Ctr,Weekday middays only,2,513400090,57560626,0
-134-9-0,134,0,Wellington Station - Woburn Square,Sundays only,3,513400110,57373252,0
+134-6-0,134,0,Wellington Station - Winthrop St & Playstead Rd,,2,513400010,57568920,0
+134-5-0,134,0,Wellington Station - North Woburn,,2,513400040,57560605,0
+134-2-0,134,0,Wellington - North Woburn via Trade Ctr & Veterans Ctr,Weekday middays only,2,513400080,57560626,0
+134-9-0,134,0,Wellington Station - Woburn Square,Sundays only,3,513400090,57373252,0
 134-3-1,134,1,North Woburn - Wellington Station via Trade Center,Weekdays only,1,513401000,57560524,0
-134-6-1,134,1,Winthrop St & Playstead Rd - Wellington Station,,2,513401020,57568919,0
-134-5-1,134,1,North Woburn - Wellington Station,,2,513401050,57560522,0
-134-2-1,134,1,North Woburn - Wellington via Trade Ctr & Veterans Ctr,Weekday middays only,3,513401090,57560528,0
-134-9-1,134,1,Woburn Square - Wellington Station,Sundays only,3,513401110,57373245,0
+134-6-1,134,1,Winthrop St & Playstead Rd - Wellington Station,,2,513401010,57568919,0
+134-5-1,134,1,North Woburn - Wellington Station,,2,513401040,57560522,0
+134-2-1,134,1,North Woburn - Wellington via Trade Ctr & Veterans Ctr,Weekday middays only,3,513401080,57560528,0
+134-9-1,134,1,Woburn Square - Wellington Station,Sundays only,3,513401090,57373245,0
 137-7-0,137,0,Malden Center - Lincoln St @ Reading Depot,,1,513700000,57560476,0
 137-6-0,137,0,Oak Grove Busway - Lincoln St @ Reading Depot,Weekdays only,1,513700040,57560539,0
-137-4-0,137,0,Malden Center - Main St @ Water St,,3,513700070,57371523,0
+137-4-0,137,0,Malden Center - Main St @ Water St,Evenings only,3,513700060,57371523,0
 137-7-1,137,1,Lincoln St @ Reading Depot - Malden Center,,1,513701000,57560568,0
 137-6-1,137,1,Lincoln St @ Reading Depot - Oak Grove Busway,Weekdays only,1,513701040,57560569,0
-137-4-1,137,1,Main St @ Water St - Malden Center,,3,513701070,57371491,0
+137-4-1,137,1,Main St @ Water St - Malden Center,Evenings only,3,513701060,57371491,0
 171-_-0,171,0,Nubian Station - Logan Airport Terminals,Early mornings only,1,517100000,57345239,0
 201-9-0,201,0,Fields Corner - Keystone Apt via Puritan Mall & Neponset Ave,,1,520100000,57532175,0
 201-_-0,201,0,Fields Corner - Adams St & Gallivan Blvd via Neponset Ave,,2,520100030,57532177,0
@@ -570,10 +571,10 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 202-5-0,202,0,Fields Corner Station - Keystone Apts via Adams St,Weekdays only,1,520200000,57532186,0
 202-6-1,202,1,Keystone Apts - Fields Corner Station via Neponset Ave,Weekdays only,1,520201000,57532176,0
 210-3-0,210,0,Fields Corner Station - Quincy Center Station,Weekdays only,1,521000000,57531673,0
-210-_-0,210,0,North Quincy Station - Quincy Center Station,,3,521000030,57533854,0
-210-1-0,210,0,Fields Corner Station - Braintree Station,Late nights only,3,521000050,57531672,0
+210-_-0,210,0,North Quincy Station - Quincy Center Station,,3,521000020,57533854,0
+210-1-0,210,0,Fields Corner Station - Braintree Station,Late nights only,3,521000040,57531672,0
 210-3-1,210,1,Quincy Center Station - Fields Corner Station,Weekdays only,1,521001000,57531679,0
-210-_-1,210,1,Quincy Center Station - North Quincy Station,,2,521001030,57531550,0
+210-_-1,210,1,Quincy Center Station - North Quincy Station,,2,521001020,57531550,0
 211-_-0,211,0,Squantum - Quincy Center Station,,1,521100000,57531713,0
 211-_-1,211,1,Quincy Center Station - Squantum,,1,521101000,57531699,0
 215-1-0,215,0,Ashmont Station - Quincy Center Station,,1,521500000,57531791,0
@@ -587,7 +588,7 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 216-_-1,216,1,Houghs Neck - Quincy Center Station,,1,521601000,57531849,0
 216-4-1,216,1,Houghs Neck - Quincy Center Station via McGrath Hwy,,2,521601040,57531848,0
 217-8-0,217,0,Ashmont Station - Quincy Center Station via North Quincy,Weekdays only,1,521700000,57531558,0
-217-1-0,217,0,Ashmont - Quincy Center via North Quincy & Hollis Ave,AM peak hours only,2,521700020,57531567,0
+217-1-0,217,0,Ashmont - Quincy Center via North Quincy & Hollis Ave,AM peak hours only,2,521700010,57531567,0
 217-8-1,217,1,Quincy Center Station - Ashmont Station via North Quincy,Weekdays only,1,521701000,57531557,0
 220-3-0,220,0,Quincy Center Station - Hingham Depot,,1,522000000,57532206,0
 220-4-0,220,0,Quincy Center Station - Hingham Depot via Hingham Center,Weekdays only,2,522000040,57532241,0
@@ -611,20 +612,20 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 236-2-1,236,1,South Shore Plaza - Quincy Center Station,,1,523601000,57531515,0
 236-3-1,236,1,Braintree Station - Quincy Center Station,Mornings only,2,523601040,57531552,0
 238-9-0,238,0,Quincy Center Station - Holbrook/Randolph Station,Weekdays only,1,523800000,57531915,0
-238-7-0,238,0,Quincy Center Station - Crawford Square,,2,523800030,57531918,0
-238-3-0,238,0,Quincy Center Station - Avon Square,,3,523800060,57531962,0
-238-5-0,238,0,Quincy Center - Crawford Square (Omits South Shore Plaza),Sunday early mornings only,3,523800090,57535309,0
+238-7-0,238,0,Quincy Center Station - Crawford Square,,2,523800020,57531918,0
+238-3-0,238,0,Quincy Center Station - Avon Square,,3,523800050,57531962,0
+238-5-0,238,0,Quincy Center - Crawford Square (Omits South Shore Plaza),Sunday early mornings only,3,523800080,57535309,0
 238-9-1,238,1,Holbrook/Randolph Station - Quincy Center Station,Weekdays only,1,523801000,57531911,0
-238-7-1,238,1,Crawford Square - Quincy Center Station,,2,523801030,57531913,0
-238-3-1,238,1,Avon Square - Quincy Center Station,Sundays only,3,523801060,57535286,0
+238-7-1,238,1,Crawford Square - Quincy Center Station,,2,523801020,57531913,0
+238-3-1,238,1,Avon Square - Quincy Center Station,Sundays only,3,523801050,57535286,0
 240-1-0,240,0,Ashmont Station - Avon Square,,1,524000000,57531920,0
 240-9-0,240,0,Ashmont Station - Holbrook/Randolph Station,Weekdays only,1,524000040,57531923,0
-240-_-0,240,0,Ashmont Station - Crawford Square,,3,524000070,57531967,0
+240-_-0,240,0,Ashmont Station - Crawford Square,,3,524000060,57531967,0
 240-1-1,240,1,Avon Square - Ashmont Station,,1,524001000,57531910,0
 240-9-1,240,1,Holbrook/Randolph Station - Ashmont Station,Weekdays only,2,524001040,57531914,0
-240-_-1,240,1,Memorial Pkwy - Ashmont Station,,2,524001060,57531971,0
-240-3-1,240,1,Holbrook/Randolph Station - North Randolph,Weekday evenings only,3,524001100,57531955,0
-240-2-1,240,1,Crawford Square - North Randolph,,3,524001120,57531959,0
+240-_-1,240,1,Memorial Pkwy - Ashmont Station,,2,524001050,57531971,0
+240-3-1,240,1,Holbrook/Randolph Station - North Randolph,Weekday evenings only,3,524001090,57531955,0
+240-2-1,240,1,Crawford Square - North Randolph,,3,524001100,57531959,0
 245-_-0,245,0,Mattapan Station - Quincy Center Station via Edge Hill Rd,Weekdays only,1,524500000,57531554,0
 245-8-0,245,0,Mattapan - Quincy Center via Alleyne St & Edge Hill Rd,AM peak hours only,2,524500030,57531547,0
 245-_-1,245,1,Quincy Center Station - Mattapan Station via Edge Hill Rd,Weekdays only,1,524501000,57531546,0
@@ -634,38 +635,38 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 350-5-1,350,1,North Burlington - Alewife Station via Burlington Mall,,1,535001000,57384886,0
 350-4-1,350,1,North Burlington - Alewife Station,,3,535001040,57232242,0
 351-_-0,351,0,Third Ave - Bedford Woods Dr,Weekdays only,1,535100000,57384877,0
-351-1-0,351,0,Third Ave - Bedford Woods Dr via EMD Serono,Weekdays only,1,535100020,57384887,0
+351-1-0,351,0,Third Ave - Bedford Woods Dr via EMD Serono,Weekday mornings only,1,535100010,57384887,0
 351-1-1,351,1,Bedford Woods Dr - Third Ave via EMD Serono,Weekdays only,1,535101000,57384879,0
-351-_-1,351,1,Bedford Woods Dr - Third Ave,Weekdays only,1,535101020,57384885,0
-354-4-0,354,0,"State St, Boston - North Burlington via West Cummings Park",,1,535400000,57560908,0
-354-6-0,354,0,"State St, Boston - North Burlington via Medford Sq & West Cummings Park",,2,535400030,57560940,0
-354-4-1,354,1,"North Burlington - State St, Boston via West Cummings Park",,1,535401000,57560910,0
-354-6-1,354,1,"North Burlington - State St, Boston via West Cummings Park & Medford Sq",,1,535401030,57560917,0
+351-_-1,351,1,Bedford Woods Dr - Third Ave,Weekdays only,1,535101010,57384885,0
+354-4-0,354,0,"State St, Boston - North Burlington via West Cummings Park",Weekdays only,1,535400000,57560908,0
+354-6-0,354,0,"State St, Boston - North Burlington via Medford Sq & West Cummings Park",Weekdays only,2,535400030,57560940,0
+354-4-1,354,1,"North Burlington - State St, Boston via West Cummings Park",Weekdays only,1,535401000,57560910,0
+354-6-1,354,1,"North Burlington - State St, Boston via West Cummings Park & Medford Sq",Weekdays only,1,535401030,57560917,0
 411-1-0,411,0,Malden Center Station - Kennedy Dr,Weekdays only,1,541100000,57560793,0
-411-9-0,411,0,Malden Center Station - Jack Satter House via Kennedy Dr,,1,541100030,57560772,0
+411-9-0,411,0,Malden Center Station - Jack Satter House via Kennedy Dr,,1,541100020,57560772,0
 411-9-1,411,1,Jack Satter House - Malden Center Station via Kennedy Dr,,1,541101000,57560770,0
 411-1-1,411,1,Kennedy Dr - Malden Center Station,Weekdays only,1,541101030,57560790,0
 424-6-0,424,0,Wonderland Station - Eastern Ave & Essex St,Weekdays only,1,542400000,57381674,0
 424-6-1,424,1,Eastern Ave & Essex St - Wonderland Station,Weekday mornings only,1,542401000,57381671,0
 426-_-0,426,0,"Haymarket Station - Central Square, Lynn",Weekdays only,1,542600000,57381659,0
-426-7-0,426,0,"Wonderland Station - Central Square, Lynn via Silsbee St",,2,542600030,57381665,0
-426-5-0,426,0,"Haymarket Station - Central Square, Lynn via Bell Cir",Weekday late nights only,3,542600060,57382534,0
+426-7-0,426,0,"Wonderland Station - Central Square, Lynn via Silsbee St",,2,542600020,57381665,0
+426-5-0,426,0,"Haymarket Station - Central Square, Lynn via Bell Cir",Weekday late nights only,3,542600050,57382534,0
 426-_-1,426,1,"Central Square, Lynn - Haymarket Station",Weekdays only,1,542601000,57381653,0
-426-7-1,426,1,"Central Square, Lynn - Wonderland Station",,2,542601030,57381657,0
+426-7-1,426,1,"Central Square, Lynn - Wonderland Station",,2,542601020,57381657,0
 428-_-0,428,0,Haymarket Station - Oaklandvale,Weekdays only,1,542800000,57381939,0
 428-_-1,428,1,Oaklandvale - Haymarket Station,Weekday mornings only,1,542801000,57381936,0
 429-_-0,429,0,Central Sq - Northgate Ctr via Square One & Garfield Ave,,1,542900000,57381731,0
 429-1-0,429,0,"Central Sq, Lynn - Northgate Shopping Ctr via Garfield Ave",Weekday mornings only,2,542900040,57381728,0
-429-2-0,429,0,"Central Sq, Lynn - Northgate Shopping Ctr via Square One",Evenings only,3,542900070,57381738,0
+429-2-0,429,0,"Central Sq, Lynn - Northgate Shopping Ctr via Square One",Evenings only,3,542900060,57381738,0
 429-_-1,429,1,Northgate Ctr - Central Sq via Square One & Garfield Ave,,1,542901000,57381718,0
 429-1-1,429,1,"Northgate Shopping Ctr - Central Sq, Lynn via Garfield Ave",Weekday mornings only,2,542901040,57381714,0
-429-2-1,429,1,"Northgate Shopping Ctr - Central Sq, Lynn via Square One",Evenings only,3,542901070,57381725,0
+429-2-1,429,1,"Northgate Shopping Ctr - Central Sq, Lynn via Square One",Evenings only,3,542901060,57381725,0
 430-1-0,430,0,Malden Center Station - Saugus Center,,1,543000000,57560768,0
 430-6-0,430,0,Malden Center Station - Saugus Center (Omits Square One),Weekday mornings only,2,543000040,57560815,0
-430-2-0,430,0,Malden Center Station - Saugus Center via Kennedy Dr,Weekday evenings only,3,543000070,57569410,0
+430-2-0,430,0,Malden Center Station - Saugus Center via Kennedy Dr,Weekday evenings only,3,543000060,57569410,0
 430-1-1,430,1,Saugus Center - Malden Center Station,,1,543001000,57560767,0
 430-6-1,430,1,Saugus Center - Malden Center Station (Omits Square One),Weekdays only,2,543001040,57560811,0
-430-2-1,430,1,Saugus Center - Malden Center Station via Kennedy Dr,Weekday evenings only,3,543001060,57569409,0
+430-2-1,430,1,Saugus Center - Malden Center Station via Kennedy Dr,Weekday evenings only,3,543001050,57569409,0
 435-8-0,435,0,Neptune Towers - Salem Depot,,1,543500000,57382004,0
 435-7-0,435,0,"Central Square, Lynn - Salem Depot",,2,543500030,57382005,0
 435-6-0,435,0,Neptune Towers - Liberty Tree Mall,Sundays only,3,543500070,57380334,0
@@ -676,58 +677,58 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 435-_-1,435,1,"Liberty Tree Mall - Central Square, Lynn via Danvers Square",Sundays only,3,543501090,57380337,0
 436-_-0,436,0,"Central Square, Lynn - Liberty Tree Mall",,1,543600000,57381680,0
 436-1-0,436,0,"Central Square, Lynn - North Shore Mall",Weekday mornings only,2,543600030,57381698,0
-436-2-0,436,0,"Central Square, Lynn - Goodwins Circle",,3,543600060,57381705,0
+436-2-0,436,0,"Central Square, Lynn - Goodwins Circle",,3,543600050,57381705,0
 436-_-1,436,1,"Liberty Tree Mall - Central Square, Lynn",,1,543601000,57381688,0
 436-1-1,436,1,"North Shore Mall - Central Square, Lynn",Weekdays only,2,543601040,57381702,0
-436-3-1,436,1,Goodwins Circle - Neptune Towers,Weekday mornings only,3,543601060,57381706,0
-436-2-1,436,1,"Goodwins Circle - Central Square, Lynn",Mornings only,3,543601080,57380893,0
+436-3-1,436,1,Goodwins Circle - Neptune Towers,Weekday mornings only,3,543601050,57381706,0
+436-2-1,436,1,"Goodwins Circle - Central Square, Lynn",Mornings only,3,543601060,57380893,0
 439-_-0,439,0,"Central Square, Lynn - Nahant",Weekdays only,1,543900000,57381745,0
-439-3-0,439,0,Wonderland Station - Nahant,Weekdays only,1,543900030,57381818,0
+439-3-0,439,0,Wonderland Station - Nahant,Weekdays only,1,543900020,57381818,0
 439-3-1,439,1,Nahant - Wonderland Station,Weekdays only,1,543901000,57381811,0
-439-_-1,439,1,"Nahant - Central Square, Lynn",Weekdays only,2,543901030,57381744,0
+439-_-1,439,1,"Nahant - Central Square, Lynn",Weekdays only,2,543901020,57381744,0
 441-7-0,441,0,Wonderland Station - Marblehead via Paradise Rd,,1,544100000,57382440,0
 441-5-0,441,0,Wonderland - Marblehead via Paradise Rd (Omits Point of Pines),Weekdays only,2,544100040,57382434,0
-441-9-0,441,0,Lynn Bus Garage - Marblehead via Paradise Rd,Early mornings only,3,544100060,57382521,0
+441-9-0,441,0,Lynn Bus Garage - Marblehead via Paradise Rd,Early mornings only,3,544100050,57382521,0
 441-7-1,441,1,Marblehead - Wonderland Station via Paradise Rd,,1,544101000,57382481,0
 441-5-1,441,1,Marblehead - Wonderland via Paradise Rd (Omits Point of Pines),Weekdays only,2,544101030,57382441,0
 441442-1-0,441442,0,"Wonderland Station - Ocean St, Lynn",,1,544110000,57382443,0
 441442-1-1,441442,1,"Ocean St, Lynn - Wonderland Station",,1,544111000,57382444,0
 442-7-0,442,0,Wonderland Station - Marblehead via Humphrey St,,1,544200000,57382483,0
 442-5-0,442,0,Wonderland - Marblehead via Humphrey St (Omits Point of Pines),Weekdays only,2,544200040,57382435,0
-442-9-0,442,0,Lynn Bus Garage - Marblehead via Humphrey St,Mornings only,3,544200070,57382543,0
+442-9-0,442,0,Lynn Bus Garage - Marblehead via Humphrey St,Mornings only,3,544200060,57382543,0
 442-7-1,442,1,Marblehead - Wonderland Station via Humphrey St,,1,544201000,57382436,0
 442-5-1,442,1,Marblehead - Wonderland via Humphrey St (Omits Point of Pines),Weekday mornings only,2,544201040,57382485,0
-442-9-1,442,1,Marblehead - Lynn Bus Garage via Humphrey St,Sunday late nights only,3,544201070,57380654,0
+442-9-1,442,1,Marblehead - Lynn Bus Garage via Humphrey St,Sunday late nights only,3,544201060,57380654,0
 450-6-0,450,0,Wood Island Station - Salem Depot,Weekdays only,1,545000000,57382093,0
 450-7-0,450,0,Wonderland Station - Salem Depot,,2,545000020,57381218,0
 450-9-0,450,0,Lynn Bus Garage - Salem Depot,Mornings only,3,545000040,57382086,0
 450-6-1,450,1,Salem Depot - Wood Island Station,Weekdays only,1,545001000,57382089,0
 450-7-1,450,1,Salem Depot - Wonderland Station,,2,545001020,57381219,0
-450-9-1,450,1,Salem Depot - Lynn Bus Garage,,3,545001040,57382154,0
+450-9-1,450,1,Salem Depot - Lynn Bus Garage,Late nights only,3,545001040,57382154,0
 451-1-0,451,0,Salem Depot - North Beverly Station via Tozer Rd,Weekdays only,1,545100000,57381942,0
-451-_-0,451,0,Salem Depot - North Beverly Station via Cabot St,Weekdays only,1,545100030,57381948,0
+451-_-0,451,0,Salem Depot - North Beverly Station via Cabot St,Weekdays only,1,545100020,57381948,0
 451-_-1,451,1,North Beverly Station - Salem Depot via Cabot St,Weekdays only,1,545101000,57381945,0
-451-1-1,451,1,North Beverly Station - Salem Depot via Tozer Rd,Weekdays only,1,545101020,57381951,0
+451-1-1,451,1,North Beverly Station - Salem Depot via Tozer Rd,Weekdays only,1,545101010,57381951,0
 455-6-0,455,0,Wonderland Station - Salem Depot,Weekdays only,1,545500000,57382561,0
-455-7-0,455,0,Wonderland Station - Salem Depot (Omits Shetland Park),,2,545500030,57380988,0
-455-9-0,455,0,Lynn Bus Garage - Salem Depot,Weekday early mornings only,3,545500050,57382622,0
-455-8-0,455,0,Lynn Bus Garage - Salem Depot (Omits Shetland Park),Early mornings only,3,545500070,57380986,0
+455-7-0,455,0,Wonderland Station - Salem Depot (Omits Shetland Park),,2,545500020,57380988,0
+455-9-0,455,0,Lynn Bus Garage - Salem Depot,Weekday early mornings only,3,545500040,57382622,0
+455-8-0,455,0,Lynn Bus Garage - Salem Depot (Omits Shetland Park),Early mornings only,3,545500050,57380986,0
 455-6-1,455,1,Salem Depot - Wonderland Station,Weekdays only,1,545501000,57382562,0
-455-7-1,455,1,Salem Depot - Wonderland Station (Omits Shetland Park),,2,545501030,57380956,0
-455-5-1,455,1,"Central Square, Lynn - Wonderland Station",Early mornings only,3,545501050,57381678,0
-455-8-1,455,1,Salem Depot - Lynn Bus Garage (Omits Shetland Park),Evenings only,3,545501080,57380980,0
+455-7-1,455,1,Salem Depot - Wonderland Station (Omits Shetland Park),,2,545501020,57380956,0
+455-5-1,455,1,"Central Square, Lynn - Wonderland Station",Early mornings only,3,545501040,57381678,0
+455-8-1,455,1,Salem Depot - Lynn Bus Garage (Omits Shetland Park),Evenings only,3,545501070,57380980,0
 456-_-0,456,0,"Central Square, Lynn - Salem Depot",Weekdays only,1,545600000,57382062,0
 456-_-1,456,1,"Salem Depot - Central Square, Lynn",Weekday middays only,1,545601000,57382061,0
-501-5-0,501,0,Federal St & Franklin St - Brighton Center via Copley Sq,,1,550100000,57350491,0
-501-4-0,501,0,Federal St & Franklin St - Brighton Center via Copley Sq & Cambridge St,,2,550100030,57350511,0
-501-4-1,501,1,Brighton Center - Federal St & Franklin St via Copley Sq,,1,550101000,57350510,0
-501-5-1,501,1,Brighton Center - Federal St & Franklin St via Cambridge St & Copley Sq,,1,550101030,57350503,0
+501-5-0,501,0,Federal St & Franklin St - Brighton Center via Copley Sq,Weekdays only,1,550100000,57350491,0
+501-4-0,501,0,Federal St & Franklin St - Brighton Center via Copley Sq & Cambridge St,Weekdays only,2,550100020,57350511,0
+501-4-1,501,1,Brighton Center - Federal St & Franklin St via Copley Sq,Weekdays only,1,550101000,57350510,0
+501-5-1,501,1,Brighton Center - Federal St & Franklin St via Cambridge St & Copley Sq,Weekdays only,1,550101020,57350503,0
 504-2-0,504,0,Federal & Franklin - Watertown via Copley Sq and Newton Crnr,,1,550400000,57350490,0
 504-2-1,504,1,Watertown Yard - Federal St & Franklin St via Copley Square,,1,550401000,57350505,0
 505-6-0,505,0,Federal St & Franklin St - Waltham Center via School St,Weekdays only,1,550500000,57350885,0
-505-5-0,505,0,Federal St & Franklin St - Waltham Center,Weekdays only,2,550500030,57350579,0
+505-5-0,505,0,Federal St & Franklin St - Waltham Center,Weekdays only,2,550500020,57350579,0
 505-5-1,505,1,Waltham Center - Federal St & Franklin St via School St,Weekdays only,1,550501000,57350540,0
-505-6-1,505,1,Waltham Center - Federal St & Franklin St,Weekdays only,2,550501030,57350988,0
+505-6-1,505,1,Waltham Center - Federal St & Franklin St,Weekdays only,2,550501020,57350988,0
 553-6-0,553,0,Newton Corner - Roberts,,1,555300000,57350524,0
 553-6-1,553,1,Roberts - Newton Corner,,1,555301000,57350523,0
 554-6-0,554,0,Newton Corner - Waverly Square,Weekdays only,1,555400000,57350705,0
@@ -745,19 +746,15 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 713-1-1,713,1,"Winthrop Beach - Orient Heights Station, South Busway",,1,571301000,57598470,0
 713-_-1,713,1,Point Shirley - Orient Heights Station  (South Busway),,1,571301040,57598439,0
 714-_-0,714,0,Hingham Depot - Pemberton Point,,1,571400000,57603826,0
-714-1-0,714,0,Hingham Depot - Pemberton Point via Hull Medical Center,Weekdays only,2,571400040,57603825,0
-714-2-0,714,0,Hingham Depot - Pemberton Point via Washington Blvd,Weekdays only,2,571400060,57603842,0
+714-1-0,714,0,Hingham Depot - Pemberton Point via Hull Medical Center,Weekdays only,2,571400030,57603825,0
+714-2-0,714,0,Hingham Depot - Pemberton Point via Washington Blvd,Weekdays only,2,571400040,57603842,0
 714-_-1,714,1,Pemberton Point - Hingham Depot,,1,571401000,57603836,0
-714-1-1,714,1,Pemberton Point - Hingham Depot via Hull Medical Center,Weekday middays only,2,571401040,57603827,0
-714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,571401060,57603828,0
-716-_-0,716,0,Mattapan Station - Cobbs Corner,,1,571600000,57554619,0
-716-1-0,716,0,Mattapan Station - Cobbs Corner (Omits Royall St),Saturdays only,2,571600030,57554631,0
-716-_-1,716,1,Cobbs Corner - Mattapan Station,,1,571601000,57554614,0
-716-1-1,716,1,Cobbs Corner - Mattapan Station (Omits Royall St),Saturdays only,2,571601030,57554636,0
-Shuttle-BostonCollegeKenmore-0-0,Shuttle-BostonCollegeKenmore,0,Kenmore - Boston College,,4,607900990,Green-SummerBostonCollegeKenmore-Weekday-0-05:54:00,0
-Shuttle-BostonCollegeKenmore-0-1,Shuttle-BostonCollegeKenmore,1,Boston College - Kenmore,,4,607901990,Green-SummerBostonCollegeKenmore-Weekday-1-05:00:00,0
-Shuttle-BraintreeJFK-0-0,Shuttle-BraintreeJFK,0,JFK/UMass - Braintree,,4,609400990,Red-SummerBraintreeJFK-Weekday-0-20:44:00,0
-Shuttle-BraintreeJFK-0-1,Shuttle-BraintreeJFK,1,Braintree - JFK/UMass,,4,609401990,Red-SummerBraintreeJFK-Weekday-1-20:44:00,0
+714-1-1,714,1,Pemberton Point - Hingham Depot via Hull Medical Center,Weekday middays only,2,571401030,57603827,0
+714-2-1,714,1,Pemberton Point - Hingham Depot via Washington Blvd,Weekdays only,2,571401040,57603828,0
+716-_-0,716,0,Mattapan Station - Cobbs Corner,Weekdays only,1,571600000,57554619,0
+716-1-0,716,0,Mattapan Station - Cobbs Corner (Omits Royall St),Saturdays only,2,571600020,57554631,0
+716-_-1,716,1,Cobbs Corner - Mattapan Station,Weekdays only,1,571601000,57554614,0
+716-1-1,716,1,Cobbs Corner - Mattapan Station (Omits Royall St),Saturdays only,2,571601020,57554636,0
 Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,4,610000990,57599505-20:30-BraintreeQuincyCenter1,0
 Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,4,610001990,57599395-20:30-BraintreeQuincyCenter1,0
 Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,South Station - Braintree (Express),,4,610100990,CR-612493-031-MDLBrainSouthExtendB1,0
