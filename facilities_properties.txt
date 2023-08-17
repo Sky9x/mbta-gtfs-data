@@ -14990,9 +14990,7 @@ ev-wondl-garage,capacity,4
 ev-woodl-garage,capacity,4
 fake_5a7e_af2a_395,excludes-stop,NEC-2173
 fake_99c7_af2a_392,excludes-stop,NHRML-0254
-fake_99c7_af2a_392,excludes-stop,NHRML-0254-B
 fake_99c7_c4e9_391,excludes-stop,NHRML-0254
-fake_99c7_c4e9_391,excludes-stop,NHRML-0254-B
 fake_b748_c4e7_402,excludes-stop,NEC-1891
 fake_b748_c4e7_402,excludes-stop,NEC-1891-02
 fake_b748_c4e7_402,excludes-stop,door-NEC-1891-barton
@@ -18242,7 +18240,7 @@ park-ER-0276,contact,"Town of Ipswich, Parking Clerk"
 park-ER-0276,contact-phone,978-356-6611
 park-ER-0276,contact-url,https://www.ipswichma.gov/616/Parking
 park-ER-0276,enclosed,2
-park-ER-0276,fee-daily,Town Residents Only â Sticker Required
+park-ER-0276,fee-daily,Town Residents Only. Sticker Required
 park-ER-0276,municipality,Ipswich
 park-ER-0276,note,"Town of Ipswich is responsible for parking maintenance, payments, and snow removal."
 park-ER-0276,operator,Town of Ipswich
@@ -20364,7 +20362,8 @@ park-longw,payment-form-accepted,cash
 park-longw,payment-form-accepted,credit-debit-card
 park-longw,payment-form-accepted,mobile-app
 park-matt,attended,2
-park-matt,capacity,209
+park-matt,capacity,50
+park-matt,capacity-accessible,4
 park-matt,car-sharing,Zipcar
 park-matt,contact,MBTA Customer Support
 park-matt,contact-phone,617-222-3200
@@ -20515,6 +20514,7 @@ park-qamnl-garage,payment-form-accepted,invoice
 park-qamnl-garage,payment-form-accepted,mobile-app
 park-qamnl-lot,attended,2
 park-qamnl-lot,capacity,278
+park-qamnl-lot,capacity-accessible,8
 park-qamnl-lot,contact,MBTA Customer Support
 park-qamnl-lot,contact-phone,617-222-3200
 park-qamnl-lot,contact-url,https://www.mbta.com/customer-support
