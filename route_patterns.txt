@@ -1,9 +1,11 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id,canonical_route_pattern
 Red-3-0,Red,0,Alewife - Braintree,,1,100100000,canonical-Red-C1-0,1
 Red-1-0,Red,0,Alewife - Ashmont,,1,100100001,canonical-Red-C2-0,1
+Red-3-0_70097_70105_0,Red,0,Alewife - North Quincy,,4,100100990,58645712-20:30-BraintreeNQuincy0,2
 Red-3-0_70101_70105_0,Red,0,Alewife - Quincy Center,,4,100100990,57599505-20:30-BraintreeQuincyCenter0,2
 Red-3-1,Red,1,Braintree - Alewife,,1,100101000,canonical-Red-C1-1,1
 Red-1-1,Red,1,Ashmont - Alewife,,1,100101001,canonical-Red-C2-1,1
+Red-3-1_70105_70098_2,Red,1,North Quincy - Alewife,,4,100101990,58645588-20:30-BraintreeNQuincy2,2
 Red-3-1_70105_70102_2,Red,1,Quincy Center - Alewife,,4,100101990,57599395-20:30-BraintreeQuincyCenter2,2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,100110000,canonical-Mattapan-C1-0,1
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,100111000,canonical-Mattapan-C1-1,1
@@ -54,7 +56,7 @@ CR-Worcester-dee234b8-0,CR-Worcester,0,South Station - Worcester,,2,200030040,CR
 CR-Worcester-b5dda27b-0,CR-Worcester,0,South Station - Worcester,,3,200030050,canonical-CR-Worcester-C1-0,1
 CR-Worcester-56a7d393-0,CR-Worcester,0,South Station - Worcester,,3,200030070,CR-612373-521,2
 CR-Worcester-2fe54abd-0,CR-Worcester,0,South Station - Worcester,,3,200030080,CR-612384-551,2
-CR-Worcester-4b439f03-0,CR-Worcester,0,South Station - Worcester,,3,200030090,CR-598280-517,2
+CR-Worcester-4b439f03-0,CR-Worcester,0,South Station - Worcester,,3,200030090,CR-598280-517-AshClosedFramShuttleDyn,2
 CR-Worcester-b463475c-0,CR-Worcester,0,South Station - Worcester,,3,200030100,CR-612378-529,2
 CR-Worcester-647db84d-1,CR-Worcester,1,Worcester - South Station,,1,200031000,CR-612092-500,2
 CR-Worcester-72c8dfb6-1,CR-Worcester,1,Worcester - South Station,,2,200031030,CR-612103-502,2
@@ -826,6 +828,10 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 716-1-0,716,0,Mattapan Station - Cobbs Corner (Omits Royall St),Saturdays only,2,571600020,58587021,0
 716-_-1,716,1,Cobbs Corner - Mattapan Station,Weekdays only,1,571601000,57554614,0
 716-1-1,716,1,Cobbs Corner - Mattapan Station (Omits Royall St),Saturdays only,2,571601020,58587026,0
+Shuttle-AshlandFramingham-0-0,Shuttle-AshlandFramingham,0,Framingham - Ashland,,4,602380990,CR-612360-501-AshClosedFramShuttleDyn1,0
+Shuttle-AshlandFramingham-0-1,Shuttle-AshlandFramingham,1,Ashland - Framingham,,4,602381990,CR-612092-500-AshClosedFramShuttleDyn1,0
+Shuttle-BraintreeNorthQuincy-0-0,Shuttle-BraintreeNorthQuincy,0,North Quincy - Braintree,,4,609500990,58645712-20:30-BraintreeNQuincy1,0
+Shuttle-BraintreeNorthQuincy-0-1,Shuttle-BraintreeNorthQuincy,1,Braintree - North Quincy,,4,609501990,58645588-20:30-BraintreeNQuincy1,0
 Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,4,610000990,57599505-20:30-BraintreeQuincyCenter1,0
 Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,4,610001990,57599395-20:30-BraintreeQuincyCenter1,0
 Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,South Station - Braintree (Express),,4,610100990,CR-612493-031-MDLBrainSouthExtendB1,0
