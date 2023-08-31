@@ -6,7 +6,7 @@ Green-B,1,B,Green Line B,Rapid Transit,0,https://www.mbta.com/schedules/Green-B,
 Green-C,1,C,Green Line C,Rapid Transit,0,https://www.mbta.com/schedules/Green-C,00843D,FFFFFF,10033,Rapid Transit,line-Green,,rapid_transit
 Green-D,1,D,Green Line D,Rapid Transit,0,https://www.mbta.com/schedules/Green-D,00843D,FFFFFF,10034,Rapid Transit,line-Green,,rapid_transit
 Green-E,1,E,Green Line E,Rapid Transit,0,https://www.mbta.com/schedules/Green-E,00843D,FFFFFF,10035,Rapid Transit,line-Green,,rapid_transit
-Blue,1,,Blue Line,Rapid Transit,1,https://www.mbta.com/schedules/Blue,003DA5,FFFFFF,10040,Free,line-Blue,,rapid_transit
+Blue,1,,Blue Line,Rapid Transit,1,https://www.mbta.com/schedules/Blue,003DA5,FFFFFF,10040,Rapid Transit,line-Blue,,rapid_transit
 741,1,SL1,Logan Airport Terminals - South Station,Key Bus,3,https://www.mbta.com/schedules/741,7C878E,FFFFFF,10051,Rapid Transit,line-SLWaterfront,,sl_rapid_transit
 742,1,SL2,Drydock Avenue - South Station,Key Bus,3,https://www.mbta.com/schedules/742,7C878E,FFFFFF,10052,Rapid Transit,line-SLWaterfront,,sl_rapid_transit
 743,1,SL3,Chelsea Station - South Station,Key Bus,3,https://www.mbta.com/schedules/743,7C878E,FFFFFF,10053,Rapid Transit,line-SLWaterfront,,sl_rapid_transit
@@ -29,7 +29,7 @@ CR-Foxboro,1,,Foxboro Event Service,Commuter Rail,2,https://www.mbta.com/schedul
 CapeFlyer,3,,CapeFLYER,Commuter Rail,2,http://capeflyer.com/,006595,FFFFFF,21000,Special,line-CapeFlyer,,cape_flyer
 Boat-F4,1,,Charlestown Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F4,008EAA,FFFFFF,30001,Ferry,line-Boat-F4,,ferry_f4
 Boat-F1,1,,Hingham/Hull Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F1,008EAA,FFFFFF,30002,Ferry,line-Boat-F1,,ferry_f1
-Boat-EastBoston,1,,East Boston Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-EastBoston,008EAA,FFFFFF,30005,Free,line-Boat-EastBoston,,ferry_east_boston
+Boat-EastBoston,1,,East Boston Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-EastBoston,008EAA,FFFFFF,30005,Ferry,line-Boat-EastBoston,,ferry_east_boston
 Boat-Lynn,1,,Lynn Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-Lynn,008EAA,FFFFFF,30007,Ferry,line-Boat-Lynn,,ferry_lynn
 Boat-F6,1,,Winthrop Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F6,008EAA,FFFFFF,30009,Ferry,line-Boat-F6,,ferry_f6
 747,1,CT2,Sullivan Square Station - Ruggles Station,Local Bus,3,https://www.mbta.com/schedules/747,FFC72C,000000,40020,Local Bus,line-747,,local_bus
@@ -123,11 +123,11 @@ Boat-F6,1,,Winthrop Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F6,008EAA,
 108,1,108,Linden Square - Wellington Station,Local Bus,3,https://www.mbta.com/schedules/108,FFC72C,000000,51080,Local Bus,line-108,,local_bus
 109,1,109,Linden Square - Sullivan Square Station,Local Bus,3,https://www.mbta.com/schedules/109,FFC72C,000000,51090,Local Bus,line-104109,,local_bus
 110,1,110,Wonderland Station - Wellington Station,Local Bus,3,https://www.mbta.com/schedules/110,FFC72C,000000,51100,Local Bus,line-110,,local_bus
-111,1,111,Woodlawn - Haymarket Station,Key Bus,3,https://www.mbta.com/schedules/111,FFC72C,000000,51110,Free,line-111,,local_bus_free
-112,1,112,Wellington Station - Wood Island Station,Local Bus,3,https://www.mbta.com/schedules/112,FFC72C,000000,51120,Free,line-112,,local_bus_free
-114,1,114,Market Basket - Maverick Station,Community Bus,3,https://www.mbta.com/schedules/114,FFC72C,000000,51140,Free,line-114116117,,local_bus_free
-116,1,116,Wonderland Station - Maverick Station via Revere Street,Key Bus,3,https://www.mbta.com/schedules/116,FFC72C,000000,51160,Free,line-114116117,,local_bus_free
-117,1,117,Wonderland Station - Maverick Station via Beach Street,Key Bus,3,https://www.mbta.com/schedules/117,FFC72C,000000,51170,Free,line-114116117,,local_bus_free
+111,1,111,Woodlawn - Haymarket Station,Key Bus,3,https://www.mbta.com/schedules/111,FFC72C,000000,51110,Local Bus,line-111,,local_bus
+112,1,112,Wellington Station - Wood Island Station,Local Bus,3,https://www.mbta.com/schedules/112,FFC72C,000000,51120,Local Bus,line-112,,local_bus
+114,1,114,Market Basket - Maverick Station,Community Bus,3,https://www.mbta.com/schedules/114,FFC72C,000000,51140,Local Bus,line-114116117,,local_bus
+116,1,116,Wonderland Station - Maverick Station via Revere Street,Key Bus,3,https://www.mbta.com/schedules/116,FFC72C,000000,51160,Local Bus,line-114116117,,local_bus
+117,1,117,Wonderland Station - Maverick Station via Beach Street,Key Bus,3,https://www.mbta.com/schedules/117,FFC72C,000000,51170,Local Bus,line-114116117,,local_bus
 119,1,119,Northgate Shopping Center - Beachmont Station,Local Bus,3,https://www.mbta.com/schedules/119,FFC72C,000000,51190,Local Bus,line-119,,local_bus
 120,1,120,Orient Heights Station - Jeffries Point,Local Bus,3,https://www.mbta.com/schedules/120,FFC72C,000000,51200,Local Bus,line-120121,,local_bus
 121,1,121,Wood Island Station - Maverick Station,Commuter Bus,3,https://www.mbta.com/schedules/121,FFC72C,000000,51210,Local Bus,line-120121,,local_bus
