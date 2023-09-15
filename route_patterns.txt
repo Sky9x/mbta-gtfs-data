@@ -59,9 +59,11 @@ CR-Fairmount-195ea3c8-0,CR-Fairmount,0,South Station - Readville via Fairmount,,
 CR-Fairmount-ff9cd1ee-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,200011000,canonical-CR-Fairmount-C1-1,1
 CR-Fitchburg-2a5f6366-0,CR-Fitchburg,0,North Station - Wachusett,,1,200020000,canonical-CR-Fitchburg-C1-0,1
 CR-Fitchburg-acb28c6e-0,CR-Fitchburg,0,North Station - Littleton/Route 495,,2,200020030,CR-595062-417,2
+CR-Fitchburg-2a5f6366-0_FR-0394-01_FR-3338-CS_0,CR-Fitchburg,0,North Station - Shirley,,4,200020990,CR-594977-415-ShirleyWachusettDyn0,2
 CR-Fitchburg-d82ea33a-1,CR-Fitchburg,1,Wachusett - North Station,,1,200021000,canonical-CR-Fitchburg-C1-1,1
 CR-Fitchburg-6528076d-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,200021030,CR-606471-420,2
-CR-Worcester-6436caf7-0,CR-Worcester,0,South Station - Worcester,,1,200030000,CR-598277-513-AshClosedFramShuttleDyn,2
+CR-Fitchburg-d82ea33a-1_FR-3338-CS_FR-0394-02_2,CR-Fitchburg,1,Shirley - North Station,,4,200021990,CR-606468-418-ShirleyWachusettDyn2,2
+CR-Worcester-6436caf7-0,CR-Worcester,0,South Station - Worcester,,1,200030000,CR-598270-501-AshClosedFramShuttleDyn,2
 CR-Worcester-b2e1af39-0,CR-Worcester,0,South Station - Framingham,,2,200030020,CR-595541-591-AshClosedFramShuttleDyn,2
 CR-Worcester-fa71b593-0,CR-Worcester,0,South Station - Worcester,,3,200030050,CR-598285-523-AshClosedFramShuttleDyn,2
 CR-Worcester-dee234b8-0,CR-Worcester,0,South Station - Worcester,,3,200030060,CR-598278-515-AshClosedFramShuttleDyn,2
@@ -70,7 +72,7 @@ CR-Worcester-2fe54abd-0,CR-Worcester,0,South Station - Worcester,,3,200030100,CR
 CR-Worcester-56a7d393-0,CR-Worcester,0,South Station - Worcester,,3,200030120,CR-598283-521-AshClosedFramShuttleDyn,2
 CR-Worcester-4b439f03-0,CR-Worcester,0,South Station - Worcester,,3,200030130,CR-598280-517-AshClosedFramShuttleDyn,2
 CR-Worcester-b463475c-0,CR-Worcester,0,South Station - Worcester,,3,200030170,CR-598288-529-AshClosedFramShuttleDyn,2
-CR-Worcester-647db84d-1,CR-Worcester,1,Worcester - South Station,,1,200031000,CR-598279-516-AshClosedFramShuttleDyn,2
+CR-Worcester-647db84d-1,CR-Worcester,1,Worcester - South Station,,1,200031000,CR-595477-500-AshClosedFramShuttleDyn,2
 CR-Worcester-72c8dfb6-1,CR-Worcester,1,Worcester - South Station,,3,200031050,CR-595493-502-AshClosedFramShuttleDyn,2
 CR-Worcester-cb9d6625-1,CR-Worcester,1,Framingham - South Station,,3,200031070,CR-595479-584-AshClosedFramShuttleDyn,2
 CR-Worcester-257727ec-1,CR-Worcester,1,Worcester - South Station,,3,200031090,CR-595489-526-AshClosedFramShuttleDyn,2
@@ -92,7 +94,7 @@ CR-Franklin-c7fe2218-0,CR-Franklin,0,South Station - Forge Park/495,,3,200040120
 CR-Franklin-C1-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,5,200040991,canonical-CR-Franklin-C1-0,1
 CR-Franklin-C2-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,5,200040992,canonical-CR-Franklin-C2-0,1
 CR-Franklin-7c3247fa-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,200041000,CR-623021-712,2
-CR-Franklin-47d24b90-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,1,200041010,CR-623137-746,2
+CR-Franklin-47d24b90-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,1,200041010,CR-623029-740,2
 CR-Franklin-ef483d40-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,2,200041040,CR-623017-702,2
 CR-Franklin-02118599-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,200041050,CR-623026-728,2
 CR-Franklin-efd9798e-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,200041080,CR-623016-700,2
@@ -108,73 +110,73 @@ CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,200051000,ca
 CR-Greenbush-132de23b-1,CR-Greenbush,1,Greenbush - Braintree,,3,200051040,CR-612501-092-GRBBrainSouthExtend0,2
 CR-Greenbush-BraintreeGreenbush-1,CR-Greenbush,1,Greenbush - Braintree,,4,200051990,CR-595854-1070-GRBBrainSouthTrackDynamic-10,2
 CR-Haverhill-779dede9-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,200060000,canonical-CR-Haverhill-C1-0,1
-CR-Haverhill-fc94d3b2-0,CR-Haverhill,0,North Station - Haverhill via Anderson/Woburn,,2,200060010,CR-641912-211-HaverWoburnReadingDyn,2
-CR-Haverhill-0afec960-0,CR-Haverhill,0,North Station - Reading,,2,200060060,CR-598020-281,2
+CR-Haverhill-fc94d3b2-0,CR-Haverhill,0,North Station - Haverhill via Anderson/Woburn,,2,200060010,CR-641890-221-HaverWoburnReadingDyn,2
+CR-Haverhill-0afec960-0,CR-Haverhill,0,North Station - Reading,,2,200060060,CR-597870-291,2
 CR-Haverhill-5b586e27-0,CR-Haverhill,0,North Station - Haverhill,,3,200060070,CR-597969-217,2
 CR-Haverhill-ebc58735-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,200061000,canonical-CR-Haverhill-C1-1,1
-CR-Haverhill-9a2b8f60-1,CR-Haverhill,1,Haverhill - North Station via Anderson/Woburn,,2,200061010,CR-641911-224-HaverWoburnReadingDyn,2
-CR-Haverhill-0629a9bc-1,CR-Haverhill,1,Reading - North Station,,2,200061060,CR-598019-280,2
+CR-Haverhill-9a2b8f60-1,CR-Haverhill,1,Haverhill - North Station via Anderson/Woburn,,2,200061010,CR-641887-208-HaverWoburnReadingDyn,2
+CR-Haverhill-0629a9bc-1,CR-Haverhill,1,Reading - North Station,,2,200061060,CR-597871-294,2
 CR-Haverhill-6984317f-1,CR-Haverhill,1,Haverhill - North Station,,3,200061080,CR-597974-218,2
 CR-Kingston-5caee635-0,CR-Kingston,0,South Station - Kingston,,1,200070000,canonical-CR-Kingston-C1-0,1
-CR-Kingston-7014db43-0,CR-Kingston,0,Braintree - Kingston,,3,200070030,CR-612505-063-KNGBrainSouthExtend2,2
+CR-Kingston-7014db43-0,CR-Kingston,0,Braintree - Kingston,,3,200070030,CR-595456-065,2
 CR-Kingston-6cec404d-1,CR-Kingston,1,Kingston - South Station,,1,200071000,canonical-CR-Kingston-C1-1,1
-CR-Kingston-35bb26b3-1,CR-Kingston,1,Kingston - Braintree,,3,200071030,CR-612498-060-KNGBrainSouthExtend0,2
-CR-Lowell-90161884-0,CR-Lowell,0,North Station - Lowell,,1,200080000,CR-598012-337,2
+CR-Kingston-35bb26b3-1,CR-Kingston,1,Kingston - Braintree,,3,200071030,CR-598256-064,2
+CR-Lowell-90161884-0,CR-Lowell,0,North Station - Lowell,,1,200080000,CR-594893-329,2
 CR-Lowell-C1-0,CR-Lowell,0,North Station - Lowell,,5,200080991,canonical-CR-Lowell-C1-0,1
-CR-Lowell-5cb1ce1b-1,CR-Lowell,1,Lowell - North Station,,1,200081000,CR-598010-338,2
+CR-Lowell-5cb1ce1b-1,CR-Lowell,1,Lowell - North Station,,1,200081000,CR-594981-306,2
 CR-Lowell-C1-1,CR-Lowell,1,Lowell - North Station,,5,200081991,canonical-CR-Lowell-C1-1,1
 CR-Middleborough-52b80476-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,200090000,canonical-CR-Middleborough-C1-0,1
 CR-Middleborough-92c25d3b-0,CR-Middleborough,0,Braintree - Middleborough/Lakeville,,3,200090030,CR-612493-031-MDLBrainSouthExtend2,2
 CR-Middleborough-75bed2bb-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,200091000,canonical-CR-Middleborough-C1-1,1
 CR-Middleborough-bb403e6b-1,CR-Middleborough,1,Middleborough/Lakeville - Braintree,,3,200091030,CR-612496-028-MDLBrainSouthExtend0,2
-CR-Needham-69669b59-0,CR-Needham,0,South Station - Needham Heights,,1,200100000,CR-622927-615,2
+CR-Needham-69669b59-0,CR-Needham,0,South Station - Needham Heights,,1,200100000,CR-622735-629,2
 CR-Needham-a6552e0a-0,CR-Needham,0,South Station - Needham Heights,,2,200100020,CR-622751-627,2
 CR-Needham-7f6dbefb-0,CR-Needham,0,Forest Hills - Needham Heights,,3,200100050,CR-622797-633,2
 CR-Needham-C1-0,CR-Needham,0,South Station - Needham Heights,,5,200100991,canonical-CR-Needham-C1-0,1
-CR-Needham-d774fb34-1,CR-Needham,1,Needham Heights - South Station,,1,200101000,CR-622928-618,2
+CR-Needham-d774fb34-1,CR-Needham,1,Needham Heights - South Station,,1,200101000,CR-622734-630,2
 CR-Needham-a01e12e1-1,CR-Needham,1,Needham Heights - South Station,,3,200101030,CR-622860-608,2
 CR-Needham-C1-1,CR-Needham,1,Needham Heights - South Station,,5,200101991,canonical-CR-Needham-C1-1,1
-CR-Newburyport-88ea632c-0,CR-Newburyport,0,North Station - Newburyport,,1,200110000,CR-597946-163,2
+CR-Newburyport-88ea632c-0,CR-Newburyport,0,North Station - Newburyport,,1,200110000,CR-597905-157,2
 CR-Newburyport-360e29c2-0,CR-Newburyport,0,North Station - Rockport,,1,200110010,CR-597954-123,2
-CR-Newburyport-2e5dcf28-0,CR-Newburyport,0,North Station - Rockport,,2,200110060,CR-598034-113,2
-CR-Newburyport-a167e624-0,CR-Newburyport,0,North Station - Newburyport,,2,200110080,CR-597959-143,2
+CR-Newburyport-2e5dcf28-0,CR-Newburyport,0,North Station - Rockport,,2,200110060,CR-597958-125,2
+CR-Newburyport-a167e624-0,CR-Newburyport,0,North Station - Newburyport,,2,200110080,CR-597906-161,2
 CR-Newburyport-a5a0fd2f-0,CR-Newburyport,0,North Station - Beverly,,3,200110100,CR-597936-197,2
 CR-Newburyport-dd9f791d-0,CR-Newburyport,0,North Station - Rockport,,3,200110110,CR-598024-103,2
-CR-Newburyport-07c1ce1e-0,CR-Newburyport,0,Swampscott - Rockport,,3,200110120,CR-642403-1117-NorthSwampscottExtendDynamic,2
-CR-Newburyport-a7e93146-0,CR-Newburyport,0,Swampscott - Newburyport,,3,200110130,CR-642419-1165-NorthSwampscottExtendDynamic,2
+CR-Newburyport-07c1ce1e-0,CR-Newburyport,0,Swampscott - Rockport,,3,200110120,CR-642387-1101-NorthSwampscottExtendDynamic,2
+CR-Newburyport-a7e93146-0,CR-Newburyport,0,Swampscott - Newburyport,,3,200110130,CR-642405-1151-NorthSwampscottExtendDynamic,2
 CR-Newburyport-8ac7b3db-0,CR-Newburyport,0,Salem - Newburyport,,3,200110140,CR-597940-167,2
 CR-Newburyport-C1-0,CR-Newburyport,0,North Station - Newburyport,,5,200110991,canonical-CR-Newburyport-C1-0,1
 CR-Newburyport-C2-0,CR-Newburyport,0,North Station - Rockport,,5,200110992,canonical-CR-Newburyport-C2-0,1
 CR-Newburyport-57528297-1,CR-Newburyport,1,Newburyport - North Station,,1,200111000,CR-597922-152,2
-CR-Newburyport-4b171c2a-1,CR-Newburyport,1,Rockport - North Station,,1,200111010,CR-598033-112,2
-CR-Newburyport-ca27047e-1,CR-Newburyport,1,Rockport - North Station,,2,200111050,CR-598035-114,2
-CR-Newburyport-dfd22042-1,CR-Newburyport,1,Newburyport - North Station,,2,200111070,CR-597951-142,2
+CR-Newburyport-4b171c2a-1,CR-Newburyport,1,Rockport - North Station,,1,200111010,CR-597956-122,2
+CR-Newburyport-ca27047e-1,CR-Newburyport,1,Rockport - North Station,,2,200111050,CR-597960-118,2
+CR-Newburyport-dfd22042-1,CR-Newburyport,1,Newburyport - North Station,,2,200111070,CR-597900-146,2
 CR-Newburyport-f25e78f8-1,CR-Newburyport,1,Beverly - North Station,,3,200111090,CR-597933-192,2
 CR-Newburyport-1e00c042-1,CR-Newburyport,1,Beverly - North Station,,3,200111100,CR-597938-198,2
-CR-Newburyport-97351c1a-1,CR-Newburyport,1,Rockport - Swampscott,,3,200111110,CR-642402-1116-NorthSwampscottExtendDynamic,2
-CR-Newburyport-a9239670-1,CR-Newburyport,1,Newburyport - Swampscott,,3,200111120,CR-642418-1164-NorthSwampscottExtendDynamic,2
+CR-Newburyport-97351c1a-1,CR-Newburyport,1,Rockport - Swampscott,,3,200111110,CR-642386-1100-NorthSwampscottExtendDynamic,2
+CR-Newburyport-a9239670-1,CR-Newburyport,1,Newburyport - Swampscott,,3,200111120,CR-642404-1150-NorthSwampscottExtendDynamic,2
 CR-Newburyport-C1-1,CR-Newburyport,1,Newburyport - North Station,,5,200111991,canonical-CR-Newburyport-C1-1,1
 CR-Newburyport-C2-1,CR-Newburyport,1,Rockport - North Station,,5,200111992,canonical-CR-Newburyport-C2-1,1
-CR-Providence-9cf54fb3-0,CR-Providence,0,South Station - Wickford Junction,,1,200120000,CR-623132-833,2
+CR-Providence-9cf54fb3-0,CR-Providence,0,South Station - Wickford Junction,,1,200120000,CR-622758-815,2
 CR-Providence-9515a09b-0,CR-Providence,0,South Station - Stoughton,,1,200120010,CR-622730-879,2
-CR-Providence-743ff41d-0,CR-Providence,0,South Station - Providence,,2,200120030,CR-622906-811,2
+CR-Providence-743ff41d-0,CR-Providence,0,South Station - Providence,,2,200120030,CR-622747-831,2
 CR-Providence-cf299c9f-0,CR-Providence,0,South Station - Stoughton,,3,200120060,CR-622717-873,2
 CR-Providence-a9a49f44-0,CR-Providence,0,South Station - Wickford Junction,,3,200120080,CR-622890-823,2
 CR-Providence-d36ab58d-0,CR-Providence,0,South Station - Stoughton,,3,200120090,CR-622842-893,2
 CR-Providence-410d3e77-0,CR-Providence,0,South Station - Providence,,3,200120110,CR-622804-813,2
 CR-Providence-09309983-0,CR-Providence,0,South Station - Wickford Junction,,3,200120120,CR-622824-809,2
-CR-Providence-d31884e1-0,CR-Providence,0,South Station - Providence,,3,200120130,CR-598561-2803,2
+CR-Providence-d31884e1-0,CR-Providence,0,South Station - Providence,,3,200120130,CR-596059-2817,2
 CR-Providence-43081d8a-0,CR-Providence,0,South Station - Providence,,3,200120140,CR-622921-839,2
 CR-Providence-C1-0,CR-Providence,0,South Station - Wickford Junction,,5,200120991,canonical-CR-Providence-C1-0,1
 CR-Providence-C2-0,CR-Providence,0,South Station - Stoughton,,5,200120992,canonical-CR-Providence-C2-0,1
-CR-Providence-e9395acc-1,CR-Providence,1,Wickford Junction - South Station,,1,200121000,CR-622888-832,2
-CR-Providence-6cae46be-1,CR-Providence,1,Stoughton - South Station,,1,200121010,CR-622930-872,2
-CR-Providence-c2a7e4dc-1,CR-Providence,1,Providence - South Station,,2,200121030,CR-623041-828,2
+CR-Providence-e9395acc-1,CR-Providence,1,Wickford Junction - South Station,,1,200121000,CR-622756-826,2
+CR-Providence-6cae46be-1,CR-Providence,1,Stoughton - South Station,,1,200121010,CR-622716-874,2
+CR-Providence-c2a7e4dc-1,CR-Providence,1,Providence - South Station,,2,200121030,CR-622803-822,2
 CR-Providence-30afc537-1,CR-Providence,1,Providence - South Station,,3,200121060,CR-622759-816,2
 CR-Providence-785f05b1-1,CR-Providence,1,Wickford Junction - South Station,,3,200121070,CR-622850-810,2
 CR-Providence-0465673f-1,CR-Providence,1,Providence - South Station,,3,200121080,CR-622882-818,2
 CR-Providence-53ce6838-1,CR-Providence,1,Wickford Junction - South Station,,3,200121100,CR-622893-836,2
-CR-Providence-b469315c-1,CR-Providence,1,Providence - South Station,,3,200121110,CR-596361-2816,2
+CR-Providence-b469315c-1,CR-Providence,1,Providence - South Station,,3,200121110,CR-596090-2812,2
 CR-Providence-C1-1,CR-Providence,1,Wickford Junction - South Station,,5,200121991,canonical-CR-Providence-C1-1,1
 CR-Providence-C2-1,CR-Providence,1,Stoughton - South Station,,5,200121992,canonical-CR-Providence-C2-1,1
 CR-Foxboro-71c5586e-0,CR-Foxboro,0,South Station - Foxboro,,1,200130000,CR-642500-9779,2
@@ -185,27 +187,27 @@ CR-Foxboro-C1-1,CR-Foxboro,1,Foxboro - South Station,,5,200131991,canonical-CR-F
 CR-Foxboro-C2-1,CR-Foxboro,1,Providence - Foxboro,,5,200131992,canonical-CR-Foxboro-C2-1,1
 CapeFlyer-C1-0,CapeFlyer,0,South Station - Hyannis,,5,210000991,canonical-CapeFlyer-C1-0,1
 CapeFlyer-C1-1,CapeFlyer,1,Hyannis - South Station,,5,210001991,canonical-CapeFlyer-C1-1,1
-Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,300010000,Boat-F4-0630-Long-B-01-Weekday-Summer-23,0
-Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,300011000,Boat-F4-0645-Charlestown-B-01-Weekday-Summer-23,0
-Boat-F1-0-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport & Hull,,1,300020000,Boat-F1-1100-Long-BF2H-01-Weekday-Summer-23,0
-Boat-F1-1-0,Boat-F1,0,Long Wharf - Hingham via Hull,,1,300020010,Boat-F1-1540-Long-BF2H-04-Weekday-Summer-23,0
-Boat-F1-2-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,300020020,Boat-F1-0650-Rowes-BF1-01-Weekday-Summer-23,0
-Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,300020030,Boat-F1-0800-Long-BF2H-01-Weekday-Summer-23,0
-Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,300020040,Boat-F1-0910-Long-BF2H-01-Weekday-Summer-23,0
+Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,300010000,Boat-F4-0630-Long-B-01-WeekdayEarlyEnd-Summer-23,0
+Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,300011000,Boat-F4-0645-Charlestown-B-01-WeekdayEarlyEnd-Summer-23,0
+Boat-F1-0-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport & Hull,,1,300020000,Boat-F1-1100-Long-BF2H-01-WeekdaySeptemberEarlyEnd-Summer-23,0
+Boat-F1-1-0,Boat-F1,0,Long Wharf - Hingham via Hull,,1,300020010,Boat-F1-1300-Long-BF2H-01-WeekdaySeptemberEarlyEnd-Summer-23,0
+Boat-F1-2-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,300020020,Boat-F1-0650-Rowes-BF1-01-WeekdaySeptemberEarlyEnd-Summer-23,0
+Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,300020030,Boat-F1-0800-Long-BF2H-01-WeekdaySeptemberEarlyEnd-Summer-23,0
+Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,300020040,Boat-F1-0910-Long-BF2H-01-WeekdaySeptemberEarlyEnd-Summer-23,0
 Boat-F1-5-0,Boat-F1,0,Long Wharf - Hingham via Georges Island & Hull,Summer weekday middays only,1,300020050,Boat-F1-1300-Long-BF2H-01-Weekday-Summer-23,0
-Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,300020060,Boat-F1-1215-Long-BF2H-03-Weekday-Summer-23,0
+Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,300020060,Boat-F1-1215-Long-BF2H-03-WeekdaySeptemberEarlyEnd-Summer-23,0
 Boat-F1-7-0,Boat-F1,0,Long Wharf - Hingham via Georges Island,,2,300020070,Boat-F1-1200-Long-BF2H-02-Sunday-Summer-23,0
-Boat-F1-9-0,Boat-F1,0,Long Wharf - Hull via Logan Airport,,2,300020090,Boat-F1-0625-Long-BF2H-01-Weekday-Summer-23,0
-Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,300021000,Boat-F1-1300-Hingham-BF2H-03-Weekday-Summer-23,0
-Boat-F1-1-1,Boat-F1,1,Hingham - Long Wharf via Hull,,1,300021010,Boat-F1-0540-Hingham-BF2H-01-Weekday-Summer-23,0
-Boat-F1-2-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,300021020,Boat-F1-0600-Hingham-BF1-01-Weekday-Summer-23,0
-Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,300021030,Boat-F1-0730-Hull-BF2H-01-Weekday-Summer-23,0
-Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,300021040,Boat-F1-1545-Hingham-BF2H-05-Weekday-Summer-23,0
-Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,300021060,Boat-F1-1400-Hingham-BF2H-01-Weekday-Summer-23,0
+Boat-F1-9-0,Boat-F1,0,Long Wharf - Hull via Logan Airport,,2,300020090,Boat-F1-0625-Long-BF2H-01-WeekdaySeptemberEarlyEnd-Summer-23,0
+Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,300021000,Boat-F1-1300-Hingham-BF2H-03-WeekdaySeptemberEarlyEnd-Summer-23,0
+Boat-F1-1-1,Boat-F1,1,Hingham - Long Wharf via Hull,,1,300021010,Boat-F1-0540-Hingham-BF2H-01-WeekdaySeptemberEarlyEnd-Summer-23,0
+Boat-F1-2-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,300021020,Boat-F1-0600-Hingham-BF1-01-WeekdaySeptemberEarlyEnd-Summer-23,0
+Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,300021030,Boat-F1-0730-Hull-BF2H-01-WeekdaySeptemberEarlyEnd-Summer-23,0
+Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,300021040,Boat-F1-1000-Hingham-BF2H-01-WeekdaySeptemberEarlyEnd-Summer-23,0
+Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,300021060,Boat-F1-1400-Hingham-BF2H-01-WeekdaySeptemberEarlyEnd-Summer-23,0
 Boat-F1-7-1,Boat-F1,1,Hingham - Long Wharf via Georges Island,,2,300021070,Boat-F1-0900-Hingham-BF2H-02-Sunday-Summer-23,0
 Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Summer weekday middays only,2,300021080,Boat-F1-1000-Hingham-BF2H-01-Weekday-Summer-23,0
-Boat-EastBoston-0-0,Boat-EastBoston,0,Long Wharf - Lewis Mall Wharf,,1,300050000,Boat-EastBoston-0715-Long-BEB-01-Weekday-Summer-23,0
-Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Mall Wharf - Long Wharf,,1,300051000,Boat-EastBoston-0700-Lewis-BEB-01-Weekday-Summer-23,0
+Boat-EastBoston-0-0,Boat-EastBoston,0,Long Wharf - Lewis Mall Wharf,,1,300050000,Boat-EastBoston-0715-Long-BEB-01-WeekdayEarlyEnd-Summer-23,0
+Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Mall Wharf - Long Wharf,,1,300051000,Boat-EastBoston-0700-Lewis-BEB-01-WeekdayEarlyEnd-Summer-23,0
 Boat-Lynn-1-0,Boat-Lynn,0,Long Wharf - Blossom Street Pier,,1,300070010,Boat-Lynn-0645-Long-BLY-01-WeekdaySeptOct-Summer-23,0
 Boat-Lynn-1-1,Boat-Lynn,1,Blossom Street Pier - Long Wharf,,1,300071010,Boat-Lynn-0600-Blossom-BLY-01-WeekdaySeptOct-Summer-23,0
 Boat-F6-1-0,Boat-F6,0,Central Wharf - Winthrop Landing via Seaport/Fan Pier & Quincy,,1,300090010,Boat-F6-1615-Aquarium-BWN-01-Weekday-Summer-23,0
@@ -848,3 +850,5 @@ Shuttle-OakGroveReading-0-0,Shuttle-OakGroveReading,0,Oak Grove - Reading,,4,621
 Shuttle-OakGroveReading-0-1,Shuttle-OakGroveReading,1,Reading - Oak Grove,,4,621701990,CR-HaverhillOakGroveReadingSpring-Weekday-1-05:00:00,0
 Shuttle-ReadvilleSouthStation-0-0,Shuttle-ReadvilleSouthStation,0,South Station - Readville,,4,623750990,CR-FairmountSpringShuttle-Friday-0-05:45:00,0
 Shuttle-ReadvilleSouthStation-0-1,Shuttle-ReadvilleSouthStation,1,Readville - South Station,,4,623751990,CR-FairmountSpringShuttle-Friday-1-04:45:00,0
+Shuttle-ShirleyWachusett-0-0,Shuttle-ShirleyWachusett,0,Shirley - Wachusett,,4,624600990,CR-594977-415-ShirleyWachusettDyn1,0
+Shuttle-ShirleyWachusett-0-1,Shuttle-ShirleyWachusett,1,Wachusett - Shirley,,4,624601990,CR-606468-418-ShirleyWachusettDyn1,0
