@@ -1,8 +1,4 @@
 service_id,date,exception_type,holiday_name
-LRV423-hlb43011-Wdy-01,20230912,1,
-RTL423-hmo43011-Wdy-01,20230912,1,
-LRV423-hlb43011-Wdy-01,20230913,1,
-RTL423-hmo43011-Wdy-01,20230913,1,
 LRV423-hlb43011-Wdy-01,20230914,1,
 RTL423-hmo43011-Wdy-01,20230914,1,
 Boat-EastBoston-Wdy-Smr-23,20230915,2,
@@ -11,39 +7,46 @@ Boat-F4-Wdy-Smr-23,20230915,2,
 Boat-Lynn-WdySeptOct-Smr-23,20230915,2,
 LRV423-hlb43011-Wdy-01,20230915,1,
 RTL423-hmo43011-Wdy-01,20230915,1,
-RTL423-hms43011-Wdy-01,20230915,1,
 SprWkd,20230915,1,
 LRV423-hlb43016-Sa-01,20230916,1,
 RTL423-hmo43016-Sa-01,20230916,1,
 LRV423-hlb43017-Su-01,20230917,1,
 RTL423-hmo43017-Su-01,20230917,1,
-RTL423-hms43011-Wdy-01,20230918,1,
 SPR23-N-Wdy-1,20230918,2,
 SprWkd,20230918,1,
 SPR23-N-Wdy-1,20230919,2,
 RTL423-hms43011-Wdy-01-BrrNQnc,20230922,1,
 SPR23-S-Wdy-1,20230922,2,
 SPR23-S-Wdy-29-S86,20230922,2,
-RTL423-hms43016-Sa-01,20230923,2,
-SprStd,20230923,2,
-RTL423-hms43017-Su-01,20230924,2,
-SPR23-S-Su-1,20230924,2,
-SPR23-S-Su-1-S8f,20230924,2,
-SPR23-S-Su-1-Sb6,20230924,2,
-SPR23-S-Su-1-Sc0,20230924,2,
+SPR23-S-Wdy-1,20230925,2,
+SPR23-S-Wdy-29-S86,20230925,2,
+SprStd,20230930,1,
+SprSnd,20231001,1,
+BUS423-hbb43hl6-Sa-02,20231009,1,Columbus Day
+BUS423-hbc43tp6-Sa-02,20231009,1,Columbus Day
+BUS423-hbg43tp6-Sa-02,20231009,1,Columbus Day
+BUS423-hbl43hl6-Sa-02,20231009,1,Columbus Day
+BUS423-hbq43hl6-Sa-02,20231009,1,Columbus Day
 BUS423-hbs43sw1-Wdy-02,20231009,2,Columbus Day
+BUS423-hbs43tp6-Sa-02,20231009,1,Columbus Day
+BUS423-hbt43hl6-Sa-02,20231009,1,Columbus Day
 Boat-F1-Wdy-Smr-23,20231009,1,Columbus Day
-ClsD,20231009,1,Columbus Day
 FllWkd,20231009,2,Columbus Day
 LRV423-hlb43011-Wdy-01-f70cae51,20231009,2,Columbus Day
+LRV423-hlb43hl6-Sa-01,20231009,1,Columbus Day
 LRV423-hlm43011-Wdy-01,20231009,2,Columbus Day
+LRV423-hlm43hl6-Sa-01,20231009,1,Columbus Day
 PRIV423-hpa43011-Wdy-01,20231009,2,Columbus Day
 PRIV423-hpa43016-Sa-01,20231009,1,Columbus Day
 PRIV423-hpj43011-Wdy-01,20231009,2,Columbus Day
 PRIV423-hpj43016-Sa-01,20231009,1,Columbus Day
+PRIV423-hpp43hl6-Sa-01,20231009,1,Columbus Day
 RTL423-hmb43011-Wdy-01,20231009,2,Columbus Day
+RTL423-hmb43hl6-Sa-01,20231009,1,Columbus Day
 RTL423-hmo43011-Wdy-01-HOL,20231009,2,Columbus Day
-RTL423-hms43011-Wdy-01,20231009,2,Columbus Day
+RTL423-hmo43hl6-Sa-01,20231009,1,Columbus Day
+RTL423-hms43cl6-Sa-01,20231009,1,Columbus Day
+RTL423-hms43sp1-Wdy-01,20231009,2,Columbus Day
 BUS423-hbs43sn1-Wdy-02,20231110,1,Veterans Day (Observed)
 BUS423-hbs43sw1-Wdy-02,20231110,2,Veterans Day (Observed)
 FllWkd,20231110,2,Veterans Day (Observed)
@@ -55,9 +58,23 @@ BUS423-hbs43sw1-Wdy-02,20231122,2,
 BUS423-hbs43sw1-Wdy-02,20231123,2,Thanksgiving Day
 Boat-F1-Wdy-Fll-23,20231123,2,Thanksgiving Day
 Boat-F4-Wdy-Fll-23,20231123,2,Thanksgiving Day
-CR-Newburyport-LynnShuttleSmr-Snd,20231123,1,Thanksgiving Day
-CR-Newburyport-LynnShuttleSmr-Wkd,20231123,2,Thanksgiving Day
+CR-Newburyport-LynnShuttleFll-Snd,20231123,1,Thanksgiving Day
+CR-Newburyport-LynnShuttleFll-Wkd,20231123,2,Thanksgiving Day
+FLL 23-N-Su-1,20231123,1,Thanksgiving Day
+FLL 23-N-Su-1-S6d,20231123,1,Thanksgiving Day
+FLL 23-N-Su-1-S72,20231123,1,Thanksgiving Day
+FLL 23-N-Su-1-S9f,20231123,1,Thanksgiving Day
+FLL 23-N-Wdy-1,20231123,2,Thanksgiving Day
+FLL 23-S-Su-1,20231123,1,Thanksgiving Day
+FLL 23-S-Su-1-S86,20231123,1,Thanksgiving Day
+FLL 23-S-Su-1-S8f,20231123,1,Thanksgiving Day
+FLL 23-S-Su-1-Sb0e4ed14-AshCldFrmShlDn,20231123,1,Thanksgiving Day
+FLL 23-S-Su-1-Sb6,20231123,1,Thanksgiving Day
+FLL 23-S-Su-1-Sc0,20231123,1,Thanksgiving Day
+FLL 23-S-Su-1-Sc5,20231123,1,Thanksgiving Day
+FLL 23-S-Wdy-1-Sb0e4ed14-AshCldFrmShlDn,20231123,2,Thanksgiving Day
 FllWkd,20231123,2,Thanksgiving Day
+FlrWkd,20231123,2,Thanksgiving Day
 LRV423-hlb43011-Wdy-01,20231123,2,Thanksgiving Day
 LRV423-hlm43011-Wdy-01,20231123,2,Thanksgiving Day
 PRIV423-hpa43011-Wdy-01,20231123,2,Thanksgiving Day
@@ -65,27 +82,7 @@ PRIV423-hpj43011-Wdy-01,20231123,2,Thanksgiving Day
 PRIV423-hpj43017-Su-01,20231123,1,Thanksgiving Day
 RTL423-hmb43011-Wdy-01,20231123,2,Thanksgiving Day
 RTL423-hmo43011-Wdy-01,20231123,2,Thanksgiving Day
-RTL423-hms43011-Wdy-01,20231123,2,Thanksgiving Day
-SPR23-N-Su-1,20231123,1,Thanksgiving Day
-SPR23-N-Su-1-S6d,20231123,1,Thanksgiving Day
-SPR23-N-Su-1-S72,20231123,1,Thanksgiving Day
-SPR23-N-Su-1-S9f,20231123,1,Thanksgiving Day
-SPR23-N-Wdy-1,20231123,2,Thanksgiving Day
-SPR23-N-Wdy-1-S6d,20231123,2,Thanksgiving Day
-SPR23-N-Wdy-1-S72,20231123,2,Thanksgiving Day
-SPR23-N-Wdy-1-S9f,20231123,2,Thanksgiving Day
-SPR23-S-Su-1,20231123,1,Thanksgiving Day
-SPR23-S-Su-1-S86,20231123,1,Thanksgiving Day
-SPR23-S-Su-1-S8f,20231123,1,Thanksgiving Day
-SPR23-S-Su-1-Sb0e4ed14-AshCldFrmShlDn,20231123,1,Thanksgiving Day
-SPR23-S-Su-1-Sb6,20231123,1,Thanksgiving Day
-SPR23-S-Su-1-Sc0,20231123,1,Thanksgiving Day
-SPR23-S-Su-1-Sc5,20231123,1,Thanksgiving Day
-SPR23-S-Wdy-1,20231123,2,Thanksgiving Day
-SPR23-S-Wdy-1-Sb0e4ed14-AshCldFrmShlDn,20231123,2,Thanksgiving Day
-SPR23-S-Wdy-29-S86,20231123,2,Thanksgiving Day
-SPR23-S-Wdy-29-Sc5,20231123,2,Thanksgiving Day
-SprWkd,20231123,2,Thanksgiving Day
+RTL423-hms43sp1-Wdy-01,20231123,2,Thanksgiving Day
 ThgD,20231123,1,Thanksgiving Day
 BUS423-hbs43sf1-Wdy-02,20231124,1,Day after Thanksgiving Day
 BUS423-hbs43sw1-Wdy-02,20231124,2,Day after Thanksgiving Day
