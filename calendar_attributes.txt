@@ -27,12 +27,18 @@ Boat-Lynn-WdySeptOct-Smr-23,Weekday schedule,Weekday,Weekday,1,20230527,20231009
 CR-Fairmount-ReadvilleSprShuttle-Snd,Sunday schedule,Sunday,Sunday,4,20230522,,Spring/Summer
 CR-Fairmount-ReadvilleSprShuttle-Std,Saturday schedule,Saturday,Saturday,4,20230522,,Spring/Summer
 CR-Fairmount-ReadvilleSprShuttle-Wkd,Weekday schedule,Weekday,Weekday,4,20230522,,Spring/Summer
-CR-Haverhill-OakGroveReadingSpr-Snd,Sunday schedule,Sunday,Sunday,4,20230522,20231216,Spring/Summer
-CR-Haverhill-OakGroveReadingSpr-Std,Saturday schedule,Saturday,Saturday,4,20230522,20231216,Spring/Summer
-CR-Haverhill-OakGroveReadingSpr-Wkd,Weekday schedule,Weekday,Weekday,4,20230522,20231216,Spring/Summer
-CR-Haverhill-ReadingWoburnSpr-Snd,Sunday schedule,Sunday,Sunday,4,20230522,20231216,Spring/Summer
-CR-Haverhill-ReadingWoburnSpr-Std,Saturday schedule,Saturday,Saturday,4,20230522,20231216,Spring/Summer
-CR-Haverhill-ReadingWoburnSpr-Wkd,Weekday schedule,Weekday,Weekday,4,20230522,20231216,Spring/Summer
+CR-Haverhill-OakGroveReadingFll-Snd,Sunday schedule,Sunday,Sunday,4,20231002,20231216,Fall/Winter
+CR-Haverhill-OakGroveReadingFll-Std,Saturday schedule,Saturday,Saturday,4,20231002,20231216,Fall/Winter
+CR-Haverhill-OakGroveReadingFll-Wkd,Weekday schedule,Weekday,Weekday,4,20231002,20231216,Fall/Winter
+CR-Haverhill-OakGroveReadingSpr-Snd,Sunday schedule,Sunday,Sunday,4,20230522,20231001,Spring/Summer
+CR-Haverhill-OakGroveReadingSpr-Std,Saturday schedule,Saturday,Saturday,4,20230522,20231001,Spring/Summer
+CR-Haverhill-OakGroveReadingSpr-Wkd,Weekday schedule,Weekday,Weekday,4,20230522,20231001,Spring/Summer
+CR-Haverhill-ReadingWoburnFll-Snd,Sunday schedule,Sunday,Sunday,4,20231002,20231216,Fall/Winter
+CR-Haverhill-ReadingWoburnFll-Std,Saturday schedule,Saturday,Saturday,4,20231002,20231216,Fall/Winter
+CR-Haverhill-ReadingWoburnFll-Wkd,Weekday schedule,Weekday,Weekday,4,20231002,20231216,Fall/Winter
+CR-Haverhill-ReadingWoburnSpr-Snd,Sunday schedule,Sunday,Sunday,4,20230522,20231001,Spring/Summer
+CR-Haverhill-ReadingWoburnSpr-Std,Saturday schedule,Saturday,Saturday,4,20230522,20231001,Spring/Summer
+CR-Haverhill-ReadingWoburnSpr-Wkd,Weekday schedule,Weekday,Weekday,4,20230522,20231001,Spring/Summer
 CR-Newburyport-LynnShuttleFll-Snd,Sunday schedule,Sunday,Sunday,4,20231002,20231216,Fall/Winter
 CR-Newburyport-LynnShuttleFll-Std,Saturday schedule,Saturday,Saturday,4,20231002,20231216,Fall/Winter
 CR-Newburyport-LynnShuttleFll-Wkd,Weekday schedule,Weekday,Weekday,4,20231002,20231216,Fall/Winter
@@ -51,8 +57,14 @@ FLL 23-N-Su-5,Sunday schedule (modified service),Sunday (modified service),Sunda
 FLL 23-N-Su-6,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
 FLL 23-N-Wdy-1,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
 FLL 23-N-Wdy-5,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,,Fall/Winter
+FLL 23-S-Sa-1-S859962ef-MDLBrnSthDnc,Saturday schedule,Saturday,Saturday,4,20231002,,Fall/Winter
+FLL 23-S-Sa-1-S8f,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
 FLL 23-S-Sa-1-Sb0e4ed14-AshCldFrmShlDn,Saturday schedule,Saturday,Saturday,4,20231002,,Fall/Winter
 FLL 23-S-Sa-1-Sb4,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FLL 23-S-Sa-1-Sb6,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FLL 23-S-Sa-1-Sb7371956-GRBBrnSthTrkDnc,Saturday schedule,Saturday,Saturday,4,20231002,,Fall/Winter
+FLL 23-S-Sa-1-Sc0,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FLL 23-S-Sa-1-Sc9a3b080-KNGBrnSthTrkDnc,Saturday schedule,Saturday,Saturday,4,20231002,,Fall/Winter
 FLL 23-S-Su-1,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
 FLL 23-S-Su-1-S86,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
 FLL 23-S-Su-1-S8f,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
@@ -92,31 +104,30 @@ RTL423-hmo43016-Sa-01-HOL,Saturday schedule,Saturday,Saturday,4,20230827,2023121
 RTL423-hmo43017-Su-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 RTL423-hmo43017-Su-01-HOL,Sunday schedule,Sunday,Sunday,4,20230827,20231216,Fall
 RTL423-hmo43hl6-Sa-01,Holiday (Saturday schedule),Holiday,Saturday,3,20230827,20231216,Fall
-RTL423-hms43011-Wdy-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
-RTL423-hms43011-Wdy-01-BrrNQnc,Weekday schedule,Weekday,Weekday,4,20230827,20231216,Fall
-RTL423-hms43016-Sa-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
-RTL423-hms43016-Sa-01-BrrNQnc,Saturday schedule,Saturday,Saturday,4,20230827,20231216,Fall
-RTL423-hms43017-Su-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
+RTL423-hms43011-Wdy-01,Weekday schedule,Weekday,Weekday,4,20230827,20231216,Fall
+RTL423-hms43016-Sa-01,Saturday schedule,Saturday,Saturday,4,20230827,20231216,Fall
 RTL423-hms43cl6-Sa-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+RTL423-hms43sh6-Sa-01,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20230827,20231216,Fall
+RTL423-hms43sh7-Su-01,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20230827,20231216,Fall
 RTL423-hms43sp1-Wdy-01,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20230827,20231216,Fall
 RTL423-hms43sp6-Sa-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
 RTL423-hms43sp7-Su-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 RTL423-hms43sp7-Su-01-BrrNQnc,Sunday schedule,Sunday,Sunday,4,20230827,20231216,Fall
+Red-SeptOctShuttle-Snd,Sunday schedule (construction),Sunday (construction),Sunday,4,20230827,20231216,Fall
+Red-SeptOctShuttle-Std,Saturday schedule (construction),Saturday (construction),Saturday,4,20230827,20231216,Fall
 SPR23-N-Sa-1,Saturday schedule,Saturday,Saturday,1,20230522,20231001,Spring/Summer
 SPR23-N-Sa-1-S72,Saturday schedule,Saturday,Saturday,1,20230522,20231001,Spring/Summer
 SPR23-N-Sa-1-S9f,Saturday schedule,Saturday,Saturday,1,20230522,20231001,Spring/Summer
-SPR23-N-Sa-1-ShlWctDn,Saturday schedule,Saturday,Saturday,4,20230522,20231001,Spring/Summer
 SPR23-N-Sa-37,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20230522,20231001,Spring/Summer
 SPR23-N-Su-1,Sunday schedule,Sunday,Sunday,1,20230522,20231001,Spring/Summer
 SPR23-N-Su-1-S72,Sunday schedule,Sunday,Sunday,1,20230522,20231001,Spring/Summer
 SPR23-N-Su-1-S9f,Sunday schedule,Sunday,Sunday,1,20230522,20231001,Spring/Summer
-SPR23-N-Su-1-ShlWctDn,Sunday schedule,Sunday,Sunday,4,20230522,20231001,Spring/Summer
 SPR23-N-Su-37,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20230522,20231001,Spring/Summer
 SPR23-N-Wdy-1,Weekday schedule,Weekday,Weekday,1,20230522,20231001,Spring/Summer
 SPR23-N-Wdy-1-S72,Weekday schedule,Weekday,Weekday,1,20230522,20231001,Spring/Summer
 SPR23-N-Wdy-1-S9f,Weekday schedule,Weekday,Weekday,1,20230522,20231001,Spring/Summer
-SPR23-N-Wdy-1-ShlWctDn,Weekday schedule,Weekday,Weekday,4,20230522,20231001,Spring/Summer
 SPR23-N-Wdy-37,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20230522,20231001,Spring/Summer
+SPR23-S-Sa-1,Saturday schedule,Saturday,Saturday,1,20230522,20231001,Spring/Summer
 SPR23-S-Sa-1-S859962ef-MDLBrnSthDnc,Saturday schedule,Saturday,Saturday,4,20230522,20231001,Spring/Summer
 SPR23-S-Sa-1-S86,Saturday schedule,Saturday,Saturday,1,20230522,20231001,Spring/Summer
 SPR23-S-Sa-1-Sb0e4ed14-AshCldFrmShlDn,Saturday schedule,Saturday,Saturday,4,20230522,20231001,Spring/Summer
@@ -124,13 +135,13 @@ SPR23-S-Sa-1-Sb7371956-GRBBrnSthTrkDnc,Saturday schedule,Saturday,Saturday,4,202
 SPR23-S-Sa-1-Sc5,Saturday schedule,Saturday,Saturday,1,20230522,20231001,Spring/Summer
 SPR23-S-Sa-1-Sc9a3b080-KNGBrnSthTrkDnc,Saturday schedule,Saturday,Saturday,4,20230522,20231001,Spring/Summer
 SPR23-S-Sa-76,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20230522,20231001,Spring/Summer
+SPR23-S-Su-1,Sunday schedule,Sunday,Sunday,1,20230522,20231001,Spring/Summer
 SPR23-S-Su-1-S859962ef-MDLBrnSthDnc,Sunday schedule,Sunday,Sunday,4,20230522,20231001,Spring/Summer
 SPR23-S-Su-1-S86,Sunday schedule,Sunday,Sunday,1,20230522,20231001,Spring/Summer
 SPR23-S-Su-1-Sb0e4ed14-AshCldFrmShlDn,Sunday schedule,Sunday,Sunday,4,20230522,20231001,Spring/Summer
 SPR23-S-Su-1-Sb7371956-GRBBrnSthTrkDnc,Sunday schedule,Sunday,Sunday,4,20230522,20231001,Spring/Summer
 SPR23-S-Su-1-Sc5,Sunday schedule,Sunday,Sunday,1,20230522,20231001,Spring/Summer
 SPR23-S-Su-1-Sc9a3b080-KNGBrnSthTrkDnc,Sunday schedule,Sunday,Sunday,4,20230522,20231001,Spring/Summer
-SPR23-S-Su-73,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20230522,20231001,Spring/Summer
 SPR23-S-Wdy-1,Weekday schedule,Weekday,Weekday,1,20230522,20231001,Spring/Summer
 SPR23-S-Wdy-1-Sb0e4ed14-AshCldFrmShlDn,Weekday schedule,Weekday,Weekday,4,20230522,20231001,Spring/Summer
 SPR23-S-Wdy-18-S859962ef-MDLBrnSthExd,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20230522,20231001,Spring/Summer
@@ -142,9 +153,6 @@ SPR23-S-Wdy-39,Weekday schedule (modified service),Weekday (modified service),We
 SPR23-S-Wdy-77,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20230522,20231001,Spring/Summer
 SmrSnd,Sunday schedule,Sunday,Sunday,1,20230527,20231009,Summer
 SmrStd,Saturday schedule,Saturday,Saturday,1,20230527,20231009,Summer
-SmrWkd,Weekday schedule,Weekday,Weekday,1,20230527,20231009,Summer
-SprSnd,Sunday schedule,Sunday,Sunday,1,20230522,20231001,Spring/Summer
-SprStd,Saturday schedule,Saturday,Saturday,1,20230522,20231001,Spring/Summer
 SprWkd,Weekday schedule,Weekday,Weekday,1,20230522,20231001,Spring/Summer
 ThgD,Holiday (Sunday schedule),Holiday,Sunday,3,20230827,20231216,Fall
 VeteransDay(Observed)-DfrThgD,Weekday schedule (no school),Weekday (no school),Weekday,1,20230827,20231216,Fall
