@@ -1,9 +1,13 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id,canonical_route_pattern
 Red-3-0,Red,0,Alewife - Braintree,,1,100100000,canonical-Red-C1-0,1
 Red-1-0,Red,0,Alewife - Ashmont,,1,100100001,canonical-Red-C2-0,1
+Red-N-0,Red,0,North Quincy - Braintree,Weekends only,3,100100080,59239286,2
+Red-R-0,Red,0,Alewife - Broadway,Weekends only,3,100100090,59239295,2
 Red-3-0_70097_70105_0,Red,0,Alewife - North Quincy,,4,100100990,58645712-20:30-BraintreeNQuincy0,2
 Red-3-1,Red,1,Braintree - Alewife,,1,100101000,canonical-Red-C1-1,1
 Red-1-1,Red,1,Ashmont - Alewife,,1,100101001,canonical-Red-C2-1,1
+Red-N-1,Red,1,Braintree - North Quincy,Weekends only,3,100101080,59239224,2
+Red-R-1,Red,1,Broadway - Alewife,Weekends only,3,100101090,59239293,2
 Red-3-1_70105_70098_2,Red,1,North Quincy - Alewife,,4,100101990,58645588-20:30-BraintreeNQuincy2,2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,100110000,canonical-Mattapan-C1-0,1
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,100111000,canonical-Mattapan-C1-1,1
@@ -58,11 +62,9 @@ CR-Fairmount-ff9cd1ee-1,CR-Fairmount,1,Readville - South Station via Fairmount,,
 CR-Fitchburg-2a5f6366-0,CR-Fitchburg,0,North Station - Wachusett,,1,200020000,canonical-CR-Fitchburg-C1-0,1
 CR-Fitchburg-acb28c6e-0,CR-Fitchburg,0,North Station - Littleton/Route 495,,2,200020040,CR-595062-417,2
 CR-Fitchburg-8294748d-0,CR-Fitchburg,0,North Station - Wachusett,,3,200020060,CR-627743-423,2
-CR-Fitchburg-2a5f6366-0_FR-0394-02_FR-3338-CS_0,CR-Fitchburg,0,North Station - Shirley,,4,200020990,CR-610937-425-ShirleyWachusettDyn0,2
 CR-Fitchburg-d82ea33a-1,CR-Fitchburg,1,Wachusett - North Station,,1,200021000,canonical-CR-Fitchburg-C1-1,1
 CR-Fitchburg-6528076d-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,200021040,CR-606471-420,2
 CR-Fitchburg-94972bc9-1,CR-Fitchburg,1,Wachusett - North Station,,3,200021060,CR-627730-404,2
-CR-Fitchburg-d82ea33a-1_FR-3338-CS_FR-0394-02_2,CR-Fitchburg,1,Shirley - North Station,,4,200021990,CR-606492-414-ShirleyWachusettDyn2,2
 CR-Worcester-6436caf7-0,CR-Worcester,0,South Station - Worcester,,1,200030000,CR-598277-513-AshClosedFramShuttleDyn,2
 CR-Worcester-b2e1af39-0,CR-Worcester,0,South Station - Framingham,,2,200030020,CR-595541-591-AshClosedFramShuttleDyn,2
 CR-Worcester-08f75e4f-0,CR-Worcester,0,South Station - Worcester,,2,200030030,CR-628038-501-AshClosedFramShuttleDyn,2
@@ -151,9 +153,9 @@ CR-Haverhill-6984317f-1,CR-Haverhill,1,Haverhill - North Station,,3,200061110,CR
 CR-Haverhill-dcfde8e9-1,CR-Haverhill,1,Lawrence - North Station via Reading,,3,200061130,CR-627663-280,2
 CR-Haverhill-6115cef6-1,CR-Haverhill,1,Lawrence - North Station via Anderson/Woburn,,3,200061140,CR-643628-280-HaverWoburnReadingDyn,2
 CR-Kingston-5caee635-0,CR-Kingston,0,South Station - Kingston,,1,200070000,canonical-CR-Kingston-C1-0,1
-CR-Kingston-7014db43-0,CR-Kingston,0,Braintree - Kingston,,3,200070040,CR-612505-063-KNGBrainSouthExtend2,2
+CR-Kingston-7014db43-0,CR-Kingston,0,Braintree - Kingston,,3,200070040,CR-595456-065,2
 CR-Kingston-6cec404d-1,CR-Kingston,1,Kingston - South Station,,1,200071000,canonical-CR-Kingston-C1-1,1
-CR-Kingston-35bb26b3-1,CR-Kingston,1,Kingston - Braintree,,3,200071040,CR-612498-060-KNGBrainSouthExtend0,2
+CR-Kingston-35bb26b3-1,CR-Kingston,1,Kingston - Braintree,,3,200071040,CR-598256-064,2
 CR-Lowell-90161884-0,CR-Lowell,0,North Station - Lowell,,1,200080000,CR-598012-337,2
 CR-Lowell-C1-0,CR-Lowell,0,North Station - Lowell,,5,200080991,canonical-CR-Lowell-C1-0,1
 CR-Lowell-5cb1ce1b-1,CR-Lowell,1,Lowell - North Station,,1,200081000,CR-598010-338,2
@@ -872,15 +874,17 @@ Shuttle-AndersonWoburnReading-0-0,Shuttle-AndersonWoburnReading,0,Anderson/Wobur
 Shuttle-AndersonWoburnReading-0-1,Shuttle-AndersonWoburnReading,1,Reading - Anderson/Woburn,,4,602311990,CR-HaverhillReadingWoburnSpring-Weekday-1-06:01:00,0
 Shuttle-AshlandFramingham-0-0,Shuttle-AshlandFramingham,0,Framingham - Ashland,,4,602380990,CR-598270-501-AshClosedFramShuttleDyn1,0
 Shuttle-AshlandFramingham-0-1,Shuttle-AshlandFramingham,1,Ashland - Framingham,,4,602381990,CR-595477-500-AshClosedFramShuttleDyn1,0
+Shuttle-AshmontBroadway-0-0,Shuttle-AshmontBroadway,0,Broadway - Ashmont,,4,602600990,Red-SeptOctShuttle-Saturday-A-0-05:53:00,0
+Shuttle-AshmontBroadway-0-1,Shuttle-AshmontBroadway,1,Ashmont - Broadway,,4,602601990,Red-SeptOctShuttle-Saturday-A-1-05:20:00,0
 Shuttle-BraintreeNorthQuincy-0-0,Shuttle-BraintreeNorthQuincy,0,North Quincy - Braintree,,4,609500990,58645712-20:30-BraintreeNQuincy1,0
 Shuttle-BraintreeNorthQuincy-0-1,Shuttle-BraintreeNorthQuincy,1,Braintree - North Quincy,,4,609501990,58645588-20:30-BraintreeNQuincy1,0
-Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,South Station - Braintree (Express),,4,610100990,CR-612493-031-MDLBrainSouthExtendB1,0
-Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,4,610101990,CR-612496-028-MDLBrainSouthExtendB1,0
+Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,South Station - Braintree (Express),,4,610100990,CR-598447-1003-MDLBrainSouthDynamic2B1,0
+Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,4,610101990,CR-595834-1002-MDLBrainSouthDynamic0B1,0
+Shuttle-BroadwayNorthQuincy-0-0,Shuttle-BroadwayNorthQuincy,0,Broadway - North Quincy,,4,610800990,Red-SeptOctShuttle-Saturday-B-0-05:53:00,0
+Shuttle-BroadwayNorthQuincy-0-1,Shuttle-BroadwayNorthQuincy,1,North Quincy - Broadway,,4,610801990,Red-SeptOctShuttle-Saturday-B-1-05:30:00,0
 Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,4,620530990,CR-NewburyportLynnShuttleSummer-Weekday-0-05:08:00,0
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,4,620531990,CR-NewburyportLynnShuttleSummer-Weekday-1-05:31:00,0
 Shuttle-OakGroveReading-0-0,Shuttle-OakGroveReading,0,Oak Grove - Reading,,4,621700990,CR-HaverhillOakGroveReadingSpring-Weekday-0-05:40:00,0
 Shuttle-OakGroveReading-0-1,Shuttle-OakGroveReading,1,Reading - Oak Grove,,4,621701990,CR-HaverhillOakGroveReadingSpring-Weekday-1-05:00:00,0
 Shuttle-ReadvilleSouthStation-0-0,Shuttle-ReadvilleSouthStation,0,South Station - Readville,,4,623750990,CR-FairmountSpringShuttle-Weekday-0-05:45:00,0
 Shuttle-ReadvilleSouthStation-0-1,Shuttle-ReadvilleSouthStation,1,Readville - South Station,,4,623751990,CR-FairmountSpringShuttle-Weekday-1-04:45:00,0
-Shuttle-ShirleyWachusett-0-0,Shuttle-ShirleyWachusett,0,Shirley - Wachusett,,4,624600990,CR-594977-415-ShirleyWachusettDyn1,0
-Shuttle-ShirleyWachusett-0-1,Shuttle-ShirleyWachusett,1,Wachusett - Shirley,,4,624601990,CR-606468-418-ShirleyWachusettDyn1,0
