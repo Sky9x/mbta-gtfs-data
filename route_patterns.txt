@@ -1,12 +1,8 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id,canonical_route_pattern
 Red-3-0,Red,0,Alewife - Braintree,,1,100100000,canonical-Red-C1-0,1
 Red-1-0,Red,0,Alewife - Ashmont,,1,100100001,canonical-Red-C2-0,1
-Red-N-0,Red,0,North Quincy - Braintree,Weekends only,3,100100080,59239286,2
-Red-R-0,Red,0,Alewife - Broadway,Weekends only,3,100100090,59239295,2
 Red-3-1,Red,1,Braintree - Alewife,,1,100101000,canonical-Red-C1-1,1
 Red-1-1,Red,1,Ashmont - Alewife,,1,100101001,canonical-Red-C2-1,1
-Red-N-1,Red,1,Braintree - North Quincy,Weekends only,3,100101080,59239224,2
-Red-R-1,Red,1,Broadway - Alewife,Weekends only,3,100101090,59239293,2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,100110000,canonical-Mattapan-C1-0,1
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,100111000,canonical-Mattapan-C1-1,1
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,100200000,canonical-Orange-C1-0,1
@@ -27,13 +23,11 @@ Green-D-855-0,Green-D,0,Union Square - Riverside,,1,100340000,canonical-Green-D-
 Green-D-856-0,Green-D,0,Medford/Tufts - Riverside,Weekday mornings only,3,100340040,58398269,2
 Green-D-855-0_70206_70202_0,Green-D,0,Union Square - North Station,,4,100340990,58398254-GovtCtrNorthStaGovtMedSuspendD0,2
 Green-D-855-0_70206_70202_2,Green-D,0,Government Center - Riverside,,4,100340990,58398254-GovtCtrNorthStaGovtMedSuspendD2,2
-Green-D-855-0_70504_70202_2,Green-D,0,Government Center - Riverside,,4,100340990,58398254-GovtMedSuspendDGovtUnSqSuspendD2,2
 Green-D-856-0_70512_70202_2,Green-D,0,Government Center - Riverside,,4,100340990,58398269-GovtCtrNorthStaGovtMedSuspendD2,2
 Green-D-855-1,Green-D,1,Riverside - Union Square,,1,100341000,canonical-Green-D-C1-1,1
 Green-D-856-1,Green-D,1,Riverside - Medford/Tufts,Weekday early mornings only,3,100341040,58398268,2
 Green-D-855-1_70201_70205_0,Green-D,1,Riverside - Government Center,,4,100341990,58398253-GovtCtrNorthStaGovtMedSuspendD0,2
 Green-D-855-1_70201_70205_2,Green-D,1,North Station - Union Square,,4,100341990,58398253-GovtCtrNorthStaGovtMedSuspendD2,2
-Green-D-855-1_70201_70503_0,Green-D,1,Riverside - Government Center,,4,100341990,58398253-GovtMedSuspendDGovtUnSqSuspendD0,2
 Green-D-856-1_70201_70511_0,Green-D,1,Riverside - Government Center,,4,100341990,58398268-GovtCtrNorthStaGovtMedSuspendD0,2
 Green-E-886-0,Green-E,0,Medford/Tufts - Heath Street,,1,100350000,canonical-Green-E-C1-0,1
 Green-E-886-0_70206_70202_0,Green-E,0,Medford/Tufts - North Station,,4,100350990,58397672-GovtCtrNorthStaGovtMedSuspendD0,2
@@ -115,9 +109,7 @@ CR-Franklin-541f8dad-1,CR-Franklin,1,Franklin - South Station via Fairmount,,3,2
 CR-Franklin-C1-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,5,200041991,canonical-CR-Franklin-C1-1,1
 CR-Franklin-C2-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,5,200041992,canonical-CR-Franklin-C2-1,1
 CR-Greenbush-6d652c57-0,CR-Greenbush,0,South Station - Greenbush,,1,200050000,canonical-CR-Greenbush-C1-0,1
-CR-Greenbush-BraintreeGreenbush-0,CR-Greenbush,0,Braintree - Greenbush,,4,200050990,CR-628342-1071-GRBBrainSouthTrackDynamic-12,2
 CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,200051000,canonical-CR-Greenbush-C1-1,1
-CR-Greenbush-BraintreeGreenbush-1,CR-Greenbush,1,Greenbush - Braintree,,4,200051990,CR-628341-1070-GRBBrainSouthTrackDynamic-10,2
 CR-Haverhill-779dede9-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,200060000,canonical-CR-Haverhill-C1-0,1
 CR-Haverhill-fc94d3b2-0,CR-Haverhill,0,North Station - Haverhill via Anderson/Woburn,,2,200060010,CR-643635-215-HaverWoburnReadingDyn,2
 CR-Haverhill-0afec960-0,CR-Haverhill,0,North Station - Reading,,2,200060080,CR-627680-297,2
@@ -201,9 +193,7 @@ Boat-F1-1-0,Boat-F1,0,Long Wharf - Hingham via Hull,,1,300020010,Boat-F1-1300-Lo
 Boat-F1-2-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,300020020,Boat-F1-0650-Rowes-BF1-01-Weekday-Fall-23,0
 Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,300020030,Boat-F1-0800-Long-BF2H-01-Weekday-Fall-23,0
 Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,300020040,Boat-F1-0910-Long-BF2H-01-Weekday-Fall-23,0
-Boat-F1-5-0,Boat-F1,0,Long Wharf - Hingham via Georges Island & Hull,Summer weekday middays only,1,300020050,Boat-F1-1300-Long-BF2H-01-Weekday-Summer-23,0
 Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,300020060,Boat-F1-1215-Long-BF2H-03-Weekday-Fall-23,0
-Boat-F1-7-0,Boat-F1,0,Long Wharf - Hingham via Georges Island,,2,300020070,Boat-F1-1200-Long-BF2H-02-Saturday-Summer-23,0
 Boat-F1-9-0,Boat-F1,0,Long Wharf - Hull via Logan Airport,,2,300020090,Boat-F1-0625-Long-BF2H-01-Weekday-Fall-23,0
 Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,300021000,Boat-F1-1300-Hingham-BF2H-03-Weekday-Fall-23,0
 Boat-F1-1-1,Boat-F1,1,Hingham - Long Wharf via Hull,,1,300021010,Boat-F1-0540-Hingham-BF2H-01-Weekday-Fall-23,0
@@ -211,8 +201,6 @@ Boat-F1-2-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,300021020,Boat-F1-06
 Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,300021030,Boat-F1-0730-Hull-BF2H-01-Weekday-Fall-23,0
 Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,300021040,Boat-F1-1000-Hingham-BF2H-01-Weekday-Fall-23,0
 Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,300021060,Boat-F1-1400-Hingham-BF2H-01-Weekday-Fall-23,0
-Boat-F1-7-1,Boat-F1,1,Hingham - Long Wharf via Georges Island,,2,300021070,Boat-F1-0900-Hingham-BF2H-02-Saturday-Summer-23,0
-Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Summer weekday middays only,2,300021080,Boat-F1-1000-Hingham-BF2H-01-Weekday-Summer-23,0
 Boat-EastBoston-0-0,Boat-EastBoston,0,Long Wharf - Lewis Mall Wharf,,1,300050000,Boat-EastBoston-0715-Long-BEB-01-Weekday-Fall-23,0
 Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Mall Wharf - Long Wharf,,1,300051000,Boat-EastBoston-0700-Lewis-BEB-01-Weekday-Fall-23,0
 Boat-Lynn-1-0,Boat-Lynn,0,Long Wharf - Blossom Street Pier,,1,300070010,Boat-Lynn-0645-Long-BLY-01-Weekday-Fall-23,0
@@ -844,12 +832,6 @@ Shuttle-AshlandFramingham-0-0,Shuttle-AshlandFramingham,0,Framingham - Ashland,,
 Shuttle-AshlandFramingham-0-1,Shuttle-AshlandFramingham,1,Ashland - Framingham,,4,602381990,CR-628001-538-AshClosedFramShuttleDyn1,0
 Shuttle-AshmontJFK-_-0,Shuttle-AshmontJFK,0,JFK/UMass - Ashmont,,1,602500000,59525330,0
 Shuttle-AshmontJFK-_-1,Shuttle-AshmontJFK,1,Ashmont - JFK/UMass,,1,602501000,59525328,0
-Shuttle-AshmontBroadway-0-0,Shuttle-AshmontBroadway,0,Broadway - Ashmont,,4,602600990,Red-SeptOctShuttle-Saturday-A-0-05:53:00,0
-Shuttle-AshmontBroadway-0-1,Shuttle-AshmontBroadway,1,Ashmont - Broadway,,4,602601990,Red-SeptOctShuttle-Saturday-A-1-05:20:00,0
-Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,South Station - Braintree (Express),,4,610100990,CR-628304-1003-MDLBrainSouthDynamic2B1,0
-Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,4,610101990,CR-628305-1002-MDLBrainSouthDynamic0B1,0
-Shuttle-BroadwayNorthQuincy-0-0,Shuttle-BroadwayNorthQuincy,0,Broadway - North Quincy,,4,610800990,Red-SeptOctShuttle-Saturday-B-0-05:53:00,0
-Shuttle-BroadwayNorthQuincy-0-1,Shuttle-BroadwayNorthQuincy,1,North Quincy - Broadway,,4,610801990,Red-SeptOctShuttle-Saturday-B-1-05:30:00,0
 Shuttle-JFKMattapan-9-0,Shuttle-JFKMattapan,0,JFK/UMass - Mattapan,,1,619900000,59525331,0
 Shuttle-JFKMattapan-9-1,Shuttle-JFKMattapan,1,Mattapan - JFK/UMass,,1,619901000,59525332,0
 Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,4,620530990,CR-NewburyportLynnShuttleFall-Weekday-0-05:08:00,0
