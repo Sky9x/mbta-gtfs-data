@@ -131,10 +131,10 @@ Boat-F6,1,,Winthrop Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F6,008EAA,
 119,1,119,Northgate Shopping Center - Beachmont Station,Local Bus,3,https://www.mbta.com/schedules/119,FFC72C,000000,51190,Local Bus,line-119,,local_bus
 120,1,120,Orient Heights Station - Jeffries Point,Local Bus,3,https://www.mbta.com/schedules/120,FFC72C,000000,51200,Local Bus,line-120121,,local_bus
 121,1,121,Wood Island Station - Maverick Station,Commuter Bus,3,https://www.mbta.com/schedules/121,FFC72C,000000,51210,Local Bus,line-120121,,local_bus
-131,1,131,Melrose Highlands - Oak Grove or Malden Center Station,Commuter Bus,3,https://www.mbta.com/schedules/131,FFC72C,000000,51310,Local Bus,line-131132,,local_bus
+131,1,131,Melrose Highlands - Malden Center Station,Commuter Bus,3,https://www.mbta.com/schedules/131,FFC72C,000000,51310,Local Bus,line-131132,,local_bus
 132,1,132,Redstone Shopping Center - Malden Center Station,Local Bus,3,https://www.mbta.com/schedules/132,FFC72C,000000,51320,Local Bus,line-131132,,local_bus
 134,1,134,North Woburn - Wellington Station,Local Bus,3,https://www.mbta.com/schedules/134,FFC72C,000000,51340,Local Bus,line-134,,local_bus
-137,1,137,Reading Depot - Malden Center Station,Local Bus,3,https://www.mbta.com/schedules/137,FFC72C,000000,51370,Free,line-136137,,local_bus_free
+137,1,137,Reading Depot - Malden Center Station,Local Bus,3,https://www.mbta.com/schedules/137,FFC72C,000000,51370,Local Bus,line-136137,,local_bus
 171,1,171,Logan Airport Terminals - Nubian Station,Supplemental Bus,3,https://www.mbta.com/schedules/171,FFC72C,000000,51710,Local Bus,line-171708,,local_bus
 195,1,195,Lemuel Shattuck Hospital - Park Street & Tremont Street,Supplemental Bus,3,https://www.mbta.com/schedules/195,FFC72C,000000,51950,Local Bus,line-195,1,local_bus
 201,1,201,Fields Corner Loop via Neponset Ave,Local Bus,3,https://www.mbta.com/schedules/201,FFC72C,000000,52010,Local Bus,line-201202,,local_bus
@@ -183,9 +183,10 @@ Boat-F6,1,,Winthrop Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F6,008EAA,
 713,1,713,Point Shirley - Orient Heights Station via Winthrop Center,Local Bus,3,https://www.mbta.com/schedules/713,FFC72C,000000,57130,Local Bus,line-712713,,local_bus
 714,1,714,"Pemberton Point, Hull - Station Street, Hingham",Local Bus,3,https://www.mbta.com/schedules/714,FFC72C,000000,57140,Local Bus,line-714,,local_bus_restricted
 716,1,716,Cobbs Corner - Mattapan Station,Local Bus,3,https://www.mbta.com/schedules/716,FFC72C,000000,57160,Local Bus,line-716,,local_bus_restricted
+Shuttle-AlewifeKendall,1,Red Line Shuttle,Alewife - Kendall/MIT,Rail Replacement Bus,3,,FFC72C,000000,60220,Free,line-Red,1,rail_replacement_bus
 Shuttle-AndersonWoburnReading,1,Haverhill Line Shuttle,Reading - Anderson/Woburn,Rail Replacement Bus,3,,FFC72C,000000,60231,Free,line-Haverhill,1,rail_replacement_bus
 Shuttle-AshlandFramingham,1,Worcester Line Shuttle,Ashland - Framingham,Rail Replacement Bus,3,,FFC72C,000000,60238,Free,line-Worcester,1,rail_replacement_bus
-Shuttle-AshmontJFK,1,Red Line Shuttle,Ashmont - JFK/UMass,Rail Replacement Bus,3,,FFC72C,000000,60250,Free,line-Red,1,rail_replacement_bus
+Shuttle-AshmontJFK,1,Red Line Shuttle,Ashmont Station - JFK/UMass Station,Rail Replacement Bus,3,,FFC72C,000000,60250,Free,line-Red,1,rail_replacement_bus
 Shuttle-Generic,1,Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61910,Free,,1,rail_replacement_bus
 Shuttle-Generic-Blue,1,Blue Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61911,Free,line-Blue,1,rail_replacement_bus
 Shuttle-Generic-CommuterRail,1,Commuter Rail Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61912,Free,,1,rail_replacement_bus
@@ -219,3 +220,4 @@ Shuttle-Generic-Worcester,1,Framingham/Worcester Line Shuttle,,Rail Replacement 
 Shuttle-JFKMattapan,1,Red/Mattapan Line Shuttle,Mattapan Station - JFK/UMass Station via Ashmont Station,Rail Replacement Bus,3,,FFC72C,000000,61990,Free,line-Mattapan,1,rail_replacement_bus
 Shuttle-LynnSwampscott,1,Newburyport/Rockport Line Shuttle,Lynn - Swampscott,Rail Replacement Bus,3,,FFC72C,000000,62053,Free,line-Newburyport,1,rail_replacement_bus
 Shuttle-OakGroveReading,1,Haverhill Line Shuttle,Reading - Oak Grove,Rail Replacement Bus,3,,FFC72C,000000,62170,Free,line-Haverhill,1,rail_replacement_bus
+Shuttle-OakGroveWellingtonViaMaldenEast,1,Orange Line Shuttle,Oak Grove - Wellington via Malden Center,Rail Replacement Bus,3,,FFC72C,000000,62305,Free,line-Orange,1,rail_replacement_bus
