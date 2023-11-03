@@ -1,12 +1,18 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id,canonical_route_pattern
 Red-3-0,Red,0,Alewife - Braintree,,1,100100000,canonical-Red-C1-0,1
 Red-1-0,Red,0,Alewife - Ashmont,,1,100100001,canonical-Red-C2-0,1
+Red-1-0_70061_70071_2,Red,0,Kendall/MIT - Ashmont,,4,100100990,59095955-AlewifeKendallSuspend2,2
+Red-3-0_70061_70071_2,Red,0,Kendall/MIT - Braintree,,4,100100990,59096062-AlewifeKendallSuspend2,2
 Red-3-1,Red,1,Braintree - Alewife,,1,100101000,canonical-Red-C1-1,1
 Red-1-1,Red,1,Ashmont - Alewife,,1,100101001,canonical-Red-C2-1,1
+Red-1-1_70072_70061_0,Red,1,Ashmont - Kendall/MIT,,4,100101990,59095902-AlewifeKendallSuspend0,2
+Red-3-1_70072_70061_0,Red,1,Braintree - Kendall/MIT,,4,100101990,59096009-AlewifeKendallSuspend0,2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,100110000,canonical-Mattapan-C1-0,1
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,100111000,canonical-Mattapan-C1-1,1
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,100200000,canonical-Orange-C1-0,1
+Orange-5-0,Orange,0,Wellington - Forest Hills,Sundays only,3,100200040,59560240-05:00-14:00-OakGroveWellington2,2
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,100201000,canonical-Orange-C1-1,1
+Orange-5-1,Orange,1,Forest Hills - Wellington,Sundays only,3,100201040,59560269-05:00-14:00-OakGroveWellington0,2
 Green-B-812-0,Green-B,0,Government Center - Boston College,,1,100320000,canonical-Green-B-C1-0,1
 Green-B-816-0,Green-B,0,Medford/Tufts - Boston College,Mornings only,3,100320040,58397599,2
 Green-B-812-1,Green-B,1,Boston College - Government Center,,1,100321000,canonical-Green-B-C1-1,1
@@ -812,6 +818,8 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 716-1-0,716,0,Mattapan Station - Cobbs Corner (Omits Royall St),Saturdays only,2,571600020,58587021,0
 716-_-1,716,1,Cobbs Corner - Mattapan Station,Weekdays only,1,571601000,58879954,0
 716-1-1,716,1,Cobbs Corner - Mattapan Station (Omits Royall St),Saturdays only,2,571601020,58587026,0
+Shuttle-AlewifeKendall-0-0,Shuttle-AlewifeKendall,0,Alewife - Kendall/MIT,,4,602200990,Red-FallAlewifeKendall-Saturday-0-05:22:00,0
+Shuttle-AlewifeKendall-0-1,Shuttle-AlewifeKendall,1,Kendall/MIT - Alewife,,4,602201990,Red-FallAlewifeKendall-Saturday-1-05:49:00,0
 Shuttle-AndersonWoburnReading-0-0,Shuttle-AndersonWoburnReading,0,Anderson/Woburn - Reading,,4,602310990,CR-HaverhillReadingWoburnFall-Weekday-0-05:33:00,0
 Shuttle-AndersonWoburnReading-0-1,Shuttle-AndersonWoburnReading,1,Reading - Anderson/Woburn,,4,602311990,CR-HaverhillReadingWoburnFall-Weekday-1-06:12:00,0
 Shuttle-AshlandFramingham-0-0,Shuttle-AshlandFramingham,0,Framingham - Ashland,,4,602380990,CR-627999-541-AshClosedFramShuttleDyn1,0
@@ -824,3 +832,5 @@ Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,4,6205309
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,4,620531990,CR-NewburyportLynnShuttleFall-Weekday-1-05:31:00,0
 Shuttle-OakGroveReading-0-0,Shuttle-OakGroveReading,0,Oak Grove - Reading,,4,621700990,CR-HaverhillOakGroveReadingFall-Weekday-0-05:40:00,0
 Shuttle-OakGroveReading-0-1,Shuttle-OakGroveReading,1,Reading - Oak Grove,,4,621701990,CR-HaverhillOakGroveReadingFall-Weekday-1-05:00:00,0
+Shuttle-OakGroveWellingtonViaMaldenEast-0-0,Shuttle-OakGroveWellingtonViaMaldenEast,0,Oak Grove - Wellington,,4,623050990,59560240-05:00-14:00-OakGroveWellington1,0
+Shuttle-OakGroveWellingtonViaMaldenEast-0-1,Shuttle-OakGroveWellingtonViaMaldenEast,1,Wellington - Oak Grove,,4,623051990,59560269-05:00-14:00-OakGroveWellington1,0
