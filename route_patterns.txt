@@ -2,11 +2,19 @@ route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_des
 Red-3-0,Red,0,Alewife - Braintree,,1,100100000,canonical-Red-C1-0,1
 Red-1-0,Red,0,Alewife - Ashmont,,1,100100001,canonical-Red-C2-0,1
 Red-1-0_70061_70071_2,Red,0,Kendall/MIT - Ashmont,,4,100100990,59095955-AlewifeKendallSuspend2,2
+Red-1-0_70075_70085_0,Red,0,Alewife - Park Street,,4,100100990,59095716-20:15-JFKParkAshmontPlatformsJFKParkBraintreePlatforms0,2
+Red-1-0_70075_70085_2,Red,0,JFK/UMass - Ashmont,,4,100100990,59095716-20:15-JFKParkAshmontPlatformsJFKParkBraintreePlatforms2,2
 Red-3-0_70061_70071_2,Red,0,Kendall/MIT - Braintree,,4,100100990,59096062-AlewifeKendallSuspend2,2
+Red-3-0_70075_70095_0,Red,0,Alewife - Park Street,,4,100100990,59095840-20:15-JFKParkAshmontPlatformsJFKParkBraintreePlatforms0,2
+Red-3-0_70075_70095_2,Red,0,JFK/UMass - Braintree,,4,100100990,59095840-20:15-JFKParkAshmontPlatformsJFKParkBraintreePlatforms2,2
 Red-3-1,Red,1,Braintree - Alewife,,1,100101000,canonical-Red-C1-1,1
 Red-1-1,Red,1,Ashmont - Alewife,,1,100101001,canonical-Red-C2-1,1
 Red-1-1_70072_70061_0,Red,1,Ashmont - Kendall/MIT,,4,100101990,59095902-AlewifeKendallSuspend0,2
+Red-1-1_70086_70076_0,Red,1,Ashmont - JFK/UMass,,4,100101990,59095656-20:15-JFKParkAshmontPlatformsJFKParkBraintreePlatforms0,2
+Red-1-1_70086_70076_2,Red,1,Park Street - Alewife,,4,100101990,59095656-20:15-JFKParkAshmontPlatformsJFKParkBraintreePlatforms2,2
 Red-3-1_70072_70061_0,Red,1,Braintree - Kendall/MIT,,4,100101990,59096009-AlewifeKendallSuspend0,2
+Red-3-1_70096_70076_0,Red,1,Braintree - JFK/UMass,,4,100101990,59095731-20:15-JFKParkAshmontPlatformsJFKParkBraintreePlatforms0,2
+Red-3-1_70096_70076_2,Red,1,Park Street - Alewife,,4,100101990,59095731-20:15-JFKParkAshmontPlatformsJFKParkBraintreePlatforms2,2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,100110000,canonical-Mattapan-C1-0,1
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,100111000,canonical-Mattapan-C1-1,1
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,100200000,canonical-Orange-C1-0,1
@@ -194,8 +202,6 @@ Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,300021040,Boat-F
 Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,300021060,Boat-F1-1400-Hingham-BF2H-01-Weekday-Fall-23,0
 Boat-EastBoston-0-0,Boat-EastBoston,0,Long Wharf - Lewis Mall Wharf,,1,300050000,Boat-EastBoston-0715-Long-BEB-01-Weekday-Fall-23,0
 Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Mall Wharf - Long Wharf,,1,300051000,Boat-EastBoston-0700-Lewis-BEB-01-Weekday-Fall-23,0
-Boat-Lynn-1-0,Boat-Lynn,0,Long Wharf - Blossom Street Pier,,1,300070010,Boat-Lynn-0645-Long-BLY-01-Weekday-Fall-23,0
-Boat-Lynn-1-1,Boat-Lynn,1,Blossom Street Pier - Long Wharf,,1,300071010,Boat-Lynn-0600-Blossom-BLY-01-Weekday-Fall-23,0
 Boat-F6-1-0,Boat-F6,0,Central Wharf - Winthrop Landing via Seaport/Fan Pier & Quincy,,1,300090010,Boat-F6-1615-Aquarium-BWN-01-Weekday-Fall-23,0
 Boat-F6-3-0,Boat-F6,0,Central Wharf - Winthrop Landing via Seaport/Fan Pier,,2,300090030,Boat-F6-1125-Aquarium-BWN-01-Weekday-Fall-23,0
 Boat-F6-5-0,Boat-F6,0,Central Wharf - Winthrop Landing via Quincy,,2,300090050,Boat-F6-0725-Aquarium-BWN-01-Weekday-Fall-23,0
@@ -823,6 +829,8 @@ Shuttle-AndersonWoburnReading-0-0,Shuttle-AndersonWoburnReading,0,Anderson/Wobur
 Shuttle-AndersonWoburnReading-0-1,Shuttle-AndersonWoburnReading,1,Reading - Anderson/Woburn,,4,602311990,CR-HaverhillReadingWoburnFall-Weekday-1-06:12:00,0
 Shuttle-AshlandFramingham-0-0,Shuttle-AshlandFramingham,0,Framingham - Ashland,,4,602380990,CR-627999-541-AshClosedFramShuttleDyn1,0
 Shuttle-AshlandFramingham-0-1,Shuttle-AshlandFramingham,1,Ashland - Framingham,,4,602381990,CR-628001-538-AshClosedFramShuttleDyn1,0
+Shuttle-JFKPark-0-0,Shuttle-JFKPark,0,Park Street - JFK/UMass,,4,619970990,59095716-20:15-JFKParkAshmontPlatformsJFKParkBraintreePlatformsJFKParkAshmontPlatforms,0
+Shuttle-JFKPark-0-1,Shuttle-JFKPark,1,JFK/UMass - Park Street,,4,619971990,59095656-20:15-JFKParkAshmontPlatformsJFKParkBraintreePlatformsJFKParkAshmontPlatforms,0
 Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,4,620530990,CR-NewburyportLynnShuttleFall-WeekdayNov-0-05:08:00,0
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,4,620531990,CR-NewburyportLynnShuttleFall-WeekdayNov-1-05:31:00,0
 Shuttle-NorthStationOakGrove-0-0,Shuttle-NorthStationOakGrove,0,Oak Grove - North Station,,4,621500990,58974726-20:00-NoStaOakGroExtend1,0
