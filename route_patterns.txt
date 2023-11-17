@@ -1,16 +1,16 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id,canonical_route_pattern
 Red-3-0,Red,0,Alewife - Braintree,,1,100100000,canonical-Red-C1-0,1
 Red-1-0,Red,0,Alewife - Ashmont,,1,100100001,canonical-Red-C2-0,1
-Red-1-0_70075_70085_0,Red,0,Alewife - Park Street,,4,100100990,59095716-20:15-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms0,2
-Red-1-0_70075_70085_2,Red,0,JFK/UMass - Ashmont,,4,100100990,59095716-20:15-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms2,2
-Red-3-0_70075_70095_0,Red,0,Alewife - Park Street,,4,100100990,59095840-20:15-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms0,2
-Red-3-0_70075_70095_2,Red,0,JFK/UMass - Braintree,,4,100100990,59095840-20:15-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms2,2
+Red-1-0_70075_70085_0,Red,0,Alewife - Park Street,,4,100100990,59095955-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms0,2
+Red-1-0_70075_70085_2,Red,0,JFK/UMass - Ashmont,,4,100100990,59095955-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms2,2
+Red-3-0_70075_70095_0,Red,0,Alewife - Park Street,,4,100100990,59096062-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms0,2
+Red-3-0_70075_70095_2,Red,0,JFK/UMass - Braintree,,4,100100990,59096062-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms2,2
 Red-3-1,Red,1,Braintree - Alewife,,1,100101000,canonical-Red-C1-1,1
 Red-1-1,Red,1,Ashmont - Alewife,,1,100101001,canonical-Red-C2-1,1
-Red-1-1_70086_70076_0,Red,1,Ashmont - JFK/UMass,,4,100101990,59095656-20:15-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms0,2
-Red-1-1_70086_70076_2,Red,1,Park Street - Alewife,,4,100101990,59095656-20:15-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms2,2
-Red-3-1_70096_70076_0,Red,1,Braintree - JFK/UMass,,4,100101990,59095731-20:15-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms0,2
-Red-3-1_70096_70076_2,Red,1,Park Street - Alewife,,4,100101990,59095731-20:15-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms2,2
+Red-1-1_70086_70076_0,Red,1,Ashmont - JFK/UMass,,4,100101990,59095902-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms0,2
+Red-1-1_70086_70076_2,Red,1,Park Street - Alewife,,4,100101990,59095902-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms2,2
+Red-3-1_70096_70076_0,Red,1,Braintree - JFK/UMass,,4,100101990,59096009-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms0,2
+Red-3-1_70096_70076_2,Red,1,Park Street - Alewife,,4,100101990,59096009-JFKParkAshmontPlatformsJFKParkSuspendBraintreePlatforms2,2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,100110000,canonical-Mattapan-C1-0,1
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,100111000,canonical-Mattapan-C1-1,1
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,100200000,canonical-Orange-C1-0,1
@@ -27,11 +27,15 @@ Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,100331000,canoni
 Green-C-836-1,Green-C,1,Cleveland Circle - Medford/Tufts,Early mornings only,3,100331040,58397582,2
 Green-D-855-0,Green-D,0,Union Square - Riverside,,1,100340000,canonical-Green-D-C1-0,1
 Green-D-856-0,Green-D,0,Medford/Tufts - Riverside,Weekday mornings only,3,100340040,58398269,2
+Green-D-855-0_70504_70206_2,Green-D,0,North Station - Riverside,,4,100340990,58398315-20:45-NorthMedfordNorthUnionSuspendD2,2
 Green-D-855-1,Green-D,1,Riverside - Union Square,,1,100341000,canonical-Green-D-C1-1,1
 Green-D-856-1,Green-D,1,Riverside - Medford/Tufts,Weekday early mornings only,3,100341040,58398268,2
+Green-D-855-1_70205_70503_0,Green-D,1,Riverside - North Station,,4,100341990,58398331-20:45-NorthMedfordNorthUnionSuspendD0,2
 Green-E-886-0,Green-E,0,Medford/Tufts - Heath Street,,1,100350000,canonical-Green-E-C1-0,1
+Green-E-886-0_70512_70206_2,Green-E,0,North Station - Heath Street,,4,100350990,58397680-20:45-NorthMedfordNorthUnionSuspendD2,2
 Green-E-886-1,Green-E,1,Heath Street - Medford/Tufts,,1,100351000,canonical-Green-E-C1-1,1
 Green-E-86-1,Green-E,1,East Somerville - Medford/Tufts,,3,100351040,58398673,2
+Green-E-886-1_70205_70511_0,Green-E,1,Heath Street - North Station,,4,100351990,58397671-20:45-NorthMedfordNorthUnionSuspendD0,2
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,100400000,canonical-Blue-C1-0,1
 Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,100400040,58848228,2
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,100401000,canonical-Blue-C1-1,1
@@ -816,9 +820,11 @@ Boat-F6-7-1,Boat-F6,1,Winthrop Landing - Quincy,,2,300091070,Boat-F6-1815-Winthr
 716-1-1,716,1,Cobbs Corner - Mattapan Station (Omits Royall St),Saturdays only,2,571601020,58587026,0
 Shuttle-AshlandFramingham-0-0,Shuttle-AshlandFramingham,0,Framingham - Ashland,,4,602380990,CR-627999-541-AshClosedFramShuttleDyn1,0
 Shuttle-AshlandFramingham-0-1,Shuttle-AshlandFramingham,1,Ashland - Framingham,,4,602381990,CR-628001-538-AshClosedFramShuttleDyn1,0
-Shuttle-JFKPark-0-0,Shuttle-JFKPark,0,Park St - JFK/UMass,,4,619970990,Red-FallJFKPark-Weekday-0-20:45:00,0
-Shuttle-JFKPark-0-1,Shuttle-JFKPark,1,JFK/UMass - Park St,,4,619971990,Red-FallJFKPark-Weekday-1-20:45:00,0
+Shuttle-JFKPark-0-0,Shuttle-JFKPark,0,Park St - JFK/UMass,,4,619970990,Red-FallJFKPark-Saturday-0-05:45:00,0
+Shuttle-JFKPark-0-1,Shuttle-JFKPark,1,JFK/UMass - Park St,,4,619971990,Red-FallJFKPark-Saturday-1-05:37:00,0
 Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,4,620530990,CR-NewburyportLynnShuttleFall-WeekdayNov-0-05:08:00,0
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,4,620531990,CR-NewburyportLynnShuttleFall-WeekdayNov-1-05:31:00,0
+Shuttle-MedfordNorthStation-0-0,Shuttle-MedfordNorthStation,0,Medford/Tufts - North Station,,4,620650990,58397680-20:45-NorthMedfordNorthUnionSuspendD1,0
+Shuttle-MedfordNorthStation-0-1,Shuttle-MedfordNorthStation,1,North Station - Medford/Tufts,,4,620651990,58397671-20:45-NorthMedfordNorthUnionSuspendD1,0
 Shuttle-NorthStationOakGrove-0-0,Shuttle-NorthStationOakGrove,0,Oak Grove - North Station,,4,621500990,58974726-20:00-NoStaOakGroExtend1,0
 Shuttle-NorthStationOakGrove-0-1,Shuttle-NorthStationOakGrove,1,North Station - Oak Grove,,4,621501990,58974740-20:00-NoStaOakGroExtend1,0
