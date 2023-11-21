@@ -1,6 +1,4 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-BUS42023-hbs43sf1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20230827,20231216,Fall
-BUS42023-hbs43sn1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20230827,20231216,Fall
 BUS42023-hbs43sp1-Weekday-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20230827,20231216,Fall
 BUS42023-hbs43sp6-Saturday-02,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
 BUS42023-hbs43sp7-Sunday-02,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
@@ -10,6 +8,7 @@ BUS42023-hbs43sw7-Sunday-02,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fa
 Boat-EastBoston-Saturday-Fall-23,Saturday schedule,Saturday,Saturday,1,20231010,,Fall
 Boat-EastBoston-Sunday-Fall-23,Sunday schedule,Sunday,Sunday,1,20231010,,Fall
 Boat-EastBoston-Weekday-Fall-23,Weekday schedule,Weekday,Weekday,1,20231010,,Fall
+Boat-F1-ThanksgivingEve-Fall-23,Weekday schedule (modified),Pre-holiday,Weekday,2,20231010,,Fall
 Boat-F1-Weekday-Fall-23,Weekday schedule,Weekday,Weekday,1,20231010,,Fall
 Boat-F4-Saturday-Fall-23,Saturday schedule,Saturday,Saturday,1,20231010,,Fall
 Boat-F4-Sunday-Fall-23,Sunday schedule,Sunday,Sunday,1,20231010,,Fall
@@ -18,6 +17,7 @@ Boat-F6-Weekday-Fall-23,Weekday schedule,Weekday,Weekday,1,20231010,,Fall
 CR-Newburyport-LynnShttlFall-StdNv,Saturday schedule,Saturday,Saturday,4,20231002,20231216,Fall/Winter
 CR-Newburyport-LynnShttlFall-SundayNov,Sunday schedule,Sunday,Sunday,4,20231002,20231216,Fall/Winter
 CR-Newburyport-LynnShttlFall-WeekdayNov,Weekday schedule,Weekday,Weekday,4,20231002,20231216,Fall/Winter
+DayafterThanksgivingDay,Weekday schedule (no school),Weekday (no school),Weekday,1,20230827,20231216,Fall
 FALL 2023-NORTHSUN-Sunday-1,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
 FALL 2023-NORTHSUN-Sunday-1-S6561ad1d,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
 FALL 2023-NORTHSUN-Sunday-1-S7d8482ee,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
@@ -40,23 +40,26 @@ Fall/WinterWeekday,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
 FallSaturday,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
 FallSunday,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 FallWeekday,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+LRV42023-hlb43011-Wdy-01-HGLHGLHGLHGL,Weekday schedule,Weekday,Weekday,4,20230827,20231216,Fall
 LRV42023-hlb43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+LRV42023-hlb43016-Sa-01-HGLHGLHGLHGL,Saturday schedule,Saturday,Saturday,4,20230827,20231216,Fall
 LRV42023-hlb43016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+LRV42023-hlb43017-Su-01-HGLHGLHGLHGL,Sunday schedule,Sunday,Sunday,4,20230827,20231216,Fall
 LRV42023-hlb43017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 LRV42023-hlm43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
-LRV423-hlb43011-Wdy-01-NrhMddNrhUnnSsdD,Weekday schedule,Weekday,Weekday,4,20230827,20231216,Fall
-LRV423-hlb43016-Sa-01-NrhMddNrhUnnSsdD,Saturday schedule,Saturday,Saturday,4,20230827,20231216,Fall
-LRV423-hlb43017-Su-01-NrhMddNrhUnnSsdD,Sunday schedule,Sunday,Sunday,4,20230827,20231216,Fall
+LRV423-hlb43011-Wdy-01-3d75c0c1,Weekday schedule,Weekday,Weekday,4,20230827,20231216,Fall
+LRV423-hlb43016-Sa-01-3d75c0c1,Saturday schedule,Saturday,Saturday,4,20230827,20231216,Fall
+LRV423-hlb43017-Su-01-3d75c0c1,Sunday schedule,Sunday,Sunday,4,20230827,20231216,Fall
 PRIV42023-hpa43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
 PRIV42023-hpj43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
 PRIV42023-hpj43017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 RTL42023-hmb43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
 RTL42023-hmo43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+RTL42023-hmo43011-Weekday-01-HayOL,Weekday schedule,Weekday,Weekday,4,20230827,20231216,Fall
 RTL42023-hmo43016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+RTL42023-hmo43016-Saturday-01-HayOL,Saturday schedule,Saturday,Saturday,4,20230827,20231216,Fall
 RTL42023-hmo43017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
-RTL42023-hmo43ng1-Wdy-01-NStOkGrExd,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20230827,20231216,Fall
-RTL42023-hmo43ng6-Sa-01-NStOkGrExd,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20230827,20231216,Fall
-RTL42023-hmo43ng7-Sunday-01-NStOkGrExd,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20230827,20231216,Fall
+RTL42023-hmo43017-Sunday-01-HayOL,Sunday schedule,Sunday,Sunday,4,20230827,20231216,Fall
 RTL42023-hms43sp1-Weekday-01,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20230827,20231216,Fall
 RTL42023-hms43sp6-Saturday-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
 RTL42023-hms43sp7-Sunday-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
@@ -67,5 +70,4 @@ Red-FallJFKPark-Saturday,Saturday schedule (Rail and tie replacement work),Satur
 Red-FallJFKPark-Sunday,Sunday schedule (Rail and tie replacement work),Sunday (Rail and tie replacement work),Sunday,4,20230827,20231216,Fall
 Red-FallJFKPark-Weekday,Weekday schedule (Rail and tie replacement work),Weekday (Rail and tie replacement work),Weekday,4,20230827,20231216,Fall
 ThanksgivingDay,Holiday (Sunday schedule),Holiday,Sunday,3,20230827,20231216,Fall
-VeteransDay(Observed)-DfrThgD,Weekday schedule (no school),Weekday (no school),Weekday,1,20230827,20231216,Fall
 canonical,Canonical reference trips only,Canonical reference trips,Other,6,20220313,,Reference
