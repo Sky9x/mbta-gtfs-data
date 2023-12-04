@@ -1,19 +1,27 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
 BUS42023-hba43011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
 BUS42023-hbb43011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+BUS42023-hbb43016-Saturday-02,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+BUS42023-hbb43017-Sunday-02,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 BUS42023-hbc43011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+BUS42023-hbc43016-Saturday-02,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+BUS42023-hbc43017-Sunday-02,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 BUS42023-hbf43011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
 BUS42023-hbg43011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+BUS42023-hbg43016-Saturday-02,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+BUS42023-hbg43017-Sunday-02,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 BUS42023-hbl43011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+BUS42023-hbl43016-Saturday-02,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+BUS42023-hbl43017-Sunday-02,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 BUS42023-hbq43011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
-BUS42023-hbs43sp6-Saturday-02,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
-BUS42023-hbs43sp7-Sunday-02,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
+BUS42023-hbq43016-Saturday-02,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+BUS42023-hbq43017-Sunday-02,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 BUS42023-hbs43sw1-Weekday-02,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
 BUS42023-hbs43sw6-Saturday-02,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
 BUS42023-hbs43sw7-Sunday-02,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 BUS42023-hbt43011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
-Boat-EastBoston-Saturday-Fall-23,Saturday schedule,Saturday,Saturday,1,20231010,,Fall
-Boat-EastBoston-Sunday-Fall-23,Sunday schedule,Sunday,Sunday,1,20231010,,Fall
+BUS42023-hbt43016-Saturday-02,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+BUS42023-hbt43017-Sunday-02,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 Boat-EastBoston-Weekday-Fall-23,Weekday schedule,Weekday,Weekday,1,20231010,,Fall
 Boat-F1-Weekday-Fall-23,Weekday schedule,Weekday,Weekday,1,20231010,,Fall
 Boat-F4-Saturday-Fall-23,Saturday schedule,Saturday,Saturday,1,20231010,,Fall
@@ -24,7 +32,6 @@ CR-BeverlyNorthStationShuttleDec-Std,Saturday schedule,Saturday,Saturday,4,20230
 CR-BeverlyNorthStationShuttleDec-Sunday,Sunday schedule,Sunday,Sunday,4,20230827,20231216,Fall
 CR-BeverlyNorthStationShuttleDec-Wkd,Weekday schedule,Weekday,Weekday,4,20230827,20231216,Fall
 CR-Newburyport-LynnShttlFall-StdNv,Saturday schedule,Saturday,Saturday,4,20231002,20231216,Fall/Winter
-CR-Newburyport-LynnShttlFall-SundayNov,Sunday schedule,Sunday,Sunday,4,20231002,20231216,Fall/Winter
 CR-Newburyport-LynnShttlFall-WeekdayNov,Weekday schedule,Weekday,Weekday,4,20231002,20231216,Fall/Winter
 FALL 2023-NORTHSAT-Saturday-1,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
 FALL 2023-NORTHSAT-Saturday-1-S6561ad1d,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
@@ -34,7 +41,6 @@ FALL 2023-NORTHSAT-Saturday-11-S6d,Saturday schedule (modified service),Saturday
 FALL 2023-NORTHSUN-Sunday-1,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
 FALL 2023-NORTHSUN-Sunday-1-S6561ad1d,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
 FALL 2023-NORTHSUN-Sunday-1-S7d8482ee,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
-FALL 2023-NORTHSUN-Sunday-1-S9d378dcf,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
 FALL 2023-NORTHSUN-Sunday-11-S6561ad1d,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
 FALL 2023-NORTHWKD-Weekday-1,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
 FALL 2023-NORTHWKD-Weekday-1-S6561ad1d,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
@@ -65,13 +71,11 @@ FLL 2023-N-Wdy-8-S9d378dcf-NrhSwtExdDnc,Weekday schedule (modified service),Week
 FLL 23-S-Sa-1-Sb0e4ed14-AshCldFrmShlDn,Saturday schedule,Saturday,Saturday,4,20231002,,Fall/Winter
 FLL 23-S-Su-1-Sb0e4ed14-AshCldFrmShlDn,Sunday schedule,Sunday,Sunday,4,20231002,,Fall/Winter
 FLL 23-S-Wdy-1-Sb0e4ed14-AshCldFrmShlDn,Weekday schedule,Weekday,Weekday,4,20231002,,Fall/Winter
-FallSaturday,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
-FallSunday,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 LRV42023-hlb43011-Wdy-01-HGLHGLHGLHGL,Weekday schedule,Weekday,Weekday,4,20230827,20231216,Fall
 LRV42023-hlb43016-Sa-01-HGLHGLHGLHGL,Saturday schedule,Saturday,Saturday,4,20230827,20231216,Fall
-LRV42023-hlb43016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
-LRV42023-hlb43017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 LRV42023-hlm43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+LRV42023-hlm43016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+LRV42023-hlm43017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 LRV423-hlb43011-Wdy-01-0701c2e1,Weekday schedule,Weekday,Weekday,4,20230827,20231216,Fall
 LRV423-hlb43011-Wdy-01-50064b52,Weekday schedule,Weekday,Weekday,4,20230827,20231216,Fall
 LRV423-hlb43011-Wdy-01-d997dc9c,Weekday schedule,Weekday,Weekday,4,20230827,20231216,Fall
@@ -80,13 +84,20 @@ LRV423-hlb43016-Sa-01-d997dc9c,Saturday schedule,Saturday,Saturday,4,20230827,20
 LRV423-hlb43017-Su-01-0701c2e1,Sunday schedule,Sunday,Sunday,4,20230827,20231216,Fall
 LRV423-hlb43017-Su-01-d997dc9c,Sunday schedule,Sunday,Sunday,4,20230827,20231216,Fall
 PRIV42023-hpa43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+PRIV42023-hpa43016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
 PRIV42023-hpj43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+PRIV42023-hpj43016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+PRIV42023-hpj43017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 PRIV42023-hpp43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+PRIV42023-hpp43016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+PRIV42023-hpp43017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 RTL42023-hmb43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+RTL42023-hmb43016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+RTL42023-hmb43017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 RTL42023-hmo43011-Weekday-01-HayOL,Weekday schedule,Weekday,Weekday,4,20230827,20231216,Fall
-RTL42023-hmo43016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
 RTL42023-hmo43016-Saturday-01-HayOL,Saturday schedule,Saturday,Saturday,4,20230827,20231216,Fall
-RTL42023-hmo43017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 RTL42023-hmo43017-Sunday-01-HayOL,Sunday schedule,Sunday,Sunday,4,20230827,20231216,Fall
 RTL42023-hms43sp1-Weekday-01,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20230827,20231216,Fall
+RTL42023-hms43sp6-Saturday-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+RTL42023-hms43sp7-Sunday-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
 canonical,Canonical reference trips only,Canonical reference trips,Other,6,20220313,,Reference
