@@ -2,8 +2,11 @@ service_id,date,exception_type,holiday_name
 WinterWeekday,20231218,1,
 WinterWeekday,20231219,1,
 WinterWeekday,20231220,1,
+LRV12024-hlb14011-Weekday-01,20231221,1,
 WinterWeekday,20231221,1,
+LRV12024-hlb14011-Weekday-01,20231222,1,
 WinterWeekday,20231222,1,
+LRV12024-hlb14017-Sunday-01,20231224,1,Christmas Eve
 Boat-F1-Weekday-Fall-23,20231225,2,Christmas Day
 Boat-F4-Weekday-Fall-23,20231225,2,Christmas Day
 ChristmasDay,20231225,1,Christmas Day
@@ -20,8 +23,8 @@ FALL 2023-SOUTHSUN-Sunday-1-Sb0e4ed14,20231225,1,Christmas Day
 FALL 2023-SOUTHSUN-Sunday-1-Sb7371956,20231225,1,Christmas Day
 FALL 2023-SOUTHSUN-Sunday-1-Sc9a3b080,20231225,1,Christmas Day
 FALL 2023-SOUTHSUN-Sunday-1-Scbbf1ea5,20231225,1,Christmas Day
+FALL 2023-SOUTHSUN-Sunday-70-modified,20231225,1,Christmas Day
 Fall/WinterWeekday,20231225,2,Christmas Day
-LRV12024-hlb14011-Weekday-01,20231225,2,Christmas Day
 LRV12024-hlm14011-Weekday-01,20231225,2,Christmas Day
 PRIV12024-hpa14011-Weekday-01,20231225,2,Christmas Day
 PRIV12024-hpj14011-Weekday-01,20231225,2,Christmas Day
@@ -29,9 +32,13 @@ PRIV12024-hpj14017-Sunday-01,20231225,1,Christmas Day
 RTL12024-hmb14011-Weekday-01,20231225,2,Christmas Day
 RTL12024-hmo14011-Weekday-01,20231225,2,Christmas Day
 RTL12024-hms14011-Weekday-01,20231225,2,Christmas Day
-LRV12024-hlb14017-Sunday-01,20231231,2,New Year's Eve
+LRV12024-hlb14011-Weekday-01,20231226,1,
+LRV12024-hlb14011-Weekday-01,20231227,1,
+LRV12024-hlb14011-Weekday-01,20231228,1,
+LRV12024-hlb14011-Weekday-01,20231229,1,
 NewYearsEve,20231231,1,New Year's Eve
 PRIV12024-hpj14017-Sunday-01,20231231,2,New Year's Eve
+RTL12024-hmo14017-Sunday-01,20231231,2,New Year's Eve
 RTL12024-hms14017-Sunday-01,20231231,2,New Year's Eve
 WinterSunday,20231231,2,New Year's Eve
 Boat-F1-Weekday-Fall-23,20240101,2,New Year's Day
@@ -45,13 +52,12 @@ FALL 2023-NORTHWKD-Weekday-12-S9d378dcf,20240101,2,New Year's Day
 FALL 2023-SOUTHSUN-Sunday-1,20240101,1,New Year's Day
 FALL 2023-SOUTHSUN-Sunday-1-S85407dc6,20240101,1,New Year's Day
 FALL 2023-SOUTHSUN-Sunday-1-S859962ef,20240101,1,New Year's Day
-FALL 2023-SOUTHSUN-Sunday-1-Sb0e4ed14,20240101,1,New Year's Day
 FALL 2023-SOUTHSUN-Sunday-1-Sb7371956,20240101,1,New Year's Day
 FALL 2023-SOUTHSUN-Sunday-1-Sc9a3b080,20240101,1,New Year's Day
 FALL 2023-SOUTHSUN-Sunday-1-Scbbf1ea5,20240101,1,New Year's Day
-FALL 2023-SOUTHWKD-Weekday-1-Sb0e4ed14,20240101,2,New Year's Day
+FALL 2023-SOUTHSUN-Sunday-2-Sb0e4ed14,20240101,1,New Year's Day
+FALL 2023-SOUTHWKD-Weekday-2-Sb0e4ed14,20240101,2,New Year's Day
 Fall/WinterWeekday,20240101,2,New Year's Day
-LRV12024-hlb14011-Weekday-01,20240101,2,New Year's Day
 LRV12024-hlm14011-Weekday-01,20240101,2,New Year's Day
 NewYearsDay,20240101,1,New Year's Day
 PRIV12024-hpa14011-Weekday-01,20240101,2,New Year's Day
@@ -60,8 +66,13 @@ PRIV12024-hpj14017-Sunday-01,20240101,1,New Year's Day
 RTL12024-hmb14011-Weekday-01,20240101,2,New Year's Day
 RTL12024-hmo14011-Weekday-01,20240101,2,New Year's Day
 RTL12024-hms14011-Weekday-01,20240101,2,New Year's Day
-LRV12024-hlb14011-Weekday-01,20240115,2,Martin Luther King Day
+LRV12024-hlb14011-Weekday-01,20240102,1,
+LRV12024-hlb14016-Saturday-01,20240106,2,
+LRV124-hlb14016-Sa-01-168a1b23,20240113,2,
+LRV12024-hlb14017-Sunday-01,20240114,1,
+LRV124-hlb14017-Su-01-168a1b23,20240114,2,
 LRV12024-hlm14011-Weekday-01,20240115,2,Martin Luther King Day
+LRV124-hlb14011-Wdy-01-168a1b23,20240115,2,Martin Luther King Day
 MartinLutherKingDay-PresidentsDay,20240115,1,Martin Luther King Day
 PRIV12024-hpa14011-Weekday-01,20240115,2,Martin Luther King Day
 PRIV12024-hpa14016-Saturday-01,20240115,1,Martin Luther King Day
@@ -71,7 +82,8 @@ RTL12024-hmb14011-Weekday-01,20240115,2,Martin Luther King Day
 RTL12024-hmo14011-Weekday-01,20240115,2,Martin Luther King Day
 RTL12024-hms14011-Weekday-01,20240115,2,Martin Luther King Day
 WinterWeekday,20240115,2,Martin Luther King Day
-LRV12024-hlb14011-Weekday-01,20240126,2,
+LRV12024-hlb14016-Saturday-01,20240120,2,
+LRV12024-hlb14016-Saturday-01,20240127,2,
 FALL 2023-NORTHSUN-Sunday-1,20240219,1,Presidents' Day
 FALL 2023-NORTHSUN-Sunday-1-S6561ad1d,20240219,1,Presidents' Day
 FALL 2023-NORTHSUN-Sunday-1-S7d8482ee,20240219,1,Presidents' Day
@@ -80,11 +92,11 @@ FALL 2023-NORTHWKD-Weekday-12-S9d378dcf,20240219,2,Presidents' Day
 FALL 2023-SOUTHSUN-Sunday-1,20240219,1,Presidents' Day
 FALL 2023-SOUTHSUN-Sunday-1-S85407dc6,20240219,1,Presidents' Day
 FALL 2023-SOUTHSUN-Sunday-1-S859962ef,20240219,1,Presidents' Day
-FALL 2023-SOUTHSUN-Sunday-1-Sb0e4ed14,20240219,1,Presidents' Day
 FALL 2023-SOUTHSUN-Sunday-1-Sb7371956,20240219,1,Presidents' Day
 FALL 2023-SOUTHSUN-Sunday-1-Sc9a3b080,20240219,1,Presidents' Day
 FALL 2023-SOUTHSUN-Sunday-1-Scbbf1ea5,20240219,1,Presidents' Day
-FALL 2023-SOUTHWKD-Weekday-1-Sb0e4ed14,20240219,2,Presidents' Day
+FALL 2023-SOUTHSUN-Sunday-2-Sb0e4ed14,20240219,1,Presidents' Day
+FALL 2023-SOUTHWKD-Weekday-2-Sb0e4ed14,20240219,2,Presidents' Day
 Fall/WinterWeekday,20240219,2,Presidents' Day
 LRV12024-hlb14011-Weekday-01,20240219,2,Presidents' Day
 LRV12024-hlm14011-Weekday-01,20240219,2,Presidents' Day
