@@ -68,11 +68,13 @@ Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,100401000,canonical-Blue-C1-1,1
 CR-Fairmount-195ea3c8-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,200010000,canonical-CR-Fairmount-C1-0,1
 CR-Fairmount-ff9cd1ee-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,200011000,canonical-CR-Fairmount-C1-1,1
 CR-Fitchburg-2a5f6366-0,CR-Fitchburg,0,North Station - Wachusett,,1,200020000,canonical-CR-Fitchburg-C1-0,1
-CR-Fitchburg-8294748d-0,CR-Fitchburg,0,North Station - Wachusett,,2,200020010,CR-627743-423,2
-CR-Fitchburg-acb28c6e-0,CR-Fitchburg,0,North Station - Littleton/Route 495,,2,200020020,CR-627755-481,2
+CR-Fitchburg-e5b6244b-0,CR-Fitchburg,0,Littleton/Route 495 - Wachusett,,2,200020010,FRMLATC653566-1415-AL2,2
+CR-Fitchburg-8294748d-0,CR-Fitchburg,0,North Station - Wachusett,,2,200020020,WedSki651587-423,2
+CR-Fitchburg-acb28c6e-0,CR-Fitchburg,0,North Station - Littleton/Route 495,,2,200020030,WedSki651599-481,2
 CR-Fitchburg-d82ea33a-1,CR-Fitchburg,1,Wachusett - North Station,,1,200021000,canonical-CR-Fitchburg-C1-1,1
-CR-Fitchburg-94972bc9-1,CR-Fitchburg,1,Wachusett - North Station,,2,200021010,CR-627730-404,2
-CR-Fitchburg-6528076d-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,200021020,CR-627756-482,2
+CR-Fitchburg-63b31893-1,CR-Fitchburg,1,Wachusett - Littleton/Route 495,,2,200021010,FRMLATC653567-1412-AL0,2
+CR-Fitchburg-94972bc9-1,CR-Fitchburg,1,Wachusett - North Station,,2,200021020,WedSki651574-404,2
+CR-Fitchburg-6528076d-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,200021030,WedSki651600-482,2
 CR-Worcester-b5dda27b-0,CR-Worcester,0,South Station - Worcester,,2,200030010,canonical-CR-Worcester-C1-0,1
 CR-Worcester-b7d67732-0,CR-Worcester,0,South Station - Framingham,,2,200030020,CR-627987-597-1,2
 CR-Worcester-d18892dd-0,CR-Worcester,0,South Station - Framingham,,2,200030030,CR-627988-595-1,2
@@ -139,7 +141,6 @@ CR-Middleborough-52b80476-0,CR-Middleborough,0,South Station - Middleborough/Lak
 CR-Middleborough-75bed2bb-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,200091000,canonical-CR-Middleborough-C1-1,1
 CR-Needham-a6552e0a-0,CR-Needham,0,South Station - Needham Heights,,1,200100000,AMTKSchCh651187-603,2
 CR-Needham-7f6dbefb-0,CR-Needham,0,Forest Hills - Needham Heights,,2,200100010,AMTKSchCh651156-635,2
-CR-Needham-69669b59-0,CR-Needham,0,South Station - Needham Heights,,2,200100020,MLKDAY652641-625,2
 CR-Needham-C1-0,CR-Needham,0,South Station - Needham Heights,,5,200100991,canonical-CR-Needham-C1-0,1
 CR-Needham-d774fb34-1,CR-Needham,1,Needham Heights - South Station,,1,200101000,AMTKSchCh651188-602,2
 CR-Needham-68a3e69b-1,CR-Needham,1,Needham Heights - Forest Hills,,2,200101010,AMTKSchCh651158-632,2
@@ -811,9 +812,15 @@ Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,300021060,Boat-F1-1400-Hingham-BF2
 716-1-0,716,0,Mattapan Station - Cobbs Corner (Omits Royall St),Saturdays only,2,571600020,60504587,0
 716-_-1,716,1,Cobbs Corner - Mattapan Station,Weekdays only,1,571601000,60504606,0
 716-1-1,716,1,Cobbs Corner - Mattapan Station (Omits Royall St),Saturdays only,2,571601020,60504592,0
+Shuttle-AlewifeLittletonExpress-0-0,Shuttle-AlewifeLittletonExpress,0,Alewife - Littleton/Route 495 (Express),,1,602210990,FRMLATC653566-1415-AL2BX1,0
+Shuttle-AlewifeLittletonExpress-0-1,Shuttle-AlewifeLittletonExpress,1,Littleton/Route 495 - Alewife (Express),,1,602211990,FRMLATC653567-1412-AL0BX1,0
+Shuttle-AlewifeLittletonLocal-0-0,Shuttle-AlewifeLittletonLocal,0,Alewife - Littleton/Route 495 (Local),,1,602220990,FRMLATC653578-1403-ALB1,0
+Shuttle-AlewifeLittletonLocal-0-1,Shuttle-AlewifeLittletonLocal,1,Littleton/Route 495 - Alewife (Local),,1,602221990,FRMLATC653579-1402-ALB1,0
 Shuttle-BabcockBackBay-0-0,Shuttle-BabcockBackBay,0,Back Bay - Babcock Street,,4,603900990,60564033-20:15-BabckBackBayGovtGovtCtrKenmoreCDGovtCtrNorthStaGovtCtrNorthStaHeathNorthSusNorthMedfordNorthUnionSuspendDBabckBackBayGovt,0
 Shuttle-BabcockBackBay-0-1,Shuttle-BabcockBackBay,1,Babcock Street - Back Bay,,4,603901990,60564032-20:15-BabckBackBayGovtGovtCtrKenmoreCDGovtCtrNorthStaGovtCtrNorthStaHeathNorthSusNorthMedfordNorthUnionSuspendDBabckBackBayGovt,0
 Shuttle-CopleyKenmore-0-0,Shuttle-CopleyKenmore,0,Back Bay - Kenmore,,4,614250990,60564105-20:15-BabckBackBayGovtGovtCtrKenmoreCDGovtCtrNorthStaGovtCtrNorthStaHeathNorthSusNorthMedfordNorthUnionSuspendDGovtCtrKenmoreCD,0
 Shuttle-CopleyKenmore-0-1,Shuttle-CopleyKenmore,1,Kenmore - Back Bay,,4,614251990,60564106-20:15-BabckBackBayGovtGovtCtrKenmoreCDGovtCtrNorthStaGovtCtrNorthStaHeathNorthSusNorthMedfordNorthUnionSuspendDGovtCtrKenmoreCD,0
+Shuttle-ForestHillsRuggles-0-0,Shuttle-ForestHillsRuggles,0,Ruggles - Forest Hills,,4,617000990,Orange-ForestHills-Ruggles-Saturday-0-05:15:00,0
+Shuttle-ForestHillsRuggles-0-1,Shuttle-ForestHillsRuggles,1,Forest Hills - Ruggles,,4,617001990,Orange-ForestHills-Ruggles-Saturday-1-05:15:00,0
 Shuttle-MedfordNorthStation-0-0,Shuttle-MedfordNorthStation,0,Medford/Tufts - North Station,,4,620650990,60565054-20:15-BabckBackBayGovtGovtCtrKenmoreCDGovtCtrNorthStaGovtCtrNorthStaHeathNorthSusNorthMedfordNorthUnionSuspendD0NorthMedford,0
 Shuttle-MedfordNorthStation-0-1,Shuttle-MedfordNorthStation,1,North Station - Medford/Tufts,,4,620651990,60565046-20:15-BabckBackBayGovtGovtCtrKenmoreCDGovtCtrNorthStaGovtCtrNorthStaHeathNorthSusNorthMedfordNorthUnionSuspendD2NorthMedford,0
