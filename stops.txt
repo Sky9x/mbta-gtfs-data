@@ -2097,6 +2097,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 3,3,Washington St @ Melnea Cass Blvd - Silver Line,Washington St @ Melnea Cass Blvd - Silver Line - South Station/Downtown Crossing,,South Station/Downtown Crossing,42.333021,-71.080799,LocalBus,"Washington St and Melnea Cass Blvd, Roxbury, MA",https://www.mbta.com/stops/3,level_in_street,0,,1,Boston,Washington Street,Melnea Cass Boulevard,3
 30,30,E Broadway @ Farragut Rd,,,,42.335738,-71.025190,LocalBus,,https://www.mbta.com/stops/30,,0,,1,Boston,East Broadway,Farragut Road,3
 30009,30009,Massachusetts Ave @ Magazine St,,,,42.327877,-71.067901,LocalBus,,https://www.mbta.com/stops/30009,,0,,1,Boston,Massachusetts Avenue,Magazine Street,3
+30088,30088,Savin Hill - Dorchester Ave @ Bay St,Savin Hill - Red Line Alewife Shuttle - Dorchester Ave @ Bay St,,Alewife Shuttle,42.311260,-71.057530,,,,,0,,1,Boston,Dorchester Avenue,Bay Street,3
 3019,3019,Hancock St opp Glover Ave,,,,42.274190,-71.026325,LocalBus,,https://www.mbta.com/stops/3019,,0,,1,Quincy,Hancock Street,Glover Avenue,3
 3020,3020,Hancock St @ Billings Rd,,,,42.273451,-71.025558,LocalBus,,https://www.mbta.com/stops/3020,,0,,1,Quincy,Hancock Street,Billings Road,3
 3022,3022,Hancock St opp Albion Rd,,,,42.271589,-71.022667,LocalBus,,https://www.mbta.com/stops/3022,,0,,1,Quincy,Hancock Street,Albion Road,3
@@ -2508,6 +2509,8 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 3426,3426,McGrath Hwy @ Brackett St,,,,42.252155,-70.996936,LocalBus,,https://www.mbta.com/stops/3426,,0,,1,Quincy,McGrath Highway,Brackett Street,3
 343,343,Dorchester Ave @ Gibson St,,,,42.297101,-71.061006,LocalBus,,https://www.mbta.com/stops/343,,0,,1,Boston,Dorchester Avenue,Gibson Street,3
 345,345,Dorchester Ave opp Charles St,,,,42.300648,-71.059987,LocalBus,,https://www.mbta.com/stops/345,,0,,1,Boston,Dorchester Avenue,Charles Street,3
+34500,34500,Dorchester Ave @ Lincoln St - Fields Corner Sta,Fields Corner - Red Line Alewife Shuttle - Dorchester Ave @ Lincoln St,,Alewife Shuttle,42.299623,-71.060251,,,,,0,,1,Boston,Dorchester Avenue,Faulkner Street,3
+34503,34503,Dorchester Ave @ Fields Corner Station,Fields Corner - Red Line Ashmont Shuttle - Dorchester Ave @ Fields Corner Station,,Ashmont Shuttle,42.300316,-71.060253,,,,,0,,1,Boston,Dorchester Avenue,,3
 34509,34509,Beacon St @ Raleigh St,,,,42.349099,-71.096313,LocalBus,,https://www.mbta.com/stops/34509,,0,,1,Boston,Beacon Street,Commonwealth Avenue,3
 34510,34510,Commonwealth Ave @ Kenmore St,,,,42.348697,-71.095119,LocalBus,,https://www.mbta.com/stops/34510,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
 3455,3455,Beale St @ Farrington St,,,,42.264134,-71.021471,LocalBus,,https://www.mbta.com/stops/3455,,0,,1,Quincy,Beale Street,Farrington Street,3
@@ -5119,6 +5122,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 7115,7115,Cabot St @ Memorial School,,,,42.565728,-70.886473,LocalBus,,https://www.mbta.com/stops/7115,,0,,1,Beverly,Cabot Street,,3
 7117,7117,Cabot St opp Kittredge St,,,,42.564060,-70.884950,LocalBus,,https://www.mbta.com/stops/7117,,0,,1,Beverly,Cabot Street,Kittredge Street,3
 7118,7118,Cabot St @ Balch St,,,,42.562404,-70.884124,LocalBus,,https://www.mbta.com/stops/7118,,0,,1,Beverly,Cabot Street,Balch Street,3
+71186,71186,JFK/UMass - Columbia Rd @ I-93,JFK/UMass - Red Line Alewife Shuttle - Columbia Rd @ I-93,,Alewife Shuttle,42.321348,-71.053228,,,,,0,,1,Boston,Columbia Road,,3
 71187,71187,Washington St @ Burnett St,,,,42.303768,-71.110246,LocalBus,,https://www.mbta.com/stops/71187,,0,,2,Boston,Washington Street,Burnett Street,3
 7120,7120,Cabot St opp Mason St,,,,42.560663,-70.883413,LocalBus,,https://www.mbta.com/stops/7120,,0,,1,Beverly,Cabot Street,Mason Street,3
 7121,7121,Cabot St @ Beckford St,,,,42.558541,-70.881895,LocalBus,,https://www.mbta.com/stops/7121,,0,,1,Beverly,Cabot Street,Charles Street,3
@@ -5126,7 +5130,17 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 7124,7124,Rantoul St @ Cabot St,,,,42.557528,-70.880118,LocalBus,,https://www.mbta.com/stops/7124,,0,,1,Beverly,Rantoul Street,,3
 7125,7125,Rantoul St opp Lenox St,,,,42.556489,-70.880633,LocalBus,,https://www.mbta.com/stops/7125,,0,,1,Beverly,Rantoul Street,Lenox Street,3
 7126,7126,Elliot St @ Rantoul St,,,,42.554402,-70.881493,LocalBus,,https://www.mbta.com/stops/7126,,0,,1,Beverly,Elliott Street,Rantoul Street,3
+71263,71263,Adams St @ Milton St - Cedar Grove Sta,Cedar Grove - Mattapan Line Mattapan Shuttle - Adams St @ Milton St,,Mattapan Shuttle,42.279763,-71.059163,,,,,0,,1,Boston,Adams Street,Milton St,3
+71264,71264,Adams St @ Milton St - Cedar Grove Sta,Cedar Grove - Mattapan Line Ashmont Shuttle - Adams St @ Milton St,,Ashmont Shuttle,42.280222,-71.058742,,,,,0,,1,Boston,Adams Street,Milton Street,3
+71265,71265,Adams St @ Butler St - Butler Sta,Butler - Mattapan Line Mattapan Shuttle - Adams St @ Butler St,,Mattapan Shuttle,42.273318,-71.064038,,,,,0,,1,Boston,Adams Street,Butler Street,3
+71266,71266,Adams St @ Butler St - Butler Sta,Butler - Mattapan Line Ashmont Shuttle - Adams St @ Butler St,,Ashmont Shuttle,42.273130,-71.064183,,,,,0,,1,Boston,Adams Street,Butler Street,3
+71269,71269,Eliot St @ Central Ave - Central Ave Sta,Central Ave - Mattapan Line Shuttle - Eliot St @ Central Ave,,Ashmont Shuttle,42.269457,-71.073334,,,,,0,,1,Milton,Eliot Street,Central Avenue,3
 7127,7127,Elliot St @ Mechanic St,,,,42.554001,-70.880264,LocalBus,,https://www.mbta.com/stops/7127,,0,,1,Beverly,Elliott Street,Mechanic Street,3
+71270,71270,Eliot St @ Central Ave - Central Ave Sta,Central Ave - Mattapan Line Shuttle - Eliot St @ Central Ave,,Mattapan Shuttle,42.269557,-71.073302,,,,,0,,1,Milton,Eliot Street,Central Avenue,3
+71271,71271,Eliot St @ Valley Rd Sta,Valley Road - Mattapan Line Capen Street Van Shuttle - Eliot St @ Valley Rd Sta,,Capen St Van Shuttle,42.267976,-71.080965,,,,,0,,1,Milton,Eliot Street,,3
+71272,71272,Eliot St opp Valley Rd Sta,Valley Road - Mattapan Line Central Avenue Van Shuttle - Eliot St opp Valley Rd Sta,,Central Ave Van Shuttle,42.267781,-71.081139,,,,,0,,1,Milton,Eliot Street,,3
+71273,71273,Eliot St opp Capen Street,Capen Street - Mattapan Line Ashmont Shuttle - Eliot St opp Capen St,,Ashmont Shuttle,42.265983,-71.085531,,,,,0,,1,Milton,Eliot Street,Capen Street,3
+71274,71274,Eliot St @ Capen Street - Capen St Sta,Capen Street - Mattapan Line Shuttle - Eliot St @ Capen St,,Mattapan Shuttle,42.266153,-71.085375,,,,,0,,1,Milton,Eliot Street,Capen Street,3
 7128,7128,Cabot St @ Roundy St,,,,42.553040,-70.878737,LocalBus,,https://www.mbta.com/stops/7128,,0,,1,Beverly,Cabot Street,Roundy Street,3
 7129,7129,Cabot St @ Judson St,,,,42.551270,-70.878599,LocalBus,,https://www.mbta.com/stops/7129,,0,,1,Beverly,Cabot Street,Judson Street,3
 7130,7130,Cabot St @ Pond St,,,,42.550738,-70.878240,LocalBus,,https://www.mbta.com/stops/7130,,0,,1,Beverly,Cabot Street,Knowlton Street,3
@@ -6457,19 +6471,109 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070005,9070005,Stony Brook - Boylston St @ Stony Brook,Stony Brook - Orange Line Oak Grove Shuttle - Boylston St @ Stony Brook,,Oak Grove Shuttle,42.317082,-71.104428,LocalBus,,https://www.mbta.com/stops/9070005,,0,,1,Boston,Boylston Street,Lamartine Street,3
 9070006,9070006,Jackson Square - Columbus Ave @ Centre St,Jackson Square - Orange Line Forest Hills Shuttle - Columbus Ave @ Centre St,,Forest Hills Shuttle,42.322362,-71.098614,LocalBus,,https://www.mbta.com/stops/9070006,,0,,1,Boston,Columbus Avenue,Centre Street,3
 9070007,9070007,Jackson Square - Centre St opp Jackson Square Busway,Jackson Square - Orange Line Oak Grove Shuttle - Centre St opp Jackson Square Busway,,Oak Grove Shuttle,42.322675,-71.099969,LocalBus,,https://www.mbta.com/stops/9070007,,0,,1,Boston,Centre Street,Lamartine Street,3
+9070012,9070012,Massachusetts Avenue - Columbus Ave @ Northampton St,Massachusetts Avenue - Orange Line Forest Hills Shuttle - Columbus Ave @ Northampton St,,Forest Hills Shuttle,42.340219,-71.082397,,,,,0,,1,Boston,Columbus Avenue,Northampton Street,3
+9070013,9070013,Massachusetts Avenue - Columbus Ave @ Massachusetts Ave,Massachusetts Avenue - Orange Line Oak Grove Shuttle - Columbus Ave @ Massachusetts Ave,,Oak Grove Shuttle,42.340260,-71.081959,,,,,0,,1,Boston,Columbus Avenue,Massachusetts Avenue,3
+9070022,9070022,State,State - Orange Line Shuttle - Congress St @ State St,,Orange Line Shuttle,42.359131,-71.056756,,,,,0,,1,Boston,Congress Street,State Street,3
+9070024,9070024,Haymarket - Congress St opp Hanover St,Haymarket - Orange Line Forest Hills Shuttle - Congress St opp Hanover St,,Forest Hills Shuttle,42.361133,-71.057643,,,,,0,,1,Boston,Congress Street,Hanover Street,3
+9070025,9070025,Haymarket - Congress St @ Hanover St,Haymarket - Red Line Alewife Shuttle - Congress St @ Hanover St,,Alewife Shuttle,42.361361,-71.057419,,,,,0,,1,Boston,Congress Street,Hanover Street,3
+9070026,9070026,North Station,North Station - Orange Line Shuttle - Haverhill St @ Causeway St,,Orange Line Shuttle,42.365608,-71.060426,,,,,0,,1,Boston,Haverhill Street,Causeway Street,3
+9070027,9070027,North Station,North Station - Orange Line Shuttle - N Washington St opp Medford St,,Sullivan Shuttle,42.365460,-71.058239,,,,,0,,1,Boston,,,3
+9070028,9070028,Community College - Rutherford Ave @ Austin St,Community College - Orange Line Forest Hills Shuttle - Rutherford Ave @ Austin St,,Forest Hills Shuttle,42.374668,-71.068320,,,,,0,,1,Boston,Rutherford Avenue,Austin Street,3
+9070029,9070029,Community College - Rutherford Ave @ Austin St,Community College - Orange Line Oak Grove Shuttle - Rutherford Ave @ Austin St,,Oak Grove Shuttle,42.374714,-71.067764,,,,,0,,1,Boston,Rutherford Avenue,Austin Street,3
+9070039,9070039,Government Center - Cambridge St @ Sudbury St,Government Center - Shuttle - Cambridge St @ Sudbury St,,Shuttle,42.360756,-71.060640,,,,,0,,1,Boston,Cambridge Street,Sudbury Street,3
+9070043,9070043,Aquarium - Surface Rd @ State St,Aquarium - Blue Line Shuttle - Surface Rd @ State St,,Blue Line Shuttle,42.359756,-71.052605,,,,,0,,1,Boston,Surface Road,State Street,3
+9070045,9070045,Maverick,Maverick - Blue Line Government Center Shuttle,,Government Center Shuttle,42.369579,-71.039179,,,,,0,,1,Boston,Maverick Square,Winthrop Street,3
+9070046,9070046,Maverick,Maverick - Blue Line Airport Shuttle,,Airport Shuttle,42.369690,-71.039096,,,,,0,,1,Boston,Maverick Square,Winthrop Street,3
+9070053,9070053,Suffolk Downs - Bennington St opp Leverett Ave,Suffolk Downs - Blue Line Southbound Shuttle - Bennington St opp Leverett Ave,,Southbound Shuttle,42.390264,-70.996908,,,,,0,,1,Boston,Bennington Street,Leverett Avenue,3
+9070054,9070054,Suffolk Downs - Bennington St @ Leverett Ave,Suffolk Downs - Blue Line Wonderland Shuttle - Bennington St @ Leverett Ave,,Wonderland Shuttle,42.390137,-70.996810,,,,,0,,1,Boston,Bennington Street,Leverett Avenue,3
+9070055,9070055,Beachmont - State Rd @ Winthrop Ave,Beachmont - Blue Line Southbound Shuttle - State Rd @ Winthrop Ave,,Southbound Shuttle,42.397706,-70.992052,,,,,0,,1,Revere,State Road,Winthrop Avenue,3
+9070056,9070056,Beachmont - Bennington St @ Winthrop Ave,Beachmont - Blue Line Wonderland Shuttle - Bennington St @ Winthrop Ave,,Wonderland Shuttle,42.397243,-70.991903,,,,,0,,1,Revere,Bennington Street,Winthrop Avenue,3
+9070057,9070057,Revere Beach - Beach St opp Kimball Ave,Revere Beach - Blue Line Southbound Shuttle - Beach St opp Kimball Ave,,Southbound Shuttle,42.408469,-70.992724,,,,,0,,1,Revere,Beach Street,Kimball Avenue,3
+9070058,9070058,Revere Beach - Beach St @ Kimball Ave,Revere Beach - Blue Line Wonderland Shuttle - Beach St @ Kimball Ave,,Wonderland Shuttle,42.408580,-70.992596,,,,,0,,1,Revere,Beach Street,Kimball Avenue,3
 9070065,9070065,Porter - Massachusetts Avenue @ Mount Vernon St,Porter - Red Line Ashmont/Braintree Shuttle - Massachusetts Avenue @ Mount Vernon St,,Ashmont/Braintree Shuttle,42.387580,-71.119340,LocalBus,,https://www.mbta.com/stops/9070065,,0,,1,Cambridge,Massachusetts Avenue,Mount Vernon Street,3
 9070071,9070071,Kendall/MIT - Main St opp Dock St,Kendall/MIT - Red Line Shuttle - Main St opp Dock St,,Red Line Shuttle,42.362584,-71.087137,LocalBus,,https://www.mbta.com/stops/9070071,,0,,1,Cambridge,Main Street,Dock Street,3
 9070072,9070072,Harvard - Brattle St @ Palmer St,Harvard - Red Line Shuttle - Brattle St @ Palmer St,,Red Line Shuttle,42.373396,-71.120200,LocalBus,,https://www.mbta.com/stops/9070072,,0,,1,Cambridge,Brattle Street,Palmer Street,3
 9070073,9070073,Charles/MGH - Cambridge St @ Lindall Pl,Charles/MGH - Red Line Ashmont/Braintree Shuttle - Cambridge St @ Lindall Pl,,Ashmont/Braintree Shuttle,42.361018,-71.069163,LocalBus,,https://www.mbta.com/stops/9070073,,0,,1,Boston,Cambridge Street,Lindall Place,3
 9070074,9070074,Charles/MGH - 325 Cambridge St,Charles/MGH - Red Line Alewife Shuttle - 325 Cambridge St,,Alewife Shuttle,42.361245,-71.069722,LocalBus,,https://www.mbta.com/stops/9070074,,0,,1,Boston,Cambridge Street,,3
-9070090,9070090,North Station - Nashua St @ Red Auerbach Way,North Station - Lechmere & North/Oak Grove Shuttle - Nashua St @ Red Auerbach Way,,Lechmere & North/Oak Grove Shuttle,42.365550,-71.064050,LocalBus,,https://www.mbta.com/stops/9070090,,0,,1,Boston,Nashua Street,Red Auerbach Way,3
-9070091,9070091,Science Park - Nashua St,Green Line Lechmere & North Shuttle,,Lechmere & North Shuttle,42.367520,-71.066800,LocalBus,,https://www.mbta.com/stops/9070091,,0,,1,Boston,Nashua Street,Charles River Dam Road,3
-9070093,9070093,Science Park - Martha Rd @ Whittier Pl,Science Park - Green Line Copley & West Shuttle - Martha Rd @ Whittier Pl,,Copley & West Shuttle,42.366105,-71.066986,LocalBus,,https://www.mbta.com/stops/9070093,,0,,1,Boston,Martha Road,Whittier Place,3
-9070150,9070150,Kenmore - 512 Commonwealth Ave,Kenmore - Green Line Shuttle - 512 Commonwealth Ave,,Green Line Shuttle,42.348712,-71.095526,LocalBus,,https://www.mbta.com/stops/9070150,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
-9070184,9070184,Hynes Convention Center - Commonwealth Ave @ Massachusetts Ave,Hynes Convention Center - Green Line Shuttle,,Green Line Shuttle,42.349320,-71.088590,LocalBus,,https://www.mbta.com/stops/9070184,,0,,1,Boston,Commonwealth Avenue,Massachusetts Avenue,3
-9070185,9070185,Kenmore - Commonwealth Ave @ Kenmore St,Kenmore - Green Line Shuttle,,Green Line Shuttle,42.349160,-71.094900,LocalBus,,https://www.mbta.com/stops/9070185,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
-9070186,9070186,Boston University East - 610 Commonwealth Ave,Boston University East - 610 Commonwealth Ave - Green Line Park Street & North Shuttle,,Green Line Park Street & North Shuttle,42.349300,-71.102120,LocalBus,,https://www.mbta.com/stops/9070186,,0,,1,Boston,Commonwealth Avenue,,3
-9070509,9070509,Ball Square - Boston Ave @ Broadway,Ball Square - Green Line Medford/Tufts Shuttle - Boston Ave @ Broadway,,Medford/Tufts Shuttle,42.400150,-71.111750,LocalBus,,https://www.mbta.com/stops/9070509,,0,,1,Somerville,Boston Avenue,Broadway,3
+9070076,9070076,Park Street - Tremont St @ Winter St,Park Street - Red Line Shuttle - Tremont St @ Winter St,,Red Line Shuttle,42.356164,-71.062487,,,,,0,,1,Boston,Tremont Street,Winter Street,3
+9070079,9070079,South Station - Summer St @ Surface Rd,South Station - Red Line Ashmont/Braintree Shuttle - Summer St @ Surface Rd,,Ashmont/Braintree Shuttle,42.353003,-71.056610,,,,,0,,1,Boston,Summer Street,John F. Fitzgerald Surface Road,3
+9070080,9070080,Downtown Crossing - Franklin St @ Washington St,Downtown Crossing - Red Line Shuttle - Franklin St @ Washington St,,Red Line Shuttle,42.356270,-71.059330,,,,,0,,1,Boston,Franklin Street,Washington Street,3
+9070083,9070083,Andrew - Dorchester Ave @ Dexter St,Andrew - Red Line Ashmont/Braintree Shuttle - Dorchester Ave @ Dexter St,,Ashmont/Braintree Shuttle,42.330445,-71.057042,,,,,0,,1,Boston,Dorchester Avenue,Dexter Street,3
+9070090,9070090,North Station - Nashua St @ Red Auerbach Way,North Station - Lechmere & North/Oak Grove Shuttle - Nashua St @ Red Auerbach Way,,Lechmere & North/Oak Grove Shuttle,42.365550,-71.064050,,,,,0,,1,Boston,Nashua Street,Red Auerbach Way,3
+9070091,9070091,Science Park - Nashua St,Green Line Lechmere & North Shuttle,,Lechmere & North Shuttle,42.367520,-71.066800,,,,,0,,1,Boston,Nashua Street,Charles River Dam Road,3
+9070093,9070093,Science Park - Martha Rd @ Whittier Pl,Science Park - Green Line Copley & West Shuttle - Martha Rd @ Whittier Pl,,Copley & West Shuttle,42.366105,-71.066986,,,,,0,,1,Boston,Martha Road,Whittier Place,3
+9070101,9070101,Quincy Center - 1259 Hancock St,Quincy Center - Red Line Braintree Suttle - 1259 Hancock St,,Braintree Shuttle,42.251786,-71.003876,,,,,0,,1,Quincy,Hancock Street,,3
+9070107,9070107,Boston College - Commonwealth Ave @ Lake St,Boston College - Green Line Shuttle - Commonwealth Ave @ Lake St,,Green Line Shuttle,42.340070,-71.166492,,,,,0,,1,Boston,Commonwealth Avenue,Lake Street,3
+9070110,9070110,South Street - Commonwealth Ave opp South St,South Street - Green Line Park Street & North Shuttle - Commonwealth Ave opp South St,,Park Street & North Shuttle,42.339477,-71.157805,,,,,0,,1,Boston,Commonwealth Avenue,South Street,3
+9070111,9070111,South Street - Commonwealth Ave @ South St,South Street - Green Line Boston College Shuttle,,Boston College Shuttle - Commonwealth Ave opp South St,42.339669,-71.157486,,,,,0,,1,Boston,Commonwealth Avenue,South Street,3
+9070112,9070112,Chestnut Hill Avenue - Commonwealth Ave @ Chestnut Hill Ave,Chestnut Hill Avenue - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.338001,-71.154084,,,,,0,,1,Boston,Commonwealth Avenue,Chestnut Hill Avenue,3
+9070113,9070113,Chestnut Hill Avenue - Commonwealth Ave @ Chestnut Hill Ave,Chestnut Hill Avenue - Green Line Boston College Shuttle - Commonwealth Ave @ Chestnut Hill Ave,,Boston College Shuttle,42.338296,-71.153994,,,,,0,,1,Boston,Commonwealth Avenue,Chestnut Hill Avenue,3
+9070114,9070114,Chiswick Road - Commonwealth Ave @ Chiswick Rd,Chiswick Road - Green Line Park Street & North Shuttle - Commonwealth Ave @ Chiswick Rd,,Park Street & North Shuttle,42.340378,-71.150962,,,,,0,,1,Boston,Commonwealth Avenue,Chiswick Road,3
+9070115,9070115,Chiswick Road - Commonwealth Ave @ Chiswick Rd,Chiswick Road - Green Line Boston College Shuttle - Commonwealth Ave @ Chiswick Rd,,Boston College Shuttle,42.340555,-71.151273,,,,,0,,1,Boston,Commonwealth Avenue,Chiswick Road,3
+9070116,9070116,Sutherland Road - Commonwealth Ave @ Colborne Rd,Sutherland Road - Green Line Park Street & North Shuttle - Commonwealth Ave @ Colborne Rd,,Park Street & North Shuttle,42.341459,-71.145883,,,,,0,,1,Boston,Commonwealth Avenue,Colborne Road,3
+9070117,9070117,Sutherland Road - Commonwealth Ave @ Colborne Rd,Sutherland Road - Green Line Boston College Shuttle - Commonwealth Ave @ Colborne Rd,,Boston College Shuttle,42.341805,-71.146004,,,,,0,,1,Boston,Commonwealth Avenue,Colborne Road,3
+9070120,9070120,Washington Street - Commonwealth Ave @ Washington St,Washington Street - Green Line Park Street & North Shuttle - Commonwealth Ave @ Washington St,,Park Street & North Shuttle,42.343850,-71.142476,,,,,0,,1,Boston,Commonwealth Avenue,Washington Street,3
+9070121,9070121,Washington Street - Commonwealth Ave @ Washington St,Washington Street - Green Line Shuttle - Commonwealth Ave @ Washington St,,Green Line Shuttle,42.343924,-71.142985,,,,,0,,1,Boston,Commonwealth Avenue,Washington Street,3
+9070124,9070124,Warren Street - Commonwealth Ave @ Kelton St,Warren Street - Green Line Park Street & North Shuttle - Commonwealth Ave @ Kelton St,,Park Street & North Shuttle,42.348366,-71.139974,,,,,0,,1,Boston,Commonwealth Avenue,Warren Street,3
+9070125,9070125,Warren Street - Commonwealth Ave @ Warren St,Warren Street - Green Line Boston College Shuttle - Commonwealth Ave @ Warren St,,Boston College Shuttle,42.348545,-71.140483,,,,,0,,1,Boston,Commonwealth Avenue,Warren Street,3
+9070128,9070128,Griggs Street - Commonwealth Ave @ Griggs St,Griggs Street - Green Line Park Street & North Shuttle - Commonwealth Ave @ Griggs St,,Park Street & North Shuttle,42.348656,-71.134255,,,,,0,,1,Boston,Commonwealth Avenue,Griggs Street,3
+9070129,9070129,Griggs Street - Commonwealth Ave opp Griggs St,Griggs Street - Green Line Boston College Shuttle - Commonwealth Ave opp Griggs St,,Boston College Shuttle,42.348901,-71.134118,,,,,0,,1,Boston,Commonwealth Avenue,Griggs Street,3
+9070130,9070130,Harvard Avenue - Commonwealth Ave @ Harvard Ave,Harvard Avenue - Green Line Park Street & North Shuttle - Commonwealth Ave @ Harvard Ave,,Park Street & North Shuttle,42.350157,-71.131085,,,,,0,,1,Boston,Commonwealth Avenue,Harvard Avenue,3
+9070131,9070131,Harvard Avenue - Commonwealth Ave @ Harvard Ave,Harvard Avenue - Green Line Boston College Shuttle - Commonwealth Ave @ Harvard Ave,,Boston College Shuttle,42.350306,-71.131188,,,,,0,,1,Boston,Commonwealth Avenue,Harvard Avenue,3
+9070134,9070134,Packard's Corner,Packard's Corner - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.351948,-71.123965,,,,,0,,1,Boston,,,3
+9070135,9070135,Packard's Corner,Packard's Corner - Green Line Boston College Shuttle,,Boston College Shuttle,42.351925,-71.124976,,,,,0,,1,Boston,,,3
+9070150,9070150,Kenmore - 512 Commonwealth Ave,Kenmore - Green Line Shuttle - 512 Commonwealth Ave,,Green Line Shuttle,42.348712,-71.095526,,,,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
+9070151,9070151,Kenmore - 660 Beacon St,Kenmore - Green Line Westbound Shuttle - 660 Beacon St,,Westbound Shuttle,42.349196,-71.095826,,,,,0,,1,Boston,Beacon Street,Public Alley 902,3
+9070152,9070152,Hynes Convention Center - Cambria St @ Boylston St,Hynes Convention Center - Green Line Park Street & North Shuttle - Cambria St @ Boylston St,,Park Street & North Shuttle,42.347300,-71.086917,,,,,0,,1,Boston,Cambria Street,Boylston Street,3
+9070154,9070154,Copley - Opp 575 Boylston St,Copley - Green Line Shuttle - Opp 575 Boylston St,,Green Line Shuttle,42.350283,-71.076293,,,,,0,,1,Boston,Boylston Street,,3
+9070155,9070155,Copley - Saint James Ave @ Trinity Pl,Copley - Green Line Westbound Shuttle - Saint James Ave @ Trinity Pl,,Westbound Shuttle,42.349660,-71.075780,,,,,0,,1,Boston,Saint James Avenue,Trinity Place,3
+9070156,9070156,Arlington,Arlington - Green Line Park St & North Shuttle,,Park Street & North Shuttle,42.351765,-71.070881,,,,,0,,1,Boston,,,3
+9070162,9070162,Woodland,Woodland - Green Line Shuttle,,Green Line Shuttle,42.332975,-71.243312,,,,,0,,1,Newton,,,3
+9070164,9070164,Waban - Beacon St @ Waban,Waban - Green Line Park St & North Shuttle - Beacon St @ Waban,,Park Street & North Shuttle,42.326268,-71.231039,,,,,0,,1,Newton,Beacon Street,Collins Road,3
+9070165,9070165,Waban - Beacon St opp Waban,Waban - Green Line Riverside Shuttle - Beacon St opp Waban,,Riverside Shuttle,42.326372,-71.231098,,,,,0,,1,Newton,Beacon Street,Collins Road,3
+9070168,9070168,Newton Highlands,Newton Highlands - Green Line Shuttle,,Green Line Shuttle,42.322368,-71.205831,,,,,0,,1,Newton,,,3
+9070170,9070170,Newton Centre - Langley Rd @ Braeland Ave,Newton Centre - Green Line Park St & North Shuttle - Langley Rd @ Braeland Ave,,Park Street & North Shuttle,42.329898,-71.191152,,,,,0,,1,Newton,Langley Road,Braeland Avenue,3
+9070171,9070171,Newton Centre - Langley Rd opp Braeland Ave,Newton Centre - Green Line Riverside Shuttle - Langley Rd opp Braeland Ave,,Riverside Shuttle,42.329976,-71.190997,,,,,0,,1,Newton,Langley Road,Braeland Avenue,3
+9070178,9070178,Brookline Hills - Boylston St @ Cypress St,Brookline Hills - Green Line Riverside Shuttle - Boylston St @ Cypress St,,Riverside Shuttle,42.330044,-71.126602,,,,,0,,1,Brookline,Boylston Street,Cypress Street,3
+9070179,9070179,Brookline Hills - Boylston St @ Cypress St,Brookline Hills - Green Line Park St & North Shuttle - Boylston St @ Cypress St,,Park Street & North Shuttle,42.330034,-71.125599,,,,,0,,1,Brookline,Boylston Street,Cypress Street,3
+9070180,9070180,Brookline Village - Pearl St @ Brookline Place Parking,Brookline Village - Green Line Park St & North Shuttle - Pearl St @ Brookline Place Parking,,Park Street & North Shuttle,42.332733,-71.115961,,,,,0,,1,Brookline,Pearl Street,,3
+9070184,9070184,Hynes Convention Center - Commonwealth Ave @ Massachusetts Ave,Hynes Convention Center - Green Line Shuttle,,Green Line Shuttle,42.349320,-71.088590,,,,,0,,1,Boston,Commonwealth Avenue,Massachusetts Avenue,3
+9070185,9070185,Kenmore - Commonwealth Ave @ Kenmore St,Kenmore - Green Line Shuttle,,Green Line Shuttle,42.349160,-71.094900,,,,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
+9070186,9070186,Boston University East - 610 Commonwealth Ave,Boston University East - 610 Commonwealth Ave - Green Line Park Street & North Shuttle,,Green Line Park Street & North Shuttle,42.349300,-71.102120,,,,,0,,1,Boston,Commonwealth Avenue,,3
+9070211,9070211,Saint Mary's Street,Saint Mary's Street - Green Line Westbound Shuttle,,Westbound Shuttle,42.346095,-71.107571,,,,,0,,1,Brookline,,,3
+9070212,9070212,Saint Mary's Street - Beacon St @ Saint Mary's St,Saint Mary's Street - Green Line Park Street & North Shuttle - Beacon St @ Saint Mary's St,,Park Street & North Shuttle,42.345892,-71.107009,,,,,0,,1,Brookline,Beacon Street,Saint Mary's Street,3
+9070213,9070213,Hawes Street,Hawes Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.345234,-71.110831,,,,,0,,1,Brookline,,,3
+9070214,9070214,Hawes Street,Hawes Street - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.344692,-71.111353,,,,,0,,1,Brookline,,,3
+9070215,9070215,Kent Street,Kent Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.344407,-71.113860,,,,,0,,1,Brookline,,,3
+9070216,9070216,Kent Street,Kent Street - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.344069,-71.113664,,,,,0,,1,Brookline,,,3
+9070217,9070217,Saint Paul Street,Saint Paul Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.343636,-71.116713,,,,,0,,1,Brookline,,,3
+9070218,9070218,Saint Paul Street,Saint Paul Street - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.343211,-71.116746,,,,,0,,1,Brookline,,,3
+9070219,9070219,Coolidge Corner,Coolidge Corner - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.342387,-71.121007,,,,,0,,1,Brookline,,,3
+9070220,9070220,Coolidge Corner,Coolidge Corner - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.341820,-71.121669,,,,,0,,1,Brookline,,,3
+9070223,9070223,Summit Avenue,Summit Avenue - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.341280,-71.125503,,,,,0,,1,Brookline,,,3
+9070224,9070224,Summit Avenue,Summit Avenue - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.340768,-71.125834,,,,,0,,1,Brookline,,,3
+9070225,9070225,Brandon Hall,Brandon Hall - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.340312,-71.128629,,,,,0,,1,Brookline,,,3
+9070226,9070226,Brandon Hall,Brandon Hall - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.339811,-71.128765,,,,,0,,1,Brookline,,,3
+9070227,9070227,Fairbanks Street,Fairbanks Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.339857,-71.131700,,,,,0,,1,Brookline,,,3
+9070228,9070228,Fairbanks Street,Fairbanks Street - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.339440,-71.130957,,,,,0,,1,Brookline,,,3
+9070229,9070229,Washington Square,Washington Square - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.339687,-71.135035,,,,,0,,1,Brookline,,,3
+9070230,9070230,Washington Square,Washington Square - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.339115,-71.135443,,,,,0,,1,Brookline,,,3
+9070231,9070231,Tappan Street,Tappan Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.338794,-71.138504,,,,,0,,1,Brookline,,,3
+9070232,9070232,Tappan Street,Tappan Street - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.338364,-71.138541,,,,,0,,1,Brookline,,,3
+9070233,9070233,Dean Road,Dean Road - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.338027,-71.141682,,,,,0,,1,Brookline,,,3
+9070234,9070234,Dean Road,Dean Road - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.337512,-71.142381,,,,,0,,1,Brookline,,,3
+9070235,9070235,Englewood Avenue,Englewood Avenue - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.337403,-71.144817,,,,,0,,1,Brookline,,,3
+9070236,9070236,Englewood Avenue,Englewood Avenue - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.336924,-71.145224,,,,,0,,1,Brookline,,,3
+9070237,9070237,Cleveland Circle,Cleveland Circle - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.336612,-71.148524,,,,,0,,1,Brookline,,,3
+9070238,9070238,Cleveland Circle,Cleveland Circle - Green Line Shuttle,,Green Line Shuttle,42.336033,-71.149119,,,,,0,,1,Boston,,,3
+9070501,9070501,Lechmere - Water St @ Lechmere Busway,Lechmere - Green Line Shuttle - Water St @ Lechmere Busway,,Green Line Shuttle,42.372648,-71.077741,,,,,0,,1,Cambridge,Water Street,Morgan Avenue,3
+9070502,9070502,Lechmere - Monsignor O'Brien Hwy opp Gore St,Lechmere - Green Line Shuttle - Monsignor O'Brien Hwy opp Gore St,,Green Line Shuttle,42.371793,-71.077843,,,,,0,,1,Cambridge,Monsignor O'Brien Highway,Water Street,3
+9070503,9070503,Union Square - Prospect St @ Union Sq Station,Union Square - Green Line Shuttle - Prospect St @ Union Sq Station,,Green Line Shuttle,42.378120,-71.094670,,,,,0,,1,Somerville,Prospect Street,Newton Street,3
+9070505,9070505,Gilman Square - Medford St opp Gilman Sq Station,Gilman Square - Green Line Medford/Tufts Shuttle - Medford St opp Gilman Sq Station,,Medford/Tufts Shuttle,42.387450,-71.095380,,,,,0,,1,Somerville,Medford Street,Pearl Street,3
+9070506,9070506,Gilman Square - Medford St @ Gilman Sq Station,Gilman Square - Green Line Copley & West Shuttle - Medford St @ Gilman Sq Station,,Copley & West Shuttle,42.387420,-71.095500,,,,,0,,1,Somerville,Medford Street,Pearl Street,3
+9070508,9070508,Magoun Square - Medford St @ Lowell St,Magoun Square - Green Line Copley & West Shuttle - Medford St @ Lowell St,,Copley & West Shuttle,42.396450,-71.103750,,,,,0,,1,Somerville,Medford Street,Lowell Street,3
+9070509,9070509,Ball Square - Boston Ave @ Broadway,Ball Square - Green Line Medford/Tufts Shuttle - Boston Ave @ Broadway,,Medford/Tufts Shuttle,42.400150,-71.111750,,,,,0,,1,Somerville,Boston Avenue,Broadway,3
+9070513,9070513,East Somerville - Joy St @ Washington St,East Somerville - Green Line Shuttle - Joy St @ Washington St,,Green Line Shuttle,42.380240,-71.088280,,,,,0,,1,Somerville,Joy Street,Washington Street,3
 9071,9071,Warren St @ Melrose St,,,,42.468798,-71.074237,LocalBus,,https://www.mbta.com/stops/9071,,0,,0,Melrose,Warren Street,Melrose Street,3
 9073,9073,Franklin St @ Warren St,,,,42.469465,-71.073595,LocalBus,,https://www.mbta.com/stops/9073,,0,,0,Melrose,Franklin Street,Warren Street,3
 9074,9074,Franklin St opp Greenwood St,,,,42.468688,-71.069631,LocalBus,,https://www.mbta.com/stops/9074,,0,,1,Melrose,Franklin Street,Greenwood Street,3
@@ -6570,11 +6674,25 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9169,9169,Riverside Ave @ Pembroke St,,,,42.413540,-71.098291,LocalBus,,https://www.mbta.com/stops/9169,,0,,1,Medford,Riverside Avenue,Maverick Street,3
 917,917,Washington St @ Foster St,,,,42.349007,-71.157011,LocalBus,,https://www.mbta.com/stops/917,,0,,1,Boston,Washington Street,Foster Street,3
 9170,9170,Riverside Ave @ Park St,,,,42.414773,-71.100883,LocalBus,,https://www.mbta.com/stops/9170,,0,,1,Medford,Riverside Avenue,Marine Street,3
+9170012,9170012,Massachusetts Avenue - Columbus Ave @ Newcastle Ct,Massachusetts Avenue - Orange Line Forest Hills Shuttle - Columbus Ave @ Newcastle Ct,,Forest Hills Shuttle,42.340441,-71.082114,,,,,0,,1,Boston,Columbus Avenue,Newcastle Court,3
+9170014,9170014,Back Bay - Columbus Ave @ Dartmouth St,Back Bay - Orange Line Forest Hills Shuttle - Columbus Ave @ Dartmouth St,,Forest Hills Shuttle,42.346210,-71.074988,,,,,0,,1,Boston,Columbus Avenue,Dartmouth Street,3
+9170024,9170024,Haymarket - Congress St @ New Sudbury St,Haymarket - Red Line Ashmont/Braintree Shuttle - Congress St @ New Sudbury St,,Ashmont/Braintree Shuttle,42.362096,-71.058311,,,,,0,,1,Boston,Congress Street,New Sudbury Street,3
+9170043,9170043,Aquarium - State St opp McKinley Sq,Aquarium - Blue Line Shuttle - State St opp McKinley Sq,,Blue Line Shuttle,42.359451,-71.053228,,,,,0,,1,Boston,State Street,McKinley Square,3
 9170071,9170071,Kendall/MIT - Main St @ Hayward St,Kendall/MIT - Red Line Ashmont/Braintree Shuttle - Main St @ Hayward St,,Ashmont/Braintree Shuttle,42.362309,-71.085583,LocalBus,,https://www.mbta.com/stops/9170071,,0,,1,Cambridge,Main Street,Hayward Street,3
 9170076,9170076,Park Street - Tremont St opp Hamilton Pl,Park Street - Red Line Shuttle - Tremont St opp Hamilton Pl,,Red Line Shuttle,42.356874,-71.061699,LocalBus,,https://www.mbta.com/stops/9170076,,0,,1,Boston,Tremont Street,Hamilton Place,3
-9170151,9170151,Kenmore - Commonwealth Ave @ Kenmore St,Kenmore - Green Line Westbound Shuttle - Commonwealth Ave @ Kenmore St,,Westbound Shuttle,42.349160,-71.094900,LocalBus,,https://www.mbta.com/stops/9170151,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
-9170152,9170152,Hynes - Commonwealth Ave @ Massachusetts Ave,Hynes - Green Line Park Street & North Shuttle - Commonwealth Ave @ Massachusetts Ave,,Park Street & North Shuttle,42.348890,-71.088350,LocalBus,,https://www.mbta.com/stops/9170152,,0,,1,Boston,Commonwealth Avenue,Massachusetts Avenue,3
-9170153,9170153,Hynes - Commonwealth Ave @ Massachusetts Ave,Hynes - Green Line Westbound Shuttle - Commonwealth Ave @ Massachusetts Ave,,Westbound Shuttle,42.349370,-71.088504,LocalBus,,https://www.mbta.com/stops/9170153,,0,,1,Boston,Commonwealth Avenue,Massachusetts Avenue,3
+9170099,9170099,Wollaston - Newport Ave @ Brook St,Wollaston - Red Line Braintree Shuttle - Newport Ave @ Brook St,,Braintree Shuttle,42.266560,-71.020832,,,,,0,,1,Quincy,Newport Avenue,Brook Street,3
+9170100,9170100,Wollaston - Newport Ave opp Brook St,Wollaston - Red Line Alewife Shuttle - Newport Ave opp Brook St,,Alewife Shuttle,42.266771,-71.020771,,,,,0,,1,Quincy,Newport Avenue,Brook Street,3
+9170120,9170120,Washington Street - Commonwealth Ave @ Washington St,Washington Street - Green Line Park Street & North Shuttle - Commonwealth Ave @ Washington St,,Park Street & North Shuttle,42.343435,-71.142732,,,,,0,,1,Boston,Commonwealth Avenue,Washington Street,3
+9170151,9170151,Kenmore - Commonwealth Ave @ Kenmore St,Kenmore - Green Line Westbound Shuttle - Commonwealth Ave @ Kenmore St,,Westbound Shuttle,42.349160,-71.094900,,,,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
+9170152,9170152,Hynes - Commonwealth Ave @ Massachusetts Ave,Hynes - Green Line Park Street & North Shuttle - Commonwealth Ave @ Massachusetts Ave,,Park Street & North Shuttle,42.348890,-71.088350,,,,,0,,1,Boston,Commonwealth Avenue,Massachusetts Avenue,3
+9170153,9170153,Hynes - Commonwealth Ave @ Massachusetts Ave,Hynes - Green Line Westbound Shuttle - Commonwealth Ave @ Massachusetts Ave,,Westbound Shuttle,42.349370,-71.088504,,,,,0,,1,Boston,Commonwealth Avenue,Massachusetts Avenue,3
+9170168,9170168,Newton Highlands - Walnut St @ Lincoln St,Newton Highlands - Green Line Park St & North Shuttle - Walnut St @ Lincoln St,,Park Street & North Shuttle,42.321660,-71.206241,,,,,0,,1,Newton,Walnut Street,Lincoln Street,3
+9170169,9170169,Newton Highlands - Walnut St @ Floral St,Newton Highlands - Green Line Shuttle - Walnut St @ Floral St,,Green Line Shuttle,42.321522,-71.205878,,,,,0,,1,Newton,Walnut Street,Floral Street,3
+9170178,9170178,Brookline Hills,Brookline Hills - Green Line Shuttle,,Green Line Shuttle,42.331508,-71.126691,,,,,0,,1,Brookline,,,3
+9170206,9170206,North Station - Lomasney Way @ Causeway St,North Station - Forest Hills/Copley & West Shuttle - Lomasney Way @ Causeway St,,Forest Hills/Copley & West Shuttle,42.364657,-71.063902,,,,,0,,1,Boston,Lomasney Way,Causeway Street,3
+9170211,9170211,Fenway - Beacon St @ Park Dr,Fenway - Green Line Cleveland Circle Shuttle - Beacon St @ Park Dr,,Cleveland Circle Shuttle,42.346836,-71.104819,,,,,0,,1,Boston,Beacon Street,Park Drive,3
+9170212,9170212,Fenway - Beacon St @ Park Dr,Fenway - Green Line Park Street & North Shuttle - Beacon St @ Park Dr,,Park Street & North Shuttle,42.346605,-71.104819,,,,,0,,1,Boston,Beacon Street,Park Drive,3
+9170503,9170503,Union Square - Somerville Ave @ Prospect St,Union Square - Green Line Shuttle - Somerville Ave @ Prospect St,,Green Line Shuttle,42.379038,-71.093704,,,,,0,,1,Somerville,Somerville Avenue,Prospect Street,3
 9171,9171,Riverside Ave @ Pleasant St,,,,42.415712,-71.102573,LocalBus,,https://www.mbta.com/stops/9171,,0,,0,Medford,Riverside Avenue,Pleasant Street,3
 9172,9172,116 Riverside Ave,,,,42.416769,-71.105122,LocalBus,,https://www.mbta.com/stops/9172,,0,,1,Medford,Riverside Avenue,Sables Court,3
 9174,9174,Winthrop St @ Lawrence Rd,,,,42.423885,-71.120863,LocalBus,,https://www.mbta.com/stops/9174,,0,,1,Medford,Winthrop Street,Suffolk Street,3
@@ -6659,7 +6777,8 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9251,9251,Main St @ Water St,,,,42.502471,-71.069633,LocalBus,,https://www.mbta.com/stops/9251,,0,,1,Wakefield,Main Street,Water Street,3
 926,926,Brighton Ave @ Cambridge St,,,,42.353347,-71.136687,LocalBus,,https://www.mbta.com/stops/926,,0,,1,Boston,Brighton Avenue,Islington Street,3
 927,927,Brighton Ave @ Allston St,,,,42.353125,-71.134179,LocalBus,,https://www.mbta.com/stops/927,,0,,1,Boston,Brighton Avenue,Quint Avenue,3
-9270014,9270014,Back Bay - 167 Dartmouth St,Back Bay - Green Line Shuttle - 167 Dartmouth St,,Green Line Shuttle,42.348067,-71.076171,LocalBus,,https://www.mbta.com/stops/9270014,,0,,1,Boston,Dartmouth Street,,3
+9270014,9270014,Back Bay - 167 Dartmouth St,Back Bay - Green Line Shuttle - 167 Dartmouth St,,Green Line Shuttle,42.348067,-71.076171,,,,,0,,1,Boston,Dartmouth Street,,3
+9270022,9270022,State - Congress St @ State St,State - Red Line Ashmont/Braintree Shuttle - Congress St @ State St,,Ashmont/Braintree Shuttle,42.359546,-71.057192,,,,,0,,1,Boston,Congress Street,State Street,3
 9276,9276,Salem St @ Main St,,,,42.508058,-71.071020,LocalBus,,https://www.mbta.com/stops/9276,,0,,1,Wakefield,Salem Street,Main Street,3
 9277,9277,Salem St @ Pleasant St,,,,42.508789,-71.068434,LocalBus,,https://www.mbta.com/stops/9277,,0,,1,Wakefield,Salem Street,Pleasant Street,3
 9279,9279,Pleasant St @ Wave Ave,,,,42.511507,-71.069465,LocalBus,,https://www.mbta.com/stops/9279,,0,,0,Wakefield,Pleasant Street,Wave Avenue,3
@@ -6696,6 +6815,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9340,9340,Hunting St @ Coleman St,,,,42.434046,-71.036057,LocalBus,,https://www.mbta.com/stops/9340,,0,,1,Malden,Hunting Street,Coleman Street,3
 93618,93618,710 East St opp Kendall St,,,,42.147256,-71.240311,LocalBus,,https://www.mbta.com/stops/93618,,0,,1,Walpole,East Street,,3
 937,937,Commonwealth Ave @ Carlton St,,,,42.350075,-71.108712,LocalBus,,https://www.mbta.com/stops/937,,0,,1,Boston,Commonwealth Avenue,Carlton Street,3
+9370022,9370022,State - Devonshire St @ State St,State - Red Line Ashmont/Braintree Shuttle - Devonshire St @ State St,,Ashmont/Braintree Shuttle,42.358594,-71.057305,,,,,0,,1,Boston,Devonshire Street,State Street,3
 938,938,Commonwealth Ave @ St Mary's St,,,,42.349788,-71.106391,LocalBus,,https://www.mbta.com/stops/938,,0,,1,Boston,Commonwealth Avenue,Saint Marys Street,3
 939,939,Commonwealth Ave @ Hinsdale St,,,,42.349397,-71.103055,LocalBus,,https://www.mbta.com/stops/939,,0,,1,Boston,Commonwealth Avenue,Hinsdale Street,3
 9406,9406,Morton St @ Harvard St,,,,42.287893,-71.093873,LocalBus,,https://www.mbta.com/stops/9406,,0,,1,Boston,Morton Street,,3
@@ -6792,6 +6912,7 @@ place-CM-0790,,Hyannis,,,,41.660225,-70.276583,CF-zone-hyannis,"215 Iyannough Ro
 CM-0790-S,,Hyannis,Hyannis - CapeFLYER - Track 1 (All Trains),1,Track 1 (All Trains),41.660225,-70.276583,CF-zone-hyannis,,https://www.mbta.com/stops/place-CM-0790,,0,place-CM-0790,1,Barnstable,,,2
 place-DB-0095,,Readville,,,,42.238405,-71.133246,CR-zone-2,"1800 Hyde Park Ave, Hyde Park, MA 02136",https://www.mbta.com/stops/place-DB-0095,,1,,1,Boston,,,
 DB-0095,,Readville,Readville - Commuter Rail,,Commuter Rail,42.238405,-71.133246,CR-zone-2,,https://www.mbta.com/stops/place-DB-0095,,0,place-DB-0095,1,Boston,,,2
+DB-0095-B0,,Readville - Lower Parking Lot,Readville - Commuter Rail Shuttle - Lower Parking Lot,,Commuter Rail Shuttle,42.238773,-71.133271,,,,,0,place-DB-0095,1,Boston,,,3
 FB-0095-04,,Readville,Readville - Commuter Rail - Track 4,4,Track 4,42.237769,-71.133569,CR-zone-2,,https://www.mbta.com/stops/place-DB-0095,,0,place-DB-0095,1,Boston,,,2
 FB-0095-05,,Readville,Readville - Commuter Rail - Track 5,5,Track 5,42.237781,-71.134295,CR-zone-2,,https://www.mbta.com/stops/place-DB-0095,,0,place-DB-0095,1,Boston,,,2
 NEC-2192-02,,Readville,Readville - Commuter Rail - Track 2,2,Track 2,42.238831,-71.133281,CR-zone-2,,https://www.mbta.com/stops/place-DB-0095,,0,place-DB-0095,1,Boston,,,2
@@ -6800,30 +6921,43 @@ place-DB-2205,,Fairmount,,,,42.253638,-71.119270,CR-zone-1A,"Fairmount Ave and T
 DB-2205,,Fairmount,Fairmount - Commuter Rail,,Commuter Rail,42.253638,-71.119270,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2205,,0,place-DB-2205,1,Boston,,,2
 DB-2205-01,,Fairmount,Fairmount - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.253638,-71.119270,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2205,,0,place-DB-2205,1,Boston,,,2
 DB-2205-02,,Fairmount,Fairmount - Commuter Rail - Track 2 (South Station),2,Track 2 (South Station),42.253638,-71.119270,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2205,,0,place-DB-2205,1,Boston,,,2
+DB-2205-B0,,Fairmount - Fairmount Ave opp Ramp,Fairmount - Outbound Shuttle - Fairmount Ave opp Ramp,,Outbound Shuttle,42.253700,-71.119330,,,,,0,place-DB-2205,1,Boston,Fairmount Avenue,,3
+DB-2205-B1,,Fairmount - Fairmount Ave @ Ramp,Fairmount - South Station Shuttle - Fairmount Ave @ Ramp,,South Station Shuttle,42.253620,-71.119460,,,,,0,place-DB-2205,1,Boston,Fairmount Avenue,,3
 place-DB-2222,,Blue Hill Avenue,,,,42.271466,-71.095782,CR-zone-1A,"Blue Hill Ave or Cummins Hwy at Woodhaven St, Mattapan, MA 02126",https://www.mbta.com/stops/place-DB-2222,,1,,1,Boston,,,
 DB-2222,,Blue Hill Avenue,Blue Hill Avenue - Commuter Rail,,Commuter Rail,42.271466,-71.095782,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2222,,0,place-DB-2222,1,Boston,,,2
 DB-2222-01,,Blue Hill Avenue,Blue Hill Avenue - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.271466,-71.095782,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2222,,0,place-DB-2222,1,Boston,,,2
 DB-2222-02,,Blue Hill Avenue,Blue Hill Avenue - Commuter Rail - Track 2 (South Station),2,Track 2 (South Station),42.271466,-71.095782,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2222,,0,place-DB-2222,1,Boston,,,2
+DB-2222-B0,,Blue Hill Avenue - Blue Hill Ave @ Woodhaven St,Blue Hill Avenue - Outbound Shuttle - Blue Hill Ave @ Woodhaven St,,Outbound Shuttle,42.273150,-71.093816,,,,,0,place-DB-2222,1,Boston,Blue Hill Avenue,Woodhaven Street,3
+DB-2222-B1,,Blue Hill Avenue - Blue Hill Ave opp Woodhaven St,Blue Hill Avenue - South Station Shuttle - Blue Hill Ave opp Woodhaven St,,South Station Shuttle,42.272976,-71.093404,,,,,0,place-DB-2222,1,Boston,Blue Hill Avenue,Woodhaven Street,3
 place-DB-2230,,Morton Street,,,,42.280994,-71.085475,CR-zone-1A,"865 Morton St, Mattapan, MA 02126",https://www.mbta.com/stops/place-DB-2230,,1,,1,Boston,,,
 DB-2230,,Morton Street,Morton Street - Commuter Rail,,Commuter Rail,42.280994,-71.085475,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2230,,0,place-DB-2230,1,Boston,,,2
 DB-2230-01,,Morton Street,Morton Street - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.280994,-71.085475,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2230,,0,place-DB-2230,1,Boston,,,2
 DB-2230-02,,Morton Street,Morton Street - Commuter Rail - Track 2 (South Station),2,Track 2 (South Station),42.280994,-71.085475,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2230,,0,place-DB-2230,1,Boston,,,2
+DB-2230-B0,,Morton Street - Morton St @ Evans St,Morton Street - Outbound Shuttle - Morton St @ Evans St,,Outbound Shuttle,42.280886,-71.084654,,,,,0,place-DB-2230,1,Boston,Morton Street,Evans Street,3
+DB-2230-B1,,Morton Street - Morton St opp Evans St,Morton Street - South Station Shuttle - Morton St opp Evans St,,South Station Shuttle,42.280779,-71.084621,,,,,0,place-DB-2230,1,Boston,Morton Street,Evans Street,3
 place-DB-2240,,Talbot Avenue,,,,42.292246,-71.078140,CR-zone-1A,"210 Talbot Ave, Boston, MA 02124",https://www.mbta.com/stops/place-DB-2240,,1,,1,Boston,,,
 DB-2240,,Talbot Avenue,Talbot Avenue - Commuter Rail,,Commuter Rail,42.292246,-71.078140,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2240,,0,place-DB-2240,1,Boston,,,2
 DB-2240-01,,Talbot Avenue,Talbot Avenue - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.292246,-71.078140,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2240,,0,place-DB-2240,1,Boston,,,2
 DB-2240-02,,Talbot Avenue,Talbot Avenue - Commuter Rail - Track 2 (South Station),2,Track 2 (South Station),42.292246,-71.078140,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2240,,0,place-DB-2240,1,Boston,,,2
+DB-2240-B0,,Talbot Avenue - Talbot Ave opp Pick-up/Drop-off,Talbot Avenue - Outbound Shuttle - Talbot Ave opp Pick-up/Drop-off,,Outbound Shuttle,42.291903,-71.077992,,,,,0,place-DB-2240,1,Boston,Talbot Avenue,,3
+DB-2240-B1,,Talbot Avenue - Talbot Ave @ Pick-up/Drop-off,Talbot Avenue - South Station Shuttle - Talbot Ave @ Pick-up/Drop-off,,South Station Shuttle,42.292015,-71.077978,,,,,0,place-DB-2240,1,Boston,Talbot Avenue,,3
 place-DB-2249,,Four Corners/Geneva,,,,42.305037,-71.076833,CR-zone-1A,"171 Geneva Ave, Boston, MA 02121",https://www.mbta.com/stops/place-DB-2249,,1,,1,Boston,,,
 DB-2249,,Four Corners/Geneva,Four Corners/Geneva - Commuter Rail,,Commuter Rail,42.305037,-71.076833,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2249,,0,place-DB-2249,1,Boston,,,2
 DB-2249-01,,Four Corners/Geneva,Four Corners/Geneva - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.303955,-71.077979,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2249,,0,place-DB-2249,1,Boston,,,2
 DB-2249-02,,Four Corners/Geneva,Four Corners/Geneva - Commuter Rail - Track 2 (South Station),2,Track 2 (South Station),42.305692,-71.076096,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2249,,0,place-DB-2249,1,Boston,,,2
+DB-2249-B2,,Four Corners/Geneva - Opp 198 Geneva Ave,Four Corners/Geneva - Outbound Shuttle - Opp 198 Geneva Ave,,Outbound Shuttle,42.305093,-71.076623,,,,,0,place-DB-2249,1,Boston,Geneva Avenue,Vaughan Avenue,3
+DB-2249-B3,,Four Corners/Geneva - 198 Geneva Ave,Four Corners/Geneva - South Station Shuttle - 198 Geneva Ave,,South Station Shuttle,42.305194,-71.076651,,,,,0,place-DB-2249,1,Boston,Geneva Avenue,Vaughan Avenue,3
 place-DB-2258,,Uphams Corner,,,,42.319125,-71.068627,CR-zone-1A,"691 Dudley St, Dorchester, MA 02125",https://www.mbta.com/stops/place-DB-2258,,1,,1,Boston,,,
 DB-2258,,Uphams Corner,Uphams Corner - Commuter Rail,,Commuter Rail,42.319125,-71.068627,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2258,,0,place-DB-2258,1,Boston,,,2
 DB-2258-01,,Uphams Corner,Uphams Corner - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.319125,-71.068627,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2258,,0,place-DB-2258,1,Boston,,,2
 DB-2258-02,,Uphams Corner,Uphams Corner - Commuter Rail - Track 2 (South Station),2,Track 2 (South Station),42.319125,-71.068627,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2258,,0,place-DB-2258,1,Boston,,,2
+DB-2258-B0,,Uphams Corner - Dudley St @ Alexander St,Uphams Corner - Outbound Shuttle - Dudley St @ Alexander St,,Outbound Shuttle,42.318710,-71.069253,,,,,0,place-DB-2258,1,Boston,Dudley Street,Alexander Street,3
+DB-2258-B1,,Uphams Corner - Dudley St @ Clifton St,Uphams Corner - South Station Shuttle - Dudley St @ Clifton St,,South Station Shuttle,42.318783,-71.069142,,,,,0,place-DB-2258,1,Boston,Dudley Street,Clifton Street,3
 place-DB-2265,,Newmarket,,,,42.327415,-71.065674,CR-zone-1A,"1070 Massachusetts Ave, Boston, MA 02118",https://www.mbta.com/stops/place-DB-2265,,1,,1,Boston,,,
 DB-2265,,Newmarket,Newmarket - Commuter Rail,,Commuter Rail,42.327415,-71.065674,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2265,,0,place-DB-2265,1,Boston,,,2
 DB-2265-01,,Newmarket,Newmarket - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.327415,-71.065674,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2265,,0,place-DB-2265,1,Boston,,,2
 DB-2265-02,,Newmarket,Newmarket - Commuter Rail - Track 2 (South Station),2,Track 2 (South Station),42.327415,-71.065674,CR-zone-1A,,https://www.mbta.com/stops/place-DB-2265,,0,place-DB-2265,1,Boston,,,2
+DB-2265-B1,,Newmarket - Newmarket Sq @ Massachusetts Ave,Newmarket - Commuter Rail Shuttle - Newmarket Sq @ Massachusetts Ave,,Commuter Rail Shuttle,42.327550,-71.065880,,,,,0,place-DB-2265,1,Boston,Newmarket Square,Massachusetts Avenue,3
 place-ER-0099,,River Works,GE Employees Only,,,42.449927,-70.969848,CR-zone-2,"1000 Western Ave, Lynn, MA 01910 (General Electric employees only)",https://www.mbta.com/stops/place-ER-0099,,1,,2,Lynn,,,
 ER-0099,,River Works,River Works (GE Employees only) - Commuter Rail,,Commuter Rail,42.449927,-70.969848,CR-zone-2,,https://www.mbta.com/stops/place-ER-0099,,0,place-ER-0099,2,Lynn,,,2
 ER-0099-01,,River Works,River Works (GE Employees only) - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.449927,-70.969848,CR-zone-2,,https://www.mbta.com/stops/place-ER-0099,,0,place-ER-0099,2,Lynn,,,2
@@ -6840,32 +6974,45 @@ place-ER-0128,,Swampscott,,,,42.473743,-70.922537,CR-zone-3,"Burrill St and Rail
 ER-0128,,Swampscott,Swampscott - Commuter Rail,,Commuter Rail,42.473743,-70.922537,CR-zone-3,,https://www.mbta.com/stops/place-ER-0128,,0,place-ER-0128,1,Swampscott,,,2
 ER-0128-01,,Swampscott,Swampscott - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.473743,-70.922537,CR-zone-3,,https://www.mbta.com/stops/place-ER-0128,,0,place-ER-0128,1,Swampscott,,,2
 ER-0128-02,,Swampscott,Swampscott - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.473743,-70.922537,CR-zone-3,,https://www.mbta.com/stops/place-ER-0128,,0,place-ER-0128,1,Swampscott,,,2
+ER-0128-B0,,Swampscott - Railroad Ave @ Burrill St,Swampscott - Commuter Rail Shuttle - Railroad Ave @ Burrill St,,Outbound Shuttle,42.473543,-70.922023,,,,,0,place-ER-0128,1,Swampscott,Railroad Avenue,Burrill Street,3
+ER-0128-B1,,Swampscott - Railroad Ave @ Burrill St,Swampscott - Commuter Rail Shuttle - Railroad Ave @ Burrill St,,Commuter Rail Shuttle,42.473671,-70.922011,,,,,0,place-ER-0128,1,Swampscott,Railroad Avenue,Burrill Street,3
 place-ER-0168,,Salem,,,,42.524792,-70.895876,CR-zone-3,"252 Bridge St, Salem, MA 01970",https://www.mbta.com/stops/place-ER-0168,,1,,1,Salem,,,
 37150,37150,Salem,Salem - Busway,,Busway,42.524466,-70.895998,LocalBus,,https://www.mbta.com/stops/place-ER-0168,level_ground,0,place-ER-0168,1,Salem,,,3
+ER-0168-B,,Salem - Busway,Salem - Commuter Rail Shuttle - Busway,,Commuter Rail Shuttle,42.524495,-70.896899,,,,,0,place-ER-0168,1,Salem,,,3
 ER-0168-S,,Salem,Salem - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.524792,-70.895876,CR-zone-3,,https://www.mbta.com/stops/place-ER-0168,,0,place-ER-0168,1,Salem,,,2
 place-ER-0183,,Beverly,,,,42.547276,-70.885432,CR-zone-4,"10 Park St, Beverly, MA 01915",https://www.mbta.com/stops/place-ER-0183,,1,,1,Beverly,,,
 ER-0183,,Beverly,Beverly - Commuter Rail,,Commuter Rail,42.547276,-70.885432,CR-zone-4,,https://www.mbta.com/stops/place-ER-0183,,0,place-ER-0183,1,Beverly,,,2
 ER-0183-01,,Beverly,Beverly - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.547276,-70.885432,CR-zone-4,,https://www.mbta.com/stops/place-ER-0183,,0,place-ER-0183,1,Beverly,,,2
 ER-0183-02,,Beverly,Beverly - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.547276,-70.885432,CR-zone-4,,https://www.mbta.com/stops/place-ER-0183,,0,place-ER-0183,1,Beverly,,,2
+ER-0183-B,,Beverly - Park St,Beverly - Commuter Rail Shuttle - Park St,,Commuter Rail Shuttle,42.547223,-70.885254,,,,,0,place-ER-0183,1,Beverly,Park Street,Railroad Avenue,3
 place-ER-0208,,North Beverly,,,,42.583779,-70.883851,CR-zone-5,"Enon St and Dodge St, Beverly, MA 01915",https://www.mbta.com/stops/place-ER-0208,,1,,1,Beverly,,,
 ER-0208,,North Beverly,North Beverly - Commuter Rail,,Commuter Rail,42.583779,-70.883851,CR-zone-5,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,2
 ER-0208-01,,North Beverly,North Beverly - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.583779,-70.883851,CR-zone-5,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,2
 ER-0208-02,,North Beverly,North Beverly - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.583779,-70.883851,CR-zone-5,,https://www.mbta.com/stops/place-ER-0208,,0,place-ER-0208,1,Beverly,,,2
+ER-0208-B,,North Beverly - Parking Lot,North Beverly - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.583790,-70.883900,,,,,0,place-ER-0208,1,Beverly,,,3
+ER-0208-B0,,North Beverly - Enon St @ Dodge St,North Beverly - Commuter Rail Outbound Shuttle - Enon St @ Dodge St,,Outbound Shuttle,42.583313,-70.884290,,,,,0,place-ER-0208,1,Beverly,Enon Street,Dodge Street,3
+ER-0208-B1,,North Beverly - Enon St opp Dodge St,North Beverly - Commuter Rail Boston Shuttle - Enon St opp Dodge St,,Boston Shuttle,42.583264,-70.884463,,,,,0,place-ER-0208,1,Beverly,Enon Street,Dodge Street,3
 place-ER-0227,,Hamilton/Wenham,,,,42.609212,-70.874801,CR-zone-5,"Bay Rd and Walnut Rd, Hamilton, MA 01982",https://www.mbta.com/stops/place-ER-0227,,1,,1,Hamilton,,,
+ER-0227-B0,,Hamilton/Wenham - Bay Rd opp Railroad Ave,Hamilton/Wenham - Commuter Rail Outbound Shuttle - Bay Rd opp Railroad Ave,,Outbound Shuttle,42.610143,-70.874955,,,,,0,place-ER-0227,1,Hamilton,Bay Road,Railroad Avenue,3
+ER-0227-B1,,Hamilton/Wenham - Bay Rd @ Railroad Ave,Hamilton/Wenham - Commuter Rail Boston Shuttle - Bay Rd @ Railroad Ave,,Boston Shuttle,42.610426,-70.874816,,,,,0,place-ER-0227,1,Hamilton,Bay Road,Railroad Avenue,3
 ER-0227-S,,Hamilton/Wenham,Hamilton/Wenham - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.609212,-70.874801,CR-zone-5,,https://www.mbta.com/stops/place-ER-0227,,0,place-ER-0227,1,Hamilton,,,2
 place-ER-0276,,Ipswich,,,,42.676921,-70.840589,CR-zone-6,"4 Peatfield St, Ipswich, MA 01938",https://www.mbta.com/stops/place-ER-0276,,1,,1,Ipswich,,,
+ER-0276-B,,Ipswich - Saltonstall St @ Market St,Ipswich - Commuter Rail Shuttle - Saltonstall St @ Market St,,Commuter Rail Shuttle,42.677882,-70.840107,,,,,0,place-ER-0276,1,Ipswich,Saltonstall Street,Market Street,3
 ER-0276-S,,Ipswich,Ipswich - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.676921,-70.840589,CR-zone-6,,https://www.mbta.com/stops/place-ER-0276,,0,place-ER-0276,1,Ipswich,,,2
 place-ER-0312,,Rowley,,,,42.726845,-70.859034,CR-zone-7,"70 Railroad Ave, Rowley, MA 01969",https://www.mbta.com/stops/place-ER-0312,,1,,1,Rowley,,,
+ER-0312-B,,Rowley,Rowley - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.727113,-70.859257,,,,,0,place-ER-0312,1,Rowley,,,3
 ER-0312-S,,Rowley,Rowley - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.726845,-70.859034,CR-zone-7,,https://www.mbta.com/stops/place-ER-0312,,0,place-ER-0312,1,Rowley,,,2
 place-ER-0362,,Newburyport,,,,42.797837,-70.877970,CR-zone-8,"25 Boston Way, Newburyport, MA 01950",https://www.mbta.com/stops/place-ER-0362,,1,,1,Newburyport,,,
 ER-0362,,Newburyport,Newburyport - Commuter Rail,,Commuter Rail,42.797837,-70.877970,CR-zone-8,,https://www.mbta.com/stops/place-ER-0362,,0,place-ER-0362,1,Newburyport,,,2
 ER-0362-01,,Newburyport,Newburyport - Commuter Rail - Track 1,1,Track 1,42.797837,-70.877970,CR-zone-8,,https://www.mbta.com/stops/place-ER-0362,,0,place-ER-0362,1,Newburyport,,,2
 ER-0362-02,,Newburyport,Newburyport - Commuter Rail - Track 2,2,Track 2,42.797837,-70.877970,CR-zone-8,,https://www.mbta.com/stops/place-ER-0362,,0,place-ER-0362,1,Newburyport,,,2
+ER-0362-B,,Newburyport - Route 1 Parking,Newburyport - Commuter Rail Shuttle - Route 1 Parking,,Commuter Rail Shuttle,42.797059,-70.877515,,,,,0,place-ER-0362,1,Newburyport,,,3
 place-FB-0109,,Endicott,,,,42.233249,-71.158647,CR-zone-2,"186 Grant Ave, Dedham, MA 02026",https://www.mbta.com/stops/place-FB-0109,,1,,2,Dedham,,,
 FB-0109,,Endicott,Endicott - Commuter Rail,,Commuter Rail,42.233249,-71.158647,CR-zone-2,,https://www.mbta.com/stops/place-FB-0109,,0,place-FB-0109,2,Dedham,,,2
 FB-0109-01,,Endicott,Endicott - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.233249,-71.158647,CR-zone-2,,https://www.mbta.com/stops/place-FB-0109,,0,place-FB-0109,2,Dedham,,,2
 FB-0109-02,,Endicott,Endicott - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.233249,-71.158647,CR-zone-2,,https://www.mbta.com/stops/place-FB-0109,,0,place-FB-0109,2,Dedham,,,2
 place-FB-0118,,Dedham Corporate Center,,,,42.227079,-71.174254,CR-zone-2,"125 Allied Dr, Dedham, MA 02026",https://www.mbta.com/stops/place-FB-0118,,1,,1,Dedham,,,
+Dedham Corp Center-S,,Dedham Corp Center,Dedham Corp Center - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.227079,-71.174254,,,,,0,place-FB-0118,1,Dedham,,,3
 FB-0118,,Dedham Corporate Center,Dedham Corporate Center - Commuter Rail,,Commuter Rail,42.227079,-71.174254,CR-zone-2,,https://www.mbta.com/stops/place-FB-0118,,0,place-FB-0118,1,Dedham,,,2
 FB-0118-01,,Dedham Corporate Center,Dedham Corporate Center - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.227079,-71.174254,CR-zone-2,,https://www.mbta.com/stops/place-FB-0118,,0,place-FB-0118,1,Dedham,,,2
 FB-0118-02,,Dedham Corporate Center,Dedham Corporate Center - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.227079,-71.174254,CR-zone-2,,https://www.mbta.com/stops/place-FB-0118,,0,place-FB-0118,1,Dedham,,,2
@@ -6881,17 +7028,24 @@ place-FB-0148,,Norwood Central,,,,42.188775,-71.199665,CR-zone-3,"164 Broadway, 
 FB-0148,,Norwood Central,Norwood Central - Commuter Rail,,Commuter Rail,42.188775,-71.199665,CR-zone-3,,https://www.mbta.com/stops/place-FB-0148,,0,place-FB-0148,1,Norwood,,,2
 FB-0148-01,,Norwood Central,Norwood Central - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.188775,-71.199665,CR-zone-3,,https://www.mbta.com/stops/place-FB-0148,,0,place-FB-0148,1,Norwood,,,2
 FB-0148-02,,Norwood Central,Norwood Central - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.188775,-71.199665,CR-zone-3,,https://www.mbta.com/stops/place-FB-0148,,0,place-FB-0148,1,Norwood,,,2
+Norwood Central-S,,Norwood Central,Norwood Central - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.188775,-71.199665,,,,,0,place-FB-0148,1,Norwood,,,3
 place-FB-0166,,Windsor Gardens,,,,42.172127,-71.219366,CR-zone-4,"Buckminster Dr and Engamore Ln, Norwood, MA 02062",https://www.mbta.com/stops/place-FB-0166,,1,,2,Norwood,,,
 FB-0166-S,,Windsor Gardens,Windsor Gardens - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.172127,-71.219366,CR-zone-4,,https://www.mbta.com/stops/place-FB-0166,,0,place-FB-0166,2,Norwood,,,2
+Windsor Gardens-S,,Windsor Gardens,Windsor Gardens - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.172127,-71.219366,,,,,0,place-FB-0166,1,Norwood,,,3
 place-FB-0177,,Plimptonville,,,,42.159123,-71.236125,CR-zone-4,"185 Plimpton St, Walpole, MA 02081",https://www.mbta.com/stops/place-FB-0177,,1,,2,Walpole,,,
 FB-0177-S,,Plimptonville,Plimptonville - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.159123,-71.236125,CR-zone-4,,https://www.mbta.com/stops/place-FB-0177,,0,place-FB-0177,2,Walpole,,,2
 place-FB-0191,,Walpole,,,,42.145477,-71.257790,CR-zone-4,"275 West St, Walpole, MA 02081",https://www.mbta.com/stops/place-FB-0191,,1,,2,Walpole,,,
+FB-0191-B,,Walpole - North Parking Lot,Walpole - Commuter Rail Shuttle - North Parking Lot,,Commuter Rail Shuttle,42.145309,-71.257803,,,,,0,place-FB-0191,1,Walpole,,,3
 FB-0191-S,,Walpole,Walpole - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.145477,-71.257790,CR-zone-4,,https://www.mbta.com/stops/place-FB-0191,,0,place-FB-0191,2,Walpole,,,2
 place-FB-0230,,Norfolk,,,,42.120694,-71.325217,CR-zone-5,"9 Rockwood Rd, Norfolk, MA 02056",https://www.mbta.com/stops/place-FB-0230,,1,,1,Norfolk,,,
+FB-0230-B,,Norfolk - East Parking Lot,Norfolk - Commuter Rail Shuttle - East Parking Lot,,Commuter Rail Shuttle,42.120474,-71.324470,,,,,0,place-FB-0230,1,Norfolk,,,3
 FB-0230-S,,Norfolk,Norfolk - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.120694,-71.325217,CR-zone-5,,https://www.mbta.com/stops/place-FB-0230,,0,place-FB-0230,1,Norfolk,,,2
 place-FB-0275,,Franklin,,,,42.083238,-71.396102,CR-zone-6,"75 Depot St, Franklin, MA 02038",https://www.mbta.com/stops/place-FB-0275,,1,,2,Franklin,,,
+FB-0275-B0,,Franklin - E Central St @ Cottage St,Franklin - Commuter Rail Shuttle - E Central St @ Cottage St,,Commuter Rail Shuttle,42.082350,-71.396213,,,,,0,place-FB-0275,1,Franklin,East Central Street,Cottage Street,3
+FB-0275-B1,,Franklin - Parking Lot,Franklin - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.083443,-71.396111,,,,,0,place-FB-0275,1,Franklin,,,3
 FB-0275-S,,Franklin,Franklin - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.083238,-71.396102,CR-zone-6,,https://www.mbta.com/stops/place-FB-0275,,0,place-FB-0275,2,Franklin,,,2
 place-FB-0303,,Forge Park/495,,,,42.089941,-71.439020,CR-zone-6,"1000 W Central St, Franklin, MA 02038",https://www.mbta.com/stops/place-FB-0303,,1,,1,Franklin,,,
+FB-0303-B,,Forge Park/495 - South Parking Lot,Forge Park/495 - Commuter Rail Shuttle - South Parking Lot,,Commuter Rail Shuttle,42.089825,-71.439075,,,,,0,place-FB-0303,1,Franklin,,,3
 FB-0303-S,,Forge Park/495,Forge Park/495 - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.089941,-71.439020,CR-zone-6,,https://www.mbta.com/stops/place-FB-0303,,0,place-FB-0303,1,Franklin,,,2
 place-FR-0064,,Belmont,,,,42.395896,-71.176190,CR-zone-1,"Common St and Concord Ave, Belmont, MA 02478",https://www.mbta.com/stops/place-FR-0064,,1,,2,Belmont,,,
 FR-0064,,Belmont,Belmont - Commuter Rail,,Commuter Rail,42.395896,-71.176190,CR-zone-1,,https://www.mbta.com/stops/place-FR-0064,,0,place-FR-0064,2,Belmont,,,2
@@ -6958,17 +7112,24 @@ place-FR-0361,,Ayer,,,,42.559074,-71.588476,CR-zone-8,"70 Main St, Ayer, MA 0143
 FR-0361,,Ayer,Ayer - Commuter Rail,,Commuter Rail,42.559074,-71.588476,CR-zone-8,,https://www.mbta.com/stops/place-FR-0361,,0,place-FR-0361,2,Ayer,,,2
 FR-0361-01,,Ayer,Ayer - Commuter Rail - Track 1,1,Track 1,42.559074,-71.588476,CR-zone-8,,https://www.mbta.com/stops/place-FR-0361,,0,place-FR-0361,2,Ayer,,,2
 FR-0361-02,,Ayer,Ayer - Commuter Rail - Track 2,2,Track 2,42.559074,-71.588476,CR-zone-8,,https://www.mbta.com/stops/place-FR-0361,,0,place-FR-0361,2,Ayer,,,2
+FR-0361-B0,,Ayer,Ayer - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.559960,-71.589507,,,,,0,place-FR-0361,1,Ayer,,,3
+FR-0361-B1,,Ayer,Ayer - Commuter Rail Boston Shuttle,,Boston Shuttle,42.559770,-71.589267,,,,,0,place-FR-0361,1,Ayer,,,3
 place-FR-0394,,Shirley,,,,42.545089,-71.648004,CR-zone-8,"Ayer Rd and Phoenix St, Shirley, MA 01464",https://www.mbta.com/stops/place-FR-0394,,1,,2,Shirley,,,
 FR-0394,,Shirley,Shirley - Commuter Rail,,Commuter Rail,42.545089,-71.648004,CR-zone-8,,https://www.mbta.com/stops/place-FR-0394,,0,place-FR-0394,2,Shirley,,,2
 FR-0394-01,,Shirley,Shirley - Commuter Rail - Track 1,1,Track 1,42.545089,-71.648004,CR-zone-8,,https://www.mbta.com/stops/place-FR-0394,,0,place-FR-0394,2,Shirley,,,2
 FR-0394-02,,Shirley,Shirley - Commuter Rail - Track 2,2,Track 2,42.545089,-71.648004,CR-zone-8,,https://www.mbta.com/stops/place-FR-0394,,0,place-FR-0394,2,Shirley,,,2
+FR-0394-B0,,Shirley - Front St @ Phoenix St,Shirley - Commuter Rail Outbound Shuttle - Front St @ Phoenix St,,Outbound Shuttle,42.545003,-71.648064,,,,,0,place-FR-0394,1,Shirley,Front Street,Phoenix Street,3
+FR-0394-B1,,Shirley - Front St @ Phoenix St,Shirley - Commuter Rail Boston Shuttle - Front St @ Phoenix St,,Boston Shuttle,42.544850,-71.647958,,,,,0,place-FR-0394,1,Shirley,Front Street,Phoenix Street,3
 place-FR-0451,,North Leominster,,,,42.539017,-71.739186,CR-zone-8,"44 Nashua St, Leominster, MA 01453",https://www.mbta.com/stops/place-FR-0451,,1,,1,Leominster,,,
 FR-0451,,North Leominster,North Leominster - Commuter Rail,,Commuter Rail,42.539017,-71.739186,CR-zone-8,,https://www.mbta.com/stops/place-FR-0451,,0,place-FR-0451,1,Leominster,,,2
 FR-0451-01,,North Leominster,North Leominster - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.539017,-71.739186,CR-zone-8,,https://www.mbta.com/stops/place-FR-0451,,0,place-FR-0451,1,Leominster,,,2
 FR-0451-02,,North Leominster,North Leominster - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.539017,-71.739186,CR-zone-8,,https://www.mbta.com/stops/place-FR-0451,,0,place-FR-0451,1,Leominster,,,2
+FR-0451-B,,North Leominster - Busway,North Leominster - Commuter Rail Shuttle - Busway,,Commuter Rail Shuttle,42.538727,-71.739104,,,,,0,place-FR-0451,1,Leominster,,,3
 place-FR-0494,,Fitchburg,,,,42.580720,-71.792611,CR-zone-8,"150 Main St, Fitchburg, MA 01420",https://www.mbta.com/stops/place-FR-0494,,1,,1,Fitchburg,,,
+FR-0494-B,,Fitchburg - Intermodal Transportation Center,Fitchburg - Commuter Rail Shuttle - Intermodal Transportation Center,,Commuter Rail Shuttle,42.581041,-71.792811,,,,,0,place-FR-0494,1,Fitchburg,,,3
 FR-0494-CS,,Fitchburg,Fitchburg - Commuter Rail - Track 3 (All Trains),3,Track 3 (All Trains),42.580720,-71.792611,CR-zone-8,,https://www.mbta.com/stops/place-FR-0494,,0,place-FR-0494,1,Fitchburg,,,2
 place-FR-3338,,Wachusett,,,,42.553477,-71.848488,CR-zone-8,"55 Authority Dr, Fitchburg, MA 01420",https://www.mbta.com/stops/place-FR-3338,,1,,1,Fitchburg,,,
+FR-3338-B,,Wachusett - Parking Lot,Wachusett - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.553441,-71.848127,,,,,0,place-FR-3338,1,Fitchburg,,,3
 FR-3338-CS,,Wachusett,Wachusett - Commuter Rail - Track 3 (All Trains),3,Track 3 (All Trains),42.553477,-71.848488,CR-zone-8,,https://www.mbta.com/stops/place-FR-3338,,0,place-FR-3338,1,Fitchburg,,,2
 place-FS-0049,,Foxboro,,,,42.095100,-71.261510,CR-zone-4,"Gillette Stadium near Lots 3 and 4, Foxborough, MA 02035",https://www.mbta.com/stops/place-FS-0049,,1,,1,Foxborough,,,
 FS-0049-S,,Foxboro,Foxboro - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.095100,-71.261510,CR-zone-4,,https://www.mbta.com/stops/place-FS-0049,,0,place-FS-0049,1,Foxborough,,,2
@@ -6976,6 +7137,8 @@ place-GB-0198,,Montserrat,,,,42.562171,-70.869254,CR-zone-4,"180 Essex St, Bever
 GB-0198,,Montserrat,Montserrat - Commuter Rail,,Commuter Rail,42.562171,-70.869254,CR-zone-4,,https://www.mbta.com/stops/place-GB-0198,,0,place-GB-0198,1,Beverly,,,2
 GB-0198-01,,Montserrat,Montserrat - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.562171,-70.869254,CR-zone-4,,https://www.mbta.com/stops/place-GB-0198,,0,place-GB-0198,1,Beverly,,,2
 GB-0198-02,,Montserrat,Montserrat - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.562171,-70.869254,CR-zone-4,,https://www.mbta.com/stops/place-GB-0198,,0,place-GB-0198,1,Beverly,,,2
+GB-0198-B2,,Montserrat - Essex St @ Parramatta Rd,Montserrat - Commuter Rail Outbound Shuttle - Essex St @ Parramatta Rd,,Outbound Shuttle,42.561893,-70.868760,,,,,0,place-GB-0198,1,Beverly,Essex Street,Parramatta Road,3
+GB-0198-B3,,Montserrat - Essex St opp Parramatta Rd,Montserrat - Commuter Rail Boston Shuttle - Essex St opp Parramatta Rd,,Boston Shuttle,42.561896,-70.868956,,,,,0,place-GB-0198,1,Beverly,Essex Street,Parramatta Road,3
 place-GB-0222,,Prides Crossing,,,,42.559446,-70.825541,CR-zone-5,"600 Hale St, Beverly, MA 01915",https://www.mbta.com/stops/place-GB-0222,,1,,2,Beverly,,,
 GB-0222,,Prides Crossing,Prides Crossing - Commuter Rail,,Commuter Rail,42.559446,-70.825541,CR-zone-5,,https://www.mbta.com/stops/place-GB-0222,,0,place-GB-0222,2,Beverly,,,2
 GB-0222-01,,Prides Crossing,Prides Crossing - Commuter Rail - Track 1,1,Track 1,42.559446,-70.825541,CR-zone-5,,https://www.mbta.com/stops/place-GB-0222,,0,place-GB-0222,2,Beverly,,,2
@@ -6984,17 +7147,27 @@ place-GB-0229,,Beverly Farms,,,,42.561651,-70.811405,CR-zone-5,"1 Oak St, Beverl
 GB-0229,,Beverly Farms,Beverly Farms - Commuter Rail,,Commuter Rail,42.561651,-70.811405,CR-zone-5,,https://www.mbta.com/stops/place-GB-0229,,0,place-GB-0229,1,Beverly,,,2
 GB-0229-01,,Beverly Farms,Beverly Farms - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.561651,-70.811405,CR-zone-5,,https://www.mbta.com/stops/place-GB-0229,,0,place-GB-0229,1,Beverly,,,2
 GB-0229-02,,Beverly Farms,Beverly Farms - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.561651,-70.811405,CR-zone-5,,https://www.mbta.com/stops/place-GB-0229,,0,place-GB-0229,1,Beverly,,,2
+GB-0229-B0,,Beverly Farms - West St opp Oak St,Beverly Farms - Commuter Rail Outbound Shuttle - West St opp Oak St,,Outbound Shuttle,42.561575,-70.812622,,,,,0,place-GB-0229,1,Beverly,West Street,Oak Street,3
+GB-0229-B1,,Beverly Farms - West St @ Oak St,Beverly Farms - Commuter Rail Boston Shuttle - West St @ Oak St,,Boston Shuttle,42.561413,-70.812093,,,,,0,place-GB-0229,1,Beverly,West Street,Oak Street,3
 place-GB-0254,,Manchester,,,,42.573687,-70.770090,CR-zone-6,"40 Beach St, Manchester, MA 01944",https://www.mbta.com/stops/place-GB-0254,,1,,1,Manchester-by-the-Sea,,,
 GB-0254,,Manchester,Manchester - Commuter Rail,,Commuter Rail,42.573687,-70.770090,CR-zone-6,,https://www.mbta.com/stops/place-GB-0254,,0,place-GB-0254,1,Manchester-by-the-Sea,,,2
 GB-0254-01,,Manchester,Manchester - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.573687,-70.770090,CR-zone-6,,https://www.mbta.com/stops/place-GB-0254,,0,place-GB-0254,1,Manchester-by-the-Sea,,,2
 GB-0254-02,,Manchester,Manchester - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.573687,-70.770090,CR-zone-6,,https://www.mbta.com/stops/place-GB-0254,,0,place-GB-0254,1,Manchester-by-the-Sea,,,2
+GB-0254-B2,,Manchester - 11 Summer St,Manchester - Commuter Rail Shuttle - 11 Summer St,,Commuter Rail Shuttle,42.574457,-70.768786,,,,,0,place-GB-0254,1,Manchester,Summer Street,,3
+Manchester-S,,Manchester - Parking Lot,Manchester - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.574016,-70.768962,,,,,0,place-GB-0254,1,Manchester,,,3
 place-GB-0296,,West Gloucester,,,,42.611933,-70.705417,CR-zone-7,"290 Essex Ave, Gloucester, MA 01930",https://www.mbta.com/stops/place-GB-0296,,1,,1,Gloucester,,,
 GB-0296,,West Gloucester,West Gloucester - Commuter Rail,,Commuter Rail,42.611933,-70.705417,CR-zone-7,,https://www.mbta.com/stops/place-GB-0296,,0,place-GB-0296,1,Gloucester,,,2
 GB-0296-01,,West Gloucester,West Gloucester - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.611933,-70.705417,CR-zone-7,,https://www.mbta.com/stops/place-GB-0296,,0,place-GB-0296,1,Gloucester,,,2
 GB-0296-02,,West Gloucester,West Gloucester - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.611933,-70.705417,CR-zone-7,,https://www.mbta.com/stops/place-GB-0296,,0,place-GB-0296,1,Gloucester,,,2
+GB-0296-B0,,West Gloucester - Essex Ave opp Lynwood Ave,West Gloucester - Commuter Rail Outbound Shuttle - Essex Ave opp Lynwood Ave,,Outbound Shuttle,42.611626,-70.705014,,,,,0,place-GB-0296,1,Gloucester,Essex Avenue,Lynwood Avenue,3
+GB-0296-B1,,West Gloucester - Essex Ave @ Lynwood Ave,West Gloucester - Commuter Rail Boston Shuttle - Essex Ave @ Lynwood Ave,,Boston Shuttle,42.611523,-70.704930,,,,,0,place-GB-0296,1,Gloucester,Essex Avenue,Lynwood Avenue,3
+GB-0296-B2,,West Gloucester - Parking Lot,West Gloucester - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.611957,-70.705350,,,,,0,place-GB-0296,1,Gloucester,,,3
 place-GB-0316,,Gloucester,,,,42.616799,-70.668345,CR-zone-7,"75 Railroad Ave, Gloucester, MA 01930",https://www.mbta.com/stops/place-GB-0316,,1,,1,Gloucester,,,
+GB-0316-B0,,Gloucester,Gloucester - Outbound Shuttle,,Outbound Shuttle,42.616435,-70.667627,,,,,0,place-GB-0316,1,Gloucester,Railroad Avenue,,3
+GB-0316-B1,,Gloucester - Opp 24 Railroad Ave,Gloucester - Commuter Rail Shuttle - Opp 24 Railroad Ave,,Commuter Rail Shuttle,42.616560,-70.667550,,,,,0,place-GB-0316,1,Gloucester,Railroad Avenue,,3
 GB-0316-S,,Gloucester,Gloucester - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.616799,-70.668345,CR-zone-7,,https://www.mbta.com/stops/place-GB-0316,,0,place-GB-0316,1,Gloucester,,,2
 place-GB-0353,,Rockport,,,,42.655491,-70.627055,CR-zone-8,"17 Railroad Ave, Rockport, MA 01966",https://www.mbta.com/stops/place-GB-0353,,1,,1,Rockport,,,
+GB-0353-B,,Rockport,Rockport - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.656052,-70.626669,,,,,0,place-GB-0353,1,Rockport,,,3
 GB-0353-S,,Rockport,Rockport - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.655491,-70.627055,CR-zone-8,,https://www.mbta.com/stops/place-GB-0353,,0,place-GB-0353,1,Rockport,,,2
 place-GRB-0118,,Weymouth Landing/East Braintree,,,,42.221503,-70.968152,CR-zone-2,"121 Commercial St, Weymouth, MA 02184",https://www.mbta.com/stops/place-GRB-0118,,1,,1,Weymouth,,,
 GRB-0118-S,,Weymouth Landing/East Braintree,Weymouth Landing/East Braintree - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.221503,-70.968152,CR-zone-2,,https://www.mbta.com/stops/place-GRB-0118,,0,place-GRB-0118,1,Weymouth,,,2
@@ -7007,8 +7180,10 @@ GRB-0183-S,,Nantasket Junction,Nantasket Junction - Commuter Rail - Track 1 (All
 place-GRB-0199,,Cohasset,,,,42.244210,-70.837529,CR-zone-4,"110 Chief Justice Cushing Hwy, Cohasset, MA 02025",https://www.mbta.com/stops/place-GRB-0199,,1,,1,Cohasset,,,
 GRB-0199-S,,Cohasset,Cohasset - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.244210,-70.837529,CR-zone-4,,https://www.mbta.com/stops/place-GRB-0199,,0,place-GRB-0199,1,Cohasset,,,2
 place-GRB-0233,,North Scituate,,,,42.219528,-70.788602,CR-zone-5,"777 Country Way, Scituate, MA 02066",https://www.mbta.com/stops/place-GRB-0233,,1,,1,Scituate,,,
+GRB-0233-B,,North Scituate,North Scituate - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.219761,-70.788884,,,,,0,place-GRB-0233,1,Scituate,,,3
 GRB-0233-S,,North Scituate,North Scituate - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.219528,-70.788602,CR-zone-5,,https://www.mbta.com/stops/place-GRB-0233,,0,place-GRB-0233,1,Scituate,,,2
 place-GRB-0276,,Greenbush,,,,42.178776,-70.746641,CR-zone-6,"247 Old Driftway, Scituate, MA 02066",https://www.mbta.com/stops/place-GRB-0276,,1,,1,Scituate,,,
+GRB-0276-B,,Greenbush,Greenbush - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.178800,-70.746371,,,,,0,place-GRB-0276,1,Scituate,,,3
 GRB-0276-S,,Greenbush,Greenbush - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.178776,-70.746641,CR-zone-6,,https://www.mbta.com/stops/place-GRB-0276,,0,place-GRB-0276,1,Scituate,,,2
 place-KB-0351,,Kingston,,,,41.977620,-70.721709,CR-zone-8,"134 Marion Dr, Kingston, MA 02364",https://www.mbta.com/stops/place-KB-0351,,1,,1,Kingston,,,
 KB-0351-S,,Kingston,Kingston - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),41.977620,-70.721709,CR-zone-8,,https://www.mbta.com/stops/place-KB-0351,,0,place-KB-0351,1,Kingston,,,2
@@ -7027,40 +7202,60 @@ MM-0200-S,,Brockton,Brockton - Commuter Rail - Track 1,1,Track 1,42.084659,-71.0
 place-MM-0219,,Campello,,,,42.060951,-71.011004,CR-zone-5,"30 Riverside Ave, Brockton, MA 02301",https://www.mbta.com/stops/place-MM-0219,,1,,1,Brockton,,,
 MM-0219-S,,Campello,Campello - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.060951,-71.011004,CR-zone-5,,https://www.mbta.com/stops/place-MM-0219,,0,place-MM-0219,1,Brockton,,,2
 place-MM-0277,,Bridgewater,,,,41.984916,-70.965370,CR-zone-6,"85 Burrill Ave, Bridgewater, MA 02324",https://www.mbta.com/stops/place-MM-0277,,1,,1,Bridgewater,,,
+MM-0277-B0,,Bridgewater,Bridgewater - Commuter Rail Shuttle,,Commuter Rail Shuttle,41.984270,-70.964410,,,,,0,place-MM-0277,1,Bridgewater,,,3
 MM-0277-S,,Bridgewater,Bridgewater - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),41.984916,-70.965370,CR-zone-6,,https://www.mbta.com/stops/place-MM-0277,,0,place-MM-0277,1,Bridgewater,,,2
 place-MM-0356,,Middleborough/Lakeville,,,,41.878210,-70.918444,CR-zone-8,"125 Commercial Dr, Lakeville, MA 02347",https://www.mbta.com/stops/place-MM-0356,,1,,1,Lakeville,,,
+MM-0356-B0,,Middleborough/Lakeville,Middleborough/Lakeville - Commuter Rail Shuttle,,Commuter Rail Shuttle,41.878120,-70.918330,,,,,0,place-MM-0356,1,Lakeville,,,3
 MM-0356-S,,Middleborough/Lakeville,Middleborough/Lakeville - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),41.878210,-70.918444,CR-zone-8,,https://www.mbta.com/stops/place-MM-0356,,0,place-MM-0356,1,Lakeville,,,2
 place-NB-0064,,Roslindale Village,,,,42.287442,-71.130283,CR-zone-1,"1 Belgrade Ave, Roslindale, MA 02131",https://www.mbta.com/stops/place-NB-0064,,1,,1,Boston,,,
+NB-0064-B0,,Roslindale Village,Roslindale Village - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.286845,-71.130867,,,,,0,place-NB-0064,1,Boston,,,3
+NB-0064-B1,,Roslindale Village,Roslindale Village - Commuter Rail Boston Shuttle,,Boston Shuttle,42.286684,-71.131030,,,,,0,place-NB-0064,1,Boston,,,3
 NB-0064-S,,Roslindale Village,Roslindale Village - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.287442,-71.130283,CR-zone-1,,https://www.mbta.com/stops/place-NB-0064,,0,place-NB-0064,1,Boston,,,2
 place-NB-0072,,Bellevue,,,,42.286588,-71.145557,CR-zone-1,"35 Colbert St, West Roxbury, MA 02132",https://www.mbta.com/stops/place-NB-0072,,1,,1,Boston,,,
+NB-0072-B,,Bellevue,Bellevue - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.286765,-71.145682,,,,,0,place-NB-0072,1,Boston,,,3
 NB-0072-S,,Bellevue,Bellevue - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.286588,-71.145557,CR-zone-1,,https://www.mbta.com/stops/place-NB-0072,,0,place-NB-0072,1,Boston,,,2
 place-NB-0076,,Highland,,,,42.284969,-71.153937,CR-zone-1,"Corey St and Hastings St, West Roxbury, MA 02132",https://www.mbta.com/stops/place-NB-0076,,1,,1,Boston,,,
+NB-0076-B,,Highland,Highland - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.285035,-71.154282,,,,,0,place-NB-0076,1,Boston,,,3
 NB-0076-S,,Highland,Highland - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.284969,-71.153937,CR-zone-1,,https://www.mbta.com/stops/place-NB-0076,,0,place-NB-0076,1,Boston,,,2
 place-NB-0080,,West Roxbury,,,,42.281358,-71.160065,CR-zone-1,"450 Lagrange St, West Roxbury, MA 02132",https://www.mbta.com/stops/place-NB-0080,,1,,1,Boston,,,
+NB-0080-B0,,West Roxbury,West Roxbury - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.281487,-71.159678,,,,,0,place-NB-0080,1,Boston,,,3
+NB-0080-B1,,West Roxbury,West Roxbury - Commuter Rail Boston Shuttle,,Boston Shuttle,42.281377,-71.159686,,,,,0,place-NB-0080,1,Boston,,,3
 NB-0080-S,,West Roxbury,West Roxbury - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.281358,-71.160065,CR-zone-1,,https://www.mbta.com/stops/place-NB-0080,,0,place-NB-0080,1,Boston,,,2
 place-NB-0109,,Hersey,,,,42.275648,-71.215528,CR-zone-2,"Great Plain Ave and Broad Meadow Rd, Needham, MA 02492",https://www.mbta.com/stops/place-NB-0109,,1,,1,Needham,,,
+NB-0109-B0,,Hersey,Hersey - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.276037,-71.215128,,,,,0,place-NB-0109,1,Needham,,,3
+NB-0109-B1,,Hersey,Hersey - Commuter Rail Boston Shuttle,,Boston Shuttle,42.275926,-71.215243,,,,,0,place-NB-0109,1,Needham,,,3
 NB-0109-S,,Hersey,Hersey - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.275648,-71.215528,CR-zone-2,,https://www.mbta.com/stops/place-NB-0109,,0,place-NB-0109,1,Needham,,,2
 place-NB-0120,,Needham Junction,,,,42.273187,-71.235559,CR-zone-2,"51 Junction St, Needham, MA 02492",https://www.mbta.com/stops/place-NB-0120,,1,,1,Needham,,,
 91852,91852,Needham Junction,Needham Junction - West Parking Lot,,West Parking Lot,42.273039,-71.237947,LocalBus,,https://www.mbta.com/stops/place-NB-0120,level_ground,0,place-NB-0120,1,Needham,,,3
+NB-0120-B0,,Needham Junction,Needham Junction - Commuter Rail Outbound Shuttle,,Outbound Shuttle,42.273341,-71.236062,,,,,0,place-NB-0120,1,Needham,,,3
+NB-0120-B1,,Needham Junction,Needham Junction - Commuter Rail Boston Shuttle,,Boston Shuttle,42.273275,-71.235835,,,,,0,place-NB-0120,1,Needham,,,3
 NB-0120-S,,Needham Junction,Needham Junction - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.273187,-71.235559,CR-zone-2,,https://www.mbta.com/stops/place-NB-0120,,0,place-NB-0120,1,Needham,,,2
 place-NB-0127,,Needham Center,,,,42.280775,-71.237686,CR-zone-2,"Great Plain Ave and Eaton Sq, Needham, MA 02492",https://www.mbta.com/stops/place-NB-0127,,1,,1,Needham,,,
+NB-0127-B,,Needham Center,Needham Center - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.280762,-71.237862,,,,,0,place-NB-0127,1,Needham,,,3
 NB-0127-S,,Needham Center,Needham Center - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.280775,-71.237686,CR-zone-2,,https://www.mbta.com/stops/place-NB-0127,,0,place-NB-0127,1,Needham,,,2
 place-NB-0137,,Needham Heights,,,,42.293444,-71.236027,CR-zone-2,"95 Avery Sq, Needham, MA 02494",https://www.mbta.com/stops/place-NB-0137,,1,,1,Needham,,,
+NB-0137-B,,Needham Heights,Needham Heights - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.293373,-71.235923,,,,,0,place-NB-0137,1,Needham,,,3
 NB-0137-S,,Needham Heights,Needham Heights - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.293444,-71.236027,CR-zone-2,,https://www.mbta.com/stops/place-NB-0137,,0,place-NB-0137,1,Needham,,,2
 place-NEC-1659,,Wickford Junction,,,,41.581289,-71.491147,CR-zone-10,"1011 Ten Rod Rd, North Kingstown, RI",https://www.mbta.com/stops/place-NEC-1659,,1,,1,North Kingstown,,,
 NEC-1659-03,,Wickford Junction,Wickford Junction - Commuter Rail - Track 3 (All Trains),3,Track 3 (All Trains),41.581289,-71.491147,CR-zone-10,,https://www.mbta.com/stops/place-NEC-1659,,0,place-NEC-1659,1,North Kingstown,,,2
+NEC-1659-B,NEC-1659-B,Wickford Junction - Pick-up/Drop-off,Wickford Junction - Commuter Rail Shuttle - Pick-up/Drop-off,,Commuter Rail Shuttle,41.581095,-71.491830,,,,,0,place-NEC-1659,1,North Kingstown,,,3
 place-NEC-1768,,TF Green Airport,,,,41.726599,-71.442453,CR-zone-9,"700 Jefferson Blvd, Warwick, RI 02886",https://www.mbta.com/stops/place-NEC-1768,,1,,1,Warwick,,,
 NEC-1768-03,,TF Green Airport,TF Green Airport - Commuter Rail - Track 3 (All Trains),3,Track 3 (All Trains),41.726599,-71.442453,CR-zone-9,,https://www.mbta.com/stops/place-NEC-1768,,0,place-NEC-1768,1,Warwick,,,2
+NEC-1768-B,NEC-1768-B,TF Green Airport - 700 Jefferson Blvd,TF Green Airport - Commuter Rail Shuttle - 700 Jefferson Blvd,,Commuter Rail Shuttle,41.727594,-71.443341,,,,,0,place-NEC-1768,1,Warwick,Jefferson Boulevard,,3
 place-NEC-1851,,Providence,,,,41.829293,-71.413301,CR-zone-8,"100 Gaspee St, Providence, RI 02903",https://www.mbta.com/stops/place-NEC-1851,,1,,1,Providence,,,
 NEC-1851,,Providence,Providence - Commuter Rail,,Commuter Rail,41.829293,-71.413301,CR-zone-8,,https://www.mbta.com/stops/place-NEC-1851,,0,place-NEC-1851,1,Providence,,,2
 NEC-1851-01,,Providence,Providence - Commuter Rail - Track 1,1,Track 1,41.829293,-71.413301,CR-zone-8,,https://www.mbta.com/stops/place-NEC-1851,,0,place-NEC-1851,1,Providence,,,2
 NEC-1851-02,,Providence,Providence - Commuter Rail - Track 2,2,Track 2,41.829293,-71.413301,CR-zone-8,,https://www.mbta.com/stops/place-NEC-1851,,0,place-NEC-1851,1,Providence,,,2
 NEC-1851-03,,Providence,Providence - Commuter Rail - Track 3,3,Track 3,41.829293,-71.413301,CR-zone-8,,https://www.mbta.com/stops/place-NEC-1851,,0,place-NEC-1851,1,Providence,,,2
 NEC-1851-05,,Providence,Providence - Commuter Rail - Track 5,5,Track 5,41.829293,-71.413301,CR-zone-8,,https://www.mbta.com/stops/place-NEC-1851,,0,place-NEC-1851,1,Providence,,,2
+NEC-1851-B0,NEC-1851-B0,Providence - Railroad St @ Providence Station,Providence - Commuter Rail Shuttle - Railroad St @ Providence Station,,Commuter Rail Shuttle,41.829073,-71.413033,,,,,0,place-NEC-1851,1,Providence,Railroad Street,,3
+NEC-1851-B1,NEC-1851-B1,Providence - Gaspee St @ Providence Station,Providence - Commuter Rail Boston Shuttle - Gaspee St @ Providence Station,,Boston Shuttle,41.829290,-71.413770,,,,,0,place-NEC-1851,1,Providence,Gaspee Street,,3
+NEC-1851-B2,NEC-1851-B2,Providence - Gaspee St opp Providence Station,Providence - Commuter Rail Providence Shuttle - Gaspee St opp Providence Station,,Providence Shuttle,41.829410,-71.413910,,,,,0,place-NEC-1851,1,Providence,Gaspee Street,,3
 place-NEC-1891,,Pawtucket/Central Falls,,,,41.878762,-71.392000,CR-zone-8,"300 Pine St, Pawtucket, RI 02860",https://www.mbta.com/stops/place-NEC-1891,,1,,1,Pawtucket,,,
 NEC-1891,,Pawtucket/Central Falls,Pawtucket/Central Falls - Commuter Rail,,Commuter Rail,41.878762,-71.392000,CR-zone-8,,https://www.mbta.com/stops/place-NEC-1891,,0,place-NEC-1891,1,Pawtucket,,,2
 NEC-1891-01,,Pawtucket/Central Falls,Pawtucket/Central Falls - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),41.878804,-71.392048,CR-zone-8,,https://www.mbta.com/stops/place-NEC-1891,,0,place-NEC-1891,1,Pawtucket,,,2
 NEC-1891-02,,Pawtucket/Central Falls,Pawtucket/Central Falls - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),41.878721,-71.391959,CR-zone-8,,https://www.mbta.com/stops/place-NEC-1891,,0,place-NEC-1891,1,Pawtucket,,,2
+NEC-1891-B,NEC-1891-B,Pawtucket/Central Falls - Transit Center,Pawtucket/Central Falls - Commuter Rail Shuttle - Transit Center,,Commuter Rail Shuttle,41.878530,-71.391810,,,,,0,place-NEC-1891,1,Pawtucket,,,3
 door-NEC-1891-barton,,"Pawtucket/Central Falls - Barton St, Pick-up/Drop-off","Pawtucket/Central Falls - Barton St, Pick-up/Drop-off",,,41.878490,-71.392761,,,,level_ground,2,place-NEC-1891,1,Pawtucket,,,
 door-NEC-1891-pinebus,,"Pawtucket/Central Falls - Buses, Pine St","Pawtucket/Central Falls - Buses, Pine St",,,41.878566,-71.391797,,,,level_ground,2,place-NEC-1891,1,Pawtucket,,,
 door-NEC-1891-pinedrop,,"Pawtucket/Central Falls - Pine St, Pick-up/Drop-off","Pawtucket/Central Falls - Pine St, Pick-up/Drop-off",,,41.878974,-71.391064,,,,level_ground,2,place-NEC-1891,1,Pawtucket,,,
@@ -7072,6 +7267,7 @@ place-NEC-1969,,Attleboro,,,,41.940739,-71.285094,CR-zone-7,"133 South Main St, 
 NEC-1969,,Attleboro,Attleboro - Commuter Rail,,Commuter Rail,41.940739,-71.285094,CR-zone-7,,https://www.mbta.com/stops/place-NEC-1969,,0,place-NEC-1969,1,Attleboro,,,2
 NEC-1969-03,,Attleboro,Attleboro - Commuter Rail - Track 3 (Outbound),3,Track 3 (Outbound),41.940739,-71.285094,CR-zone-7,,https://www.mbta.com/stops/place-NEC-1969,,0,place-NEC-1969,1,Attleboro,,,2
 NEC-1969-04,,Attleboro,Attleboro - Commuter Rail - Track 4 (Boston),4,Track 4 (Boston),41.940739,-71.285094,CR-zone-7,,https://www.mbta.com/stops/place-NEC-1969,,0,place-NEC-1969,1,Attleboro,,,2
+NEC-1969-B,NEC-1969-B,Attleboro - Transit Center,Attleboro - Commuter Rail Shuttle - Transit Center,,Commuter Rail Shuttle,41.941470,-71.285190,,,,,0,place-NEC-1969,1,Attleboro,,,3
 place-NEC-2040,,Mansfield,,,,42.032787,-71.219917,CR-zone-6,"1 Crocker St, Mansfield, MA 02048",https://www.mbta.com/stops/place-NEC-2040,,1,,1,Mansfield,,,
 NEC-2040,,Mansfield,Mansfield - Commuter Rail,,Commuter Rail,42.032787,-71.219917,CR-zone-6,,https://www.mbta.com/stops/place-NEC-2040,,0,place-NEC-2040,1,Mansfield,,,2
 NEC-2040-01,,Mansfield,Mansfield - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.032787,-71.219917,CR-zone-6,,https://www.mbta.com/stops/place-NEC-2040,,0,place-NEC-2040,1,Mansfield,,,2
@@ -7128,6 +7324,8 @@ NHRML-0218,,North Billerica,North Billerica - Commuter Rail,,Commuter Rail,42.59
 NHRML-0218-01,,North Billerica,North Billerica - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.593248,-71.280995,CR-zone-5,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,,,2
 NHRML-0218-02,,North Billerica,North Billerica - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.593248,-71.280995,CR-zone-5,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,,,2
 NHRML-0218-B0,,North Billerica - Billerica Ave @ East Parking Lot,North Billerica - Commuter Rail Shuttle - Billerica Ave @ East Parking Lot,,Commuter Rail Shuttle,42.593418,-71.279762,LocalBus,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,Billerica Avenue,,3
+NHRML-0218-B1,,North Billerica - West Parking Lot,North Billerica - Commuter Rail Shuttle,,Commuter Rail Shuttle - West Parking Lot,42.593132,-71.281252,,,,,0,place-NHRML-0218,1,Billerica,,,3
+NHRML-0218-B2,,North Billerica - Station St @ West Parking Lot,North Billerica - Commuter Rail Shuttle - Station St @ West Parking Lot,,Commuter Rail Shuttle,42.592849,-71.281409,,,,,0,place-NHRML-0218,1,Billerica,Station Street,,3
 place-NHRML-0254,,Lowell,,,,42.635350,-71.314543,CR-zone-6,"101 Thorndike St, Lowell, MA 01852",https://www.mbta.com/stops/place-NHRML-0254,,1,,1,Lowell,,,
 NHRML-0254,,Lowell,Lowell - Commuter Rail,,Commuter Rail,42.635350,-71.314543,CR-zone-6,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,2
 NHRML-0254-03,,Lowell,Lowell - Commuter Rail - Track 3,3,Track 3,42.635350,-71.314543,CR-zone-6,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,2
@@ -7135,6 +7333,7 @@ NHRML-0254-04,,Lowell,Lowell - Commuter Rail - Track 4,4,Track 4,42.635350,-71.3
 NHRML-0254-B,,Lowell - Busway,Lowell - Commuter Rail Shuttle - Busway,,Commuter Rail Shuttle,42.636561,-71.314554,LocalBus,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,3
 place-PB-0158,,South Weymouth,,,,42.155025,-70.953302,CR-zone-3,"89 Trotter Rd, Weymouth, MA 02190",https://www.mbta.com/stops/place-PB-0158,,1,,1,Weymouth,,,
 PB-0158-S,,South Weymouth,South Weymouth - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.155025,-70.953302,CR-zone-3,,https://www.mbta.com/stops/place-PB-0158,,0,place-PB-0158,1,Weymouth,,,2
+South Weymouth-S,,South Weymouth,South Weymouth - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.154820,-70.953304,,,,,0,place-PB-0158,1,Weymouth,,,3
 place-PB-0194,,Abington,,,,42.107156,-70.934405,CR-zone-4,"231 Centre Ave, Abington, MA 02351",https://www.mbta.com/stops/place-PB-0194,,1,,1,Abington,,,
 PB-0194-S,,Abington,Abington - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.107156,-70.934405,CR-zone-4,,https://www.mbta.com/stops/place-PB-0194,,0,place-PB-0194,1,Abington,,,2
 place-PB-0212,,Whitman,,,,42.082749,-70.923411,CR-zone-5,"383 South Ave, Whitman, MA 02382",https://www.mbta.com/stops/place-PB-0212,,1,,1,Whitman,,,
@@ -7159,6 +7358,7 @@ place-WML-0035,,Boston Landing,,,,42.357293,-71.139883,CR-zone-1A,"100 Arthur St
 WML-0035,,Boston Landing,Boston Landing - Commuter Rail,,Commuter Rail,42.357293,-71.139883,CR-zone-1A,,https://www.mbta.com/stops/place-WML-0035,,0,place-WML-0035,1,Boston,,,2
 WML-0035-01,,Boston Landing,Boston Landing - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.357293,-71.139883,CR-zone-1A,,https://www.mbta.com/stops/place-WML-0035,,0,place-WML-0035,1,Boston,,,2
 WML-0035-02,,Boston Landing,Boston Landing - Commuter Rail - Track 2 (South Station),2,Track 2 (South Station),42.357293,-71.139883,CR-zone-1A,,https://www.mbta.com/stops/place-WML-0035,,0,place-WML-0035,1,Boston,,,2
+WML-0035-B,,Boston Landing,Boston Landing - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.357313,-71.141258,,,,,0,place-WML-0035,1,Boston,,,3
 place-WML-0081,,Newtonville,,,,42.351702,-71.205408,CR-zone-1,"770 Washington St, Newton, MA 02460",https://www.mbta.com/stops/place-WML-0081,,1,,2,Newton,,,
 WML-0081-02,,Newtonville,Newtonville - Commuter Rail - Track 2 (All Trains),2,Commuter Rail - Track 2 (All Trains),42.351702,-71.205408,CR-zone-1,,https://www.mbta.com/stops/place-WML-0081,,0,place-WML-0081,2,Newton,,,2
 door-WML-0081-harvard,,Newtonville - Harvard St,Newtonville - Harvard St,,,42.352499,-71.202209,,,,level_in_street,2,place-WML-0081,2,Newton,,,
@@ -7201,10 +7401,12 @@ place-WML-0214,,Framingham,,,,42.276108,-71.420055,CR-zone-5,"417 Waverly St, Fr
 WML-0214,,Framingham,Framingham - Commuter Rail,,Commuter Rail,42.276108,-71.420055,CR-zone-5,,https://www.mbta.com/stops/place-WML-0214,,0,place-WML-0214,1,Framingham,,,2
 WML-0214-01,,Framingham,Framingham - Commuter Rail - Track 1,1,Track 1,42.276108,-71.420055,CR-zone-5,,https://www.mbta.com/stops/place-WML-0214,,0,place-WML-0214,1,Framingham,,,2
 WML-0214-02,,Framingham,Framingham - Commuter Rail - Track 2,2,Track 2,42.276108,-71.420055,CR-zone-5,,https://www.mbta.com/stops/place-WML-0214,,0,place-WML-0214,1,Framingham,,,2
+WML-0214-B,,Framingham - Waverly St @ Framingham Station,Framingham - Commuter Rail Shuttle - Waverly St @ Framingham Station,,Commuter Rail Shuttle,42.276009,-71.419555,,,,,0,place-WML-0214,1,Framingham,Waverly Street,,3
 place-WML-0252,,Ashland,,,,42.261490,-71.482161,CR-zone-6,"Pleasant St and Cordaville Rd, Ashland, MA 01721",https://www.mbta.com/stops/place-WML-0252,,1,,1,Ashland,,,
 WML-0252,,Ashland,Ashland - Commuter Rail,,Commuter Rail,42.261490,-71.482161,CR-zone-6,,https://www.mbta.com/stops/place-WML-0252,,0,place-WML-0252,1,Ashland,,,2
 WML-0252-01,,Ashland,Ashland - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.261490,-71.482161,CR-zone-6,,https://www.mbta.com/stops/place-WML-0252,,0,place-WML-0252,1,Ashland,,,2
 WML-0252-02,,Ashland,Ashland - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.261490,-71.482161,CR-zone-6,,https://www.mbta.com/stops/place-WML-0252,,0,place-WML-0252,1,Ashland,,,2
+WML-0252-B,,Ashland - South Parking Lot,Ashland - Commuter Rail Shuttle - South Parking Lot,,Commuter Rail Shuttle,42.261426,-71.482251,,,,,0,place-WML-0252,1,Ashland,,,3
 place-WML-0274,,Southborough,,,,42.267024,-71.524371,CR-zone-6,"87 Southville Rd, Southborough, MA 01772",https://www.mbta.com/stops/place-WML-0274,,1,,1,Southborough,,,
 WML-0274,,Southborough,Southborough - Commuter Rail,,Commuter Rail,42.267024,-71.524371,CR-zone-6,,https://www.mbta.com/stops/place-WML-0274,,0,place-WML-0274,1,Southborough,,,2
 WML-0274-01,,Southborough,Southborough - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.267024,-71.524371,CR-zone-6,,https://www.mbta.com/stops/place-WML-0274,,0,place-WML-0274,1,Southborough,,,2
@@ -7223,40 +7425,64 @@ place-WR-0062,,Wyoming Hill,,,,42.451731,-71.069379,CR-zone-1,"40 West Wyoming A
 WR-0062,,Wyoming Hill,Wyoming Hill - Commuter Rail,,Commuter Rail,42.451731,-71.069379,CR-zone-1,,https://www.mbta.com/stops/place-WR-0062,,0,place-WR-0062,2,Melrose,,,2
 WR-0062-01,,Wyoming Hill,Wyoming Hill - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.451731,-71.069379,CR-zone-1,,https://www.mbta.com/stops/place-WR-0062,,0,place-WR-0062,2,Melrose,,,2
 WR-0062-02,,Wyoming Hill,Wyoming Hill - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.451731,-71.069379,CR-zone-1,,https://www.mbta.com/stops/place-WR-0062,,0,place-WR-0062,2,Melrose,,,2
+WR-0062-B0,,Wyoming Hill - Pleasant St @ W Wyoming Ave,Wyoming Hill - Commuter Rail Outbound Shuttle - Pleasant St @ W Wyoming Ave,,Outbound Shuttle,42.451910,-71.070114,,,,,0,place-WR-0062,1,Melrose,Pleasant Street,West Wyoming Avenue,3
+WR-0062-B1,,Wyoming Hill - W Wyoming Ave @ Wyoming Hill Station,Wyoming Hill - Commuter Rail Boston Shuttle - W Wyoming Ave @ Wyoming Hill Station,,Boston Shuttle,42.451973,-71.069511,,,,,0,place-WR-0062,1,Melrose,West Wyoming Avenue,Hurd Street,3
+WR-0062-B2,,Wyoming Hill - Main St @ E Wyoming Ave,Wyoming Hill - Commuter Rail Outbound Shuttle - Main St @ E Wyoming Ave,,Outbound Shuttle,42.451734,-71.067239,,,,,0,place-WR-0062,1,Melrose,Main Street,East Wyoming Avenue,3
+WR-0062-B3,,Wyoming Hill - Main St @ W Wyoming Ave,Wyoming Hill - Commuter Rail Boston Shuttle - Main St @ W Wyoming Ave,,Boston Shuttle,42.451565,-71.067473,,,,,0,place-WR-0062,1,Melrose,Main Street,West Wyoming Avenue,3
 place-WR-0067,,Melrose/Cedar Park,,,,42.458768,-71.069789,CR-zone-1,"Cedar Park and West Emerson St, Melrose, MA 02176",https://www.mbta.com/stops/place-WR-0067,,1,,2,Melrose,,,
 WR-0067,,Melrose/Cedar Park,Melrose/Cedar Park - Commuter Rail,,Commuter Rail,42.458768,-71.069789,CR-zone-1,,https://www.mbta.com/stops/place-WR-0067,,0,place-WR-0067,2,Melrose,,,2
 WR-0067-01,,Melrose/Cedar Park,Melrose/Cedar Park - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.458768,-71.069789,CR-zone-1,,https://www.mbta.com/stops/place-WR-0067,,0,place-WR-0067,2,Melrose,,,2
 WR-0067-02,,Melrose/Cedar Park,Melrose/Cedar Park - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.458768,-71.069789,CR-zone-1,,https://www.mbta.com/stops/place-WR-0067,,0,place-WR-0067,2,Melrose,,,2
+WR-0067-B0,,Melrose/Cedar Park - Essex St @ W Emerson St,Melrose/Cedar Park - Commuter Rail Outbound Shuttle - Essex St @ W Emerson St,,Outbound Shuttle,42.458825,-71.069292,,,,,0,place-WR-0067,1,Melrose,Essex Street,West Emerson Street,3
+WR-0067-B1,,Melrose/Cedar Park - Tremont St @ W Emerson St,Melrose/Cedar Park - Commuter Rail Boston Shuttle - Tremont St @ W Emerson St,,Boston Shuttle,42.458806,-71.069395,,,,,0,place-WR-0067,1,Melrose,Tremont Street,West Emerson Street,3
 place-WR-0075,,Melrose Highlands,,,,42.469464,-71.068297,CR-zone-1,"497 Franklin St, Melrose, MA 02176",https://www.mbta.com/stops/place-WR-0075,,1,,1,Melrose,,,
 WR-0075,,Melrose Highlands,Melrose Highlands - Commuter Rail,,Commuter Rail,42.469464,-71.068297,CR-zone-1,,https://www.mbta.com/stops/place-WR-0075,,0,place-WR-0075,1,Melrose,,,2
 WR-0075-01,,Melrose Highlands,Melrose Highlands - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.469464,-71.068297,CR-zone-1,,https://www.mbta.com/stops/place-WR-0075,,0,place-WR-0075,1,Melrose,,,2
 WR-0075-02,,Melrose Highlands,Melrose Highlands - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.469464,-71.068297,CR-zone-1,,https://www.mbta.com/stops/place-WR-0075,,0,place-WR-0075,1,Melrose,,,2
+WR-0075-B0,,Melrose Highlands - Franklin St @ Belmont St,Melrose Highlands - Commuter Rail Outbound Shuttle - Franklin St @ Belmont St,,Outbound Shuttle,42.468846,-71.068945,,,,,0,place-WR-0075,1,Melrose,Franklin Street,Belmont Street,3
+WR-0075-B1,,Melrose Highlands - Franklin St opp Marvin Rd,Melrose Highlands - Commuter Rail Boston Shuttle - Franklin St opp Marvin Rd,,Boston Shuttle,42.468743,-71.068381,,,,,0,place-WR-0075,1,Melrose,Franklin Street,Marvin Road,3
+WR-0075-B2,,Melrose Highlands - Nason Dr @ Belmont St,Melrose Highlands - Commuter Rail Shuttle - Nason Dr @ Belmont St,,Commuter Rail Shuttle,42.469786,-71.068366,,,,,0,place-WR-0075,1,Melrose,Nason Drive,Belmont Street,3
 place-WR-0085,,Greenwood,,,,42.483005,-71.067247,CR-zone-2,"907 Main St, Wakefield, MA 01880",https://www.mbta.com/stops/place-WR-0085,,1,,2,Wakefield,,,
 WR-0085,,Greenwood,Greenwood - Commuter Rail,,Commuter Rail,42.483005,-71.067247,CR-zone-2,,https://www.mbta.com/stops/place-WR-0085,,0,place-WR-0085,2,Wakefield,,,2
 WR-0085-01,,Greenwood,Greenwood - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.483005,-71.067247,CR-zone-2,,https://www.mbta.com/stops/place-WR-0085,,0,place-WR-0085,2,Wakefield,,,2
 WR-0085-02,,Greenwood,Greenwood - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.483005,-71.067247,CR-zone-2,,https://www.mbta.com/stops/place-WR-0085,,0,place-WR-0085,2,Wakefield,,,2
+WR-0085-B0,,Greenwood - Main St @ Walton Pl,Greenwood - Commuter Rail Outbound Shuttle - Main St @ Walton Pl,,Outbound Shuttle,42.484284,-71.067731,,,,,0,place-WR-0085,1,Wakefield,Main Street,Walton Place,3
+WR-0085-B1,,Greenwood - Main St @ Forest St,Greenwood - Commuter Rail Boston Shuttle - Main St @ Forest St,,Boston Shuttle,42.484184,-71.067790,,,,,0,place-WR-0085,1,Wakefield,Main Street,Forest Street,3
 place-WR-0099,,Wakefield,,,,42.502126,-71.075566,CR-zone-2,"225 North Ave, Wakefield, MA 01880",https://www.mbta.com/stops/place-WR-0099,,1,,2,Wakefield,,,
 WR-0099,,Wakefield,Wakefield - Commuter Rail,,Commuter Rail,42.502126,-71.075566,CR-zone-2,,https://www.mbta.com/stops/place-WR-0099,,0,place-WR-0099,2,Wakefield,,,2
 WR-0099-01,,Wakefield,Wakefield - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.502126,-71.075566,CR-zone-2,,https://www.mbta.com/stops/place-WR-0099,,0,place-WR-0099,2,Wakefield,,,2
 WR-0099-02,,Wakefield,Wakefield - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.502126,-71.075566,CR-zone-2,,https://www.mbta.com/stops/place-WR-0099,,0,place-WR-0099,2,Wakefield,,,2
+WR-0099-B0,,Wakefield - North Ave @ Chestnut St,Wakefield - Commuter Rail Outbound Shuttle - North Ave @ Chestnut St,,Outbound Shuttle,42.502715,-71.075737,,,,,0,place-WR-0099,1,Wakefield,North Avenue,Chestnut Street,3
+WR-0099-B1,,Wakefield - North Ave @ Chestnut St,Wakefield - Commuter Rail Boston Shuttle - North Ave @ Chestnut St,,Boston Shuttle,42.502661,-71.075880,,,,,0,place-WR-0099,1,Wakefield,North Avenue,Chestnut Street,3
 place-WR-0120,,Reading,,,,42.522210,-71.108294,CR-zone-2,"35 Lincoln St, Reading, MA 01867",https://www.mbta.com/stops/place-WR-0120,,1,,1,Reading,,,
+WR-0120-B,,Reading - Lincoln St @ Prescott St,Reading - Commuter Rail Shuttle - Lincoln St @ Prescott St,,Commuter Rail Shuttle,42.521793,-71.107921,,,,,0,place-WR-0120,1,Reading,Lincoln Street,Prescott Street,3
 WR-0120-S,,Reading,Reading - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.522210,-71.108294,CR-zone-2,,https://www.mbta.com/stops/place-WR-0120,,0,place-WR-0120,1,Reading,,,2
 place-WR-0163,,North Wilmington,,,,42.569661,-71.159696,CR-zone-3,"370 Middlesex Ave, Wilmington, MA 01887",https://www.mbta.com/stops/place-WR-0163,,1,,2,Wilmington,,,
+WR-0163-B0,,North Wilmington - 379 Middlesex Ave,North Wilmington - Commuter Rail Outbound Shuttle - 379 Middlesex Ave,,Outbound Shuttle,42.569361,-71.159119,,,,,0,place-WR-0163,1,Wilmington,Middlesex Avenue,,3
+WR-0163-B1,,North Wilmington - Opp 279 Middlesex Ave,North Wilmington - Commuter Rail Boston Shuttle - Opp 279 Middlesex Ave,,Boston Shuttle,42.569402,-71.159299,,,,,0,place-WR-0163,1,Wilmington,Middlesex Avenue,,3
 WR-0163-S,,North Wilmington,North Wilmington - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.569661,-71.159696,CR-zone-3,,https://www.mbta.com/stops/place-WR-0163,,0,place-WR-0163,2,Wilmington,,,2
 place-WR-0205,,Ballardvale,,,,42.627356,-71.159962,CR-zone-4,"195 Andover St, Andover, MA 01810",https://www.mbta.com/stops/place-WR-0205,,1,,1,Andover,,,
 WR-0205-02,,Ballardvale,Ballardvale - Commuter Rail - Track 2 (All Trains),2,Track 2 (All Trains),42.627356,-71.159962,CR-zone-4,,https://www.mbta.com/stops/place-WR-0205,,0,place-WR-0205,1,Andover,,,2
+WR-0205-B0,,Ballardvale - Andover St opp Tewksbury St,Ballardvale - Commuter Rail Outbound Shuttle - Andover St opp Tewksbury St,,Outbound Shuttle,42.626948,-71.160238,,,,,0,place-WR-0205,1,Andover,Andover Street,Tewksbury Street,3
+WR-0205-B1,,Ballardvale - Andover St @ Tewksbury St,Ballardvale - Commuter Rail Boston Shuttle - Andover St @ Tewksbury St,,Boston Shuttle,42.626816,-71.160209,,,,,0,place-WR-0205,1,Andover,Andover Street,Tewksbury Street,3
+WR-0205-B2,,Ballardvale - Parking Lot,Ballardvale - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.627691,-71.159803,,,,,0,place-WR-0205,1,Andover,,,3
 place-WR-0228,,Andover,,,,42.658336,-71.144502,CR-zone-5,"17 Railroad St, Andover, MA 01810",https://www.mbta.com/stops/place-WR-0228,,1,,1,Andover,,,
 WR-0228-02,,Andover,Andover - Commuter Rail - Track 2 (All Trains),2,Track 2 (All Trains),42.658336,-71.144502,CR-zone-5,,https://www.mbta.com/stops/place-WR-0228,,0,place-WR-0228,1,Andover,,,2
+WR-0228-B0,,Andover - Railroad St opp Amici Way,Andover - Commuter Rail Outbound Shuttle - Railroad St opp Amici Way,,Outbound Shuttle,42.657960,-71.144712,,,,,0,place-WR-0228,1,Andover,Railroad Street,Amici Way,3
+WR-0228-B1,,Andover - Railroad St @ Amici Way,Andover - Commuter Rail Boston Shuttle - Railroad St @ Amici Way,,Boston Shuttle,42.658170,-71.144893,,,,,0,place-WR-0228,1,Andover,Railroad Street,Amici Way,3
 place-WR-0264,,Lawrence,,,,42.701806,-71.151980,CR-zone-6,"S Union St and Merrimack St, Lawrence, MA 01843",https://www.mbta.com/stops/place-WR-0264,,1,,1,Lawrence,,,
 WR-0264-02,,Lawrence,Lawrence - Commuter Rail - Track 2 (All Trains),2,Track 2 (All Trains),42.701806,-71.151980,CR-zone-6,,https://www.mbta.com/stops/place-WR-0264,,0,place-WR-0264,1,Lawrence,,,2
+WR-0264-B2,,Lawrence - Busway,Lawrence - Commuter Rail Shuttle - Busway,,Commuter Rail Shuttle,42.701961,-71.152442,,,,,0,place-WR-0264,1,Lawrence,,,3
 place-WR-0325,,Bradford,,,,42.766912,-71.088411,CR-zone-7,"10 Railroad Ave, Bradford, MA 01835",https://www.mbta.com/stops/place-WR-0325,,1,,1,Haverhill,,,
 WR-0325,,Bradford,Bradford - Commuter Rail,,Commuter Rail,42.766912,-71.088411,CR-zone-7,,https://www.mbta.com/stops/place-WR-0325,,0,place-WR-0325,1,Haverhill,,,2
 WR-0325-01,,Bradford,Bradford - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.766912,-71.088411,CR-zone-7,,https://www.mbta.com/stops/place-WR-0325,,0,place-WR-0325,1,Haverhill,,,2
 WR-0325-02,,Bradford,Bradford - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.766912,-71.088411,CR-zone-7,,https://www.mbta.com/stops/place-WR-0325,,0,place-WR-0325,1,Haverhill,,,2
+WR-0325-B,,Bradford - Parking Lot,Bradford - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.766954,-71.088467,,,,,0,place-WR-0325,1,Haverhill,,,3
 place-WR-0329,,Haverhill,,,,42.773474,-71.086237,CR-zone-7,"1 Washington Ave, Haverhill, MA 01832",https://www.mbta.com/stops/place-WR-0329,,1,,1,Haverhill,,,
 WR-0329,,Haverhill,Haverhill - Commuter Rail,,Commuter Rail,42.773474,-71.086237,CR-zone-7,,https://www.mbta.com/stops/place-WR-0329,,0,place-WR-0329,1,Haverhill,,,2
 WR-0329-01,,Haverhill,Haverhill - Commuter Rail - Track 1,1,Track 1,42.773474,-71.086237,CR-zone-7,,https://www.mbta.com/stops/place-WR-0329,,0,place-WR-0329,1,Haverhill,,,2
 WR-0329-02,,Haverhill,Haverhill - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.773474,-71.086237,CR-zone-7,,https://www.mbta.com/stops/place-WR-0329,,0,place-WR-0329,1,Haverhill,,,2
+WR-0329-B,,Haverhill - Parking Lot,Haverhill - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.773574,-71.086418,,,,,0,place-WR-0329,1,Haverhill,,,3
 place-alfcl,,Alewife,,,,42.395830,-71.141287,,"Alewife Brook Pkwy and Cambridge Park Dr, Cambridge, MA 02140",https://www.mbta.com/stops/place-alfcl,,1,,1,Cambridge,,,
 141,141,Alewife,Alewife - Busway,,Busway,42.395752,-71.141584,ExpressBus-Downtown,,https://www.mbta.com/stops/place-alfcl,level_ground,0,place-alfcl,1,Cambridge,,,3
 70061,70061,Alewife,Alewife - Red Line,,Red Line,42.396158,-71.139971,RapidTransit,,https://www.mbta.com/stops/place-alfcl,level_-2_platform,0,place-alfcl,1,Cambridge,,,1
@@ -7317,6 +7543,8 @@ place-aport,,Airport,,,,42.374262,-71.030395,,"Transportation Way and Service Rd
 70048,70048,Airport,Airport - Blue Line - Wonderland,,Wonderland,42.374262,-71.030395,RapidTransit,,https://www.mbta.com/stops/place-aport,level_0_platform,0,place-aport,1,Boston,,,1
 7096,7096,Airport,Airport - Silver Line - SL3 Chelsea,B,Chelsea,42.374693,-71.029333,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-aport,level_ground,0,place-aport,1,Boston,Airport Station Bus Access,,3
 7097,7097,Airport,Airport - Silver Line - SL3 South Station,A,South Station,42.374518,-71.029532,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-aport,level_ground,0,place-aport,1,Boston,Airport Station Bus Access,,3
+9070047,9070047,Airport,Airport - Blue Line Shuttle,,Blue Line Shuttle,42.374955,-71.029323,,,,level_ground,0,place-aport,1,Boston,Cottage Street,,3
+9170047,9170047,Airport,Airport - Blue Line Shuttle,,Blue Line Shuttle,42.373878,-71.029861,,,,level_ground,0,place-aport,1,Boston,Transportation Way,,3
 door-aport-bremen,,Airport - Bremen St,Airport - Bremen St,,,42.374553,-71.030306,,,,level_ground,2,place-aport,1,Boston,,,
 door-aport-buses,,"Airport - Buses, Airport","Airport - Buses, Airport",,,42.373984,-71.030031,,,,level_ground,2,place-aport,1,Boston,,,
 node-407-bridge,,Airport,Airport - Top of Escalator 407,,,42.374246,-71.030091,,,,level_1_bridge,3,place-aport,1,Boston,,,
@@ -7516,6 +7744,7 @@ NEC-2276,,Back Bay,Back Bay - Commuter Rail,,Commuter Rail,42.347350,-71.075727,
 NEC-2276-01,,Back Bay,Back Bay - Commuter Rail - Track 1,1,Commuter Rail - Track 1,42.347283,-71.075312,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1,Boston,,,2
 NEC-2276-02,,Back Bay,Back Bay - Commuter Rail - Track 2,2,Commuter Rail - Track 2,42.347196,-71.075299,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1,Boston,,,2
 NEC-2276-03,,Back Bay,Back Bay - Commuter Rail - Track 3,3,Commuter Rail - Track 3,42.347283,-71.075312,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1,Boston,,,2
+NEC-2276-B,,Back Bay,Back Bay - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.347497,-71.075894,,,,,0,place-bbsta,1,Boston,Dartmouth Street,Back Bay Station,3
 WML-0012-05,,Back Bay,Back Bay - Commuter Rail - Track 5,5,Commuter Rail - Track 5,42.347590,-71.075393,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1,Boston,,,2
 WML-0012-07,,Back Bay,Back Bay - Commuter Rail - Track 7,7,Commuter Rail - Track 7,42.347590,-71.075393,CR-zone-1A,,https://www.mbta.com/stops/place-bbsta,level_-1_cr_platform,0,place-bbsta,1,Boston,,,2
 door-bbsta-buswayn,,"Back Bay - Clarendon St, Buses (North)","Back Bay - Clarendon St, Buses (North)",,,42.347654,-71.074699,,,,level_in_street,2,place-bbsta,1,Boston,,,
@@ -7595,6 +7824,7 @@ place-bcnwa,,Washington Square,,,,42.339394,-71.135330,,"Beacon St and Washingto
 place-belsq,,Bellingham Square,,,,42.395438,-71.033884,,,https://www.mbta.com/stops/place-belsq,,1,,1,Chelsea,,,
 74632,74632,Bellingham Square,Bellingham Square - Silver Line - SL3 South Station,,South Station,42.395328,-71.033291,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-belsq,level_ground,0,place-belsq,1,Chelsea,Chelsea Busway,,3
 74633,74633,Bellingham Square,Bellingham Square - Silver Line - SL3 Chelsea,,Chelsea,42.395638,-71.034599,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-belsq,level_ground,0,place-belsq,1,Chelsea,Chelsea Busway,,3
+ER-0042-B,,Chelsea,Chelsea - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.395781,-71.034536,,,,,0,place-belsq,1,Chelsea,Arlington Street,Sixth Street,3
 door-belsq-arlington,,Bellingham Square - Arlington Street,Bellingham Square - Arlington Street,,,42.395667,-71.034627,,,,level_in_street,2,place-belsq,1,Chelsea,,,
 door-belsq-sixth,,Bellingham Square - Sixth Street,Bellingham Square - Sixth Street,,,42.395527,-71.034574,,,,level_in_street,2,place-belsq,1,Chelsea,,,
 door-belsq-washington,,Bellingham Square - Washington Avenue,Bellingham Square - Washington Avenue,,,42.395247,-71.033173,,,,level_1_in_street,2,place-belsq,1,Chelsea,,,
@@ -8687,6 +8917,7 @@ BNT-0000-07,,North Station,North Station - Commuter Rail - Track 7,7,Commuter Ra
 BNT-0000-08,,North Station,North Station - Commuter Rail - Track 8,8,Commuter Rail - Track 8,42.366687,-71.062475,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1,Boston,,,2
 BNT-0000-09,,North Station,North Station - Commuter Rail - Track 9,9,Commuter Rail - Track 9,42.366761,-71.062365,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1,Boston,,,2
 BNT-0000-10,,North Station,North Station - Commuter Rail - Track 10,10,Commuter Rail - Track 10,42.366761,-71.062365,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1,Boston,,,2
+BNT-0000-B1,,North Station - Causeway St opp Beverly St,North Station - Commuter Rail Shuttle - Causeway St opp Beverly St,,Commuter Rail Shuttle,42.366034,-71.060356,,,,,0,place-north,1,Boston,Causeway Street,Beverly Street,3
 BNT-0000-B2,,North Station - Nashua St @ Red Auerbach Way,North Station - Commuter Rail Shuttle - Nashua St @ Red Auerbach Way,,Commuter Rail Shuttle,42.365641,-71.064022,LocalBus,,https://www.mbta.com/stops/place-north,,0,place-north,1,Boston,Nashua Street,Red Auerbach Way,3
 door-north-causewaye,,North Station - Causeway St (Elevator),North Station - Causeway St (Elevator),,,42.365639,-71.060472,,,,level_in_street,2,place-north,1,Boston,,,
 door-north-causeways,,"North Station - Causeway St, Haverhill St","North Station - Causeway St, Haverhill St",,,42.365496,-71.060490,,,,level_in_street,2,place-north,2,Boston,,,
@@ -9247,6 +9478,7 @@ NEC-2287-10,,South Station,South Station - Commuter Rail - Track 10,10,Commuter 
 NEC-2287-11,,South Station,South Station - Commuter Rail - Track 11,11,Commuter Rail - Track 11,42.351034,-71.054958,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1,Boston,,,2
 NEC-2287-12,,South Station,South Station - Commuter Rail - Track 12,12,Commuter Rail - Track 12,42.350742,-71.054930,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1,Boston,,,2
 NEC-2287-13,,South Station,South Station - Commuter Rail - Track 13,13,Commuter Rail - Track 13,42.350742,-71.054930,CR-zone-1A,,https://www.mbta.com/stops/place-sstat,level_0_cr_platform,0,place-sstat,1,Boston,,,2
+NEC-2287-B,,South Station - Atlantic Ave @ Summer St,South Station - Commuter Rail Shuttle - Atlantic Ave @ Summer St,,Commuter Rail Shuttle,42.352293,-71.055529,,,,,0,place-sstat,1,Boston,Atlantic Avenue,Summer Street,3
 door-sstat-atlantic,,South Station - Atlantic Ave,South Station - Atlantic Ave,,,42.351551,-71.055716,,,,level_in_street,2,place-sstat,1,Boston,,,
 door-sstat-bus,,South Station - South Station Bus Terminal,South Station - South Station Bus Terminal,,,42.350690,-71.056121,,,,level_ground,2,place-sstat,1,Boston,,,
 door-sstat-dewey,,"South Station - Dewey Sq (Summer St, Atlantic Ave)","South Station - Dewey Sq (Summer St, Atlantic Ave)",,,42.352886,-71.055505,,,,level_in_street,2,place-sstat,1,Boston,,,
