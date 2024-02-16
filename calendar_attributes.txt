@@ -1,13 +1,13 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-BUS12024-hba14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
-BUS12024-hbb14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
-BUS12024-hbc14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
-BUS12024-hbf14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
-BUS12024-hbg14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
-BUS12024-hbl14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
-BUS12024-hbq14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
-BUS12024-hbs14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
-BUS12024-hbt14011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+BUS12024-hba14ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20231217,20240406,Winter
+BUS12024-hbb14ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20231217,20240406,Winter
+BUS12024-hbc14ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20231217,20240406,Winter
+BUS12024-hbf14ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20231217,20240406,Winter
+BUS12024-hbg14ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20231217,20240406,Winter
+BUS12024-hbl14ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20231217,20240406,Winter
+BUS12024-hbq14ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20231217,20240406,Winter
+BUS12024-hbs14ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20231217,20240406,Winter
+BUS12024-hbt14ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20231217,20240406,Winter
 Boat-F1-Weekday-Fall-23,Weekday schedule,Weekday,Weekday,1,20231010,,Fall
 Boat-F4-Saturday-Fall-23,Saturday schedule,Saturday,Saturday,1,20231010,,Fall
 Boat-F4-Sunday-Fall-23,Sunday schedule,Sunday,Sunday,1,20231010,,Fall
@@ -50,6 +50,9 @@ FALL 2023-SOUTHWKD-Weekday-1-Sc9a3b080,Weekday schedule,Weekday,Weekday,1,202310
 FALL 2023-SOUTHWKD-Weekday-14-S85407dc6,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,,Fall/Winter
 FALL 2023-SOUTHWKD-Weekday-14-Scbbf1ea5,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,,Fall/Winter
 FALL 2023-SOUTHWKD-Weekday-2-Sb0e4ed14,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20231002,,Fall/Winter
+Green-B-Copley-Babcock-Saturday,Saturday schedule (Track maintenance),Saturday (Track maintenance),Saturday,4,20231217,20240406,Winter
+Green-B-Copley-Babcock-Sunday,Sunday schedule (Track maintenance),Sunday (Track maintenance),Sunday,4,20231217,20240406,Winter
+Green-B-Copley-Babcock-Weekday,Weekday schedule (Track maintenance),Weekday (Track maintenance),Weekday,4,20231217,20240406,Winter
 Green-C-ClevelandCircleCopley-Saturday,Saturday schedule (Track maintenance),Saturday (Track maintenance),Saturday,4,20231217,20240406,Winter
 Green-C-ClevelandCircleCopley-Sunday,Sunday schedule (Track maintenance),Sunday (Track maintenance),Sunday,4,20231217,20240406,Winter
 Green-C-ClevelandCircleCopley-Weekday,Weekday schedule (Track maintenance),Weekday (Track maintenance),Weekday,4,20231217,20240406,Winter
@@ -70,7 +73,7 @@ PRIV12024-hpa14011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20231217,202404
 PRIV12024-hpa14016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20231217,20240406,Winter
 PRIV12024-hpj14011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
 PRIV12024-hpj14016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20231217,20240406,Winter
-PRIV12024-hpp14011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
+PRIV12024-hpp14ns1-Weekday-01,Weekday schedule (no school),Weekday (no school),Weekday,1,20231217,20240406,Winter
 PresidentsDay,Holiday (Saturday schedule),Holiday,Saturday,3,20231217,20240406,Winter
 RTL12024-hmb14011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
 RTL12024-hmo14011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
@@ -93,6 +96,6 @@ Red-Surge-Weekday-daytime,Weekday schedule (Track maintenance),Weekday (Track ma
 Red-Surge-Weekday-evening,Weekday schedule (Track maintenance),Weekday (Track maintenance),Weekday,4,20231217,20240406,Winter
 WinterSaturday,Saturday schedule,Saturday,Saturday,1,20231217,20240406,Winter
 WinterSunday,Sunday schedule,Sunday,Sunday,1,20231217,20240406,Winter
-WinterWeekday,Weekday schedule (no school),Weekday (no school),Weekday,1,20231217,20240406,Winter
+WinterWeekday,Weekday schedule,Weekday,Weekday,1,20231217,20240406,Winter
 canonical,Canonical reference trips only,Canonical reference trips,Other,6,20220313,,Reference
 fare_regular,Regular fares,Regular,Other,0,20231217,,Fares
