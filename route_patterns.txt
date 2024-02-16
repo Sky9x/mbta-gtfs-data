@@ -1,14 +1,14 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id,canonical_route_pattern
 Red-3-0,Red,0,Alewife - Braintree,,1,100100000,canonical-Red-C1-0,1
 Red-1-0,Red,0,Alewife - Ashmont,,1,100100001,canonical-Red-C2-0,1
-Red-C-0,Red,0,Harvard - Braintree,,3,100100080,60746423-20:45-HarvardParkSuspend,2
-Red-R-0,Red,0,Harvard - Ashmont,,3,100100090,60746307-20:45-HarvardParkSuspend,2
+Red-C-0,Red,0,Harvard - Braintree,,3,100100080,60746482-20:45-HarvardParkSuspend,2
+Red-R-0,Red,0,Harvard - Ashmont,,3,100100090,60746480-20:45-HarvardParkSuspend,2
 Red-C-0_70067_70075_2,Red,0,Park Street - Braintree,,4,100100990,60746467-20:45-HarvardParkSuspend2,2
 Red-R-0_70067_70075_2,Red,0,Park Street - Ashmont,,4,100100990,60746351-20:45-HarvardParkSuspend2,2
 Red-3-1,Red,1,Braintree - Alewife,,1,100101000,canonical-Red-C1-1,1
 Red-1-1,Red,1,Ashmont - Alewife,,1,100101001,canonical-Red-C2-1,1
-Red-C-1,Red,1,Braintree - Harvard,,3,100101080,60746366-20:45-HarvardParkSuspend,2
-Red-R-1,Red,1,Ashmont - Harvard,,3,100101090,60746249-20:45-HarvardParkSuspend,2
+Red-C-1,Red,1,Braintree - Harvard,,3,100101080,60746412-20:45-HarvardParkSuspend,2
+Red-R-1,Red,1,Ashmont - Harvard,,3,100101090,60746295-20:45-HarvardParkSuspend,2
 Red-C-1_70076_70068_0,Red,1,Braintree - Park Street,,4,100101990,60746365-20:45-HarvardParkSuspend0,2
 Red-R-1_70076_70068_0,Red,1,Ashmont - Park Street,,4,100101990,60746296-20:45-HarvardParkSuspend0,2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,100110000,canonical-Mattapan-C1-0,1
@@ -83,9 +83,9 @@ CR-Worcester-3c40051f-0,CR-Worcester,0,South Station - Worcester,,2,200030120,CR
 CR-Worcester-15b1f0b8-0,CR-Worcester,0,South Station - Worcester,,2,200030130,CR-628006-533-1,2
 CR-Worcester-b7d1e6e8-0,CR-Worcester,0,South Station - Worcester,,2,200030140,CR-628008-531-1,2
 CR-Worcester-02498220-0,CR-Worcester,0,South Station - Worcester,,2,200030150,CR-628010-529-1,2
-CR-Worcester-6436caf7-0,CR-Worcester,0,South Station - Worcester,,2,200030160,CR-628020-519-1,2
+CR-Worcester-6436caf7-0,CR-Worcester,0,South Station - Worcester,,2,200030160,CR-628038-501-1,2
 CR-Worcester-6fbe3217-0,CR-Worcester,0,South Station - Worcester,,2,200030170,CR-628032-507-1,2
-CR-Worcester-647db84d-1,CR-Worcester,1,Worcester - South Station,,2,200031010,CR-628003-536-1,2
+CR-Worcester-647db84d-1,CR-Worcester,1,Worcester - South Station,,2,200031010,CR-628039-500-1,2
 CR-Worcester-8171c73d-1,CR-Worcester,1,Framingham - South Station,,2,200031020,CR-627986-598-1,2
 CR-Worcester-8e925022-1,CR-Worcester,1,Framingham - South Station,,2,200031030,CR-627991-592-1,2
 CR-Worcester-cb9d6625-1,CR-Worcester,1,Framingham - South Station,,2,200031040,CR-627997-582-1,2
@@ -131,37 +131,37 @@ CR-Greenbush-6d652c57-0,CR-Greenbush,0,South Station - Greenbush,,1,200050000,ca
 CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,200051000,canonical-CR-Greenbush-C1-1,1
 CR-Haverhill-779dede9-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,200060000,canonical-CR-Haverhill-C1-0,1
 CR-Haverhill-5b586e27-0,CR-Haverhill,0,North Station - Haverhill,,2,200060030,CR-627655-217,2
-CR-Haverhill-0afec960-0,CR-Haverhill,0,North Station - Reading,,2,200060040,CR-627664-281,2
+CR-Haverhill-0afec960-0,CR-Haverhill,0,North Station - Reading,,2,200060040,CR-627680-297,2
 CR-Haverhill-ebc58735-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,200061000,canonical-CR-Haverhill-C1-1,1
 CR-Haverhill-6984317f-1,CR-Haverhill,1,Haverhill - North Station,,2,200061030,CR-627642-204,2
 CR-Haverhill-dcfde8e9-1,CR-Haverhill,1,Lawrence - North Station via Reading,,2,200061040,CR-627663-280,2
-CR-Haverhill-0629a9bc-1,CR-Haverhill,1,Reading - North Station,,2,200061050,CR-627665-282,2
+CR-Haverhill-0629a9bc-1,CR-Haverhill,1,Reading - North Station,,2,200061050,CR-627681-298,2
 CR-Kingston-5caee635-0,CR-Kingston,0,South Station - Kingston,,1,200070000,canonical-CR-Kingston-C1-0,1
 CR-Kingston-7014db43-0,CR-Kingston,0,Braintree - Kingston,,2,200070010,CR-628066-067,2
 CR-Kingston-6cec404d-1,CR-Kingston,1,Kingston - South Station,,1,200071000,canonical-CR-Kingston-C1-1,1
 CR-Kingston-35bb26b3-1,CR-Kingston,1,Kingston - Braintree,,2,200071010,CR-628067-066,2
-CR-Lowell-90161884-0,CR-Lowell,0,North Station - Lowell,,1,200080000,CR-632751-345,2
+CR-Lowell-90161884-0,CR-Lowell,0,North Station - Lowell,,1,200080000,CR-632782-317,2
 CR-Lowell-C1-0,CR-Lowell,0,North Station - Lowell,,5,200080991,canonical-CR-Lowell-C1-0,1
-CR-Lowell-5cb1ce1b-1,CR-Lowell,1,Lowell - North Station,,1,200081000,CR-627682-300,2
+CR-Lowell-5cb1ce1b-1,CR-Lowell,1,Lowell - North Station,,1,200081000,CR-627726-346,2
 CR-Lowell-C1-1,CR-Lowell,1,Lowell - North Station,,5,200081991,canonical-CR-Lowell-C1-1,1
 CR-Middleborough-52b80476-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,200090000,canonical-CR-Middleborough-C1-0,1
 CR-Middleborough-75bed2bb-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,200091000,canonical-CR-Middleborough-C1-1,1
 CR-Needham-a6552e0a-0,CR-Needham,0,South Station - Needham Heights,,1,200100000,AMTKSchCh651179-611,2
 CR-Needham-7f6dbefb-0,CR-Needham,0,Forest Hills - Needham Heights,,2,200100010,AMTKSchCh651156-635,2
-CR-Needham-69669b59-0,CR-Needham,0,South Station - Needham Heights,,2,200100020,AMTKSchCh651159-631,2
+CR-Needham-69669b59-0,CR-Needham,0,South Station - Needham Heights,,2,200100020,AMTKSchCh651181-609,2
 CR-Needham-C1-0,CR-Needham,0,South Station - Needham Heights,,5,200100991,canonical-CR-Needham-C1-0,1
-CR-Needham-d774fb34-1,CR-Needham,1,Needham Heights - South Station,,1,200101000,AMTKSchCh651160-630,2
+CR-Needham-d774fb34-1,CR-Needham,1,Needham Heights - South Station,,1,200101000,AMTKSchCh651189-600,2
 CR-Needham-68a3e69b-1,CR-Needham,1,Needham Heights - Forest Hills,,2,200101010,AMTKSchCh651158-632,2
 CR-Needham-a01e12e1-1,CR-Needham,1,Needham Heights - South Station,,2,200101020,AMTKSchCh651166-624,2
 CR-Needham-C1-1,CR-Needham,1,Needham Heights - South Station,,5,200101991,canonical-CR-Needham-C1-1,1
-CR-Newburyport-79533330-0,CR-Newburyport,0,North Station - Newburyport,,2,200110040,CR-649275-165,2
+CR-Newburyport-79533330-0,CR-Newburyport,0,North Station - Newburyport,,2,200110040,CR-649311-163,2
 CR-Newburyport-e54dc640-0,CR-Newburyport,0,North Station - Rockport,,2,200110050,CR-649284-123,2
 CR-Newburyport-8ac7b3db-0,CR-Newburyport,0,Salem - Newburyport,,2,200110090,CR-649306-167,2
 CR-Newburyport-dd9f791d-0,CR-Newburyport,0,North Station - Rockport,,2,200110110,CR-649341-103,2
 CR-Newburyport-8a970322-0,CR-Newburyport,0,North Station - Newburyport,,1,200110140,canonical-CR-Newburyport-C1-0,1
 CR-Newburyport-9b0217f4-0,CR-Newburyport,0,North Station - Beverly,,2,200110150,CR-649259-197,2
 CR-Newburyport-5967b204-0,CR-Newburyport,0,North Station - Rockport,,1,200110160,canonical-CR-Newburyport-C2-0,1
-CR-Newburyport-d47c5647-1,CR-Newburyport,1,Rockport - North Station,,2,200111040,CR-649271-106,2
+CR-Newburyport-d47c5647-1,CR-Newburyport,1,Rockport - North Station,,2,200111040,CR-649335-124,2
 CR-Newburyport-7e4857df-1,CR-Newburyport,1,Newburyport - North Station,,2,200111050,CR-649277-154,2
 CR-Newburyport-f5cebd1b-1,CR-Newburyport,1,Beverly - North Station,,2,200111120,CR-649255-198,2
 CR-Newburyport-e6060026-1,CR-Newburyport,1,Newburyport - North Station,,1,200111130,canonical-CR-Newburyport-C1-1,1
@@ -171,8 +171,8 @@ CR-Providence-d36ab58d-0,CR-Providence,0,South Station - Stoughton via Back Bay,
 CR-Providence-d31884e1-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200120020,AMTKSchCh651478-813,2
 CR-Providence-8344b9b3-0,CR-Providence,0,South Station - Stoughton via Fairmount,,2,200120030,AMTKSchCh651037-893,2
 CR-Providence-9515a09b-0,CR-Providence,0,South Station - Stoughton via Back Bay,,2,200120040,AMTKSchCh651044-885,2
-CR-Providence-743ff41d-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200120060,AMTKSchCh651074-835,2
-CR-Providence-9cf54fb3-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,2,200120070,AMTKSchCh651076-833,2
+CR-Providence-743ff41d-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200120060,AMTKSchCh651104-805,2
+CR-Providence-9cf54fb3-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,2,200120070,AMTKSchCh651106-803,2
 CR-Providence-a9a49f44-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,2,200120080,AMTKSchCh651086-823,2
 CR-Providence-cea1b73d-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,2,200120090,AMTKSchCh651100-809,2
 CR-Providence-cf299c9f-0,CR-Providence,0,South Station - Stoughton via Back Bay,,2,200120100,AMTKSchCh651054-875,2
@@ -180,12 +180,12 @@ CR-Providence-43081d8a-0,CR-Providence,0,South Station - Providence via Back Bay
 CR-Providence-09309983-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,2,200120120,AMTKSchCh651479-837,2
 CR-Providence-C1-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,1,200120991,canonical-CR-Providence-C1-0,1
 CR-Providence-C2-0,CR-Providence,0,South Station - Stoughton via Back Bay,,5,200120992,canonical-CR-Providence-C2-0,1
-CR-Providence-6cae46be-1,CR-Providence,1,Stoughton - South Station via Back Bay,,1,200121000,AMTKSchCh651038-892,2
+CR-Providence-6cae46be-1,CR-Providence,1,Stoughton - South Station via Back Bay,,1,200121000,AMTKSchCh651467-886,2
 CR-Providence-53ce6838-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,1,200121010,AMTKSchCh651071-838,2
 CR-Providence-0465673f-1,CR-Providence,1,Providence - South Station via Back Bay,,2,200121020,AMTKSchCh651091-818,2
-CR-Providence-e9395acc-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,2,200121030,AMTKSchCh651073-836,2
+CR-Providence-e9395acc-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,2,200121030,AMTKSchCh651477-826,2
 CR-Providence-9cd412df-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,2,200121040,AMTKSchCh651075-834,2
-CR-Providence-c2a7e4dc-1,CR-Providence,1,Providence - South Station via Back Bay,,2,200121050,AMTKSchCh651077-832,2
+CR-Providence-c2a7e4dc-1,CR-Providence,1,Providence - South Station via Back Bay,,2,200121050,AMTKSchCh651471-828,2
 CR-Providence-30afc537-1,CR-Providence,1,Providence - South Station via Back Bay,,2,200121060,AMTKSchCh651085-824,2
 CR-Providence-785f05b1-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,2,200121070,AMTKSchCh651103-806,2
 CR-Providence-403369a9-1,CR-Providence,1,Stoughton - South Station via Back Bay,,2,200121080,AMTKSchCh651041-888,2
@@ -872,8 +872,8 @@ Shuttle-BabcockBlandford-0-0,Shuttle-BabcockBlandford,0,Blandford Street - Babco
 Shuttle-BabcockBlandford-0-1,Shuttle-BabcockBlandford,1,Babcock Street - Blandford Street,,5,604001990,BabcockStreetBlandfordStreet-1-sample,1
 Shuttle-BabcockBostonCollege-0-0,Shuttle-BabcockBostonCollege,0,Babcock Street - Boston College,,5,604500990,BabcockBostonCollege-0-sample,1
 Shuttle-BabcockBostonCollege-0-1,Shuttle-BabcockBostonCollege,1,Boston College - Babcock Street,,5,604501990,BabcockBostonCollege-1-sample,1
-Shuttle-BabcockCopley-0-0,Shuttle-BabcockCopley,0,Copley - Babcock Street,,5,604550990,BabcockGovernmentCenter-0-sample,1
-Shuttle-BabcockCopley-0-1,Shuttle-BabcockCopley,1,Babcock Street - Copley,,5,604551990,BabcockGovernmentCenter-1-sample,1
+Shuttle-BabcockCopley-0-0,Shuttle-BabcockCopley,0,Babcock Street - Copley,,5,604550990,Green-B-Copley-Babcock-Weekday-0-05:00:00,1
+Shuttle-BabcockCopley-0-1,Shuttle-BabcockCopley,1,Copley - Babcock Street,,5,604551990,Green-B-Copley-Babcock-Weekday-1-05:00:00,1
 Shuttle-BabcockKenmore-0-0,Shuttle-BabcockKenmore,0,Kenmore - Babcock Street,,5,604600990,BabcockStreetKenmore-0-sample,1
 Shuttle-BabcockKenmore-0-1,Shuttle-BabcockKenmore,1,Babcock Street - Kenmore,,5,604601990,BabcockStreetKenmore-1-sample,1
 Shuttle-BackBayBostonLanding-0-0,Shuttle-BackBayBostonLanding,0,Back Bay - Boston Landing,,5,604700990,BackBayBostonLandingOmitSouthStation-0-sample,1
