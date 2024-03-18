@@ -2097,7 +2097,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 3,3,Washington St @ Melnea Cass Blvd - Silver Line,Washington St @ Melnea Cass Blvd - Silver Line - South Station/Downtown Crossing,,South Station/Downtown Crossing,42.333021,-71.080799,LocalBus,"Washington St and Melnea Cass Blvd, Roxbury, MA",https://www.mbta.com/stops/3,level_in_street,0,,1,Boston,Washington Street,Melnea Cass Boulevard,3
 30,30,E Broadway @ Farragut Rd,,,,42.335738,-71.025190,LocalBus,,https://www.mbta.com/stops/30,,0,,1,Boston,East Broadway,Farragut Road,3
 30009,30009,Massachusetts Ave @ Magazine St,,,,42.327877,-71.067901,LocalBus,,https://www.mbta.com/stops/30009,,0,,1,Boston,Massachusetts Avenue,Magazine Street,3
-30088,30088,Savin Hill - Dorchester Ave @ Bay St,Savin Hill - Red Line Alewife Shuttle - Dorchester Ave @ Bay St,,Alewife Shuttle,42.311260,-71.057530,,,,,0,,1,Boston,Dorchester Avenue,Bay Street,3
+30088,30088,Savin Hill - Dorchester Ave @ Bay St,Savin Hill - Red Line Alewife Shuttle - Dorchester Ave @ Bay St,,Alewife Shuttle,42.311260,-71.057530,LocalBus,,https://www.mbta.com/stops/30088,,0,,1,Boston,Dorchester Avenue,Bay Street,3
 3019,3019,Hancock St opp Glover Ave,,,,42.274190,-71.026325,LocalBus,,https://www.mbta.com/stops/3019,,0,,1,Quincy,Hancock Street,Glover Avenue,3
 3020,3020,Hancock St @ Billings Rd,,,,42.273451,-71.025558,LocalBus,,https://www.mbta.com/stops/3020,,0,,1,Quincy,Hancock Street,Billings Road,3
 3022,3022,Hancock St opp Albion Rd,,,,42.271589,-71.022667,LocalBus,,https://www.mbta.com/stops/3022,,0,,1,Quincy,Hancock Street,Albion Road,3
@@ -2509,8 +2509,8 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 3426,3426,McGrath Hwy @ Brackett St,,,,42.252155,-70.996936,LocalBus,,https://www.mbta.com/stops/3426,,0,,1,Quincy,McGrath Highway,Brackett Street,3
 343,343,Dorchester Ave @ Gibson St,,,,42.297101,-71.061006,LocalBus,,https://www.mbta.com/stops/343,,0,,1,Boston,Dorchester Avenue,Gibson Street,3
 345,345,Dorchester Ave opp Charles St,,,,42.300648,-71.059987,LocalBus,,https://www.mbta.com/stops/345,,0,,1,Boston,Dorchester Avenue,Charles Street,3
-34500,34500,Dorchester Ave @ Lincoln St - Fields Corner Sta,Fields Corner - Red Line Alewife Shuttle - Dorchester Ave @ Lincoln St,,Alewife Shuttle,42.299623,-71.060251,,,,,0,,1,Boston,Dorchester Avenue,Faulkner Street,3
-34503,34503,Dorchester Ave @ Fields Corner Station,Fields Corner - Red Line Ashmont Shuttle - Dorchester Ave @ Fields Corner Station,,Ashmont Shuttle,42.300316,-71.060253,,,,,0,,1,Boston,Dorchester Avenue,,3
+34500,34500,Dorchester Ave @ Lincoln St - Fields Corner Sta,Fields Corner - Red Line Alewife Shuttle - Dorchester Ave @ Lincoln St,,Alewife Shuttle,42.299623,-71.060251,LocalBus,,https://www.mbta.com/stops/34500,,0,,1,Boston,Dorchester Avenue,Faulkner Street,3
+34503,34503,Dorchester Ave @ Fields Corner Station,Fields Corner - Red Line Ashmont Shuttle - Dorchester Ave @ Fields Corner Station,,Ashmont Shuttle,42.300316,-71.060253,LocalBus,,https://www.mbta.com/stops/34503,,0,,1,Boston,Dorchester Avenue,,3
 34509,34509,Beacon St @ Raleigh St,,,,42.349099,-71.096313,LocalBus,,https://www.mbta.com/stops/34509,,0,,1,Boston,Beacon Street,Commonwealth Avenue,3
 34510,34510,Commonwealth Ave @ Kenmore St,,,,42.348697,-71.095119,LocalBus,,https://www.mbta.com/stops/34510,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
 3455,3455,Beale St @ Farrington St,,,,42.264134,-71.021471,LocalBus,,https://www.mbta.com/stops/3455,,0,,1,Quincy,Beale Street,Farrington Street,3
@@ -5122,7 +5122,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 7115,7115,Cabot St @ Memorial School,,,,42.565728,-70.886473,LocalBus,,https://www.mbta.com/stops/7115,,0,,1,Beverly,Cabot Street,,3
 7117,7117,Cabot St opp Kittredge St,,,,42.564060,-70.884950,LocalBus,,https://www.mbta.com/stops/7117,,0,,1,Beverly,Cabot Street,Kittredge Street,3
 7118,7118,Cabot St @ Balch St,,,,42.562404,-70.884124,LocalBus,,https://www.mbta.com/stops/7118,,0,,1,Beverly,Cabot Street,Balch Street,3
-71186,71186,JFK/UMass - Columbia Rd @ I-93,JFK/UMass - Red Line Alewife Shuttle - Columbia Rd @ I-93,,Alewife Shuttle,42.321348,-71.053228,,,,,0,,1,Boston,Columbia Road,,3
 71187,71187,Washington St @ Burnett St,,,,42.303768,-71.110246,LocalBus,,https://www.mbta.com/stops/71187,,0,,2,Boston,Washington Street,Burnett Street,3
 7120,7120,Cabot St opp Mason St,,,,42.560663,-70.883413,LocalBus,,https://www.mbta.com/stops/7120,,0,,1,Beverly,Cabot Street,Mason Street,3
 7121,7121,Cabot St @ Beckford St,,,,42.558541,-70.881895,LocalBus,,https://www.mbta.com/stops/7121,,0,,1,Beverly,Cabot Street,Charles Street,3
@@ -6465,11 +6464,11 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9069,9069,Salem St @ Revere St,,,,42.437257,-71.025457,LocalBus,,https://www.mbta.com/stops/9069,,0,,1,Malden,Salem Street,Revere Street,3
 907,907,Tremont St @ Pembroke St,,,,42.352946,-71.176810,LocalBus,,https://www.mbta.com/stops/907,,0,,1,Newton,Tremont Street,Playstead Road,3
 9070,9070,Salem St @ Lynn St,,,,42.436065,-71.021736,LocalBus,,https://www.mbta.com/stops/9070,,0,,1,Malden,Salem Street,Lynn Street,3
-9070002,9070002,Green Street - Amory St @ Green St,Green Street - Orange Line Forest Hills Shuttle - Amory St @ Green St,,Forest Hills Shuttle,42.310334,-71.107185,LocalBus,,https://www.mbta.com/stops/9070002,,0,,1,Boston,Amory Street,Green Street,3
-9070003,9070003,Green Street - Amory St @ Green St,Green Street - Orange Line Oak Grove Shuttle - Amory St @ Green St,,Oak Grove Shuttle,42.310935,-71.106623,LocalBus,,https://www.mbta.com/stops/9070003,,0,,1,Boston,Amory Street,Green Street,3
-9070004,9070004,Stony Brook - Amory St @ Boylston St,Stony Brook - Orange Line Forest Hills Shuttle - Amory St @ Boylston St,,Forest Hills Shuttle,42.317028,-71.102750,LocalBus,,https://www.mbta.com/stops/9070004,,0,,1,Boston,Amory Street,Boylston Street,3
-9070005,9070005,Stony Brook - Boylston St @ Stony Brook,Stony Brook - Orange Line Oak Grove Shuttle - Boylston St @ Stony Brook,,Oak Grove Shuttle,42.317082,-71.104428,LocalBus,,https://www.mbta.com/stops/9070005,,0,,1,Boston,Boylston Street,Lamartine Street,3
-9070007,9070007,Jackson Square - Centre St opp Jackson Square Busway,Jackson Square - Orange Line Oak Grove Shuttle - Centre St opp Jackson Square Busway,,Oak Grove Shuttle,42.322675,-71.099969,LocalBus,,https://www.mbta.com/stops/9070007,,0,,1,Boston,Centre Street,Lamartine Street,3
+9070002,9070002,Green Street - Amory St @ Green St,Green Street - Orange Line Forest Hills Shuttle - Amory St @ Green St,,Forest Hills Shuttle,42.310334,-71.107185,,,,,0,,1,Boston,Amory Street,Green Street,3
+9070003,9070003,Green Street - Amory St @ Green St,Green Street - Orange Line Oak Grove Shuttle - Amory St @ Green St,,Oak Grove Shuttle,42.310935,-71.106623,,,,,0,,1,Boston,Amory Street,Green Street,3
+9070004,9070004,Stony Brook - Amory St @ Boylston St,Stony Brook - Orange Line Forest Hills Shuttle - Amory St @ Boylston St,,Forest Hills Shuttle,42.317028,-71.102750,,,,,0,,1,Boston,Amory Street,Boylston Street,3
+9070005,9070005,Stony Brook - Boylston St @ Stony Brook,Stony Brook - Orange Line Oak Grove Shuttle - Boylston St @ Stony Brook,,Oak Grove Shuttle,42.317082,-71.104428,,,,,0,,1,Boston,Boylston Street,Lamartine Street,3
+9070007,9070007,Jackson Square - Centre St opp Jackson Square Busway,Jackson Square - Orange Line Oak Grove Shuttle - Centre St opp Jackson Square Busway,,Oak Grove Shuttle,42.322675,-71.099969,,,,,0,,1,Boston,Centre Street,Lamartine Street,3
 9070010,9070010,Ruggles - Tremont St @ Ruggles St,Ruggles - Orange Line Forest Hills Shuttle - Tremont St @ Ruggles St,,Forest Hills Shuttle,42.335346,-71.088016,LocalBus,,https://www.mbta.com/stops/9070010,,0,,1,Boston,Tremont Street,Ruggles Street,3
 9070012,9070012,Massachusetts Avenue - Columbus Ave @ Northampton St,Massachusetts Avenue - Orange Line Forest Hills Shuttle - Columbus Ave @ Northampton St,,Forest Hills Shuttle,42.340219,-71.082397,,,,,0,,1,Boston,Columbus Avenue,Northampton Street,3
 9070013,9070013,Massachusetts Avenue - Columbus Ave @ Massachusetts Ave,Massachusetts Avenue - Orange Line Oak Grove Shuttle - Columbus Ave @ Massachusetts Ave,,Oak Grove Shuttle,42.340260,-71.081959,LocalBus,,https://www.mbta.com/stops/9070013,,0,,1,Boston,Columbus Avenue,Massachusetts Avenue,3
@@ -6498,7 +6497,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070076,9070076,Park Street - Tremont St @ Winter St,Park Street - Red Line Shuttle - Tremont St @ Winter St,,Red Line Shuttle,42.356164,-71.062487,,,,,0,,1,Boston,Tremont Street,Winter Street,3
 9070079,9070079,South Station - Summer St @ Surface Rd,South Station - Red Line Ashmont/Braintree Shuttle - Summer St @ Surface Rd,,Ashmont/Braintree Shuttle,42.353003,-71.056610,,,,,0,,1,Boston,Summer Street,John F. Fitzgerald Surface Road,3
 9070080,9070080,Downtown Crossing - Franklin St @ Washington St,Downtown Crossing - Red Line Shuttle - Franklin St @ Washington St,,Red Line Shuttle,42.356270,-71.059330,,,,,0,,1,Boston,Franklin Street,Washington Street,3
-9070083,9070083,Andrew - Dorchester Ave @ Dexter St,Andrew - Red Line Ashmont/Braintree Shuttle - Dorchester Ave @ Dexter St,,Ashmont/Braintree Shuttle,42.330445,-71.057042,,,,,0,,1,Boston,Dorchester Avenue,Dexter Street,3
+9070083,9070083,Andrew - Dorchester Ave @ Dexter St,Andrew - Red Line Ashmont/Braintree Shuttle - Dorchester Ave @ Dexter St,,Ashmont/Braintree Shuttle,42.330445,-71.057042,LocalBus,,https://www.mbta.com/stops/9070083,,0,,1,Boston,Dorchester Avenue,Dexter Street,3
 9070090,9070090,North Station - Nashua St @ Red Auerbach Way,North Station - Lechmere & North/Oak Grove Shuttle - Nashua St @ Red Auerbach Way,,Lechmere & North/Oak Grove Shuttle,42.365550,-71.064050,,,,,0,,1,Boston,Nashua Street,Red Auerbach Way,3
 9070091,9070091,Science Park - Nashua St,Green Line Lechmere & North Shuttle,,Lechmere & North Shuttle,42.367520,-71.066800,,,,,0,,1,Boston,Nashua Street,Charles River Dam Road,3
 9070093,9070093,Science Park - Martha Rd @ Whittier Pl,Science Park - Green Line Copley & West Shuttle - Martha Rd @ Whittier Pl,,Copley & West Shuttle,42.366105,-71.066986,,,,,0,,1,Boston,Martha Road,Whittier Place,3
@@ -6522,11 +6521,11 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070131,9070131,Harvard Avenue - Commonwealth Ave @ Harvard Ave,Harvard Avenue - Green Line Boston College Shuttle - Commonwealth Ave @ Harvard Ave,,Boston College Shuttle,42.350306,-71.131188,,,,,0,,1,Boston,Commonwealth Avenue,Harvard Avenue,3
 9070134,9070134,Packard's Corner,Packard's Corner - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.351948,-71.123965,,,,,0,,1,Boston,,,3
 9070135,9070135,Packard's Corner,Packard's Corner - Green Line Boston College Shuttle,,Boston College Shuttle,42.351925,-71.124976,,,,,0,,1,Boston,,,3
-9070150,9070150,Kenmore - 512 Commonwealth Ave,Kenmore - Green Line Shuttle - 512 Commonwealth Ave,,Green Line Shuttle,42.348712,-71.095526,LocalBus,,https://www.mbta.com/stops/9070150,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
+9070150,9070150,Kenmore - 512 Commonwealth Ave,Kenmore - Green Line Shuttle - 512 Commonwealth Ave,,Green Line Shuttle,42.348712,-71.095526,,,,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
 9070151,9070151,Kenmore - 660 Beacon St,Kenmore - Green Line Westbound Shuttle - 660 Beacon St,,Westbound Shuttle,42.349196,-71.095826,,,,,0,,1,Boston,Beacon Street,Public Alley 902,3
 9070152,9070152,Hynes Convention Center - Cambria St @ Boylston St,Hynes Convention Center - Green Line Park Street & North Shuttle - Cambria St @ Boylston St,,Park Street & North Shuttle,42.347300,-71.086917,,,,,0,,1,Boston,Cambria Street,Boylston Street,3
-9070154,9070154,Copley - Opp 575 Boylston St,Copley - Green Line Shuttle - Opp 575 Boylston St,,Green Line Shuttle,42.350283,-71.076293,LocalBus,,https://www.mbta.com/stops/9070154,,0,,1,Boston,Boylston Street,,3
-9070155,9070155,Copley - Saint James Ave @ Trinity Pl,Copley - Green Line Westbound Shuttle - Saint James Ave @ Trinity Pl,,Westbound Shuttle,42.349660,-71.075780,LocalBus,,https://www.mbta.com/stops/9070155,,0,,1,Boston,Saint James Avenue,Trinity Place,3
+9070154,9070154,Copley - Opp 575 Boylston St,Copley - Green Line Shuttle - Opp 575 Boylston St,,Green Line Shuttle,42.350283,-71.076293,,,,,0,,1,Boston,Boylston Street,,3
+9070155,9070155,Copley - Saint James Ave @ Trinity Pl,Copley - Green Line Westbound Shuttle - Saint James Ave @ Trinity Pl,,Westbound Shuttle,42.349660,-71.075780,,,,,0,,1,Boston,Saint James Avenue,Trinity Place,3
 9070156,9070156,Arlington,Arlington - Green Line Park St & North Shuttle,,Park Street & North Shuttle,42.351765,-71.070881,,,,,0,,1,Boston,,,3
 9070162,9070162,Woodland,Woodland - Green Line Shuttle,,Green Line Shuttle,42.332975,-71.243312,,,,,0,,1,Newton,,,3
 9070164,9070164,Waban - Beacon St @ Waban,Waban - Green Line Park St & North Shuttle - Beacon St @ Waban,,Park Street & North Shuttle,42.326268,-71.231039,,,,,0,,1,Newton,Beacon Street,Collins Road,3
@@ -6536,36 +6535,36 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070171,9070171,Newton Centre - Langley Rd opp Braeland Ave,Newton Centre - Green Line Riverside Shuttle - Langley Rd opp Braeland Ave,,Riverside Shuttle,42.329976,-71.190997,,,,,0,,1,Newton,Langley Road,Braeland Avenue,3
 9070178,9070178,Brookline Hills - Boylston St @ Cypress St,Brookline Hills - Green Line Riverside Shuttle - Boylston St @ Cypress St,,Riverside Shuttle,42.330044,-71.126602,,,,,0,,1,Brookline,Boylston Street,Cypress Street,3
 9070179,9070179,Brookline Hills - Boylston St @ Cypress St,Brookline Hills - Green Line Park St & North Shuttle - Boylston St @ Cypress St,,Park Street & North Shuttle,42.330034,-71.125599,,,,,0,,1,Brookline,Boylston Street,Cypress Street,3
-9070180,9070180,Brookline Village - Pearl St @ Brookline Place Parking,Brookline Village - Green Line Park St & North Shuttle - Pearl St @ Brookline Place Parking,,Park Street & North Shuttle,42.332733,-71.115961,LocalBus,,https://www.mbta.com/stops/9070180,,0,,1,Brookline,Pearl Street,,3
-9070184,9070184,Hynes Convention Center - Commonwealth Ave @ Massachusetts Ave,Hynes Convention Center - Green Line Shuttle,,Green Line Shuttle,42.349320,-71.088590,LocalBus,,https://www.mbta.com/stops/9070184,,0,,1,Boston,Commonwealth Avenue,Massachusetts Avenue,3
-9070185,9070185,Kenmore - Commonwealth Ave @ Kenmore St,Kenmore - Green Line Shuttle,,Green Line Shuttle,42.349160,-71.094900,LocalBus,,https://www.mbta.com/stops/9070185,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
-9070186,9070186,Boston University East - 610 Commonwealth Ave,Boston University East - 610 Commonwealth Ave - Green Line Park Street & North Shuttle,,Green Line Park Street & North Shuttle,42.349300,-71.102120,LocalBus,,https://www.mbta.com/stops/9070186,,0,,1,Boston,Commonwealth Avenue,,3
+9070180,9070180,Brookline Village - Pearl St @ Brookline Place Parking,Brookline Village - Green Line Park St & North Shuttle - Pearl St @ Brookline Place Parking,,Park Street & North Shuttle,42.332733,-71.115961,,,,,0,,1,Brookline,Pearl Street,,3
+9070184,9070184,Hynes Convention Center - Commonwealth Ave @ Massachusetts Ave,Hynes Convention Center - Green Line Shuttle,,Green Line Shuttle,42.349320,-71.088590,,,,,0,,1,Boston,Commonwealth Avenue,Massachusetts Avenue,3
+9070185,9070185,Kenmore - Commonwealth Ave @ Kenmore St,Kenmore - Green Line Shuttle,,Green Line Shuttle,42.349160,-71.094900,,,,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
+9070186,9070186,Boston University East - 610 Commonwealth Ave,Boston University East - 610 Commonwealth Ave - Green Line Park Street & North Shuttle,,Green Line Park Street & North Shuttle,42.349300,-71.102120,,,,,0,,1,Boston,Commonwealth Avenue,,3
 9070211,9070211,Saint Mary's Street,Saint Mary's Street - Green Line Westbound Shuttle,,Westbound Shuttle,42.346095,-71.107571,,,,,0,,1,Brookline,,,3
 9070212,9070212,Saint Mary's Street - Beacon St @ Saint Mary's St,Saint Mary's Street - Green Line Park Street & North Shuttle - Beacon St @ Saint Mary's St,,Park Street & North Shuttle,42.345892,-71.107009,,,,,0,,1,Brookline,Beacon Street,Saint Mary's Street,3
-9070213,9070213,Hawes Street,Hawes Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.345234,-71.110831,LocalBus,,https://www.mbta.com/stops/9070213,,0,,1,Brookline,,,3
-9070214,9070214,Hawes Street - 1089 Beacon St,Hawes Street - Green Line Park Street & North Shuttle - 1089 Beacon St,,Park Street & North Shuttle,42.344900,-71.110650,LocalBus,,https://www.mbta.com/stops/9070214,,0,,1,Brookline,Beacon Street,Hawes Street,3
+9070213,9070213,Hawes Street,Hawes Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.345234,-71.110831,,,,,0,,1,Brookline,,,3
+9070214,9070214,Hawes Street - 1089 Beacon St,Hawes Street - Green Line Park Street & North Shuttle - 1089 Beacon St,,Park Street & North Shuttle,42.344900,-71.110650,,,,,0,,1,Brookline,Beacon Street,Hawes Street,3
 9070215,9070215,Kent Street,Kent Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.344407,-71.113860,,,,,0,,1,Brookline,,,3
 9070216,9070216,Kent Street,Kent Street - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.344069,-71.113664,,,,,0,,1,Brookline,,,3
-9070217,9070217,Saint Paul Street,Saint Paul Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.343636,-71.116713,LocalBus,,https://www.mbta.com/stops/9070217,,0,,1,Brookline,,,3
-9070218,9070218,Saint Paul Street - 1253 Beacon St,Saint Paul Street - Green Line Park Street & North Shuttle - 1253 Beacon St,,Park Street & North Shuttle,42.342820,-71.118040,LocalBus,,https://www.mbta.com/stops/9070218,,0,,1,Brookline,Beacon Street,Saint Paul Street,3
-9070219,9070219,Coolidge Corner,Coolidge Corner - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.342387,-71.121007,LocalBus,,https://www.mbta.com/stops/9070219,,0,,1,Brookline,,,3
-9070220,9070220,Coolidge Corner,Coolidge Corner - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.341820,-71.121669,LocalBus,,https://www.mbta.com/stops/9070220,,0,,1,Brookline,,,3
-9070223,9070223,Summit Avenue - 1428 Beacon St,Summit Avenue - Green Line Cleveland Circle Shuttle - 1428 Beacon St,,Cleveland Circle Shuttle,42.341050,-71.126210,LocalBus,,https://www.mbta.com/stops/9070223,,0,,1,Brookline,Beacon Street,Summit Avenue,3
-9070224,9070224,Summit Avenue,Summit Avenue - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.340768,-71.125834,LocalBus,,https://www.mbta.com/stops/9070224,,0,,1,Brookline,,,3
+9070217,9070217,Saint Paul Street,Saint Paul Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.343636,-71.116713,,,,,0,,1,Brookline,,,3
+9070218,9070218,Saint Paul Street - 1253 Beacon St,Saint Paul Street - Green Line Park Street & North Shuttle - 1253 Beacon St,,Park Street & North Shuttle,42.342820,-71.118040,,,,,0,,1,Brookline,Beacon Street,Saint Paul Street,3
+9070219,9070219,Coolidge Corner,Coolidge Corner - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.342387,-71.121007,,,,,0,,1,Brookline,,,3
+9070220,9070220,Coolidge Corner,Coolidge Corner - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.341820,-71.121669,,,,,0,,1,Brookline,,,3
+9070223,9070223,Summit Avenue - 1428 Beacon St,Summit Avenue - Green Line Cleveland Circle Shuttle - 1428 Beacon St,,Cleveland Circle Shuttle,42.341050,-71.126210,,,,,0,,1,Brookline,Beacon Street,Summit Avenue,3
+9070224,9070224,Summit Avenue,Summit Avenue - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.340768,-71.125834,,,,,0,,1,Brookline,,,3
 9070225,9070225,Brandon Hall,Brandon Hall - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.340312,-71.128629,,,,,0,,1,Brookline,,,3
 9070226,9070226,Brandon Hall,Brandon Hall - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.339811,-71.128765,,,,,0,,1,Brookline,,,3
-9070227,9070227,Fairbanks Street,Fairbanks Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.339857,-71.131700,LocalBus,,https://www.mbta.com/stops/9070227,,0,,1,Brookline,,,3
-9070228,9070228,Fairbanks Street,Fairbanks Street - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.339440,-71.130957,LocalBus,,https://www.mbta.com/stops/9070228,,0,,1,Brookline,,,3
-9070229,9070229,Washington Square,Washington Square - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.339687,-71.135035,LocalBus,,https://www.mbta.com/stops/9070229,,0,,1,Brookline,,,3
-9070230,9070230,Washington Square - 1601 Beacon St,Washington Square - Green Line Park Street & North Shuttle - 1601 Beacon St,,Park Street & North Shuttle,42.339370,-71.134090,LocalBus,,https://www.mbta.com/stops/9070230,,0,,1,Brookline,Beacon Street,Westbourne Terrace,3
-9070231,9070231,Tappan Street,Tappan Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.338794,-71.138504,LocalBus,,https://www.mbta.com/stops/9070231,,0,,1,Brookline,,,3
-9070232,9070232,Tappan Street,Tappan Street - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.338364,-71.138541,LocalBus,,https://www.mbta.com/stops/9070232,,0,,1,Brookline,,,3
-9070233,9070233,Dean Road,Dean Road - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.338027,-71.141682,LocalBus,,https://www.mbta.com/stops/9070233,,0,,1,Brookline,,,3
-9070234,9070234,Dean Road,Dean Road - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.337512,-71.142381,LocalBus,,https://www.mbta.com/stops/9070234,,0,,1,Brookline,,,3
-9070235,9070235,Englewood Avenue - 1856 Beacon St,Englewood Avenue - Green Line Cleveland Circle Shuttle - 1856 Beacon St,,Cleveland Circle Shuttle,42.337150,-71.146010,LocalBus,,https://www.mbta.com/stops/9070235,,0,,1,Brookline,Beacon Street,Englewood Avenue,3
-9070236,9070236,Englewood Avenue - 1855 Beacon St,Englewood Avenue - Green Line Park Street & North Shuttle - 1855 Beacon St,,Park Street & North Shuttle,42.336770,-71.145860,LocalBus,,https://www.mbta.com/stops/9070236,,0,,1,Brookline,Beacon Street,Clinton Path,3
+9070227,9070227,Fairbanks Street,Fairbanks Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.339857,-71.131700,,,,,0,,1,Brookline,,,3
+9070228,9070228,Fairbanks Street,Fairbanks Street - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.339440,-71.130957,,,,,0,,1,Brookline,,,3
+9070229,9070229,Washington Square,Washington Square - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.339687,-71.135035,,,,,0,,1,Brookline,,,3
+9070230,9070230,Washington Square - 1601 Beacon St,Washington Square - Green Line Park Street & North Shuttle - 1601 Beacon St,,Park Street & North Shuttle,42.339370,-71.134090,,,,,0,,1,Brookline,Beacon Street,Westbourne Terrace,3
+9070231,9070231,Tappan Street,Tappan Street - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.338794,-71.138504,,,,,0,,1,Brookline,,,3
+9070232,9070232,Tappan Street,Tappan Street - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.338364,-71.138541,,,,,0,,1,Brookline,,,3
+9070233,9070233,Dean Road,Dean Road - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.338027,-71.141682,,,,,0,,1,Brookline,,,3
+9070234,9070234,Dean Road,Dean Road - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.337512,-71.142381,,,,,0,,1,Brookline,,,3
+9070235,9070235,Englewood Avenue - 1856 Beacon St,Englewood Avenue - Green Line Cleveland Circle Shuttle - 1856 Beacon St,,Cleveland Circle Shuttle,42.337150,-71.146010,,,,,0,,1,Brookline,Beacon Street,Englewood Avenue,3
+9070236,9070236,Englewood Avenue - 1855 Beacon St,Englewood Avenue - Green Line Park Street & North Shuttle - 1855 Beacon St,,Park Street & North Shuttle,42.336770,-71.145860,,,,,0,,1,Brookline,Beacon Street,Clinton Path,3
 9070237,9070237,Cleveland Circle,Cleveland Circle - Green Line Cleveland Circle Shuttle,,Cleveland Circle Shuttle,42.336612,-71.148524,,,,,0,,1,Brookline,,,3
-9070238,9070238,Cleveland Circle,Cleveland Circle - Green Line Shuttle,,Green Line Shuttle,42.336033,-71.149119,LocalBus,,https://www.mbta.com/stops/9070238,,0,,1,Boston,,,3
+9070238,9070238,Cleveland Circle,Cleveland Circle - Green Line Shuttle,,Green Line Shuttle,42.336033,-71.149119,,,,,0,,1,Boston,,,3
 9070501,9070501,Lechmere - Water St @ Lechmere Busway,Lechmere - Green Line Shuttle - Water St @ Lechmere Busway,,Green Line Shuttle,42.372648,-71.077741,,,,,0,,1,Cambridge,Water Street,Morgan Avenue,3
 9070502,9070502,Lechmere - Monsignor O'Brien Hwy opp Gore St,Lechmere - Green Line Shuttle - Monsignor O'Brien Hwy opp Gore St,,Green Line Shuttle,42.371793,-71.077843,,,,,0,,1,Cambridge,Monsignor O'Brien Highway,Water Street,3
 9070503,9070503,Union Square - Prospect St @ Union Sq Station,Union Square - Green Line Shuttle - Prospect St @ Union Sq Station,,Green Line Shuttle,42.378120,-71.094670,,,,,0,,1,Somerville,Prospect Street,Newton Street,3
@@ -6684,12 +6683,12 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9170100,9170100,Wollaston - Newport Ave opp Brook St,Wollaston - Red Line Alewife Shuttle - Newport Ave opp Brook St,,Alewife Shuttle,42.266771,-71.020771,,,,,0,,1,Quincy,Newport Avenue,Brook Street,3
 9170120,9170120,Washington Street - Commonwealth Ave @ Washington St,Washington Street - Green Line Park Street & North Shuttle - Commonwealth Ave @ Washington St,,Park Street & North Shuttle,42.343435,-71.142732,,,,,0,,1,Boston,Commonwealth Avenue,Washington Street,3
 9170151,9170151,Kenmore - Commonwealth Ave @ Kenmore St,Kenmore - Green Line Westbound Shuttle - Commonwealth Ave @ Kenmore St,,Westbound Shuttle,42.349160,-71.094900,,,,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
-9170152,9170152,Hynes - Commonwealth Ave @ Massachusetts Ave,Hynes - Green Line Park Street & North Shuttle - Commonwealth Ave @ Massachusetts Ave,,Park Street & North Shuttle,42.348890,-71.088350,LocalBus,,https://www.mbta.com/stops/9170152,,0,,1,Boston,Commonwealth Avenue,Massachusetts Avenue,3
+9170152,9170152,Hynes - Commonwealth Ave @ Massachusetts Ave,Hynes - Green Line Park Street & North Shuttle - Commonwealth Ave @ Massachusetts Ave,,Park Street & North Shuttle,42.348890,-71.088350,,,,,0,,1,Boston,Commonwealth Avenue,Massachusetts Avenue,3
 9170153,9170153,Hynes - Commonwealth Ave @ Massachusetts Ave,Hynes - Green Line Westbound Shuttle - Commonwealth Ave @ Massachusetts Ave,,Westbound Shuttle,42.349370,-71.088504,,,,,0,,1,Boston,Commonwealth Avenue,Massachusetts Avenue,3
 9170154,9170154,Copley - Boylston St @ Dartmouth St,Copley - Orange Line Oak Grove Shuttle - Boylston St @ Dartmouth St,,Park Street & North Shuttle,42.350109,-71.077016,LocalBus,,https://www.mbta.com/stops/9170154,,0,,1,Boston,Boylston Street,Dartmouth Street,3
 9170168,9170168,Newton Highlands - Walnut St @ Lincoln St,Newton Highlands - Green Line Park St & North Shuttle - Walnut St @ Lincoln St,,Park Street & North Shuttle,42.321660,-71.206241,,,,,0,,1,Newton,Walnut Street,Lincoln Street,3
 9170169,9170169,Newton Highlands - Walnut St @ Floral St,Newton Highlands - Green Line Shuttle - Walnut St @ Floral St,,Green Line Shuttle,42.321522,-71.205878,,,,,0,,1,Newton,Walnut Street,Floral Street,3
-9170178,9170178,Brookline Hills,Brookline Hills - Green Line Shuttle,,Green Line Shuttle,42.331508,-71.126691,LocalBus,,https://www.mbta.com/stops/9170178,,0,,1,Brookline,,,3
+9170178,9170178,Brookline Hills,Brookline Hills - Green Line Shuttle,,Green Line Shuttle,42.331508,-71.126691,,,,,0,,1,Brookline,,,3
 9170206,9170206,North Station - Lomasney Way @ Causeway St,North Station - Forest Hills/Copley & West Shuttle - Lomasney Way @ Causeway St,,Forest Hills/Copley & West Shuttle,42.364657,-71.063902,,,,,0,,1,Boston,Lomasney Way,Causeway Street,3
 9170211,9170211,Fenway - Beacon St @ Park Dr,Fenway - Green Line Cleveland Circle Shuttle - Beacon St @ Park Dr,,Cleveland Circle Shuttle,42.346836,-71.104819,,,,,0,,1,Boston,Beacon Street,Park Drive,3
 9170212,9170212,Fenway - Beacon St @ Park Dr,Fenway - Green Line Park Street & North Shuttle - Beacon St @ Park Dr,,Park Street & North Shuttle,42.346605,-71.104819,,,,,0,,1,Boston,Beacon Street,Park Drive,3
