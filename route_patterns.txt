@@ -1,46 +1,31 @@
 route_pattern_id,route_id,direction_id,route_pattern_name,route_pattern_time_desc,route_pattern_typicality,route_pattern_sort_order,representative_trip_id,canonical_route_pattern
 Red-3-0,Red,0,Alewife - Braintree,,1,100100000,canonical-Red-C1-0,1
 Red-1-0,Red,0,Alewife - Ashmont,,1,100100001,canonical-Red-C2-0,1
+Red-R-0,Red,0,Alewife - Broadway,,3,100100090,61825855,2
+Red-M-0,Red,0,North Quincy - Braintree,Weekends only,3,100100100,61855115,2
 Red-3-1,Red,1,Braintree - Alewife,,1,100101000,canonical-Red-C1-1,1
 Red-1-1,Red,1,Ashmont - Alewife,,1,100101001,canonical-Red-C2-1,1
+Red-M-1,Red,1,Braintree - North Quincy,Weekends only,3,100101090,61826625,2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,100110000,canonical-Mattapan-C1-0,1
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,100111000,canonical-Mattapan-C1-1,1
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,100200000,canonical-Orange-C1-0,1
-Orange-9-0,Orange,0,Oak Grove - Ruggles,Weekends only,3,100200040,60965143,2
 Orange-2-0,Orange,0,Jackson Square - Forest Hills,Weekdays only,3,100200050,61209249,2
 Orange-7-0,Orange,0,Oak Grove - North Station,Weekdays only,3,100200060,61746428,2
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,100201000,canonical-Orange-C1-1,1
-Orange-9-1,Orange,1,Ruggles - Oak Grove,Weekends only,3,100201040,60965260,2
 Orange-2-1,Orange,1,Forest Hills - Jackson Square,Weekdays only,3,100201050,61209248,2
 Orange-7-1,Orange,1,North Station - Oak Grove,Weekdays only,3,100201060,61746558,2
 Green-B-812-0,Green-B,0,Government Center - Boston College,,1,100320000,canonical-Green-B-C1-0,1
 Green-B-816-0,Green-B,0,Medford/Tufts - Boston College,Mornings only,3,100320040,60564128,2
-Green-B-812-0_70202_170137_2,Green-B,0,Babcock Street - Boston College,,4,100320990,60564033-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend2,2
-Green-B-816-0_70202_170137_0,Green-B,0,Medford/Tufts - Government Center,,4,100320990,60564128-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend0,2
-Green-B-816-0_70202_170137_2,Green-B,0,Babcock Street - Boston College,,4,100320990,60564128-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend2,2
 Green-B-812-1,Green-B,1,Boston College - Government Center,,1,100321000,canonical-Green-B-C1-1,1
 Green-B-816-1,Green-B,1,Boston College - Medford/Tufts,Early mornings only,3,100321040,60564040,2
-Green-B-812-1_170136_70201_0,Green-B,1,Boston College - Babcock Street,,4,100321990,60564032-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend0,2
-Green-B-816-1_170136_70201_0,Green-B,1,Boston College - Babcock Street,,4,100321990,60564040-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend0,2
-Green-B-816-1_170136_70201_2,Green-B,1,Government Center - Medford/Tufts,,4,100321990,60564040-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend2,2
 Green-C-832-0,Green-C,0,Government Center - Cleveland Circle,,1,100330000,canonical-Green-C-C1-0,1
 Green-C-836-0,Green-C,0,Medford/Tufts - Cleveland Circle,Mornings only,3,100330040,60564111,2
-Green-C-836-0_70202_70237_0,Green-C,0,Medford/Tufts - Government Center,,4,100330990,60564111-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend0,2
 Green-C-832-1,Green-C,1,Cleveland Circle - Government Center,,1,100331000,canonical-Green-C-C1-1,1
 Green-C-836-1,Green-C,1,Cleveland Circle - Medford/Tufts,Early mornings only,3,100331040,60564112,2
-Green-C-836-1_70238_70201_2,Green-C,1,Government Center - Medford/Tufts,,4,100331990,60564112-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend2,2
 Green-D-855-0,Green-D,0,Union Square - Riverside,,1,100340000,canonical-Green-D-C1-0,1
 Green-D-856-0,Green-D,0,Medford/Tufts - Riverside,Weekday mornings only,3,100340040,60564601,2
-Green-D-855-0_70202_70179_0,Green-D,0,Union Square - Government Center,,4,100340990,60564589-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend0,2
-Green-D-855-0_70202_70179_2,Green-D,0,Brookline Hills - Riverside,,4,100340990,60564589-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend2,2
-Green-D-856-0_70202_70179_0,Green-D,0,Medford/Tufts - Government Center,,4,100340990,60564601-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend0,2
-Green-D-856-0_70202_70179_2,Green-D,0,Brookline Hills - Riverside,,4,100340990,60564601-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend2,2
 Green-D-855-1,Green-D,1,Riverside - Union Square,,1,100341000,canonical-Green-D-C1-1,1
 Green-D-856-1,Green-D,1,Riverside - Medford/Tufts,Weekday early mornings only,3,100341040,60564597,2
-Green-D-855-1_70178_70201_0,Green-D,1,Riverside - Brookline Hills,,4,100341990,60564588-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend0,2
-Green-D-855-1_70178_70201_2,Green-D,1,Government Center - Union Square,,4,100341990,60564588-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend2,2
-Green-D-856-1_70178_70201_0,Green-D,1,Riverside - Brookline Hills,,4,100341990,60564597-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend0,2
-Green-D-856-1_70178_70201_2,Green-D,1,Government Center - Medford/Tufts,,4,100341990,60564597-BabcockGovernmentCenterSuspendBrooklineHillsGovermentCenterClevCirGovtCtrSuspend2,2
 Green-E-886-0,Green-E,0,Medford/Tufts - Heath Street,,1,100350000,canonical-Green-E-C1-0,1
 Green-E-885-0,Green-E,0,Union Square - Heath Street,Early mornings only,3,100350040,60564702,2
 Green-E-886-1,Green-E,1,Heath Street - Medford/Tufts,,1,100351000,canonical-Green-E-C1-1,1
@@ -860,8 +845,8 @@ Shuttle-AshlandFramingham-0-0,Shuttle-AshlandFramingham,0,Framingham - Ashland,,
 Shuttle-AshlandFramingham-0-1,Shuttle-AshlandFramingham,1,Ashland - Framingham,,5,602381990,AshlandClosedFraminghamShuttle-1-sample,1
 Shuttle-AshmontJFK-0-0,Shuttle-AshmontJFK,0,JFK/UMass - Ashmont,,5,602500990,AshmontJFK-0-sample,1
 Shuttle-AshmontJFK-0-1,Shuttle-AshmontJFK,1,Ashmont - JFK/UMass,,5,602501990,AshmontJFK-1-sample,1
-Shuttle-AshmontBroadway-0-0,Shuttle-AshmontBroadway,0,Broadway - Ashmont,,5,602600990,AshmontBroadwayAshmontBranch-0-sample,1
-Shuttle-AshmontBroadway-0-1,Shuttle-AshmontBroadway,1,Ashmont - Broadway,,5,602601990,AshmontBroadwayAshmontBranch-1-sample,1
+Shuttle-AshmontBroadway-0-0,Shuttle-AshmontBroadway,0,Broadway - Ashmont,,5,602600990,Red-DotAveShuttle-Saturday-A-0-05:53:00,1
+Shuttle-AshmontBroadway-0-1,Shuttle-AshmontBroadway,1,Ashmont - Broadway,,5,602601990,Red-DotAveShuttle-Saturday-A-1-05:20:00,1
 Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,5,603500990,AshmontMattapan-0-sample,1
 Shuttle-AshmontMattapan-0-1,Shuttle-AshmontMattapan,1,Mattapan - Ashmont,,5,603501990,AshmontMattapan-1-sample,1
 Shuttle-AttleboroProvidenceExpress-0-0,Shuttle-AttleboroProvidenceExpress,0,Attleboro - Providence (Express),,5,603750990,AttleboroProvidenceExpress-0-sample,1
@@ -874,8 +859,8 @@ Shuttle-BabcockBlandford-0-0,Shuttle-BabcockBlandford,0,Blandford Street - Babco
 Shuttle-BabcockBlandford-0-1,Shuttle-BabcockBlandford,1,Babcock Street - Blandford Street,,5,604001990,BabcockStreetBlandfordStreet-1-sample,1
 Shuttle-BabcockBostonCollege-0-0,Shuttle-BabcockBostonCollege,0,Babcock Street - Boston College,,5,604500990,BabcockBostonCollege-0-sample,1
 Shuttle-BabcockBostonCollege-0-1,Shuttle-BabcockBostonCollege,1,Boston College - Babcock Street,,5,604501990,BabcockBostonCollege-1-sample,1
-Shuttle-BabcockCopley-0-0,Shuttle-BabcockCopley,0,Babcock Street - Copley,,5,604550990,Green-B-Copley-Babcock-Weekday-0-05:53:00,1
-Shuttle-BabcockCopley-0-1,Shuttle-BabcockCopley,1,Copley - Babcock Street,,5,604551990,Green-B-Copley-Babcock-Weekday-1-05:18:00,1
+Shuttle-BabcockCopley-0-0,Shuttle-BabcockCopley,0,Copley - Babcock Street,,5,604550990,BabcockGovernmentCenter-0-sample,1
+Shuttle-BabcockCopley-0-1,Shuttle-BabcockCopley,1,Babcock Street - Copley,,5,604551990,BabcockGovernmentCenter-1-sample,1
 Shuttle-BabcockKenmore-0-0,Shuttle-BabcockKenmore,0,Kenmore - Babcock Street,,5,604600990,BabcockStreetKenmore-0-sample,1
 Shuttle-BabcockKenmore-0-1,Shuttle-BabcockKenmore,1,Babcock Street - Kenmore,,5,604601990,BabcockStreetKenmore-1-sample,1
 Shuttle-BackBayBostonLanding-0-0,Shuttle-BackBayBostonLanding,0,Back Bay - Boston Landing,,5,604700990,BackBayBostonLandingOmitSouthStation-0-sample,1
@@ -939,8 +924,8 @@ Shuttle-BroadwayKendall-0-0,Shuttle-BroadwayKendall,0,Kendall/MIT - Broadway,,5,
 Shuttle-BroadwayKendall-0-1,Shuttle-BroadwayKendall,1,Broadway - Kendall/MIT,,5,610501990,BroadwayKendall-1-sample,1
 Shuttle-BroadwayKendallOmitDTX-0-0,Shuttle-BroadwayKendallOmitDTX,0,Kendall/MIT - Broadway,,5,610750990,BroadwayKendallOmitDTX-0-sample,1
 Shuttle-BroadwayKendallOmitDTX-0-1,Shuttle-BroadwayKendallOmitDTX,1,Broadway - Kendall/MIT,,5,610751990,BroadwayKendallOmitDTX-1-sample,1
-Shuttle-BroadwayNorthQuincy-0-0,Shuttle-BroadwayNorthQuincy,0,Broadway - North Quincy (Local),,5,610800990,BroadwayNorthQuincyBraintreeBranch-0-sample,1
-Shuttle-BroadwayNorthQuincy-0-1,Shuttle-BroadwayNorthQuincy,1,North Quincy - Broadway (Local),,5,610801990,BroadwayNorthQuincyBraintreeBranch-1-sample,1
+Shuttle-BroadwayNorthQuincy-0-0,Shuttle-BroadwayNorthQuincy,0,Broadway - North Quincy,,5,610800990,Red-DotAveShuttle-Saturday-B-0-05:53:00,1
+Shuttle-BroadwayNorthQuincy-0-1,Shuttle-BroadwayNorthQuincy,1,North Quincy - Broadway,,5,610801990,Red-DotAveShuttle-Saturday-B-1-05:30:00,1
 Shuttle-BroadwayQuincyCenterExpress-0-0,Shuttle-BroadwayQuincyCenterExpress,0,Broadway - Quincy Center (Express),,5,610900990,BroadwayQuincyCenterExpressExtended-0-sample,1
 Shuttle-BroadwayQuincyCenterExpress-0-1,Shuttle-BroadwayQuincyCenterExpress,1,Quincy Center - Broadway (Express),,5,610901990,BroadwayQuincyCenterExpressExtended-1-sample,1
 Shuttle-BrooklineHillsKenmore-0-0,Shuttle-BrooklineHillsKenmore,0,Kenmore - Brookline Hills,,5,611000990,BrooklineHillsKenmore-0-sample,1
@@ -953,14 +938,10 @@ Shuttle-BrooklineHillsRiverside-0-0,Shuttle-BrooklineHillsRiverside,0,Brookline 
 Shuttle-BrooklineHillsRiverside-0-1,Shuttle-BrooklineHillsRiverside,1,Riverside - Brookline Hills,,5,612501990,BrooklineHillsRiverside-1-sample,1
 Shuttle-BrooklineVillageRiverside-0-0,Shuttle-BrooklineVillageRiverside,0,Brookline Village - Riverside,,5,612750990,BrooklineVillageRiversidePartial-0-sample,1
 Shuttle-BrooklineVillageRiverside-0-1,Shuttle-BrooklineVillageRiverside,1,Riverside - Brookline Village,,5,612751990,BrooklineVillageRiversidePartial-1-sample,1
-Shuttle-BrooklineHillsCopley-0-0,Shuttle-BrooklineHillsCopley,0,Copley - Brookline Hills,,4,612800990,Green-D-Surge-BrooklineHills-Weekday-west-0-05:32:00,0
-Shuttle-BrooklineHillsCopley-0-1,Shuttle-BrooklineHillsCopley,1,Brookline Hills - Copley,,4,612801990,Green-D-Surge-BrooklineHills-Weekday-east-1-05:07:00,0
 Shuttle-ChelseaLynn-0-0,Shuttle-ChelseaLynn,0,Chelsea - Lynn,,5,612900990,ChelseaLynnOmitNorthStation-0-sample,1
 Shuttle-ChelseaLynn-0-1,Shuttle-ChelseaLynn,1,Lynn - Chelsea,,5,612901990,ChelseaLynnOmitNorthStation-1-sample,1
 Shuttle-ClevelandCircleCoolidgeCorner-0-0,Shuttle-ClevelandCircleCoolidgeCorner,0,Coolidge Corner - Cleveland Circle,,5,613000990,ClevelandCircleCoolidgeCorner-0-sample,1
 Shuttle-ClevelandCircleCoolidgeCorner-0-1,Shuttle-ClevelandCircleCoolidgeCorner,1,Cleveland Circle - Coolidge Corner,,5,613001990,ClevelandCircleCoolidgeCorner-1-sample,1
-Shuttle-ClevelandCircleCopley-0-0,Shuttle-ClevelandCircleCopley,0,Copley - Cleveland Circle,,4,613500990,Green-C-ClevelandCircleCopley-Weekday-0-05:45:00,0
-Shuttle-ClevelandCircleCopley-0-1,Shuttle-ClevelandCircleCopley,1,Cleveland Circle - Copley,,4,613501990,Green-C-ClevelandCircleCopley-Weekday-1-05:00:00,0
 Shuttle-ClevelandCircleKenmore-0-0,Shuttle-ClevelandCircleKenmore,0,Kenmore - Cleveland Circle,,5,614000990,ClevelandCircleKenmore-0-sample,1
 Shuttle-ClevelandCircleKenmore-0-1,Shuttle-ClevelandCircleKenmore,1,Cleveland Circle - Kenmore,,5,614001990,ClevelandCircleKenmore-1-sample,1
 Shuttle-ClevelandCircleStMarys-0-0,Shuttle-ClevelandCircleStMarys,0,Saint Mary's Street - Cleveland Circle,,5,614100990,ClevelandCircleSaintMarys-0-sample,1
@@ -989,8 +970,8 @@ Shuttle-ForestHillsJackson-0-0,Shuttle-ForestHillsJackson,0,Jackson Square - For
 Shuttle-ForestHillsJackson-0-1,Shuttle-ForestHillsJackson,1,Forest Hills - Jackson Square,,5,616001990,ForestHillsJacksonSquare-1-sample,1
 Shuttle-ForestHillsNeedhamHeights-0-0,Shuttle-ForestHillsNeedhamHeights,0,Forest Hills - Needham Heights,,5,616500990,ForestHillsNeedhamHeights-0-sample,1
 Shuttle-ForestHillsNeedhamHeights-0-1,Shuttle-ForestHillsNeedhamHeights,1,Needham Heights - Forest Hills,,5,616501990,ForestHillsNeedhamHeights-1-sample,1
-Shuttle-ForestHillsRuggles-0-0,Shuttle-ForestHillsRuggles,0,Ruggles - Forest Hills,,5,617000990,Orange-ForestHills-Ruggles-Saturday-0-05:15:00,1
-Shuttle-ForestHillsRuggles-0-1,Shuttle-ForestHillsRuggles,1,Forest Hills - Ruggles,,5,617001990,Orange-ForestHills-Ruggles-Saturday-1-05:15:00,1
+Shuttle-ForestHillsRuggles-0-0,Shuttle-ForestHillsRuggles,0,Ruggles - Forest Hills,,5,617000990,ForestHillsRuggles-0-sample,1
+Shuttle-ForestHillsRuggles-0-1,Shuttle-ForestHillsRuggles,1,Forest Hills - Ruggles,,5,617001990,ForestHillsRuggles-1-sample,1
 Shuttle-ForgeParkNorwoodCentral-0-0,Shuttle-ForgeParkNorwoodCentral,0,Norwood Central - Forge Park/495,,5,617400990,ForgeParkNorwoodCentral-0-sample,1
 Shuttle-ForgeParkNorwoodCentral-0-1,Shuttle-ForgeParkNorwoodCentral,1,Forge Park/495 - Norwood Central,,5,617401990,ForgeParkNorwoodCentral-1-sample,1
 Shuttle-ForgeParkReadville-0-0,Shuttle-ForgeParkReadville,0,Readville - Forge Park/495,,5,617500990,ForgeParkReadville-0-sample,1
