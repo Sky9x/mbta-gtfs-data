@@ -50,11 +50,11 @@ Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,100401000,canonical-Blue-C1-1,1
 CR-Fairmount-195ea3c8-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,200010000,canonical-CR-Fairmount-C1-0,1
 CR-Fairmount-ff9cd1ee-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,200011000,canonical-CR-Fairmount-C1-1,1
 CR-Fitchburg-2a5f6366-0,CR-Fitchburg,0,North Station - Wachusett,,1,200020000,canonical-CR-Fitchburg-C1-0,1
-CR-Fitchburg-8294748d-0,CR-Fitchburg,0,North Station - Wachusett,,2,200020020,CR-627743-423,2
-CR-Fitchburg-acb28c6e-0,CR-Fitchburg,0,North Station - Littleton/Route 495,,2,200020030,CR-627755-481,2
+CR-Fitchburg-8294748d-0,CR-Fitchburg,0,North Station - Wachusett,,2,200020020,WedSki651587-423,2
+CR-Fitchburg-acb28c6e-0,CR-Fitchburg,0,North Station - Littleton/Route 495,,2,200020030,WedSki651599-481,2
 CR-Fitchburg-d82ea33a-1,CR-Fitchburg,1,Wachusett - North Station,,1,200021000,canonical-CR-Fitchburg-C1-1,1
-CR-Fitchburg-94972bc9-1,CR-Fitchburg,1,Wachusett - North Station,,2,200021020,CR-627730-404,2
-CR-Fitchburg-6528076d-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,200021030,CR-627756-482,2
+CR-Fitchburg-94972bc9-1,CR-Fitchburg,1,Wachusett - North Station,,2,200021020,WedSki651574-404,2
+CR-Fitchburg-6528076d-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,200021030,WedSki651600-482,2
 CR-Worcester-b5dda27b-0,CR-Worcester,0,South Station - Worcester,,2,200030020,canonical-CR-Worcester-C1-0,1
 CR-Worcester-b7d67732-0,CR-Worcester,0,South Station - Framingham,,2,200030030,CR-627987-597-1,2
 CR-Worcester-d18892dd-0,CR-Worcester,0,South Station - Framingham,,2,200030040,CR-627988-595-1,2
@@ -109,7 +109,9 @@ CR-Franklin-7c3247fa-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay
 CR-Franklin-C1-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,5,200041991,canonical-CR-Franklin-C1-1,1
 CR-Franklin-C2-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,5,200041992,canonical-CR-Franklin-C2-1,1
 CR-Greenbush-6d652c57-0,CR-Greenbush,0,South Station - Greenbush,,1,200050000,canonical-CR-Greenbush-C1-0,1
+CR-Greenbush-BraintreeGreenbush-0,CR-Greenbush,0,Braintree - Greenbush,,4,200050990,OCEA656299-093-19:30-GRBBrainSouthDynamic-12,2
 CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,200051000,canonical-CR-Greenbush-C1-1,1
+CR-Greenbush-BraintreeGreenbush-1,CR-Greenbush,1,Greenbush - Braintree,,4,200051990,OCEA656300-094-19:30-GRBBrainSouthDynamic-10,2
 CR-Haverhill-779dede9-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,200060000,canonical-CR-Haverhill-C1-0,1
 CR-Haverhill-fc94d3b2-0,CR-Haverhill,0,North Station - Haverhill via Anderson/Woburn,,2,200060020,RDGFX655448-1201-HaverWoburnReadingDyn,2
 CR-Haverhill-5b586e27-0,CR-Haverhill,0,North Station - Haverhill,,2,200060030,CR-627655-217,2
@@ -128,7 +130,9 @@ CR-Lowell-C1-0,CR-Lowell,0,North Station - Lowell,,5,200080991,canonical-CR-Lowe
 CR-Lowell-5cb1ce1b-1,CR-Lowell,1,Lowell - North Station,,1,200081000,CR-627682-300,2
 CR-Lowell-C1-1,CR-Lowell,1,Lowell - North Station,,5,200081991,canonical-CR-Lowell-C1-1,1
 CR-Middleborough-52b80476-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,200090000,canonical-CR-Middleborough-C1-0,1
+CR-Middleborough-92c25d3b-0,CR-Middleborough,0,Braintree - Middleborough/Lakeville,,2,200090010,OCEA656292-027-19:30-MDLBrainSouthDynamic2,2
 CR-Middleborough-75bed2bb-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,200091000,canonical-CR-Middleborough-C1-1,1
+CR-Middleborough-bb403e6b-1,CR-Middleborough,1,Middleborough/Lakeville - Braintree,,2,200091010,OCEA656295-028-19:30-MDLBrainSouthDynamic0,2
 CR-Needham-a6552e0a-0,CR-Needham,0,South Station - Needham Heights,,1,200100000,AMTKSchCh651179-611,2
 CR-Needham-7f6dbefb-0,CR-Needham,0,Forest Hills - Needham Heights,,2,200100010,AMTKSchCh651156-635,2
 CR-Needham-69669b59-0,CR-Needham,0,South Station - Needham Heights,,2,200100020,AMTKSchCh651159-631,2
@@ -882,8 +886,8 @@ Shuttle-BeverlyNewburyportExpress-0-0,Shuttle-BeverlyNewburyportExpress,0,Beverl
 Shuttle-BeverlyNewburyportExpress-0-1,Shuttle-BeverlyNewburyportExpress,1,Newburyport - Beverly (Express),,5,606901990,NewburyportBeverlyExpressExtended-1-sample,1
 Shuttle-BeverlyNewburyportLocal-0-0,Shuttle-BeverlyNewburyportLocal,0,Beverly - Newburyport (Local),,5,606910990,NewburyportBeverlyLocalExtended-0-sample,1
 Shuttle-BeverlyNewburyportLocal-0-1,Shuttle-BeverlyNewburyportLocal,1,Newburyport - Beverly (Local),,5,606911990,NewburyportBeverlyLocalExtended-1-sample,1
-Shuttle-BeverlyNorthStationLocal-0-0,Shuttle-BeverlyNorthStationLocal,0,Beverly - North Station,,5,606930990,CR-BeverlyNorthStationShuttleMarch-Saturday-0-23:50:00,1
-Shuttle-BeverlyNorthStationLocal-0-1,Shuttle-BeverlyNorthStationLocal,1,Beverly - North Station,,5,606931990,BeverlyNorthStationLocalExtended-1-sample,1
+Shuttle-BeverlyNorthStationLocal-0-0,Shuttle-BeverlyNorthStationLocal,0,Beverly - North Station,,5,606930990,CR-NewburyportNorthStationShuttle-Shuttle-BeverlyNorthStationLocalSaturday-Bv-0-05:50:00,1
+Shuttle-BeverlyNorthStationLocal-0-1,Shuttle-BeverlyNorthStationLocal,1,North Station - Beverly,,5,606931990,CR-NewburyportNorthStationShuttle-Shuttle-BeverlyNorthStationLocalSaturday-Bv-1-05:10:00,1
 Shuttle-BeverlyRockportExpress-0-0,Shuttle-BeverlyRockportExpress,0,Beverly - Rockport (Express),,5,607000990,BeverlyRockportExpress-0-sample,1
 Shuttle-BeverlyRockportExpress-0-1,Shuttle-BeverlyRockportExpress,1,Rockport - Beverly (Express),,5,607001990,BeverlyRockportExpress-1-sample,1
 Shuttle-BeverlyRockportLocal-0-0,Shuttle-BeverlyRockportLocal,0,Beverly - Rockport (Local),,5,607050990,BeverlyRockport-0-sample,1
@@ -908,8 +912,8 @@ Shuttle-BraintreeNorthQuincy-0-0,Shuttle-BraintreeNorthQuincy,0,North Quincy - B
 Shuttle-BraintreeNorthQuincy-0-1,Shuttle-BraintreeNorthQuincy,1,Braintree - North Quincy,,5,609501990,BraintreeNorthQuincy-1-sample,1
 Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,5,610000990,BraintreeQuincyCenter-0-sample,1
 Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,5,610001990,BraintreeQuincyCenter-1-sample,1
-Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,South Station - Braintree (Express),,5,610100990,GreenbushBraintreeSouthStationExtended-0-sample,1
-Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,5,610101990,GreenbushBraintreeSouthStationExtended-1-sample,1
+Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,South Station - Braintree (Express),,5,610100990,OCEA656292-027-19:30-MDLBrainSouthDynamicB1,1
+Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,5,610101990,OCEA656295-028-19:30-MDLBrainSouthDynamicB1,1
 Shuttle-BraintreeSouthWeymouth-0-0,Shuttle-BraintreeSouthWeymouth,0,Braintree - South Weymouth,,5,610250990,BraintreeSouthWeymouth-0-sample,1
 Shuttle-BraintreeSouthWeymouth-0-1,Shuttle-BraintreeSouthWeymouth,1,South Weymouth - Braintree,,5,610251990,BraintreeSouthWeymouth-1-sample,1
 Shuttle-BridgewaterMiddleboroughLakeville-0-0,Shuttle-BridgewaterMiddleboroughLakeville,0,Bridgewater - Middleborough/Lakeville,,5,610300990,BridgewaterMiddleboroughLakeville-0-sample,1
@@ -1056,6 +1060,8 @@ Shuttle-NewburyportSalemExpress-0-0,Shuttle-NewburyportSalemExpress,0,Salem - Ne
 Shuttle-NewburyportSalemExpress-0-1,Shuttle-NewburyportSalemExpress,1,Newburyport - Salem (Express),,5,620751990,NewburyportSalemExpressBeverly-1-sample,1
 Shuttle-NewburyportSalemLocal-0-0,Shuttle-NewburyportSalemLocal,0,Salem - Newburyport,,5,620760990,NewburyportSalem-0-sample,1
 Shuttle-NewburyportSalemLocal-0-1,Shuttle-NewburyportSalemLocal,1,Newburyport - Salem,,5,620761990,NewburyportSalem-1-sample,1
+Shuttle-NewburyportNorthStationLimited-0-0,Shuttle-NewburyportNorthStationLimited,0,Newburyport - North Station,,4,620770990,CR-NewburyportNorthStationShuttle-Shuttle-NewburyportNorthStationLimitedSaturday-Bv-0-06:00:00,0
+Shuttle-NewburyportNorthStationLimited-0-1,Shuttle-NewburyportNorthStationLimited,1,North Station - Newburyport,,4,620771990,CR-NewburyportNorthStationShuttle-Shuttle-NewburyportNorthStationLimitedSaturday-Bv-1-05:00:00,0
 Shuttle-NewtonHighlandsKenmore-0-0,Shuttle-NewtonHighlandsKenmore,0,Kenmore - Newton Highlands,,5,620900990,NewtonHighlandsKenmoreExtended-0-sample,1
 Shuttle-NewtonHighlandsKenmore-0-1,Shuttle-NewtonHighlandsKenmore,1,Newton Highlands - Kenmore,,5,620901990,NewtonHighlandsKenmoreExtended-1-sample,1
 Shuttle-NewtonHighlandsReservoir-0-0,Shuttle-NewtonHighlandsReservoir,0,Reservoir - Newton Highlands,,5,620950990,NewtonHighlandsReservoir-0-sample,1
@@ -1106,6 +1112,8 @@ Shuttle-RockportSalemLocal-0-0,Shuttle-RockportSalemLocal,0,Salem - Rockport (Lo
 Shuttle-RockportSalemLocal-0-1,Shuttle-RockportSalemLocal,1,Rockport - Salem (Local),,5,624061990,RockportSalemForBeverly-1-sample,1
 Shuttle-RockportWestGloucester-0-0,Shuttle-RockportWestGloucester,0,West Gloucester - Rockport,,5,624100990,RockportWestGloucester-0-sample,1
 Shuttle-RockportWestGloucester-0-1,Shuttle-RockportWestGloucester,1,Rockport - West Gloucester,,5,624101990,RockportWestGloucester-1-sample,1
+Shuttle-RockportNorthStationLimited-0-0,Shuttle-RockportNorthStationLimited,0,Rockport - North Station,,4,624110990,CR-NewburyportNorthStationShuttle-Shuttle-RockportNorthStationLimitedSaturday-Bv-0-06:20:00,0
+Shuttle-RockportNorthStationLimited-0-1,Shuttle-RockportNorthStationLimited,1,North Station - Rockport,,4,624111990,CR-NewburyportNorthStationShuttle-Shuttle-RockportNorthStationLimitedSaturday-Bv-1-05:00:00,0
 Shuttle-ShirleyWachusett-0-0,Shuttle-ShirleyWachusett,0,Shirley - Wachusett,,5,624600990,ShirleyWachusett-0-sample,1
 Shuttle-ShirleyWachusett-0-1,Shuttle-ShirleyWachusett,1,Wachusett - Shirley,,5,624601990,ShirleyWachusett-1-sample,1
 Shuttle-SouthStationSouthWeymouth-0-0,Shuttle-SouthStationSouthWeymouth,0,South Station - South Weymouth,,5,624750990,SouthStationSouthWeymouth-0-sample,1
