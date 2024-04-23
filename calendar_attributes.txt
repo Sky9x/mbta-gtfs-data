@@ -1,20 +1,13 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-BUS22024-hba24011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
-BUS22024-hbb24011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
-BUS22024-hbb24pt6-Saturday-02,Holiday (Saturday schedule),Holiday,Saturday,3,20240407,20240615,Spring
-BUS22024-hbc24011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
-BUS22024-hbc24pt6-Saturday-02,Holiday (Saturday schedule),Holiday,Saturday,3,20240407,20240615,Spring
-BUS22024-hbf24011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
-BUS22024-hbg24pt6-Saturday-02,Holiday (Saturday schedule),Holiday,Saturday,3,20240407,20240615,Spring
-BUS22024-hbh24011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
-BUS22024-hbl24011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
-BUS22024-hbl24hl6-Saturday-02,Holiday (Saturday schedule),Holiday,Saturday,3,20240407,20240615,Spring
-BUS22024-hbq24011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
-BUS22024-hbq24hl6-Saturday-02,Holiday (Saturday schedule),Holiday,Saturday,3,20240407,20240615,Spring
-BUS22024-hbs24011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
-BUS22024-hbs24tp6-Saturday-02,Holiday (Saturday schedule),Holiday,Saturday,3,20240407,20240615,Spring
-BUS22024-hbt24011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
-BUS22024-hbt24pt6-Saturday-02,Holiday (Saturday schedule),Holiday,Saturday,3,20240407,20240615,Spring
+BUS22024-hba24ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20240407,20240615,Spring
+BUS22024-hbb24ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20240407,20240615,Spring
+BUS22024-hbc24ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20240407,20240615,Spring
+BUS22024-hbf24ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20240407,20240615,Spring
+BUS22024-hbh24ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20240407,20240615,Spring
+BUS22024-hbl24ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20240407,20240615,Spring
+BUS22024-hbq24ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20240407,20240615,Spring
+BUS22024-hbs24ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20240407,20240615,Spring
+BUS22024-hbt24ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20240407,20240615,Spring
 Blue-AirportWonderland-Saturday,Saturday schedule (Track Improvement),Saturday (Track Improvement),Saturday,4,20240407,20240615,Spring
 Blue-AirportWonderland-Sunday,Sunday schedule (Track Improvement),Sunday (Track Improvement),Sunday,4,20240407,20240615,Spring
 Blue-AirportWonderland-Weekday,Weekday schedule (Track Improvement),Weekday (Track Improvement),Weekday,4,20240407,20240615,Spring
@@ -63,10 +56,17 @@ FALL 2023-NORTHWKD-Weekday-12-S9d378dcf,Weekday schedule (modified service),Week
 FALL 2023-NORTHWKD-Weekday-23-S7d8482ee,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,,Fall/Winter
 FALL 2023-NORTHWKD-Weekday-26-S6561ad1d,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,,Fall/Winter
 FALL 2023-NORTHWKD-Weekday-26-S9d378dcf,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,,Fall/Winter
+FALL 2023-S-Sa-1-S859962ef-BrgMdlSsd,Saturday schedule,Saturday,Saturday,4,20231002,,Fall/Winter
+FALL 2023-S-Su-1-S859962ef-BrgMdlSsd,Sunday schedule,Sunday,Sunday,4,20231002,,Fall/Winter
+FALL 2023-S-Wdy-1-S859962ef-BrgMdlSsd,Weekday schedule,Weekday,Weekday,4,20231002,,Fall/Winter
 FALL 2023-SOUTHSAT-Saturday-1,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
 FALL 2023-SOUTHSAT-Saturday-1-S85407dc6,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSAT-Saturday-1-S859962ef,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSAT-Saturday-1-Sb7371956,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSAT-Saturday-1-Sc9a3b080,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
 FALL 2023-SOUTHSAT-Saturday-1-Scbbf1ea5,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
 FALL 2023-SOUTHSAT-Saturday-2-Sb0e4ed14,Saturday schedule (reduced service),Saturday (reduced service),Saturday,5,20231002,,Fall/Winter
+FALL 2023-SOUTHSAT-Saturday-73,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,,Fall/Winter
 FALL 2023-SOUTHSUN-Sunday-1,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
 FALL 2023-SOUTHSUN-Sunday-1-S85407dc6,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
 FALL 2023-SOUTHSUN-Sunday-1-S859962ef,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
@@ -83,26 +83,16 @@ FALL 2023-SOUTHWKD-Weekday-14-Scbbf1ea5,Weekday schedule (modified service),Week
 FALL 2023-SOUTHWKD-Weekday-2-Sb0e4ed14,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20231002,,Fall/Winter
 FLL 2023-N-Sa-19-S9d378dcf-NrhSwtExdDnc,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,,Fall/Winter
 FLL 2023-N-Su-19-S9d378dcf-NrhSwtExdDnc,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
-FLL 2023-S-Sa-20-S859962ef-MDLBrnSthDnc,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,,Fall/Winter
-FLL 2023-S-Sa-20-Sb7371956-GRBBrnSthDnc,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,,Fall/Winter
-FLL 2023-S-Sa-20-Sc9a3b080-KNGBrnSthDnc,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,,Fall/Winter
-FLL 2023-S-Su-20-S859962ef-MDLBrnSthDnc,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
-FLL 2023-S-Su-20-Sb7371956-GRBBrnSthDnc,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
-FLL 2023-S-Su-20-Sc9a3b080-KNGBrnSthDnc,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
-Fall/WinterSaturday,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+Fall/WinterSaturday,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,,Fall/Winter
 Fall/WinterSunday,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
 LRV22024-hlb24011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
 LRV22024-hlm24011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
-LRV224-hlb24011-Wdy-01-e9be7263,Weekday schedule,Weekday,Weekday,4,20240407,20240615,Spring
 MemorialDay,Holiday (Sunday schedule),Holiday,Sunday,3,20240407,20240615,Spring
 Orange-ForestHills-Ruggles-SpgStd,Saturday schedule (Signals maintenance),Saturday (Signals maintenance),Saturday,4,20240407,20240615,Sping
 Orange-ForestHills-Ruggles-SpringSunday,Sunday schedule (Signals maintenance),Sunday (Signals maintenance),Sunday,4,20240407,20240615,Sping
 PRIV22024-hpa24011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
 PRIV22024-hpj24011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
-PRIV22024-hpj24hl6-Saturday-01,Holiday (Saturday schedule),Holiday,Saturday,3,20240407,20240615,Spring
-PRIV22024-hpp24011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
-PRIV22024-hpp24hl6-Saturday-01,Holiday (Saturday schedule),Holiday,Saturday,3,20240407,20240615,Spring
-PatriotsDay,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,,Fall/Winter
+PRIV22024-hpp24ns1-Weekday-01,Weekday schedule (no school),Weekday (no school),Weekday,1,20240407,20240615,Spring
 RTL12024-hmo14fr6-Saturday-01,Saturday schedule,Saturday,Saturday,1,20231217,20240406,Winter
 RTL12024-hmo14fr7-Sunday-01,Sunday schedule,Sunday,Sunday,1,20231217,20240406,Winter
 RTL22024-hmb24011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
@@ -116,7 +106,18 @@ RTL22024-hmo24011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20240407,2024061
 RTL22024-hmo24016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20240407,20240615,Spring
 RTL22024-hmo24017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20240407,20240615,Spring
 RTL22024-hms24011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
+RTL22024-hms24016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20240407,20240615,Spring
+RTL22024-hms24017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20240407,20240615,Spring
+RTL22024-hms24pj1-Weekday-01,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20240407,20240615,Spring
+RTL22024-hms24pj6-Saturday-01,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20240407,20240615,Spring
+RTL22024-hms24pj7-Sunday-01,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20240407,20240615,Spring
+Red-AshmontParkStreetViaPostOffice-Snd,Sunday schedule (Track Improvement),Sunday (Track Improvement),Sunday,4,20240407,20240615,Spring
+Red-AshmontParkStreetViaPostOffice-Std,Saturday schedule (Track Improvement),Saturday (Track Improvement),Saturday,4,20240407,20240615,Spring
+Red-AshmontParkStreetViaPostOffice-Wkd,Weekday schedule (Track Improvement),Weekday (Track Improvement),Weekday,4,20240407,20240615,Spring
+Red-JFKParkStreetViaPostOffice-Saturday,Saturday schedule (Track Improvement),Saturday (Track Improvement),Saturday,4,20240407,20240615,Spring
+Red-JFKParkStreetViaPostOffice-Sunday,Sunday schedule (Track Improvement),Sunday (Track Improvement),Sunday,4,20240407,20240615,Spring
+Red-JFKParkStreetViaPostOffice-Weekday,Weekday schedule (Track Improvement),Weekday (Track Improvement),Weekday,4,20240407,20240615,Spring
 SpringSaturday,Saturday schedule,Saturday,Saturday,1,20240407,20240615,Spring
 SpringSunday,Sunday schedule,Sunday,Sunday,1,20240407,20240615,Spring
-SpringWeekday,Weekday schedule (no school),Weekday (no school),Weekday,1,20240407,20240615,Spring
+SpringWeekday,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
 canonical,Canonical reference trips only,Canonical reference trips,Other,6,20220313,,Reference
