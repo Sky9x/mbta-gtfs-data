@@ -168,8 +168,8 @@ CR-Needham-a01e12e1-1,CR-Needham,1,Needham Heights - South Station,,2,200101020,
 CR-Needham-C1-1,CR-Needham,1,Needham Heights - South Station,,5,200101991,canonical-CR-Needham-C1-1,1
 CR-Newburyport-79533330-0,CR-Newburyport,0,North Station - Newburyport,,2,200110040,CR-649275-165,2
 CR-Newburyport-e54dc640-0,CR-Newburyport,0,North Station - Rockport,,2,200110050,CR-649284-123,2
-CR-Newburyport-a0d8ce0a-0,CR-Newburyport,0,Swampscott - Rockport,,2,200110060,RDGFX655062-1101-NorthSwampscottExtendDynamic,2
-CR-Newburyport-4cd19bbe-0,CR-Newburyport,0,Swampscott - Newburyport,,2,200110070,RDGFX655066-1153-NorthSwampscottExtendDynamic,2
+CR-Newburyport-a0d8ce0a-0,CR-Newburyport,0,Swampscott - Rockport,,2,200110060,RDGFX655062-1101,2
+CR-Newburyport-4cd19bbe-0,CR-Newburyport,0,Swampscott - Newburyport,,2,200110070,RDGFX655066-1153,2
 CR-Newburyport-8ac7b3db-0,CR-Newburyport,0,Salem - Newburyport,,2,200110110,CR-649306-167,2
 CR-Newburyport-dd9f791d-0,CR-Newburyport,0,North Station - Rockport,,2,200110130,CR-649341-103,2
 CR-Newburyport-8a970322-0,CR-Newburyport,0,North Station - Newburyport,,1,200110160,canonical-CR-Newburyport-C1-0,1
@@ -177,8 +177,8 @@ CR-Newburyport-9b0217f4-0,CR-Newburyport,0,North Station - Beverly,,2,200110170,
 CR-Newburyport-5967b204-0,CR-Newburyport,0,North Station - Rockport,,1,200110180,canonical-CR-Newburyport-C2-0,1
 CR-Newburyport-d47c5647-1,CR-Newburyport,1,Rockport - North Station,,2,200111040,CR-649271-106,2
 CR-Newburyport-7e4857df-1,CR-Newburyport,1,Newburyport - North Station,,2,200111050,CR-649277-154,2
-CR-Newburyport-cd974977-1,CR-Newburyport,1,Rockport - Swampscott,,2,200111060,RDGFX655060-1100-NorthSwampscottExtendDynamic,2
-CR-Newburyport-cfe96e9f-1,CR-Newburyport,1,Newburyport - Swampscott,,2,200111070,RDGFX655064-1150-NorthSwampscottExtendDynamic,2
+CR-Newburyport-cd974977-1,CR-Newburyport,1,Rockport - Swampscott,,2,200111060,RDGFX655060-1100,2
+CR-Newburyport-cfe96e9f-1,CR-Newburyport,1,Newburyport - Swampscott,,2,200111070,RDGFX655064-1150,2
 CR-Newburyport-f5cebd1b-1,CR-Newburyport,1,Beverly - North Station,,2,200111140,CR-649255-198,2
 CR-Newburyport-e6060026-1,CR-Newburyport,1,Newburyport - North Station,,1,200111150,canonical-CR-Newburyport-C1-1,1
 CR-Newburyport-05eb9eab-1,CR-Newburyport,1,Rockport - North Station,,1,200111160,canonical-CR-Newburyport-C2-1,1
@@ -948,8 +948,9 @@ Shuttle-BeverlyNewburyportExpress-0-0,Shuttle-BeverlyNewburyportExpress,0,Beverl
 Shuttle-BeverlyNewburyportExpress-0-1,Shuttle-BeverlyNewburyportExpress,1,Newburyport - Beverly (Express),,5,606901990,NewburyportBeverlyExpressExtended-1-sample,1
 Shuttle-BeverlyNewburyportLocal-0-0,Shuttle-BeverlyNewburyportLocal,0,Beverly - Newburyport (Local),,5,606910990,NewburyportBeverlyLocalExtended-0-sample,1
 Shuttle-BeverlyNewburyportLocal-0-1,Shuttle-BeverlyNewburyportLocal,1,Newburyport - Beverly (Local),,5,606911990,NewburyportBeverlyLocalExtended-1-sample,1
-Shuttle-BeverlyNorthStationLocal-0-0,Shuttle-BeverlyNorthStationLocal,0,Beverly - North Station,,5,606930990,CR-BeverlyNorthStationShuttleMay-Saturday-0-23:50:00,1
-Shuttle-BeverlyNorthStationLocal-0-1,Shuttle-BeverlyNorthStationLocal,1,Beverly - North Station,,5,606931990,BeverlyNorthStationLocalExtended-1-sample,1
+Shuttle-BeverlyNorthStationLimited-0-0,Shuttle-BeverlyNorthStationLimited,0,North Station - Beverly,,5,606930990,BeverlyNorthStationLocalExtended-0-sample,1
+Shuttle-BeverlyNorthStationLimited-0-1,Shuttle-BeverlyNorthStationLimited,1,Beverly - North Station,,5,606931990,BeverlyNorthStationLocalExtended-1-sample,1
+Shuttle-BeverlyNorthStationLocal-0-0,Shuttle-BeverlyNorthStationLocal,0,Beverly - North Station,,4,606940990,CR-NewburyportBeverlyShuttle-Shuttle-BeverlyNorthStationLocalSaturday-Bv-0-24:00:00,0
 Shuttle-BeverlyRockportExpress-0-0,Shuttle-BeverlyRockportExpress,0,Beverly - Rockport (Express),,5,607000990,BeverlyRockportExpress-0-sample,1
 Shuttle-BeverlyRockportExpress-0-1,Shuttle-BeverlyRockportExpress,1,Rockport - Beverly (Express),,5,607001990,BeverlyRockportExpress-1-sample,1
 Shuttle-BeverlyRockportLocal-0-0,Shuttle-BeverlyRockportLocal,0,Beverly - Rockport (Local),,5,607050990,BeverlyRockport-0-sample,1
@@ -1142,10 +1143,14 @@ Shuttle-NorthStationMaldenOakGrove-0-0,Shuttle-NorthStationMaldenOakGrove,0,Nort
 Shuttle-NorthStationMaldenOakGrove-0-1,Shuttle-NorthStationMaldenOakGrove,1,Oak Grove - North Station,,4,621261990,CR-NStaMaldenOakGroveSpring-Saturday-1-07:38:00,0
 Shuttle-NorthStationReading-0-0,Shuttle-NorthStationReading,0,North Station - Reading,,4,621270990,CR-NorthStationReadingSpring-Saturday-0-05:25:00,0
 Shuttle-NorthStationReading-0-1,Shuttle-NorthStationReading,1,Reading - North Station,,4,621271990,CR-NorthStationReadingSpring-Saturday-1-05:00:00,0
-Shuttle-NorthStationSwampscott-0-0,Shuttle-NorthStationSwampscott,0,Beverly - North Station,,5,621280990,RDGFX655062-1101-NorthSwampscottExtendDynamicB1,1
-Shuttle-NorthStationSwampscott-0-1,Shuttle-NorthStationSwampscott,1,North Station - Beverly,,5,621281990,RDGFX655060-1100-NorthSwampscottExtendDynamicB1,1
-Shuttle-NorthStationUnionSquare-0-0,Shuttle-NorthStationUnionSquare,0,Union Square - North Station,,5,621300990,GreenDUnionSquareNorthStation-0-sample,1
-Shuttle-NorthStationUnionSquare-0-1,Shuttle-NorthStationUnionSquare,1,North Station - Union Square,,5,621301990,GreenDUnionSquareNorthStation-1-sample,1
+Shuttle-NorthStationSwampscottLimited-0-0,Shuttle-NorthStationSwampscottLimited,0,North Station - Swampscott,,5,621280990,NorthStationSwampscott-0-sample,1
+Shuttle-NorthStationSwampscottLimited-0-1,Shuttle-NorthStationSwampscottLimited,1,Swampscott - North Station,,5,621281990,NorthStationSwampscott-1-sample,1
+Shuttle-NorthStationSwampscottLocal-0-0,Shuttle-NorthStationSwampscottLocal,0,Swampscott - North Station,,4,621290990,CR-NewburyportSwampscottShuttle-Shuttle-NorthStationSwampscottLocalSaturday-Bv-0-05:53:00,0
+Shuttle-NorthStationSwampscottLocal-0-1,Shuttle-NorthStationSwampscottLocal,1,North Station - Swampscott,,4,621291990,CR-NewburyportSwampscottShuttle-Shuttle-NorthStationSwampscottLocalSaturday-Bv-1-05:43:00,0
+Shuttle-NorthStationSwampscottExpress-0-0,Shuttle-NorthStationSwampscottExpress,0,Swampscott - North Station,,4,621300990,CR-NewburyportSwampscottShuttle-Shuttle-NorthStationSwampscottExpressSaturday-Bv-0-06:03:00,0
+Shuttle-NorthStationSwampscottExpress-0-1,Shuttle-NorthStationSwampscottExpress,1,North Station - Swampscott,,4,621301990,CR-NewburyportSwampscottShuttle-Shuttle-NorthStationSwampscottExpressSaturday-Bv-1-05:43:00,0
+Shuttle-NorthStationUnionSquare-0-0,Shuttle-NorthStationUnionSquare,0,Union Square - North Station,,5,621350990,GreenDUnionSquareNorthStation-0-sample,1
+Shuttle-NorthStationUnionSquare-0-1,Shuttle-NorthStationUnionSquare,1,North Station - Union Square,,5,621351990,GreenDUnionSquareNorthStation-1-sample,1
 Shuttle-NorthStationWellington-0-0,Shuttle-NorthStationWellington,0,Wellington - North Station,,5,621400990,NorthStationWellington-0-sample,1
 Shuttle-NorthStationWellington-0-1,Shuttle-NorthStationWellington,1,North Station - Wellington,,5,621401990,NorthStationWellington-1-sample,1
 Shuttle-NorthStationOakGrove-0-0,Shuttle-NorthStationOakGrove,0,NorthStation - OakGrove,,5,621500990,Orange-NorthStationOakGrove-Weekday-0-20:30:00,1
