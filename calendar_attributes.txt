@@ -1,67 +1,21 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-Boat-EastBoston-Saturday-Summer-24,Saturday schedule,Saturday,Saturday,1,20240525,,Summer
 Boat-EastBoston-Sunday-Summer-24,Sunday schedule,Sunday,Sunday,1,20240525,,Summer
 Boat-F1-Sunday-Summer-24,Sunday schedule,Sunday,Sunday,1,20240525,,Summer
 Boat-F1-Weekday-Fall-23,Weekday schedule,Weekday,Weekday,1,20231010,20240524,Fall
 Boat-F1-Weekday-Summer-24,Weekday schedule,Weekday,Weekday,1,20240525,,Summer
-Boat-F4-Saturday-Fall-23,Saturday schedule,Saturday,Saturday,1,20231010,20240524,Fall
-Boat-F4-Sunday-Fall-23,Sunday schedule,Sunday,Sunday,1,20231010,20240524,Fall
 Boat-F4-Sunday-Summer-24,Sunday schedule,Sunday,Sunday,1,20240525,,Summer
 Boat-F4-Weekday-Fall-23,Weekday schedule,Weekday,Weekday,1,20231010,20240524,Fall
 Boat-F4-Weekday-Summer-24,Weekday schedule,Weekday,Weekday,1,20240525,,Summer
 Boat-Lynn-Sunday-Summer-24,Sunday schedule,Sunday,Sunday,1,20240525,,Summer
-BridgewaterMiddleborough-Saturday,Saturday schedule (Track maintenance),Saturday (Track maintenance),Saturday,4,20240407,20240615,Spring
 CR-FHNwtnHghldsShuttle-SpringSaturday,Saturday schedule (Maintenance),Saturday (Maintenance),Saturday,4,20240407,20240615,Spring
 CR-FHNwtnHghldsShuttle-SpringSunday,Sunday schedule (Maintenance),Sunday (Maintenance),Sunday,4,20240407,20240615,Spring
-CR-Haverhill-NStaMaldenOakGrSpring-Snd,Sunday schedule,Sunday,Sunday,4,20240407,20240615,Spring
-CR-Haverhill-NStaMaldenOakGrSpring-Std,Saturday schedule,Saturday,Saturday,4,20240407,20240615,Spring
-CR-Haverhill-NorthStationReadingSpr-Snd,Sunday schedule,Sunday,Sunday,4,20240407,20240615,Spring
-CR-Haverhill-NorthStationReadingSpr-Std,Saturday schedule,Saturday,Saturday,4,20240407,20240615,Spring
-CR-Haverhill-ReadingWoburnWinter-Std,Saturday schedule,Saturday,Saturday,4,20240407,20240615,Spring
-CR-Haverhill-ReadingWoburnWinter-Sunday,Sunday schedule,Sunday,Sunday,4,20240407,20240615,Spring
-CR-NewburyportBeverlyShuttle-Saturday,Saturday schedule (Bridge replacement work),Saturday (Bridge replacement work),Saturday,4,20231002,20240519,Fall/Winter
-CR-NewburyportBeverlyShuttle-Sunday,Sunday schedule (Bridge replacement work),Sunday (Bridge replacement work),Sunday,4,20231002,20240519,Fall/Winter
-CR-NewburyportSwampscottShuttle-Std,Saturday schedule (Bridge replacement work),Saturday (Bridge replacement work),Saturday,4,20231002,20240519,Fall/Winter
-CR-NewburyportSwampscottShuttle-Sunday,Sunday schedule (Bridge replacement work),Sunday (Bridge replacement work),Sunday,4,20231002,20240519,Fall/Winter
-FALL 2023-N-Sa-19-S6561ad1d-HvrWbnRdgDn,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,20240519,Fall/Winter
-FALL 2023-N-Su-19-S6561ad1d-HvrWbnRdgDn,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,20240519,Fall/Winter
-FALL 2023-NORTHSAT-Saturday-1,Saturday schedule,Saturday,Saturday,1,20231002,20240519,Fall/Winter
-FALL 2023-NORTHSAT-Saturday-1-S7d8482ee,Saturday schedule,Saturday,Saturday,1,20231002,20240519,Fall/Winter
-FALL 2023-NORTHSAT-Saturday-19-S9f,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,20240519,Fall/Winter
-FALL 2023-NORTHSUN-Sunday-1,Sunday schedule,Sunday,Sunday,1,20231002,20240519,Fall/Winter
-FALL 2023-NORTHSUN-Sunday-1-S7d8482ee,Sunday schedule,Sunday,Sunday,1,20231002,20240519,Fall/Winter
-FALL 2023-NORTHSUN-Sunday-19-S9d378dcf,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,20240519,Fall/Winter
-FALL 2023-NORTHWKD-Weekday-1,Weekday schedule,Weekday,Weekday,1,20231002,20240519,Fall/Winter
-FALL 2023-NORTHWKD-Weekday-1-S6561ad1d,Weekday schedule,Weekday,Weekday,1,20231002,20240519,Fall/Winter
-FALL 2023-NORTHWKD-Weekday-12-S9d378dcf,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,20240519,Fall/Winter
-FALL 2023-NORTHWKD-Weekday-23-S7d8482ee,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHSAT-Saturday-1,Saturday schedule,Saturday,Saturday,1,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHSAT-Saturday-1-S85407dc6,Saturday schedule,Saturday,Saturday,1,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHSAT-Saturday-1-Scbbf1ea5,Saturday schedule,Saturday,Saturday,1,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHSAT-Saturday-2-Sb0e4ed14,Saturday schedule (reduced service),Saturday (reduced service),Saturday,5,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHSUN-Sunday-1,Sunday schedule,Sunday,Sunday,1,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHSUN-Sunday-1-S85407dc6,Sunday schedule,Sunday,Sunday,1,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHSUN-Sunday-1-Scbbf1ea5,Sunday schedule,Sunday,Sunday,1,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHSUN-Sunday-2-Sb0e4ed14,Sunday schedule (reduced service),Sunday (reduced service),Sunday,5,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHWKD-Weekday-1,Weekday schedule,Weekday,Weekday,1,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHWKD-Weekday-1-S859962ef,Weekday schedule,Weekday,Weekday,1,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHWKD-Weekday-1-Sb7371956,Weekday schedule,Weekday,Weekday,1,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHWKD-Weekday-1-Sc9a3b080,Weekday schedule,Weekday,Weekday,1,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHWKD-Weekday-14-S85407dc6,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHWKD-Weekday-14-Scbbf1ea5,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,20240519,Fall/Winter
-FALL 2023-SOUTHWKD-Weekday-2-Sb0e4ed14,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20231002,20240519,Fall/Winter
-FLL 2023-S-Sa-20-S859962ef-MDLBrnSthDnc,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,20240519,Fall/Winter
-FLL 2023-S-Sa-20-Sb7371956-GRBBrnSthDnc,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,20240519,Fall/Winter
-FLL 2023-S-Sa-20-Sc9a3b080-KNGBrnSthDnc,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,20240519,Fall/Winter
-FLL 23-S-Sa-20-c8a774c4,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,20240519,Fall/Winter
+Fall/WinterSaturday,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,20240519,Fall/Winter
 Fall/WinterSunday,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,20240519,Fall/Winter
 MemorialDay,Holiday (Sunday schedule),Holiday,Sunday,3,20240407,20240615,Spring
-Orange-NorthStationOakGrove-Saturday,Saturday schedule (Bridge Work),Saturday (Bridge Work),Saturday,4,20240407,20240615,Spring
-Orange-NorthStationOakGrove-Sunday,Sunday schedule (Bridge Work),Sunday (Bridge Work),Sunday,4,20240407,20240615,Spring
-Orange-NorthStationOakGrove-Weekday,Weekday schedule (Bridge Work),Weekday (Bridge Work),Weekday,4,20240407,20240615,Spring
-Orange-NorthStationWellington-Saturday,Saturday schedule (Track Improvement),Saturday (Track Improvement),Saturday,4,20240407,20240615,Spring
-Orange-NorthStationWellington-Sunday,Sunday schedule (Track Improvement),Sunday (Track Improvement),Sunday,4,20240407,20240615,Spring
-Orange-NorthStationWellington-Weekday,Weekday schedule (Track Improvement),Weekday (Track Improvement),Weekday,4,20240407,20240615,Spring
+Orange-NorthStationOakGrove-Spring-Wkd,Weekday schedule (Bridge Work),Weekday (Bridge Work),Weekday,4,20240407,20240615,Spring
+Orange-NorthStationWellington-Spr-Snd,Sunday schedule (Track Improvement),Sunday (Track Improvement),Sunday,4,20240407,20240615,Spring
+Orange-NorthStationWellington-Spr-Std,Saturday schedule (Track Improvement),Saturday (Track Improvement),Saturday,4,20240407,20240615,Spring
+Orange-NorthStationWellington-Spr-Wkd,Weekday schedule (Track Improvement),Weekday (Track Improvement),Weekday,4,20240407,20240615,Spring
 RTL22024-hmo24011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20240407,20240615,Spring
 RTL22024-hmo24016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20240407,20240615,Spring
 RTL22024-hmo24017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20240407,20240615,Spring
@@ -69,14 +23,16 @@ RTL22024-hmo24bw1-Weekday-01,Weekday schedule (modified service),Weekday (modifi
 RTL22024-hmo24bw6-Saturday-01,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20240407,20240615,Spring
 RTL22024-hmo24bw7-Sunday-01,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20240407,20240615,Spring
 RTL22024-hmo24on1-Weekday-01,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20240407,20240615,Spring
-RTL22024-hmo24on6-Saturday-01,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20240407,20240615,Spring
-RTL22024-hmo24on7-Sunday-01,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20240407,20240615,Spring
 RTL22024-hms24016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20240407,20240615,Spring
 RTL22024-hms24017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20240407,20240615,Spring
+RTL22024-hms24ah6-Saturday-01,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20240407,20240615,Spring
+RTL22024-hms24ah7-Sunday-01,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20240407,20240615,Spring
 RTL22024-hms24bb6-Saturday-01,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20240407,20240615,Spring
 RTL22024-hms24bb7-Sunday-01,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20240407,20240615,Spring
-Red-BraintreeBroadway-Saturday,Saturday schedule (Dot Ave Bridge Work),Saturday (Dot Ave Bridge Work),Saturday,4,20240407,20240615,Spring
-Red-BraintreeBroadway-Sunday,Sunday schedule (Dot Ave Bridge Work),Sunday (Dot Ave Bridge Work),Sunday,4,20240407,20240615,Spring
+Red-AlewifeHarvardViaHolyoke-Spring-Snd,Sunday schedule (Tunnel Work),Sunday (Tunnel Work),Sunday,4,20240407,20240615,Spring
+Red-AlewifeHarvardViaHolyoke-Spring-Std,Saturday schedule (Tunnel Work),Saturday (Tunnel Work),Saturday,4,20240407,20240615,Spring
+Red-BraintreeBroadway-Spring-Saturday,Saturday schedule (Dot Ave Bridge Work),Saturday (Dot Ave Bridge Work),Saturday,4,20240407,20240615,Spring
+Red-BraintreeBroadway-Spring-Sunday,Sunday schedule (Dot Ave Bridge Work),Sunday (Dot Ave Bridge Work),Sunday,4,20240407,20240615,Spring
 SPRING2024-NORTHSAT-Saturday-1,Saturday schedule,Saturday,Saturday,1,20240520,,Spring/Summer
 SPRING2024-NORTHSAT-Saturday-1-S72,Saturday schedule,Saturday,Saturday,1,20240520,,Spring/Summer
 SPRING2024-NORTHSAT-Saturday-1-S9f,Saturday schedule,Saturday,Saturday,1,20240520,,Spring/Summer
@@ -90,13 +46,13 @@ SPRING2024-NORTHWKD-Weekday-5-S6561ad1d,Weekday schedule (modified service),Week
 SPRING2024-NORTHWKD-Weekday-5-S7d8482ee,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20240520,,Spring/Summer
 SPRING2024-NORTHWKD-Weekday-5-S9d378dcf,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20240520,,Spring/Summer
 SPRING2024-NORTHWKD-Weekday-9-S6561ad1d,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20240520,,Spring/Summer
-SPRING2024-S-Sa-1-Scbbf1ea5-NdmSStSsd,Saturday schedule,Saturday,Saturday,1,20240520,,Spring/Summer
-SPRING2024-S-Su-1-Scbbf1ea5-NdmSStSsd,Sunday schedule,Sunday,Sunday,1,20240520,,Spring/Summer
 SPRING2024-SOUTHSAT-Saturday-1,Saturday schedule,Saturday,Saturday,1,20240520,,Spring/Summer
 SPRING2024-SOUTHSAT-Saturday-1-6-S49,Saturday schedule,Saturday,Saturday,1,20240520,,Spring/Summer
 SPRING2024-SOUTHSAT-Saturday-1-S86,Saturday schedule,Saturday,Saturday,1,20240520,,Spring/Summer
 SPRING2024-SOUTHSAT-Saturday-1-Sb4,Saturday schedule,Saturday,Saturday,1,20240520,,Spring/Summer
 SPRING2024-SOUTHSAT-Saturday-1-Sc5,Saturday schedule,Saturday,Saturday,1,20240520,,Spring/Summer
+SPRING2024-SOUTHSAT-Saturday-6-S86,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20240520,,Spring/Summer
+SPRING2024-SOUTHSAT-Saturday-6-Sc5,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20240520,,Spring/Summer
 SPRING2024-SOUTHSUN-Sunday-1,Sunday schedule,Sunday,Sunday,1,20240520,,Spring/Summer
 SPRING2024-SOUTHSUN-Sunday-1-7-S49,Sunday schedule,Sunday,Sunday,1,20240520,,Spring/Summer
 SPRING2024-SOUTHSUN-Sunday-1-S85407dc6,Sunday schedule,Sunday,Sunday,1,20240520,,Spring/Summer
@@ -105,6 +61,8 @@ SPRING2024-SOUTHSUN-Sunday-1-Sb0e4ed14,Sunday schedule,Sunday,Sunday,1,20240520,
 SPRING2024-SOUTHSUN-Sunday-1-Sb7371956,Sunday schedule,Sunday,Sunday,1,20240520,,Spring/Summer
 SPRING2024-SOUTHSUN-Sunday-1-Sc9a3b080,Sunday schedule,Sunday,Sunday,1,20240520,,Spring/Summer
 SPRING2024-SOUTHSUN-Sunday-1-Scbbf1ea5,Sunday schedule,Sunday,Sunday,1,20240520,,Spring/Summer
+SPRING2024-SOUTHSUN-Sunday-6-S85407dc6,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20240520,,Spring/Summer
+SPRING2024-SOUTHSUN-Sunday-6-Scbbf1ea5,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20240520,,Spring/Summer
 SPRING2024-SOUTHWKD-Weekday-1,Weekday schedule,Weekday,Weekday,1,20240520,,Spring/Summer
 SPRING2024-SOUTHWKD-Weekday-1-5-S49,Friday schedule,Friday,Weekday,1,20240520,,Spring/Summer
 SPRING2024-SOUTHWKD-Weekday-1-S85407dc6,Weekday schedule,Weekday,Weekday,1,20240520,,Spring/Summer
