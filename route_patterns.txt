@@ -6,7 +6,7 @@ Red-A-0,Red,0,JFK/UMass - Ashmont,,3,100100090,62921086,2
 Red-3-1,Red,1,Braintree - Alewife,,1,100101000,canonical-Red-C1-1,1
 Red-1-1,Red,1,Ashmont - Alewife,,1,100101001,canonical-Red-C2-1,1
 Red-C-1,Red,1,Braintree - Harvard,Weekends only,3,100101080,63496513,2
-Red-R-1,Red,1,Ashmont - Harvard,Weekends only,3,100101090,63496399,2
+Red-R-1,Red,1,Broadway - Alewife,Weekends only,3,100101090,62920879,2
 Red-A-1,Red,1,Ashmont - JFK/UMass,,3,100101100,62921084,2
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,100110000,canonical-Mattapan-C1-0,1
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,100111000,canonical-Mattapan-C1-1,1
@@ -110,14 +110,13 @@ CR-Franklin-6a65c6cc-1,CR-Franklin,1,Foxboro - South Station,,2,200041130,CR-670
 CR-Franklin-C1-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,5,200041991,canonical-CR-Franklin-C1-1,1
 CR-Franklin-C2-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,5,200041992,canonical-CR-Franklin-C2-1,1
 CR-Greenbush-6d652c57-0,CR-Greenbush,0,South Station - Greenbush,,1,200050000,canonical-CR-Greenbush-C1-0,1
-CR-Greenbush-BraintreeGreenbush-0,CR-Greenbush,0,Braintree - Greenbush,,4,200050990,OCBRN655153-1071-GRBBrainSouthDynamic-12,2
+CR-Greenbush-BraintreeGreenbush-0,CR-Greenbush,0,Braintree - Greenbush,,4,200050990,NeedhamOrmsDotAve675651-1081-GRBBrainSouthDynamic-12,2
 CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,200051000,canonical-CR-Greenbush-C1-1,1
-CR-Greenbush-BraintreeGreenbush-1,CR-Greenbush,1,Greenbush - Braintree,,4,200051990,OCBRN655155-1072-GRBBrainSouthDynamic-10,2
-CR-Haverhill-779dede9-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,200060000,canonical-CR-Haverhill-C1-0,1
+CR-Greenbush-BraintreeGreenbush-1,CR-Greenbush,1,Greenbush - Braintree,,4,200051990,NeedhamOrmsDotAve675660-1076-GRBBrainSouthDynamic-10,2
 CR-Haverhill-5b586e27-0,CR-Haverhill,0,North Station - Haverhill,,2,200060040,CR-676462-217,2
-CR-Haverhill-0afec960-0,CR-Haverhill,0,North Station - Reading,,2,200060050,CR-660296-281,2
 CR-Haverhill-0d9f7334-0,CR-Haverhill,0,North Station - Haverhill via Reading,,2,200060070,CR-676451-201,2
 CR-Haverhill-5e000b78-0,CR-Haverhill,0,North Station - Reading,,2,200060080,CR-676471-281,2
+CR-Haverhill-C1-0,CR-Haverhill,0,North Station - Haverhill,,5,200060991,canonical-CR-Haverhill-C1-0,1
 CR-Haverhill-ebc58735-1,CR-Haverhill,1,Haverhill - North Station via Reading,,1,200061000,canonical-CR-Haverhill-C1-1,1
 CR-Haverhill-9a2b8f60-1,CR-Haverhill,1,Haverhill - North Station via Anderson/Woburn,,2,200061030,CR-676453-204,2
 CR-Haverhill-dcfde8e9-1,CR-Haverhill,1,Lawrence - North Station via Reading,,2,200061050,CR-676470-280,2
@@ -131,9 +130,9 @@ CR-Lowell-C1-0,CR-Lowell,0,North Station - Lowell,,5,200080991,canonical-CR-Lowe
 CR-Lowell-5cb1ce1b-1,CR-Lowell,1,Lowell - North Station,,1,200081000,CR-660301-300,2
 CR-Lowell-C1-1,CR-Lowell,1,Lowell - North Station,,5,200081991,canonical-CR-Lowell-C1-1,1
 CR-Middleborough-52b80476-0,CR-Middleborough,0,South Station - Middleborough/Lakeville,,1,200090000,canonical-CR-Middleborough-C1-0,1
-CR-Middleborough-92c25d3b-0,CR-Middleborough,0,Braintree - Middleborough/Lakeville,,2,200090010,OCBRN655157-1007-MDLBrainSouthDynamic2,2
+CR-Middleborough-92c25d3b-0,CR-Middleborough,0,Braintree - Middleborough/Lakeville,,2,200090010,NeedhamOrmsDotAve675656-1017-MDLBrainSouthDynamic2,2
 CR-Middleborough-75bed2bb-1,CR-Middleborough,1,Middleborough/Lakeville - South Station,,1,200091000,canonical-CR-Middleborough-C1-1,1
-CR-Middleborough-bb403e6b-1,CR-Middleborough,1,Middleborough/Lakeville - Braintree,,2,200091010,OCBRN655147-1002-MDLBrainSouthDynamic0,2
+CR-Middleborough-bb403e6b-1,CR-Middleborough,1,Middleborough/Lakeville - Braintree,,2,200091010,NeedhamOrmsDotAve675652-1014-MDLBrainSouthDynamic0,2
 CR-Needham-a6552e0a-0,CR-Needham,0,South Station - Needham Heights,,1,200100000,CR-670180-603,2
 CR-Needham-7f6dbefb-0,CR-Needham,0,Forest Hills - Needham Heights,,2,200100010,CR-670210-633,2
 CR-Needham-69669b59-0,CR-Needham,0,South Station - Needham Heights,,2,200100020,CR-670186-609,2
@@ -164,14 +163,14 @@ CR-Providence-cea1b73d-0,CR-Providence,0,South Station - Wickford Junction via B
 CR-Providence-cf299c9f-0,CR-Providence,0,South Station - Stoughton via Back Bay,,2,200120100,CR-670314-875,2
 CR-Providence-43081d8a-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200120110,CR-670297-839,2
 CR-Providence-744cd707-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200120130,NeedhamOrms674962-1811,2
-CR-Providence-1c0cbb39-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,2,200120140,CR-670261-803,2
-CR-Providence-02353231-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200120150,CR-670271-813,2
-CR-Providence-e7e93ca2-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,2,200120160,CR-670277-819,2
-CR-Providence-49a464e3-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,2,200120170,CR-670281-823,2
-CR-Providence-c7d78e5d-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200120180,CR-670291-833,2
-CR-Providence-5ec86501-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200120190,CR-670295-837,2
-CR-Providence-a72810c2-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200120200,CR-670299-841,2
-CR-Providence-1f955147-0,CR-Providence,0,South Station - Stoughton via Back Bay,,2,200120210,CR-670312-873,2
+CR-Providence-1c0cbb39-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,2,200120150,CR-670261-803,2
+CR-Providence-02353231-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200120160,CR-670271-813,2
+CR-Providence-e7e93ca2-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,2,200120170,CR-670277-819,2
+CR-Providence-49a464e3-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,2,200120180,CR-670281-823,2
+CR-Providence-c7d78e5d-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200120190,CR-670291-833,2
+CR-Providence-5ec86501-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200120200,CR-670295-837,2
+CR-Providence-a72810c2-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200120210,CR-670299-841,2
+CR-Providence-1f955147-0,CR-Providence,0,South Station - Stoughton via Back Bay,,2,200120220,CR-670312-873,2
 CR-Providence-C1-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,5,200120991,canonical-CR-Providence-C1-0,1
 CR-Providence-C2-0,CR-Providence,0,South Station - Stoughton via Back Bay,,5,200120992,canonical-CR-Providence-C2-0,1
 CR-Providence-e9395acc-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,1,200121000,CR-670278-820,2
@@ -181,15 +180,15 @@ CR-Providence-c2a7e4dc-1,CR-Providence,1,Providence - South Station via Back Bay
 CR-Providence-30afc537-1,CR-Providence,1,Providence - South Station via Back Bay,,2,200121060,CR-670282-824,2
 CR-Providence-403369a9-1,CR-Providence,1,Stoughton - South Station via Back Bay,,2,200121080,CR-670327-888,2
 CR-Providence-b26ac00b-1,CR-Providence,1,Providence - South Station via Back Bay,,2,200121090,CR-670298-840,2
-CR-Providence-e6702e01-1,CR-Providence,1,Providence - South Station via Back Bay,,2,200121100,CR-670258-800,2
-CR-Providence-1b128040-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,2,200121110,CR-670264-806,2
-CR-Providence-143c8a71-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,2,200121120,CR-670272-814,2
-CR-Providence-e903b16a-1,CR-Providence,1,Providence - South Station via Back Bay,,2,200121130,CR-670286-828,2
-CR-Providence-8136f884-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,2,200121140,CR-670292-834,2
-CR-Providence-dc0794ca-1,CR-Providence,1,Stoughton - South Station via Back Bay,,2,200121150,CR-670302-862,2
+CR-Providence-e6702e01-1,CR-Providence,1,Providence - South Station via Back Bay,,2,200121110,CR-670258-800,2
+CR-Providence-1b128040-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,2,200121120,CR-670264-806,2
+CR-Providence-143c8a71-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,2,200121130,CR-670272-814,2
+CR-Providence-e903b16a-1,CR-Providence,1,Providence - South Station via Back Bay,,2,200121140,CR-670286-828,2
+CR-Providence-8136f884-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,2,200121150,CR-670292-834,2
+CR-Providence-dc0794ca-1,CR-Providence,1,Stoughton - South Station via Back Bay,,2,200121160,CR-670302-862,2
 CR-Providence-C1-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,5,200121991,canonical-CR-Providence-C1-1,1
 CR-Providence-C2-1,CR-Providence,1,Stoughton - South Station via Back Bay,,5,200121992,canonical-CR-Providence-C2-1,1
-CR-Foxboro-71c5586e-0,CR-Foxboro,0,South Station - Foxboro,,1,200130000,RollingStones676681-9769,2
+CR-Foxboro-71c5586e-0,CR-Foxboro,0,South Station - Foxboro,,1,200130000,TomBradyHOF676675-9765,2
 CR-Foxboro-C1-0,CR-Foxboro,0,South Station - Foxboro,,5,200130991,canonical-CR-Foxboro-C1-0,1
 CR-Foxboro-C2-0,CR-Foxboro,0,Foxboro - Providence,,5,200130992,canonical-CR-Foxboro-C2-0,1
 CR-Foxboro-C1-1,CR-Foxboro,1,Foxboro - South Station,,5,200131991,canonical-CR-Foxboro-C1-1,1
@@ -942,8 +941,8 @@ Shuttle-BraintreeNorthQuincy-0-0,Shuttle-BraintreeNorthQuincy,0,North Quincy - B
 Shuttle-BraintreeNorthQuincy-0-1,Shuttle-BraintreeNorthQuincy,1,Braintree - North Quincy,,5,609501990,BraintreeNorthQuincy-1-sample,1
 Shuttle-BraintreeQuincyCenter-0-0,Shuttle-BraintreeQuincyCenter,0,Quincy Center - Braintree,,5,610000990,BraintreeQuincyCenter-0-sample,1
 Shuttle-BraintreeQuincyCenter-0-1,Shuttle-BraintreeQuincyCenter,1,Braintree - Quincy Center,,5,610001990,BraintreeQuincyCenter-1-sample,1
-Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,South Station - Braintree (Express),,5,610100990,OCBRN655157-1007-MDLBrainSouthDynamicB1,1
-Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,5,610101990,OCBRN655147-1002-MDLBrainSouthDynamicB1,1
+Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,South Station - Braintree (Express),,5,610100990,NeedhamOrmsDotAve675656-1017-MDLBrainSouthDynamicB1,1
+Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,5,610101990,NeedhamOrmsDotAve675652-1014-MDLBrainSouthDynamicB1,1
 Shuttle-BraintreeSouthWeymouth-0-0,Shuttle-BraintreeSouthWeymouth,0,Braintree - South Weymouth,,5,610250990,BraintreeSouthWeymouth-0-sample,1
 Shuttle-BraintreeSouthWeymouth-0-1,Shuttle-BraintreeSouthWeymouth,1,South Weymouth - Braintree,,5,610251990,BraintreeSouthWeymouth-1-sample,1
 Shuttle-BridgewaterMiddleboroughLakeville-0-0,Shuttle-BridgewaterMiddleboroughLakeville,0,Bridgewater - Middleborough/Lakeville,,5,610300990,BridgewaterMiddleboroughLakeville-0-sample,1
