@@ -42,23 +42,9 @@ RTL32024-hmo34011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20240616,2024082
 RTL32024-hmo34016-Sa-01-BckBFrtHlsSsd,Saturday schedule,Saturday,Saturday,4,20240616,20240824,Summer
 RTL32024-hmo34016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20240616,20240824,Summer
 RTL32024-hmo34017-Su-01-BckBFrtHlsSsd,Sunday schedule,Sunday,Sunday,4,20240616,20240824,Summer
-RTL32024-hmo34017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20240616,20240824,Summer
 RTL32024-hmo34bw6-Saturday-01,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20240616,20240824,Summer
 RTL32024-hmo34bw7-Sunday-01,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20240616,20240824,Summer
 RTL32024-hms34011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20240616,20240824,Summer
-RTL32024-hms34016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20240616,20240824,Summer
-RTL32024-hms34017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20240616,20240824,Summer
-RTL32024-hms34ap1-Weekday-01,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20240616,20240824,Summer
-RTL324-hms34ap6-Sa-01-ae5d1b03,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20240616,20240824,Summer
-RTL324-hms34ap7-Su-01-ae5d1b03,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20240616,20240824,Summer
-Red-AlewifeKendall-Weekday-ef118,Weekday schedule (Weekday Shuttle),Weekday (Weekday Shuttle),Weekday,4,20240616,20240824,Summer
-Red-AlewifeKendallExpress-Weekday-ef118,Weekday schedule (Track Improvement),Weekday (Track Improvement),Weekday,4,20240616,20240824,Summer
-Red-AlewifeParkSt-Saturday-83130,Saturday schedule (Alewife Park Street Shuttle),Saturday (Alewife Park Street Shuttle),Saturday,4,20240616,20240824,Summer
-Red-AlewifeParkSt-Sunday-83130,Sunday schedule (Alewife Park Street Shuttle),Sunday (Alewife Park Street Shuttle),Sunday,4,20240616,20240824,Summer
-Red-AlewifeParkSt-Weekday-83130,Weekday schedule (Alewife Park Street Shuttle),Weekday (Alewife Park Street Shuttle),Weekday,4,20240616,20240824,Summer
-Red-Harvard-Kendall-Weekday,Weekday schedule (Maintenance),Weekday (Maintenance),Weekday,4,20240616,20240824,Summer
-Red-HarvardJFK-Saturday-53219,Saturday schedule (Track Improvement Program),Saturday (Track Improvement Program),Saturday,4,20240616,20240824,Summer
-Red-HarvardJFK-Sunday-53219,Sunday schedule (Track Improvement Program),Sunday (Track Improvement Program),Sunday,4,20240616,20240824,Summer
 SPRING2024-N-Sa-16-S6561ad1d-HvlBrdVn,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20240520,,Spring/Summer
 SPRING2024-N-Su-16-S6561ad1d-HvlBrdVn,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20240520,,Spring/Summer
 SPRING2024-N-Wdy-16-S6561ad1d-HvlBrdVn,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20240520,,Spring/Summer
@@ -68,7 +54,6 @@ SPRING2024-NORTHSAT-Saturday-1-S9f,Saturday schedule,Saturday,Saturday,1,2024052
 SPRING2024-NORTHSUN-Sunday-1,Sunday schedule,Sunday,Sunday,1,20240520,,Spring/Summer
 SPRING2024-NORTHSUN-Sunday-1-S7d8482ee,Sunday schedule,Sunday,Sunday,1,20240520,,Spring/Summer
 SPRING2024-NORTHSUN-Sunday-1-S9d378dcf,Sunday schedule,Sunday,Sunday,1,20240520,,Spring/Summer
-SPRING2024-NORTHWKD-Weekday-17,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20240520,,Spring/Summer
 SPRING2024-NORTHWKD-Weekday-25-S9f,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20240520,,Spring/Summer
 SPRING2024-NORTHWKD-Weekday-5,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20240520,,Spring/Summer
 SPRING2024-NORTHWKD-Weekday-5-S7d8482ee,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20240520,,Spring/Summer
@@ -107,7 +92,6 @@ SummerSaturday,Saturday schedule,Saturday,Saturday,1,20240616,20240824,Summer
 SummerSunday,Sunday schedule,Sunday,Sunday,1,20240616,20240824,Summer
 SummerWeekday,Weekday schedule,Weekday,Weekday,1,20240525,,Summer
 canonical,Canonical reference trips only,Canonical reference trips,Other,6,20220313,,Reference
-fare_alewife_kendall_surge,Red Line July closure fares,Modified,Other,0,20240713,20240729,Fares
 fare_alewife_kendall_surge_end,Red Line July closure fares,Modified,Other,0,20240713,20240729,Fares
 fare_regular,Regular fares,Regular,Other,0,20231217,,Fares
 fare_sumner_tunnel_closure,Sumner Tunnel closure fares,Modified,Other,0,20240705,20240806,Fares
