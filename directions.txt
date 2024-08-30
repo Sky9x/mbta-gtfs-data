@@ -47,7 +47,7 @@ route_id,direction_id,direction,direction_destination
 137,1,Inbound,Malden Center Station
 14,0,Outbound,Roslindale Square
 14,1,Inbound,Heath Street
-15,0,Outbound,Fields Corner Station or Kane Square
+15,0,Outbound,Fields Corner Station or St Peter's Square
 15,1,Inbound,Ruggles Station
 16,0,Outbound,Forest Hills Station
 16,1,Inbound,Andrew Station or Harbor Point
@@ -411,6 +411,8 @@ Shuttle-AshlandFramingham,0,Outbound,Worcester
 Shuttle-AshlandFramingham,1,Inbound,South Station
 Shuttle-AshlandSouthStation,0,Outbound,Worcester
 Shuttle-AshlandSouthStation,1,Inbound,South Station
+Shuttle-AshmontBraintree,0,South,Braintree
+Shuttle-AshmontBraintree,1,North,Ashmont
 Shuttle-AshmontBroadway,0,Outbound,Ashmont
 Shuttle-AshmontBroadway,1,Inbound,Alewife
 Shuttle-AshmontJFK,0,Outbound,Ashmont
