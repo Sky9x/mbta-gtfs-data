@@ -2083,10 +2083,14 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 295,295,P St @ E 5th St,,,,42.334111,-71.027196,LocalBus,,https://www.mbta.com/stops/295,,0,,1,Boston,P Street,East Fifth Street,3
 296,296,P St @ Columbia Rd,,,,42.332657,-71.027166,LocalBus,,https://www.mbta.com/stops/296,,0,,1,Boston,P Street,Columbia Road,3
 29618,29618,Washington St @ Douglas Ave,,,,42.186822,-71.203033,LocalBus,,https://www.mbta.com/stops/29618,,0,,1,Norwood,Washington Street,Douglas Avenue,3
+298,298,Dorchester Ave opp Kemp St,,,,42.326652,-71.056981,LocalBus,,https://www.mbta.com/stops/298,,0,,1,Boston,Dorchester Ave,Kemp St,3
+299,299,Dorchester Ave @ Howell St,,,,42.324955,-71.056957,LocalBus,,https://www.mbta.com/stops/299,,0,,1,Boston,Dorchester Ave,Howell St,3
 3,3,Washington St @ Melnea Cass Blvd - Silver Line,Washington St @ Melnea Cass Blvd - Silver Line - South Station/Downtown Crossing,,South Station/Downtown Crossing,42.333021,-71.080799,LocalBus,"Washington St and Melnea Cass Blvd, Roxbury, MA",https://www.mbta.com/stops/3,level_in_street,0,,1,Boston,Washington Street,Melnea Cass Boulevard,3
 30,30,E Broadway @ Farragut Rd,,,,42.335738,-71.025190,LocalBus,,https://www.mbta.com/stops/30,,0,,1,Boston,East Broadway,Farragut Road,3
+300,300,Dorchester Ave @ Dorset St,,,,42.323504,-71.056928,LocalBus,,https://www.mbta.com/stops/300,,0,,1,Boston,Dorchester Ave,Dorset St,3
 30009,30009,Massachusetts Ave @ Magazine St,,,,42.327877,-71.067901,LocalBus,,https://www.mbta.com/stops/30009,,0,,1,Boston,Massachusetts Avenue,Magazine Street,3
-30088,,Savin Hill - Dorchester Ave @ Bay St,Savin Hill - Red Line Alewife Shuttle - Dorchester Ave @ Bay St,,Alewife Shuttle,42.311260,-71.057530,,,,,0,,1,Boston,Dorchester Avenue,Bay Street,3
+30088,,Savin Hill - Dorchester Ave @ Bay St,Savin Hill - Red Line Alewife Shuttle - Dorchester Ave @ Bay St,,Alewife Shuttle,42.311260,-71.057530,LocalBus,,https://www.mbta.com/stops/30088,,0,,1,Boston,Dorchester Avenue,Bay Street,3
+301,301,Dorchester Ave @ Mt Vernon St,,,,42.321778,-71.056894,LocalBus,,https://www.mbta.com/stops/301,,0,,1,Boston,Dorchester Ave,Mt Vernon St,3
 3019,3019,Hancock St opp Glover Ave,,,,42.274190,-71.026325,LocalBus,,https://www.mbta.com/stops/3019,,0,,1,Quincy,Hancock Street,Glover Avenue,3
 3020,3020,Hancock St @ Billings Rd,,,,42.273451,-71.025558,LocalBus,,https://www.mbta.com/stops/3020,,0,,1,Quincy,Hancock Street,Billings Road,3
 3022,3022,Hancock St opp Albion Rd,,,,42.271589,-71.022667,LocalBus,,https://www.mbta.com/stops/3022,,0,,1,Quincy,Hancock Street,Albion Road,3
@@ -2501,8 +2505,8 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 3426,3426,McGrath Hwy @ Brackett St,,,,42.252155,-70.996936,LocalBus,,https://www.mbta.com/stops/3426,,0,,1,Quincy,McGrath Highway,Brackett Street,3
 343,343,Dorchester Ave @ Gibson St,,,,42.297101,-71.061006,LocalBus,,https://www.mbta.com/stops/343,,0,,1,Boston,Dorchester Avenue,Gibson Street,3
 345,345,Dorchester Ave opp Charles St,,,,42.300648,-71.059987,LocalBus,,https://www.mbta.com/stops/345,,0,,1,Boston,Dorchester Avenue,Charles Street,3
-34500,,Dorchester Ave @ Lincoln St - Fields Corner Sta,Fields Corner - Red Line Alewife Shuttle - Dorchester Ave @ Lincoln St,,Alewife Shuttle,42.299623,-71.060251,,,,,0,,1,Boston,Dorchester Avenue,Faulkner Street,3
-34503,,Dorchester Ave @ Fields Corner Station,Fields Corner - Red Line Ashmont Shuttle - Dorchester Ave @ Fields Corner Station,,Ashmont Shuttle,42.300316,-71.060253,,,,,0,,1,Boston,Dorchester Avenue,,3
+34500,,Dorchester Ave @ Lincoln St - Fields Corner Sta,Fields Corner - Red Line Alewife Shuttle - Dorchester Ave @ Lincoln St,,Alewife Shuttle,42.299623,-71.060251,LocalBus,,https://www.mbta.com/stops/34500,,0,,1,Boston,Dorchester Avenue,Faulkner Street,3
+34503,,Dorchester Ave @ Fields Corner Station,Fields Corner - Red Line Ashmont Shuttle - Dorchester Ave @ Fields Corner Station,,Ashmont Shuttle,42.300316,-71.060253,LocalBus,,https://www.mbta.com/stops/34503,,0,,1,Boston,Dorchester Avenue,,3
 34509,34509,Beacon St @ Raleigh St,,,,42.349099,-71.096313,LocalBus,,https://www.mbta.com/stops/34509,,0,,1,Boston,Commonwealth Avenue,Beacon Street,3
 34510,34510,Commonwealth Ave @ Kenmore St,,,,42.348697,-71.095119,LocalBus,,https://www.mbta.com/stops/34510,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
 3455,3455,Beale St @ Farrington St,,,,42.264068,-71.021570,LocalBus,,https://www.mbta.com/stops/3455,,0,,1,Quincy,Beale Street,Farrington Street,3
@@ -2600,6 +2604,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 3566,3566,North St @ Otis St,,,,42.244820,-70.884863,LocalBus,,https://www.mbta.com/stops/3566,,0,,1,Hingham,North Street,Mill Street,3
 3567,3567,North St opp Station St,,,,42.243533,-70.886277,LocalBus,,https://www.mbta.com/stops/3567,,0,,1,Hingham,North Street,Station Street,3
 3569,3569,North St @ South St,,,,42.242934,-70.887823,LocalBus,,https://www.mbta.com/stops/3569,,0,,1,Hingham,North Street,South Street,3
+357,357,Dorchester Ave opp Locust St,,,,42.323298,-71.056743,LocalBus,,https://www.mbta.com/stops/357,,0,,1,Boston,Dorchester Ave,Locust St,3
 35704,35704,Revere St @ Stowers St,,,,42.416554,-71.002017,LocalBus,,https://www.mbta.com/stops/35704,,0,,1,Revere,Revere Street,Stowers Street,3
 3571,3571,Main St @ Elm St,,,,42.241003,-70.887398,LocalBus,,https://www.mbta.com/stops/3571,,0,,1,Hingham,Main Street,Elm Street,3
 35711,35711,Main St @ Alexandra Way,,,,42.238938,-70.882879,LocalBus,,https://www.mbta.com/stops/35711,,0,,0,Hingham,Main Street,Winter Street,3
@@ -2615,10 +2620,12 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 35773,35773,Revere St @ Michael Della Russo Way,,,,42.418535,-70.994626,LocalBus,,https://www.mbta.com/stops/35773,,0,,1,Revere,Revere Street,Friend Street,3
 3578,3578,Central St @ Weston Rd,,,,42.236562,-70.887722,LocalBus,,https://www.mbta.com/stops/3578,,0,,0,Hingham,Central Street,Weston Road,3
 3579,3579,Central St @ Elm St,,,,42.239723,-70.888703,LocalBus,,https://www.mbta.com/stops/3579,,0,,0,Hingham,Central Street,Elm Street,3
+358,358,Dorchester Ave opp Howell St,,,,42.324671,-71.056777,LocalBus,,https://www.mbta.com/stops/358,,0,,1,Boston,Dorchester Ave,Howell St,3
 3580,3580,Central St @ South St,,,,42.241708,-70.889903,LocalBus,,https://www.mbta.com/stops/3580,,0,,1,Hingham,Central Street,South Street,3
 3582,3582,Station St - Hingham Depot,,,,42.244102,-70.883973,LocalBus,,https://www.mbta.com/stops/3582,,0,,1,Hingham,Station Street,,3
 35830,35830,104 Constitution Ave,,,,42.414893,-71.016054,LocalBus,,https://www.mbta.com/stops/35830,,0,,0,Revere,Constitution Avenue,Raymond Road,3
 3589,3589,North St @ Otis St,,,,42.244787,-70.884655,LocalBus,,https://www.mbta.com/stops/3589,,0,,1,Hingham,North Street,,3
+359,359,Dorchester Ave @ Kemp St,,,,42.326790,-71.056809,LocalBus,,https://www.mbta.com/stops/359,,0,,1,Boston,Dorchester Ave,Kemp St,3
 3590,3590,Otis St opp Ship St,,,,42.245898,-70.887274,LocalBus,,https://www.mbta.com/stops/3590,,0,,1,Hingham,Otis Street,Ship Street,3
 3592,3592,Otis St opp Broad Cove Rd,,,,42.251452,-70.892094,LocalBus,,https://www.mbta.com/stops/3592,,0,,1,Hingham,Otis Street,,3
 3594,3594,Otis St opp Governor Long Rd,,,,42.254243,-70.894635,LocalBus,,https://www.mbta.com/stops/3594,,0,,0,Hingham,Otis Street,Governor Long Road,3
@@ -6659,7 +6666,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9170071,,Kendall/MIT - Main St @ Hayward St,Kendall/MIT - Red Line Ashmont/Braintree Shuttle - Main St @ Hayward St,,Ashmont/Braintree Shuttle,42.362309,-71.085583,,,,,0,,1,Cambridge,Main Street,Hayward Street,3
 9170076,,Park Street - Tremont St opp Hamilton Pl,Park Street - Red Line Shuttle - Tremont St opp Hamilton Pl,,Red Line Shuttle,42.356874,-71.061699,,,,,0,,1,Boston,Tremont Street,Hamilton Place,3
 9170099,,Wollaston - Newport Ave @ Brook St,Wollaston - Red Line Braintree Shuttle - Newport Ave @ Brook St,,Braintree Shuttle,42.266560,-71.020832,LocalBus,,https://www.mbta.com/stops/9170099,,0,,1,Quincy,Newport Avenue,Brook Street,3
-9170100,,Wollaston - Newport Ave opp Brook St,Wollaston - Red Line Alewife Shuttle - Newport Ave opp Brook St,,Alewife Shuttle,42.266771,-71.020771,,,,,0,,1,Quincy,Newport Avenue,Brook Street,3
+9170100,,Wollaston - Newport Ave opp Brook St,Wollaston - Red Line Alewife Shuttle - Newport Ave opp Brook St,,Alewife Shuttle,42.266771,-71.020771,LocalBus,,https://www.mbta.com/stops/9170100,,0,,1,Quincy,Newport Avenue,Brook Street,3
 9170120,,Washington Street - Commonwealth Ave @ Washington St,Washington Street - Green Line Park Street & North Shuttle - Commonwealth Ave @ Washington St,,Park Street & North Shuttle,42.344440,-71.142030,,,,,0,,1,Boston,Commonwealth Avenue,Washington Street,3
 9170151,,Kenmore - Commonwealth Ave @ Kenmore St,Kenmore - Green Line Westbound Shuttle - Commonwealth Ave @ Kenmore St,,Westbound Shuttle,42.349160,-71.094900,,,,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
 9170152,,Hynes - Commonwealth Ave @ Massachusetts Ave,Hynes - Green Line Park Street & North Shuttle - Commonwealth Ave @ Massachusetts Ave,,Park Street & North Shuttle,42.348890,-71.088350,,,,,0,,1,Boston,Commonwealth Avenue,Massachusetts Avenue,3
