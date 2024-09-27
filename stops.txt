@@ -6508,7 +6508,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070131,,Harvard Avenue - Commonwealth Ave @ Harvard Ave,Harvard Avenue - Green Line Boston College Shuttle - Commonwealth Ave @ Harvard Ave,,Boston College Shuttle,42.350790,-71.130220,,,,,0,,1,Boston,Commonwealth Avenue,Harvard Avenue,3
 9070134,,Packard's Corner,Packard's Corner - Green Line Park Street & North Shuttle,,Park Street & North Shuttle,42.351948,-71.123965,,,,,0,,1,Boston,,,3
 9070135,,Packard's Corner,Packard's Corner - Green Line Boston College Shuttle,,Boston College Shuttle,42.351925,-71.124976,,,,,0,,1,Boston,,,3
-9070150,,Kenmore - 512 Commonwealth Ave,Kenmore - Green Line Shuttle - 512 Commonwealth Ave,,Green Line Shuttle,42.348712,-71.095526,,,,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
+9070150,,Kenmore - 512 Commonwealth Ave,Kenmore - Green Line Shuttle - 512 Commonwealth Ave,,Green Line Shuttle,42.348712,-71.095526,LocalBus,,https://www.mbta.com/stops/9070150,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
 9070151,,Kenmore - 660 Beacon St,Kenmore - Green Line Westbound Shuttle - 660 Beacon St,,Westbound Shuttle,42.349196,-71.095826,,,,,0,,1,Boston,Beacon Street,Public Alley 902,3
 9070152,,Hynes Convention Center - Cambria St @ Boylston St,Hynes Convention Center - Green Line Park Street & North Shuttle - Cambria St @ Boylston St,,Park Street & North Shuttle,42.347300,-71.086917,,,,,0,,1,Boston,Cambria Street,Boylston Street,3
 9070154,,Copley - Opp 575 Boylston St,Copley - Green Line Shuttle - Opp 575 Boylston St,,Green Line Shuttle,42.350283,-71.076293,,,,,0,,1,Boston,Boylston Street,,3
@@ -6517,11 +6517,11 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070162,,Woodland,Woodland - Green Line Shuttle,,Green Line Shuttle,42.332975,-71.243312,,,,,0,,1,Newton,,,3
 9070164,,Waban - Beacon St @ Waban,Waban - Green Line Park St & North Shuttle - Beacon St @ Waban,,Park Street & North Shuttle,42.326268,-71.231039,,,,,0,,1,Newton,Beacon Street,Collins Road,3
 9070165,,Waban - Beacon St opp Waban,Waban - Green Line Riverside Shuttle - Beacon St opp Waban,,Riverside Shuttle,42.326372,-71.231098,,,,,0,,1,Newton,Beacon Street,Collins Road,3
-9070170,,Newton Centre - Langley Rd @ Braeland Ave,Newton Centre - Green Line Park St & North Shuttle - Langley Rd @ Braeland Ave,,Park Street & North Shuttle,42.329898,-71.191152,,,,,0,,1,Newton,Langley Road,Braeland Avenue,3
-9070171,,Newton Centre - Langley Rd opp Braeland Ave,Newton Centre - Green Line Riverside Shuttle - Langley Rd opp Braeland Ave,,Riverside Shuttle,42.329976,-71.190997,,,,,0,,1,Newton,Langley Road,Braeland Avenue,3
-9070178,,Brookline Hills - Boylston St @ Cypress St,Brookline Hills - Green Line Riverside Shuttle - Boylston St @ Cypress St,,Riverside Shuttle,42.330044,-71.126602,,,,,0,,1,Brookline,Boylston Street,Cypress Street,3
-9070179,,Brookline Hills - Boylston St @ Cypress St,Brookline Hills - Green Line Park St & North Shuttle - Boylston St @ Cypress St,,Park Street & North Shuttle,42.330034,-71.125599,,,,,0,,1,Brookline,Boylston Street,Cypress Street,3
-9070180,,Brookline Village - Pearl St @ Brookline Place Parking,Brookline Village - Green Line Park St & North Shuttle - Pearl St @ Brookline Place Parking,,Park Street & North Shuttle,42.332733,-71.115961,,,,,0,,1,Brookline,Pearl Street,,3
+9070170,,Newton Centre - Langley Rd @ Braeland Ave,Newton Centre - Green Line Park St & North Shuttle - Langley Rd @ Braeland Ave,,Park Street & North Shuttle,42.329898,-71.191152,LocalBus,,https://www.mbta.com/stops/9070170,,0,,1,Newton,Langley Road,Braeland Avenue,3
+9070171,,Newton Centre - Langley Rd opp Braeland Ave,Newton Centre - Green Line Riverside Shuttle - Langley Rd opp Braeland Ave,,Riverside Shuttle,42.329976,-71.190997,LocalBus,,https://www.mbta.com/stops/9070171,,0,,1,Newton,Langley Road,Braeland Avenue,3
+9070178,,Brookline Hills - Boylston St @ Cypress St,Brookline Hills - Green Line Riverside Shuttle - Boylston St @ Cypress St,,Riverside Shuttle,42.330044,-71.126602,LocalBus,,https://www.mbta.com/stops/9070178,,0,,1,Brookline,Boylston Street,Cypress Street,3
+9070179,,Brookline Hills - Boylston St @ Cypress St,Brookline Hills - Green Line Park St & North Shuttle - Boylston St @ Cypress St,,Park Street & North Shuttle,42.330034,-71.125599,LocalBus,,https://www.mbta.com/stops/9070179,,0,,1,Brookline,Boylston Street,Cypress Street,3
+9070180,,Brookline Village - Pearl St @ Brookline Place Parking,Brookline Village - Green Line Park St & North Shuttle - Pearl St @ Brookline Place Parking,,Park Street & North Shuttle,42.332733,-71.115961,LocalBus,,https://www.mbta.com/stops/9070180,,0,,1,Brookline,Pearl Street,,3
 9070184,,Hynes Convention Center - Commonwealth Ave @ Massachusetts Ave,Hynes Convention Center - Green Line Shuttle,,Green Line Shuttle,42.349320,-71.088590,,,,,0,,1,Boston,Commonwealth Avenue,Massachusetts Avenue,3
 9070185,,Kenmore - Commonwealth Ave @ Kenmore St,Kenmore - Green Line Shuttle,,Green Line Shuttle,42.349160,-71.094900,,,,,0,,1,Boston,Commonwealth Avenue,Kenmore Street,3
 9070186,,Boston University East - 610 Commonwealth Ave,Boston University East - 610 Commonwealth Ave - Green Line Park Street & North Shuttle,,Green Line Park Street & North Shuttle,42.349300,-71.102120,,,,,0,,1,Boston,Commonwealth Avenue,,3
@@ -8979,7 +8979,7 @@ place-newtn,,Newton Highlands,,,,42.322381,-71.205509,,"60 Station Ave, Newton, 
 70169,70169,Newton Highlands,Newton Highlands - Green Line - (D) Riverside,,Riverside,42.322530,-71.205421,RapidTransit,,https://www.mbta.com/stops/place-newtn,level_ground,0,place-newtn,1,Newton,,,0
 8155,8155,Newton Highlands,,,,42.322203,-71.206537,LocalBus,,https://www.mbta.com/stops/place-newtn,,0,place-newtn,1,Newton,Walnut Street,Station Avenue,3
 8203,8203,Newton Highlands,,,,42.321916,-71.206479,LocalBus,,https://www.mbta.com/stops/place-newtn,,0,place-newtn,1,Newton,Walnut Street,Station Avenue,3
-9070168,,Newton Highlands,Newton Highlands - Green Line Shuttle,,Green Line Shuttle,42.322368,-71.205831,,,,,0,place-newtn,1,Newton,,,3
+9070168,,Newton Highlands,Newton Highlands - Green Line Shuttle,,Green Line Shuttle,42.322368,-71.205831,LocalBus,,https://www.mbta.com/stops/place-newtn,,0,place-newtn,1,Newton,,,3
 door-newtn-hyde,,Newton Highlands - Hyde St,Newton Highlands - Hyde St,,,42.323498,-71.204336,,,,level_1_in_street,2,place-newtn,2,Newton,,,
 door-newtn-lake,,"Newton Highlands - Lake Ave, Walnut St","Newton Highlands - Lake Ave, Walnut St",,,42.322676,-71.205617,,,,level_1_in_street,2,place-newtn,1,Newton,,,
 door-newtn-walnut,,"Newton Highlands - Walnut St, Station Ave, Buses","Newton Highlands - Walnut St, Station Ave, Buses",,,42.322040,-71.206245,,,,level_1_in_street,2,place-newtn,1,Newton,,,
