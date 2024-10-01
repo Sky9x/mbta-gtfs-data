@@ -10380,6 +10380,8 @@ facility_id,property_id,value
 746,excludes-stop,node-ogmnl-olstair-platform
 746,excludes-stop,node-ogmnl-washstair-lobby
 746,excludes-stop,node-ogmnl-washstair-street
+747,alternate-service-text,"A shuttle bus will be available to transport customers between Winchester Center and North Stations. To exit, exit the train at North Station and find station personnel or use a station call box to request the shuttle bus to Winchester Center. To board, find station personnel or use a station call box at Winchester Center to request the shuttle bus to North Station."
+748,alternate-service-text,"A shuttle bus will be available to transport customers between Winchester Center and North Stations. To exit, exit the train at North Station and find station personnel or use a station call box to request the shuttle bus to Winchester Center. To board, find station personnel or use a station call box at Winchester Center to request the shuttle bus to North Station."
 756,alternate-service-text,Please use nearby Kendall/MIT Elevator 757.
 756,excludes-stop,70072
 756,excludes-stop,door-knncl-nbmain
@@ -14364,7 +14366,7 @@ facility_id,property_id,value
 914,excludes-stop,node-aqucl-wbatlanticstairs-platform
 914,excludes-stop,node-aqucl-wbstatestairs-lobby
 914,excludes-stop,node-aqucl-wbstatestairs-platform
-915,alternate-service-text,"To exit, use Aquarium Elevator 924 (Wonderland platform) or Aquarium Elevator 923 (Bowdoin platform) located at the opposite end of the platform to access the Atlantic Ave lobby, then use Aquarium Elevator 925 to access Long Wharf.n/To board, travel west along State St towards Long Wharf, then cross the Rose Kennedy Greenway.  Continue to the Aquarium Atlantic Ave entrance and use Aquarium Elevator 925 located on the rear side of the station headhouse."
+915,alternate-service-text,"To exit, use Aquarium Elevator 924 (Wonderland platform) or Aquarium Elevator 923 (Bowdoin platform) located at the opposite end of the platform to access the Atlantic Ave lobby, then use Aquarium Elevator 925 to access Long Wharf. To board, travel west along State St towards Long Wharf, then cross the Rose Kennedy Greenway.  Continue to the Aquarium Atlantic Ave entrance and use Aquarium Elevator 925 located on the rear side of the station headhouse."
 915,excludes-stop,door-aqucl-atlantic
 915,excludes-stop,door-aqucl-atlanticelev
 915,excludes-stop,door-aqucl-mcknorth
@@ -20235,6 +20237,10 @@ highlevel-NEC-2173-1,excludes-stop,NEC-2173-02
 highlevel-NEC-2173-1,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-NEC-2173-2,excludes-stop,NEC-2173-01
 highlevel-NEC-2173-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NHRML-0078-1,excludes-stop,NHRML-0078-02
+highlevel-NHRML-0078-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-NHRML-0078-2,excludes-stop,NHRML-0078-01
+highlevel-NHRML-0078-2,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-NHRML-0127-1,excludes-stop,NHRML-0127-02
 highlevel-NHRML-0127-1,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-NHRML-0127-2,excludes-stop,NHRML-0127-01
@@ -20809,8 +20815,8 @@ highlevel-sstat-9,excludes-stop,NEC-2287-12
 highlevel-sstat-9,excludes-stop,NEC-2287-13
 highlevel-sstat-9,note,Full high level platform is available to provide level boarding to every car in a train set
 park-900,attended,2
-park-900,capacity,200
-park-900,capacity-accessible,6
+park-900,capacity,164
+park-900,capacity-accessible,12
 park-900,contact,MBTA Customer Support
 park-900,contact-phone,617-222-3200
 park-900,contact-url,https://www.mbta.com/customer-support
@@ -20939,8 +20945,8 @@ park-DB-2258,enclosed,2
 park-DB-2258,fee-daily,free
 park-DB-2258,municipality,Boston
 park-ER-0115-garage,attended,1
-park-ER-0115-garage,capacity,329
-park-ER-0115-garage,capacity-accessible,13
+park-ER-0115-garage,capacity,350
+park-ER-0115-garage,capacity-accessible,6
 park-ER-0115-garage,car-sharing,Zipcar
 park-ER-0115-garage,contact,MBTA Customer Support
 park-ER-0115-garage,contact-phone,617-222-3200
@@ -21014,8 +21020,8 @@ park-ER-0128,payment-form-accepted,invoice
 park-ER-0128,payment-form-accepted,mobile-app
 park-ER-0128,weekday-typical-utilization,131
 park-ER-0168-garage,attended,1
-park-ER-0168-garage,capacity,712
-park-ER-0168-garage,capacity-accessible,12
+park-ER-0168-garage,capacity,635
+park-ER-0168-garage,capacity-accessible,17
 park-ER-0168-garage,car-sharing,Zipcar
 park-ER-0168-garage,contact,MBTA Customer Support
 park-ER-0168-garage,contact-phone,617-222-3200
@@ -21033,7 +21039,7 @@ park-ER-0168-garage,payment-app-url,https://www.paybyphone.com/
 park-ER-0168-garage,payment-form-accepted,invoice
 park-ER-0168-garage,payment-form-accepted,mobile-app
 park-ER-0183-garage,attended,1
-park-ER-0183-garage,capacity,494
+park-ER-0183-garage,capacity,383
 park-ER-0183-garage,capacity-accessible,11
 park-ER-0183-garage,contact,MBTA Customer Support
 park-ER-0183-garage,contact-phone,617-222-3200
@@ -21102,8 +21108,8 @@ park-ER-0276,note,"Town of Ipswich is responsible for parking maintenance, payme
 park-ER-0276,operator,Town of Ipswich
 park-ER-0276,owner,City/Town
 park-ER-0312,attended,2
-park-ER-0312,capacity,283
-park-ER-0312,capacity-accessible,8
+park-ER-0312,capacity,275
+park-ER-0312,capacity-accessible,7
 park-ER-0312,contact,MBTA Customer Support
 park-ER-0312,contact-phone,617-222-3200
 park-ER-0312,contact-url,https://www.mbta.com/customer-support
@@ -21121,8 +21127,8 @@ park-ER-0312,payment-form-accepted,invoice
 park-ER-0312,payment-form-accepted,mobile-app
 park-ER-0312,weekday-typical-utilization,42
 park-ER-0362,attended,2
-park-ER-0362,capacity,680
-park-ER-0362,capacity-accessible,15
+park-ER-0362,capacity,613
+park-ER-0362,capacity-accessible,16
 park-ER-0362,contact,MBTA Customer Support
 park-ER-0362,contact-phone,617-222-3200
 park-ER-0362,contact-url,https://www.mbta.com/customer-support
@@ -21452,7 +21458,7 @@ park-FR-0253,contact,"Town of Acton, Parking Clerk"
 park-FR-0253,contact-phone,978-929-6622
 park-FR-0253,contact-url,http://www.acton-ma.gov/127/South-Acton-Commuter-Lot
 park-FR-0253,enclosed,2
-park-FR-0253,fee-daily,"Mon-Fri, 6 AM - 12 PM: $5"
+park-FR-0253,fee-daily,"Mon-Fri, 6 AM - 12 PM: $6"
 park-FR-0253,municipality,Acton
 park-FR-0253,note,"Town of Acton is responsible for parking maintenance, payments, and snow removal."
 park-FR-0253,operator,Town of Acton
@@ -21460,10 +21466,11 @@ park-FR-0253,owner,City/Town
 park-FR-0253,payment-app,PassportParking
 park-FR-0253,payment-app-id,1723
 park-FR-0253,payment-app-url,https://ppprk.com/park/
+park-FR-0253,payment-form-accepted,Cash at Kiosks
 park-FR-0253,payment-form-accepted,cash
 park-FR-0253,payment-form-accepted,mobile-app
 park-FR-0301,attended,2
-park-FR-0301,capacity,226
+park-FR-0301,capacity,203
 park-FR-0301,capacity-accessible,6
 park-FR-0301,contact,MBTA Customer Support
 park-FR-0301,contact-phone,617-222-3200
@@ -21480,7 +21487,7 @@ park-FR-0301,payment-app-id,4256
 park-FR-0301,payment-app-url,https://www.paybyphone.com/
 park-FR-0301,payment-form-accepted,invoice
 park-FR-0301,payment-form-accepted,mobile-app
-park-FR-0301,weekday-typical-utilization,226
+park-FR-0301,weekday-typical-utilization,203
 park-FR-0361-garage,attended,1
 park-FR-0361-garage,capacity,172
 park-FR-0361-garage,capacity-accessible,6
@@ -21711,8 +21718,8 @@ park-GRB-0162,payment-form-accepted,invoice
 park-GRB-0162,payment-form-accepted,mobile-app
 park-GRB-0162,weekday-typical-utilization,178
 park-GRB-0183,attended,2
-park-GRB-0183,capacity,490
-park-GRB-0183,capacity-accessible,9
+park-GRB-0183,capacity,492
+park-GRB-0183,capacity-accessible,12
 park-GRB-0183,contact,MBTA Customer Support
 park-GRB-0183,contact-phone,617-222-3200
 park-GRB-0183,contact-url,https://www.mbta.com/customer-support
@@ -21768,7 +21775,7 @@ park-GRB-0233,payment-form-accepted,invoice
 park-GRB-0233,payment-form-accepted,mobile-app
 park-GRB-0233,weekday-typical-utilization,181
 park-GRB-0276,attended,2
-park-GRB-0276,capacity,355
+park-GRB-0276,capacity,296
 park-GRB-0276,capacity-accessible,22
 park-GRB-0276,contact,MBTA Customer Support
 park-GRB-0276,contact-phone,617-222-3200
@@ -22121,9 +22128,9 @@ park-NEC-1919,contact,MBTA Customer Support
 park-NEC-1919,contact-phone,617-222-3200
 park-NEC-1919,contact-url,https://www.mbta.com/customer-support
 park-NEC-1919,enclosed,2
-park-NEC-1919,fee-daily,Mon-Fri: $6 | Sat-Sun: $2
-park-NEC-1919,fee-monthly,$105
+park-NEC-1919,fee-daily,"The South Attleboro Parking Lot will be free starting Tuesday October 1, 2024, until Tuesday April, 1st, 2025."
 park-NEC-1919,municipality,Attleboro
+park-NEC-1919,note,Temporary Price Reduction. 
 park-NEC-1919,operator,Keolis Commuter Services
 park-NEC-1919,overnight-allowed,no
 park-NEC-1919,owner,MBTA
@@ -22205,7 +22212,7 @@ park-NEC-2139,payment-form-accepted,invoice
 park-NEC-2139,payment-form-accepted,mobile-app
 park-NEC-2139,weekday-typical-utilization,635
 park-NEC-2173-garage,attended,1
-park-NEC-2173-garage,capacity,2578
+park-NEC-2173-garage,capacity,2735
 park-NEC-2173-garage,capacity-accessible,40
 park-NEC-2173-garage,contact,MBTA Customer Support
 park-NEC-2173-garage,contact-phone,617-222-3200
@@ -22328,7 +22335,7 @@ park-NHRML-0127-parkride,owner,Local transit authority
 park-NHRML-0127-parkride,payment-form-accepted,cash
 park-NHRML-0127-parkride,payment-form-accepted,credit-debit-card
 park-NHRML-0152,attended,2
-park-NHRML-0152,capacity,198
+park-NHRML-0152,capacity,220
 park-NHRML-0152,capacity-accessible,7
 park-NHRML-0152,contact,MBTA Customer Support
 park-NHRML-0152,contact-phone,617-222-3200
@@ -22392,8 +22399,8 @@ park-NHRML-0254-garage,operator,Lowell Regional Transit Authority
 park-NHRML-0254-garage,owner,Local transit authority
 park-NHRML-0254-garage,payment-form-accepted,cash
 park-PB-0158,attended,2
-park-PB-0158,capacity,636
-park-PB-0158,capacity-accessible,13
+park-PB-0158,capacity,538
+park-PB-0158,capacity-accessible,9
 park-PB-0158,contact,MBTA Customer Support
 park-PB-0158,contact-phone,617-222-3200
 park-PB-0158,contact-url,https://www.mbta.com/customer-support
@@ -22951,8 +22958,8 @@ park-WR-0205,payment-form-accepted,invoice
 park-WR-0205,payment-form-accepted,mobile-app
 park-WR-0205,weekday-typical-utilization,94
 park-WR-0228,attended,2
-park-WR-0228,capacity,149
-park-WR-0228,capacity-accessible,4
+park-WR-0228,capacity,147
+park-WR-0228,capacity-accessible,6
 park-WR-0228,contact,MBTA Customer Support
 park-WR-0228,contact-phone,617-222-3200
 park-WR-0228,contact-url,https://www.mbta.com/customer-support
@@ -23148,7 +23155,8 @@ park-butlr,payment-form-accepted,invoice
 park-butlr,payment-form-accepted,mobile-app
 park-butlr,weekday-typical-utilization,33
 park-chhil,attended,2
-park-chhil,capacity,69
+park-chhil,capacity,53
+park-chhil,capacity-accessible,3
 park-chhil,contact,MBTA Customer Support
 park-chhil,contact-phone,617-222-3200
 park-chhil,contact-url,https://www.mbta.com/customer-support
@@ -23164,7 +23172,7 @@ park-chhil,payment-app-id,4251
 park-chhil,payment-app-url,https://www.paybyphone.com/
 park-chhil,payment-form-accepted,invoice
 park-chhil,payment-form-accepted,mobile-app
-park-chhil,weekday-typical-utilization,68
+park-chhil,weekday-typical-utilization,53
 park-eliot,attended,2
 park-eliot,capacity,52
 park-eliot,capacity-accessible,3
@@ -23185,7 +23193,7 @@ park-eliot,payment-form-accepted,invoice
 park-eliot,payment-form-accepted,mobile-app
 park-eliot,weekday-typical-utilization,51
 park-forhl,attended,2
-park-forhl,capacity,212
+park-forhl,capacity,180
 park-forhl,capacity-accessible,7
 park-forhl,car-sharing,Zipcar
 park-forhl,contact,MBTA Customer Support
@@ -23203,7 +23211,7 @@ park-forhl,payment-app-id,4396
 park-forhl,payment-app-url,https://www.paybyphone.com/
 park-forhl,payment-form-accepted,invoice
 park-forhl,payment-form-accepted,mobile-app
-park-forhl,weekday-typical-utilization,202
+park-forhl,weekday-typical-utilization,180
 park-longw,attended,2
 park-longw,capacity,11
 park-longw,contact,LRTA Parking
@@ -23538,8 +23546,8 @@ park-welln-lot,payment-form-accepted,invoice
 park-welln-lot,payment-form-accepted,mobile-app
 park-welln-lot,weekday-typical-utilization,1263
 park-wlsta,attended,2
-park-wlsta,capacity,403
-park-wlsta,capacity-accessible,11
+park-wlsta,capacity,118
+park-wlsta,capacity-accessible,5
 park-wlsta,contact,MBTA Customer Support
 park-wlsta,contact-phone,617-222-3200
 park-wlsta,contact-url,https://www.mbta.com/customer-support
@@ -23593,7 +23601,7 @@ park-wondl-nshore,payment-app-url,https://www.paybyphone.com/
 park-wondl-nshore,payment-form-accepted,invoice
 park-wondl-nshore,payment-form-accepted,mobile-app
 park-woodl-garage,attended,1
-park-woodl-garage,capacity,559
+park-woodl-garage,capacity,534
 park-woodl-garage,capacity-accessible,11
 park-woodl-garage,contact,MBTA Customer Support
 park-woodl-garage,contact-phone,617-222-3200
