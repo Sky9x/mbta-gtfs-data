@@ -221,8 +221,8 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 744,744,1,elevator,place-ogmnl,Washington Street to lobby,Oak Grove Elevator 744 (Washington Street to lobby),,,,1
 745,745,1,elevator,place-ogmnl,"Busway, parking lot to lobby","Oak Grove Elevator 745 (Busway, parking lot to lobby)",,,,1
 746,746,1,elevator,place-ogmnl,Orange Line platform to paid lobby,Oak Grove Elevator 746 (Orange Line platform to paid lobby),,,,1
-747,747,1,elevator,NHRML-0078,Track 2 (Boston platform) to Lower Aberjona parking,Winchester Center Elevator 747 (Track 2 (Boston platform) to Lower Aberjona parking),,,,1
-748,748,1,elevator,NHRML-0078,Track 1 (outbound platform) to Lower Aberjona parking,Winchester Center Elevator 748 (Track 1 (outbound platform) to Lower Aberjona parking),,,,1
+747,747,1,elevator,place-NHRML-0078,Track 2 (Boston platform) to Waterfield parking,Winchester Center Elevator 747 (Track 2 (Boston platform) to Waterfield parking),,,,1
+748,748,1,elevator,place-NHRML-0078,Track 1 (outbound platform) to Aberjona parking,Winchester Center Elevator 748 (Track 1 (outbound platform) to Aberjona parking),,,,1
 756,756,1,elevator,place-knncl,Ashmont/Braintree platform to Main Street,Kendall/MIT Elevator 756 (Ashmont/Braintree platform to Main Street),,,,1
 757,757,1,elevator,place-knncl,Ashmont/Braintree platform to Main Street,Kendall/MIT Elevator 757 (Ashmont/Braintree platform to Main Street),,,,1
 762,762,1,elevator,place-lech,Platform to North First Street lobby,Lechmere Elevator 762 (Platform to North First Street lobby),,,,1
@@ -1240,8 +1240,8 @@ highlevel-NEC-1891-1,,2,fully-elevated-platform,place-NEC-1891,High-level platfo
 highlevel-NEC-1891-2,,2,fully-elevated-platform,place-NEC-1891,High-level platform (Track 2/Boston),Pawtucket/Central Falls high-level platform (Track 2/Boston),,,,1
 highlevel-NEC-2173-1,,2,fully-elevated-platform,place-NEC-2173,High-level platform (Track 1/Outbound),Route 128 high-level platform (Track 1/Outbound),,,,1
 highlevel-NEC-2173-2,,2,fully-elevated-platform,place-NEC-2173,High-level platform (Track 2/Boston),Route 128 high-level platform (Track 2/Boston),,,,1
-highlevel-NHRML-0078-1,,2,fully-elevated-platform,NHRML-0078,High-level platform,Winchester Center high-level platform,,,,1
-highlevel-NHRML-0078-2,,2,fully-elevated-platform,NHRML-0078,High-level platform,Winchester Center high-level platform,,,,1
+highlevel-NHRML-0078-1,,2,fully-elevated-platform,place-NHRML-0078,High-level platform (Track 1/Outbound),Winchester Center high-level platform (Track 1/Outbound),,,,1
+highlevel-NHRML-0078-2,,2,fully-elevated-platform,place-NHRML-0078,High-level platform (Track 2/Boston),Winchester Center high-level platform (Track 2/Boston),,,,1
 highlevel-NHRML-0127-1,,2,fully-elevated-platform,place-NHRML-0127,High-level platform (Track 1/Outbound),Anderson/Woburn high-level platform (Track 1/Outbound),,,,1
 highlevel-NHRML-0127-2,,2,fully-elevated-platform,place-NHRML-0127,High-level platform (Track 2/Boston),Anderson/Woburn high-level platform (Track 2/Boston),,,,1
 highlevel-NHRML-0254-3,,2,fully-elevated-platform,place-NHRML-0254,High-level platform (Track 3),Lowell high-level platform (Track 3),,,,1
