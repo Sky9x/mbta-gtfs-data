@@ -1,17 +1,9 @@
 service_id,date,exception_type,holiday_name
-LRV42024-hlb44011-Weekday-01,20241107,1,
-LRV42024-hlb44011-Weekday-01,20241108,1,
-BUS42024-hbg44rd1-Weekday-02,20241111,2,Veterans Day
-BUS42024-hbs44sn1-Weekday-02,20241111,1,Veterans Day
-BUS42024-hbs44sw1-Weekday-02,20241111,2,Veterans Day
-FallWeekday,20241111,2,Veterans Day
-LRV42024-hlb44ul6-Saturday-01,20241111,1,Veterans Day
-VeteransDay-DayafterThanksgivingDay,20241111,1,Veterans Day
-RTL42024-hms44sp1-Weekday-01,20241118,2,
-RTL42024-hms44sp1-Weekday-01,20241119,2,
-RTL42024-hms44sp1-Weekday-01,20241120,2,
-RTL42024-hms44sp1-Weekday-01,20241121,2,
-RTL42024-hms44sp1-Weekday-01,20241122,2,
+RTL42024-hms44sp1-Weekday-01,20241112,1,
+RTL42024-hms44sp1-Weekday-01,20241113,1,
+RTL42024-hms44sp1-Weekday-01,20241114,1,
+RTL42024-hms44sp1-Weekday-01,20241115,1,
+BUS42024-hbs44sw6-Saturday-02,20241116,1,
 RTL42024-hms44016-Saturday-01,20241123,2,
 RTL42024-hms44017-Sunday-01,20241124,2,
 BUS42024-hbs44sw1-Weekday-02,20241125,2,
@@ -43,11 +35,11 @@ RTL42024-hmo44011-Weekday-01,20241128,2,Thanksgiving Day
 RTL42024-hms44sp1-Weekday-01,20241128,2,Thanksgiving Day
 ThanksgivingDay,20241128,1,Thanksgiving Day
 BUS42024-hbg44rd1-Weekday-02,20241129,2,Day after Thanksgiving Day
-BUS42024-hbs44sf1-Weekday-02,20241129,1,Day after Thanksgiving Day
 BUS42024-hbs44sw1-Weekday-02,20241129,2,Day after Thanksgiving Day
 Boat-EastBoston-Weekday-Fall-24,20241129,1,Day after Thanksgiving Day
 Boat-F6-Weekday-Fall-24,20241129,1,Day after Thanksgiving Day
 Boat-Lynn-Weekday-Fall-24,20241129,1,Day after Thanksgiving Day
+DayafterThanksgivingDay,20241129,1,Day after Thanksgiving Day
 FALL 2024-N-Wdy-1-S6561ad1d-HvlBrdVn,20241129,2,Day after Thanksgiving Day
 FALL 2024-NORTHWKD-Weekday-1,20241129,2,Day after Thanksgiving Day
 FALL 2024-NORTHWKD-Weekday-1-S7d8482ee,20241129,2,Day after Thanksgiving Day
@@ -60,14 +52,13 @@ FALL 2024-SOUTHWKD-Weekday-1-Sb7371956,20241129,2,Day after Thanksgiving Day
 FALL 2024-SOUTHWKD-Weekday-1-Sc9a3b080,20241129,2,Day after Thanksgiving Day
 FALL 2024-SOUTHWKD-Weekday-1-Scbbf1ea5,20241129,2,Day after Thanksgiving Day
 FallWeekday,20241129,2,Day after Thanksgiving Day
-VeteransDay-DayafterThanksgivingDay,20241129,1,Day after Thanksgiving Day
 SPRING2024-SOUTHSUN-Sunday-64A,20241201,1,
-BUS42024-hbs44sw6-Saturday-02,20241207,1,
+FALL 2024-NORTHSAT-Saturday-6,20241207,1,
+Fall/WinterSaturday,20241207,1,
 BUS42024-hbs44sw7-Sunday-02,20241208,1,
 FALL 2024-N-Sunday-1-S6561ad1d-HvlBrdVn,20241208,1,
-FALL 2024-NORTHSUN-Sunday-1,20241208,1,
-FALL 2024-NORTHSUN-Sunday-1-S7d8482ee,20241208,1,
 FALL 2024-NORTHSUN-Sunday-1-S9d378dcf,20241208,1,
+FALL 2024-NORTHSUN-Sunday-6,20241208,1,
 FALL 2024-SOUTHSUN-Sunday-1,20241208,1,
 FALL 2024-SOUTHSUN-Sunday-1-S85407dc6,20241208,1,
 FALL 2024-SOUTHSUN-Sunday-1-S859962ef,20241208,1,
@@ -75,6 +66,8 @@ FALL 2024-SOUTHSUN-Sunday-1-Sb0e4ed14,20241208,1,
 FALL 2024-SOUTHSUN-Sunday-1-Sb7371956,20241208,1,
 FALL 2024-SOUTHSUN-Sunday-1-Sc9a3b080,20241208,1,
 FALL 2024-SOUTHSUN-Sunday-1-Scbbf1ea5,20241208,1,
+Fall/WinterSunday,20241208,1,
 BUS42024-hbg44wk1-Weekday-02,20241209,1,
 BUS42024-hbg44wk1-Weekday-02,20241213,1,
-BUS42024-hbs44sw6-Saturday-02,20241214,1,
+FALL 2024-NORTHSAT-Saturday-1,20241214,1,
+FALL 2024-NORTHSAT-Saturday-1-S7d8482ee,20241214,1,
