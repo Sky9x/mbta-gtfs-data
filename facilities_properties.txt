@@ -8642,7 +8642,6 @@ facility_id,property_id,value
 512,direction,up
 512,excludes-stop,2076
 512,excludes-stop,20761
-512,excludes-stop,76126
 512,excludes-stop,door-harsq-brattle
 512,excludes-stop,door-harsq-church
 512,excludes-stop,door-harsq-yard
@@ -8684,7 +8683,6 @@ facility_id,property_id,value
 513,direction,down
 513,excludes-stop,2076
 513,excludes-stop,20761
-513,excludes-stop,76126
 513,excludes-stop,door-harsq-brattle
 513,excludes-stop,door-harsq-church
 513,excludes-stop,door-harsq-yard
@@ -8726,7 +8724,6 @@ facility_id,property_id,value
 514,direction,up
 514,excludes-stop,2076
 514,excludes-stop,20761
-514,excludes-stop,76126
 514,excludes-stop,door-harsq-brattle
 514,excludes-stop,door-harsq-church
 514,excludes-stop,door-harsq-yard
@@ -8768,7 +8765,6 @@ facility_id,property_id,value
 515,direction,down
 515,excludes-stop,2076
 515,excludes-stop,20761
-515,excludes-stop,76126
 515,excludes-stop,door-harsq-brattle
 515,excludes-stop,door-harsq-church
 515,excludes-stop,door-harsq-yard
@@ -9109,11 +9105,6 @@ facility_id,property_id,value
 6476,excludes-stop,node-sstat-south-fareunpaid
 701,alternate-service-text,Please use nearby Wonderland Elevators 702 or 703.
 701,excludes-stop,15795
-701,excludes-stop,15796
-701,excludes-stop,15797
-701,excludes-stop,15798
-701,excludes-stop,15799
-701,excludes-stop,15800
 701,excludes-stop,door-wondl-nshore
 701,excludes-stop,door-wondl-ocean
 701,excludes-stop,door-wondl-oceann
@@ -9161,11 +9152,6 @@ facility_id,property_id,value
 701,excludes-stop,node-wondl-revereramp-top
 702,alternate-service-text,Please use nearby Wonderland Elevators 701 or 703.
 702,excludes-stop,15795
-702,excludes-stop,15796
-702,excludes-stop,15797
-702,excludes-stop,15798
-702,excludes-stop,15799
-702,excludes-stop,15800
 702,excludes-stop,door-wondl-nshore
 702,excludes-stop,door-wondl-ocean
 702,excludes-stop,door-wondl-oceann
@@ -9213,11 +9199,6 @@ facility_id,property_id,value
 702,excludes-stop,node-wondl-revereramp-top
 703,alternate-service-text,Please use nearby Wonderland Elevators 701 or 702.
 703,excludes-stop,15795
-703,excludes-stop,15796
-703,excludes-stop,15797
-703,excludes-stop,15798
-703,excludes-stop,15799
-703,excludes-stop,15800
 703,excludes-stop,door-wondl-nshore
 703,excludes-stop,door-wondl-ocean
 703,excludes-stop,door-wondl-oceann
@@ -9264,11 +9245,6 @@ facility_id,property_id,value
 703,excludes-stop,node-wondl-plazacenter
 703,excludes-stop,node-wondl-revereramp-top
 708,alternate-service-text,"To access the pedestrian bridge from the main lobby, use Wonderland Elevators 701, 702 or 703. Exit the elevator at level 2, then turn left and proceed to the pedestrian bridge. To access the main lobby from the pedestrian bridge, proceed to the parking garage--level 2, and use Wonderland Elevators 701, 702 or 703."
-708,excludes-stop,15796
-708,excludes-stop,15797
-708,excludes-stop,15798
-708,excludes-stop,15799
-708,excludes-stop,15800
 708,excludes-stop,door-wondl-nshore
 708,excludes-stop,door-wondl-ocean
 708,excludes-stop,door-wondl-oceann
@@ -9419,11 +9395,6 @@ facility_id,property_id,value
 710,excludes-stop,node-wondl-plazacenter
 710,excludes-stop,node-wondl-revereramp-top
 711,alternate-service-text,"To access Ocean Blvd from the pedestrian plaza, travel along the plaza towards the station and use Wonderland Elevator 710 to access the Wonderland outbound platform. At the platform, exit through the gate and continue along the pathway to Ocean Blvd. To access the pedestrian plaza from Ocean Blvd, travel south on Ocean Blvd for approximately 300 feet, then turn right at the Wonderland pathway. Proceed to the Wonderland platform and use Wonderland Elevator 710."
-711,excludes-stop,15796
-711,excludes-stop,15797
-711,excludes-stop,15798
-711,excludes-stop,15799
-711,excludes-stop,15800
 711,excludes-stop,door-wondl-nshore
 711,excludes-stop,door-wondl-oceann
 711,excludes-stop,door-wondl-oceannele
@@ -12667,14 +12638,6 @@ facility_id,property_id,value
 861,excludes-stop,node-cntsq-westernstair-platform
 864,alternate-service-text,"To exit, exit the left side of the train onto the center platform and use Wellington Elevator 865. To board, use Wellington Elevator 865 to access the center platform."
 864,excludes-stop,5271
-864,excludes-stop,52710
-864,excludes-stop,52711
-864,excludes-stop,52712
-864,excludes-stop,52713
-864,excludes-stop,52714
-864,excludes-stop,52715
-864,excludes-stop,52716
-864,excludes-stop,52720
 864,excludes-stop,70032
 864,excludes-stop,door-welln-busway
 864,excludes-stop,door-welln-garage
@@ -12700,13 +12663,6 @@ facility_id,property_id,value
 865,alternate-service-text,"To exit when traveling on a Forest Hills-bound train, exit onto the center platform and wait for an Oak Grove train to arrive. When the train arrives, cross through the train over to the opposite platform and use Wellington Elevator 864. To exit the train when traveling on an Oak Grove-bound train, exit the right side of the train onto the Oak Grove platform and use Wellington Elevator 864. To board a Forest Hills-bound train, use Wellington Elevator 864 to access the Oak Grove platform, then wait for an Oak Grove-bound train to arrive. When the train arrives, cross through the train over to the center platform."
 865,excludes-stop,5271
 865,excludes-stop,52710
-865,excludes-stop,52711
-865,excludes-stop,52712
-865,excludes-stop,52713
-865,excludes-stop,52714
-865,excludes-stop,52715
-865,excludes-stop,52716
-865,excludes-stop,52720
 865,excludes-stop,door-welln-busway
 865,excludes-stop,door-welln-garage
 865,excludes-stop,node-309-lobby
