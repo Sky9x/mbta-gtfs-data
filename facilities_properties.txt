@@ -1752,7 +1752,6 @@ facility_id,property_id,value
 305,excludes-stop,node-ccmnl-stairs-platform
 307,direction,up
 307,excludes-stop,29001
-307,excludes-stop,29002
 307,excludes-stop,29003
 307,excludes-stop,29004
 307,excludes-stop,29005
@@ -1785,7 +1784,6 @@ facility_id,property_id,value
 307,excludes-stop,node-sull-sbstairs-platform
 308,direction,up
 308,excludes-stop,29001
-308,excludes-stop,29002
 308,excludes-stop,29003
 308,excludes-stop,29004
 308,excludes-stop,29005
@@ -1817,7 +1815,6 @@ facility_id,property_id,value
 308,excludes-stop,node-sull-sbstairs-lobby
 308,excludes-stop,node-sull-sbstairs-platform
 309,direction,up
-309,excludes-stop,5271
 309,excludes-stop,52710
 309,excludes-stop,52711
 309,excludes-stop,52712
@@ -1848,7 +1845,6 @@ facility_id,property_id,value
 309,excludes-stop,node-welln-skyentry
 309,excludes-stop,node-welln-skystairs-bridge
 310,direction,up
-310,excludes-stop,5271
 310,excludes-stop,52710
 310,excludes-stop,52711
 310,excludes-stop,52712
@@ -8649,8 +8645,6 @@ facility_id,property_id,value
 511,excludes-stop,node-portr-weststairs-crplatform
 511,excludes-stop,node-portr-weststairs-street
 512,direction,up
-512,excludes-stop,2076
-512,excludes-stop,20761
 512,excludes-stop,door-harsq-brattle
 512,excludes-stop,door-harsq-church
 512,excludes-stop,door-harsq-yard
@@ -8690,8 +8684,6 @@ facility_id,property_id,value
 512,excludes-stop,node-harsq-upperramp-upper
 512,excludes-stop,node-harsq-yardstair-lobby
 513,direction,down
-513,excludes-stop,2076
-513,excludes-stop,20761
 513,excludes-stop,door-harsq-brattle
 513,excludes-stop,door-harsq-church
 513,excludes-stop,door-harsq-yard
@@ -8731,8 +8723,6 @@ facility_id,property_id,value
 513,excludes-stop,node-harsq-upperramp-upper
 513,excludes-stop,node-harsq-yardstair-lobby
 514,direction,up
-514,excludes-stop,2076
-514,excludes-stop,20761
 514,excludes-stop,door-harsq-brattle
 514,excludes-stop,door-harsq-church
 514,excludes-stop,door-harsq-yard
@@ -8772,8 +8762,6 @@ facility_id,property_id,value
 514,excludes-stop,node-harsq-upperramp-upper
 514,excludes-stop,node-harsq-yardstair-lobby
 515,direction,down
-515,excludes-stop,2076
-515,excludes-stop,20761
 515,excludes-stop,door-harsq-brattle
 515,excludes-stop,door-harsq-church
 515,excludes-stop,door-harsq-yard
@@ -8813,8 +8801,6 @@ facility_id,property_id,value
 515,excludes-stop,node-harsq-upperramp-upper
 515,excludes-stop,node-harsq-yardstair-lobby
 516,direction,up
-516,excludes-stop,2076
-516,excludes-stop,20761
 516,excludes-stop,76121
 516,excludes-stop,76122
 516,excludes-stop,76123
@@ -9113,7 +9099,6 @@ facility_id,property_id,value
 6476,excludes-stop,node-sstat-south-farepaid
 6476,excludes-stop,node-sstat-south-fareunpaid
 701,alternate-service-text,Please use nearby Wonderland Elevators 702 or 703.
-701,excludes-stop,15795
 701,excludes-stop,door-wondl-nshore
 701,excludes-stop,door-wondl-ocean
 701,excludes-stop,door-wondl-oceann
@@ -9160,7 +9145,6 @@ facility_id,property_id,value
 701,excludes-stop,node-wondl-plazacenter
 701,excludes-stop,node-wondl-revereramp-top
 702,alternate-service-text,Please use nearby Wonderland Elevators 701 or 703.
-702,excludes-stop,15795
 702,excludes-stop,door-wondl-nshore
 702,excludes-stop,door-wondl-ocean
 702,excludes-stop,door-wondl-oceann
@@ -9207,7 +9191,6 @@ facility_id,property_id,value
 702,excludes-stop,node-wondl-plazacenter
 702,excludes-stop,node-wondl-revereramp-top
 703,alternate-service-text,Please use nearby Wonderland Elevators 701 or 702.
-703,excludes-stop,15795
 703,excludes-stop,door-wondl-nshore
 703,excludes-stop,door-wondl-ocean
 703,excludes-stop,door-wondl-oceann
@@ -9300,7 +9283,6 @@ facility_id,property_id,value
 708,excludes-stop,node-wondl-plazacenter
 708,excludes-stop,node-wondl-revereramp-top
 709,alternate-service-text,"To access the pedestrian plaza from the North Shore Rd entrance, enter the lobby and use Wonderland Garage Elevators 701, 702 or 703. Exit the elevator at level 2, turn right and  proceed to the pedestrian plaza. To access North Shore Rd from the pedestrian plaza, travel up the ramp to Wonderland garage--level 2 and use Wonderland Elevators 701, 702 or 703. Exit the elevator at ground level, turn right and proceed to the main lobby entrance."
-709,excludes-stop,15795
 709,excludes-stop,15796
 709,excludes-stop,15797
 709,excludes-stop,15798
@@ -9352,7 +9334,6 @@ facility_id,property_id,value
 709,excludes-stop,node-wondl-plazacenter
 709,excludes-stop,node-wondl-revereramp-top
 710,alternate-service-text,"To access the pedestrian plaza from the Wonderland outbound platform, exit through the gate and travel up the ramp to the pedestrian bridge. Proceed across the pedestrian bridge, then turn right and continue straight to the doors leading to the plaza. To access the main lobby from the pedestrian bridge, use Wonderland Elevators 701, 702 or 703, and exit at ground level. To access the Wonderland outbound platform from the pedestrian plaza, travel up the ramp to Wonderland garage--level 2, then continue straight to the pedestrian bridge. Proceed across the pedestrian bridge, then travel down the ramp to the Wonderland outbound platform."
-710,excludes-stop,15795
 710,excludes-stop,15796
 710,excludes-stop,15797
 710,excludes-stop,15798
@@ -11582,8 +11563,6 @@ facility_id,property_id,value
 817,excludes-stop,node-davis-holland-entrance
 817,excludes-stop,node-davis-holland-lobby
 821,alternate-service-text,"To exit, use Harvard Elevator 973 located at the end of upper busway. To board, use Harvard Elevator 973 located at the corner of Brattle St and Brattle Sq."
-821,excludes-stop,2076
-821,excludes-stop,20761
 821,excludes-stop,76126
 821,excludes-stop,door-harsq-brattle
 821,excludes-stop,door-harsq-church
@@ -11798,7 +11777,6 @@ facility_id,property_id,value
 831,excludes-stop,node-jfk-sydneysstair-lobby
 840,alternate-service-text,"To exit when traveling on a Forest Hills-bound train, exit onto the center platform and wait for an Oak Grove train to arrive. When the train arrives, cross through the train over to the opposite platform and use Sullivan Elevator 881. To exit the train when traveling on an Oak Grove-bound train, exit the right side of the train onto the Oak Grove platform and use Sullivan Elevator 881. To board a Forest Hills-bound train, use Sullivan Elevator 881 to access the Oak Grove platform, then wait for an Oak Grove-bound train to arrive. When the train arrives, cross through the train over to the center platform."
 840,excludes-stop,29001
-840,excludes-stop,29002
 840,excludes-stop,29003
 840,excludes-stop,29004
 840,excludes-stop,29005
@@ -12648,7 +12626,6 @@ facility_id,property_id,value
 861,excludes-stop,node-cntsq-westernstair-fareunpaid
 861,excludes-stop,node-cntsq-westernstair-platform
 864,alternate-service-text,"To exit, exit the left side of the train onto the center platform and use Wellington Elevator 865. To board, use Wellington Elevator 865 to access the center platform."
-864,excludes-stop,5271
 864,excludes-stop,70032
 864,excludes-stop,door-welln-busway
 864,excludes-stop,door-welln-garage
@@ -12672,7 +12649,6 @@ facility_id,property_id,value
 864,excludes-stop,node-welln-skyentry
 864,excludes-stop,node-welln-skystairs-bridge
 865,alternate-service-text,"To exit when traveling on a Forest Hills-bound train, exit onto the center platform and wait for an Oak Grove train to arrive. When the train arrives, cross through the train over to the opposite platform and use Wellington Elevator 864. To exit the train when traveling on an Oak Grove-bound train, exit the right side of the train onto the Oak Grove platform and use Wellington Elevator 864. To board a Forest Hills-bound train, use Wellington Elevator 864 to access the Oak Grove platform, then wait for an Oak Grove-bound train to arrive. When the train arrives, cross through the train over to the center platform."
-865,excludes-stop,5271
 865,excludes-stop,52710
 865,excludes-stop,door-welln-busway
 865,excludes-stop,door-welln-garage
@@ -13020,7 +12996,6 @@ facility_id,property_id,value
 880,excludes-stop,node-andrw-sobstairs-platform
 881,alternate-service-text,"To exit, exit the left side of the train onto the center platform and use Sullivan Elevator 840. To board, use Sullivan Elevator 840 to access the center platform."
 881,excludes-stop,29001
-881,excludes-stop,29002
 881,excludes-stop,29003
 881,excludes-stop,29004
 881,excludes-stop,29005
@@ -16307,8 +16282,6 @@ facility_id,property_id,value
 972,excludes-stop,node-kencl-wbstair-lobby
 972,excludes-stop,node-kencl-wbstair-platform
 973,alternate-service-text,"To exit, use Harvard Elevator 821 located in the main lobby. To board, use Harvard Elevator 821 located at the corner of JFK St, Brattle St and Mass Ave (Harvard Sq)."
-973,excludes-stop,2076
-973,excludes-stop,20761
 973,excludes-stop,76126
 973,excludes-stop,door-harsq-church
 973,excludes-stop,door-harsq-square
