@@ -1,15 +1,5 @@
 service_id,date,exception_type,holiday_name
-RTL12025-hmo15011-Weekday-01,20250214,2,
-FALL 2024-N-Sa-1-S6561ad1d-HvlBrdVn,20250215,2,
-FALL 2024-NORTHSAT-Saturday-1-S7d8482ee,20250215,2,
-FALL 2024-NORTHSAT-Saturday-1-S9d378dcf,20250215,2,
-RTL12025-hmo15016-Saturday-01,20250215,2,
-RTL12025-hms15bj6-Saturday-01,20250215,2,
-FALL 2024-N-Sunday-1-S6561ad1d-HvlBrdVn,20250216,2,
-FALL 2024-NORTHSUN-Sunday-1-S7d8482ee,20250216,2,
-FALL 2024-NORTHSUN-Sunday-1-S9d378dcf,20250216,2,
-RTL12025-hmo15017-Sunday-01,20250216,2,
-RTL12025-hms15bj7-Sunday-01,20250216,2,
+WinterWeekday,20250214,1,
 BUS12025-hbb15hl6-Saturday-02,20250217,1,Presidents' Day
 BUS12025-hbc15tp6-Saturday-02,20250217,1,Presidents' Day
 BUS12025-hbg15tp6-Saturday-02,20250217,1,Presidents' Day
@@ -52,16 +42,12 @@ PRIV12025-hpj44016-Saturday-01,20250217,1,Presidents' Day
 PRIV12025-hpp15hl6-Saturday-01,20250217,1,Presidents' Day
 RTL12025-hmb15011-Weekday-01,20250217,2,Presidents' Day
 RTL12025-hmb15hl6-Saturday-01,20250217,1,Presidents' Day
-RTL12025-hmo15011-Weekday-01,20250217,2,Presidents' Day
 RTL12025-hms15011-Weekday-01,20250217,2,Presidents' Day
 RTL12025-hms15hl6-Saturday-01,20250217,1,Presidents' Day
-WinterWeekday,20250217,2,Presidents' Day
-WinterWeekday,20250218,2,
-WinterWeekday,20250219,2,
-WinterWeekday,20250220,2,
-WinterWeekday,20250221,2,
 LRV12025-hlb15016-Saturday-01,20250222,2,
+RTL12025-hmo15016-Saturday-01,20250222,1,
 LRV12025-hlb15017-Sunday-01,20250223,2,
+RTL12025-hmo15017-Sunday-01,20250223,1,
 RTL12025-hms15016-Saturday-01,20250301,1,
 RTL12025-hms15bj6-Saturday-01,20250301,2,
 RTL12025-hms15017-Sunday-01,20250302,1,
@@ -81,7 +67,6 @@ FALL 2024-NORTHSAT-Saturday-1-S9d378dcf,20250308,2,
 Fall/WinterSaturday,20250308,1,
 Orange-NSta-OakGrv-Express-Saturday,20250308,1,
 Orange-NSta-OakGrv-Local-Saturday,20250308,1,
-RTL12025-hmo15016-Saturday-01,20250308,2,
 RTL12025-hmo15on6-Saturday-01,20250308,1,
 CR-NewburyportBeverlyShuttle-Sunday,20250309,1,
 CR-NorthStationReading-Sunday,20250309,1,
@@ -96,7 +81,6 @@ FALL 2024-NORTHSUN-Sunday-13-S7d8482ee,20250309,1,
 FALL 2024-NORTHSUN-Sunday-13-S9d378dcf,20250309,1,
 Orange-NSta-OakGrv-Express-Sunday,20250309,1,
 Orange-NSta-OakGrv-Local-Sunday,20250309,1,
-RTL12025-hmo15017-Sunday-01,20250309,2,
 RTL12025-hmo15on7-Sunday-01,20250309,1,
 RTL12025-hms15016-Saturday-01,20250315,1,
 RTL12025-hms15bj6-Saturday-01,20250315,2,
