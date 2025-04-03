@@ -6916,7 +6916,7 @@ place-CM-0790,,Hyannis,,,,41.660225,-70.276583,CF-zone-hyannis,"215 Iyannough Ro
 CM-0790-S,,Hyannis,Hyannis - CapeFLYER - Track 1 (All Trains),1,Track 1 (All Trains),41.660225,-70.276583,CF-zone-hyannis,,https://www.mbta.com/stops/place-CM-0790,,0,place-CM-0790,1,Barnstable,,,2
 place-DB-0095,,Readville,,,,42.238405,-71.133246,CR-zone-2,"1800 Hyde Park Ave, Hyde Park, MA 02136",https://www.mbta.com/stops/place-DB-0095,,1,,1,Boston,,,
 DB-0095,,Readville,Readville - Commuter Rail,,Commuter Rail,42.238405,-71.133246,CR-zone-2,,https://www.mbta.com/stops/place-DB-0095,,0,place-DB-0095,1,Boston,,,2
-DB-0095-B0,,Readville - Lower Parking Lot,Readville - Commuter Rail Shuttle - Lower Parking Lot,,Commuter Rail Shuttle,42.238773,-71.133271,,,,,0,place-DB-0095,1,Boston,,,3
+DB-0095-B0,,Readville - Lower Parking Lot,Readville - Commuter Rail Shuttle - Lower Parking Lot,,Commuter Rail Shuttle,42.238773,-71.133271,LocalBus,,https://www.mbta.com/stops/place-DB-0095,,0,place-DB-0095,1,Boston,,,3
 FB-0095-04,,Readville,Readville - Commuter Rail - Track 4,4,Track 4,42.237769,-71.133569,CR-zone-2,,https://www.mbta.com/stops/place-DB-0095,,0,place-DB-0095,1,Boston,,,2
 FB-0095-05,,Readville,Readville - Commuter Rail - Track 5,5,Track 5,42.237781,-71.134295,CR-zone-2,,https://www.mbta.com/stops/place-DB-0095,,0,place-DB-0095,1,Boston,,,2
 NEC-2192-02,,Readville,Readville - Commuter Rail - Track 2,2,Track 2,42.238831,-71.133281,CR-zone-2,,https://www.mbta.com/stops/place-DB-0095,,0,place-DB-0095,1,Boston,,,2
@@ -7012,11 +7012,14 @@ ER-0362-01,,Newburyport,Newburyport - Commuter Rail - Track 1,1,Track 1,42.79783
 ER-0362-02,,Newburyport,Newburyport - Commuter Rail - Track 2,2,Track 2,42.797837,-70.877970,CR-zone-8,,https://www.mbta.com/stops/place-ER-0362,,0,place-ER-0362,1,Newburyport,,,2
 ER-0362-B,,Newburyport - Route 1 Parking,Newburyport - Commuter Rail Shuttle - Route 1 Parking,,Commuter Rail Shuttle,42.797059,-70.877515,,,,,0,place-ER-0362,1,Newburyport,,,3
 place-FB-0109,,Endicott,,,,42.233249,-71.158647,CR-zone-2,"186 Grant Ave, Dedham, MA 02026",https://www.mbta.com/stops/place-FB-0109,,1,,2,Dedham,,,
+9370034,,Endicott - Cedar St @ Taylor Ave,Endicott - Commuter Rail Shuttle - Cedar St @ Taylor Ave,,,42.232420,-71.158160,LocalBus,,https://www.mbta.com/stops/place-FB-0109,,0,place-FB-0109,1,Dedham,,,3
 FB-0109,,Endicott,Endicott - Commuter Rail,,Commuter Rail,42.233249,-71.158647,CR-zone-2,,https://www.mbta.com/stops/place-FB-0109,,0,place-FB-0109,2,Dedham,,,2
 FB-0109-01,,Endicott,Endicott - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.233249,-71.158647,CR-zone-2,,https://www.mbta.com/stops/place-FB-0109,,0,place-FB-0109,2,Dedham,,,2
 FB-0109-02,,Endicott,Endicott - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.233249,-71.158647,CR-zone-2,,https://www.mbta.com/stops/place-FB-0109,,0,place-FB-0109,2,Dedham,,,2
+FB-0109-9370033-B1,,Endicott - Cedar St @ Depot Ave,Endicott - Commuter Rail Shuttle - Cedar St @ Depot Ave,,,42.232480,-71.158250,LocalBus,,https://www.mbta.com/stops/place-FB-0109,,0,place-FB-0109,1,Dedham,,,3
 place-FB-0118,,Dedham Corporate Center,,,,42.227079,-71.174254,CR-zone-2,"125 Allied Dr, Dedham, MA 02026",https://www.mbta.com/stops/place-FB-0118,,1,,1,Dedham,,,
-Dedham Corp Center-S,,Dedham Corp Center,Dedham Corp Center - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.227079,-71.174254,,,,,0,place-FB-0118,1,Dedham,,,3
+9370030,,Dedham Corporate Center Station - Rustcraft Rd,Dedham Corporate Center - Commuter Rail Shuttle - Rustcraft Rd,,,42.226800,-71.175580,LocalBus,,https://www.mbta.com/stops/place-FB-0118,,0,place-FB-0118,1,Dedham,,,3
+Dedham Corp Center-S,,Dedham Corp Center,Dedham Corp Center - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.227079,-71.174254,LocalBus,,https://www.mbta.com/stops/place-FB-0118,,0,place-FB-0118,1,Dedham,,,3
 FB-0118,,Dedham Corporate Center,Dedham Corporate Center - Commuter Rail,,Commuter Rail,42.227079,-71.174254,CR-zone-2,,https://www.mbta.com/stops/place-FB-0118,,0,place-FB-0118,1,Dedham,,,2
 FB-0118-01,,Dedham Corporate Center,Dedham Corporate Center - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.227079,-71.174254,CR-zone-2,,https://www.mbta.com/stops/place-FB-0118,,0,place-FB-0118,1,Dedham,,,2
 FB-0118-02,,Dedham Corporate Center,Dedham Corporate Center - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.227079,-71.174254,CR-zone-2,,https://www.mbta.com/stops/place-FB-0118,,0,place-FB-0118,1,Dedham,,,2
@@ -7024,32 +7027,42 @@ place-FB-0125,,Islington,,,,42.221050,-71.183961,CR-zone-3,"48 Carroll Ave, West
 FB-0125,,Islington,Islington - Commuter Rail,,Commuter Rail,42.221050,-71.183961,CR-zone-3,,https://www.mbta.com/stops/place-FB-0125,,0,place-FB-0125,2,Westwood,,,2
 FB-0125-01,,Islington,Islington - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.221050,-71.183961,CR-zone-3,,https://www.mbta.com/stops/place-FB-0125,,0,place-FB-0125,2,Westwood,,,2
 FB-0125-02,,Islington,Islington - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.221050,-71.183961,CR-zone-3,,https://www.mbta.com/stops/place-FB-0125,,0,place-FB-0125,2,Westwood,,,2
+FB-0125-20620-B0,,Islington - Washington St opp Waldo Way,Islington - Commuter Rail Shuttle - Washington St opp Waldo Way,,,42.222290,-71.187530,LocalBus,,https://www.mbta.com/stops/place-FB-0125,,0,place-FB-0125,1,Westwood,,,3
+FB-0125-80619-B1,,Washington St @ Waldo Way,Islington (Shuttle Stop),,,42.222340,-71.187390,LocalBus,,https://www.mbta.com/stops/place-FB-0125,,0,place-FB-0125,1,Dedham,,,3
 place-FB-0143,,Norwood Depot,,,,42.196857,-71.196688,CR-zone-3,"14 Hill St, Norwood, MA 02062",https://www.mbta.com/stops/place-FB-0143,,1,,1,Norwood,,,
 FB-0143,,Norwood Depot,Norwood Depot - Commuter Rail,,Commuter Rail,42.196857,-71.196688,CR-zone-3,,https://www.mbta.com/stops/place-FB-0143,,0,place-FB-0143,1,Norwood,,,2
 FB-0143-01,,Norwood Depot,Norwood Depot - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.196857,-71.196688,CR-zone-3,,https://www.mbta.com/stops/place-FB-0143,,0,place-FB-0143,1,Norwood,,,2
 FB-0143-02,,Norwood Depot,Norwood Depot - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.196857,-71.196688,CR-zone-3,,https://www.mbta.com/stops/place-FB-0143,,0,place-FB-0143,1,Norwood,,,2
+FB-0143-25618-B0,,Norwood Depot - Washington St @ Railroad Ave,Norwood Depot - Commuter Rail Shuttle - Washington St @ Railroad Ave,,,42.196240,-71.199610,LocalBus,,https://www.mbta.com/stops/place-FB-0143,,0,place-FB-0143,1,Norwood,,,3
+FB-0143-25618-B1,,Washington St @ Railroad Ave,Norwood Depot (Shuttle Stop),,,42.196260,-71.199470,LocalBus,,https://www.mbta.com/stops/place-FB-0143,,0,place-FB-0143,1,Norwood,,,3
 place-FB-0148,,Norwood Central,,,,42.188775,-71.199665,CR-zone-3,"164 Broadway, Norwood, MA 02062",https://www.mbta.com/stops/place-FB-0148,,1,,1,Norwood,,,
+9370028,,Norwood - Broadway @ Norwood Central Station,Norwood - Commuter Rail Shuttle - Broadway @ Norwood Central Station,,,42.188740,-71.200040,LocalBus,,https://www.mbta.com/stops/place-FB-0148,,0,place-FB-0148,1,Norwood,,,3
 FB-0148,,Norwood Central,Norwood Central - Commuter Rail,,Commuter Rail,42.188775,-71.199665,CR-zone-3,,https://www.mbta.com/stops/place-FB-0148,,0,place-FB-0148,1,Norwood,,,2
 FB-0148-01,,Norwood Central,Norwood Central - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.188775,-71.199665,CR-zone-3,,https://www.mbta.com/stops/place-FB-0148,,0,place-FB-0148,1,Norwood,,,2
 FB-0148-02,,Norwood Central,Norwood Central - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.188775,-71.199665,CR-zone-3,,https://www.mbta.com/stops/place-FB-0148,,0,place-FB-0148,1,Norwood,,,2
-Norwood Central-S,,Norwood Central,Norwood Central - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.189180,-71.200060,,,,,0,place-FB-0148,1,Norwood,,,3
+Norwood Central-S,,Norwood Central,Norwood Central - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.189180,-71.200060,LocalBus,,https://www.mbta.com/stops/place-FB-0148,,0,place-FB-0148,1,Norwood,,,3
 place-FB-0166,,Windsor Gardens,,,,42.172127,-71.219366,CR-zone-4,"Buckminster Dr and Engamore Ln, Norwood, MA 02062",https://www.mbta.com/stops/place-FB-0166,,1,,2,Norwood,,,
+26623,,Windsor Gardens - Walpole St @ Garden Parkway ,Windsor Gardens - Commuter Rail Shuttle - Walpole St @ Garden Parkway,,Commuter Rail Shuttle,42.173420,-71.225000,LocalBus,,https://www.mbta.com/stops/place-FB-0166,,0,place-FB-0166,1,Norwood,,,3
+9370036,,Windsor Gardens - Walpole St @ Buckminster Dr,Windsor Gardens - Commuter Rail Shuttle - Walpole St @ Buckminster Dr,,,42.173910,-71.224490,LocalBus,,https://www.mbta.com/stops/place-FB-0166,,0,place-FB-0166,1,Norwood,,,3
 FB-0166-S,,Windsor Gardens,Windsor Gardens - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.172127,-71.219366,CR-zone-4,,https://www.mbta.com/stops/place-FB-0166,,0,place-FB-0166,2,Norwood,,,2
 Windsor Gardens-S,,Windsor Gardens,Windsor Gardens - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.172127,-71.219366,,,,,0,place-FB-0166,1,Norwood,,,3
 place-FB-0177,,Plimptonville,,,,42.159123,-71.236125,CR-zone-4,"185 Plimpton St, Walpole, MA 02081",https://www.mbta.com/stops/place-FB-0177,,1,,2,Walpole,,,
 FB-0177-S,,Plimptonville,Plimptonville - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.159123,-71.236125,CR-zone-4,,https://www.mbta.com/stops/place-FB-0177,,0,place-FB-0177,2,Walpole,,,2
-place-FB-0191,,Walpole,,,,42.145477,-71.257790,CR-zone-4,"275 West St, Walpole, MA 02081",https://www.mbta.com/stops/place-FB-0191,,1,,2,Walpole,,,
+place-FB-0191,,Walpole,,,,42.145477,-71.257790,CR-zone-4,"275 West St, Walpole, MA 02081",https://www.mbta.com/stops/place-FB-0191,,1,,1,Walpole,,,
 FB-0191-B,,Walpole - North Parking Lot,Walpole - Commuter Rail Shuttle - North Parking Lot,,Commuter Rail Shuttle,42.145309,-71.257803,,,,,0,place-FB-0191,1,Walpole,,,3
-FB-0191-S,,Walpole,Walpole - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.145477,-71.257790,CR-zone-4,,https://www.mbta.com/stops/place-FB-0191,,0,place-FB-0191,2,Walpole,,,2
+FB-0191-B0,,Walpole - Elm St @ East St,Walpole - Franklin Line - Elm St @ East St,,Franklin Line Shuttle,42.146030,-71.255580,LocalBus,,https://www.mbta.com/stops/place-FB-0191,,0,place-FB-0191,1,Walpole,Elm Street,East Street,3
+FB-0191-B1,,Walpole - East St @ Elm St,Walpole - Franklin Line - East St @ Elm St,,Franklin Line Shuttle,42.146420,-71.255470,LocalBus,,https://www.mbta.com/stops/place-FB-0191,,0,place-FB-0191,1,Walpole,East Street,Elm Street,3
+FB-0191-S,,Walpole,Walpole - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.145548,-71.257646,CR-zone-4,,https://www.mbta.com/stops/place-FB-0191,,0,place-FB-0191,1,Walpole,,,2
 place-FB-0230,,Norfolk,,,,42.120694,-71.325217,CR-zone-5,"9 Rockwood Rd, Norfolk, MA 02056",https://www.mbta.com/stops/place-FB-0230,,1,,1,Norfolk,,,
-FB-0230-B,,Norfolk - East Parking Lot,Norfolk - Commuter Rail Shuttle - East Parking Lot,,Commuter Rail Shuttle,42.120474,-71.324470,,,,,0,place-FB-0230,1,Norfolk,,,3
+FB-0230-B,,Norfolk - East Parking Lot,Norfolk - Commuter Rail Shuttle - East Parking Lot,,Commuter Rail Shuttle,42.120474,-71.324470,LocalBus,,https://www.mbta.com/stops/place-FB-0230,,0,place-FB-0230,1,Norfolk,,,3
 FB-0230-S,,Norfolk,Norfolk - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.120694,-71.325217,CR-zone-5,,https://www.mbta.com/stops/place-FB-0230,,0,place-FB-0230,1,Norfolk,,,2
 place-FB-0275,,Franklin,,,,42.083238,-71.396102,CR-zone-6,"75 Depot St, Franklin, MA 02038",https://www.mbta.com/stops/place-FB-0275,,1,,1,Franklin,,,
+FB-0275-9370035-B-1,,Franklin - W Central St @ Main St,Franklin - Commuter Rail Shuttle - W Central St @ Main St,,,42.082660,-71.397780,LocalBus,,https://www.mbta.com/stops/place-FB-0275,,0,place-FB-0275,1,Franklin,,,3
 FB-0275-B0,,Franklin - E Central St @ Cottage St,Franklin - Commuter Rail Shuttle - E Central St @ Cottage St,,Commuter Rail Shuttle,42.082350,-71.396213,,,,,0,place-FB-0275,1,Franklin,East Central Street,Cottage Street,3
 FB-0275-B1,,Franklin - Parking Lot,Franklin - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.083443,-71.396111,,,,,0,place-FB-0275,1,Franklin,,,3
 FB-0275-S,,Franklin,Franklin - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.083071,-71.396375,CR-zone-6,,https://www.mbta.com/stops/place-FB-0275,,0,place-FB-0275,1,Franklin,,,2
 place-FB-0303,,Forge Park/495,,,,42.089941,-71.439020,CR-zone-6,"1000 W Central St, Franklin, MA 02038",https://www.mbta.com/stops/place-FB-0303,,1,,1,Franklin,,,
-FB-0303-B,,Forge Park/495 - South Parking Lot,Forge Park/495 - Commuter Rail Shuttle - South Parking Lot,,Commuter Rail Shuttle,42.089825,-71.439075,,,,,0,place-FB-0303,1,Franklin,,,3
+FB-0303-B,,Forge Park/495 - South Parking Lot,Forge Park/495 - Commuter Rail Shuttle - South Parking Lot,,Commuter Rail Shuttle,42.089825,-71.439075,LocalBus,,https://www.mbta.com/stops/place-FB-0303,,0,place-FB-0303,1,Franklin,,,3
 FB-0303-S,,Forge Park/495,Forge Park/495 - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.089941,-71.439020,CR-zone-6,,https://www.mbta.com/stops/place-FB-0303,,0,place-FB-0303,1,Franklin,,,2
 place-FR-0064,,Belmont,,,,42.395896,-71.176190,CR-zone-1,"Common St and Concord Ave, Belmont, MA 02478",https://www.mbta.com/stops/place-FR-0064,,1,,2,Belmont,,,
 FR-0064,,Belmont,Belmont - Commuter Rail,,Commuter Rail,42.395896,-71.176190,CR-zone-1,,https://www.mbta.com/stops/place-FR-0064,,0,place-FR-0064,2,Belmont,,,2
