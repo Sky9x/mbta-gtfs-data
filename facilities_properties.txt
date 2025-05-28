@@ -8640,6 +8640,7 @@ facility_id,property_id,value
 511,excludes-stop,node-portr-weststairs-crplatform
 511,excludes-stop,node-portr-weststairs-street
 512,direction,up
+512,excludes-stop,76129
 512,excludes-stop,door-harsq-brattle
 512,excludes-stop,door-harsq-church
 512,excludes-stop,door-harsq-yard
@@ -8679,6 +8680,7 @@ facility_id,property_id,value
 512,excludes-stop,node-harsq-upperramp-upper
 512,excludes-stop,node-harsq-yardstair-lobby
 513,direction,down
+513,excludes-stop,76129
 513,excludes-stop,door-harsq-brattle
 513,excludes-stop,door-harsq-church
 513,excludes-stop,door-harsq-yard
@@ -8718,6 +8720,7 @@ facility_id,property_id,value
 513,excludes-stop,node-harsq-upperramp-upper
 513,excludes-stop,node-harsq-yardstair-lobby
 514,direction,up
+514,excludes-stop,76129
 514,excludes-stop,door-harsq-brattle
 514,excludes-stop,door-harsq-church
 514,excludes-stop,door-harsq-yard
@@ -8757,6 +8760,7 @@ facility_id,property_id,value
 514,excludes-stop,node-harsq-upperramp-upper
 514,excludes-stop,node-harsq-yardstair-lobby
 515,direction,down
+515,excludes-stop,76129
 515,excludes-stop,door-harsq-brattle
 515,excludes-stop,door-harsq-church
 515,excludes-stop,door-harsq-yard
@@ -8803,6 +8807,7 @@ facility_id,property_id,value
 516,excludes-stop,76125
 516,excludes-stop,76126
 516,excludes-stop,76127
+516,excludes-stop,76129
 516,excludes-stop,door-harsq-brattle
 516,excludes-stop,door-harsq-square
 516,excludes-stop,node-512-landing
@@ -11599,6 +11604,7 @@ facility_id,property_id,value
 817,excludes-stop,node-davis-holland-lobby
 821,alternate-service-text,"To exit, use Harvard Elevator 973 located at the end of upper busway. To board, use Harvard Elevator 973 located at the corner of Brattle St and Brattle Sq."
 821,excludes-stop,76126
+821,excludes-stop,76129
 821,excludes-stop,door-harsq-brattle
 821,excludes-stop,door-harsq-church
 821,excludes-stop,door-harsq-yard
@@ -16316,6 +16322,7 @@ facility_id,property_id,value
 972,excludes-stop,node-kencl-wbstair-platform
 973,alternate-service-text,"To exit, use Harvard Elevator 821 located in the main lobby. To board, use Harvard Elevator 821 located at the corner of JFK St, Brattle St and Mass Ave (Harvard Sq)."
 973,excludes-stop,76126
+973,excludes-stop,76129
 973,excludes-stop,door-harsq-church
 973,excludes-stop,door-harsq-square
 973,excludes-stop,door-harsq-yard
@@ -23482,7 +23489,7 @@ park-nqncy-newport,contact-phone,617-222-3200
 park-nqncy-newport,contact-url,https://www.mbta.com/customer-support
 park-nqncy-newport,enclosed,2
 park-nqncy-newport,fee-daily,Mon-Fri: $5 | Sat-Sun: $3
-park-nqncy-newport,fee-monthly,Monthly passes are not available at this MBTA lot.
+park-nqncy-newport,fee-monthly,$87.50
 park-nqncy-newport,municipality,Quincy
 park-nqncy-newport,operator,Keolis Commuter Services
 park-nqncy-newport,overnight-allowed,no
