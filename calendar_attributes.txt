@@ -1,20 +1,20 @@
 service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
-BUS32025-hba35011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
-BUS32025-hbb35011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
+BUS32025-hba35ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20250615,20250823,Summer
 BUS32025-hbb35j47-Sunday-02,Holiday (Sunday schedule),Holiday,Sunday,3,20250615,20250823,Summer
-BUS32025-hbc35011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
+BUS32025-hbb35ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20250615,20250823,Summer
 BUS32025-hbc35j47-Sunday-02,Holiday (Sunday schedule),Holiday,Sunday,3,20250615,20250823,Summer
-BUS32025-hbf35011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
-BUS32025-hbg35011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
+BUS32025-hbc35ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20250615,20250823,Summer
+BUS32025-hbf35ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20250615,20250823,Summer
 BUS32025-hbg35j47-Sunday-02,Holiday (Sunday schedule),Holiday,Sunday,3,20250615,20250823,Summer
-BUS32025-hbl35011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
+BUS32025-hbg35ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20250615,20250823,Summer
 BUS32025-hbl35j47-Sunday-02,Holiday (Sunday schedule),Holiday,Sunday,3,20250615,20250823,Summer
-BUS32025-hbq35011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
+BUS32025-hbl35ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20250615,20250823,Summer
 BUS32025-hbq35j47-Sunday-02,Holiday (Sunday schedule),Holiday,Sunday,3,20250615,20250823,Summer
-BUS32025-hbs35011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
+BUS32025-hbq35ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20250615,20250823,Summer
 BUS32025-hbs35j47-Sunday-02,Holiday (Sunday schedule),Holiday,Sunday,3,20250615,20250823,Summer
-BUS32025-hbt35011-Weekday-02,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
+BUS32025-hbs35ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20250615,20250823,Summer
 BUS32025-hbt35j47-Sunday-02,Holiday (Sunday schedule),Holiday,Sunday,3,20250615,20250823,Summer
+BUS32025-hbt35ns1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20250615,20250823,Summer
 Boat-EastBoston-Sunday-Summer-25,Sunday schedule,Sunday,Sunday,1,20250303,,Spring/Summer
 Boat-EastBoston-Weekday-Summer-25,Weekday schedule,Weekday,Weekday,1,20250303,,Spring/Summer
 Boat-F1-Sunday-Summer-25,Sunday schedule,Sunday,Sunday,1,20250303,,Spring/Summer
@@ -30,9 +30,15 @@ CR-HaverhillLawrence-Saturday,Saturday schedule,Saturday,Saturday,4,20250324,202
 CR-WorcesterFraminghamAuburndale-Friday,Other schedule,Other,Other,4,20250406,20250614,Spring
 CR-WorcesterFraminghamAuburndale-Std,Saturday schedule,Saturday,Saturday,4,20250406,20250614,Spring
 CR-WorcesterFraminghamAuburndale-Sunday,Sunday schedule,Sunday,Sunday,4,20250406,20250614,Spring
+CR-WorcesterFraminghamAuburndaleSum-Frd,Other schedule,Other,Other,4,20250615,20250823,Summer
+CR-WorcesterFraminghamAuburndaleSum-Snd,Sunday schedule,Sunday,Sunday,4,20250615,20250823,Summer
+CR-WorcesterFraminghamAuburndaleSum-Std,Saturday schedule,Saturday,Saturday,4,20250615,20250823,Summer
 CR-WorcesterWestNewtonKenmore-Friday,Other schedule,Other,Other,4,20250406,20250614,Spring
 CR-WorcesterWestNewtonKenmore-Saturday,Saturday schedule,Saturday,Saturday,4,20250406,20250614,Spring
 CR-WorcesterWestNewtonKenmore-Sunday,Sunday schedule,Sunday,Sunday,4,20250406,20250614,Spring
+CR-WorcesterWestNewtonKenmoreSum-Friday,Other schedule,Other,Other,4,20250615,20250823,Summer
+CR-WorcesterWestNewtonKenmoreSum-Std,Saturday schedule,Saturday,Saturday,4,20250615,20250823,Summer
+CR-WorcesterWestNewtonKenmoreSum-Sunday,Sunday schedule,Sunday,Sunday,4,20250615,20250823,Summer
 LRV32025-hlb35011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
 LRV32025-hlb35j41-Weekday-01,Holiday (Weekday schedule),Holiday,Weekday,3,20250615,20250823,Summer
 LRV32025-hlm35011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
@@ -44,8 +50,10 @@ Orange-7-Weekday-33963,Weekday schedule (Signals),Weekday (Signals),Weekday,4,20
 PRIV22025-hpj25017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20250406,20250614,Spring
 PRIV32025-hpa35011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
 PRIV32025-hpj35011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
-PRIV32025-hpp35011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
 PRIV32025-hpp35j47-Sunday-01,Holiday (Sunday schedule),Holiday,Sunday,3,20250615,20250823,Summer
+PRIV32025-hpp35ns1-Weekday-01,Weekday schedule (no school),Weekday (no school),Weekday,1,20250615,20250823,Summer
+RTL22025-hmo25011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20250406,20250614,Spring
+RTL22025-hmo25011-Weekday-01-16-4,Other schedule,Other,Other,4,20250530,20250530,Summer 2025
 RTL22025-hmo25016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20250406,20250614,Spring
 RTL22025-hmo25017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20250406,20250614,Spring
 RTL22025-hmo25fn6-Saturday-01,New Year's Eve schedule,New Year's Eve,Saturday,2,20250406,20250614,Spring
@@ -104,6 +112,7 @@ SPRING2025-SOUTHWKD-Weekday-1-Sc9a3b080,Weekday schedule,Weekday,Weekday,1,20250
 SPRING2025-SOUTHWKD-Weekday-1-Sd88ed885,Weekday schedule,Weekday,Weekday,1,20250324,,Spring/Summer
 SPRING2025-SOUTHWKD-Weekday-11-Sb4,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20250324,,Spring/Summer
 SPRING2025-SOUTHWKD-Weekday-16-5-S49,Friday schedule,Friday,Weekday,1,20250324,,Spring/Summer
+SPRING2025-SOUTHWKD-Weekday-17-Sb4,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20250324,,Spring/Summer
 SPRING2025-SOUTHWKD-Weekday-3-S85407dc6,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20250324,,Spring/Summer
 SPRING2025-SOUTHWKD-Weekday-3-Scbbf1ea5,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20250324,,Spring/Summer
 Spring/SummerSaturday,Saturday schedule,Saturday,Saturday,1,20250303,,Spring/Summer
@@ -113,6 +122,6 @@ SpringSunday,Sunday schedule,Sunday,Sunday,1,20250406,20250614,Spring
 SpringWeekday,Weekday schedule,Weekday,Weekday,1,20250406,20250614,Spring
 SummerSaturday,Saturday schedule,Saturday,Saturday,1,20250615,20250823,Summer
 SummerSunday,Sunday schedule,Sunday,Sunday,1,20250615,20250823,Summer
-SummerWeekday,Weekday schedule (no school),Weekday (no school),Weekday,1,20250615,20250823,Summer
+SummerWeekday,Weekday schedule,Weekday,Weekday,1,20250615,20250823,Summer
 canonical,Canonical reference trips only,Canonical reference trips,Other,6,20220313,,Reference
 fare_regular,Regular fares,Regular,Other,0,20231217,,Fares
