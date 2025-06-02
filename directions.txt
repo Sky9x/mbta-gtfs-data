@@ -433,6 +433,8 @@ Shuttle-BabcockCopley,0,West,Boston College
 Shuttle-BabcockCopley,1,East,Government Center
 Shuttle-BabcockKenmore,0,West,Boston College
 Shuttle-BabcockKenmore,1,East,Government Center
+Shuttle-BabcockStreetBackBayViaCopley,0,Outbound,Babcock Street
+Shuttle-BabcockStreetBackBayViaCopley,1,Inbound,Back Bay
 Shuttle-BackBayBostonLanding,0,Outbound,Worcester
 Shuttle-BackBayBostonLanding,1,Inbound,South Station
 Shuttle-BackBayBostonUniversityEast,0,West,Boston College
@@ -569,10 +571,6 @@ Shuttle-GovernmentCenterMedfordViaUnionSq,0,West,Government Center
 Shuttle-GovernmentCenterMedfordViaUnionSq,1,East,Medford/Tufts
 Shuttle-GovernmentCenterNorthStation,0,West,Copley & West
 Shuttle-GovernmentCenterNorthStation,1,East,Lechmere & North
-Shuttle-GovernmentCenterOrientHeightsExpress,0,West,Government Center
-Shuttle-GovernmentCenterOrientHeightsExpress,1,East,Orient Heights
-Shuttle-GovernmentCenterOrientHeightsLocal,0,West,Government Center
-Shuttle-GovernmentCenterOrientHeightsLocal,1,East,Orient Heights
 Shuttle-GovernmentCenterUnionSquare,0,West,Copley & West
 Shuttle-GovernmentCenterUnionSquare,1,East,Union Square
 Shuttle-GovernmentCenterWonderland,0,South,Government Center
@@ -617,6 +615,8 @@ Shuttle-JFKParkStreetViaPostOffice,0,South,Ashmont/Braintree
 Shuttle-JFKParkStreetViaPostOffice,1,North,Alewife
 Shuttle-KendallPark,0,South,Ashmont/Braintree
 Shuttle-KendallPark,1,North,Alewife
+Shuttle-KenmoreBackBayViaCopley,0,Outbound,Kenmore
+Shuttle-KenmoreBackBayViaCopley,1,Inbound,Back Bay
 Shuttle-KenmoreReservoir,0,West,Riverside
 Shuttle-KenmoreReservoir,1,East,Union Square
 Shuttle-KenmoreRiverside,0,West,Riverside
@@ -683,6 +683,10 @@ Shuttle-OakGroveRockportLimited,0,Outbound,Rockport
 Shuttle-OakGroveRockportLimited,1,Inbound,North Station
 Shuttle-OakGroveSalemLocal,0,Outbound,Newburyport or Rockport
 Shuttle-OakGroveSalemLocal,1,Inbound,North Station
+Shuttle-OrientHeightsGovernmentCenterExpress,0,Outbound,Orient Heights
+Shuttle-OrientHeightsGovernmentCenterExpress,1,Inbound,Government Center
+Shuttle-OrientHeightsGovernmentCenterLocal,0,Outbound,Orient Heights
+Shuttle-OrientHeightsGovernmentCenterLocal,1,Inbound,Government Center
 Shuttle-OrientHeightsWonderland,0,West,Bowdoin
 Shuttle-OrientHeightsWonderland,1,East,Wonderland
 Shuttle-PawtucketProvidence,0,Outbound,Wickford Junction
