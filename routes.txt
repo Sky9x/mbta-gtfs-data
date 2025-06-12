@@ -216,7 +216,6 @@ Shuttle-BabcockCopley,1,Green Line B Shuttle,Babcock Street - Copley,Rail Replac
 Shuttle-BabcockKenmore,1,Green Line B Shuttle,Babcock Street - Kenmore,Rail Replacement Bus,3,,FFC72C,000000,60460,Free,line-Green,1,rail_replacement_bus
 Shuttle-BackBayBostonLanding,1,Worcester Line Shuttle,Boston Landing - Back Bay,Rail Replacement Bus,3,,FFC72C,000000,60470,Free,line-Worcester,1,rail_replacement_bus
 Shuttle-BackBayBostonUniversityEast,1,Green Line B Shuttle,Boston University East - Back Bay,Rail Replacement Bus,3,,FFC72C,000000,60490,Free,line-Green,1,rail_replacement_bus
-Shuttle-BackBayForestHills,1,Orange Line Shuttle,Forest Hills - Back Bay,Rail Replacement Bus,3,,FFC72C,000000,60491,Free,line-Orange,1,rail_replacement_bus
 Shuttle-BackBayJackson,1,Orange Line Shuttle,Jackson Square - Back Bay,Rail Replacement Bus,3,,FFC72C,000000,60500,Free,line-Orange,1,rail_replacement_bus
 Shuttle-CopleyJacksonSquare,1,Orange Line Shuttle,Jackson Square - Copley,Rail Replacement Bus,3,,FFC72C,000000,60501,Free,line-Orange,1,rail_replacement_bus
 Shuttle-BackBayKenmore,1,Green Line Shuttle,Kenmore - Back Bay,Rail Replacement Bus,3,,FFC72C,000000,60525,Free,line-Green,1,rail_replacement_bus
@@ -317,7 +316,6 @@ Shuttle-HarvardJFKOmitCongress,1,Red Line Shuttle,Harvard - JFK/UMass via State 
 Shuttle-HarvardKendall,1,Red Line Shuttle,Harvard - Kendall/MIT (Loop),Rail Replacement Bus,3,,FFC72C,000000,61962,Free,line-Red,1,rail_replacement_bus
 Shuttle-HarvardPark,1,Red Line Shuttle,Harvard - Park Street,Rail Replacement Bus,3,,FFC72C,000000,61963,Free,line-Red,1,rail_replacement_bus
 Shuttle-HarvardSouthStation,1,Red Line Shuttle,Harvard - South Station,Rail Replacement Bus,3,,FFC72C,000000,61964,Free,line-Red,1,rail_replacement_bus
-Shuttle-HaverhillLawrence,1,Haverhill Line Shuttle,Haverhill - Lawrence,Rail Replacement Bus,3,,FFC72C,000000,61965,Free,line-Haverhill,1,rail_replacement_bus
 Shuttle-HaverhillMaldenCenter,1,Haverhill Line Shuttle,Haverhill - Malden Center,Rail Replacement Bus,3,,FFC72C,000000,61970,Free,line-Haverhill,1,rail_replacement_bus
 Shuttle-HaverhillNorthStation,1,Haverhill Line Shuttle,Haverhill - North Station,Rail Replacement Bus,3,,FFC72C,000000,61972,Free,line-Haverhill,1,rail_replacement_bus
 Shuttle-HaverhillReadingExpress,1,Haverhill Line Shuttle,Haverhill - Reading (Express),Rail Replacement Bus,3,,FFC72C,000000,61973,Free,line-Haverhill,1,rail_replacement_bus
@@ -377,12 +375,14 @@ Shuttle-StateSullivan,1,Orange Line Shuttle,Sullivan Square - State,Rail Replace
 Shuttle-SuffolkDownsWonderland,1,Blue Line Shuttle,Wonderland - Suffolk Downs,Rail Replacement Bus,3,,FFC72C,000000,62500,Free,line-Blue,1,rail_replacement_bus
 Shuttle-TFGreenWickfordJunction,1,Providence Line Shuttle,Wickford Junction - TF Green Airport,Rail Replacement Bus,3,,FFC72C,000000,62550,Free,line-Providence,1,rail_replacement_bus
 Shuttle-BraintreeJFKUMass,1,Red Line Shuttle,Braintree - JFK/UMass (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62551,Free,line-Red,1,rail_replacement_bus
-Shuttle-KenmoreBackBayViaCopley,1,Green Line B Shuttle,Kenmore - Back Bay (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62552,Free,line-Green,1,rail_replacement_bus
-Shuttle-BabcockStreetBackBayViaCopley,1,Green Line B Shuttle,Babcock Street - Back Bay (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62553,Free,line-Green,1,rail_replacement_bus
-Shuttle-OrientHeightsGovernmentCenterExpress,1,Blue Line Shuttle,Orient Heights - Government Center (Express),Rail Replacement Bus,3,,FFC72C,000000,62554,Free,line-Blue,1,rail_replacement_bus
-Shuttle-OrientHeightsGovernmentCenterLocal,1,Blue Line Shuttle,Orient Heights - Government Center (Local),Rail Replacement Bus,3,,FFC72C,000000,62555,Free,line-Blue,1,rail_replacement_bus
+Shuttle-OrientHeightsGovernmentCenterExpress,1,Blue Line Shuttle,Orient Heights - Government Center (Express),Rail Replacement Bus,3,,FFC72C,000000,62552,Free,line-Blue,1,rail_replacement_bus
+Shuttle-OrientHeightsGovernmentCenterLocal,1,Blue Line Shuttle,Orient Heights - Government Center (Local),Rail Replacement Bus,3,,FFC72C,000000,62553,Free,line-Blue,1,rail_replacement_bus
+Shuttle-ForestHillsBackBay,1,Orange Line Shuttle,Forest Hills - Back Bay (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62554,Free,line-Orange,1,rail_replacement_bus
+Shuttle-ForestHillsBackBayViaCopley,1,Orange Line Shuttle,Forest Hills - Back Bay via Copley (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62555,Free,line-Orange,1,rail_replacement_bus
 Shuttle-GovernmentCenterMedfordTufts,1,Green Line E Shuttle,Government Center - Medford/Tufts (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62556,Free,line-Green,1,rail_replacement_bus
 Shuttle-AshmontJFKUMass,1,Red Line Shuttle,Ashmont - JFK/UMass (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62557,Free,line-Red,1,rail_replacement_bus
-Shuttle-NorthStationOakGroveExpress,1,Orange Line Shuttle,North Station - Oak Grove (Express),Rail Replacement Bus,3,,FFC72C,000000,62558,Free,line-Orange,1,rail_replacement_bus
-Shuttle-NorthStationOakGroveLocal,1,Orange Line Shuttle,North Station - Oak Grove (Local),Rail Replacement Bus,3,,FFC72C,000000,62559,Free,line-Orange,1,rail_replacement_bus
-Shuttle-ForestHillsCopleyViaBackBay,1,Orange Line Shuttle,Forest Hills - Copley (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62560,Free,line-Orange,1,rail_replacement_bus
+Shuttle-NorthStationOakGroveLocal,1,Orange Line Shuttle,North Station - Oak Grove (Local),Rail Replacement Bus,3,,FFC72C,000000,62558,Free,line-Orange,1,rail_replacement_bus
+Shuttle-NorthStationOakGroveExpress,1,Orange Line Shuttle,North Station - Oak Grove (Express),Rail Replacement Bus,3,,FFC72C,000000,62559,Free,line-Orange,1,rail_replacement_bus
+Shuttle-KenmoreBackBayViaCopley,1,Green Line B Shuttle,Kenmore - Back Bay via Copley (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62560,Free,line-Green,1,rail_replacement_bus
+Shuttle-BabcockStreetBackBayViaCopley,1,Green Line B Shuttle,Babcock Street - Back Bay via Copley (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62561,Free,line-Green,1,rail_replacement_bus
+Shuttle-ForestHillsCopleyViaBackBay,1,Orange Line Shuttle,Forest Hills - Copley via Back Bay (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62562,Free,line-Orange,1,rail_replacement_bus
