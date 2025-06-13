@@ -234,9 +234,9 @@ Boat-F1-1-0,Boat-F1,0,Long Wharf - Hingham via Hull,,1,300020010,Boat-F1-1300-Lo
 Boat-F1-2-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,300020020,Boat-F1-0645-Rowes-BF1-A-Weekday-Summer-25,0
 Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,300020030,Boat-F1-0800-Long-BF2H-A-Weekday-Summer-25,0
 Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,300020040,Boat-F1-0910-Long-BF2H-A-Weekday-Summer-25,0
-Boat-F1-5-0,Boat-F1,0,Long Wharf - Hingham via Georges Island & Hull,Summer weekday middays only,1,300020050,Boat-F1-1500-Long-BF2H-A-Sunday-Summer-25,0
+Boat-F1-5-0,Boat-F1,0,Long Wharf - Hingham via Hull,Summer weekday middays only,1,300020050,Boat-F1-1300-Long-BF2H-B-WeekdayModified-Summer-25,0
 Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,300020060,Boat-F1-1215-Long-BF2H-A-Weekday-Summer-25,0
-Boat-F1-7-0,Boat-F1,0,Long Wharf - Hingham via Georges Island,,2,300020070,Boat-F1-1200-Long-BF2H-B-Sunday-Summer-25,0
+Boat-F1-7-0,Boat-F1,0,Long Wharf - Hingham via ,,2,300020070,Boat-F1-1200-Long-BF2H-B-Sunday-Summer-25,0
 Boat-F1-9-0,Boat-F1,0,Long Wharf - Hull via Logan Airport,,2,300020090,Boat-F1-0630-Long-BF2H-A-Weekday-Summer-25,0
 Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,300021000,Boat-F1-1300-Hingham-BF2H-A-Weekday-Summer-25,0
 Boat-F1-1-1,Boat-F1,1,Hingham - Long Wharf via Hull,,1,300021010,Boat-F1-0540-Hingham-BF2H-A-Weekday-Summer-25,0
@@ -245,6 +245,7 @@ Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,300021030,Boat-F1-0730-Hull-BF2H-A-We
 Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,300021040,Boat-F1-1015-Hingham-BF2H-A-Weekday-Summer-25,0
 Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,300021060,Boat-F1-1400-Hingham-BF2H-B-Weekday-Summer-25,0
 Boat-F1-7-1,Boat-F1,1,Hingham - Long Wharf via Georges Island,,2,300021070,Boat-F1-0900-Hingham-BF2H-B-Sunday-Summer-25,0
+Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Summer weekday middays only,2,300021080,Boat-F1-1015-Hingham-BF2H-A-WeekdayModified-Summer-25,0
 Boat-EastBoston-0-0,Boat-EastBoston,0,Long Wharf - Lewis Mall Wharf,,1,300050000,Boat-EastBoston-0615-Long-BEB-01-WeekdayBLDiversion-Summer-25,0
 Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Mall Wharf - Long Wharf,,1,300051000,Boat-EastBoston-0600-Lewis-BEB-01-WeekdayBLDiversion-Summer-25,0
 Boat-Lynn-1-0,Boat-Lynn,0,Long Wharf - Blossom Street Pier,,1,300070010,Boat-Lynn-0645-Long-BLY-01-Weekday-Summer-25,0
@@ -273,8 +274,8 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 4-3-1,4,1,North Station - Design Center (Detour),Weekdays only,1,500401000,68163056,0
 4-1-1,4,1,North Station - Design Center via South Station,Weekdays only,1,500401020,68163247,0
 7-1-0,7,0,Otis St & Summer St - City Point,,1,500700000,68166725,0
-7-2-0,7,0,Otis St & Summer St - City Point via East 1st St,Weekdays only,2,500700040,68166723,0
-7-3-0,7,0,Federal Street - City Point,Weekdays only,2,500700070,69734298,0
+7-3-0,7,0,Federal Street - City Point,Weekdays only,2,500700040,69734298,0
+7-2-0,7,0,Otis St & Summer St - City Point via East 1st St,Weekdays only,2,500700060,68166723,0
 7-1-1,7,1,City Point - Otis St & Summer St,,1,500701000,68165818,0
 7-4-1,7,1,City Point - Federal Street,Weekdays only,2,500701040,69733484,0
 7-5-1,7,1,City Point - South Station,AM peak hours only,2,500701060,68168248,0
@@ -307,8 +308,8 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 15-H-0,15,0,Haymarket Station - Mattapan Station,Early mornings only,3,501500100,68162322,0
 15-2-1,15,1,St Peter's Square - Ruggles Station,Weekdays only,1,501501000,68166605,0
 15-1-1,15,1,Fields Corner Station - Ruggles Station,,2,501501030,68166318,0
-15-3-1,15,1,Kane Square - Nubian Station,Weekday middays only,3,501501070,68167783,0
-15-4-1,15,1,Ashmont Station - Nubian Station,Early mornings only,3,501501090,68165491,0
+15-4-1,15,1,Ashmont Station - Nubian Station,Early mornings only,3,501501070,68165491,0
+15-3-1,15,1,Kane Square - Nubian Station,Weekday middays only,3,501501100,68167783,0
 15-G-1,15,1,Mattapan - Haymarket via Fields Corner & Nubian (Merrimac Detour),Early mornings only,3,501501120,68162556,0
 16-9-0,16,0,Andrew Station - Forest Hills Station via South Bay Center,,2,501600000,68165416,0
 16-8-0,16,0,Harbor Point - Forest Hills Station via South Bay Center,Weekdays only,2,501600040,68165424,0
@@ -388,9 +389,9 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 34-_-1,34,1,Dedham Line - Forest Hills Station,,3,503401040,68689639,0
 34-K-1,34,1,Dedham Line - Townsend St & Humboldt Ave via Forest Hills,Weekday mornings only,3,503401070,68689653,0
 34E-4-0,34E,0,Forest Hills Station - Walpole Center,,1,503410000,68689685,0
-34E-6-0,34E,0,Forest Hills Station - East Walpole,,3,503410040,68689678,0
+34E-6-0,34E,0,Forest Hills Station - East Walpole,,2,503410040,68689678,0
 34E-1-1,34E,1,Walpole Center - Forest Hills Station,,1,503411000,68689680,0
-34E-6-1,34E,1,East Walpole - Forest Hills Station,,3,503411040,68689681,0
+34E-6-1,34E,1,East Walpole - Forest Hills Station,,2,503411040,68689681,0
 35-1-0,35,0,Forest Hills Station - Dedham Mall,,1,503500000,68688599,0
 35-_-0,35,0,Forest Hills Station - Stimson St & Washington St,Mornings only,2,503500040,68688616,0
 35-3-0,35,0,Ave Louis Pasteur - Dedham Mall via Forest Hills Station,Weekday middays only,3,503500080,68689291,0
@@ -404,9 +405,9 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 36-A-0,36,0,Forest Hills Station - Charles River Loop,Weekday middays only,3,503600120,68689256_2,0
 36-8-1,36,1,"VA Hospital, West Roxbury - Forest Hills Station",,1,503601000,68688625,0
 36-1-1,36,1,Millennium Park - Forest Hills Station,Weekdays only,2,503601040,68688618,0
-36-_-1,36,1,Charles River Loop - Forest Hills Station,Weekdays only,3,503601070,68689257,0
-36-9-1,36,1,Charles River Loop - Townsend & Humboldt via Forest Hills,Weekday mornings only,3,503601100,68689829,0
-36-5-1,36,1,Rivermoor Industrial Park - Forest Hills Station,Weekday evenings only,3,503601120,68688645,0
+36-5-1,36,1,Rivermoor Industrial Park - Forest Hills Station,Weekday evenings only,3,503601070,68688645,0
+36-_-1,36,1,Charles River Loop - Forest Hills Station,Weekdays only,3,503601090,68689257,0
+36-9-1,36,1,Charles River Loop - Townsend & Humboldt via Forest Hills,Weekday mornings only,3,503601120,68689829,0
 37-_-0,37,0,Forest Hills Station - Baker St & Vermont St,,1,503700000,68688798,0
 37-D-0,37,0,Forest Hills Station - LaGrange St & Corey St,Weekday middays only,3,503700040,68689266_2,0
 37-_-1,37,1,Baker St & Vermont St - Forest Hills Station,,1,503701000,68688571,0
@@ -464,8 +465,8 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 57-_-1,57,1,Watertown Yard - Kenmore Station,,1,505701000,68164168,0
 57-A-1,57,1,Oak Square - Kenmore Station,Weekday mornings only,3,505701040,68163085_1,0
 57-4-1,57,1,Cambridge St & Warren St - Kenmore Station,Weekday middays only,3,505701060,68167869,0
-57-E-1,57,1,"Oak Square - Union Square, Boston",Weekday early mornings only,3,505701080,68162568_1,0
-57-M-1,57,1,Watertown Yard - Haymarket Station (Detour),Early mornings only,3,505701100,68163194,0
+57-M-1,57,1,Watertown Yard - Haymarket Station (Detour),Early mornings only,3,505701080,68163194,0
+57-E-1,57,1,"Oak Square - Union Square, Boston",Weekday early mornings only,3,505701110,68162568_1,0
 59-2-0,59,0,Watertown Square - Needham Junction,,1,505900000,68163097,0
 59-_-0,59,0,Watertown Square - Needham Junction via Eliot St,Weekdays only,2,505900040,68163216,0
 59-2-1,59,1,Needham Junction - Watertown Square,,1,505901000,68163100,0
@@ -569,7 +570,7 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 93-2-0,93,0,Downtown - Sullivan Square Station via Navy Yard,Weekdays only,1,509300040,68383467,0
 93-_-0,93,0,Haymarket Station - Sullivan Square Station,,2,509300070,68383450,0
 93-5-1,93,1,Sullivan Square Station - Downtown (Detour),,1,509301000,68383466,0
-93-6-1,93,1,Sullivan Square Station - Downtown via Navy Yard (Detour),Weekdays only,1,509301040,68383453,0
+93-6-1,93,1,Sullivan Square Station - Downtown via Navy Yard (Detour),Weekdays only,2,509301040,68383453,0
 93-_-1,93,1,Sullivan Square Station - Haymarket Station,,2,509301070,68383451,0
 93-4-1,93,1,Bunker Hill St at Concord St - Haymarket Station,Weekday middays only,3,509301100,68383518,0
 94-1-0,94,0,Davis Station - Medford Square,,1,509400000,68378676,0
@@ -606,8 +607,8 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 106-_-1,106,1,Lebanon Loop - Wellington Station,Evenings only,3,510601040,68382174,0
 106-4-1,106,1,Lebanon Loop - Malden Center Station,Evenings only,3,510601070,69745468,0
 108-6-0,108,0,Wellington Station - Linden Square,,1,510800000,68378720,0
-108-7-0,108,0,Malden Center Station - Linden Square,Weekdays only,3,510800040,68379087,0
-108-2-0,108,0,Salem St & Sprague St - Linden Square,Weekday middays only,3,510800060,68379058,0
+108-2-0,108,0,Salem St & Sprague St - Linden Square,Weekday middays only,3,510800040,68379058,0
+108-7-0,108,0,Malden Center Station - Linden Square,Weekdays only,3,510800060,68379087,0
 108-6-1,108,1,Linden Square - Wellington Station,,1,510801000,68378714,0
 108-7-1,108,1,Linden Square - Malden Center Station,Weekdays only,3,510801040,68379013,0
 109-_-0,109,0,Harvard Station - Linden Square via Sullivan Square,,1,510900000,68382527,0
@@ -643,14 +644,14 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 132-_-1,132,1,Redstone Shopping Center - Malden Center Station,,1,513201000,68378901,0
 134-3-0,134,0,Wellington Station - North Woburn via Trade Center,Weekdays only,1,513400000,68378701,0
 134-5-0,134,0,Wellington Station - North Woburn,,2,513400020,68379004,0
-134-4-0,134,0,Middlesex Ave - Winthrop St & Brooks St,Weekdays only,2,513400060,68378768,0
-134-6-0,134,0,Wellington Station - Winthrop St & Playstead Rd,,2,513400080,68378978,0
-134-2-0,134,0,Wellington - North Woburn via Trade Ctr & Veterans Ctr,Weekday middays only,2,513400110,68379008,0
+134-6-0,134,0,Wellington Station - Winthrop St & Playstead Rd,,2,513400060,68378978,0
+134-2-0,134,0,Wellington - North Woburn via Trade Ctr & Veterans Ctr,Weekday middays only,2,513400090,68379008,0
+134-4-0,134,0,Middlesex Ave - Winthrop St & Brooks St,Weekdays only,2,513400110,68378768,0
 134-9-0,134,0,Wellington Station - Woburn Square,Sundays only,3,513400130,69745746,0
 134-3-1,134,1,North Woburn - Wellington Station via Trade Center,Weekdays only,1,513401000,68378702,0
 134-5-1,134,1,North Woburn - Wellington Station,,2,513401020,68379005,0
-134-4-1,134,1,Winthrop St & Brooks St - Middlesex Ave,Weekday middays only,2,513401060,68378850,0
-134-6-1,134,1,Winthrop St & Playstead Rd - Wellington Station,,3,513401080,68379003,0
+134-6-1,134,1,Winthrop St & Playstead Rd - Wellington Station,,2,513401060,68379003,0
+134-4-1,134,1,Winthrop St & Brooks St - Middlesex Ave,Weekday middays only,3,513401090,68378850,0
 134-2-1,134,1,North Woburn - Wellington via Trade Ctr & Veterans Ctr,Weekday middays only,3,513401110,68381689,0
 134-9-1,134,1,Woburn Square - Wellington Station,Sundays only,3,513401130,69745738,0
 137-7-0,137,0,Malden Center - Lincoln St @ Reading Depot,,1,513700000,68378693,0
@@ -762,9 +763,9 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 429-5-0,429,0,Neptune Towers - O'Callaghan Way & Osborne St,Weekday middays only,3,542900130,68655362,0
 429-_-1,429,1,Northgate Ctr - Central Sq via Square One & Garfield Ave,,1,542901000,68655366,0
 429-1-1,429,1,"Northgate Shopping Ctr - Central Sq, Lynn via Garfield Ave",Weekday mornings only,2,542901040,68655367,0
-429-3-1,429,1,"O'Callaghan Way & Fecteau Way - Central Square, Lynn",Weekday middays only,2,542901070,68655395,0
-429-4-1,429,1,"O'Callaghan Way & Holyoke St - Central Square, Lynn",Weekday middays only,3,542901090,68655342,0
-429-2-1,429,1,"Northgate Shopping Ctr - Central Sq, Lynn via Square One",Evenings only,3,542901110,68655381,0
+429-3-1,429,1,"O'Callaghan Way & Fecteau Way - Central Square, Lynn",Weekday middays only,3,542901070,68655395,0
+429-2-1,429,1,"Northgate Shopping Ctr - Central Sq, Lynn via Square One",Evenings only,3,542901090,68655381,0
+429-4-1,429,1,"O'Callaghan Way & Holyoke St - Central Square, Lynn",Weekday middays only,3,542901120,68655342,0
 430-1-0,430,0,Malden Center Station - Saugus Center,,1,543000000,68378692,0
 430-6-0,430,0,Malden Center Station - Saugus Center (Omits Square One),Weekday mornings only,2,543000040,68378689,0
 430-7-0,430,0,Salem St & Sprague St - Square One Mall,Weekday middays only,3,543000070,68379039,0
@@ -802,10 +803,10 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 442-7-1,442,1,Marblehead - Wonderland Station via Humphrey St,,1,544201000,68656003,0
 442-9-1,442,1,Marblehead - Lynn Bus Garage via Humphrey St,Sunday late nights only,3,544201040,69993338,0
 450-8-0,450,0,Haymarket Station - Salem Depot,Weekdays only,1,545000000,68655484,0
-450-7-0,450,0,Wonderland Station - Salem Depot,,3,545000030,69993140,0
+450-7-0,450,0,Wonderland Station - Salem Depot,,2,545000030,69993140,0
 450-9-0,450,0,Lynn Bus Garage - Salem Depot,Mornings only,3,545000050,68655683,0
 450-8-1,450,1,Salem Depot - Haymarket Station,Weekdays only,1,545001000,68655652,0
-450-7-1,450,1,Salem Depot - Wonderland Station,,3,545001030,69993184,0
+450-7-1,450,1,Salem Depot - Wonderland Station,,2,545001030,69993184,0
 450-9-1,450,1,Salem Depot - Lynn Bus Garage,Late nights only,3,545001050,68655681,0
 451-1-0,451,0,Salem Depot - North Beverly Station via Tozer Rd,Weekdays only,1,545100000,68655398,0
 451-_-0,451,0,Salem Depot - North Beverly Station via Cabot St,Weekdays only,1,545100030,68655411,0
@@ -840,9 +841,9 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 712-1-0,712,0,"Orient Heights Station, South Busway - Winthrop Beach",,1,571200000,68720193,0
 712-_-0,712,0,"Orient Heights Station, South Busway - Point Shirley",,1,571200040,68720141,0
 712-1-1,712,1,"Winthrop Beach - Orient Heights Station, South Busway",,1,571201000,68720142,0
-712-_-1,712,1,"Point Shirley - Orient Heights Station, South Busway",,2,571201040,70107656,0
+712-_-1,712,1,"Point Shirley - Orient Heights Station, South Busway",,1,571201040,70107656,0
 713-1-0,713,0,"Orient Heights Station, South Busway - Winthrop Beach",,1,571300000,68720192,0
-713-_-0,713,0,Orient Heights Station  - Point Shirley (South Busway),,2,571300040,70107663,0
+713-_-0,713,0,Orient Heights Station  - Point Shirley (South Busway),,1,571300040,70107663,0
 713-1-1,713,1,"Winthrop Beach - Orient Heights Station, South Busway",,1,571301000,68720147,0
 713-_-1,713,1,Point Shirley - Orient Heights Station  (South Busway),,1,571301040,68720116,0
 714-3-0,714,0,Hingham Depot - Pemberton Point,,1,571400000,68714664,0
@@ -859,24 +860,24 @@ Shuttle-AirportGovernmentCenterLocalViaGate-0-0,Shuttle-AirportGovernmentCenterL
 Shuttle-AirportGovernmentCenterLocalViaGate-0-1,Shuttle-AirportGovernmentCenterLocalViaGate,1,Government Center - Airport via Maverick,,5,602091990,AirportBowdoinLocalViaGate-1-sample,1
 Shuttle-AirportMaverick-0-0,Shuttle-AirportMaverick,0,Airport - Maverick,,5,602140990,AirportMaverick-0-sample,1
 Shuttle-AirportMaverick-0-1,Shuttle-AirportMaverick,1,Maverick - Airport,,5,602141990,AirportMaverick-1-sample,1
-Shuttle-AirportWonderland-0-0,Shuttle-AirportWonderland,0,Wonderland - Airport,,5,602150990,AirportWonderland-Weekday-7f109-0-00:00:00,1
-Shuttle-AirportWonderland-0-1,Shuttle-AirportWonderland,1,Airport - Wonderland,,5,602151990,AirportWonderland-Weekday-7f109-1-00:00:00,1
+Shuttle-AirportWonderland-0-0,Shuttle-AirportWonderland,0,Wonderland - Airport,,5,602150990,AirportWonderland-Weekday-aa5ab-0-00:00:00,1
+Shuttle-AirportWonderland-0-1,Shuttle-AirportWonderland,1,Airport - Wonderland,,5,602151990,AirportWonderland-Weekday-aa5ab-1-00:00:00,1
 Shuttle-AlewifeDavis-0-0,Shuttle-AlewifeDavis,0,Alewife - Davis,,5,602160990,AlewifeDavis-0-sample,1
 Shuttle-AlewifeDavis-0-1,Shuttle-AlewifeDavis,1,Davis - Alewife,,5,602161990,AlewifeDavis-1-sample,1
 Shuttle-AlewifeHarvardViaBrattle-0-0,Shuttle-AlewifeHarvardViaBrattle,0,Alewife - Harvard,,5,602180990,AlewifeHarvardViaBrattle-0-sample,1
 Shuttle-AlewifeHarvardViaBrattle-0-1,Shuttle-AlewifeHarvardViaBrattle,1,Harvard - Alewife,,5,602181990,AlewifeHarvardViaBrattle-1-sample,1
-Shuttle-AlewifeHarvardViaHolyoke-0-0,Shuttle-AlewifeHarvardViaHolyoke,0,Harvard - Alewife,,5,602190990,AlewifeHarvardViaHolyoke-Weekday-7f109-0-00:00:00,1
-Shuttle-AlewifeHarvardViaHolyoke-0-1,Shuttle-AlewifeHarvardViaHolyoke,1,Alewife - Harvard,,5,602191990,AlewifeHarvardViaHolyoke-Weekday-7f109-1-00:00:00,1
-Shuttle-AlewifeKendall-0-0,Shuttle-AlewifeKendall,0,Alewife - Kendall/MIT,,5,602200990,AlewifeKendall-Weekday-7f109-0-00:00:00,1
-Shuttle-AlewifeKendall-0-1,Shuttle-AlewifeKendall,1,Kendall/MIT - Alewife,,5,602201990,AlewifeKendall-Weekday-7f109-1-00:00:00,1
-Shuttle-AlewifeKendallExpress-0-0,Shuttle-AlewifeKendallExpress,0,Alewife - Kendall/MIT,,5,602210990,AlewifeKendallExpress-Weekday-7f109-0-00:00:00,1
-Shuttle-AlewifeKendallExpress-0-1,Shuttle-AlewifeKendallExpress,1,Kendall/MIT - Alewife,,5,602211990,AlewifeKendallExpress-Weekday-7f109-1-00:00:00,1
+Shuttle-AlewifeHarvardViaHolyoke-0-0,Shuttle-AlewifeHarvardViaHolyoke,0,Harvard - Alewife,,5,602190990,AlewifeHarvardViaHolyoke-Weekday-aa5ab-0-00:00:00,1
+Shuttle-AlewifeHarvardViaHolyoke-0-1,Shuttle-AlewifeHarvardViaHolyoke,1,Alewife - Harvard,,5,602191990,AlewifeHarvardViaHolyoke-Weekday-aa5ab-1-00:00:00,1
+Shuttle-AlewifeKendall-0-0,Shuttle-AlewifeKendall,0,Alewife - Kendall/MIT,,5,602200990,AlewifeKendall-Weekday-aa5ab-0-00:00:00,1
+Shuttle-AlewifeKendall-0-1,Shuttle-AlewifeKendall,1,Kendall/MIT - Alewife,,5,602201990,AlewifeKendall-Weekday-aa5ab-1-00:00:00,1
+Shuttle-AlewifeKendallExpress-0-0,Shuttle-AlewifeKendallExpress,0,Alewife - Kendall/MIT,,5,602210990,AlewifeKendallExpress-Weekday-aa5ab-0-00:00:00,1
+Shuttle-AlewifeKendallExpress-0-1,Shuttle-AlewifeKendallExpress,1,Kendall/MIT - Alewife,,5,602211990,AlewifeKendallExpress-Weekday-aa5ab-1-00:00:00,1
 Shuttle-AlewifeLittletonExpress-0-0,Shuttle-AlewifeLittletonExpress,0,Alewife - Littleton/Route 495 (Express),,5,602220990,AlewifeLittletonExpress-0-sample,1
 Shuttle-AlewifeLittletonExpress-0-1,Shuttle-AlewifeLittletonExpress,1,Littleton/Route 495 - Alewife (Express),,5,602221990,AlewifeLittletonExpress-1-sample,1
 Shuttle-AlewifeLittletonLocal-0-0,Shuttle-AlewifeLittletonLocal,0,Alewife - Littleton/Route 495 (Local),,5,602230990,AlewifeLittletonLocal-0-sample,1
 Shuttle-AlewifeLittletonLocal-0-1,Shuttle-AlewifeLittletonLocal,1,Littleton/Route 495 - Alewife (Local),,5,602231990,AlewifeLittletonLocal-1-sample,1
-Shuttle-AlewifeParkSt-0-0,Shuttle-AlewifeParkSt,0,Alewife - Park Street,,5,602240990,AlewifeParkSt-Weekday-7f109-0-00:00:00,1
-Shuttle-AlewifeParkSt-0-1,Shuttle-AlewifeParkSt,1,Park Street - Alewife,,5,602241990,AlewifeParkSt-Weekday-7f109-1-00:00:00,1
+Shuttle-AlewifeParkSt-0-0,Shuttle-AlewifeParkSt,0,Alewife - Park Street,,5,602240990,AlewifeParkSt-Weekday-aa5ab-0-00:00:00,1
+Shuttle-AlewifeParkSt-0-1,Shuttle-AlewifeParkSt,1,Park Street - Alewife,,5,602241990,AlewifeParkSt-Weekday-aa5ab-1-00:00:00,1
 Shuttle-AndersonWoburnLowell-0-0,Shuttle-AndersonWoburnLowell,0,Anderson/Woburn - Lowell,,5,602250990,AndersonWoburnLowell-0-sample,1
 Shuttle-AndersonWoburnLowell-0-1,Shuttle-AndersonWoburnLowell,1,Lowell - Anderson/Woburn,,5,602251990,AndersonWoburnLowell-1-sample,1
 Shuttle-AndersonWoburnNorthStationExpress-0-0,Shuttle-AndersonWoburnNorthStationExpress,0,North Station - Anderson/Woburn (Express),,5,602270990,AndersonWoburnNorthStationExpress-0-sample,1
@@ -887,28 +888,28 @@ Shuttle-AndoverHaverhill-0-0,Shuttle-AndoverHaverhill,0,Andover - Haverhill,,5,6
 Shuttle-AndoverHaverhill-0-1,Shuttle-AndoverHaverhill,1,Haverhill - Andover,,5,602321990,AndoverHaverhill-1-sample,1
 Shuttle-AshlandFramingham-0-0,Shuttle-AshlandFramingham,0,Framingham - Ashland,,5,602380990,AshlandClosedFraminghamShuttle-0-sample,1
 Shuttle-AshlandFramingham-0-1,Shuttle-AshlandFramingham,1,Ashland - Framingham,,5,602381990,AshlandClosedFraminghamShuttle-1-sample,1
-Shuttle-AshmontJFK-0-0,Shuttle-AshmontJFK,0,JFK - Ashmont,,5,602500990,AshmontJFK-Weekday-7f109-0-00:00:00,1
-Shuttle-AshmontJFK-0-1,Shuttle-AshmontJFK,1,Ashmont - JFK,,5,602501990,AshmontJFK-Weekday-7f109-1-00:00:00,1
-Shuttle-AshmontBroadway-0-0,Shuttle-AshmontBroadway,0,Broadway - Ashmont,,5,602600990,AshmontBroadway-Weekday-7f109-0-00:00:00,1
-Shuttle-AshmontBroadway-0-1,Shuttle-AshmontBroadway,1,Ashmont - Broadway,,5,602601990,AshmontBroadway-Weekday-7f109-1-00:00:00,1
-Shuttle-AshmontBraintree-0-0,Shuttle-AshmontBraintree,0,Ashmont - Braintree,,5,602700990,AshmontBraintree-Weekday-7f109-0-00:00:00,1
-Shuttle-AshmontBraintree-0-1,Shuttle-AshmontBraintree,1,Braintree - Ashmont,,5,602701990,AshmontBraintree-Weekday-7f109-1-00:00:00,1
-Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,5,603500990,AshmontMattapan-Weekday-7f109-0-00:00:00,1
-Shuttle-AshmontMattapan-0-1,Shuttle-AshmontMattapan,1,Mattapan - Ashmont,,5,603501990,AshmontMattapan-Weekday-7f109-1-00:00:00,1
-Shuttle-AshmontParkStreetViaPostOffice-0-0,Shuttle-AshmontParkStreetViaPostOffice,0,Park Street - Ashmont,,5,603550990,AshmontParkStreetViaPostOffice-Weekday-7f109-0-00:00:00,1
-Shuttle-AshmontParkStreetViaPostOffice-0-1,Shuttle-AshmontParkStreetViaPostOffice,1,Ashmont - Park Street,,5,603551990,AshmontParkStreetViaPostOffice-Weekday-7f109-1-00:00:00,1
+Shuttle-AshmontJFK-0-0,Shuttle-AshmontJFK,0,JFK - Ashmont,,5,602500990,AshmontJFK-Weekday-aa5ab-0-00:00:00,1
+Shuttle-AshmontJFK-0-1,Shuttle-AshmontJFK,1,Ashmont - JFK,,5,602501990,AshmontJFK-Weekday-aa5ab-1-00:00:00,1
+Shuttle-AshmontBroadway-0-0,Shuttle-AshmontBroadway,0,Broadway - Ashmont,,5,602600990,AshmontBroadway-Weekday-aa5ab-0-00:00:00,1
+Shuttle-AshmontBroadway-0-1,Shuttle-AshmontBroadway,1,Ashmont - Broadway,,5,602601990,AshmontBroadway-Weekday-aa5ab-1-00:00:00,1
+Shuttle-AshmontBraintree-0-0,Shuttle-AshmontBraintree,0,Ashmont - Braintree,,5,602700990,AshmontBraintree-Weekday-aa5ab-0-00:00:00,1
+Shuttle-AshmontBraintree-0-1,Shuttle-AshmontBraintree,1,Braintree - Ashmont,,5,602701990,AshmontBraintree-Weekday-aa5ab-1-00:00:00,1
+Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,5,603500990,AshmontMattapan-Weekday-aa5ab-0-00:00:00,1
+Shuttle-AshmontMattapan-0-1,Shuttle-AshmontMattapan,1,Mattapan - Ashmont,,5,603501990,AshmontMattapan-Weekday-aa5ab-1-00:00:00,1
+Shuttle-AshmontParkStreetViaPostOffice-0-0,Shuttle-AshmontParkStreetViaPostOffice,0,Park Street - Ashmont,,5,603550990,AshmontParkStreetViaPostOffice-Weekday-aa5ab-0-00:00:00,1
+Shuttle-AshmontParkStreetViaPostOffice-0-1,Shuttle-AshmontParkStreetViaPostOffice,1,Ashmont - Park Street,,5,603551990,AshmontParkStreetViaPostOffice-Weekday-aa5ab-1-00:00:00,1
 Shuttle-AttleboroProvidenceExpress-0-0,Shuttle-AttleboroProvidenceExpress,0,Attleboro - Providence (Express),,5,603750990,AttleboroProvidenceExpress-0-sample,1
 Shuttle-AttleboroProvidenceExpress-0-1,Shuttle-AttleboroProvidenceExpress,1,Providence - Attleboro (Express),,5,603751990,AttleboroProvidenceExpress-1-sample,1
 Shuttle-AttleboroProvidenceLocal-0-0,Shuttle-AttleboroProvidenceLocal,0,Attleboro - Providence (Local),,5,603760990,AttleboroProvidenceLocal-0-sample,1
 Shuttle-AttleboroProvidenceLocal-0-1,Shuttle-AttleboroProvidenceLocal,1,Providence - Attleboro (Local),,5,603761990,AttleboroProvidenceLocal-1-sample,1
 Shuttle-AuburndaleFramingham-0-0,Shuttle-AuburndaleFramingham,0,Auburndale - Framingham,,4,603800990,CR-WorcesterFraminghamAuburndaleSum-Friday-0-23:55:00,0
 Shuttle-AuburndaleFramingham-0-1,Shuttle-AuburndaleFramingham,1,Framingham - Auburndale,,4,603801990,CR-WorcesterFraminghamAuburndaleSum-Friday-1-23:35:00,0
-Shuttle-BabcockBackBay-0-0,Shuttle-BabcockBackBay,0,Back Bay - Babcock Street,,5,603900990,BabcockBackBay-Weekday-7f109-0-00:00:00,1
-Shuttle-BabcockBackBay-0-1,Shuttle-BabcockBackBay,1,Babcock Street - Back Bay,,5,603901990,BabcockBackBay-Weekday-7f109-1-00:00:00,1
+Shuttle-BabcockBackBay-0-0,Shuttle-BabcockBackBay,0,Back Bay - Babcock Street,,5,603900990,BabcockBackBay-Weekday-aa5ab-0-00:00:00,1
+Shuttle-BabcockBackBay-0-1,Shuttle-BabcockBackBay,1,Babcock Street - Back Bay,,5,603901990,BabcockBackBay-Weekday-aa5ab-1-00:00:00,1
 Shuttle-BabcockBlandford-0-0,Shuttle-BabcockBlandford,0,Blandford Street - Babcock Street,,5,604000990,BabcockStreetBlandfordStreet-0-sample,1
 Shuttle-BabcockBlandford-0-1,Shuttle-BabcockBlandford,1,Babcock Street - Blandford Street,,5,604001990,BabcockStreetBlandfordStreet-1-sample,1
-Shuttle-BabcockBostonCollege-0-0,Shuttle-BabcockBostonCollege,0,Babcock Street - Boston College,,5,604500990,BabcockBostonCollege-Weekday-7f109-0-00:00:00,1
-Shuttle-BabcockBostonCollege-0-1,Shuttle-BabcockBostonCollege,1,Boston College - Babcock Street,,5,604501990,BabcockBostonCollege-Weekday-7f109-1-00:00:00,1
+Shuttle-BabcockBostonCollege-0-0,Shuttle-BabcockBostonCollege,0,Babcock Street - Boston College,,5,604500990,BabcockBostonCollege-Weekday-aa5ab-0-00:00:00,1
+Shuttle-BabcockBostonCollege-0-1,Shuttle-BabcockBostonCollege,1,Boston College - Babcock Street,,5,604501990,BabcockBostonCollege-Weekday-aa5ab-1-00:00:00,1
 Shuttle-BabcockCopley-0-0,Shuttle-BabcockCopley,0,Copley - Babcock Street,,5,604550990,BabcockGovernmentCenter-0-sample,1
 Shuttle-BabcockCopley-0-1,Shuttle-BabcockCopley,1,Babcock Street - Copley,,5,604551990,BabcockGovernmentCenter-1-sample,1
 Shuttle-BabcockKenmore-0-0,Shuttle-BabcockKenmore,0,Kenmore - Babcock Street,,5,604600990,BabcockStreetKenmore-0-sample,1
@@ -919,10 +920,10 @@ Shuttle-BackBayBostonUniversityEast-0-0,Shuttle-BackBayBostonUniversityEast,0,Ba
 Shuttle-BackBayBostonUniversityEast-0-1,Shuttle-BackBayBostonUniversityEast,1,Boston University East - Back Bay,,5,604901990,BostonUniversityEastGovernmentCenterBackBay-1-sample,1
 Shuttle-BackBayJackson-0-0,Shuttle-BackBayJackson,0,Back Bay - Jackson Square,,5,605000990,BackBayJacksonSquare-0-sample,1
 Shuttle-BackBayJackson-0-1,Shuttle-BackBayJackson,1,Jackson Square - Back Bay,,5,605001990,BackBayJacksonSquare-1-sample,1
-Shuttle-CopleyJacksonSquare-0-0,Shuttle-CopleyJacksonSquare,0,Copley - Jackson Square,,5,605010990,CopleyJacksonSquare-Weekday-7f109-0-00:00:00,1
-Shuttle-CopleyJacksonSquare-0-1,Shuttle-CopleyJacksonSquare,1,Jackson Square - Copley,,5,605011990,CopleyJacksonSquare-Weekday-7f109-1-00:00:00,1
-Shuttle-BackBayKenmore-0-0,Shuttle-BackBayKenmore,0,Back Bay - Kenmore,,5,605250990,BackBayKenmore-Weekday-7f109-0-00:00:00,1
-Shuttle-BackBayKenmore-0-1,Shuttle-BackBayKenmore,1,Kenmore - Back Bay,,5,605251990,BackBayKenmore-Weekday-7f109-1-00:00:00,1
+Shuttle-CopleyJacksonSquare-0-0,Shuttle-CopleyJacksonSquare,0,Copley - Jackson Square,,5,605010990,CopleyJacksonSquare-Weekday-aa5ab-0-00:00:00,1
+Shuttle-CopleyJacksonSquare-0-1,Shuttle-CopleyJacksonSquare,1,Jackson Square - Copley,,5,605011990,CopleyJacksonSquare-Weekday-aa5ab-1-00:00:00,1
+Shuttle-BackBayKenmore-0-0,Shuttle-BackBayKenmore,0,Back Bay - Kenmore,,5,605250990,BackBayKenmore-Weekday-aa5ab-0-00:00:00,1
+Shuttle-BackBayKenmore-0-1,Shuttle-BackBayKenmore,1,Kenmore - Back Bay,,5,605251990,BackBayKenmore-Weekday-aa5ab-1-00:00:00,1
 Shuttle-BackBayRuggles-0-0,Shuttle-BackBayRuggles,0,Back Bay - Ruggles,,5,606000990,BackBayRuggles-0-sample,1
 Shuttle-BackBayRuggles-0-1,Shuttle-BackBayRuggles,1,Ruggles - Back Bay,,5,606001990,BackBayRuggles-1-sample,1
 Shuttle-BackBayStMarys-0-0,Shuttle-BackBayStMarys,0,Back Bay - Saint Mary's Street,,5,606200990,GovernmentCenterSaintMarysStreetBackBay-0-sample,1
@@ -964,18 +965,18 @@ Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,
 Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,5,610101990,GreenbushBraintreeSouthStationExtended-1-sample,1
 Shuttle-BraintreeSouthWeymouth-0-0,Shuttle-BraintreeSouthWeymouth,0,Braintree - South Weymouth,,5,610250990,BraintreeSouthWeymouth-0-sample,1
 Shuttle-BraintreeSouthWeymouth-0-1,Shuttle-BraintreeSouthWeymouth,1,South Weymouth - Braintree,,5,610251990,BraintreeSouthWeymouth-1-sample,1
-Shuttle-BroadwayHarvard-0-0,Shuttle-BroadwayHarvard,0,Harvard - Broadway,,5,610310990,BroadwayHarvard-Weekday-7f109-0-00:00:00,1
-Shuttle-BroadwayHarvard-0-1,Shuttle-BroadwayHarvard,1,Broadway - Harvard,,5,610311990,BroadwayHarvard-Weekday-7f109-1-00:00:00,1
-Shuttle-BraintreeBroadway-0-0,Shuttle-BraintreeBroadway,0,Broadway - Braintree,,5,610350990,BraintreeBroadway-Weekday-7f109-0-00:00:00,1
-Shuttle-BraintreeBroadway-0-1,Shuttle-BraintreeBroadway,1,Braintree - Broadway,,5,610351990,BraintreeBroadway-Weekday-7f109-1-00:00:00,1
+Shuttle-BroadwayHarvard-0-0,Shuttle-BroadwayHarvard,0,Harvard - Broadway,,5,610310990,BroadwayHarvard-Weekday-aa5ab-0-00:00:00,1
+Shuttle-BroadwayHarvard-0-1,Shuttle-BroadwayHarvard,1,Broadway - Harvard,,5,610311990,BroadwayHarvard-Weekday-aa5ab-1-00:00:00,1
+Shuttle-BraintreeBroadway-0-0,Shuttle-BraintreeBroadway,0,Broadway - Braintree,,5,610350990,BraintreeBroadway-Weekday-aa5ab-0-00:00:00,1
+Shuttle-BraintreeBroadway-0-1,Shuttle-BraintreeBroadway,1,Braintree - Broadway,,5,610351990,BraintreeBroadway-Weekday-aa5ab-1-00:00:00,1
 Shuttle-BroadwayJFK-0-0,Shuttle-BroadwayJFK,0,Broadway - JFK/UMass,,5,610400990,BroadwayJFKAshmontPlatform-0-sample,1
 Shuttle-BroadwayJFK-0-1,Shuttle-BroadwayJFK,1,JFK/UMass - Broadway,,5,610401990,BroadwayJFKAshmontPlatform-1-sample,1
 Shuttle-BroadwayKendall-0-0,Shuttle-BroadwayKendall,0,Kendall/MIT - Broadway,,5,610500990,BroadwayKendall-0-sample,1
 Shuttle-BroadwayKendall-0-1,Shuttle-BroadwayKendall,1,Broadway - Kendall/MIT,,5,610501990,BroadwayKendall-1-sample,1
 Shuttle-BroadwayKendallOmitDTX-0-0,Shuttle-BroadwayKendallOmitDTX,0,Kendall/MIT - Broadway,,5,610750990,BroadwayKendallOmitDTX-0-sample,1
 Shuttle-BroadwayKendallOmitDTX-0-1,Shuttle-BroadwayKendallOmitDTX,1,Broadway - Kendall/MIT,,5,610751990,BroadwayKendallOmitDTX-1-sample,1
-Shuttle-BroadwayNorthQuincy-0-0,Shuttle-BroadwayNorthQuincy,0,Broadway - North Quincy,,5,610800990,BroadwayNorthQuincy-Weekday-7f109-0-00:00:00,1
-Shuttle-BroadwayNorthQuincy-0-1,Shuttle-BroadwayNorthQuincy,1,North Quincy - Broadway,,5,610801990,BroadwayNorthQuincy-Weekday-7f109-1-00:00:00,1
+Shuttle-BroadwayNorthQuincy-0-0,Shuttle-BroadwayNorthQuincy,0,Broadway - North Quincy,,5,610800990,BroadwayNorthQuincy-Weekday-aa5ab-0-00:00:00,1
+Shuttle-BroadwayNorthQuincy-0-1,Shuttle-BroadwayNorthQuincy,1,North Quincy - Broadway,,5,610801990,BroadwayNorthQuincy-Weekday-aa5ab-1-00:00:00,1
 Shuttle-BroadwayQuincyCenterExpress-0-0,Shuttle-BroadwayQuincyCenterExpress,0,Broadway - Quincy Center (Express),,5,610900990,BroadwayQuincyCenterExpressExtended-0-sample,1
 Shuttle-BroadwayQuincyCenterExpress-0-1,Shuttle-BroadwayQuincyCenterExpress,1,Quincy Center - Broadway (Express),,5,610901990,BroadwayQuincyCenterExpressExtended-1-sample,1
 Shuttle-BrooklineHillsKenmore-0-0,Shuttle-BrooklineHillsKenmore,0,Kenmore - Brookline Hills,,5,611000990,BrooklineHillsKenmore-0-sample,1
@@ -984,8 +985,8 @@ Shuttle-BrooklineHillsNewtonHighlands-0-0,Shuttle-BrooklineHillsNewtonHighlands,
 Shuttle-BrooklineHillsNewtonHighlands-0-1,Shuttle-BrooklineHillsNewtonHighlands,1,Newton Highlands - Brookline Hills,,5,611501990,BrooklineHillsNewtonHighlands-1-sample,1
 Shuttle-BrooklineHillsReservoir-0-0,Shuttle-BrooklineHillsReservoir,0,Brookline Hills - Reservoir,,5,612000990,BrooklineHillsReservoir-0-sample,1
 Shuttle-BrooklineHillsReservoir-0-1,Shuttle-BrooklineHillsReservoir,1,Reservoir - Brookline Hills,,5,612001990,BrooklineHillsReservoir-1-sample,1
-Shuttle-BrooklineHillsRiverside-0-0,Shuttle-BrooklineHillsRiverside,0,Brookline Hills - Riverside,,5,612500990,BrooklineHillsRiverside-Weekday-7f109-0-00:00:00,1
-Shuttle-BrooklineHillsRiverside-0-1,Shuttle-BrooklineHillsRiverside,1,Riverside - Brookline Hills,,5,612501990,BrooklineHillsRiverside-Weekday-7f109-1-00:00:00,1
+Shuttle-BrooklineHillsRiverside-0-0,Shuttle-BrooklineHillsRiverside,0,Brookline Hills - Riverside,,5,612500990,BrooklineHillsRiverside-Weekday-aa5ab-0-00:00:00,1
+Shuttle-BrooklineHillsRiverside-0-1,Shuttle-BrooklineHillsRiverside,1,Riverside - Brookline Hills,,5,612501990,BrooklineHillsRiverside-Weekday-aa5ab-1-00:00:00,1
 Shuttle-BrooklineVillageRiverside-0-0,Shuttle-BrooklineVillageRiverside,0,Brookline Village - Riverside,,5,612750990,BrooklineVillageRiversidePartial-0-sample,1
 Shuttle-BrooklineVillageRiverside-0-1,Shuttle-BrooklineVillageRiverside,1,Riverside - Brookline Village,,5,612751990,BrooklineVillageRiversidePartial-1-sample,1
 Shuttle-ChelseaLynn-0-0,Shuttle-ChelseaLynn,0,Chelsea - Lynn,,5,612900990,ChelseaLynnOmitNorthStation-0-sample,1
@@ -996,16 +997,16 @@ Shuttle-ClevelandCircleKenmore-0-0,Shuttle-ClevelandCircleKenmore,0,Kenmore - Cl
 Shuttle-ClevelandCircleKenmore-0-1,Shuttle-ClevelandCircleKenmore,1,Cleveland Circle - Kenmore,,5,614001990,ClevelandCircleKenmore-1-sample,1
 Shuttle-ClevelandCircleStMarys-0-0,Shuttle-ClevelandCircleStMarys,0,Saint Mary's Street - Cleveland Circle,,5,614100990,ClevelandCircleSaintMarys-0-sample,1
 Shuttle-ClevelandCircleStMarys-0-1,Shuttle-ClevelandCircleStMarys,1,Cleveland Circle - Saint Mary's Street,,5,614101990,ClevelandCircleSaintMarys-1-sample,1
-Shuttle-CopleyForestHills-0-0,Shuttle-CopleyForestHills,0,Copley - ForestHills,,5,614200990,CopleyForestHills-Weekday-7f109-0-00:00:00,1
-Shuttle-CopleyForestHills-0-1,Shuttle-CopleyForestHills,1,ForestHills - Copley,,5,614201990,CopleyForestHills-Weekday-7f109-1-00:00:00,1
+Shuttle-CopleyForestHills-0-0,Shuttle-CopleyForestHills,0,Copley - ForestHills,,5,614200990,CopleyForestHills-Weekday-aa5ab-0-00:00:00,1
+Shuttle-CopleyForestHills-0-1,Shuttle-CopleyForestHills,1,ForestHills - Copley,,5,614201990,CopleyForestHills-Weekday-aa5ab-1-00:00:00,1
 Shuttle-CopleyKenmore-0-0,Shuttle-CopleyKenmore,0,Back Bay - Kenmore,,5,614250990,GreenCGovernmentCenterKenmore-0-sample,1
 Shuttle-CopleyKenmore-0-1,Shuttle-CopleyKenmore,1,Kenmore - Back Bay,,5,614251990,GreenCGovernmentCenterKenmore-1-sample,1
 Shuttle-CopleyRiversideExpress-0-0,Shuttle-CopleyRiversideExpress,0,Copley - Riverside (Express),,5,614300990,CopleyRiversideExpress-0-sample,1
 Shuttle-CopleyRiversideExpress-0-1,Shuttle-CopleyRiversideExpress,1,Riverside - Copley (Express),,5,614301990,CopleyRiversideExpress-1-sample,1
 Shuttle-CopleyRiversideLimited-0-0,Shuttle-CopleyRiversideLimited,0,Copley - Riverside via Woodland (Express),,5,614500990,CopleyRiversideViaWoodlandExpress-0-sample,1
 Shuttle-CopleyRiversideLimited-0-1,Shuttle-CopleyRiversideLimited,1,Riverside - Copley (Express),,5,614501990,CopleyRiversideViaWoodlandExpress-1-sample,1
-Shuttle-CopleyRuggles-0-0,Shuttle-CopleyRuggles,0,Copley - Ruggles,,5,614550990,CopleyRuggles-Weekday-7f109-0-00:00:00,1
-Shuttle-CopleyRuggles-0-1,Shuttle-CopleyRuggles,1,Ruggles - Copley,,5,614551990,CopleyRuggles-Weekday-7f109-1-00:00:00,1
+Shuttle-CopleyRuggles-0-0,Shuttle-CopleyRuggles,0,Copley - Ruggles,,5,614550990,CopleyRuggles-Weekday-aa5ab-0-00:00:00,1
+Shuttle-CopleyRuggles-0-1,Shuttle-CopleyRuggles,1,Ruggles - Copley,,5,614551990,CopleyRuggles-Weekday-aa5ab-1-00:00:00,1
 Shuttle-CopleyWoodlandLimited-0-0,Shuttle-CopleyWoodlandLimited,0,Copley - Woodland via Riverside (Express),,5,614600990,CopleyWoodlandViaRiversideExpressCR-0-sample,1
 Shuttle-CopleyWoodlandLimited-0-1,Shuttle-CopleyWoodlandLimited,1,Woodland - Copley (Express),,5,614601990,CopleyWoodlandViaRiversideExpressCR-1-sample,1
 Shuttle-EastSomervilleMedford-0-0,Shuttle-EastSomervilleMedford,0,Medford/Tufts - East Somerville,,5,614720990,GreenEEastSomervilleMedford-0-sample,1
@@ -1022,8 +1023,8 @@ Shuttle-ForestHillsJackson-0-0,Shuttle-ForestHillsJackson,0,Jackson Square - For
 Shuttle-ForestHillsJackson-0-1,Shuttle-ForestHillsJackson,1,Forest Hills - Jackson Square,,5,616001990,ForestHillsJacksonSquare-1-sample,1
 Shuttle-ForestHillsNeedhamHeights-0-0,Shuttle-ForestHillsNeedhamHeights,0,Forest Hills - Needham Heights,,5,616500990,ForestHillsNeedhamHeights-0-sample,1
 Shuttle-ForestHillsNeedhamHeights-0-1,Shuttle-ForestHillsNeedhamHeights,1,Needham Heights - Forest Hills,,5,616501990,ForestHillsNeedhamHeights-1-sample,1
-Shuttle-ForestHillsNewtonHighlands-0-0,Shuttle-ForestHillsNewtonHighlands,0,Forest Hills - Newton Highlands,,5,616750990,ForestHillsNewtonHighlands-Weekday-7f109-0-00:00:00,1
-Shuttle-ForestHillsNewtonHighlands-0-1,Shuttle-ForestHillsNewtonHighlands,1,Newton Highlands - Forest Hills,,5,616751990,ForestHillsNewtonHighlands-Weekday-7f109-1-00:00:00,1
+Shuttle-ForestHillsNewtonHighlands-0-0,Shuttle-ForestHillsNewtonHighlands,0,Forest Hills - Newton Highlands,,5,616750990,ForestHillsNewtonHighlands-Weekday-aa5ab-0-00:00:00,1
+Shuttle-ForestHillsNewtonHighlands-0-1,Shuttle-ForestHillsNewtonHighlands,1,Newton Highlands - Forest Hills,,5,616751990,ForestHillsNewtonHighlands-Weekday-aa5ab-1-00:00:00,1
 Shuttle-ForestHillsRuggles-0-0,Shuttle-ForestHillsRuggles,0,Ruggles - Forest Hills,,5,617000990,ForestHillsRuggles-0-sample,1
 Shuttle-ForestHillsRuggles-0-1,Shuttle-ForestHillsRuggles,1,Forest Hills - Ruggles,,5,617001990,ForestHillsRuggles-1-sample,1
 Shuttle-ForgeParkNorwoodCentral-0-0,Shuttle-ForgeParkNorwoodCentral,0,Norwood Central - Forge Park/495,,5,617400990,ForgeParkNorwoodCentral-0-sample,1
@@ -1048,8 +1049,8 @@ Shuttle-GreenbushNorthScituate-0-0,Shuttle-GreenbushNorthScituate,0,North Scitua
 Shuttle-GreenbushNorthScituate-0-1,Shuttle-GreenbushNorthScituate,1,Greenbush - North Scituate,,5,619571990,GreenbushNorthScituate-1-sample,1
 Shuttle-HalifaxKingston-0-0,Shuttle-HalifaxKingston,0,Halifax - Kingston,,5,619590990,HalifaxKingston-0-sample,1
 Shuttle-HalifaxKingston-0-1,Shuttle-HalifaxKingston,1,Kingston - Halifax,,5,619591990,HalifaxKingston-1-sample,1
-Shuttle-HarvardJFK-0-0,Shuttle-HarvardJFK,0,Harvard - JFK/UMass,,5,619600990,HarvardJFK-Weekday-7f109-0-00:00:00,1
-Shuttle-HarvardJFK-0-1,Shuttle-HarvardJFK,1,JFK/UMass - Harvard,,5,619601990,HarvardJFK-Weekday-7f109-1-00:00:00,1
+Shuttle-HarvardJFK-0-0,Shuttle-HarvardJFK,0,Harvard - JFK/UMass,,5,619600990,HarvardJFK-Weekday-aa5ab-0-00:00:00,1
+Shuttle-HarvardJFK-0-1,Shuttle-HarvardJFK,1,JFK/UMass - Harvard,,5,619601990,HarvardJFK-Weekday-aa5ab-1-00:00:00,1
 Shuttle-HarvardJFKOmitCongress-0-0,Shuttle-HarvardJFKOmitCongress,0,Harvard - JFK/UMass,,5,619610990,HarvardJFKOmitCongressAshmontPlatform-0-sample,1
 Shuttle-HarvardJFKOmitCongress-0-1,Shuttle-HarvardJFKOmitCongress,1,JFK/UMass - Harvard,,5,619611990,HarvardJFKOmitCongressAshmontPlatform-1-sample,1
 Shuttle-HarvardKendall-0-0,Shuttle-HarvardKendall,0,Harvard - Kendall/MIT (Loop shuttle),,5,619620990,HarvardKendall-0-sample,1
@@ -1068,22 +1069,22 @@ Shuttle-HeathPark-0-0,Shuttle-HeathPark,0,Park Street - Heath Street,,5,61980099
 Shuttle-HeathPark-0-1,Shuttle-HeathPark,1,Heath Street - Park Street,,5,619801990,HeathStreetParkStreet-1-sample,1
 Shuttle-HeathPrudential-0-0,Shuttle-HeathPrudential,0,Prudential - Heath Street,,5,619850990,HeathStreetPrudential-0-sample,1
 Shuttle-HeathPrudential-0-1,Shuttle-HeathPrudential,1,Heath Street - Prudential,,5,619851990,HeathStreetPrudential-1-sample,1
-Shuttle-JFKKendall-0-0,Shuttle-JFKKendall,0,Kendall/MIT - JFK/UMass,,5,619870990,JFKKendall-Weekday-7f109-0-00:00:00,1
-Shuttle-JFKKendall-0-1,Shuttle-JFKKendall,1,JFK/UMass - Kendall/MIT,,5,619871990,JFKKendall-Weekday-7f109-1-00:00:00,1
-Shuttle-JFKMattapan-0-0,Shuttle-JFKMattapan,0,JFK - Mattapan,,5,619900990,JFKMattapan-Weekday-7f109-0-00:00:00,1
-Shuttle-JFKMattapan-0-1,Shuttle-JFKMattapan,1,Mattapan - JFK,,5,619901990,JFKMattapan-Weekday-7f109-1-00:00:00,1
+Shuttle-JFKKendall-0-0,Shuttle-JFKKendall,0,Kendall/MIT - JFK/UMass,,5,619870990,JFKKendall-Weekday-aa5ab-0-00:00:00,1
+Shuttle-JFKKendall-0-1,Shuttle-JFKKendall,1,JFK/UMass - Kendall/MIT,,5,619871990,JFKKendall-Weekday-aa5ab-1-00:00:00,1
+Shuttle-JFKMattapan-0-0,Shuttle-JFKMattapan,0,JFK - Mattapan,,5,619900990,JFKMattapan-Weekday-aa5ab-0-00:00:00,1
+Shuttle-JFKMattapan-0-1,Shuttle-JFKMattapan,1,Mattapan - JFK,,5,619901990,JFKMattapan-Weekday-aa5ab-1-00:00:00,1
 Shuttle-JFKNorthQuincy-0-0,Shuttle-JFKNorthQuincy,0,JFK/UMass - North Quincy,,5,619950990,JFKNorthQuincy-0-sample,1
 Shuttle-JFKNorthQuincy-0-1,Shuttle-JFKNorthQuincy,1,North Quincy - JFK/UMass,,5,619951990,JFKNorthQuincy-1-sample,1
-Shuttle-JFKPark-0-0,Shuttle-JFKPark,0,Park Street - JFK/UMass,,5,619970990,JFKPark-Weekday-7f109-0-00:00:00,1
-Shuttle-JFKPark-0-1,Shuttle-JFKPark,1,JFK/UMass - Park Street,,5,619971990,JFKPark-Weekday-7f109-1-00:00:00,1
-Shuttle-JFKParkStreetViaPostOffice-0-0,Shuttle-JFKParkStreetViaPostOffice,0,Park Street - JFK/UMass,,5,619980990,JFKParkStreetViaPostOffice-Weekday-7f109-0-00:00:00,1
-Shuttle-JFKParkStreetViaPostOffice-0-1,Shuttle-JFKParkStreetViaPostOffice,1,JFK/UMass - Park Street,,5,619981990,JFKParkStreetViaPostOffice-Weekday-7f109-1-00:00:00,1
+Shuttle-JFKPark-0-0,Shuttle-JFKPark,0,Park Street - JFK/UMass,,5,619970990,JFKPark-Weekday-aa5ab-0-00:00:00,1
+Shuttle-JFKPark-0-1,Shuttle-JFKPark,1,JFK/UMass - Park Street,,5,619971990,JFKPark-Weekday-aa5ab-1-00:00:00,1
+Shuttle-JFKParkStreetViaPostOffice-0-0,Shuttle-JFKParkStreetViaPostOffice,0,Park Street - JFK/UMass,,5,619980990,JFKParkStreetViaPostOffice-Weekday-aa5ab-0-00:00:00,1
+Shuttle-JFKParkStreetViaPostOffice-0-1,Shuttle-JFKParkStreetViaPostOffice,1,JFK/UMass - Park Street,,5,619981990,JFKParkStreetViaPostOffice-Weekday-aa5ab-1-00:00:00,1
 Shuttle-KendallPark-0-0,Shuttle-KendallPark,0,Kendall/MIT - Park Street,,5,620000990,KendallParkStreet-0-sample,1
 Shuttle-KendallPark-0-1,Shuttle-KendallPark,1,Park Street - Kendall/MIT,,5,620001990,KendallParkStreet-1-sample,1
 Shuttle-KenmoreReservoir-0-0,Shuttle-KenmoreReservoir,0,Kenmore - Reservoir,,5,620100990,KenmoreReservoir-0-sample,1
 Shuttle-KenmoreReservoir-0-1,Shuttle-KenmoreReservoir,1,Reservoir - Kenmore,,5,620101990,KenmoreReservoir-1-sample,1
-Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,5,620120990,KenmoreRiverside-Weekday-7f109-0-00:00:00,1
-Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,5,620121990,KenmoreRiverside-Weekday-7f109-1-00:00:00,1
+Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,5,620120990,KenmoreRiverside-Weekday-aa5ab-0-00:00:00,1
+Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,5,620121990,KenmoreRiverside-Weekday-aa5ab-1-00:00:00,1
 Shuttle-KenmoreStMarysRiverside-0-0,Shuttle-KenmoreStMarysRiverside,0,Kenmore - Riverside via Saint Mary's Street,,5,620150990,KenmoreStMarysRiversideD-0-sample,1
 Shuttle-KenmoreStMarysRiverside-0-1,Shuttle-KenmoreStMarysRiverside,1,Riverside - Kenmore via Saint Mary's Street,,5,620151990,KenmoreStMarysRiversideD-1-sample,1
 Shuttle-KenmoreStMarysNotFenway-0-0,Shuttle-KenmoreStMarysNotFenway,0,Kenmore - Saint Mary's Street,,5,620170990,KenmoreStMarysNotFenway-0-sample,1
@@ -1104,10 +1105,10 @@ Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,5,6205309
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,5,620531990,LynnSwampscott-1-sample,1
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Rockport Line Shuttle - Gloucester,,5,620550990,ManchesterGloucester-0-sample,1
 Shuttle-ManchesterRockport-0-0,Shuttle-ManchesterRockport,0,Rockport Line Shuttle - Rockport,,5,620600990,ManchesterRockport-0-sample,1
-Shuttle-MaverickWonderland-0-0,Shuttle-MaverickWonderland,0,Wonderland - Maverick,,5,620620990,MaverickWonderland-Weekday-7f109-0-00:00:00,1
-Shuttle-MaverickWonderland-0-1,Shuttle-MaverickWonderland,1,Maverick - Wonderland,,5,620621990,MaverickWonderland-Weekday-7f109-1-00:00:00,1
-Shuttle-MedfordNorthStation-0-0,Shuttle-MedfordNorthStation,0,Medford/Tufts - North Station,,5,620650990,MedfordNorthStation-Weekday-7f109-0-00:00:00,1
-Shuttle-MedfordNorthStation-0-1,Shuttle-MedfordNorthStation,1,North Station - Medford/Tufts,,5,620651990,MedfordNorthStation-Weekday-7f109-1-00:00:00,1
+Shuttle-MaverickWonderland-0-0,Shuttle-MaverickWonderland,0,Wonderland - Maverick,,5,620620990,MaverickWonderland-Weekday-aa5ab-0-00:00:00,1
+Shuttle-MaverickWonderland-0-1,Shuttle-MaverickWonderland,1,Maverick - Wonderland,,5,620621990,MaverickWonderland-Weekday-aa5ab-1-00:00:00,1
+Shuttle-MedfordNorthStation-0-0,Shuttle-MedfordNorthStation,0,Medford/Tufts - North Station,,5,620650990,MedfordNorthStation-Weekday-aa5ab-0-00:00:00,1
+Shuttle-MedfordNorthStation-0-1,Shuttle-MedfordNorthStation,1,North Station - Medford/Tufts,,5,620651990,MedfordNorthStation-Weekday-aa5ab-1-00:00:00,1
 Shuttle-NewburyportOakGroveExpress-0-0,Shuttle-NewburyportOakGroveExpress,0,Oak Grove - Newburyport (Express),,5,620700990,NewburyportOakGroveExpress-0-sample,1
 Shuttle-NewburyportOakGroveExpress-0-1,Shuttle-NewburyportOakGroveExpress,1,Newburyport - Oak Grove (Express),,5,620701990,NewburyportOakGroveExpress-1-sample,1
 Shuttle-NewburyportOakGroveLimited-0-0,Shuttle-NewburyportOakGroveLimited,0,Oak Grove - Newburyport (Limited),,5,620710990,NewburyportOakGroveLimited-0-sample,1
@@ -1116,8 +1117,8 @@ Shuttle-NewburyportSalemExpress-0-0,Shuttle-NewburyportSalemExpress,0,Salem - Ne
 Shuttle-NewburyportSalemExpress-0-1,Shuttle-NewburyportSalemExpress,1,Newburyport - Salem (Express),,5,620751990,NewburyportSalemExpressBeverly-1-sample,1
 Shuttle-NewburyportSalemLocal-0-0,Shuttle-NewburyportSalemLocal,0,Salem - Newburyport,,5,620760990,NewburyportSalem-0-sample,1
 Shuttle-NewburyportSalemLocal-0-1,Shuttle-NewburyportSalemLocal,1,Newburyport - Salem,,5,620761990,NewburyportSalem-1-sample,1
-Shuttle-NewtonHighlandsKenmore-0-0,Shuttle-NewtonHighlandsKenmore,0,Kenmore - Newton Highlands,,5,620900990,NewtonHighlandsKenmore-Weekday-7f109-0-00:00:00,1
-Shuttle-NewtonHighlandsKenmore-0-1,Shuttle-NewtonHighlandsKenmore,1,Newton Highlands - Kenmore,,5,620901990,NewtonHighlandsKenmore-Weekday-7f109-1-00:00:00,1
+Shuttle-NewtonHighlandsKenmore-0-0,Shuttle-NewtonHighlandsKenmore,0,Kenmore - Newton Highlands,,5,620900990,NewtonHighlandsKenmore-Weekday-aa5ab-0-00:00:00,1
+Shuttle-NewtonHighlandsKenmore-0-1,Shuttle-NewtonHighlandsKenmore,1,Newton Highlands - Kenmore,,5,620901990,NewtonHighlandsKenmore-Weekday-aa5ab-1-00:00:00,1
 Shuttle-NewtonHighlandsReservoir-0-0,Shuttle-NewtonHighlandsReservoir,0,Reservoir - Newton Highlands,,5,620950990,NewtonHighlandsReservoir-0-sample,1
 Shuttle-NewtonHighlandsReservoir-0-1,Shuttle-NewtonHighlandsReservoir,1,Newton Highlands - Reservoir,,5,620951990,NewtonHighlandsReservoir-1-sample,1
 Shuttle-NewtonHighlandsRiverside-0-0,Shuttle-NewtonHighlandsRiverside,0,Newton Highlands - Riverside,,5,621000990,NewtonHighlandsRiverside-0-sample,1
@@ -1130,8 +1131,8 @@ Shuttle-NorthLeominsterWachusett-0-0,Shuttle-NorthLeominsterWachusett,0,North Le
 Shuttle-NorthLeominsterWachusett-0-1,Shuttle-NorthLeominsterWachusett,1,Wachusett - North Leominster,,5,621221990,NorthLeominsterWachusett-1-sample,1
 Shuttle-NorthStationSwampscottLimited-0-0,Shuttle-NorthStationSwampscottLimited,0,North Station - Swampscott,,5,621280990,NorthStationSwampscott-0-sample,1
 Shuttle-NorthStationSwampscottLimited-0-1,Shuttle-NorthStationSwampscottLimited,1,Swampscott - North Station,,5,621281990,NorthStationSwampscott-1-sample,1
-Shuttle-NorthStationSullivanSquare-0-0,Shuttle-NorthStationSullivanSquare,0,Sullivan Square - North Station,,5,621310990,NorthStationSullivanSquare-Weekday-7f109-0-00:00:00,1
-Shuttle-NorthStationSullivanSquare-0-1,Shuttle-NorthStationSullivanSquare,1,North Station - Sullivan Square,,5,621311990,NorthStationSullivanSquare-Weekday-7f109-1-00:00:00,1
+Shuttle-NorthStationSullivanSquare-0-0,Shuttle-NorthStationSullivanSquare,0,Sullivan Square - North Station,,5,621310990,NorthStationSullivanSquare-Weekday-aa5ab-0-00:00:00,1
+Shuttle-NorthStationSullivanSquare-0-1,Shuttle-NorthStationSullivanSquare,1,North Station - Sullivan Square,,5,621311990,NorthStationSullivanSquare-Weekday-aa5ab-1-00:00:00,1
 Shuttle-NorthStationUnionSquare-0-0,Shuttle-NorthStationUnionSquare,0,Union Square - North Station,,5,621350990,GreenDUnionSquareNorthStation-0-sample,1
 Shuttle-NorthStationUnionSquare-0-1,Shuttle-NorthStationUnionSquare,1,North Station - Union Square,,5,621351990,GreenDUnionSquareNorthStation-1-sample,1
 Shuttle-OakGroveReading-0-0,Shuttle-OakGroveReading,0,Oak Grove - Reading,,5,621700990,OakGroveReading-0-sample,1
