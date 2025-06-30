@@ -223,8 +223,8 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 744,744,1,elevator,place-ogmnl,Washington Street to lobby,Oak Grove Elevator 744 (Washington Street to lobby),,42.4369470,-71.0710560,1
 745,745,1,elevator,place-ogmnl,"Busway, parking lot to lobby","Oak Grove Elevator 745 (Busway, parking lot to lobby)",,42.4368600,-71.0705080,1
 746,746,1,elevator,place-ogmnl,Orange Line platform to paid lobby,Oak Grove Elevator 746 (Orange Line platform to paid lobby),,42.4370090,-71.0709660,1
-747,747,1,elevator,place-NHRML-0078,Track 2 (Boston platform) to Waterfield parking,Winchester Center Elevator 747 (Track 2 (Boston platform) to Waterfield parking),,42.4510390,-71.1379720,1
-748,748,1,elevator,place-NHRML-0078,Track 1 (outbound platform) to Aberjona parking,Winchester Center Elevator 748 (Track 1 (outbound platform) to Aberjona parking),,42.4509840,-71.1377080,1
+747,747,1,elevator,place-NHRML-0078,"Track 2 (Boston platform) to Waterfield St, parking","Winchester Center Elevator 747 (Track 2 (Boston platform) to Waterfield St, parking)",,42.4510390,-71.1379720,1
+748,748,1,elevator,place-NHRML-0078,"Track 1 (outbound platform) to Waterfield St, parking","Winchester Center Elevator 748 (Track 1 (outbound platform) to Waterfield St, parking)",,42.4509840,-71.1377080,1
 756,756,1,elevator,place-knncl,Ashmont/Braintree platform to Main Street,Kendall/MIT Elevator 756 (Ashmont/Braintree platform to Main Street),,42.3621430,-71.0861700,1
 757,757,1,elevator,place-knncl,Ashmont/Braintree platform to Main Street,Kendall/MIT Elevator 757 (Ashmont/Braintree platform to Main Street),,42.3621100,-71.0861740,1
 762,762,1,elevator,place-lech,Platform to North First Street lobby,Lechmere Elevator 762 (Platform to North First Street lobby),,42.3716640,-71.0766900,1
@@ -1281,6 +1281,7 @@ highlevel-WML-0025-5,,2,fully-elevated-platform,place-WML-0025,High-level platfo
 highlevel-WML-0025-7,,2,fully-elevated-platform,place-WML-0025,High-level platform (Track 7),Lansdowne high-level platform (Track 7),,,,1
 highlevel-WML-0035-1,,2,fully-elevated-platform,place-WML-0035,High-level platform (Track 1/Outbound),Boston Landing high-level platform (Track 1/Outbound),,,,1
 highlevel-WML-0035-2,,2,fully-elevated-platform,place-WML-0035,High-level platform (Track 2/South Station),Boston Landing high-level platform (Track 2/South Station),,,,1
+highlevel-WR-0163-1,,2,fully-elevated-platform,place-WR-0163,High-level platform,North Wilmington high-level platform,,,,1
 highlevel-WR-0264-2,,2,fully-elevated-platform,place-WR-0264,High-level platform,Lawrence high-level platform,,,,1
 highlevel-bbsta-1,,2,fully-elevated-platform,place-bbsta,High-level platform (Commuter Rail - Track 1),Back Bay high-level platform (Commuter Rail - Track 1),,,,1
 highlevel-bbsta-2,,2,fully-elevated-platform,place-bbsta,High-level platform (Commuter Rail - Track 2),Back Bay high-level platform (Commuter Rail - Track 2),,,,1
