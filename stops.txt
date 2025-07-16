@@ -6463,10 +6463,10 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 9070022,,State,State - Orange Line Shuttle - Congress St @ State St,,Orange Line Shuttle,42.359131,-71.056756,,,,,0,,1,Boston,Congress Street,State Street,3
 9070024,,Haymarket - Congress St opp Hanover St,Haymarket - Orange Line Forest Hills Shuttle - Congress St opp Hanover St,,Forest Hills Shuttle,42.361133,-71.057643,,,,,0,,1,Boston,Congress Street,Hanover Street,3
 9070025,,Haymarket - Congress St @ Hanover St,Haymarket - Red Line Alewife Shuttle - Congress St @ Hanover St,,Alewife Shuttle,42.361361,-71.057419,LocalBus,,https://www.mbta.com/stops/9070025,,0,,1,Boston,Congress Street,Hanover Street,3
-9070026,,North Station - Haverhill St @ Causeway St,North Station - Orange Line Shuttle - Haverhill St @ Causeway St,,Orange Line Shuttle,42.365608,-71.060426,,,,,0,,1,Boston,Haverhill Street,Causeway Street,3
+9070026,,North Station - Haverhill St @ Causeway St,North Station - Orange Line Shuttle - Haverhill St @ Causeway St,,Orange Line Shuttle,42.365608,-71.060426,LocalBus,,https://www.mbta.com/stops/9070026,,0,,1,Boston,Haverhill Street,Causeway Street,3
 9070027,,North Station,North Station - Orange Line Shuttle - N Washington St opp Medford St,,Sullivan Shuttle,42.365460,-71.058239,,,,,0,,1,Boston,,,3
-9070028,,Community College - Rutherford Ave @ Austin St,Community College - Orange Line Forest Hills Shuttle - Rutherford Ave @ Austin St,,Forest Hills Shuttle,42.374668,-71.068320,,,,,0,,1,Boston,Rutherford Avenue,Austin Street,3
-9070029,,Community College - Rutherford Ave @ Austin St,Community College - Orange Line Oak Grove Shuttle - Rutherford Ave @ Austin St,,Oak Grove Shuttle,42.374714,-71.067764,,,,,0,,1,Boston,Rutherford Avenue,Austin Street,3
+9070028,,Community College - Rutherford Ave @ Austin St,Community College - Orange Line Forest Hills Shuttle - Rutherford Ave @ Austin St,,Forest Hills Shuttle,42.374668,-71.068320,LocalBus,,https://www.mbta.com/stops/9070028,,0,,1,Boston,Rutherford Avenue,Austin Street,3
+9070029,,Community College - Rutherford Ave @ Austin St,Community College - Orange Line Oak Grove Shuttle - Rutherford Ave @ Austin St,,Oak Grove Shuttle,42.374714,-71.067764,LocalBus,,https://www.mbta.com/stops/9070029,,0,,1,Boston,Rutherford Avenue,Austin Street,3
 9070039,,Government Center - Cambridge St @ Sudbury St,Government Center - Shuttle - Cambridge St @ Sudbury St,,Shuttle,42.360756,-71.060640,,,,,0,,1,Boston,Cambridge Street,Sudbury Street,3
 9070043,,Aquarium - Surface Rd @ State St,Aquarium - Blue Line Shuttle - Surface Rd @ State St,,Blue Line Shuttle,42.359756,-71.052605,,,,,0,,1,Boston,Surface Road,State Street,3
 9070045,,Maverick,Maverick - Blue Line Government Center Shuttle,,Government Center Shuttle,42.369579,-71.039179,,,,,0,,1,Boston,Maverick Square,Winthrop Street,3
@@ -8646,8 +8646,8 @@ place-harsq,,Harvard,,,,42.373362,-71.118956,,"1400 Massachusetts Ave, Cambridge
 76124,76124,Harvard,Harvard - Upper Busway Berth B4,B4,Upper Busway Berth B4,42.373483,-71.119771,LocalBus,,https://www.mbta.com/stops/place-harsq,level_-1_up_busway,0,place-harsq,1,Cambridge,Harvard Busway,Mount Auburn Street,3
 76125,76125,Harvard,Harvard - Upper Busway Berth B5,B5,Upper Busway Berth B5,42.373448,-71.119959,LocalBus,,https://www.mbta.com/stops/place-harsq,level_-1_up_busway,0,place-harsq,1,Cambridge,Harvard Busway,Mount Auburn Street,3
 76126,76126,Harvard,Harvard - Upper Busway Berth B6,B6,Upper Busway Berth B6,42.373414,-71.120134,LocalBus,,https://www.mbta.com/stops/place-harsq,level_-1_up_busway,0,place-harsq,1,Cambridge,Harvard Busway,Mount Auburn Street,3
-76127,76127,Harvard,Harvard - Lower Busway,A1,Lower Busway,42.373463,-71.120067,,,https://www.mbta.com/stops/place-harsq,level_-2_low_busway,0,place-harsq,1,Cambridge,Harvard Busway,,
-76129,76129,Harvard Lower Busway Berth A3,,,,42.373612,-71.119323,LocalBus,,https://www.mbta.com/stops/place-harsq,,0,place-harsq,1,Cambridge,Harvard Busway,,3
+76127,76127,Harvard,Harvard - Lower Busway Berth A1,A1,Lower Busway Berth A1,42.373463,-71.120067,,,https://www.mbta.com/stops/place-harsq,level_-2_low_busway,0,place-harsq,1,Cambridge,Harvard Busway,,
+76129,76129,Harvard,Harvard - Lower Busway Berth A3,A3,Lower Busway Berth A3,42.373612,-71.119323,LocalBus,,https://www.mbta.com/stops/place-harsq,level_-2_low_busway,0,place-harsq,1,Cambridge,Harvard Busway,,3
 door-harsq-brattle,,Harvard - Brattle Square,Harvard - Brattle Square,,,42.373310,-71.120545,,,,level_in_street,2,place-harsq,1,Cambridge,,,
 door-harsq-church,,"Harvard - Church St, Harvard Square","Harvard - Church St, Harvard Square",,,42.374317,-71.118956,,,,level_in_street,2,place-harsq,2,Cambridge,,,
 door-harsq-square,,Harvard - Harvard Square,Harvard - Harvard Square,,,42.373371,-71.119004,,,,level_in_street,2,place-harsq,1,Cambridge,,,
