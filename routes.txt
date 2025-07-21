@@ -183,6 +183,9 @@ Boat-F8,1,,Winthrop/Quincy Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F8,
 713,1,713,Point Shirley - Orient Heights Station via Winthrop Center,Local Bus,3,https://www.mbta.com/schedules/713,FFC72C,000000,57130,Local Bus,line-712713,,local_bus
 714,1,714,"Pemberton Point, Hull - Station Street, Hingham",Coverage Bus,3,https://www.mbta.com/schedules/714,FFC72C,000000,57140,Local Bus,line-714,,local_bus
 716,1,716,Cobbs Corner - Mattapan Station,Coverage Bus,3,https://www.mbta.com/schedules/716,FFC72C,000000,57160,Local Bus,line-716,,local_bus
+Shuttle-BackBayFraminghamExpress,1,Worcester Line Shuttle,Framingham - Back Bay (Express),Rail Replacement Bus,3,,FFC72C,000000,60533,Free,line-Worcester,1,rail_replacement_bus
+Shuttle-BackBayWellesleyHillsLocal,1,Worcester Line Shuttle,Wellesley Hills - Back Bay (Local),Rail Replacement Bus,3,,FFC72C,000000,60630,Free,line-Worcester,1,rail_replacement_bus
+Shuttle-FraminghamSouthStationExpress,1,Worcester Line Shuttle,Framingham - South Station (Express),Rail Replacement Bus,3,,FFC72C,000000,61810,Free,line-Worcester,1,rail_replacement_bus
 Shuttle-Generic,1,Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61910,Free,,1,rail_replacement_bus
 Shuttle-Generic-Blue,1,Blue Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61911,Free,line-Blue,1,rail_replacement_bus
 Shuttle-Generic-CommuterRail,1,Commuter Rail Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61912,Free,,1,rail_replacement_bus
@@ -212,14 +215,15 @@ Shuttle-Generic-Red-Ashmont,1,Red Line Ashmont Shuttle,,Rail Replacement Bus,3,,
 Shuttle-Generic-Red-Braintree,1,Red Line Braintree Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61937,Free,line-Red,1,rail_replacement_bus
 Shuttle-Generic-Red-Trunk,1,Red Line Trunk Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61938,Free,line-Red,1,rail_replacement_bus
 Shuttle-Generic-Worcester,1,Framingham/Worcester Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61939,Free,line-Worcester,1,rail_replacement_bus
-Shuttle-JFKUMassKendallMIT,1,Red Line Shuttle,JFK/UMass - Kendall/MIT (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62551,Free,line-Red,1,rail_replacement_bus
-Shuttle-NorthStationWellingtonLocal,1,Orange Line Shuttle,North Station - Wellington (Local),Rail Replacement Bus,3,,FFC72C,000000,62552,Free,line-Orange,1,rail_replacement_bus
-Shuttle-NorthStationWellingtonExpress,1,Orange Line Shuttle,North Station - Wellington (Express),Rail Replacement Bus,3,,FFC72C,000000,62553,Free,line-Orange,1,rail_replacement_bus
-Shuttle-GovernmentCenterMedfordTufts,1,Green Line E Shuttle,Government Center - Medford/Tufts (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62554,Free,line-Green,1,rail_replacement_bus
-Shuttle-AshmontJFKUMass,1,Red Line Shuttle,Ashmont - JFK/UMass (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62555,Free,line-Red,1,rail_replacement_bus
-Shuttle-NorthStationOakGroveLocal,1,Orange Line Shuttle,North Station - Oak Grove (Local),Rail Replacement Bus,3,,FFC72C,000000,62556,Free,line-Orange,1,rail_replacement_bus
-Shuttle-NorthStationOakGroveExpress,1,Orange Line Shuttle,North Station - Oak Grove (Express),Rail Replacement Bus,3,,FFC72C,000000,62557,Free,line-Orange,1,rail_replacement_bus
-Shuttle-BraintreeJFKUMass,1,Red Line Shuttle,Braintree - JFK/UMass (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62558,Free,line-Red,1,rail_replacement_bus
+Shuttle-SouthStationWellesleyHillsLocal,1,Worcester Line Shuttle,Wellesley Hills - South Station (Local),Rail Replacement Bus,3,,FFC72C,000000,62480,Free,line-Worcester,1,rail_replacement_bus
+Shuttle-NorthStationWellingtonLocal,1,Orange Line Shuttle,North Station - Wellington (Local),Rail Replacement Bus,3,,FFC72C,000000,62551,Free,line-Orange,1,rail_replacement_bus
+Shuttle-NorthStationWellingtonExpress,1,Orange Line Shuttle,North Station - Wellington (Express),Rail Replacement Bus,3,,FFC72C,000000,62552,Free,line-Orange,1,rail_replacement_bus
+Shuttle-GovernmentCenterMedfordTufts,1,Green Line E Shuttle,Government Center - Medford/Tufts (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62553,Free,line-Green,1,rail_replacement_bus
+Shuttle-AshmontJFKUMass,1,Red Line Shuttle,Ashmont - JFK/UMass (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62554,Free,line-Red,1,rail_replacement_bus
+Shuttle-NorthStationOakGroveLocal,1,Orange Line Shuttle,North Station - Oak Grove (Local),Rail Replacement Bus,3,,FFC72C,000000,62555,Free,line-Orange,1,rail_replacement_bus
+Shuttle-NorthStationOakGroveExpress,1,Orange Line Shuttle,North Station - Oak Grove (Express),Rail Replacement Bus,3,,FFC72C,000000,62556,Free,line-Orange,1,rail_replacement_bus
+Shuttle-BraintreeJFKUMass,1,Red Line Shuttle,Braintree - JFK/UMass (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62557,Free,line-Red,1,rail_replacement_bus
+Shuttle-JFKUMassKendallMIT,1,Red Line Shuttle,JFK/UMass - Kendall/MIT (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62558,Free,line-Red,1,rail_replacement_bus
 Shuttle-KenmoreBackBayViaCopley,1,Green Line B Shuttle,Kenmore - Back Bay via Copley (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62559,Free,line-Green,1,rail_replacement_bus
 Shuttle-BabcockStreetBackBayViaCopley,1,Green Line B Shuttle,Babcock Street - Back Bay via Copley (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62560,Free,line-Green,1,rail_replacement_bus
 Shuttle-ForestHillsCopleyViaBackBay,1,Orange Line Shuttle,Forest Hills - Copley via Back Bay (Shuttle),Rail Replacement Bus,3,,FFC72C,000000,62561,Free,line-Orange,1,rail_replacement_bus
@@ -385,5 +389,3 @@ Shuttle-RockportWestGloucester,1,Rockport Line Shuttle,Rockport - West Glouceste
 Shuttle-AshlandFramingham,1,Worcester Line Shuttle,Ashland - Framingham,Rail Replacement Bus,3,,FFC72C,000000,62721,Free,line-Worcester,1,rail_replacement_bus
 Shuttle-BackBayBostonLanding,1,Worcester Line Shuttle,Boston Landing - Back Bay,Rail Replacement Bus,3,,FFC72C,000000,62722,Free,line-Worcester,1,rail_replacement_bus
 Shuttle-BostonLandingSouthStationExpress,1,Worcester Line Shuttle,Boston Landing - South Station (Express),Rail Replacement Bus,3,,FFC72C,000000,62723,Free,line-Worcester,1,rail_replacement_bus
-Shuttle-FraminghamSouthStationExpress,1,Worcester Line Shuttle,Framingham - South Station (Express),Rail Replacement Bus,3,,FFC72C,000000,62724,Free,line-Worcester,1,rail_replacement_bus
-Shuttle-SouthStationWellesleyHillsLocal,1,Worcester Line Shuttle,Wellesley Hills - South Station (Local),Rail Replacement Bus,3,,FFC72C,000000,62725,Free,line-Worcester,1,rail_replacement_bus
