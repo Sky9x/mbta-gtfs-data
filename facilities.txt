@@ -226,6 +226,8 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 747,747,1,elevator,place-NHRML-0078,"Track 2 (Boston platform) to Waterfield St, parking","Winchester Center Elevator 747 (Track 2 (Boston platform) to Waterfield St, parking)",,42.4510390,-71.1379720,1
 748,748,1,elevator,place-NHRML-0078,"Track 1 (outbound platform) to Waterfield St, parking","Winchester Center Elevator 748 (Track 1 (outbound platform) to Waterfield St, parking)",,42.4509840,-71.1377080,1
 749,749,1,elevator,place-NHRML-0078,Track 1 (outbound platform) to Main St,Winchester Center Elevator 749 (Track 1 (outbound platform) to Main St),,42.4523390,-71.1372250,1
+750,750,1,elevator,place-WML-0177,Track 1 (outbound platform) to street,Natick Center Elevator 750 (Track 1 (outbound platform) to street),,42.2857890,-71.3475340,1
+751,751,1,elevator,place-WML-0177,Track 2 (Boston platform) to street,Natick Center Elevator 751 (Track 2 (Boston platform) to street),,42.2856240,-71.3474880,1
 756,756,1,elevator,place-knncl,Ashmont/Braintree platform to Main Street,Kendall/MIT Elevator 756 (Ashmont/Braintree platform to Main Street),,42.3621430,-71.0861700,1
 757,757,1,elevator,place-knncl,Ashmont/Braintree platform to Main Street,Kendall/MIT Elevator 757 (Ashmont/Braintree platform to Main Street),,42.3621100,-71.0861740,1
 762,762,1,elevator,place-lech,Platform to North First Street lobby,Lechmere Elevator 762 (Platform to North First Street lobby),,42.3716640,-71.0766900,1
@@ -1283,6 +1285,8 @@ highlevel-WML-0025-5,,2,fully-elevated-platform,place-WML-0025,High-level platfo
 highlevel-WML-0025-7,,2,fully-elevated-platform,place-WML-0025,High-level platform (Track 7),Lansdowne high-level platform (Track 7),,,,1
 highlevel-WML-0035-1,,2,fully-elevated-platform,place-WML-0035,High-level platform (Track 1/Outbound),Boston Landing high-level platform (Track 1/Outbound),,,,1
 highlevel-WML-0035-2,,2,fully-elevated-platform,place-WML-0035,High-level platform (Track 2/South Station),Boston Landing high-level platform (Track 2/South Station),,,,1
+highlevel-WML-0177-1,,2,fully-elevated-platform,place-WML-0177,High-level platform (Track 2),Natick Center high-level platform (Track 2),,,,1
+highlevel-WML-0177-2,,2,fully-elevated-platform,place-WML-0177,High-level platform (Track 1),Natick Center high-level platform (Track 1),,,,1
 highlevel-WR-0163-1,,2,fully-elevated-platform,place-WR-0163,High-level platform,North Wilmington high-level platform,,,,1
 highlevel-WR-0264-2,,2,fully-elevated-platform,place-WR-0264,High-level platform,Lawrence high-level platform,,,,1
 highlevel-bbsta-1,,2,fully-elevated-platform,place-bbsta,High-level platform (Commuter Rail - Track 1),Back Bay high-level platform (Commuter Rail - Track 1),,,,1
@@ -1608,6 +1612,7 @@ ramp-NEC-2203,,2,ramp,place-NEC-2203,Ramp access,Hyde Park ramp access,,,,1
 ramp-NHRML-0073,,2,ramp,place-NHRML-0073,Ramp access,Wedgemere ramp access,,,,1
 ramp-NHRML-0078,,2,ramp,place-NHRML-0078,Ramp access,Winchester Center ramp access,,,,1
 ramp-NHRML-0127,,2,ramp,place-NHRML-0127,Ramp access,Anderson/Woburn ramp access,,,,1
+ramp-WML-0177,,2,ramp,place-WML-0177,Ramp access,Natick Center ramp access,,,,1
 ramp-WML-0252,,2,ramp,place-WML-0252,Ramp access,Ashland ramp access,,,,1
 ramp-WML-0274,,2,ramp,place-WML-0274,Ramp access,Southborough ramp access,,,,1
 ramp-WML-0340,,2,ramp,place-WML-0340,Ramp access,Westborough ramp access,,,,1

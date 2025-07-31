@@ -10412,6 +10412,16 @@ facility_id,property_id,value
 749,alternate-service-text,Please use nearby Winchester Center Elevator 748.
 749,excludes-stop,NHRML-0078
 749,excludes-stop,NHRML-0078-02
+750,alternate-service-text,To exit: Go to the east end of the platform. Take the ramp to Washington St. To board: Go east on North Ave for one block. Turn right on Washington St. Take the ramp to the outbound platform.
+750,excludes-stop,WML-0177
+750,excludes-stop,WML-0177-02
+750,excludes-stop,WML-0177-B0
+750,excludes-stop,WML-0177-B1
+751,alternate-service-text,To exit: Go to the east end of the platform. Take the ramp to Washington St. To board: Go south on Main St. Turn left on South Ave and go one block. Turn left on Washington St. Take the ramp to the inbound platform.
+751,excludes-stop,WML-0177
+751,excludes-stop,WML-0177-01
+751,excludes-stop,WML-0177-B0
+751,excludes-stop,WML-0177-B1
 756,alternate-service-text,Please use nearby Kendall/MIT Elevator 757.
 756,excludes-stop,70072
 756,excludes-stop,door-knncl-nbmain
@@ -20360,6 +20370,10 @@ highlevel-WML-0035-1,excludes-stop,WML-0035-02
 highlevel-WML-0035-1,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-WML-0035-2,excludes-stop,WML-0035-01
 highlevel-WML-0035-2,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-WML-0177-1,excludes-stop,WML-0177-01
+highlevel-WML-0177-1,note,Full high level platform is available to provide level boarding to every car in a train set
+highlevel-WML-0177-2,excludes-stop,WML-0177-02
+highlevel-WML-0177-2,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-WR-0163-1,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-WR-0264-2,note,Full high level platform is available to provide level boarding to every car in a train set
 highlevel-bbsta-1,excludes-stop,11384
