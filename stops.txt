@@ -4687,7 +4687,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 630,630,Washington St @ Blue Ledge Dr,,,,42.276717,-71.138763,LocalBus,,https://www.mbta.com/stops/630,,0,,1,Boston,Washington Street,Brahms Street,3
 6301,6301,High St @ Mystic St,,,,42.421754,-71.126234,LocalBus,,https://www.mbta.com/stops/6301,,0,,1,Medford,High Street,Mystic Street,3
 6302,6302,High St @ Allston St,,,,42.421545,-71.128743,LocalBus,,https://www.mbta.com/stops/6302,,0,,1,Medford,High Street,Allston Street,3
-6303,6303,High St @ Warren St - W Medford Sq,,,,42.421129,-71.131224,LocalBus,,https://www.mbta.com/stops/6303,,0,,1,Medford,High Street,Warren Street,3
 6304,6304,Playstead Rd @ Irving St - W Medford Sta,,,,42.421800,-71.133027,LocalBus,,https://www.mbta.com/stops/6304,,0,,1,Medford,Playstead Road,Irving Street,3
 6305,6305,Playstead Rd @ Madison St,,,,42.423045,-71.134360,LocalBus,,https://www.mbta.com/stops/6305,,0,,1,Medford,Playstead Road,Madison Street,3
 6307,6307,Playstead Rd @ Clewley Rd,,,,42.425812,-71.134837,LocalBus,,https://www.mbta.com/stops/6307,,0,,0,Medford,Playstead Road,Clewley Road,3
@@ -4699,7 +4698,6 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 6312,6312,Playstead Rd @ Roberts Rd,,,,42.427617,-71.134423,LocalBus,,https://www.mbta.com/stops/6312,,0,,1,Medford,Playstead Road,,3
 6313,6313,Playstead Rd opp Clewley Rd,,,,42.425758,-71.134967,LocalBus,,https://www.mbta.com/stops/6313,,0,,1,Medford,Playstead Road,Clewley Road,3
 6315,6315,Playstead Rd opp Madison St,,,,42.422941,-71.134416,LocalBus,,https://www.mbta.com/stops/6315,,0,,1,Medford,Playstead Road,Madison Street,3
-6316,6316,High St @ Canal St - W Medford Sq,,,,42.421059,-71.130609,LocalBus,,https://www.mbta.com/stops/6316,,0,,0,Medford,High Street,Canal Street,3
 6317,6317,High St @ Allston St,,,,42.421462,-71.128640,LocalBus,,https://www.mbta.com/stops/6317,,0,,1,Medford,High Street,Allston Street,3
 6318,6318,High St @ Mystic St,,,,42.421658,-71.126479,LocalBus,,https://www.mbta.com/stops/6318,,0,,1,Medford,High Street,Mystic Street,3
 632,632,Washington St @ Cornell St,,,,42.279437,-71.135573,LocalBus,,https://www.mbta.com/stops/632,,0,,1,Boston,Washington Street,Cornell Street,3
@@ -7330,6 +7328,8 @@ NEC-2203-02,,Hyde Park,Hyde Park - Commuter Rail - Track 2 (South Station),2,Tra
 NEC-2203-03,,Hyde Park,Hyde Park - Commuter Rail - Track 3 (Outbound),3,Track 3 (Outbound),42.255030,-71.125526,CR-zone-1,,https://www.mbta.com/stops/place-NEC-2203,,0,place-NEC-2203,1,Boston,,,2
 NEC-2203-B0,,Hyde Park - River St @ Hyde Park Ave,Hyde Park - Commuter Rail Shuttle - River St @ Hyde Park Ave,,,42.255743,-71.124240,LocalBus,,https://www.mbta.com/stops/place-NEC-2203,,0,place-NEC-2203,1,Boston,River Street,Hyde Park Avenue,3
 place-NHRML-0055,,West Medford,,,,42.421776,-71.133342,CR-zone-1A,"481 High St, Medford, MA 02155",https://www.mbta.com/stops/place-NHRML-0055,,1,,1,Medford,,,
+6303,6303,High St @ Warren St - W Medford Sq,,,,42.421129,-71.131224,LocalBus,,https://www.mbta.com/stops/place-NHRML-0055,,0,place-NHRML-0055,1,Medford,High Street,Warren Street,3
+6316,6316,High St @ Canal St - W Medford Sq,,,,42.421059,-71.130609,LocalBus,,https://www.mbta.com/stops/place-NHRML-0055,,0,place-NHRML-0055,0,Medford,High Street,Canal Street,3
 NHRML-0055,,West Medford,West Medford - Commuter Rail,,Commuter Rail,42.421776,-71.133342,CR-zone-1A,,https://www.mbta.com/stops/place-NHRML-0055,,0,place-NHRML-0055,1,Medford,,,2
 NHRML-0055-01,,West Medford,West Medford - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.422325,-71.133936,CR-zone-1A,,https://www.mbta.com/stops/place-NHRML-0055,,0,place-NHRML-0055,1,Medford,,,2
 NHRML-0055-02,,West Medford,West Medford - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.422221,-71.133987,CR-zone-1A,,https://www.mbta.com/stops/place-NHRML-0055,,0,place-NHRML-0055,1,Medford,,,2
@@ -7339,7 +7339,7 @@ place-NHRML-0073,,Wedgemere,,,,42.444948,-71.140169,CR-zone-1,"25 Mystic Valley 
 NHRML-0073,,Wedgemere,Wedgemere - Commuter Rail,,Commuter Rail,42.444948,-71.140169,CR-zone-1,,https://www.mbta.com/stops/place-NHRML-0073,,0,place-NHRML-0073,1,Winchester,,,2
 NHRML-0073-01,,Wedgemere,Wedgemere - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.444948,-71.140169,CR-zone-1,,https://www.mbta.com/stops/place-NHRML-0073,,0,place-NHRML-0073,1,Winchester,,,2
 NHRML-0073-02,,Wedgemere,Wedgemere - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.444948,-71.140169,CR-zone-1,,https://www.mbta.com/stops/place-NHRML-0073,,0,place-NHRML-0073,1,Winchester,,,2
-NHRML-0073-B,,Wedgemere - Parking Lot,Wedgemere - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.444724,-71.140463,,,,,0,place-NHRML-0073,1,Winchester,,,3
+NHRML-0073-B,,Wedgemere - Parking Lot,Wedgemere - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.444724,-71.140463,LocalBus,,https://www.mbta.com/stops/place-NHRML-0073,,0,place-NHRML-0073,1,Winchester,,,3
 place-NHRML-0078,,Winchester Center,,,,42.451088,-71.137830,CR-zone-1,"29 Waterfield Rd, Winchester, MA 01890",https://www.mbta.com/stops/place-NHRML-0078,,1,,1,Winchester,,,
 NHRML-0078,,Winchester Center,Winchester Center - Commuter Rail,,Commuter Rail,42.451088,-71.137830,CR-zone-1,,https://www.mbta.com/stops/place-NHRML-0078,,0,place-NHRML-0078,1,Winchester,,,2
 NHRML-0078-01,,Winchester Center,Winchester Center - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.451088,-71.137830,CR-zone-1,,https://www.mbta.com/stops/place-NHRML-0078,,0,place-NHRML-0078,1,Winchester,,,2
@@ -7352,24 +7352,24 @@ place-NHRML-0127,,Anderson/Woburn,,,,42.516987,-71.144475,CR-zone-2,"100 Atlanti
 NHRML-0127,,Anderson/Woburn,Anderson/Woburn - Commuter Rail,,Commuter Rail,42.516987,-71.144475,CR-zone-2,,https://www.mbta.com/stops/place-NHRML-0127,,0,place-NHRML-0127,1,Woburn,,,2
 NHRML-0127-01,,Anderson/Woburn,Anderson/Woburn - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.516987,-71.144475,CR-zone-2,,https://www.mbta.com/stops/place-NHRML-0127,,0,place-NHRML-0127,1,Woburn,,,2
 NHRML-0127-02,,Anderson/Woburn,Anderson/Woburn - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.516987,-71.144475,CR-zone-2,,https://www.mbta.com/stops/place-NHRML-0127,,0,place-NHRML-0127,1,Woburn,,,2
-NHRML-0127-B,,Anderson/Woburn - Busway,Anderson/Woburn - Commuter Rail Shuttle - Busway,,Commuter Rail Shuttle,42.517604,-71.143870,,,,,0,place-NHRML-0127,1,Woburn,,,3
+NHRML-0127-B,,Anderson/Woburn - Busway,Anderson/Woburn - Commuter Rail Shuttle - Busway,,Commuter Rail Shuttle,42.517604,-71.143870,LocalBus,,https://www.mbta.com/stops/place-NHRML-0127,,0,place-NHRML-0127,1,Woburn,,,3
 place-NHRML-0152,,Wilmington,,,,42.546624,-71.174334,CR-zone-3,"405 Main St, Wilmington, MA 01887",https://www.mbta.com/stops/place-NHRML-0152,,1,,1,Wilmington,,,
 NHRML-0152,,Wilmington,Wilmington - Commuter Rail,,Commuter Rail,42.546624,-71.174334,CR-zone-3,,https://www.mbta.com/stops/place-NHRML-0152,,0,place-NHRML-0152,1,Wilmington,,,2
 NHRML-0152-01,,Wilmington,Wilmington - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.546624,-71.174334,CR-zone-3,,https://www.mbta.com/stops/place-NHRML-0152,,0,place-NHRML-0152,1,Wilmington,,,2
 NHRML-0152-02,,Wilmington,Wilmington - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.546624,-71.174334,CR-zone-3,,https://www.mbta.com/stops/place-NHRML-0152,,0,place-NHRML-0152,1,Wilmington,,,2
-NHRML-0152-B,,Wilmington - Parking Lot,Wilmington - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.546948,-71.174367,,,,,0,place-NHRML-0152,1,Wilmington,,,3
+NHRML-0152-B,,Wilmington - Parking Lot,Wilmington - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.546948,-71.174367,LocalBus,,https://www.mbta.com/stops/place-NHRML-0152,,0,place-NHRML-0152,1,Wilmington,,,3
 place-NHRML-0218,,North Billerica,,,,42.593248,-71.280995,CR-zone-5,"Ruggles St and Station St, North Billerica, MA 01862",https://www.mbta.com/stops/place-NHRML-0218,,1,,1,Billerica,,,
 NHRML-0218,,North Billerica,North Billerica - Commuter Rail,,Commuter Rail,42.593248,-71.280995,CR-zone-5,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,,,2
 NHRML-0218-01,,North Billerica,North Billerica - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.593248,-71.280995,CR-zone-5,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,,,2
 NHRML-0218-02,,North Billerica,North Billerica - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.593248,-71.280995,CR-zone-5,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,,,2
 NHRML-0218-B0,,North Billerica - Billerica Ave @ East Parking Lot,North Billerica - Commuter Rail Shuttle - Billerica Ave @ East Parking Lot,,Commuter Rail Shuttle,42.593418,-71.279762,,,,,0,place-NHRML-0218,1,Billerica,Billerica Avenue,,3
 NHRML-0218-B1,,North Billerica - West Parking Lot,North Billerica - Commuter Rail Shuttle,,Commuter Rail Shuttle - West Parking Lot,42.593132,-71.281252,,,,,0,place-NHRML-0218,1,Billerica,,,3
-NHRML-0218-B2,,North Billerica - Station St @ West Parking Lot,North Billerica - Commuter Rail Shuttle - Station St @ West Parking Lot,,Commuter Rail Shuttle,42.592849,-71.281409,,,,,0,place-NHRML-0218,1,Billerica,Station Street,,3
+NHRML-0218-B2,,North Billerica - Station St @ West Parking Lot,North Billerica - Commuter Rail Shuttle - Station St @ West Parking Lot,,Commuter Rail Shuttle,42.592849,-71.281409,LocalBus,,https://www.mbta.com/stops/place-NHRML-0218,,0,place-NHRML-0218,1,Billerica,Station Street,,3
 place-NHRML-0254,,Lowell,,,,42.635350,-71.314543,CR-zone-6,"101 Thorndike St, Lowell, MA 01852",https://www.mbta.com/stops/place-NHRML-0254,,1,,1,Lowell,,,
 NHRML-0254,,Lowell,Lowell - Commuter Rail,,Commuter Rail,42.635350,-71.314543,CR-zone-6,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,2
 NHRML-0254-03,,Lowell,Lowell - Commuter Rail - Track 3,3,Track 3,42.635350,-71.314543,CR-zone-6,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,2
 NHRML-0254-04,,Lowell,Lowell - Commuter Rail - Track 4,4,Track 4,42.635350,-71.314543,CR-zone-6,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,2
-NHRML-0254-B,,Lowell - Busway,Lowell - Commuter Rail Shuttle - Busway,,Commuter Rail Shuttle,42.636561,-71.314554,,,,,0,place-NHRML-0254,1,Lowell,,,3
+NHRML-0254-B,,Lowell - Busway,Lowell - Commuter Rail Shuttle - Busway,,Commuter Rail Shuttle,42.636561,-71.314554,LocalBus,,https://www.mbta.com/stops/place-NHRML-0254,,0,place-NHRML-0254,1,Lowell,,,3
 place-PB-0158,,South Weymouth,,,,42.155025,-70.953302,CR-zone-3,"89 Trotter Rd, Weymouth, MA 02190",https://www.mbta.com/stops/place-PB-0158,,1,,1,Weymouth,,,
 PB-0158-S,,South Weymouth,South Weymouth - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.155025,-70.953302,CR-zone-3,,https://www.mbta.com/stops/place-PB-0158,,0,place-PB-0158,1,Weymouth,,,2
 South Weymouth-S,,South Weymouth,South Weymouth - Commuter Rail Shuttle,,Commuter Rail Shuttle,42.154820,-70.953304,,,,,0,place-PB-0158,1,Weymouth,,,3
@@ -9056,7 +9056,7 @@ BNT-0000-08,,North Station,North Station - Commuter Rail - Track 8,8,Commuter Ra
 BNT-0000-09,,North Station,North Station - Commuter Rail - Track 9,9,Commuter Rail - Track 9,42.366493,-71.062829,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1,Boston,,,2
 BNT-0000-10,,North Station,North Station - Commuter Rail - Track 10,10,Commuter Rail - Track 10,42.366493,-71.062829,CR-zone-1A,,https://www.mbta.com/stops/place-north,level_0_cr_platform,0,place-north,1,Boston,,,2
 BNT-0000-B1,,North Station - Causeway St opp Beverly St,North Station - Commuter Rail Shuttle - Causeway St opp Beverly St,,Commuter Rail Shuttle,42.366034,-71.060356,,,,,0,place-north,1,Boston,Causeway Street,Beverly Street,3
-BNT-0000-B2,,North Station - Nashua St @ Red Auerbach Way,North Station - Commuter Rail Shuttle - Nashua St @ Red Auerbach Way,,Commuter Rail Shuttle,42.365641,-71.064022,,,,,0,place-north,1,Boston,Nashua Street,Red Auerbach Way,3
+BNT-0000-B2,,North Station - Nashua St @ Red Auerbach Way,North Station - Commuter Rail Shuttle - Nashua St @ Red Auerbach Way,,Commuter Rail Shuttle,42.365641,-71.064022,LocalBus,,https://www.mbta.com/stops/place-north,,0,place-north,1,Boston,Nashua Street,Red Auerbach Way,3
 door-north-causewaye,,North Station - Causeway St (Elevator),North Station - Causeway St (Elevator),,,42.365639,-71.060472,,,,level_in_street,2,place-north,1,Boston,,,
 door-north-causewayexite,,North Station - Causeway St,North Station - Causeway St,,,42.365568,-71.060358,,,,level_in_street,2,place-north,2,Boston,,,
 door-north-causewayexitw,,North Station - Causeway St,North Station - Causeway St,,,42.365448,-71.060439,,,,level_in_street,2,place-north,2,Boston,,,
