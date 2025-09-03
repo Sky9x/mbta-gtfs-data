@@ -6,11 +6,7 @@ Red-1-1,Red,1,Ashmont - Alewife,,1,100101001,canonical-Red-C2-1,1
 Mattapan-_-0,Mattapan,0,Ashmont - Mattapan,,1,100110000,canonical-Mattapan-C1-0,1
 Mattapan-_-1,Mattapan,1,Mattapan - Ashmont,,1,100111000,canonical-Mattapan-C1-1,1
 Orange-3-0,Orange,0,Oak Grove - Forest Hills,,1,100200000,canonical-Orange-C1-0,1
-Orange-A-0,Orange,0,Back Bay - Forest Hills,Weekends only,3,100200040,70518499,2
-Orange-B-0,Orange,0,Oak Grove - Wellington,Weekends only,3,100200050,70514006,2
 Orange-3-1,Orange,1,Forest Hills - Oak Grove,,1,100201000,canonical-Orange-C1-1,1
-Orange-A-1,Orange,1,Forest Hills - Back Bay,Weekends only,3,100201040,70518497,2
-Orange-B-1,Orange,1,Wellington - Oak Grove,Weekends only,3,100201050,70514345,2
 Green-B-812-0,Green-B,0,Government Center - Boston College,,1,100320000,canonical-Green-B-C1-0,1
 Green-B-816-0,Green-B,0,Medford/Tufts - Boston College,Mornings only,3,100320040,71392311,2
 Green-B-812-1,Green-B,1,Boston College - Government Center,,1,100321000,canonical-Green-B-C1-1,1
@@ -28,44 +24,43 @@ Green-D-845-1,Green-D,1,Reservoir - Union Square,Weekday early mornings only,3,1
 Green-E-886-0,Green-E,0,Medford/Tufts - Heath Street,,1,100350000,canonical-Green-E-C1-0,1
 Green-E-885-0,Green-E,0,Union Square - Heath Street,Early mornings only,3,100350040,71392762,2
 Green-E-886-1,Green-E,1,Heath Street - Medford/Tufts,,1,100351000,canonical-Green-E-C1-1,1
-Green-E-86-1,Green-E,1,East Somerville - Medford/Tufts,,3,100351040,71256946,2
+Green-E-86-1,Green-E,1,East Somerville - Medford/Tufts,,3,100351040,71194323,2
 Blue-6-0,Blue,0,Wonderland - Bowdoin,,1,100400000,canonical-Blue-C1-0,1
-Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,100400040,72121152,2
+Blue-8-0,Blue,0,Orient Heights - Bowdoin,,3,100400040,72120704,2
 Blue-6-1,Blue,1,Bowdoin - Wonderland,,1,100401000,canonical-Blue-C1-1,1
-Blue-8-1,Blue,1,Bowdoin - Orient Heights,Weekday middays only,3,100401040,70063389,2
-741-_-0,741,0,South Station - Logan Airport Terminals,,1,100510000,72012627,0
-741-_-1,741,1,Logan Airport Terminals - South Station,,1,100511000,72012629,0
-741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Late nights only,3,100511040,72013804,0
-742-3-0,742,0,South Station - Design Center (PM Route),,1,100520000,72012694,0
-742-3-1,742,1,Design Center - South Station (PM - Omits 88 Black Falcon Ave),,1,100521000,72012655,0
-743-_-0,743,0,South Station - Chelsea Station,,1,100530000,72012446,0
-743-_-1,743,1,Chelsea Station - South Station,,1,100531000,72012445,0
-743-1-1,743,1,Chelsea Station - South Station (Surface Route),Late nights only,3,100531040,72013802,0
-751-_-0,751,0,South Station - Nubian Station,,1,100550000,72012704,0
-751-_-1,751,1,Nubian Station - South Station,,1,100551000,72012738,0
-749-_-0,749,0,Temple Place - Nubian Station,,1,100560000,72012709,0
-749-_-1,749,1,Nubian Station - Temple Place,,1,100561000,72012714,0
-746-_-0,746,0,South Station - Silver Line Way,,1,100570000,72012495,0
-746-_-1,746,1,Silver Line Way - South Station,,1,100571000,72012526,0
+741-_-0,741,0,South Station - Logan Airport Terminals,,1,100510000,72039742,0
+741-_-1,741,1,Logan Airport Terminals - South Station,,1,100511000,72039744,0
+741-2-1,741,1,Logan Airport Terminals - South Station (Surface Route),Late nights only,3,100511040,72040265,0
+742-3-0,742,0,South Station - Design Center (PM Route),,1,100520000,72039786,0
+742-3-1,742,1,Design Center - South Station (PM - Omits 88 Black Falcon Ave),,1,100521000,72039768,0
+743-_-0,743,0,South Station - Chelsea Station,,1,100530000,72040977,0
+743-_-1,743,1,Chelsea Station - South Station,,1,100531000,72040978,0
+743-1-1,743,1,Chelsea Station - South Station (Surface Route),Late nights only,3,100531040,72040976,0
+751-_-0,751,0,South Station - Nubian Station,,1,100550000,72039791,0
+751-_-1,751,1,Nubian Station - South Station,,1,100551000,72039825,0
+749-_-0,749,0,Temple Place - Nubian Station,,1,100560000,72039796,0
+749-_-1,749,1,Nubian Station - Temple Place,,1,100561000,72039801,0
+746-_-0,746,0,South Station - Silver Line Way,,1,100570000,72039743,0
+746-_-1,746,1,Silver Line Way - South Station,,1,100571000,72039750,0
 CR-Fairmount-195ea3c8-0,CR-Fairmount,0,South Station - Readville via Fairmount,,1,200010000,canonical-CR-Fairmount-C1-0,1
-CR-Fairmount-3914aae7-0,CR-Fairmount,0,South Station - Fairmount,,2,200010020,FairmountEditsAug25-762530-1673,2
+CR-Fairmount-3914aae7-0,CR-Fairmount,0,South Station - Fairmount,,2,200010020,Sept2ReadUpdates-764422-1679,2
 CR-Fairmount-ff9cd1ee-1,CR-Fairmount,1,Readville - South Station via Fairmount,,1,200011000,canonical-CR-Fairmount-C1-1,1
-CR-Fairmount-6ae938c4-1,CR-Fairmount,1,Fairmount - South Station,,2,200011020,FairmountEditsAug25-762529-1680,2
-CR-NewBedford-e455f611-0,CR-NewBedford,0,South Station - Fall River Depot,,1,200020000,FairmountEditsAug25-762416-1939,2
-CR-NewBedford-165b7060-0,CR-NewBedford,0,South Station - New Bedford,,1,200020010,FairmountEditsAug25-762386-2037,2
-CR-NewBedford-5b8e7ed3-0,CR-NewBedford,0,East Taunton - New Bedford,,2,200020040,FairmountEditsAug25-762372-2089,2
-CR-NewBedford-54a95b41-0,CR-NewBedford,0,South Station - Fall River Depot,,2,200020060,FairmountEditsAug25-762414-1945,2
-CR-NewBedford-9fc9851a-0,CR-NewBedford,0,East Taunton - Fall River Depot,,3,200020080,FairmountEditsAug25-762401-1991,2
-CR-NewBedford-b4734423-0,CR-NewBedford,0,South Station - New Bedford,,3,200020100,FairmountEditsAug25-762382-2047,2
+CR-Fairmount-6ae938c4-1,CR-Fairmount,1,Fairmount - South Station,,2,200011020,Sept2ReadUpdates-764426-1684,2
+CR-NewBedford-e455f611-0,CR-NewBedford,0,South Station - Fall River Depot,,1,200020000,Sept2ReadUpdates-764416-1939,2
+CR-NewBedford-165b7060-0,CR-NewBedford,0,South Station - New Bedford,,1,200020010,Sept2ReadUpdates-764438-2029,2
+CR-NewBedford-5b8e7ed3-0,CR-NewBedford,0,East Taunton - New Bedford,,2,200020040,Sept2ReadUpdates-764460-2067,2
+CR-NewBedford-54a95b41-0,CR-NewBedford,0,South Station - Fall River Depot,,2,200020060,Sept2ReadUpdates-764445-1945,2
+CR-NewBedford-9fc9851a-0,CR-NewBedford,0,East Taunton - Fall River Depot,,3,200020080,Sept2ReadUpdates-764410-1991,2
+CR-NewBedford-b4734423-0,CR-NewBedford,0,South Station - New Bedford,,3,200020100,Sept2ReadUpdates-764409-2041,2
 CR-NewBedford-C1-0,CR-NewBedford,0,South Station - New Bedford,,5,200020991,canonical-CR-NewBedford-C1-0,1
 CR-NewBedford-C2-0,CR-NewBedford,0,South Station - Fall River,,5,200020993,canonical-CR-NewBedford-C2-0,1
-CR-NewBedford-1cac316b-1,CR-NewBedford,1,New Bedford - South Station,,1,200021000,FairmountEditsAug25-762396-2018,2
-CR-NewBedford-e9976f77-1,CR-NewBedford,1,Fall River Depot - South Station,,1,200021010,FairmountEditsAug25-762423-1912,2
-CR-NewBedford-b00adf4a-1,CR-NewBedford,1,Fall River Depot - East Taunton,,2,200021030,FairmountEditsAug25-762400-1994,2
-CR-NewBedford-13a8ca2f-1,CR-NewBedford,1,New Bedford - South Station,,2,200021060,FairmountEditsAug25-762383-2044,2
-CR-NewBedford-5ff68651-1,CR-NewBedford,1,Fall River Depot - South Station,,3,200021080,FairmountEditsAug25-762415-1942,2
-CR-NewBedford-646c0880-1,CR-NewBedford,1,New Bedford - East Taunton,,3,200021100,FairmountEditsAug25-762371-2092,2
-CR-NewBedford-3e804e27-1,CR-NewBedford,1,Fall River Depot - South Station,,3,200021120,FairmountEditsAug25-762417-1936,2
+CR-NewBedford-1cac316b-1,CR-NewBedford,1,New Bedford - South Station,,1,200021000,Sept2ReadUpdates-764498-2018,2
+CR-NewBedford-e9976f77-1,CR-NewBedford,1,Fall River Depot - South Station,,1,200021010,Sept2ReadUpdates-764553-1912,2
+CR-NewBedford-b00adf4a-1,CR-NewBedford,1,Fall River Depot - East Taunton,,2,200021030,Sept2ReadUpdates-764414-1994,2
+CR-NewBedford-13a8ca2f-1,CR-NewBedford,1,New Bedford - South Station,,2,200021060,Sept2ReadUpdates-764436-2034,2
+CR-NewBedford-5ff68651-1,CR-NewBedford,1,Fall River Depot - South Station,,3,200021080,Sept2ReadUpdates-764415-1942,2
+CR-NewBedford-646c0880-1,CR-NewBedford,1,New Bedford - East Taunton,,3,200021100,Sept2ReadUpdates-764437-2092,2
+CR-NewBedford-3e804e27-1,CR-NewBedford,1,Fall River Depot - South Station,,3,200021120,Sept2ReadUpdates-764428-1936,2
 CR-NewBedford-C1-1,CR-NewBedford,1,New Bedford - South Station,,5,200021992,canonical-CR-NewBedford-C1-1,1
 CR-NewBedford-C2-1,CR-NewBedford,1,Fall River - South Station,,5,200021994,canonical-CR-NewBedford-C2-1,1
 CR-Fitchburg-2a5f6366-0,CR-Fitchburg,0,North Station - Wachusett,,1,200030000,HaverhillRestoredWKDY-744237-405,2
@@ -77,86 +72,79 @@ CR-Fitchburg-6528076d-1,CR-Fitchburg,1,Littleton/Route 495 - North Station,,2,20
 CR-Fitchburg-745cb51d-1,CR-Fitchburg,1,Wachusett - North Station,,3,200031040,canonical-CR-Fitchburg-C1-1,1
 CR-Fitchburg-94972bc9-1,CR-Fitchburg,1,Wachusett - North Station,,3,200031080,HaverhillRestoredWKDY-744238-406,2
 CR-Worcester-b5dda27b-0,CR-Worcester,0,South Station - Worcester,,1,200040000,canonical-CR-Worcester-C1-0,1
-CR-Worcester-6436caf7-0,CR-Worcester,0,South Station - Worcester,,2,200040020,FairmountEditsAug25-762298-541,2
-CR-Worcester-b7d67732-0,CR-Worcester,0,South Station - Framingham,,3,200040040,FairmountEditsAug25-762267-1567,2
-CR-Worcester-b7d1e6e8-0,CR-Worcester,0,South Station - Worcester,,3,200040050,FairmountEditsAug25-762287-571,2
-CR-Worcester-bbf42cea-0,CR-Worcester,0,South Station - Framingham,,3,200040080,FairmountEditsAug25-762274-1517,2
-CR-Worcester-b65b9e75-0,CR-Worcester,0,South Station - Framingham,,3,200040090,FairmountEditsAug25-762277-1511,2
-CR-Worcester-15b1f0b8-0,CR-Worcester,0,South Station - Worcester,,3,200040100,FairmountEditsAug25-762286-573,2
-CR-Worcester-d18892dd-0,CR-Worcester,0,South Station - Framingham,,3,200040120,FairmountEditsAug25-762266-1561,2
-CR-Worcester-02498220-0,CR-Worcester,0,South Station - Worcester,,3,200040130,FairmountEditsAug25-762289-565,2
-CR-Worcester-6fbe3217-0,CR-Worcester,0,South Station - Worcester,,3,200040140,FairmountEditsAug25-762308-519,2
-CR-Worcester-a512d591-0,CR-Worcester,0,South Station - Worcester,,3,200040150,FairmountEditsAug25-762312-509,2
-CR-Worcester-2fe54abd-0,CR-Worcester,0,South Station - Worcester,,3,200040160,FairmountEditsAug25-762352-515,2
+CR-Worcester-6436caf7-0,CR-Worcester,0,South Station - Worcester,,2,200040020,Sept2ReadUpdates-764694-533,2
+CR-Worcester-b7d67732-0,CR-Worcester,0,South Station - Framingham,,3,200040040,Sept2ReadUpdates-764620-1555,2
+CR-Worcester-b7d1e6e8-0,CR-Worcester,0,South Station - Worcester,,3,200040050,Sept2ReadUpdates-764788-559,2
+CR-Worcester-bbf42cea-0,CR-Worcester,0,South Station - Framingham,,3,200040080,Sept2ReadUpdates-764876-1517,2
+CR-Worcester-b65b9e75-0,CR-Worcester,0,South Station - Framingham,,3,200040090,Sept2ReadUpdates-764766-1511,2
+CR-Worcester-15b1f0b8-0,CR-Worcester,0,South Station - Worcester,,3,200040100,Sept2ReadUpdates-764621-573,2
+CR-Worcester-d18892dd-0,CR-Worcester,0,South Station - Framingham,,3,200040120,Sept2ReadUpdates-764884-1561,2
+CR-Worcester-02498220-0,CR-Worcester,0,South Station - Worcester,,3,200040130,Sept2ReadUpdates-764669-565,2
+CR-Worcester-6fbe3217-0,CR-Worcester,0,South Station - Worcester,,3,200040140,Sept2ReadUpdates-764862-519,2
+CR-Worcester-a512d591-0,CR-Worcester,0,South Station - Worcester,,3,200040150,Sept2ReadUpdates-764639-509,2
+CR-Worcester-2fe54abd-0,CR-Worcester,0,South Station - Worcester,,3,200040160,Sept2ReadUpdates-764626-515,2
 CR-Worcester-5d1e1c51-0,CR-Worcester,0,South Station - Worcester,,3,200040170,SPRING2025V2-716090-559,2
-CR-Worcester-3c40051f-0,CR-Worcester,0,South Station - Worcester,,3,200040180,FairmountEditsAug25-762278-593,2
-CR-Worcester-647db84d-1,CR-Worcester,1,Worcester - South Station,,1,200041000,FairmountEditsAug25-762281-584,2
-CR-Worcester-a814f00c-1,CR-Worcester,1,Worcester - South Station,,2,200041020,FairmountEditsAug25-762279-592,2
-CR-Worcester-72c8dfb6-1,CR-Worcester,1,Worcester - South Station,,3,200041040,FairmountEditsAug25-762309-518,2
-CR-Worcester-cb9d6625-1,CR-Worcester,1,Framingham - South Station,,3,200041050,FairmountEditsAug25-762273-1522,2
-CR-Worcester-16491f70-1,CR-Worcester,1,Worcester - South Station,,3,200041070,FairmountEditsAug25-762290-560,2
-CR-Worcester-8171c73d-1,CR-Worcester,1,Framingham - South Station,,3,200041100,FairmountEditsAug25-762268-1574,2
-CR-Worcester-8e925022-1,CR-Worcester,1,Framingham - South Station,,3,200041120,FairmountEditsAug25-762270-1558,2
-CR-Worcester-6874ed14-1,CR-Worcester,1,Framingham - South Station,,3,200041130,FairmountEditsAug25-762276-1512,2
-CR-Worcester-257727ec-1,CR-Worcester,1,Worcester - South Station,,3,200041140,FairmountEditsAug25-762288-568,2
-CR-Worcester-16e1833f-1,CR-Worcester,1,Worcester - South Station,,3,200041150,FairmountEditsAug25-762307-520,2
-CR-Worcester-38ca01ee-1,CR-Worcester,1,Worcester - South Station,,3,200041160,FairmountEditsAug25-762350-554,2
-CR-Worcester-6f1296d4-1,CR-Worcester,1,Worcester - South Station,,3,200041180,FairmountEditsAug25-762284-576,2
+CR-Worcester-3c40051f-0,CR-Worcester,0,South Station - Worcester,,3,200040180,Sept2ReadUpdates-764591-581,2
+CR-Worcester-647db84d-1,CR-Worcester,1,Worcester - South Station,,1,200041000,Sept2ReadUpdates-764614-534,2
+CR-Worcester-a814f00c-1,CR-Worcester,1,Worcester - South Station,,2,200041020,Sept2ReadUpdates-764590-592,2
+CR-Worcester-72c8dfb6-1,CR-Worcester,1,Worcester - South Station,,3,200041040,Sept2ReadUpdates-764695-510,2
+CR-Worcester-cb9d6625-1,CR-Worcester,1,Framingham - South Station,,3,200041050,Sept2ReadUpdates-764765-1516,2
+CR-Worcester-16491f70-1,CR-Worcester,1,Worcester - South Station,,3,200041070,Sept2ReadUpdates-764668-556,2
+CR-Worcester-8171c73d-1,CR-Worcester,1,Framingham - South Station,,3,200041100,Sept2ReadUpdates-764618-1562,2
+CR-Worcester-8e925022-1,CR-Worcester,1,Framingham - South Station,,3,200041120,Sept2ReadUpdates-764842-1558,2
+CR-Worcester-6874ed14-1,CR-Worcester,1,Framingham - South Station,,3,200041130,Sept2ReadUpdates-764682-1512,2
+CR-Worcester-257727ec-1,CR-Worcester,1,Worcester - South Station,,3,200041140,Sept2ReadUpdates-764906-568,2
+CR-Worcester-16e1833f-1,CR-Worcester,1,Worcester - South Station,,3,200041150,Sept2ReadUpdates-764638-520,2
+CR-Worcester-38ca01ee-1,CR-Worcester,1,Worcester - South Station,,3,200041160,Sept2ReadUpdates-764891-554,2
+CR-Worcester-6f1296d4-1,CR-Worcester,1,Worcester - South Station,,3,200041170,Sept2ReadUpdates-764787-576,2
 CR-Worcester-C1-1,CR-Worcester,1,Worcester - South Station,,5,200041991,canonical-CR-Worcester-C1-1,1
-CR-Franklin-3badde55-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,200050000,FairmountEditsAug25-762814-721,2
-CR-Franklin-35c1126a-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,1,200050010,FairmountEditsAug25-762819-1785,2
-CR-Franklin-807421e2-0,CR-Franklin,0,South Station - Forge Park/495 via Fairmount,,2,200050020,FairmountEditsAug25-762799-793,2
-CR-Franklin-512734e4-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,2,200050060,FairmountEditsAug25-762792-1719,2
-CR-Franklin-b8c4a7ca-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,200050070,FairmountEditsAug25-762798-779,2
+CR-Franklin-3badde55-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,1,200050000,SPRING2025V2-715891-721,2
+CR-Franklin-35c1126a-0,CR-Franklin,0,South Station - Foxboro via Fairmount,,1,200050010,Sept2ReadUpdates-764743-1775,2
+CR-Franklin-807421e2-0,CR-Franklin,0,South Station - Forge Park/495 via Fairmount,,2,200050020,Sept2ReadUpdates-764882-793,2
+CR-Franklin-512734e4-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,2,200050060,SPRING2025V2-715733-1719,2
+CR-Franklin-b8c4a7ca-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,200050070,Sept2ReadUpdates-764643-779,2
 CR-Franklin-36a30c21-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,200050090,SPRING2025V2-715903-763,2
-CR-Franklin-78461397-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,200050100,FairmountEditsAug25-762807-759,2
-CR-Franklin-1af2beab-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,200050120,FairmountEditsAug25-762795-1747,2
-CR-Franklin-8076e72e-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,200050130,FairmountEditsAug25-762808-1757,2
+CR-Franklin-78461397-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,200050100,Sept2ReadUpdates-764599-759,2
+CR-Franklin-1af2beab-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,200050120,Sept2ReadUpdates-764607-1747,2
+CR-Franklin-8076e72e-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,200050130,Sept2ReadUpdates-764719-1757,2
 CR-Franklin-6595af37-0,CR-Franklin,0,South Station - Forge Park/495,,3,200050140,ReadWKNDwTransfers-755461-5721,2
-CR-Franklin-ccddcecc-0,CR-Franklin,0,South Station - Franklin via Back Bay,,3,200050160,TempNECV2-756354-763,2
 CR-Franklin-f3922b8c-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,200050180,SPRING2025V2-715743-1757,2
 CR-Franklin-2757d279-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,3,200050190,SPRING2025V2-715745-1765,2
 CR-Franklin-dc09eba3-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,200050200,SPRING2025V2-715899-751,2
-CR-Franklin-6469c0bd-0,CR-Franklin,0,South Station - Franklin via Back Bay,,3,200050240,TempNECV2-756350-751,2
 CR-Franklin-dabfeb0c-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,3,200050280,SPRING2025V2-715907-779,2
-CR-Franklin-f56b99d9-0,CR-Franklin,0,South Station - Franklin via Back Bay,,3,200050340,TempNECV2-756344-721,2
-CR-Franklin-26c18f70-0,CR-Franklin,0,South Station - Walpole via Back Bay,,3,200050350,TempNECV2-756507-1765,2
-CR-Franklin-547634f7-0,CR-Franklin,0,South Station - Franklin via Fairmount,,3,200050370,TempNECV2-756363-793,2
+CR-Franklin-3dbed217-0,CR-Franklin,0,South Station - Forge Park/495 via Fairmount,,3,200050370,Sept2ReadUpdates-764755-721,2
+CR-Franklin-11142fdf-0,CR-Franklin,0,South Station - Foxboro,,3,200050380,Sept2ReadUpdates-764828-1719,2
 Boat-F6-C1-1,Boat-F6,1,Boston - Winthrop Loop,,1,200050991,canonical-Boat-F6-C1-1,1
 CR-Franklin-C1-0,CR-Franklin,0,South Station - Forge Park/495 via Back Bay,,5,200050991,canonical-CR-Franklin-C1-0,1
 CR-Franklin-C2-0,CR-Franklin,0,South Station - Foxboro via Back Bay,,5,200050992,canonical-CR-Franklin-C2-0,1
-CR-Franklin-efd9798e-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,200051000,SPRING2025V2-715887-704,2
-CR-Franklin-cb37a682-1,CR-Franklin,1,Foxboro - South Station via Fairmount,,1,200051010,FairmountEditsAug25-762789-1708,2
+CR-Franklin-02118599-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,1,200051000,Sept2ReadUpdates-764674-714,2
+CR-Franklin-cb37a682-1,CR-Franklin,1,Foxboro - South Station via Fairmount,,1,200051010,Sept2ReadUpdates-764744-1782,2
 CR-Franklin-1a6aaf7a-1,CR-Franklin,1,Forge Park/495 - South Station,,2,200051020,ReadWKNDwTransfers-754264-5724,2
-CR-Franklin-901f1692-1,CR-Franklin,1,Forge Park/495 - South Station via Fairmount,,2,200051030,FairmountEditsAug25-762809-744,2
-CR-Franklin-6a65c6cc-1,CR-Franklin,1,Foxboro - South Station,,2,200051050,FairmountEditsAug25-762782-1756,2
-CR-Franklin-02118599-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,200051070,SPRING2025V2-715889-714,2
+CR-Franklin-901f1692-1,CR-Franklin,1,Forge Park/495 - South Station via Fairmount,,2,200051030,Sept2ReadUpdates-764644-784,2
+CR-Franklin-6a65c6cc-1,CR-Franklin,1,Foxboro - South Station,,2,200051050,Sept2ReadUpdates-764606-1756,2
+CR-Franklin-efd9798e-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,200051070,Sept2ReadUpdates-764673-704,2
 CR-Franklin-7c3247fa-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,3,200051090,SPRING2025V2-715898-744,2
-CR-Franklin-8ab44064-1,CR-Franklin,1,Forge Park/495 - South Station,,3,200051110,FairmountEditsAug25-762794-754,2
-CR-Franklin-47d24b90-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,200051130,SPRING2025V2-715735-1726,2
+CR-Franklin-8ab44064-1,CR-Franklin,1,Forge Park/495 - South Station,,3,200051100,Sept2ReadUpdates-764633-780,2
+CR-Franklin-47d24b90-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,200051140,SPRING2025V2-715735-1726,2
 CR-Franklin-4ee256a8-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,200051160,SPRING2025V2-715739-1740,2
-CR-Franklin-39f35922-1,CR-Franklin,1,Forge Park/495 - South Station via Fairmount,,3,200051170,FairmountEditsAug25-762790-714,2
-CR-Franklin-d7300846-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,200051200,SPRING2025V2-715732-1716,2
+CR-Franklin-39f35922-1,CR-Franklin,1,Forge Park/495 - South Station via Fairmount,,3,200051170,Sept2ReadUpdates-764634-762,2
+CR-Franklin-d7300846-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,200051200,Sept2ReadUpdates-764835-1716,2
 CR-Franklin-be153239-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,3,200051210,SPRING2025V2-715744-1764,2
-CR-Franklin-0baec901-1,CR-Franklin,1,Franklin - South Station,,3,200051220,TempNECV2-756352-754,2
-CR-Franklin-46a8d1ee-1,CR-Franklin,1,Forge Park/495 - Readville,,3,200051240,FairmountEditsAug25-762834-792,2
-CR-Franklin-541f8dad-1,CR-Franklin,1,Franklin - South Station via Fairmount,,3,200051250,FairmountEditsAug25-762868-776,2
-CR-Franklin-16d120ea-1,CR-Franklin,1,Foxboro - South Station via Fairmount,,3,200051290,FairmountEditsAug25-762877-1764,2
+CR-Franklin-46a8d1ee-1,CR-Franklin,1,Forge Park/495 - Readville,,3,200051240,Sept2ReadUpdates-764770-792,2
+CR-Franklin-16d120ea-1,CR-Franklin,1,Foxboro - South Station via Fairmount,,3,200051250,Sept2ReadUpdates-764720-1764,2
+CR-Franklin-541f8dad-1,CR-Franklin,1,Franklin - South Station via Fairmount,,3,200051260,Sept2ReadUpdates-764699-776,2
 CR-Franklin-69a87b0d-1,CR-Franklin,1,Foxboro - South Station via Fairmount,,3,200051300,FairmountEditsAug25-762840-1716,2
-CR-Franklin-23532b7f-1,CR-Franklin,1,Franklin - South Station via Fairmount,,3,200051360,TempNECV2-756353-762,2
-CR-Franklin-b3d48aa9-1,CR-Franklin,1,Franklin - Readville,,3,200051380,TempNECV2-756362-792,2
-CR-Franklin-4ee7f816-1,CR-Franklin,1,Walpole - South Station,,3,200051390,TempNECV2-756506-1770,2
 Boat-F6-C2-1,Boat-F6,1,Boston - Winthrop Loop,,1,200051991,canonical-Boat-F6-C2-1,1
 CR-Franklin-C1-1,CR-Franklin,1,Forge Park/495 - South Station via Back Bay,,5,200051991,canonical-CR-Franklin-C1-1,1
 CR-Franklin-C2-1,CR-Franklin,1,Foxboro - South Station via Back Bay,,5,200051992,canonical-CR-Franklin-C2-1,1
 Boat-F7-C1-1,Boat-F7,1,Boston - Quincy Loop,,1,200052991,canonical-Boat-F7-C1-1,1
 Boat-F7-C2-1,Boat-F7,1,Boston - Quincy Loop,,1,200053991,canonical-Boat-F7-C2-1,1
 CR-Greenbush-6d652c57-0,CR-Greenbush,0,South Station - Greenbush,,1,200060000,canonical-CR-Greenbush-C1-0,1
-CR-Greenbush-a9099211-0,CR-Greenbush,0,South Station - Greenbush,,2,200060020,FairmountEditsAug25-762428-1097,2
+CR-Greenbush-a9099211-0,CR-Greenbush,0,South Station - Greenbush,,2,200060020,Sept2ReadUpdates-764463-1069,2
 CR-Greenbush-414eb5a9-1,CR-Greenbush,1,Greenbush - South Station,,1,200061000,canonical-CR-Greenbush-C1-1,1
-CR-Greenbush-24230de0-1,CR-Greenbush,1,Greenbush - South Station,,2,200061020,FairmountEditsAug25-762429-1096,2
+CR-Greenbush-24230de0-1,CR-Greenbush,1,Greenbush - South Station,,2,200061020,Sept2ReadUpdates-764418-1090,2
 CR-Greenbush-01bacaee-1,CR-Greenbush,1,Greenbush - South Station,,3,200061040,SPRING2025V2-715653-1082,2
-CR-Greenbush-e18c2c1d-1,CR-Greenbush,1,Greenbush - South Station,,3,200061050,FairmountEditsAug25-762435-1082,2
+CR-Greenbush-e18c2c1d-1,CR-Greenbush,1,Greenbush - South Station,,3,200061050,Sept2ReadUpdates-764455-1082,2
 CR-Haverhill-779dede9-0,CR-Haverhill,0,North Station - Haverhill via Reading,,1,200070000,canonical-CR-Haverhill-C1-0,1
 CR-Haverhill-0afec960-0,CR-Haverhill,0,North Station - Reading,,2,200070040,HaverhillRestoredWKDY-744182-1215,2
 CR-Haverhill-5b586e27-0,CR-Haverhill,0,North Station - Haverhill,,3,200070120,HaverhillRestoredWKDY-744722-265,2
@@ -165,21 +153,21 @@ CR-Haverhill-0629a9bc-1,CR-Haverhill,1,Reading - North Station,,2,200071040,Have
 CR-Haverhill-6984317f-1,CR-Haverhill,1,Haverhill - North Station,,3,200071120,HaverhillRestoredWKDY-744721-218,2
 CR-Haverhill-dcfde8e9-1,CR-Haverhill,1,Lawrence - North Station via Reading,,3,200071150,HaverhillRestoredWKDY-744688-202,2
 CR-Kingston-5caee635-0,CR-Kingston,0,South Station - Kingston,,1,200080000,canonical-CR-Kingston-C1-0,1
-CR-Kingston-515864bc-0,CR-Kingston,0,South Station - Kingston,,2,200080020,FairmountEditsAug25-762454-1043,2
+CR-Kingston-515864bc-0,CR-Kingston,0,South Station - Kingston,,2,200080020,Sept2ReadUpdates-764411-1043,2
 CR-Kingston-250be3fa-0,CR-Kingston,0,South Station - Kingston,,3,200080040,SPRING2025V2-715614-1009,2
-CR-Kingston-e76fd7be-0,CR-Kingston,0,South Station - Kingston,,3,200080050,FairmountEditsAug25-762474-1009,2
-CR-Kingston-7014db43-0,CR-Kingston,0,Braintree - Kingston,,3,200080060,FairmountEditsAug25-762452-1047,2
+CR-Kingston-e76fd7be-0,CR-Kingston,0,South Station - Kingston,,3,200080050,Sept2ReadUpdates-764502-1009,2
+CR-Kingston-7014db43-0,CR-Kingston,0,Braintree - Kingston,,3,200080060,Sept2ReadUpdates-764406-1047,2
 CR-Kingston-6cec404d-1,CR-Kingston,1,Kingston - South Station,,1,200081000,canonical-CR-Kingston-C1-1,1
-CR-Kingston-1c296541-1,CR-Kingston,1,Kingston - South Station,,2,200081020,FairmountEditsAug25-762455-1040,2
-CR-Kingston-35bb26b3-1,CR-Kingston,1,Kingston - Braintree,,3,200081040,FairmountEditsAug25-762362-1002,2
+CR-Kingston-1c296541-1,CR-Kingston,1,Kingston - South Station,,2,200081020,Sept2ReadUpdates-764424-1038,2
+CR-Kingston-35bb26b3-1,CR-Kingston,1,Kingston - Braintree,,3,200081040,Sept2ReadUpdates-764407-1046,2
 CR-Lowell-edb39c7b-0,CR-Lowell,0,North Station - Lowell,,1,200090000,canonical-CR-Lowell-C1-0,1
 CR-Lowell-305fef81-1,CR-Lowell,1,Lowell - North Station,,1,200091000,canonical-CR-Lowell-C1-1,1
-CR-Needham-a6552e0a-0,CR-Needham,0,South Station - Needham Heights,,1,200110000,FairmountEditsAug25-762226-617,2
-CR-Needham-69669b59-0,CR-Needham,0,South Station - Needham Heights,,3,200110020,FairmountEditsAug25-762229-625,2
-CR-Needham-7f6dbefb-0,CR-Needham,0,Forest Hills - Needham Heights,,3,200110030,FairmountEditsAug25-762255-689,2
+CR-Needham-a6552e0a-0,CR-Needham,0,South Station - Needham Heights,,1,200110000,Sept2ReadUpdates-764585-629,2
+CR-Needham-69669b59-0,CR-Needham,0,South Station - Needham Heights,,3,200110020,Sept2ReadUpdates-764493-625,2
+CR-Needham-7f6dbefb-0,CR-Needham,0,Forest Hills - Needham Heights,,3,200110030,Sept2ReadUpdates-764703-689,2
 CR-Needham-C1-0,CR-Needham,0,South Station - Needham Heights,,5,200110991,canonical-CR-Needham-C1-0,1
-CR-Needham-d774fb34-1,CR-Needham,1,Needham Heights - South Station,,1,200111000,FairmountEditsAug25-762223-602,2
-CR-Needham-68a3e69b-1,CR-Needham,1,Needham Heights - Forest Hills,,3,200111020,FairmountEditsAug25-762254-686,2
+CR-Needham-d774fb34-1,CR-Needham,1,Needham Heights - South Station,,1,200111000,Sept2ReadUpdates-764474-630,2
+CR-Needham-68a3e69b-1,CR-Needham,1,Needham Heights - Forest Hills,,3,200111020,Sept2ReadUpdates-764702-686,2
 CR-Needham-C1-1,CR-Needham,1,Needham Heights - South Station,,5,200111991,canonical-CR-Needham-C1-1,1
 CR-Newburyport-79533330-0,CR-Newburyport,0,North Station - Newburyport,,1,200120000,HaverhillRestoredWKDY-744341-125,2
 CR-Newburyport-e54dc640-0,CR-Newburyport,0,North Station - Rockport,,1,200120010,HaverhillRestoredWKDY-744312-27,2
@@ -193,75 +181,74 @@ CR-Newburyport-05eb9eab-1,CR-Newburyport,1,Rockport - North Station,,2,200121060
 CR-Newburyport-e6060026-1,CR-Newburyport,1,Newburyport - North Station,,2,200121080,canonical-CR-Newburyport-C1-1,1
 CR-Newburyport-7bd69ec3-1,CR-Newburyport,1,Beverly - North Station,,3,200121160,HaverhillRestoredWKDY-744408-1132,2
 CR-Newburyport-f5cebd1b-1,CR-Newburyport,1,Beverly - North Station,,3,200121170,HaverhillRestoredWKDY-744410-1150,2
-CR-Providence-9cf54fb3-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,1,200130000,FairmountEditsAug25-762556-803,2
-CR-Providence-9515a09b-0,CR-Providence,0,South Station - Stoughton via Back Bay,,1,200130010,FairmountEditsAug25-762597-907,2
-CR-Providence-743ff41d-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200130050,FairmountEditsAug25-762561-819,2
-CR-Providence-e7e93ca2-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,3,200130080,FairmountEditsAug25-762575-847,2
+CR-Providence-9cf54fb3-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,1,200130000,Sept2ReadUpdates-764459-839,2
+CR-Providence-9515a09b-0,CR-Providence,0,South Station - Stoughton via Back Bay,,1,200130010,Sept2ReadUpdates-764665-925,2
+CR-Providence-743ff41d-0,CR-Providence,0,South Station - Providence via Back Bay,,2,200130030,Sept2ReadUpdates-764679-871,2
+CR-Providence-e7e93ca2-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,3,200130080,Sept2ReadUpdates-764609-867,2
 CR-Providence-cf299c9f-0,CR-Providence,0,South Station - Stoughton via Back Bay,,3,200130090,SPRING2025V2-715968-941,2
-CR-Providence-c7d78e5d-0,CR-Providence,0,South Station - Providence via Back Bay,,3,200130110,FairmountEditsAug25-762588-875,2
-CR-Providence-02353231-0,CR-Providence,0,South Station - Providence via Back Bay,,3,200130130,FairmountEditsAug25-762569-835,2
-CR-Providence-49a464e3-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,3,200130140,FairmountEditsAug25-762579-855,2
-CR-Providence-a9a49f44-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,3,200130150,FairmountEditsAug25-762582-861,2
-CR-Providence-31822730-0,CR-Providence,0,South Station - Stoughton via Back Bay,,3,200130160,FairmountEditsAug25-762608-937,2
+CR-Providence-c7d78e5d-0,CR-Providence,0,South Station - Providence via Back Bay,,3,200130110,Sept2ReadUpdates-764587-819,2
+CR-Providence-31822730-0,CR-Providence,0,South Station - Stoughton via Back Bay,,3,200130130,Sept2ReadUpdates-764494-917,2
+CR-Providence-02353231-0,CR-Providence,0,South Station - Providence via Back Bay,,3,200130150,Sept2ReadUpdates-764711-835,2
+CR-Providence-49a464e3-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,3,200130160,Sept2ReadUpdates-764556-855,2
+CR-Providence-a9a49f44-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,3,200130170,Sept2ReadUpdates-764593-861,2
 CR-Providence-1f955147-0,CR-Providence,0,South Station - Stoughton via Back Bay,,3,200130180,SPRING2025V2-715967-937,2
 CR-Providence-cea1b73d-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,3,200130200,SPRING2025V2-715924-827,2
-CR-Providence-e4156eae-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,3,200130210,FairmountEditsAug25-762565-827,2
-CR-Providence-8344b9b3-0,CR-Providence,0,South Station - Stoughton via Fairmount,,3,200130220,FairmountEditsAug25-762627-991,2
+CR-Providence-e4156eae-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,3,200130210,Sept2ReadUpdates-764896-827,2
+CR-Providence-8344b9b3-0,CR-Providence,0,South Station - Stoughton via Fairmount,,3,200130220,Sept2ReadUpdates-764537-991,2
 CR-Providence-5ec86501-0,CR-Providence,0,South Station - Providence via Back Bay,,3,200130230,SPRING2025V2-715950-885,2
 CR-Providence-d36ab58d-0,CR-Providence,0,South Station - Stoughton via Back Bay,,3,200130240,SPRING2025V2-715983-979,2
-CR-Providence-a72810c2-0,CR-Providence,0,South Station - Providence via Back Bay,,3,200130250,SPRING2025V2-715954-893,2
-CR-Providence-8ef472a0-0,CR-Providence,0,South Station - Providence via Back Bay,,3,200130260,FairmountEditsAug25-762593-889,2
+CR-Providence-8ef472a0-0,CR-Providence,0,South Station - Providence via Back Bay,,3,200130250,Sept2ReadUpdates-764623-889,2
+CR-Providence-a72810c2-0,CR-Providence,0,South Station - Providence via Back Bay,,3,200130260,SPRING2025V2-715954-893,2
 CR-Providence-43081d8a-0,CR-Providence,0,South Station - Providence via Back Bay,,3,200130270,SPRING2025V2-715952-889,2
 CR-Providence-C1-0,CR-Providence,0,South Station - Wickford Junction via Back Bay,,5,200130991,canonical-CR-Providence-C1-0,1
 CR-Providence-C2-0,CR-Providence,0,South Station - Stoughton via Back Bay,,5,200130992,canonical-CR-Providence-C2-0,1
-CR-Providence-e9395acc-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,1,200131000,FairmountEditsAug25-762578-852,2
-CR-Providence-6cae46be-1,CR-Providence,1,Stoughton - South Station via Back Bay,,1,200131010,FairmountEditsAug25-762596-904,2
-CR-Providence-b26ac00b-1,CR-Providence,1,Providence - South Station via Back Bay,,2,200131030,FairmountEditsAug25-762570-836,2
-CR-Providence-c2a7e4dc-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131050,FairmountEditsAug25-762585-870,2
-CR-Providence-dc0794ca-1,CR-Providence,1,Stoughton - South Station via Back Bay,,3,200131070,FairmountEditsAug25-762598-908,2
-CR-Providence-1b128040-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,3,200131090,FairmountEditsAug25-762257-814,2
-CR-Providence-e6702e01-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131100,FairmountEditsAug25-762555-802,2
-CR-Providence-e903b16a-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131120,FairmountEditsAug25-762568-832,2
-CR-Providence-143c8a71-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,3,200131130,FairmountEditsAug25-762572-840,2
-CR-Providence-0465673f-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131150,FairmountEditsAug25-762592-886,2
+CR-Providence-e9395acc-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,1,200131000,Sept2ReadUpdates-764449-852,2
+CR-Providence-6cae46be-1,CR-Providence,1,Stoughton - South Station via Back Bay,,1,200131010,Sept2ReadUpdates-764666-930,2
+CR-Providence-b26ac00b-1,CR-Providence,1,Providence - South Station via Back Bay,,2,200131030,Sept2ReadUpdates-764586-824,2
+CR-Providence-c2a7e4dc-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131050,Sept2ReadUpdates-764827-870,2
+CR-Providence-dc0794ca-1,CR-Providence,1,Stoughton - South Station via Back Bay,,3,200131060,Sept2ReadUpdates-764686-926,2
+CR-Providence-1b128040-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,3,200131090,Sept2ReadUpdates-764613-814,2
+CR-Providence-e903b16a-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131100,Sept2ReadUpdates-764667-832,2
+CR-Providence-e6702e01-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131110,Sept2ReadUpdates-764640-802,2
+CR-Providence-143c8a71-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,3,200131130,Sept2ReadUpdates-764610-880,2
+CR-Providence-0465673f-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131150,Sept2ReadUpdates-764652-886,2
 CR-Providence-30afc537-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131170,SPRING2025V2-715935-848,2
 CR-Providence-077e7700-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131180,FairmountEditsAug25-762558-810,2
-CR-Providence-249fee07-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131190,FairmountEditsAug25-762557-806,2
-CR-Providence-68f3c794-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,3,200131210,FairmountEditsAug25-762566-828,2
-CR-Providence-91a5f6f6-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131220,FairmountEditsAug25-762576-848,2
-CR-Providence-8136f884-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,3,200131230,FairmountEditsAug25-762587-874,2
+CR-Providence-91a5f6f6-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131190,Sept2ReadUpdates-764678-848,2
+CR-Providence-249fee07-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131200,FairmountEditsAug25-762557-806,2
+CR-Providence-68f3c794-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,3,200131220,FairmountEditsAug25-762566-828,2
+CR-Providence-8136f884-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,3,200131230,Sept2ReadUpdates-764594-874,2
 CR-Providence-403369a9-1,CR-Providence,1,Stoughton - South Station via Back Bay,,3,200131240,SPRING2025V2-715982-976,2
+CR-Providence-bc8201a5-1,CR-Providence,1,Providence - South Station via Back Bay,,3,200131260,Sept2ReadUpdates-764651-818,2
 CR-Providence-C1-1,CR-Providence,1,Wickford Junction - South Station via Back Bay,,5,200131991,canonical-CR-Providence-C1-1,1
 CR-Providence-C2-1,CR-Providence,1,Stoughton - South Station via Back Bay,,5,200131992,canonical-CR-Providence-C2-1,1
-CR-Foxboro-71c5586e-0,CR-Foxboro,0,South Station - Foxboro,,1,200140000,MorganWallenFri-734661-4749,2
-CR-Foxboro-C1-0,CR-Foxboro,0,South Station - Foxboro,,5,200140991,canonical-CR-Foxboro-C1-0,1
+CR-Foxboro-C1-0,CR-Foxboro,0,South Station - Foxboro,,1,200140991,canonical-CR-Foxboro-C1-0,1
 CR-Foxboro-C2-0,CR-Foxboro,0,Foxboro - Providence,,1,200140992,canonical-CR-Foxboro-C2-0,1
-CR-Foxboro-84ac0fa9-1,CR-Foxboro,1,Providence - Foxboro,,1,200141000,MorganWallenSat-734644-9852,2
 CR-Foxboro-C1-1,CR-Foxboro,1,Foxboro - South Station,,1,200141991,canonical-CR-Foxboro-C1-1,1
-CR-Foxboro-C2-1,CR-Foxboro,1,Providence - Foxboro,,5,200141992,canonical-CR-Foxboro-C2-1,1
+CR-Foxboro-C2-1,CR-Foxboro,1,Providence - Foxboro,,1,200141992,canonical-CR-Foxboro-C2-1,1
 CapeFlyer-c6405ea1-0,CapeFlyer,0,South Station - Hyannis,,1,210000000,canonical-CapeFlyer-C1-0,1
 CapeFlyer-323a1583-1,CapeFlyer,1,Hyannis - South Station,,1,210001000,canonical-CapeFlyer-C1-1,1
-Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,300010000,Boat-F4-0630-Long-B-01-Friday-LateNight-Fall-25,0
-Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,300011000,Boat-F4-0645-Charlestown-B-01-Friday-LateNight-Fall-25,0
-Boat-F1-0-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport & Hull,,1,300020000,Boat-F1-1100-Long-BF2H-B-Friday-LateNight-Fall-25,0
-Boat-F1-1-0,Boat-F1,0,Long Wharf - Hingham via Hull,,1,300020010,Boat-F1-1540-Long-BF2H-A-Friday-LateNight-Fall-25,0
-Boat-F1-2-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,300020020,Boat-F1-0645-Rowes-BF1-A-Friday-LateNight-Fall-25,0
-Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,300020030,Boat-F1-0800-Long-BF2H-A-Friday-LateNight-Fall-25,0
-Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,300020040,Boat-F1-0910-Long-BF2H-A-Friday-LateNight-Fall-25,0
-Boat-F1-5-0,Boat-F1,0,Long Wharf - Hingham via Hull,Summer weekday middays only,1,300020050,Boat-F1-1300-Long-BF2H-B-Friday-LateNight-Fall-25,0
-Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,300020060,Boat-F1-1215-Long-BF2H-A-Friday-LateNight-Fall-25,0
-Boat-F1-7-0,Boat-F1,0,Long Wharf - Hingham,,2,300020070,Boat-F1-1200-Long-BF2H-B-Sunday-Summer-25,0
-Boat-F1-9-0,Boat-F1,0,Long Wharf - Hull via Logan Airport,,2,300020090,Boat-F1-0630-Long-BF2H-A-Friday-LateNight-Fall-25,0
-Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,300021000,Boat-F1-1300-Hingham-BF2H-A-Friday-LateNight-Fall-25,0
-Boat-F1-1-1,Boat-F1,1,Hingham - Long Wharf via Hull,,1,300021010,Boat-F1-0540-Hingham-BF2H-A-Friday-LateNight-Fall-25,0
-Boat-F1-2-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,300021020,Boat-F1-0600-Hingham-BF1-A-Friday-LateNight-Fall-25,0
-Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,300021030,Boat-F1-0730-Hull-BF2H-A-Friday-LateNight-Fall-25,0
-Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,300021040,Boat-F1-1545-Hingham-BF2H-B-Friday-LateNight-Fall-25,0
-Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,300021060,Boat-F1-1400-Hingham-BF2H-B-Friday-LateNight-Fall-25,0
-Boat-F1-7-1,Boat-F1,1,Hingham - Long Wharf via Georges Island,,2,300021070,Boat-F1-0900-Hingham-BF2H-B-Sunday-Summer-25,0
-Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Summer weekday middays only,2,300021080,Boat-F1-1015-Hingham-BF2H-A-Friday-LateNight-Fall-25,0
-Boat-EastBoston-0-0,Boat-EastBoston,0,Long Wharf - Lewis Mall Wharf,,1,300050000,Boat-EastBoston-0715-Long-BEB-01-Friday-LateNight-Fall-25,0
-Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Mall Wharf - Long Wharf,,1,300051000,Boat-EastBoston-0700-Lewis-BEB-01-Friday-LateNight-Fall-25,0
+Boat-F4-0-0,Boat-F4,0,Long Wharf - Charlestown Navy Yard,,1,300010000,Boat-F4-0630-Long-B-01-Weekday-Summer-25,0
+Boat-F4-0-1,Boat-F4,1,Charlestown Navy Yard - Long Wharf,,1,300011000,Boat-F4-0645-Charlestown-B-01-Weekday-Summer-25,0
+Boat-F1-0-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport & Hull,,1,300020000,Boat-F1-1100-Long-BF2H-B-WeekdayModified-Summer-25,0
+Boat-F1-1-0,Boat-F1,0,Long Wharf - Hingham via Hull,,1,300020010,Boat-F1-1540-Long-BF2H-A-WeekdayModified-Summer-25,0
+Boat-F1-2-0,Boat-F1,0,Rowes Wharf - Hingham,Weekdays only,1,300020020,Boat-F1-0645-Rowes-BF1-A-WeekdayModified-Summer-25,0
+Boat-F1-3-0,Boat-F1,0,Long Wharf - Hull,,2,300020030,Boat-F1-0800-Long-BF2H-A-WeekdayModified-Summer-25,0
+Boat-F1-4-0,Boat-F1,0,Long Wharf - Hingham via Logan Airport,,2,300020040,Boat-F1-0910-Long-BF2H-A-WeekdayModified-Summer-25,0
+Boat-F1-5-0,Boat-F1,0,Long Wharf - Hingham via Hull,Summer weekday middays only,1,300020050,Boat-F1-1300-Long-BF2H-B-WeekdayModified-Summer-25,0
+Boat-F1-6-0,Boat-F1,0,Long Wharf - Hingham,,2,300020060,Boat-F1-1215-Long-BF2H-A-WeekdayModified-Summer-25,0
+Boat-F1-7-0,Boat-F1,0,Long Wharf - Hingham,,2,300020070,Boat-F1-1200-Long-BF2H-B-Saturday-Summer-25,0
+Boat-F1-9-0,Boat-F1,0,Long Wharf - Hull via Logan Airport,,2,300020090,Boat-F1-0630-Long-BF2H-A-WeekdayModified-Summer-25,0
+Boat-F1-0-1,Boat-F1,1,Hingham - Long Wharf via Hull & Logan Airport,,1,300021000,Boat-F1-1300-Hingham-BF2H-A-WeekdayModified-Summer-25,0
+Boat-F1-1-1,Boat-F1,1,Hingham - Long Wharf via Hull,,1,300021010,Boat-F1-0540-Hingham-BF2H-A-WeekdayModified-Summer-25,0
+Boat-F1-2-1,Boat-F1,1,Hingham - Rowes Wharf,Weekdays only,1,300021020,Boat-F1-0600-Hingham-BF1-A-WeekdayModified-Summer-25,0
+Boat-F1-3-1,Boat-F1,1,Hull - Long Wharf,,2,300021030,Boat-F1-0730-Hull-BF2H-A-WeekdayModified-Summer-25,0
+Boat-F1-4-1,Boat-F1,1,Hingham - Long Wharf via Logan Airport,,2,300021040,Boat-F1-1545-Hingham-BF2H-B-WeekdayModified-Summer-25,0
+Boat-F1-6-1,Boat-F1,1,Hingham - Long Wharf,,2,300021060,Boat-F1-1400-Hingham-BF2H-B-WeekdayModified-Summer-25,0
+Boat-F1-7-1,Boat-F1,1,Hingham - Long Wharf via Georges Island,,2,300021070,Boat-F1-0900-Hingham-BF2H-B-Saturday-Summer-25,0
+Boat-F1-8-1,Boat-F1,1,Hingham - Long Wharf via Georges Island & Logan Airport,Summer weekday middays only,2,300021080,Boat-F1-1015-Hingham-BF2H-A-WeekdayModified-Summer-25,0
+Boat-EastBoston-0-0,Boat-EastBoston,0,Long Wharf - Lewis Mall Wharf,,1,300050000,Boat-EastBoston-0715-Long-BEB-01-Weekday-Summer-25,0
+Boat-EastBoston-0-1,Boat-EastBoston,1,Lewis Mall Wharf - Long Wharf,,1,300051000,Boat-EastBoston-0700-Lewis-BEB-01-Weekday-Summer-25,0
 Boat-Lynn-1-0,Boat-Lynn,0,Long Wharf - Blossom Street Pier,,1,300070010,Boat-Lynn-0645-Long-BLY-01-Weekday-Summer-25,0
 Boat-Lynn-1-1,Boat-Lynn,1,Blossom Street Pier - Long Wharf,,1,300071010,Boat-Lynn-0600-Blossom-BLY-01-Weekday-Summer-25,0
 Boat-F6-0-1,Boat-F6,1,Boston - Winthrop Loop,,1,300081000,Boat-F6-0640-Winthrop-BF6-01-Weekday-Summer-25,0
@@ -277,97 +264,95 @@ Boat-F8-1-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101010,Boat-F8-1210-Wi
 Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Winthrop-BF8-01-Saturday-Summer-25,0
 747-_-0,747,0,Ruggles Station - Sullivan Square Station,Weekdays only,1,400200000,71375228,0
 747-_-1,747,1,Sullivan Square Station - Ruggles Station,Weekdays only,1,400201000,71375227,0
-708-1-0,708,0,Andrew Station - Ave Louis Pasteur,Weekdays only,1,400300000,71376870,0
-708-_-0,708,0,Andrew Station - Brookline Ave,Weekdays only,1,400300030,71376840,0
-708-1-1,708,1,Ave Louis Pasteur - Andrew Station,Weekdays only,1,400301000,71377961,0
-708-_-1,708,1,Brookline Ave - Andrew Station,Weekdays only,1,400301030,71377085,0
+708-1-0,708,0,Andrew Station - Ave Louis Pasteur,Weekdays only,1,400300000,71465278,0
+708-_-0,708,0,Andrew Station - Brookline Ave,Weekdays only,1,400300030,71465248,0
+708-1-1,708,1,Ave Louis Pasteur - Andrew Station,Weekdays only,1,400301000,71466369,0
+708-_-1,708,1,Brookline Ave - Andrew Station,Weekdays only,1,400301030,71465493,0
 1-_-0,1,0,Nubian Station - Harvard Square,,1,500100000,71372883,0
 1-_-1,1,1,Harvard Square - Nubian Station,,1,500101000,71373279,0
 4-1-0,4,0,Design Center - North Station,Weekdays only,1,500400000,71374068,0
 4-3-0,4,0,Design Center - North Station via South Station (Detour),Weekdays only,1,500400020,71373908,0
 4-3-1,4,1,North Station - Design Center (Detour),Weekdays only,1,500401000,71373903,0
 4-1-1,4,1,North Station - Design Center via South Station,Weekdays only,1,500401020,71374073,0
-7-1-0,7,0,Otis St & Summer St - City Point,,1,500700000,71378001,0
-7-3-0,7,0,Federal Street - City Point,Weekdays only,2,500700040,71378025,0
-7-2-0,7,0,Otis St & Summer St - City Point via East 1st St,Weekdays only,2,500700070,71377999,0
-7-1-1,7,1,City Point - Otis St & Summer St,,1,500701000,71377210,0
-7-4-1,7,1,City Point - Federal Street,Weekdays only,2,500701040,71377327,0
-7-5-1,7,1,City Point - South Station,AM peak hours only,2,500701070,71379355,0
-8-9-0,8,0,Kenmore Station - Harbor Point via South Bay Center,,1,500800000,71378865,0
+7-1-0,7,0,Otis St & Summer St - City Point,,1,500700000,71466409,0
+7-3-0,7,0,Federal Street - City Point,Weekdays only,2,500700040,71466433,0
+7-2-0,7,0,Otis St & Summer St - City Point via East 1st St,Weekdays only,2,500700070,71466407,0
+7-1-1,7,1,City Point - Otis St & Summer St,,1,500701000,71465618,0
+7-4-1,7,1,City Point - Federal Street,Weekdays only,2,500701040,71465735,0
+7-5-1,7,1,City Point - South Station,AM peak hours only,2,500701070,71467763,0
+8-9-0,8,0,Kenmore Station - Harbor Point via South Bay Center,,1,500800000,71467273,0
 8-1-0,8,0,Kenmore Station - Harbor Point,,2,500800040,71374593,0
 8-D-0,8,0,Kenmore Station - Ruggles Station,AM peak hours only,3,500800080,71373927_2,0
-8-9-1,8,1,Harbor Point - Kenmore Station via South Bay Center,,1,500801000,71378855,0
+8-9-1,8,1,Harbor Point - Kenmore Station via South Bay Center,,1,500801000,71467263,0
 8-1-1,8,1,Harbor Point - Kenmore Station,,2,500801040,71374475,0
 8-D-1,8,1,Ruggles Station - Kenmore Station,AM peak hours only,3,500801080,71372420_2,0
-9-_-0,9,0,Copley Station - City Point,,1,500900000,71377150,0
-9-1-0,9,0,Copley Station - City Point via L St,Weekdays only,2,500900040,71377137,0
-9-5-0,9,0,Ave Louis Pasteur - City Point,Weekday middays only,3,500900070,71378609,0
-9-_-1,9,1,City Point - Copley Station,,1,500901000,71377205,0
-9-4-1,9,1,City Point - Kenmore Station via Ave Louis Pasteur,Weekday mornings only,3,500901040,71377227,0
-10-9-0,10,0,Arlington Station - City Point via South Bay Center,,1,501000000,71378354,0
-10-E-0,10,0,Andrew Station - City Point,AM peak hours only,3,501000040,71377666_2,0
-10-8-0,10,0,Townsend St & Warren St - City Point via Nubian Station,Weekday middays only,3,501000060,71378610,0
-10-5-0,10,0,Arlington Station - City Point,Late nights only,3,501000080,71378857,0
-10-9-1,10,1,City Point - Arlington Station,,1,501001000,71377206,0
-10-2-1,10,1,City Point - Franklin Park via Andrew,Weekday early mornings only,3,501001040,71377223,0
-11-3-0,11,0,Chauncy St & Summer St - City Point,,1,501100000,71377046,0
-11-3-1,11,1,City Point - Chauncy St & Summer St,,1,501101000,71377208,0
+9-_-0,9,0,Copley Station - City Point,,1,500900000,71465558,0
+9-1-0,9,0,Copley Station - City Point via L St,Weekdays only,2,500900040,71465545,0
+9-5-0,9,0,Ave Louis Pasteur - City Point,Weekday middays only,3,500900070,71467017,0
+9-_-1,9,1,City Point - Copley Station,,1,500901000,71465613,0
+9-4-1,9,1,City Point - Kenmore Station via Ave Louis Pasteur,Weekday mornings only,3,500901040,71465635,0
+10-9-0,10,0,Arlington Station - City Point via South Bay Center,,1,501000000,71466762,0
+10-E-0,10,0,Andrew Station - City Point,AM peak hours only,3,501000040,71466074_2,0
+10-8-0,10,0,Townsend St & Warren St - City Point via Nubian Station,Weekday middays only,3,501000060,71467018,0
+10-5-0,10,0,Arlington Station - City Point,Late nights only,3,501000080,71467265,0
+10-9-1,10,1,City Point - Arlington Station,,1,501001000,71465614,0
+10-2-1,10,1,City Point - Franklin Park via Andrew,Weekday early mornings only,3,501001040,71465631,0
+11-3-0,11,0,Chauncy St & Summer St - City Point,,1,501100000,71465454,0
+11-3-1,11,1,City Point - Chauncy St & Summer St,,1,501101000,71465616,0
 14-_-0,14,0,Heath St - Roslindale Square,,1,501400000,72094391,0
 14-_-1,14,1,Roslindale Square - Heath St,,1,501401000,72094389,0
 15-1-0,15,0,Ruggles Station - Fields Corner Station,,1,501500000,71373591,0
-15-3-0,15,0,Nubian Station - Kane Square,Weekdays only,3,501500040,71378903,0
-15-6-0,15,0,Malcolm X Blvd - Fields Corner Station,Weekday middays only,3,501500060,71377972,0
-15-H-0,15,0,Haymarket Station - Mattapan Station,Early mornings only,3,501500080,71377794,0
-15-2-0,15,0,Ruggles Station - St Peter's Square,Weekdays only,3,501500110,69697693,0
+15-3-0,15,0,Nubian Station - Kane Square,Weekdays only,3,501500040,71467311,0
+15-6-0,15,0,Malcolm X Blvd - Fields Corner Station,Weekday middays only,3,501500060,71466380,0
+15-H-0,15,0,Haymarket Station - Mattapan Station,Early mornings only,3,501500080,71466202,0
 15-1-1,15,1,Fields Corner Station - Ruggles Station,,1,501501000,71373380,0
-15-3-1,15,1,Kane Square - Nubian Station,Weekday middays only,3,501501040,71378921,0
-15-4-1,15,1,Ashmont Station - Nubian Station,Early mornings only,3,501501060,71376911,0
-15-G-1,15,1,Mattapan - Haymarket via Fields Corner & Nubian (Merrimac Detour),Early mornings only,3,501501090,71377981,0
-15-2-1,15,1,St Peter's Square - Ruggles Station,Weekdays only,3,501501120,69697462,0
+15-3-1,15,1,Kane Square - Nubian Station,Weekday middays only,3,501501040,71467329,0
+15-4-1,15,1,Ashmont Station - Nubian Station,Early mornings only,3,501501060,71465319,0
+15-G-1,15,1,Mattapan - Haymarket via Fields Corner & Nubian (Merrimac Detour),Early mornings only,3,501501090,71466389,0
 16-9-0,16,0,Andrew Station - Forest Hills Station via South Bay Center,,1,501600000,71372365,0
 16-8-0,16,0,Harbor Point - Forest Hills Station via South Bay Center,Weekdays only,2,501600040,71373858,0
-16-5-0,16,0,McCormack Housing - Forest Hills via South Bay Center,,2,501600060,71377983,0
-16-3-0,16,0,Andrew Station - Forest Hills Station,,2,501600090,71376910,0
+16-5-0,16,0,McCormack Housing - Forest Hills via South Bay Center,,2,501600060,71466391,0
+16-3-0,16,0,Andrew Station - Forest Hills Station,,2,501600090,71465318,0
 16-9-1,16,1,Forest Hills Station - Andrew Station via South Bay Center,,1,501601000,71373098,0
 16-8-1,16,1,Forest Hills Station - Harbor Point via South Bay Center,Weekdays only,2,501601040,71373071,0
-16-5-1,16,1,Forest Hills - McCormack Housing via South Bay Center,,2,501601060,71377594,0
-16-3-1,16,1,Forest Hills Station - Andrew Station,,2,501601090,71377635,0
-16-E-1,16,1,Franklin Park - Andrew Station,AM peak hours only,3,501601130,71377666_1,0
-17-_-0,17,0,Andrew Station - Fields Corner Station,,1,501700000,71376837,0
-17-_-1,17,1,Fields Corner Station - Andrew Station,,1,501701000,71377633,0
-18-_-0,18,0,Andrew Station - Ashmont Station,,1,501800000,71379572,0
-18-_-1,18,1,Ashmont Station - Andrew Station,,1,501801000,71379574,0
+16-5-1,16,1,Forest Hills - McCormack Housing via South Bay Center,,2,501601060,71466002,0
+16-3-1,16,1,Forest Hills Station - Andrew Station,,2,501601090,71466043,0
+16-E-1,16,1,Franklin Park - Andrew Station,AM peak hours only,3,501601130,71466074_1,0
+17-_-0,17,0,Andrew Station - Fields Corner Station,,1,501700000,71465245,0
+17-_-1,17,1,Fields Corner Station - Andrew Station,,1,501701000,71466041,0
+18-_-0,18,0,Andrew Station - Ashmont Station,,1,501800000,71467981,0
+18-_-1,18,1,Ashmont Station - Andrew Station,,1,501801000,71467983,0
 19-3-0,19,0,Kenmore Station - Fields Corner Station,Weekdays only,1,501900000,71374478,0
 19-_-0,19,0,Ruggles Station - Fields Corner Station,Weekdays only,2,501900030,71374591,0
 19-5-0,19,0,Warren St & Townsend St - Adams St & Gallivan Blvd,Weekday middays only,3,501900060,71374666,0
-19-1-0,19,0,Malcolm X Blvd - Fields Corner Station,Weekday middays only,3,501900080,71378974,0
-19-4-0,19,0,Ave Louis Pasteur - Gallivan Blvd,Weekday middays only,3,501900100,71377962,0
+19-1-0,19,0,Malcolm X Blvd - Fields Corner Station,Weekday middays only,3,501900080,71467382,0
+19-4-0,19,0,Ave Louis Pasteur - Gallivan Blvd,Weekday middays only,3,501900100,71466370,0
 19-3-1,19,1,Fields Corner Station - Kenmore Station,Weekdays only,1,501901000,71374578,0
 19-_-1,19,1,Fields Corner Station - Ruggles Station,Weekdays only,2,501901030,71374483,0
-19-E-1,19,1,Fields Corner Station - Ave Louis Pasteur,Weekday mornings only,3,501901060,71376833_2,0
+19-E-1,19,1,Fields Corner Station - Ave Louis Pasteur,Weekday mornings only,3,501901060,71465241_2,0
 21-_-0,21,0,Forest Hills Station - Ashmont Station,,1,502100000,72093969,0
 21-_-1,21,1,Ashmont Station - Forest Hills Station,,1,502101000,72093857,0
 21-B-1,21,1,Ashmont Station - Forest Hills Station,Weekday early mornings only,3,502101040,72094002_1,0
 22-_-0,22,0,Ruggles Station - Ashmont Station,,1,502200000,71373720,0
-22-2-0,22,0,Ave Louis Pasteur - Ashmont Station,Weekday middays only,3,502200040,71377958,0
+22-2-0,22,0,Ave Louis Pasteur - Ashmont Station,Weekday middays only,3,502200040,71466366,0
 22-3-0,22,0,Warren St & Townsend St - Ashmont Station,Weekday middays only,3,502200060,71373429,0
 22-_-1,22,1,Ashmont Station - Ruggles Station,,1,502201000,71372420_1,0
 23-_-0,23,0,Ruggles Station - Ashmont Station,,1,502300000,71373688,0
-23-1-0,23,0,Townsend St & Warren St - Ashmont Station,Weekday middays only,3,502300040,71377959,0
-23-E-0,23,0,Nubian Station - Franklin Park,Weekday mornings only,3,502300060,71377994_3,0
-23-3-0,23,0,Malcolm X Blvd - Ashmont Station,Weekday middays only,3,502300080,71377975,0
+23-1-0,23,0,Townsend St & Warren St - Ashmont Station,Weekday middays only,3,502300040,71466367,0
+23-E-0,23,0,Nubian Station - Franklin Park,Weekday mornings only,3,502300060,71466402_3,0
+23-3-0,23,0,Malcolm X Blvd - Ashmont Station,Weekday middays only,3,502300080,71466383,0
 23-_-1,23,1,Ashmont Station - Ruggles Station,,1,502301000,71372477,0
 23-G-1,23,1,Warren St & Quincy St - Nubian Station,Weekday middays only,3,502301040,71373435_1,0
 24-2-0,24,0,Ashmont Station - Wakefield Ave & Truman Pkwy,,1,502400000,72093286,0
 24-2-1,24,1,Wakefield Ave & Truman Pkwy - Ashmont Station,,1,502401000,72093277,0
 26-1-0,26,0,Gallivan Blvd - Ashmont Station via Washington St,,1,502600000,72093417,0
 26-1-1,26,1,Ashmont Station - Gallivan Blvd via Norfolk St,,1,502601000,72093415,0
-28-_-0,28,0,Ruggles Station - Mattapan Station,,1,502800000,72013601,0
-28-9-0,28,0,Ave Louis Pasteur - Mattapan Station,Weekday middays only,3,502800040,72013641,0
-28-_-1,28,1,Mattapan Station - Ruggles Station,,1,502801000,72012898,0
-28-2-1,28,1,Mattapan Station - Nubian Station,Early mornings only,3,502801040,71377976,0
-28-5-1,28,1,Townsend St & Warren St - Ruggles Station,Weekday middays only,3,502801070,71377960,0
-28-9-1,28,1,Mattapan Station - Avenue Louis Pasteur via Ruggles,Weekday early mornings only,3,502801090,72013779,0
+28-_-0,28,0,Ruggles Station - Mattapan Station,,1,502800000,72040653,0
+28-9-0,28,0,Ave Louis Pasteur - Mattapan Station,Weekday middays only,3,502800040,72040693,0
+28-_-1,28,1,Mattapan Station - Ruggles Station,,1,502801000,72039985,0
+28-2-1,28,1,Mattapan Station - Nubian Station,Early mornings only,3,502801040,71466384,0
+28-5-1,28,1,Townsend St & Warren St - Ruggles Station,Weekday middays only,3,502801070,71466368,0
+28-9-1,28,1,Mattapan Station - Avenue Louis Pasteur via Ruggles,Weekday early mornings only,3,502801090,72040830,0
 29-1-0,29,0,Jackson Square Station - Mattapan Station via Franklin Field,Weekdays only,1,502900000,72094663,0
 29-5-0,29,0,Jackson Square Station - Mattapan Station,,1,502900020,72094665,0
 29-1-1,29,1,Mattapan Station - Jackson Square Station via Franklin Field,Weekdays only,1,502901000,72094670,0
@@ -429,11 +414,11 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 38-_-1,38,1,Wren St - Forest Hills Station,,1,503801000,72093831,0
 38-C-1,38,1,Centre & W Roxbury Pkwy - Forest Hills Station,Weekday early mornings only,3,503801040,72094154_1,0
 38-D-1,38,1,Wren St - Forest Hills Station,Weekday early mornings only,3,503801060,72094151_1,0
-39-3-0,39,0,Back Bay Station - Forest Hills Station,,1,503900000,72013898,0
+39-3-0,39,0,Back Bay Station - Forest Hills Station,,1,503900000,72039502,0
 39-7-0,39,0,Huntington Ave & Longwood Ave - Forest Hills Station,Weekday middays only,3,503900040,72094148_1,0
 39-Y-0,39,0,Ave Louis Pasteur - Forest Hills Station via Brigham Cir,Weekday middays only,3,503900060,72094023_1,0
 39-_-0,39,0,Haymarket Station - Cleary Square,Early mornings only,3,503900080,72093276,0
-39-3-1,39,1,Forest Hills Station - Back Bay Station,,1,503901000,72013897,0
+39-3-1,39,1,Forest Hills Station - Back Bay Station,,1,503901000,72039501,0
 39-7-1,39,1,Forest Hills Station - Huntington Ave & Longwood Ave,Weekday mornings only,3,503901040,72094002_2,0
 39-I-1,39,1,Forest Hills Station - Ave Louis Pasteur,Weekday mornings only,3,503901060,72094151_2,0
 39-_-1,39,1,Cleary Square - Haymarket Station,Early mornings only,3,503901080,72093275,0
@@ -447,16 +432,16 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 41-_-1,41,1,Centre St & Eliot St - JFK/UMass Station,,1,504101000,72094439,0
 42-1-0,42,0,Nubian Station - Forest Hills Station,,1,504200000,72093316,0
 42-1-1,42,1,Forest Hills Station - Nubian Station,,1,504201000,72093309,0
-43-_-0,43,0,Park St Station - Ruggles Station,,1,504300000,71378069,0
-43-_-1,43,1,Ruggles Station - Park St Station,,1,504301000,71378293,0
+43-_-0,43,0,Park St Station - Ruggles Station,,1,504300000,71466477,0
+43-_-1,43,1,Ruggles Station - Park St Station,,1,504301000,71466701,0
 44-1-0,44,0,Ruggles Station - Jackson Square Station,,1,504400000,71373582,0
 44-2-0,44,0,Humboldt Ave & Townsend St - Jackson Square Station,Weekday middays only,3,504400040,71374114,0
 44-1-1,44,1,Jackson Square Station - Ruggles Station,,1,504401000,71373323,0
 45-_-0,45,0,Ruggles Station - Franklin Park,Weekdays only,1,504500000,71373726,0
-45-3-0,45,0,Ruggles Station - Franklin Park via Eliot Square,,2,504500030,71378323,0
-45-1-0,45,0,Ruggles Station - Ashmont Station,Late nights only,3,504500060,71378357,0
+45-3-0,45,0,Ruggles Station - Franklin Park via Eliot Square,,2,504500030,71466731,0
+45-1-0,45,0,Ruggles Station - Ashmont Station,Late nights only,3,504500060,71466765,0
 45-_-1,45,1,Franklin Park - Ruggles Station via Eliot Square,,1,504501000,71373157,0
-45-2-1,45,1,Franklin Park - Nubian Station,AM peak hours only,3,504501040,71377670,0
+45-2-1,45,1,Franklin Park - Nubian Station,AM peak hours only,3,504501040,71466078,0
 47-8-0,47,0,"Broadway Station - Central Square, Cambridge",,1,504700000,71374726,0
 47-8-1,47,1,"Central Square, Cambridge - Broadway Station",,1,504701000,71374722,0
 50-_-0,50,0,Forest Hills Station - Cleary Square,,1,505000000,72093471,0
@@ -467,8 +452,8 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 52-4-0,52,0,Watertown - Charles River Loop via Meadowbrook Rd,Weekdays only,2,505200030,72094717,0
 52-5-1,52,1,Dedham Mall - Watertown via Meadowbrook Rd,Weekdays only,1,505201000,72094715,0
 52-4-1,52,1,Charles River Loop - Watertown via Meadowbrook Rd,Weekdays only,2,505201020,72094718,0
-55-_-0,55,0,Arlington Station - West Fenway,Middays only,1,505500000,71378874,0
-55-_-1,55,1,West Fenway - Arlington Station,,1,505501000,71378917,0
+55-_-0,55,0,Arlington Station - West Fenway,Middays only,1,505500000,71467282,0
+55-_-1,55,1,West Fenway - Arlington Station,,1,505501000,71467325,0
 57-_-0,57,0,Kenmore Station - Watertown Yard,,1,505700000,71374964,0
 57-8-0,57,0,Ave Louis Pasteur - Watertown Yard,Weekday middays only,3,505700040,71374050,0
 57-A-0,57,0,Kenmore Station - Oak Square,AM peak hours only,3,505700060,71375053,0
@@ -476,33 +461,29 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 57-H-0,57,0,Haymarket Station - Watertown Yard,Early mornings only,3,505700100,71374020,0
 57-_-1,57,1,Watertown Yard - Kenmore Station,,1,505701000,71374893,0
 57-A-1,57,1,Oak Square - Kenmore Station,Weekday mornings only,3,505701040,71373927_1,0
-57-4-1,57,1,Cambridge St & Warren St - Kenmore Station,Weekday middays only,3,505701060,71379009,0
+57-4-1,57,1,Cambridge St & Warren St - Kenmore Station,Weekday middays only,3,505701060,71467417,0
 57-M-1,57,1,Watertown Yard - Haymarket Station (Detour),Early mornings only,3,505701080,71374023,0
-57-E-1,57,1,"Oak Square - Union Square, Boston",Weekday early mornings only,3,505701110,71377994_1,0
+57-E-1,57,1,"Oak Square - Union Square, Boston",Weekday early mornings only,3,505701110,71466402_1,0
 59-2-0,59,0,Watertown Square - Needham Junction,,1,505900000,71373939,0
 59-_-0,59,0,Watertown Square - Needham Junction via Eliot St,Weekdays only,2,505900040,71374042,0
 59-2-1,59,1,Needham Junction - Watertown Square,,1,505901000,71373938,0
 59-_-1,59,1,Needham Junction - Watertown Square via Eliot St,Weekdays only,2,505901040,71373942,0
 60-_-0,60,0,Kenmore Station - Chestnut Hill,,1,506000000,71374051,0
 60-2-0,60,0,Kenmore Station - Boylston St & Tully St via Chestnut Hill,Weekdays only,2,506000040,71373407,0
-60-4-0,60,0,Brookline Village - Boylston St & Tully St,Weekday early mornings only,3,506000070,71379155,0
+60-4-0,60,0,Brookline Village - Boylston St & Tully St,Weekday early mornings only,3,506000070,71467563,0
 60-3-0,60,0,Brookline Village - Chestnut Hill,Early mornings only,3,506000090,71475691,0
 60-_-1,60,1,Chestnut Hill - Kenmore Station,,1,506001000,71374054,0
 60-2-1,60,1,Boylston St & Tully St - Kenmore Station,Weekdays only,2,506001040,71372575,0
-60-3-1,60,1,Chestnut Hill - Brookline Village,Late nights only,3,506001070,71377134,0
+60-3-1,60,1,Chestnut Hill - Brookline Village,Late nights only,3,506001070,71465542,0
 61-_-0,61,0,Waltham Center - North Waltham,,1,506100000,71696096,0
 61-_-1,61,1,North Waltham - Waltham Center,,1,506101000,71696097,0
 62-3-0,62,0,Alewife Station - Bedford VA Hospital,,1,506200000,71695940,0
 62-3-1,62,1,Bedford VA Hospital - Alewife Station,,1,506201000,71695945,0
-627-6-0,627,0,Alewife Station - Bedford VA Hospital,Weekdays only,1,506210000,69364125,0
-627-7-0,627,0,Alewife Station - Bedford VA Hospital via Hanscom Airport,,1,506210010,69364136,0
-627-6-1,627,1,Bedford VA Hospital - Alewife Station,Weekdays only,1,506211000,69364124,0
-627-7-1,627,1,Bedford VA Hospital - Alewife Station via Hanscom Airport,,1,506211010,69364138,0
 64-6-0,64,0,Kendall/MIT Station - Oak Square,Weekdays only,1,506400000,71694332,0
-64-_-0,64,0,University Park - Oak Square,,3,506400030,71693323,0
+64-_-0,64,0,University Park - Oak Square,,3,506400030,71690867,0
 64-3-0,64,0,"Central Square, Cambridge - Oak Square",Late nights only,3,506400050,71690885,0
 64-6-1,64,1,Oak Square - Kendall/MIT Station,Weekdays only,1,506401000,71694334,0
-64-_-1,64,1,Oak Square - University Park,,3,506401030,71693324,0
+64-_-1,64,1,Oak Square - University Park,,3,506401030,71690866,0
 65-_-0,65,0,Kenmore Station - Brighton Center,,1,506500000,71373413,0
 65-_-1,65,1,Brighton Center - Kenmore Station,,1,506501000,71372589,0
 66-9-0,66,0,Nubian Station - Harvard Station via Allston,,1,506600000,71372887,0
@@ -510,7 +491,7 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 66-B-0,66,0,"Nubian Station - Union Square, Boston",Weekday middays only,3,506600070,71373435_2,0
 66-6-1,66,1,Harvard Square - Nubian Station,,1,506601000,71373180,0
 66-7-1,66,1,Cambridge St & Warren St - Nubian Station,Weekday middays only,3,506601040,71375240,0
-66-B-1,66,1,"Union Square, Boston - Nubian Station",Weekday mornings only,3,506601060,71377994_2,0
+66-B-1,66,1,"Union Square, Boston - Nubian Station",Weekday mornings only,3,506601060,71466402_2,0
 67-4-0,67,0,Alewife Station - Turkey Hill,Weekdays only,1,506700000,71694757,0
 67-4-1,67,1,Turkey Hill - Alewife Station,Weekdays only,1,506701000,71694754,0
 68-_-0,68,0,Kendall/MIT Station - Harvard Square,Weekdays only,1,506800000,71694074,0
@@ -567,24 +548,22 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 89-_-0,89,0,Sullivan Square Station - Clarendon Hill,Weekdays only,2,508900040,71998560,0
 89-2-1,89,1,Davis Station - Sullivan Square Station,,1,508901000,71998370,0
 89-_-1,89,1,Clarendon Hill - Sullivan Square Station,Weekdays only,2,508901040,71998559,0
-8993-_-1,8993,1,Clarendon Hill - Haymarket Station,Early mornings only,1,508911000,71999979,0
+8993-_-1,8993,1,Clarendon Hill - Haymarket Station,Early mornings only,1,508911000,71993637,0
 90-_-0,90,0,Assembly Row - Davis Station,,1,509000000,71998587,0
-90-1-0,90,0,Assembly Row - Davis Station,,3,509000040,69895265,0
 90-_-1,90,1,Davis Station - Assembly Row,,1,509001000,71998590,0
-90-1-1,90,1,Davis Station - Assembly Row,,3,509001040,69895263,0
 91-_-0,91,0,"Central Square, Cambridge - Sullivan Square Station",,1,509100000,71996731,0
 91-_-1,91,1,"Sullivan Square Station - Central Square, Cambridge",,1,509101000,71996730,0
 92-3-0,92,0,Downtown - Sullivan Square Station (Detour),,1,509200000,71996890,0
-92-_-0,92,0,Haymarket Station - Sullivan Square Station,,3,509200040,72000073,0
+92-_-0,92,0,Haymarket Station - Sullivan Square Station,,3,509200040,71993731,0
 92-4-1,92,1,Sullivan Square - Devonshire St @ Milk St,,1,509201000,71996893,0
-92-_-1,92,1,Sullivan Square Station - Haymarket Station,,3,509201040,72000087,0
+92-_-1,92,1,Sullivan Square Station - Haymarket Station,,3,509201040,71993745,0
 93-1-0,93,0,Downtown - Sullivan Square Station,,1,509300000,71997373,0
-93-2-0,93,0,Downtown - Sullivan Square Station via Navy Yard,Weekdays only,1,509300040,72000532,0
-93-_-0,93,0,Haymarket Station - Sullivan Square Station,,2,509300070,72000517,0
+93-2-0,93,0,Downtown - Sullivan Square Station via Navy Yard,Weekdays only,1,509300040,71994190,0
+93-_-0,93,0,Haymarket Station - Sullivan Square Station,,2,509300070,71994175,0
 93-5-1,93,1,Sullivan Square Station - Downtown (Detour),,1,509301000,71997374,0
 93-6-1,93,1,Sullivan Square Station - Downtown via Navy Yard (Detour),Weekdays only,2,509301040,71997372,0
-93-_-1,93,1,Sullivan Square Station - Haymarket Station,,2,509301070,72000518,0
-93-4-1,93,1,Bunker Hill St at Concord St - Haymarket Station,Weekday middays only,3,509301100,72000583,0
+93-_-1,93,1,Sullivan Square Station - Haymarket Station,,2,509301070,71994176,0
+93-4-1,93,1,Bunker Hill St at Concord St - Haymarket Station,Weekday middays only,3,509301100,71994241,0
 94-1-0,94,0,Davis Station - Medford Square,,1,509400000,71996422,0
 94-2-0,94,0,Davis Station - Medford Square via Medford HS,AM peak hours only,3,509400040,71996475,0
 94-1-1,94,1,Medford Square - Davis Station,,1,509401000,71996424,0
@@ -614,21 +593,21 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 105-1-0,105,0,Sullivan Square Station - Malden Center Station,,1,510500000,71996938,0
 105-1-1,105,1,Malden Center Station - Sullivan Square Station,,1,510501000,71996939,0
 106-_-0,106,0,Wellington Station - Lebanon Loop,,1,510600000,71997436,0
-106-4-0,106,0,Malden Center Station - Lebanon Loop,Late nights only,3,510600040,72000958,0
+106-4-0,106,0,Malden Center Station - Lebanon Loop,Late nights only,3,510600040,71994616,0
 106-3-1,106,1,Lebanon Loop - Wellington Station via Sylvan St,,1,510601000,71997734,0
-106-_-1,106,1,Lebanon Loop - Wellington Station,Evenings only,3,510601040,72000960,0
-106-4-1,106,1,Lebanon Loop - Malden Center Station,Evenings only,3,510601070,72050402,0
+106-_-1,106,1,Lebanon Loop - Wellington Station,Evenings only,3,510601040,71994618,0
+106-4-1,106,1,Lebanon Loop - Malden Center Station,Evenings only,3,510601070,72097288,0
 108-6-0,108,0,Wellington Station - Linden Square,,1,510800000,71997672,0
 108-2-0,108,0,Salem St & Sprague St - Linden Square,Weekday middays only,3,510800040,71997444,0
 108-7-0,108,0,Malden Center Station - Linden Square,Weekday middays only,3,510800060,71997443,0
 108-6-1,108,1,Linden Square - Wellington Station,,1,510801000,71997667,0
 108-7-1,108,1,Linden Square - Malden Center Station,Weekdays only,3,510801040,71997441,0
-109-_-0,109,0,Harvard Station - Linden Square via Sullivan Square,,1,510900000,72000742,0
-109-_-1,109,1,Linden Square - Harvard Station via Sullivan Square,,1,510901000,72000743,0
+109-_-0,109,0,Harvard Station - Linden Square via Sullivan Square,,1,510900000,71994400,0
+109-_-1,109,1,Linden Square - Harvard Station via Sullivan Square,,1,510901000,71994401,0
 110-_-0,110,0,Wellington Station - Wonderland Station,,1,511000000,71998309,0
 110-_-1,110,1,Wonderland Station - Wellington Station,,1,511001000,71998243,0
-111-5-0,111,0,Haymarket Station - Woodlawn,,1,511100000,72000138,0
-111-5-1,111,1,Woodlawn - Haymarket Station,,1,511101000,72000137,0
+111-5-0,111,0,Haymarket Station - Woodlawn,,1,511100000,71993796,0
+111-5-1,111,1,Woodlawn - Haymarket Station,,1,511101000,71993795,0
 112-_-0,112,0,Wood Island Station - Wellington Station via Mystic Mall,,1,511200000,71996451,0
 112-_-1,112,1,Wellington Station - Wood Island Station via Mystic Mall,,1,511201000,71996449,0
 114-1-0,114,0,Maverick Station - Mystic Mall,Weekdays only,1,511400000,71825965,0
@@ -658,7 +637,7 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 132-_-1,132,1,Redstone Shopping Center - Malden Center Station,,1,513201000,71996546,0
 134-3-0,134,0,Wellington Station - North Woburn via Trade Center,Weekdays only,1,513400000,71996458,0
 134-5-0,134,0,Wellington Station - North Woburn,,2,513400020,71996601,0
-134-6-0,134,0,Wellington Station - Winthrop St & Playstead Rd,,2,513400060,71999863,0
+134-6-0,134,0,Wellington Station - Winthrop St & Playstead Rd,,2,513400060,71993521,0
 134-2-0,134,0,Wellington - North Woburn via Trade Ctr & Veterans Ctr,Weekday middays only,2,513400090,71996604,0
 134-4-0,134,0,Middlesex Ave - Winthrop St & Brooks St,Weekdays only,2,513400110,71996498,0
 134-9-0,134,0,Wellington Station - Woburn Square,Sundays only,3,513400130,72049776,0
@@ -673,13 +652,13 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 137-7-1,137,1,Lincoln St @ Reading Depot - Malden Center,,1,513701000,71997638,0
 137-6-1,137,1,Lincoln St @ Reading Depot - Oak Grove Busway,Weekdays only,2,513701040,71997639,0
 137-4-1,137,1,Main St @ Water St - Malden Center,Weekday middays only,3,513701070,71997670,0
-171-_-0,171,0,Nubian Station - Logan Airport Terminals,Early mornings only,1,517100000,71377396,0
+171-_-0,171,0,Nubian Station - Logan Airport Terminals,Early mornings only,1,517100000,71465804,0
 201-9-0,201,0,Fields Corner - Keystone Apt via Puritan Mall & Neponset Ave,,1,520100000,71988302,0
 201-_-0,201,0,Fields Corner - Adams St & Gallivan Blvd via Neponset Ave,,2,520100030,71988296,0
 201-8-0,201,0,Fields Corner Station - Keystone Apts via Neponset Ave,Weekdays only,2,520100070,71988303,0
 201-8-1,201,1,Keystone Apts - Fields Corner Station via Adams St,,1,520101000,71988298,0
 201-_-1,201,1,Adams St & Gallivan Blvd - Fields Corner via Adams St,,2,520101030,71988299,0
-201-1-1,201,1,Adams St & Gallivan Blvd - Fields Corner via Adams St,Weekday early mornings only,3,520101070,71376833_1,0
+201-1-1,201,1,Adams St & Gallivan Blvd - Fields Corner via Adams St,Weekday early mornings only,3,520101070,71465241_1,0
 202-5-0,202,0,Fields Corner Station - Keystone Apts via Adams St,Weekdays only,1,520200000,71988329,0
 202-6-1,202,1,Keystone Apts - Fields Corner Station via Neponset Ave,Weekdays only,1,520201000,71988301,0
 210-3-0,210,0,Fields Corner Station - Quincy Center Station,Weekdays only,1,521000000,71987600,0
@@ -709,10 +688,7 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 217-2-1,217,1,Hollis Ave & Newbury Ave - Bryant Ave & Upton St,Weekday middays only,2,521701030,71987632,0
 220-5-0,220,0,Quincy Center - Station St - Hingham Depot,,1,522000000,71988178,0
 220-9-0,220,0,Quincy Center - Hingham Depot via Hingham Shipyard & Center,Weekdays only,3,522000040,71988182,0
-220-3-0,220,0,Quincy Center Station - Hingham Depot,,3,522000050,70039383,0
-220-4-0,220,0,Quincy Center Station - Hingham Depot via Hingham Center,Weekdays only,3,522000060,70039379,0
 220-5-1,220,1,Hingham Depot - Quincy Center Station via Hingham Shipyard,,1,522001000,71988176,0
-220-3-1,220,1,Hingham Depot - Quincy Center Station,,3,522001040,70039384,0
 222-_-0,222,0,Quincy Center Station - East Weymouth,,1,522200000,71988177,0
 222-9-0,222,0,Quincy Center Station - Pleasant St & Washington St,,1,522200040,71988187,0
 222-_-1,222,1,East Weymouth - Quincy Center Station,,1,522201000,71988180,0
@@ -750,7 +726,7 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 350-4-0,350,0,Alewife Station - North Burlington,,2,535000040,71694282,0
 350-8-0,350,0,Alewife Station - Northwest Park,Weekday early mornings only,3,535000080,71694420,0
 350-5-1,350,1,North Burlington - Alewife Station via Burlington Mall,,1,535001000,71694271,0
-350-4-1,350,1,North Burlington - Alewife Station,,3,535001040,71692704,0
+350-4-1,350,1,North Burlington - Alewife Station,,3,535001040,71642496,0
 351-_-0,351,0,Third Ave - Bedford Woods Dr,Weekdays only,1,535100000,71694407,0
 351-1-0,351,0,Third Ave - Bedford Woods Dr via EMD Serono,Weekday mornings only,1,535100020,71694413,0
 351-1-1,351,1,Bedford Woods Dr - Third Ave via EMD Serono,Weekdays only,1,535101000,71694406,0
@@ -766,11 +742,11 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 424-6-0,424,0,Wonderland Station - Eastern Ave & Essex St,Weekdays only,1,542400000,71825975,0
 424-6-1,424,1,Eastern Ave & Essex St - Wonderland Station,Weekday mornings only,1,542401000,71825978,0
 426-_-0,426,0,"Haymarket Station - Central Square, Lynn",Weekdays only,1,542600000,71825942,0
-426-7-0,426,0,"Wonderland Station - Central Square, Lynn via Silsbee St",,2,542600030,71828603,0
+426-7-0,426,0,"Wonderland Station - Central Square, Lynn via Silsbee St",,2,542600030,71827912,0
 426-2-0,426,0,"O'Callaghan Way & Holyoke St - Central Square, Lynn",Weekday middays only,3,542600050,71825941,0
 426-3-0,426,0,"O'Callaghan Way & Fecteau Way - Central Square, Lynn",Weekday middays only,3,542600070,71826085,0
 426-_-1,426,1,"Central Square, Lynn - Haymarket Station",Weekdays only,1,542601000,71826003,0
-426-7-1,426,1,"Central Square, Lynn - Wonderland Station",,2,542601030,71828605,0
+426-7-1,426,1,"Central Square, Lynn - Wonderland Station",,2,542601030,71827873,0
 428-_-0,428,0,Haymarket Station - Oaklandvale,Weekdays only,1,542800000,71826029,0
 428-_-1,428,1,Oaklandvale - Haymarket Station,Weekday mornings only,1,542801000,71825985,0
 429-_-0,429,0,Central Sq - Northgate Ctr via Square One & Garfield Ave,,1,542900000,71825935,0
@@ -785,11 +761,11 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 429-4-1,429,1,"O'Callaghan Way & Holyoke St - Central Square, Lynn",Weekday middays only,3,542901120,71825967,0
 430-1-0,430,0,Malden Center Station - Saugus Center,,1,543000000,71997540,0
 430-6-0,430,0,Malden Center Station - Saugus Center (Omits Square One),Weekday mornings only,2,543000040,71997537,0
-430-7-0,430,0,Salem St & Sprague St - Square One Mall,Weekday middays only,3,543000070,72000724,0
-430-2-0,430,0,Malden Center Station - Saugus Center via Kennedy Dr,Weekday evenings only,3,543000090,72000722,0
+430-7-0,430,0,Salem St & Sprague St - Square One Mall,Weekday middays only,3,543000070,71994382,0
+430-2-0,430,0,Malden Center Station - Saugus Center via Kennedy Dr,Weekday evenings only,3,543000090,71994380,0
 430-1-1,430,1,Saugus Center - Malden Center Station,,1,543001000,71997557,0
 430-6-1,430,1,Saugus Center - Malden Center Station (Omits Square One),Weekdays only,2,543001040,71997554,0
-430-2-1,430,1,Saugus Center - Malden Center Station via Kennedy Dr,Weekday evenings only,3,543001060,72000740,0
+430-2-1,430,1,Saugus Center - Malden Center Station via Kennedy Dr,Weekday evenings only,3,543001060,71994398,0
 435-8-0,435,0,Neptune Towers - Salem Depot,,1,543500000,71826390,0
 435-7-0,435,0,"Central Square, Lynn - Salem Depot",,2,543500030,71826393,0
 435-6-0,435,0,Neptune Towers - Liberty Tree Mall,Sundays only,3,543500070,71828841,0
@@ -820,10 +796,10 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 442-7-1,442,1,Marblehead - Wonderland Station via Humphrey St,,1,544201000,71825752,0
 442-9-1,442,1,Marblehead - Lynn Bus Garage via Humphrey St,Sunday late nights only,3,544201040,71828496,0
 450-8-0,450,0,Haymarket Station - Salem Depot,Weekdays only,1,545000000,71825971,0
-450-7-0,450,0,Wonderland Station - Salem Depot,,2,545000030,71828418,0
+450-7-0,450,0,Wonderland Station - Salem Depot,,2,545000030,71828027,0
 450-9-0,450,0,Lynn Bus Garage - Salem Depot,Mornings only,3,545000050,71826172,0
 450-8-1,450,1,Salem Depot - Haymarket Station,Weekdays only,1,545001000,71826042,0
-450-7-1,450,1,Salem Depot - Wonderland Station,,2,545001030,71828445,0
+450-7-1,450,1,Salem Depot - Wonderland Station,,2,545001030,71827963,0
 450-9-1,450,1,Salem Depot - Lynn Bus Garage,Late nights only,3,545001050,71826192,0
 451-1-0,451,0,Salem Depot - North Beverly Station via Tozer Rd,Weekdays only,1,545100000,71825996,0
 451-_-0,451,0,Salem Depot - North Beverly Station via Cabot St,Weekdays only,1,545100030,71825993,0
@@ -834,18 +810,18 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 455-7-1,455,1,Salem Depot - Wonderland Station (Omits Shetland Park),,1,545501000,71826265,0
 455-5-1,455,1,"Central Square, Lynn - Wonderland Station",Early mornings only,3,545501040,71826261,0
 455-3-1,455,1,Brookline St & Empire St - Lynn Bus Garage,Weekday middays only,3,545501070,71826304,0
-455-8-1,455,1,Salem Depot - Lynn Bus Garage (Omits Shetland Park),Evenings only,3,545501090,71828544,0
+455-8-1,455,1,Salem Depot - Lynn Bus Garage (Omits Shetland Park),Evenings only,3,545501090,71828245,0
 456-_-0,456,0,"Central Square, Lynn - Salem Depot",Weekdays only,1,545600000,71825924,0
 456-_-1,456,1,"Salem Depot - Central Square, Lynn",Weekday middays only,1,545601000,71825805,0
 501-5-0,501,0,Federal St & Franklin St - Brighton Center via Copley Sq,,1,550100000,71374663,0
 501-4-0,501,0,Federal St & Franklin St - Brighton Center via Copley Sq & Cambridge St,,2,550100030,71373888,0
 501-4-1,501,1,Brighton Center - Federal St & Franklin St via Copley Sq,,1,550101000,71373891,0
 501-5-1,501,1,Brighton Center - Federal St & Franklin St via Cambridge St & Copley Sq,,1,550101030,71374658,0
-504-2-0,504,0,Federal & Franklin - Watertown via Copley Sq and Newton Crnr,,1,550400000,71378791,0
-504-2-1,504,1,Watertown Yard - Federal St & Franklin St via Copley Square,,1,550401000,71378762,0
+504-2-0,504,0,Federal & Franklin - Watertown via Copley Sq and Newton Crnr,,1,550400000,71467199,0
+504-2-1,504,1,Watertown Yard - Federal St & Franklin St via Copley Square,,1,550401000,71467170,0
 505-6-0,505,0,Federal St & Franklin St - Waltham Center via School St,Weekdays only,1,550500000,71373049,0
-505-5-0,505,0,Federal St & Franklin St - Waltham Center,Weekdays only,2,550500030,71377556,0
-505-5-1,505,1,Waltham Center - Federal St & Franklin St via School St,Weekdays only,1,550501000,71377978,0
+505-5-0,505,0,Federal St & Franklin St - Waltham Center,Weekdays only,2,550500030,71465964,0
+505-5-1,505,1,Waltham Center - Federal St & Franklin St via School St,Weekdays only,1,550501000,71466386,0
 505-6-1,505,1,Waltham Center - Federal St & Franklin St,Weekdays only,1,550501030,71373464,0
 553-6-0,553,0,Newton Corner - Roberts,,1,555300000,71373902,0
 553-6-1,553,1,Roberts - Newton Corner,,1,555301000,71373896,0
@@ -866,9 +842,9 @@ Boat-F8-2-1,Boat-F8,1,Boston - Winthrop/Quincy Loop,,1,300101020,Boat-F8-2140-Wi
 714-3-0,714,0,Hingham Depot - Pemberton Point,,1,571400000,71954221,0
 714-3-1,714,1,Pemberton Point - Hingham Depot,,1,571401000,71954220,0
 716-1-0,716,0,Mattapan Station - Cobbs Corner (Omits Royall St),,1,571600000,71954748,0
-716-2-0,716,0,Mattapan Station - Cobbs Corner via Houghton Pond,Saturdays only,3,571600040,70053171,0
+716-2-0,716,0,Mattapan Station - Cobbs Corner via Houghton Pond,Saturdays only,3,571600040,72261316,0
 716-1-1,716,1,Cobbs Corner - Mattapan Station (Omits Royall St),,1,571601000,71954743,0
-716-2-1,716,1,Cobbs Corner - Mattapan Station via Houghton Pond,Saturdays only,3,571601040,70053175,0
+716-2-1,716,1,Cobbs Corner - Mattapan Station via Houghton Pond,Saturdays only,3,571601040,72261320,0
 Shuttle-AirportGovernmentCenterExpress-0-0,Shuttle-AirportGovernmentCenterExpress,0,Airport - Government Center (Express),,5,602050990,AirportBowdoinExpress-0-sample,1
 Shuttle-AirportGovernmentCenterExpress-0-1,Shuttle-AirportGovernmentCenterExpress,1,Government Center - Airport (Express),,5,602051990,AirportBowdoinExpress-1-sample,1
 Shuttle-AirportGovernmentCenterLocal-0-0,Shuttle-AirportGovernmentCenterLocal,0,Airport - Government Center via Maverick,,5,602080990,AirportBowdoinLocal-0-sample,1
@@ -877,24 +853,24 @@ Shuttle-AirportGovernmentCenterLocalViaGate-0-0,Shuttle-AirportGovernmentCenterL
 Shuttle-AirportGovernmentCenterLocalViaGate-0-1,Shuttle-AirportGovernmentCenterLocalViaGate,1,Government Center - Airport via Maverick,,5,602091990,AirportBowdoinLocalViaGate-1-sample,1
 Shuttle-AirportMaverick-0-0,Shuttle-AirportMaverick,0,Airport - Maverick,,5,602140990,AirportMaverick-0-sample,1
 Shuttle-AirportMaverick-0-1,Shuttle-AirportMaverick,1,Maverick - Airport,,5,602141990,AirportMaverick-1-sample,1
-Shuttle-AirportWonderland-0-0,Shuttle-AirportWonderland,0,Wonderland - Airport,,5,602150990,AirportWonderland-Weekday-dbb7a-0-00:00:00,1
-Shuttle-AirportWonderland-0-1,Shuttle-AirportWonderland,1,Airport - Wonderland,,5,602151990,AirportWonderland-Weekday-dbb7a-1-00:00:00,1
+Shuttle-AirportWonderland-0-0,Shuttle-AirportWonderland,0,Wonderland - Airport,,5,602150990,AirportWonderland-Weekday-05612-0-00:00:00,1
+Shuttle-AirportWonderland-0-1,Shuttle-AirportWonderland,1,Airport - Wonderland,,5,602151990,AirportWonderland-Weekday-05612-1-00:00:00,1
 Shuttle-AlewifeDavis-0-0,Shuttle-AlewifeDavis,0,Alewife - Davis,,5,602160990,AlewifeDavis-0-sample,1
 Shuttle-AlewifeDavis-0-1,Shuttle-AlewifeDavis,1,Davis - Alewife,,5,602161990,AlewifeDavis-1-sample,1
 Shuttle-AlewifeHarvardViaBrattle-0-0,Shuttle-AlewifeHarvardViaBrattle,0,Alewife - Harvard,,5,602180990,AlewifeHarvardViaBrattle-0-sample,1
 Shuttle-AlewifeHarvardViaBrattle-0-1,Shuttle-AlewifeHarvardViaBrattle,1,Harvard - Alewife,,5,602181990,AlewifeHarvardViaBrattle-1-sample,1
-Shuttle-AlewifeHarvardViaHolyoke-0-0,Shuttle-AlewifeHarvardViaHolyoke,0,Harvard - Alewife,,5,602190990,AlewifeHarvardViaHolyoke-Weekday-dbb7a-0-00:00:00,1
-Shuttle-AlewifeHarvardViaHolyoke-0-1,Shuttle-AlewifeHarvardViaHolyoke,1,Alewife - Harvard,,5,602191990,AlewifeHarvardViaHolyoke-Weekday-dbb7a-1-00:00:00,1
-Shuttle-AlewifeKendall-0-0,Shuttle-AlewifeKendall,0,Alewife - Kendall/MIT,,5,602200990,AlewifeKendall-Weekday-dbb7a-0-00:00:00,1
-Shuttle-AlewifeKendall-0-1,Shuttle-AlewifeKendall,1,Kendall/MIT - Alewife,,5,602201990,AlewifeKendall-Weekday-dbb7a-1-00:00:00,1
-Shuttle-AlewifeKendallExpress-0-0,Shuttle-AlewifeKendallExpress,0,Alewife - Kendall/MIT,,5,602210990,AlewifeKendallExpress-Weekday-dbb7a-0-00:00:00,1
-Shuttle-AlewifeKendallExpress-0-1,Shuttle-AlewifeKendallExpress,1,Kendall/MIT - Alewife,,5,602211990,AlewifeKendallExpress-Weekday-dbb7a-1-00:00:00,1
+Shuttle-AlewifeHarvardViaHolyoke-0-0,Shuttle-AlewifeHarvardViaHolyoke,0,Harvard - Alewife,,5,602190990,AlewifeHarvardViaHolyoke-Weekday-05612-0-00:00:00,1
+Shuttle-AlewifeHarvardViaHolyoke-0-1,Shuttle-AlewifeHarvardViaHolyoke,1,Alewife - Harvard,,5,602191990,AlewifeHarvardViaHolyoke-Weekday-05612-1-00:00:00,1
+Shuttle-AlewifeKendall-0-0,Shuttle-AlewifeKendall,0,Alewife - Kendall/MIT,,5,602200990,AlewifeKendall-Weekday-05612-0-00:00:00,1
+Shuttle-AlewifeKendall-0-1,Shuttle-AlewifeKendall,1,Kendall/MIT - Alewife,,5,602201990,AlewifeKendall-Weekday-05612-1-00:00:00,1
+Shuttle-AlewifeKendallExpress-0-0,Shuttle-AlewifeKendallExpress,0,Alewife - Kendall/MIT,,5,602210990,AlewifeKendallExpress-Weekday-05612-0-00:00:00,1
+Shuttle-AlewifeKendallExpress-0-1,Shuttle-AlewifeKendallExpress,1,Kendall/MIT - Alewife,,5,602211990,AlewifeKendallExpress-Weekday-05612-1-00:00:00,1
 Shuttle-AlewifeLittletonExpress-0-0,Shuttle-AlewifeLittletonExpress,0,Alewife - Littleton/Route 495 (Express),,5,602220990,AlewifeLittletonExpress-0-sample,1
 Shuttle-AlewifeLittletonExpress-0-1,Shuttle-AlewifeLittletonExpress,1,Littleton/Route 495 - Alewife (Express),,5,602221990,AlewifeLittletonExpress-1-sample,1
 Shuttle-AlewifeLittletonLocal-0-0,Shuttle-AlewifeLittletonLocal,0,Alewife - Littleton/Route 495 (Local),,5,602230990,AlewifeLittletonLocal-0-sample,1
 Shuttle-AlewifeLittletonLocal-0-1,Shuttle-AlewifeLittletonLocal,1,Littleton/Route 495 - Alewife (Local),,5,602231990,AlewifeLittletonLocal-1-sample,1
-Shuttle-AlewifeParkSt-0-0,Shuttle-AlewifeParkSt,0,Alewife - Park Street,,5,602240990,AlewifeParkSt-Weekday-dbb7a-0-00:00:00,1
-Shuttle-AlewifeParkSt-0-1,Shuttle-AlewifeParkSt,1,Park Street - Alewife,,5,602241990,AlewifeParkSt-Weekday-dbb7a-1-00:00:00,1
+Shuttle-AlewifeParkSt-0-0,Shuttle-AlewifeParkSt,0,Alewife - Park Street,,5,602240990,AlewifeParkSt-Weekday-05612-0-00:00:00,1
+Shuttle-AlewifeParkSt-0-1,Shuttle-AlewifeParkSt,1,Park Street - Alewife,,5,602241990,AlewifeParkSt-Weekday-05612-1-00:00:00,1
 Shuttle-AndersonWoburnLowell-0-0,Shuttle-AndersonWoburnLowell,0,Anderson/Woburn - Lowell,,5,602250990,AndersonWoburnLowell-0-sample,1
 Shuttle-AndersonWoburnLowell-0-1,Shuttle-AndersonWoburnLowell,1,Lowell - Anderson/Woburn,,5,602251990,AndersonWoburnLowell-1-sample,1
 Shuttle-AndersonWoburnNorthStationExpress-0-0,Shuttle-AndersonWoburnNorthStationExpress,0,North Station - Anderson/Woburn (Express),,5,602270990,AndersonWoburnNorthStationExpress-0-sample,1
@@ -905,26 +881,26 @@ Shuttle-AndoverHaverhill-0-0,Shuttle-AndoverHaverhill,0,Andover - Haverhill,,5,6
 Shuttle-AndoverHaverhill-0-1,Shuttle-AndoverHaverhill,1,Haverhill - Andover,,5,602321990,AndoverHaverhill-1-sample,1
 Shuttle-AshlandFramingham-0-0,Shuttle-AshlandFramingham,0,Framingham - Ashland,,5,602380990,AshlandClosedFraminghamShuttle-0-sample,1
 Shuttle-AshlandFramingham-0-1,Shuttle-AshlandFramingham,1,Ashland - Framingham,,5,602381990,AshlandClosedFraminghamShuttle-1-sample,1
-Shuttle-AshmontJFK-0-0,Shuttle-AshmontJFK,0,JFK - Ashmont,,5,602500990,AshmontJFK-Weekday-dbb7a-0-00:00:00,1
-Shuttle-AshmontJFK-0-1,Shuttle-AshmontJFK,1,Ashmont - JFK,,5,602501990,AshmontJFK-Weekday-dbb7a-1-00:00:00,1
-Shuttle-AshmontBroadway-0-0,Shuttle-AshmontBroadway,0,Broadway - Ashmont,,5,602600990,AshmontBroadway-Weekday-dbb7a-0-00:00:00,1
-Shuttle-AshmontBroadway-0-1,Shuttle-AshmontBroadway,1,Ashmont - Broadway,,5,602601990,AshmontBroadway-Weekday-dbb7a-1-00:00:00,1
-Shuttle-AshmontBraintree-0-0,Shuttle-AshmontBraintree,0,Ashmont - Braintree,,5,602700990,AshmontBraintree-Weekday-dbb7a-0-00:00:00,1
-Shuttle-AshmontBraintree-0-1,Shuttle-AshmontBraintree,1,Braintree - Ashmont,,5,602701990,AshmontBraintree-Weekday-dbb7a-1-00:00:00,1
-Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,5,603500990,AshmontMattapan-Weekday-dbb7a-0-00:00:00,1
-Shuttle-AshmontMattapan-0-1,Shuttle-AshmontMattapan,1,Mattapan - Ashmont,,5,603501990,AshmontMattapan-Weekday-dbb7a-1-00:00:00,1
-Shuttle-AshmontParkStreetViaPostOffice-0-0,Shuttle-AshmontParkStreetViaPostOffice,0,Park Street - Ashmont,,5,603550990,AshmontParkStreetViaPostOffice-Weekday-dbb7a-0-00:00:00,1
-Shuttle-AshmontParkStreetViaPostOffice-0-1,Shuttle-AshmontParkStreetViaPostOffice,1,Ashmont - Park Street,,5,603551990,AshmontParkStreetViaPostOffice-Weekday-dbb7a-1-00:00:00,1
+Shuttle-AshmontJFK-0-0,Shuttle-AshmontJFK,0,JFK - Ashmont,,5,602500990,AshmontJFK-Weekday-05612-0-00:00:00,1
+Shuttle-AshmontJFK-0-1,Shuttle-AshmontJFK,1,Ashmont - JFK,,5,602501990,AshmontJFK-Weekday-05612-1-00:00:00,1
+Shuttle-AshmontBroadway-0-0,Shuttle-AshmontBroadway,0,Broadway - Ashmont,,5,602600990,AshmontBroadway-Weekday-05612-0-00:00:00,1
+Shuttle-AshmontBroadway-0-1,Shuttle-AshmontBroadway,1,Ashmont - Broadway,,5,602601990,AshmontBroadway-Weekday-05612-1-00:00:00,1
+Shuttle-AshmontBraintree-0-0,Shuttle-AshmontBraintree,0,Ashmont - Braintree,,5,602700990,AshmontBraintree-Weekday-05612-0-00:00:00,1
+Shuttle-AshmontBraintree-0-1,Shuttle-AshmontBraintree,1,Braintree - Ashmont,,5,602701990,AshmontBraintree-Weekday-05612-1-00:00:00,1
+Shuttle-AshmontMattapan-0-0,Shuttle-AshmontMattapan,0,Ashmont - Mattapan,,5,603500990,AshmontMattapan-Weekday-05612-0-00:00:00,1
+Shuttle-AshmontMattapan-0-1,Shuttle-AshmontMattapan,1,Mattapan - Ashmont,,5,603501990,AshmontMattapan-Weekday-05612-1-00:00:00,1
+Shuttle-AshmontParkStreetViaPostOffice-0-0,Shuttle-AshmontParkStreetViaPostOffice,0,Park Street - Ashmont,,5,603550990,AshmontParkStreetViaPostOffice-Weekday-05612-0-00:00:00,1
+Shuttle-AshmontParkStreetViaPostOffice-0-1,Shuttle-AshmontParkStreetViaPostOffice,1,Ashmont - Park Street,,5,603551990,AshmontParkStreetViaPostOffice-Weekday-05612-1-00:00:00,1
 Shuttle-AttleboroProvidenceExpress-0-0,Shuttle-AttleboroProvidenceExpress,0,Attleboro - Providence (Express),,5,603750990,AttleboroProvidenceExpress-0-sample,1
 Shuttle-AttleboroProvidenceExpress-0-1,Shuttle-AttleboroProvidenceExpress,1,Providence - Attleboro (Express),,5,603751990,AttleboroProvidenceExpress-1-sample,1
 Shuttle-AttleboroProvidenceLocal-0-0,Shuttle-AttleboroProvidenceLocal,0,Attleboro - Providence (Local),,5,603760990,AttleboroProvidenceLocal-0-sample,1
 Shuttle-AttleboroProvidenceLocal-0-1,Shuttle-AttleboroProvidenceLocal,1,Providence - Attleboro (Local),,5,603761990,AttleboroProvidenceLocal-1-sample,1
-Shuttle-BabcockBackBay-0-0,Shuttle-BabcockBackBay,0,Back Bay - Babcock Street,,5,603900990,BabcockBackBay-Weekday-dbb7a-0-00:00:00,1
-Shuttle-BabcockBackBay-0-1,Shuttle-BabcockBackBay,1,Babcock Street - Back Bay,,5,603901990,BabcockBackBay-Weekday-dbb7a-1-00:00:00,1
+Shuttle-BabcockBackBay-0-0,Shuttle-BabcockBackBay,0,Back Bay - Babcock Street,,5,603900990,BabcockBackBay-Weekday-05612-0-00:00:00,1
+Shuttle-BabcockBackBay-0-1,Shuttle-BabcockBackBay,1,Babcock Street - Back Bay,,5,603901990,BabcockBackBay-Weekday-05612-1-00:00:00,1
 Shuttle-BabcockBlandford-0-0,Shuttle-BabcockBlandford,0,Blandford Street - Babcock Street,,5,604000990,BabcockStreetBlandfordStreet-0-sample,1
 Shuttle-BabcockBlandford-0-1,Shuttle-BabcockBlandford,1,Babcock Street - Blandford Street,,5,604001990,BabcockStreetBlandfordStreet-1-sample,1
-Shuttle-BabcockBostonCollege-0-0,Shuttle-BabcockBostonCollege,0,Babcock Street - Boston College,,5,604500990,BabcockBostonCollege-Weekday-dbb7a-0-00:00:00,1
-Shuttle-BabcockBostonCollege-0-1,Shuttle-BabcockBostonCollege,1,Boston College - Babcock Street,,5,604501990,BabcockBostonCollege-Weekday-dbb7a-1-00:00:00,1
+Shuttle-BabcockBostonCollege-0-0,Shuttle-BabcockBostonCollege,0,Babcock Street - Boston College,,5,604500990,BabcockBostonCollege-Weekday-05612-0-00:00:00,1
+Shuttle-BabcockBostonCollege-0-1,Shuttle-BabcockBostonCollege,1,Boston College - Babcock Street,,5,604501990,BabcockBostonCollege-Weekday-05612-1-00:00:00,1
 Shuttle-BabcockCopley-0-0,Shuttle-BabcockCopley,0,Copley - Babcock Street,,5,604550990,BabcockGovernmentCenter-0-sample,1
 Shuttle-BabcockCopley-0-1,Shuttle-BabcockCopley,1,Babcock Street - Copley,,5,604551990,BabcockGovernmentCenter-1-sample,1
 Shuttle-BabcockKenmore-0-0,Shuttle-BabcockKenmore,0,Kenmore - Babcock Street,,5,604600990,BabcockStreetKenmore-0-sample,1
@@ -935,10 +911,10 @@ Shuttle-BackBayBostonUniversityEast-0-0,Shuttle-BackBayBostonUniversityEast,0,Ba
 Shuttle-BackBayBostonUniversityEast-0-1,Shuttle-BackBayBostonUniversityEast,1,Boston University East - Back Bay,,5,604901990,BostonUniversityEastGovernmentCenterBackBay-1-sample,1
 Shuttle-BackBayJackson-0-0,Shuttle-BackBayJackson,0,Back Bay - Jackson Square,,5,605000990,BackBayJacksonSquare-0-sample,1
 Shuttle-BackBayJackson-0-1,Shuttle-BackBayJackson,1,Jackson Square - Back Bay,,5,605001990,BackBayJacksonSquare-1-sample,1
-Shuttle-CopleyJacksonSquare-0-0,Shuttle-CopleyJacksonSquare,0,Copley - Jackson Square,,5,605010990,CopleyJacksonSquare-Weekday-dbb7a-0-00:00:00,1
-Shuttle-CopleyJacksonSquare-0-1,Shuttle-CopleyJacksonSquare,1,Jackson Square - Copley,,5,605011990,CopleyJacksonSquare-Weekday-dbb7a-1-00:00:00,1
-Shuttle-BackBayKenmore-0-0,Shuttle-BackBayKenmore,0,Back Bay - Kenmore,,5,605250990,BackBayKenmore-Weekday-dbb7a-0-00:00:00,1
-Shuttle-BackBayKenmore-0-1,Shuttle-BackBayKenmore,1,Kenmore - Back Bay,,5,605251990,BackBayKenmore-Weekday-dbb7a-1-00:00:00,1
+Shuttle-CopleyJacksonSquare-0-0,Shuttle-CopleyJacksonSquare,0,Copley - Jackson Square,,5,605010990,CopleyJacksonSquare-Weekday-05612-0-00:00:00,1
+Shuttle-CopleyJacksonSquare-0-1,Shuttle-CopleyJacksonSquare,1,Jackson Square - Copley,,5,605011990,CopleyJacksonSquare-Weekday-05612-1-00:00:00,1
+Shuttle-BackBayKenmore-0-0,Shuttle-BackBayKenmore,0,Back Bay - Kenmore,,5,605250990,BackBayKenmore-Weekday-05612-0-00:00:00,1
+Shuttle-BackBayKenmore-0-1,Shuttle-BackBayKenmore,1,Kenmore - Back Bay,,5,605251990,BackBayKenmore-Weekday-05612-1-00:00:00,1
 Shuttle-BackBayRuggles-0-0,Shuttle-BackBayRuggles,0,Back Bay - Ruggles,,5,606000990,BackBayRuggles-0-sample,1
 Shuttle-BackBayRuggles-0-1,Shuttle-BackBayRuggles,1,Ruggles - Back Bay,,5,606001990,BackBayRuggles-1-sample,1
 Shuttle-BackBayStMarys-0-0,Shuttle-BackBayStMarys,0,Back Bay - Saint Mary's Street,,5,606200990,GovernmentCenterSaintMarysStreetBackBay-0-sample,1
@@ -980,18 +956,18 @@ Shuttle-BraintreeSouthStationExpress-0-0,Shuttle-BraintreeSouthStationExpress,0,
 Shuttle-BraintreeSouthStationExpress-0-1,Shuttle-BraintreeSouthStationExpress,1,Braintree - South Station (Express),,5,610101990,GreenbushBraintreeSouthStationExtended-1-sample,1
 Shuttle-BraintreeSouthWeymouth-0-0,Shuttle-BraintreeSouthWeymouth,0,Braintree - South Weymouth,,5,610250990,BraintreeSouthWeymouth-0-sample,1
 Shuttle-BraintreeSouthWeymouth-0-1,Shuttle-BraintreeSouthWeymouth,1,South Weymouth - Braintree,,5,610251990,BraintreeSouthWeymouth-1-sample,1
-Shuttle-BroadwayHarvard-0-0,Shuttle-BroadwayHarvard,0,Harvard - Broadway,,5,610310990,BroadwayHarvard-Weekday-dbb7a-0-00:00:00,1
-Shuttle-BroadwayHarvard-0-1,Shuttle-BroadwayHarvard,1,Broadway - Harvard,,5,610311990,BroadwayHarvard-Weekday-dbb7a-1-00:00:00,1
-Shuttle-BraintreeBroadway-0-0,Shuttle-BraintreeBroadway,0,Broadway - Braintree,,5,610350990,BraintreeBroadway-Weekday-dbb7a-0-00:00:00,1
-Shuttle-BraintreeBroadway-0-1,Shuttle-BraintreeBroadway,1,Braintree - Broadway,,5,610351990,BraintreeBroadway-Weekday-dbb7a-1-00:00:00,1
+Shuttle-BroadwayHarvard-0-0,Shuttle-BroadwayHarvard,0,Harvard - Broadway,,5,610310990,BroadwayHarvard-Weekday-05612-0-00:00:00,1
+Shuttle-BroadwayHarvard-0-1,Shuttle-BroadwayHarvard,1,Broadway - Harvard,,5,610311990,BroadwayHarvard-Weekday-05612-1-00:00:00,1
+Shuttle-BraintreeBroadway-0-0,Shuttle-BraintreeBroadway,0,Broadway - Braintree,,5,610350990,BraintreeBroadway-Weekday-05612-0-00:00:00,1
+Shuttle-BraintreeBroadway-0-1,Shuttle-BraintreeBroadway,1,Braintree - Broadway,,5,610351990,BraintreeBroadway-Weekday-05612-1-00:00:00,1
 Shuttle-BroadwayJFK-0-0,Shuttle-BroadwayJFK,0,Broadway - JFK/UMass,,5,610400990,BroadwayJFKAshmontPlatform-0-sample,1
 Shuttle-BroadwayJFK-0-1,Shuttle-BroadwayJFK,1,JFK/UMass - Broadway,,5,610401990,BroadwayJFKAshmontPlatform-1-sample,1
 Shuttle-BroadwayKendall-0-0,Shuttle-BroadwayKendall,0,Kendall/MIT - Broadway,,5,610500990,BroadwayKendall-0-sample,1
 Shuttle-BroadwayKendall-0-1,Shuttle-BroadwayKendall,1,Broadway - Kendall/MIT,,5,610501990,BroadwayKendall-1-sample,1
 Shuttle-BroadwayKendallOmitDTX-0-0,Shuttle-BroadwayKendallOmitDTX,0,Kendall/MIT - Broadway,,5,610750990,BroadwayKendallOmitDTX-0-sample,1
 Shuttle-BroadwayKendallOmitDTX-0-1,Shuttle-BroadwayKendallOmitDTX,1,Broadway - Kendall/MIT,,5,610751990,BroadwayKendallOmitDTX-1-sample,1
-Shuttle-BroadwayNorthQuincy-0-0,Shuttle-BroadwayNorthQuincy,0,Broadway - North Quincy,,5,610800990,BroadwayNorthQuincy-Weekday-dbb7a-0-00:00:00,1
-Shuttle-BroadwayNorthQuincy-0-1,Shuttle-BroadwayNorthQuincy,1,North Quincy - Broadway,,5,610801990,BroadwayNorthQuincy-Weekday-dbb7a-1-00:00:00,1
+Shuttle-BroadwayNorthQuincy-0-0,Shuttle-BroadwayNorthQuincy,0,Broadway - North Quincy,,5,610800990,BroadwayNorthQuincy-Weekday-05612-0-00:00:00,1
+Shuttle-BroadwayNorthQuincy-0-1,Shuttle-BroadwayNorthQuincy,1,North Quincy - Broadway,,5,610801990,BroadwayNorthQuincy-Weekday-05612-1-00:00:00,1
 Shuttle-BroadwayQuincyCenterExpress-0-0,Shuttle-BroadwayQuincyCenterExpress,0,Broadway - Quincy Center (Express),,5,610900990,BroadwayQuincyCenterExpressExtended-0-sample,1
 Shuttle-BroadwayQuincyCenterExpress-0-1,Shuttle-BroadwayQuincyCenterExpress,1,Quincy Center - Broadway (Express),,5,610901990,BroadwayQuincyCenterExpressExtended-1-sample,1
 Shuttle-BrooklineHillsKenmore-0-0,Shuttle-BrooklineHillsKenmore,0,Kenmore - Brookline Hills,,5,611000990,BrooklineHillsKenmore-0-sample,1
@@ -1000,8 +976,8 @@ Shuttle-BrooklineHillsNewtonHighlands-0-0,Shuttle-BrooklineHillsNewtonHighlands,
 Shuttle-BrooklineHillsNewtonHighlands-0-1,Shuttle-BrooklineHillsNewtonHighlands,1,Newton Highlands - Brookline Hills,,5,611501990,BrooklineHillsNewtonHighlands-1-sample,1
 Shuttle-BrooklineHillsReservoir-0-0,Shuttle-BrooklineHillsReservoir,0,Brookline Hills - Reservoir,,5,612000990,BrooklineHillsReservoir-0-sample,1
 Shuttle-BrooklineHillsReservoir-0-1,Shuttle-BrooklineHillsReservoir,1,Reservoir - Brookline Hills,,5,612001990,BrooklineHillsReservoir-1-sample,1
-Shuttle-BrooklineHillsRiverside-0-0,Shuttle-BrooklineHillsRiverside,0,Brookline Hills - Riverside,,5,612500990,BrooklineHillsRiverside-Weekday-dbb7a-0-00:00:00,1
-Shuttle-BrooklineHillsRiverside-0-1,Shuttle-BrooklineHillsRiverside,1,Riverside - Brookline Hills,,5,612501990,BrooklineHillsRiverside-Weekday-dbb7a-1-00:00:00,1
+Shuttle-BrooklineHillsRiverside-0-0,Shuttle-BrooklineHillsRiverside,0,Brookline Hills - Riverside,,5,612500990,BrooklineHillsRiverside-Weekday-05612-0-00:00:00,1
+Shuttle-BrooklineHillsRiverside-0-1,Shuttle-BrooklineHillsRiverside,1,Riverside - Brookline Hills,,5,612501990,BrooklineHillsRiverside-Weekday-05612-1-00:00:00,1
 Shuttle-BrooklineVillageRiverside-0-0,Shuttle-BrooklineVillageRiverside,0,Brookline Village - Riverside,,5,612750990,BrooklineVillageRiversidePartial-0-sample,1
 Shuttle-BrooklineVillageRiverside-0-1,Shuttle-BrooklineVillageRiverside,1,Riverside - Brookline Village,,5,612751990,BrooklineVillageRiversidePartial-1-sample,1
 Shuttle-ChelseaLynn-0-0,Shuttle-ChelseaLynn,0,Chelsea - Lynn,,5,612900990,ChelseaLynnOmitNorthStation-0-sample,1
@@ -1012,16 +988,16 @@ Shuttle-ClevelandCircleKenmore-0-0,Shuttle-ClevelandCircleKenmore,0,Kenmore - Cl
 Shuttle-ClevelandCircleKenmore-0-1,Shuttle-ClevelandCircleKenmore,1,Cleveland Circle - Kenmore,,5,614001990,ClevelandCircleKenmore-1-sample,1
 Shuttle-ClevelandCircleStMarys-0-0,Shuttle-ClevelandCircleStMarys,0,Saint Mary's Street - Cleveland Circle,,5,614100990,ClevelandCircleSaintMarys-0-sample,1
 Shuttle-ClevelandCircleStMarys-0-1,Shuttle-ClevelandCircleStMarys,1,Cleveland Circle - Saint Mary's Street,,5,614101990,ClevelandCircleSaintMarys-1-sample,1
-Shuttle-CopleyForestHills-0-0,Shuttle-CopleyForestHills,0,Copley - Forest Hills,,5,614200990,CopleyForestHills-Weekday-dbb7a-0-00:00:00,1
-Shuttle-CopleyForestHills-0-1,Shuttle-CopleyForestHills,1,Forest Hills - Copley,,5,614201990,CopleyForestHills-Weekday-dbb7a-1-00:00:00,1
+Shuttle-CopleyForestHills-0-0,Shuttle-CopleyForestHills,0,Copley - Forest Hills,,5,614200990,CopleyForestHills-Weekday-05612-0-00:00:00,1
+Shuttle-CopleyForestHills-0-1,Shuttle-CopleyForestHills,1,Forest Hills - Copley,,5,614201990,CopleyForestHills-Weekday-05612-1-00:00:00,1
 Shuttle-CopleyKenmore-0-0,Shuttle-CopleyKenmore,0,Back Bay - Kenmore,,5,614250990,GreenCGovernmentCenterKenmore-0-sample,1
 Shuttle-CopleyKenmore-0-1,Shuttle-CopleyKenmore,1,Kenmore - Back Bay,,5,614251990,GreenCGovernmentCenterKenmore-1-sample,1
 Shuttle-CopleyRiversideExpress-0-0,Shuttle-CopleyRiversideExpress,0,Copley - Riverside (Express),,5,614300990,CopleyRiversideExpress-0-sample,1
 Shuttle-CopleyRiversideExpress-0-1,Shuttle-CopleyRiversideExpress,1,Riverside - Copley (Express),,5,614301990,CopleyRiversideExpress-1-sample,1
 Shuttle-CopleyRiversideLimited-0-0,Shuttle-CopleyRiversideLimited,0,Copley - Riverside via Woodland (Express),,5,614500990,CopleyRiversideViaWoodlandExpress-0-sample,1
 Shuttle-CopleyRiversideLimited-0-1,Shuttle-CopleyRiversideLimited,1,Riverside - Copley (Express),,5,614501990,CopleyRiversideViaWoodlandExpress-1-sample,1
-Shuttle-CopleyRuggles-0-0,Shuttle-CopleyRuggles,0,Copley - Ruggles,,5,614550990,CopleyRuggles-Weekday-dbb7a-0-00:00:00,1
-Shuttle-CopleyRuggles-0-1,Shuttle-CopleyRuggles,1,Ruggles - Copley,,5,614551990,CopleyRuggles-Weekday-dbb7a-1-00:00:00,1
+Shuttle-CopleyRuggles-0-0,Shuttle-CopleyRuggles,0,Copley - Ruggles,,5,614550990,CopleyRuggles-Weekday-05612-0-00:00:00,1
+Shuttle-CopleyRuggles-0-1,Shuttle-CopleyRuggles,1,Ruggles - Copley,,5,614551990,CopleyRuggles-Weekday-05612-1-00:00:00,1
 Shuttle-CopleyWoodlandLimited-0-0,Shuttle-CopleyWoodlandLimited,0,Copley - Woodland via Riverside (Express),,5,614600990,CopleyWoodlandViaRiversideExpressCR-0-sample,1
 Shuttle-CopleyWoodlandLimited-0-1,Shuttle-CopleyWoodlandLimited,1,Woodland - Copley (Express),,5,614601990,CopleyWoodlandViaRiversideExpressCR-1-sample,1
 Shuttle-EastSomervilleMedford-0-0,Shuttle-EastSomervilleMedford,0,Medford/Tufts - East Somerville,,5,614720990,GreenEEastSomervilleMedford-0-sample,1
@@ -1038,12 +1014,10 @@ Shuttle-ForestHillsJackson-0-0,Shuttle-ForestHillsJackson,0,Jackson Square - For
 Shuttle-ForestHillsJackson-0-1,Shuttle-ForestHillsJackson,1,Forest Hills - Jackson Square,,5,616001990,ForestHillsJacksonSquare-1-sample,1
 Shuttle-ForestHillsNeedhamHeights-0-0,Shuttle-ForestHillsNeedhamHeights,0,Forest Hills - Needham Heights,,5,616500990,ForestHillsNeedhamHeights-0-sample,1
 Shuttle-ForestHillsNeedhamHeights-0-1,Shuttle-ForestHillsNeedhamHeights,1,Needham Heights - Forest Hills,,5,616501990,ForestHillsNeedhamHeights-1-sample,1
-Shuttle-ForestHillsNewtonHighlands-0-0,Shuttle-ForestHillsNewtonHighlands,0,Forest Hills - Newton Highlands,,5,616750990,ForestHillsNewtonHighlands-Weekday-dbb7a-0-00:00:00,1
-Shuttle-ForestHillsNewtonHighlands-0-1,Shuttle-ForestHillsNewtonHighlands,1,Newton Highlands - Forest Hills,,5,616751990,ForestHillsNewtonHighlands-Weekday-dbb7a-1-00:00:00,1
+Shuttle-ForestHillsNewtonHighlands-0-0,Shuttle-ForestHillsNewtonHighlands,0,Forest Hills - Newton Highlands,,5,616750990,ForestHillsNewtonHighlands-Weekday-05612-0-00:00:00,1
+Shuttle-ForestHillsNewtonHighlands-0-1,Shuttle-ForestHillsNewtonHighlands,1,Newton Highlands - Forest Hills,,5,616751990,ForestHillsNewtonHighlands-Weekday-05612-1-00:00:00,1
 Shuttle-ForestHillsRuggles-0-0,Shuttle-ForestHillsRuggles,0,Ruggles - Forest Hills,,5,617000990,ForestHillsRuggles-0-sample,1
 Shuttle-ForestHillsRuggles-0-1,Shuttle-ForestHillsRuggles,1,Forest Hills - Ruggles,,5,617001990,ForestHillsRuggles-1-sample,1
-Shuttle-ForgeParkFranklin-0-0,Shuttle-ForgeParkFranklin,0,Franklin - Forge Park/495,,4,617300990,CR-NECEmergencyShuttle-FbMntn-FranklinWeekday-0-09:01:00,0
-Shuttle-ForgeParkFranklin-0-1,Shuttle-ForgeParkFranklin,1,Forge Park/495 - Franklin,,4,617301990,CR-NECEmergencyShuttle-FbMntn-FranklinWeekday-1-09:07:00,0
 Shuttle-ForgeParkNorwoodCentral-0-0,Shuttle-ForgeParkNorwoodCentral,0,Norwood Central - Forge Park/495,,5,617400990,ForgeParkNorwoodCentral-0-sample,1
 Shuttle-ForgeParkNorwoodCentral-0-1,Shuttle-ForgeParkNorwoodCentral,1,Forge Park/495 - Norwood Central,,5,617401990,ForgeParkNorwoodCentral-1-sample,1
 Shuttle-ForgeParkReadville-0-0,Shuttle-ForgeParkReadville,0,Readville - Forge Park/495,,5,617500990,ForgeParkReadville-0-sample,1
@@ -1066,8 +1040,8 @@ Shuttle-GreenbushNorthScituate-0-0,Shuttle-GreenbushNorthScituate,0,North Scitua
 Shuttle-GreenbushNorthScituate-0-1,Shuttle-GreenbushNorthScituate,1,Greenbush - North Scituate,,5,619571990,GreenbushNorthScituate-1-sample,1
 Shuttle-HalifaxKingston-0-0,Shuttle-HalifaxKingston,0,Halifax - Kingston,,5,619590990,HalifaxKingston-0-sample,1
 Shuttle-HalifaxKingston-0-1,Shuttle-HalifaxKingston,1,Kingston - Halifax,,5,619591990,HalifaxKingston-1-sample,1
-Shuttle-HarvardJFK-0-0,Shuttle-HarvardJFK,0,Harvard - JFK/UMass,,5,619600990,HarvardJFK-Weekday-dbb7a-0-00:00:00,1
-Shuttle-HarvardJFK-0-1,Shuttle-HarvardJFK,1,JFK/UMass - Harvard,,5,619601990,HarvardJFK-Weekday-dbb7a-1-00:00:00,1
+Shuttle-HarvardJFK-0-0,Shuttle-HarvardJFK,0,Harvard - JFK/UMass,,5,619600990,HarvardJFK-Weekday-05612-0-00:00:00,1
+Shuttle-HarvardJFK-0-1,Shuttle-HarvardJFK,1,JFK/UMass - Harvard,,5,619601990,HarvardJFK-Weekday-05612-1-00:00:00,1
 Shuttle-HarvardJFKOmitCongress-0-0,Shuttle-HarvardJFKOmitCongress,0,Harvard - JFK/UMass,,5,619610990,HarvardJFKOmitCongressAshmontPlatform-0-sample,1
 Shuttle-HarvardJFKOmitCongress-0-1,Shuttle-HarvardJFKOmitCongress,1,JFK/UMass - Harvard,,5,619611990,HarvardJFKOmitCongressAshmontPlatform-1-sample,1
 Shuttle-HarvardKendall-0-0,Shuttle-HarvardKendall,0,Harvard - Kendall/MIT (Loop shuttle),,5,619620990,HarvardKendall-0-sample,1
@@ -1087,22 +1061,22 @@ Shuttle-HeathPark-0-1,Shuttle-HeathPark,1,Heath Street - Park Street,,5,61980199
 Shuttle-HeathPrudential-0-0,Shuttle-HeathPrudential,0,Prudential - Heath Street,,5,619850990,HeathStreetPrudential-0-sample,1
 Shuttle-HeathPrudential-0-1,Shuttle-HeathPrudential,1,Heath Street - Prudential,,5,619851990,HeathStreetPrudential-1-sample,1
 Shuttle-HydeParkReadville-0-0,Shuttle-HydeParkReadville,0,Hyde Park - Readville,,4,619860990,CR-NECEmergencyShuttle-FbMnFp-ReadvilleWeekday-0-09:27:00,0
-Shuttle-JFKKendall-0-0,Shuttle-JFKKendall,0,Kendall/MIT - JFK/UMass,,5,619870990,JFKKendall-Weekday-dbb7a-0-00:00:00,1
-Shuttle-JFKKendall-0-1,Shuttle-JFKKendall,1,JFK/UMass - Kendall/MIT,,5,619871990,JFKKendall-Weekday-dbb7a-1-00:00:00,1
-Shuttle-JFKMattapan-0-0,Shuttle-JFKMattapan,0,JFK - Mattapan,,5,619900990,JFKMattapan-Weekday-dbb7a-0-00:00:00,1
-Shuttle-JFKMattapan-0-1,Shuttle-JFKMattapan,1,Mattapan - JFK,,5,619901990,JFKMattapan-Weekday-dbb7a-1-00:00:00,1
+Shuttle-JFKKendall-0-0,Shuttle-JFKKendall,0,Kendall/MIT - JFK/UMass,,5,619870990,JFKKendall-Weekday-05612-0-00:00:00,1
+Shuttle-JFKKendall-0-1,Shuttle-JFKKendall,1,JFK/UMass - Kendall/MIT,,5,619871990,JFKKendall-Weekday-05612-1-00:00:00,1
+Shuttle-JFKMattapan-0-0,Shuttle-JFKMattapan,0,JFK - Mattapan,,5,619900990,JFKMattapan-Weekday-05612-0-00:00:00,1
+Shuttle-JFKMattapan-0-1,Shuttle-JFKMattapan,1,Mattapan - JFK,,5,619901990,JFKMattapan-Weekday-05612-1-00:00:00,1
 Shuttle-JFKNorthQuincy-0-0,Shuttle-JFKNorthQuincy,0,JFK/UMass - North Quincy,,5,619950990,JFKNorthQuincy-0-sample,1
 Shuttle-JFKNorthQuincy-0-1,Shuttle-JFKNorthQuincy,1,North Quincy - JFK/UMass,,5,619951990,JFKNorthQuincy-1-sample,1
-Shuttle-JFKPark-0-0,Shuttle-JFKPark,0,Park Street - JFK/UMass,,5,619970990,JFKPark-Weekday-dbb7a-0-00:00:00,1
-Shuttle-JFKPark-0-1,Shuttle-JFKPark,1,JFK/UMass - Park Street,,5,619971990,JFKPark-Weekday-dbb7a-1-00:00:00,1
-Shuttle-JFKParkStreetViaPostOffice-0-0,Shuttle-JFKParkStreetViaPostOffice,0,Park Street - JFK/UMass,,5,619980990,JFKParkStreetViaPostOffice-Weekday-dbb7a-0-00:00:00,1
-Shuttle-JFKParkStreetViaPostOffice-0-1,Shuttle-JFKParkStreetViaPostOffice,1,JFK/UMass - Park Street,,5,619981990,JFKParkStreetViaPostOffice-Weekday-dbb7a-1-00:00:00,1
+Shuttle-JFKPark-0-0,Shuttle-JFKPark,0,Park Street - JFK/UMass,,5,619970990,JFKPark-Weekday-05612-0-00:00:00,1
+Shuttle-JFKPark-0-1,Shuttle-JFKPark,1,JFK/UMass - Park Street,,5,619971990,JFKPark-Weekday-05612-1-00:00:00,1
+Shuttle-JFKParkStreetViaPostOffice-0-0,Shuttle-JFKParkStreetViaPostOffice,0,Park Street - JFK/UMass,,5,619980990,JFKParkStreetViaPostOffice-Weekday-05612-0-00:00:00,1
+Shuttle-JFKParkStreetViaPostOffice-0-1,Shuttle-JFKParkStreetViaPostOffice,1,JFK/UMass - Park Street,,5,619981990,JFKParkStreetViaPostOffice-Weekday-05612-1-00:00:00,1
 Shuttle-KendallPark-0-0,Shuttle-KendallPark,0,Kendall/MIT - Park Street,,5,620000990,KendallParkStreet-0-sample,1
 Shuttle-KendallPark-0-1,Shuttle-KendallPark,1,Park Street - Kendall/MIT,,5,620001990,KendallParkStreet-1-sample,1
 Shuttle-KenmoreReservoir-0-0,Shuttle-KenmoreReservoir,0,Kenmore - Reservoir,,5,620100990,KenmoreReservoir-0-sample,1
 Shuttle-KenmoreReservoir-0-1,Shuttle-KenmoreReservoir,1,Reservoir - Kenmore,,5,620101990,KenmoreReservoir-1-sample,1
-Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,5,620120990,KenmoreRiverside-Weekday-dbb7a-0-00:00:00,1
-Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,5,620121990,KenmoreRiverside-Weekday-dbb7a-1-00:00:00,1
+Shuttle-KenmoreRiverside-0-0,Shuttle-KenmoreRiverside,0,Kenmore - Riverside,,5,620120990,KenmoreRiverside-Weekday-05612-0-00:00:00,1
+Shuttle-KenmoreRiverside-0-1,Shuttle-KenmoreRiverside,1,Riverside - Kenmore,,5,620121990,KenmoreRiverside-Weekday-05612-1-00:00:00,1
 Shuttle-KenmoreStMarysRiverside-0-0,Shuttle-KenmoreStMarysRiverside,0,Kenmore - Riverside via Saint Mary's Street,,5,620150990,KenmoreStMarysRiversideD-0-sample,1
 Shuttle-KenmoreStMarysRiverside-0-1,Shuttle-KenmoreStMarysRiverside,1,Riverside - Kenmore via Saint Mary's Street,,5,620151990,KenmoreStMarysRiversideD-1-sample,1
 Shuttle-KenmoreStMarysNotFenway-0-0,Shuttle-KenmoreStMarysNotFenway,0,Kenmore - Saint Mary's Street,,5,620170990,KenmoreStMarysNotFenway-0-sample,1
@@ -1113,10 +1087,6 @@ Shuttle-LechmereNorthStation-0-0,Shuttle-LechmereNorthStation,0,Lechmere - North
 Shuttle-LechmereNorthStation-0-1,Shuttle-LechmereNorthStation,1,North Station - Lechmere,,5,620201990,GreenBLechmereNorthStation-1-sample,1
 Shuttle-LittletonWachusett-0-0,Shuttle-LittletonWachusett,0,Littleton/Route 495 - Wachusett,,5,620250990,LittletonWachusett-0-sample,1
 Shuttle-LittletonWachusett-0-1,Shuttle-LittletonWachusett,1,Wachusett - Littleton/Route 495,,5,620251990,LittletonWachusett-1-sample,1
-Shuttle-LowellNorthStation-0-0,Shuttle-LowellNorthStation,0,North Station - Lowell,,4,620280990,Shuttle-LowellNorthStationFriday-0-22:15:00,0
-Shuttle-LowellNorthStation-0-1,Shuttle-LowellNorthStation,1,Lowell - North Station,,4,620281990,Shuttle-LowellNorthStationFriday-1-23:15:00,0
-Shuttle-LowellNorthStationExpress-0-0,Shuttle-LowellNorthStationExpress,0,North Station - Lowell,,4,620300990,Shuttle-LowellNorthStationExpressFriday-0-22:15:00,0
-Shuttle-LowellNorthStationExpress-0-1,Shuttle-LowellNorthStationExpress,1,Lowell - North Station,,4,620301990,Shuttle-LowellNorthStationExpressFriday-1-23:15:00,0
 Shuttle-LowellWilmington-0-0,Shuttle-LowellWilmington,0,Wilmington - Lowell,,5,620410990,LowellWilmingtonExtended-0-sample,1
 Shuttle-LowellWilmington-0-1,Shuttle-LowellWilmington,1,Lowell - Wilmington,,5,620411990,LowellWilmingtonExtended-1-sample,1
 Shuttle-LynnNorthStationExpress-0-0,Shuttle-LynnNorthStationExpress,0,North Station - Lynn (Express),,5,620520990,LynnNorthStationExpress-0-sample,1
@@ -1125,10 +1095,10 @@ Shuttle-LynnSwampscott-0-0,Shuttle-LynnSwampscott,0,Lynn - Swampscott,,5,6205309
 Shuttle-LynnSwampscott-0-1,Shuttle-LynnSwampscott,1,Swampscott - Lynn,,5,620531990,LynnSwampscott-1-sample,1
 Shuttle-ManchesterGloucester-0-0,Shuttle-ManchesterGloucester,0,Rockport Line Shuttle - Gloucester,,5,620550990,ManchesterGloucester-0-sample,1
 Shuttle-ManchesterRockport-0-0,Shuttle-ManchesterRockport,0,Rockport Line Shuttle - Rockport,,5,620600990,ManchesterRockport-0-sample,1
-Shuttle-MaverickWonderland-0-0,Shuttle-MaverickWonderland,0,Wonderland - Maverick,,5,620620990,MaverickWonderland-Weekday-dbb7a-0-00:00:00,1
-Shuttle-MaverickWonderland-0-1,Shuttle-MaverickWonderland,1,Maverick - Wonderland,,5,620621990,MaverickWonderland-Weekday-dbb7a-1-00:00:00,1
-Shuttle-MedfordNorthStation-0-0,Shuttle-MedfordNorthStation,0,Medford/Tufts - North Station,,5,620650990,MedfordNorthStation-Weekday-dbb7a-0-00:00:00,1
-Shuttle-MedfordNorthStation-0-1,Shuttle-MedfordNorthStation,1,North Station - Medford/Tufts,,5,620651990,MedfordNorthStation-Weekday-dbb7a-1-00:00:00,1
+Shuttle-MaverickWonderland-0-0,Shuttle-MaverickWonderland,0,Wonderland - Maverick,,5,620620990,MaverickWonderland-Weekday-05612-0-00:00:00,1
+Shuttle-MaverickWonderland-0-1,Shuttle-MaverickWonderland,1,Maverick - Wonderland,,5,620621990,MaverickWonderland-Weekday-05612-1-00:00:00,1
+Shuttle-MedfordNorthStation-0-0,Shuttle-MedfordNorthStation,0,Medford/Tufts - North Station,,5,620650990,MedfordNorthStation-Weekday-05612-0-00:00:00,1
+Shuttle-MedfordNorthStation-0-1,Shuttle-MedfordNorthStation,1,North Station - Medford/Tufts,,5,620651990,MedfordNorthStation-Weekday-05612-1-00:00:00,1
 Shuttle-NewburyportOakGroveExpress-0-0,Shuttle-NewburyportOakGroveExpress,0,Oak Grove - Newburyport (Express),,5,620700990,NewburyportOakGroveExpress-0-sample,1
 Shuttle-NewburyportOakGroveExpress-0-1,Shuttle-NewburyportOakGroveExpress,1,Newburyport - Oak Grove (Express),,5,620701990,NewburyportOakGroveExpress-1-sample,1
 Shuttle-NewburyportOakGroveLimited-0-0,Shuttle-NewburyportOakGroveLimited,0,Oak Grove - Newburyport (Limited),,5,620710990,NewburyportOakGroveLimited-0-sample,1
@@ -1137,8 +1107,8 @@ Shuttle-NewburyportSalemExpress-0-0,Shuttle-NewburyportSalemExpress,0,Salem - Ne
 Shuttle-NewburyportSalemExpress-0-1,Shuttle-NewburyportSalemExpress,1,Newburyport - Salem (Express),,5,620751990,NewburyportSalemExpressBeverly-1-sample,1
 Shuttle-NewburyportSalemLocal-0-0,Shuttle-NewburyportSalemLocal,0,Salem - Newburyport,,5,620760990,NewburyportSalem-0-sample,1
 Shuttle-NewburyportSalemLocal-0-1,Shuttle-NewburyportSalemLocal,1,Newburyport - Salem,,5,620761990,NewburyportSalem-1-sample,1
-Shuttle-NewtonHighlandsKenmore-0-0,Shuttle-NewtonHighlandsKenmore,0,Kenmore - Newton Highlands,,5,620900990,NewtonHighlandsKenmore-Weekday-dbb7a-0-00:00:00,1
-Shuttle-NewtonHighlandsKenmore-0-1,Shuttle-NewtonHighlandsKenmore,1,Newton Highlands - Kenmore,,5,620901990,NewtonHighlandsKenmore-Weekday-dbb7a-1-00:00:00,1
+Shuttle-NewtonHighlandsKenmore-0-0,Shuttle-NewtonHighlandsKenmore,0,Kenmore - Newton Highlands,,5,620900990,NewtonHighlandsKenmore-Weekday-05612-0-00:00:00,1
+Shuttle-NewtonHighlandsKenmore-0-1,Shuttle-NewtonHighlandsKenmore,1,Newton Highlands - Kenmore,,5,620901990,NewtonHighlandsKenmore-Weekday-05612-1-00:00:00,1
 Shuttle-NewtonHighlandsReservoir-0-0,Shuttle-NewtonHighlandsReservoir,0,Reservoir - Newton Highlands,,5,620950990,NewtonHighlandsReservoir-0-sample,1
 Shuttle-NewtonHighlandsReservoir-0-1,Shuttle-NewtonHighlandsReservoir,1,Newton Highlands - Reservoir,,5,620951990,NewtonHighlandsReservoir-1-sample,1
 Shuttle-NewtonHighlandsRiverside-0-0,Shuttle-NewtonHighlandsRiverside,0,Newton Highlands - Riverside,,5,621000990,NewtonHighlandsRiverside-0-sample,1
@@ -1151,8 +1121,8 @@ Shuttle-NorthLeominsterWachusett-0-0,Shuttle-NorthLeominsterWachusett,0,North Le
 Shuttle-NorthLeominsterWachusett-0-1,Shuttle-NorthLeominsterWachusett,1,Wachusett - North Leominster,,5,621221990,NorthLeominsterWachusett-1-sample,1
 Shuttle-NorthStationSwampscottLimited-0-0,Shuttle-NorthStationSwampscottLimited,0,North Station - Swampscott,,5,621280990,NorthStationSwampscott-0-sample,1
 Shuttle-NorthStationSwampscottLimited-0-1,Shuttle-NorthStationSwampscottLimited,1,Swampscott - North Station,,5,621281990,NorthStationSwampscott-1-sample,1
-Shuttle-NorthStationSullivanSquare-0-0,Shuttle-NorthStationSullivanSquare,0,Sullivan Square - North Station,,5,621310990,NorthStationSullivanSquare-Weekday-dbb7a-0-00:00:00,1
-Shuttle-NorthStationSullivanSquare-0-1,Shuttle-NorthStationSullivanSquare,1,North Station - Sullivan Square,,5,621311990,NorthStationSullivanSquare-Weekday-dbb7a-1-00:00:00,1
+Shuttle-NorthStationSullivanSquare-0-0,Shuttle-NorthStationSullivanSquare,0,Sullivan Square - North Station,,5,621310990,NorthStationSullivanSquare-Weekday-05612-0-00:00:00,1
+Shuttle-NorthStationSullivanSquare-0-1,Shuttle-NorthStationSullivanSquare,1,North Station - Sullivan Square,,5,621311990,NorthStationSullivanSquare-Weekday-05612-1-00:00:00,1
 Shuttle-NorthStationUnionSquare-0-0,Shuttle-NorthStationUnionSquare,0,Union Square - North Station,,5,621350990,GreenDUnionSquareNorthStation-0-sample,1
 Shuttle-NorthStationUnionSquare-0-1,Shuttle-NorthStationUnionSquare,1,North Station - Union Square,,5,621351990,GreenDUnionSquareNorthStation-1-sample,1
 Shuttle-OakGroveReading-0-0,Shuttle-OakGroveReading,0,Oak Grove - Reading,,5,621700990,OakGroveReading-0-sample,1
