@@ -2984,7 +2984,6 @@ facility_id,property_id,value
 348,excludes-stop,node-qamnl-southstairs-top
 348,excludes-stop,node-qamnl-third-lobby
 349,direction,up
-349,excludes-stop,141
 349,excludes-stop,14112
 349,excludes-stop,14118
 349,excludes-stop,14120
@@ -3081,7 +3080,6 @@ facility_id,property_id,value
 349,excludes-stop,node-alfcl-wgaragestairs-second
 349,excludes-stop,node-alfcl-wgaragestairs-third
 350,direction,down
-350,excludes-stop,141
 350,excludes-stop,14112
 350,excludes-stop,14118
 350,excludes-stop,14120
@@ -3178,7 +3176,6 @@ facility_id,property_id,value
 350,excludes-stop,node-alfcl-wgaragestairs-second
 350,excludes-stop,node-alfcl-wgaragestairs-third
 351,direction,down
-351,excludes-stop,141
 351,excludes-stop,14112
 351,excludes-stop,14118
 351,excludes-stop,14120
@@ -3276,7 +3273,6 @@ facility_id,property_id,value
 351,excludes-stop,node-alfcl-wgaragestairs-second
 351,excludes-stop,node-alfcl-wgaragestairs-third
 352,direction,up
-352,excludes-stop,141
 352,excludes-stop,14112
 352,excludes-stop,14118
 352,excludes-stop,14120
@@ -3374,7 +3370,6 @@ facility_id,property_id,value
 352,excludes-stop,node-alfcl-wgaragestairs-second
 352,excludes-stop,node-alfcl-wgaragestairs-third
 353,direction,up
-353,excludes-stop,141
 353,excludes-stop,14112
 353,excludes-stop,14118
 353,excludes-stop,14120
@@ -3471,7 +3466,6 @@ facility_id,property_id,value
 353,excludes-stop,node-alfcl-wgaragestairs-second
 353,excludes-stop,node-alfcl-wgaragestairs-third
 354,direction,up
-354,excludes-stop,141
 354,excludes-stop,14112
 354,excludes-stop,14118
 354,excludes-stop,14120
@@ -3569,7 +3563,6 @@ facility_id,property_id,value
 354,excludes-stop,node-alfcl-wgaragestairs-second
 354,excludes-stop,node-alfcl-wgaragestairs-third
 355,direction,up
-355,excludes-stop,141
 355,excludes-stop,14112
 355,excludes-stop,14118
 355,excludes-stop,14120
@@ -3667,7 +3660,6 @@ facility_id,property_id,value
 355,excludes-stop,node-alfcl-wgaragestairs-second
 355,excludes-stop,node-alfcl-wgaragestairs-third
 356,direction,up
-356,excludes-stop,141
 356,excludes-stop,14112
 356,excludes-stop,14118
 356,excludes-stop,14120
@@ -3765,7 +3757,6 @@ facility_id,property_id,value
 356,excludes-stop,node-alfcl-wgaragestairs-second
 356,excludes-stop,node-alfcl-wgaragestairs-third
 357,direction,up
-357,excludes-stop,141
 357,excludes-stop,14112
 357,excludes-stop,14118
 357,excludes-stop,14120
@@ -11320,7 +11311,6 @@ facility_id,property_id,value
 812,excludes-stop,node-pktrm-wintfare-paid
 812,excludes-stop,node-pktrm-wintfare-unpaid
 813,alternate-service-text,"To exit, use Elevator 961 located at the opposite end of the platform. To board, travel east down the Alewife Linear Path to the Russell Field entrance, and use Elevator 961."
-813,excludes-stop,141
 813,excludes-stop,14112
 813,excludes-stop,14118
 813,excludes-stop,14120
@@ -11418,7 +11408,6 @@ facility_id,property_id,value
 813,excludes-stop,node-alfcl-wgaragestairs-second
 813,excludes-stop,node-alfcl-wgaragestairs-third
 814,alternate-service-text,Please use the nearby Alewife Elevator 815.
-814,excludes-stop,141
 814,excludes-stop,14112
 814,excludes-stop,14118
 814,excludes-stop,14120
@@ -11516,7 +11505,6 @@ facility_id,property_id,value
 814,excludes-stop,node-alfcl-wgaragestairs-second
 814,excludes-stop,node-alfcl-wgaragestairs-third
 815,alternate-service-text,Please use the nearby Alewife Elevator 814.
-815,excludes-stop,141
 815,excludes-stop,14112
 815,excludes-stop,14118
 815,excludes-stop,14120
@@ -15950,7 +15938,6 @@ facility_id,property_id,value
 958,excludes-stop,node-fldcr-farepaid
 958,excludes-stop,node-fldcr-fareunpaid
 961,alternate-service-text,"To exit, use Elevator 813 located at the opposite end of the platform to access the main lobby. To board, travel west down the Alewife Linear Path to the main station entrance and use Elevator 813."
-961,excludes-stop,141
 961,excludes-stop,14112
 961,excludes-stop,14118
 961,excludes-stop,14120
@@ -23578,19 +23565,19 @@ park-north-garage,operator,ProPark
 park-north-garage,owner,Private
 park-north-garage,payment-form-accepted,cash
 park-north-garage,payment-form-accepted,credit-debit-card
-park-nqncy-garage-hancock,attended,2
+park-nqncy-garage-hancock,attended,1
 park-nqncy-garage-hancock,capacity,857
 park-nqncy-garage-hancock,capacity-accessible,18
 park-nqncy-garage-hancock,car-sharing,Zipcar
 park-nqncy-garage-hancock,contact,MBTA Customer Support
 park-nqncy-garage-hancock,contact-phone,617-222-3200
 park-nqncy-garage-hancock,contact-url,https://www.mbta.com/customer-support
-park-nqncy-garage-hancock,enclosed,2
+park-nqncy-garage-hancock,enclosed,1
 park-nqncy-garage-hancock,fee-daily,Mon-Fri: $5 | Sat-Sun: $3
 park-nqncy-garage-hancock,municipality,Quincy
 park-nqncy-garage-hancock,note,"The new parking lot located at 189 Hancock St will be available for parking beginning Monday, Sep 15th."
 park-nqncy-garage-hancock,operator,Keolis Commuter Services
-park-nqncy-garage-hancock,overnight-allowed,no
+park-nqncy-garage-hancock,overnight-allowed,yes-except-snow
 park-nqncy-garage-hancock,owner,MBTA
 park-nqncy-garage-hancock,payment-app,PayByPhone
 park-nqncy-garage-hancock,payment-app-id,4277
