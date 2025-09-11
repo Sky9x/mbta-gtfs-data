@@ -2461,6 +2461,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 3455,3455,Beale St @ Farrington St,,,,42.264068,-71.021570,LocalBus,,https://www.mbta.com/stops/3455,,0,,1,Quincy,Beale Street,Farrington Street,3
 34579,34579,Ames St @ Main St,,,,42.363061,-71.088174,LocalBus,,https://www.mbta.com/stops/34579,,0,,1,Cambridge,Ames Street,Main Street,3
 3458,3458,Beale St @ N Central Ave,,,,42.261898,-71.024802,LocalBus,,https://www.mbta.com/stops/3458,,0,,1,Quincy,Beale Street,South Central Avenue,3
+34585,34585,Columbus Ave @ Dartmouth St,,,,42.345992,-71.075218,LocalBus,,https://www.mbta.com/stops/34585,,0,,1,Boston,Columbus Avenue,Chandler Street,3
 346,346,Dorchester Ave @ Adams St,,,,42.301806,-71.059649,LocalBus,,https://www.mbta.com/stops/346,,0,,1,Boston,Dorchester Avenue,Adams Street,3
 3460,3460,Beale St @ Pine St,,,,42.260749,-71.027792,LocalBus,,https://www.mbta.com/stops/3460,,0,,1,Quincy,Beale Street,Pine Street,3
 3461,3461,385 Beale St opp Summit Ave,,,,42.259713,-71.030622,LocalBus,,https://www.mbta.com/stops/3461,,0,,1,Quincy,Beale Street,Summit Avenue,3
@@ -7142,10 +7143,10 @@ FR-0451-01,,North Leominster,North Leominster - Commuter Rail - Track 1 (Outboun
 FR-0451-02,,North Leominster,North Leominster - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.539017,-71.739186,CR-zone-8,,https://www.mbta.com/stops/place-FR-0451,,0,place-FR-0451,1,Leominster,,,2
 FR-0451-B,,North Leominster - Busway,North Leominster - Commuter Rail Shuttle - Busway,,Commuter Rail Shuttle,42.538727,-71.739104,,,,,0,place-FR-0451,1,Leominster,,,3
 place-FR-0494,,Fitchburg,,,,42.580720,-71.792611,CR-zone-8,"150 Main St, Fitchburg, MA 01420",https://www.mbta.com/stops/place-FR-0494,,1,,1,Fitchburg,,,
-FR-0494-B,,Fitchburg - Intermodal Transportation Center,Fitchburg - Commuter Rail Shuttle - Intermodal Transportation Center,,Commuter Rail Shuttle,42.581041,-71.792811,,,,,0,place-FR-0494,1,Fitchburg,,,3
+FR-0494-B,,Fitchburg - Intermodal Transportation Center,Fitchburg - Commuter Rail Shuttle - Intermodal Transportation Center,,Commuter Rail Shuttle,42.581041,-71.792811,LocalBus,,https://www.mbta.com/stops/place-FR-0494,,0,place-FR-0494,1,Fitchburg,,,3
 FR-0494-CS,,Fitchburg,Fitchburg - Commuter Rail - Track 3 (All Trains),3,Track 3 (All Trains),42.580720,-71.792611,CR-zone-8,,https://www.mbta.com/stops/place-FR-0494,,0,place-FR-0494,1,Fitchburg,,,2
 place-FR-3338,,Wachusett,,,,42.553477,-71.848488,CR-zone-8,"55 Authority Dr, Fitchburg, MA 01420",https://www.mbta.com/stops/place-FR-3338,,1,,1,Fitchburg,,,
-FR-3338-B,,Wachusett - Parking Lot,Wachusett - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.553441,-71.848127,,,,,0,place-FR-3338,1,Fitchburg,,,3
+FR-3338-B,,Wachusett - Parking Lot,Wachusett - Commuter Rail Shuttle - Parking Lot,,Commuter Rail Shuttle,42.553441,-71.848127,LocalBus,,https://www.mbta.com/stops/place-FR-3338,,0,place-FR-3338,1,Fitchburg,,,3
 FR-3338-CS,,Wachusett,Wachusett - Commuter Rail - Track 3 (All Trains),3,Track 3 (All Trains),42.553477,-71.848488,CR-zone-8,,https://www.mbta.com/stops/place-FR-3338,,0,place-FR-3338,1,Fitchburg,,,2
 place-FRS-0054,,Freetown,,,,41.773672,-71.090733,CR-zone-8,"153 South Main Street, Freetown, MA, 02702",https://www.mbta.com/stops/place-FRS-0054,,1,,1,Freetown,,,
 FRS-0054-S,,Freetown,Freetown - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),41.773482,-71.091052,CR-zone-8,,https://www.mbta.com/stops/place-FRS-0054,,0,place-FRS-0054,1,Freetown,,,2
@@ -9241,11 +9242,6 @@ node-745-lobby,,Oak Grove,"Oak Grove - Top of Banks Place, busway, parking eleva
 node-745-street,,Oak Grove,"Oak Grove - Bottom of Banks Place, busway, parking elevator",,,42.436860,-71.070508,,,,level_ground,3,place-ogmnl,1,Malden,,,
 node-746-lobby,,Oak Grove,Oak Grove - Top of Orange Line elevator,,,42.437009,-71.070966,,,,level_1_lobby,3,place-ogmnl,1,Malden,,,
 node-746-platform,,Oak Grove,Oak Grove - Bottom of Orange Line elevator,,,42.437009,-71.070966,,,,level_ground,3,place-ogmnl,1,Malden,,,
-node-800-crplatform,,Oak Grove,Oak Grove - Bottom of Banks Place elevator for Commuter Rail,,,42.436976,-71.070749,,,,level_0_cr_platform,3,place-ogmnl,1,Malden,,,
-node-800-lobby,,Oak Grove,"Oak Grove - Top of Banks Place, busway, parking elevator",,,42.436976,-71.070749,,,,level_1_lobby,3,place-ogmnl,1,Malden,,,
-node-800-street,,Oak Grove,"Oak Grove - Bottom of Banks Place, busway, parking elevator",,,42.436976,-71.070749,,,,level_ground,3,place-ogmnl,1,Malden,,,
-node-801-lobby,,Oak Grove,Oak Grove - Top of Orange Line elevator,,,42.436982,-71.070950,,,,level_1_lobby,3,place-ogmnl,1,Malden,,,
-node-801-platform,,Oak Grove,Oak Grove - Bottom of Orange Line elevator,,,42.436982,-71.070950,,,,level_0_orange_platform,3,place-ogmnl,1,Malden,,,
 node-ogmnl-banksstair-lobby,,Oak Grove,"Oak Grove - Top of Banks Place, busway, parking stairs",,,42.436898,-71.070639,,,,level_1_lobby,3,place-ogmnl,1,Malden,,,
 node-ogmnl-banksstair-street,,Oak Grove,"Oak Grove - Bottom of Banks Place, busway, parking stairs",,,42.436884,-71.070482,,,,level_ground,3,place-ogmnl,1,Malden,,,
 node-ogmnl-crstair-crplatform,,Oak Grove,Oak Grove - Bottom of Commuter Rail stairs,,,42.437150,-71.070722,,,,level_0_cr_platform,3,place-ogmnl,1,Malden,,,

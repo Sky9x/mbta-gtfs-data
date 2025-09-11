@@ -1,6 +1,8 @@
 from_stop_id,to_stop_id,transfer_type,min_transfer_time,min_walk_time,min_wheelchair_time,suggested_buffer_time,wheelchair_transfer,from_trip_id,to_trip_id
 FR-0301-02,FR-0301-01,0,,,,,,HaverhillRestoredWKDY-744207-1427,HaverhillRestoredWKDY-744251-429
+FR-0301-02,FR-0301-01,0,,,,,,BETieJob-763020-1427,BETieJob-763038-429
 FR-0301-02,FR-0301-02,0,,,,,,HaverhillRestoredWKDY-744238-406,HaverhillRestoredWKDY-744200-1408
+FR-0301-02,FR-0301-02,0,,,,,,BETieJob-763025-406,BETieJob-763013-1408
 WML-0199-02,WML-0199-01,0,,,,,,Sept2ReadUpdates-764884-1561,Sept2ReadUpdates-764669-565
 WML-0199-02,WML-0199-01,0,,,,,,Sept8Read-768275-1561,Sept8Read-768060-565
 WML-0199-02,WML-0199-01,0,,,,,,SPRING2025V2-716065-1561,SPRING2025V2-716088-565
@@ -38,6 +40,7 @@ WML-0214-02,WML-0214-01,0,,,,,,SPRING2025V2-716089-560,SPRING2025V2-716068-1562
 WML-0214-02,WML-0214-01,0,,,,,,SPRING2025V2-716091-556,SPRING2025V2-716069-1558
 WML-0214-02,WML-0214-01,0,,,,,,SPRING2025V2-716109-520,SPRING2025V2-716072-1522
 ER-0168-S,ER-0168-S,1,,,,,,HaverhillRestoredWKDY-744361-193,HaverhillRestoredWKDY-744334-93
+ER-0168-S,ER-0168-S,1,,,,,,BETieJob-763133-193,BETieJob-763106-93
 FB-0095-04,NEC-2192-02,1,,,,,,Sept2ReadUpdates-764606-1756,Sept2ReadUpdates-764813-856
 FB-0095-04,NEC-2192-02,1,,,,,,Sept2ReadUpdates-764644-784,Sept2ReadUpdates-764727-984
 FB-0095-04,NEC-2192-02,1,,,,,,Sept2ReadUpdates-764699-776,Sept2ReadUpdates-764594-874
@@ -937,10 +940,10 @@ NEC-2237-03,NEC-2237-05,1,,,,,,SPRING2025V2-715954-893,SPRING2025V2-715886-693
 70035,53270,2,190,70,139,120,1,,
 70035,70034,2,76,16,21,60,1,,
 70035,WR-0045-S,2,284,44,161,240,1,,
-70036,9328,2,233,113,234,120,1,,
+70036,9328,2,235,115,243,120,1,,
 70036,Oak Grove-01,2,65,5,6,60,1,,
 70036,Oak Grove-02,2,65,5,6,60,1,,
-70036,WR-0053-S,2,350,110,230,240,1,,
+70036,WR-0053-S,2,358,118,,240,2,,
 70038,70838,2,82,22,28,60,1,,
 70039,4510,2,217,97,212,120,1,,
 70039,70040,2,69,9,12,60,1,,
@@ -1604,10 +1607,10 @@ NEC-2237-03,NEC-2237-05,1,,,,,,SPRING2025V2-715954-893,SPRING2025V2-715886-693
 93,70152,2,190,70,,120,2,,
 93,70153,2,192,72,,120,2,,
 93,79,2,199,79,102,120,1,,
-9328,70036,2,147,87,198,60,1,,
-9328,Oak Grove-01,2,147,87,198,60,1,,
-9328,Oak Grove-02,2,147,87,198,60,1,,
-9328,WR-0053-S,2,361,61,170,300,1,,
+9328,70036,2,150,90,207,60,1,,
+9328,Oak Grove-01,2,150,90,207,60,1,,
+9328,Oak Grove-02,2,150,90,207,60,1,,
+9328,WR-0053-S,2,382,82,,300,2,,
 Alewife-01,14112,2,332,212,332,120,1,,
 Alewife-01,14118,2,330,210,330,120,1,,
 Alewife-01,14120,2,302,182,293,120,1,,
@@ -2198,13 +2201,13 @@ NEC-2287-13,NEC-2287-10,2,178,58,75,120,1,,
 NEC-2287-13,NEC-2287-11,2,213,93,121,120,1,,
 NEC-2287-13,NEC-2287-12,2,208,88,114,120,1,,
 Oak Grove-01,70036,2,65,5,6,60,1,,
-Oak Grove-01,9328,2,233,113,234,120,1,,
+Oak Grove-01,9328,2,235,115,243,120,1,,
 Oak Grove-01,Oak Grove-02,2,65,5,6,60,1,,
-Oak Grove-01,WR-0053-S,2,350,110,230,240,1,,
+Oak Grove-01,WR-0053-S,2,358,118,,240,2,,
 Oak Grove-02,70036,2,65,5,6,60,1,,
-Oak Grove-02,9328,2,233,113,234,120,1,,
+Oak Grove-02,9328,2,235,115,243,120,1,,
 Oak Grove-02,Oak Grove-01,2,65,5,6,60,1,,
-Oak Grove-02,WR-0053-S,2,350,110,230,240,1,,
+Oak Grove-02,WR-0053-S,2,358,118,,240,2,,
 Union Square-01,70503,2,244,124,161,120,1,,
 Union Square-01,70504,2,244,124,161,120,1,,
 Union Square-01,Union Square-02,2,244,124,161,120,1,,
@@ -2236,10 +2239,10 @@ WR-0045-S,5327,2,201,81,161,120,1,,
 WR-0045-S,53270,2,192,72,149,120,1,,
 WR-0045-S,70034,2,182,62,181,120,1,,
 WR-0045-S,70035,2,182,62,181,120,1,,
-WR-0053-S,70036,2,240,120,240,120,1,,
-WR-0053-S,9328,2,216,96,216,120,1,,
-WR-0053-S,Oak Grove-01,2,240,120,240,120,1,,
-WR-0053-S,Oak Grove-02,2,240,120,240,120,1,,
+WR-0053-S,70036,2,256,136,,120,2,,
+WR-0053-S,9328,2,224,104,,120,2,,
+WR-0053-S,Oak Grove-01,2,256,136,,120,2,,
+WR-0053-S,Oak Grove-02,2,256,136,,120,2,,
 river-B,38155,2,122,2,,120,2,,
 river-B,70160,2,279,159,,120,2,,
 river-B,70161,2,284,164,,120,2,,
@@ -7930,32 +7933,6 @@ river-B,70161,2,284,164,,120,2,,
 925,925,4,,,,,,71377994_1,71377994_2
 925,925,4,,,,,,71466402_1,71466402_2
 966,966,4,,,,,,71373435_2,71373435_3
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-0900-Long-BF2H-A-Saturday-Summer-25,Boat-F1-1000-Hingham-BF2H-A-Saturday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1100-Long-BF2H-A-Saturday-Summer-25,Boat-F1-1200-Hingham-BF2H-A-Saturday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1300-Long-BF2H-A-Saturday-Summer-25,Boat-F1-1400-Hingham-BF2H-A-Saturday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1500-Long-BF2H-A-Saturday-Summer-25,Boat-F1-1600-Hingham-BF2H-A-Saturday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1725-Long-BF2H-A-Saturday-Summer-25,Boat-F1-1800-Hingham-BF2H-A-Saturday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1900-Long-BF2H-A-Saturday-Summer-25,Boat-F1-2000-Hingham-BF2H-A-Saturday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-2045-Long-BF2H-A-Saturday-Summer-25,Boat-F1-2130-Hingham-BF2H-A-Saturday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1000-Long-BF2H-B-Saturday-Summer-25,Boat-F1-1100-Hingham-BF2H-B-Saturday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1200-Long-BF2H-B-Saturday-Summer-25,Boat-F1-1300-Hingham-BF2H-B-Saturday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1400-Long-BF2H-B-Saturday-Summer-25,Boat-F1-1500-Hingham-BF2H-B-Saturday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1600-Long-BF2H-B-Saturday-Summer-25,Boat-F1-1700-Hingham-BF2H-B-Saturday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1800-Long-BF2H-B-Saturday-Summer-25,Boat-F1-1900-Hingham-BF2H-B-Saturday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1945-Long-BF2H-B-Saturday-Summer-25,Boat-F1-2100-Hingham-BF2H-B-Saturday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-2150-Long-BF2H-B-Saturday-Summer-25,Boat-F1-2230-Hingham-BF2H-B-Saturday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-0900-Long-BF2H-A-Sunday-Summer-25,Boat-F1-1000-Hingham-BF2H-A-Sunday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1100-Long-BF2H-A-Sunday-Summer-25,Boat-F1-1200-Hingham-BF2H-A-Sunday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1300-Long-BF2H-A-Sunday-Summer-25,Boat-F1-1400-Hingham-BF2H-A-Sunday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1500-Long-BF2H-A-Sunday-Summer-25,Boat-F1-1600-Hingham-BF2H-A-Sunday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1725-Long-BF2H-A-Sunday-Summer-25,Boat-F1-1800-Hingham-BF2H-A-Sunday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1900-Long-BF2H-A-Sunday-Summer-25,Boat-F1-2000-Hingham-BF2H-A-Sunday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1000-Long-BF2H-B-Sunday-Summer-25,Boat-F1-1100-Hingham-BF2H-B-Sunday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1200-Long-BF2H-B-Sunday-Summer-25,Boat-F1-1300-Hingham-BF2H-B-Sunday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1400-Long-BF2H-B-Sunday-Summer-25,Boat-F1-1500-Hingham-BF2H-B-Sunday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1600-Long-BF2H-B-Sunday-Summer-25,Boat-F1-1700-Hingham-BF2H-B-Sunday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1800-Long-BF2H-B-Sunday-Summer-25,Boat-F1-1900-Hingham-BF2H-B-Sunday-Summer-25
-Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1945-Long-BF2H-B-Sunday-Summer-25,Boat-F1-2100-Hingham-BF2H-B-Sunday-Summer-25
 Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-0645-Rowes-BF1-A-Weekday-Fall-25,Boat-F1-0745-Hingham-BF1-A-Weekday-Fall-25
 Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-0830-Rowes-BF1-A-Weekday-Fall-25,Boat-F1-0915-Hingham-BF1-A-Weekday-Fall-25
 Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1720-Rowes-BF1-A-Weekday-Fall-25,Boat-F1-1810-Hingham-BF1-A-Weekday-Fall-25
@@ -8035,6 +8012,32 @@ Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1630-Long-BF2H-B-Friday-LateNight-Fall-
 Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1810-Long-BF2H-B-Friday-LateNight-Fall-25,Boat-F1-1900-Hingham-BF2H-B-Friday-LateNight-Fall-25
 Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1940-Long-BF2H-B-Friday-LateNight-Fall-25,Boat-F1-2040-Hingham-BF2H-B-Friday-LateNight-Fall-25
 Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-2120-Long-BF2H-B-Friday-LateNight-Fall-25,Boat-F1-2215-Hingham-BF2H-B-Friday-LateNight-Fall-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-0900-Long-BF2H-A-Saturday-Summer-25,Boat-F1-1000-Hingham-BF2H-A-Saturday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1100-Long-BF2H-A-Saturday-Summer-25,Boat-F1-1200-Hingham-BF2H-A-Saturday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1300-Long-BF2H-A-Saturday-Summer-25,Boat-F1-1400-Hingham-BF2H-A-Saturday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1500-Long-BF2H-A-Saturday-Summer-25,Boat-F1-1600-Hingham-BF2H-A-Saturday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1725-Long-BF2H-A-Saturday-Summer-25,Boat-F1-1800-Hingham-BF2H-A-Saturday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1900-Long-BF2H-A-Saturday-Summer-25,Boat-F1-2000-Hingham-BF2H-A-Saturday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-2045-Long-BF2H-A-Saturday-Summer-25,Boat-F1-2130-Hingham-BF2H-A-Saturday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1000-Long-BF2H-B-Saturday-Summer-25,Boat-F1-1100-Hingham-BF2H-B-Saturday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1200-Long-BF2H-B-Saturday-Summer-25,Boat-F1-1300-Hingham-BF2H-B-Saturday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1400-Long-BF2H-B-Saturday-Summer-25,Boat-F1-1500-Hingham-BF2H-B-Saturday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1600-Long-BF2H-B-Saturday-Summer-25,Boat-F1-1700-Hingham-BF2H-B-Saturday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1800-Long-BF2H-B-Saturday-Summer-25,Boat-F1-1900-Hingham-BF2H-B-Saturday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1945-Long-BF2H-B-Saturday-Summer-25,Boat-F1-2100-Hingham-BF2H-B-Saturday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-2150-Long-BF2H-B-Saturday-Summer-25,Boat-F1-2230-Hingham-BF2H-B-Saturday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-0900-Long-BF2H-A-Sunday-Summer-25,Boat-F1-1000-Hingham-BF2H-A-Sunday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1100-Long-BF2H-A-Sunday-Summer-25,Boat-F1-1200-Hingham-BF2H-A-Sunday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1300-Long-BF2H-A-Sunday-Summer-25,Boat-F1-1400-Hingham-BF2H-A-Sunday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1500-Long-BF2H-A-Sunday-Summer-25,Boat-F1-1600-Hingham-BF2H-A-Sunday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1725-Long-BF2H-A-Sunday-Summer-25,Boat-F1-1800-Hingham-BF2H-A-Sunday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1900-Long-BF2H-A-Sunday-Summer-25,Boat-F1-2000-Hingham-BF2H-A-Sunday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1000-Long-BF2H-B-Sunday-Summer-25,Boat-F1-1100-Hingham-BF2H-B-Sunday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1200-Long-BF2H-B-Sunday-Summer-25,Boat-F1-1300-Hingham-BF2H-B-Sunday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1400-Long-BF2H-B-Sunday-Summer-25,Boat-F1-1500-Hingham-BF2H-B-Sunday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1600-Long-BF2H-B-Sunday-Summer-25,Boat-F1-1700-Hingham-BF2H-B-Sunday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1800-Long-BF2H-B-Sunday-Summer-25,Boat-F1-1900-Hingham-BF2H-B-Sunday-Summer-25
+Boat-Hingham,Boat-Hingham,4,,,,,,Boat-F1-1945-Long-BF2H-B-Sunday-Summer-25,Boat-F1-2100-Hingham-BF2H-B-Sunday-Summer-25
 Boat-Hull,Boat-Hull,4,,,,,,Boat-F1-0630-Long-BF2H-A-Weekday-Fall-25,Boat-F1-0730-Hull-BF2H-A-Weekday-Fall-25
 Boat-Hull,Boat-Hull,4,,,,,,Boat-F1-0800-Long-BF2H-A-Weekday-Fall-25,Boat-F1-0840-Hull-BF2H-A-Weekday-Fall-25
 Boat-Hull,Boat-Hull,4,,,,,,Boat-F1-1730-Long-BF2H-A-Weekday-Fall-25,Boat-F1-1815-Hull-BF2H-A-Weekday-Fall-25
@@ -8050,36 +8053,6 @@ Boat-Hull,Boat-Hull,4,,,,,,Boat-F1-0800-Long-BF2H-A-Friday-LateNight-Fall-25,Boa
 Boat-Hull,Boat-Hull,4,,,,,,Boat-F1-1730-Long-BF2H-A-Friday-LateNight-Fall-25,Boat-F1-1815-Hull-BF2H-A-Friday-LateNight-Fall-25
 Boat-Hull,Boat-Hull,4,,,,,,Boat-F1-0730-Long-BF2H-B-Friday-LateNight-Fall-25,Boat-F1-0805-Hull-BF2H-B-Friday-LateNight-Fall-25
 Boat-Hull,Boat-Hull,4,,,,,,Boat-F1-0840-Long-BF2H-B-Friday-LateNight-Fall-25,Boat-F1-0910-Hull-BF2H-B-Friday-LateNight-Fall-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-0800-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-0900-Long-BF2H-A-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1000-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-1100-Long-BF2H-A-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1200-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-1300-Long-BF2H-A-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1400-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-1500-Long-BF2H-A-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1600-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-1725-Long-BF2H-A-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1800-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-1900-Long-BF2H-A-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-2000-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-2045-Long-BF2H-A-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-2130-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-2215-Long-BF2H-A-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-0900-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-1000-Long-BF2H-B-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1100-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-1200-Long-BF2H-B-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1300-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-1400-Long-BF2H-B-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1500-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-1600-Long-BF2H-B-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1700-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-1800-Long-BF2H-B-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1900-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-1945-Long-BF2H-B-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-2100-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-2150-Long-BF2H-B-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-2230-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-2310-Long-BF2H-B-Saturday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-0800-Hingham-BF2H-A-Sunday-Summer-25,Boat-F1-0900-Long-BF2H-A-Sunday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1000-Hingham-BF2H-A-Sunday-Summer-25,Boat-F1-1100-Long-BF2H-A-Sunday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1200-Hingham-BF2H-A-Sunday-Summer-25,Boat-F1-1300-Long-BF2H-A-Sunday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1400-Hingham-BF2H-A-Sunday-Summer-25,Boat-F1-1500-Long-BF2H-A-Sunday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1600-Hingham-BF2H-A-Sunday-Summer-25,Boat-F1-1725-Long-BF2H-A-Sunday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1800-Hingham-BF2H-A-Sunday-Summer-25,Boat-F1-1900-Long-BF2H-A-Sunday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-2000-Hingham-BF2H-A-Sunday-Summer-25,Boat-F1-2045-Long-BF2H-A-Sunday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-0900-Hingham-BF2H-B-Sunday-Summer-25,Boat-F1-1000-Long-BF2H-B-Sunday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1100-Hingham-BF2H-B-Sunday-Summer-25,Boat-F1-1200-Long-BF2H-B-Sunday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1300-Hingham-BF2H-B-Sunday-Summer-25,Boat-F1-1400-Long-BF2H-B-Sunday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1500-Hingham-BF2H-B-Sunday-Summer-25,Boat-F1-1600-Long-BF2H-B-Sunday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1700-Hingham-BF2H-B-Sunday-Summer-25,Boat-F1-1800-Long-BF2H-B-Sunday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-1900-Hingham-BF2H-B-Sunday-Summer-25,Boat-F1-1945-Long-BF2H-B-Sunday-Summer-25
-Boat-Long,Boat-Long,4,,,,,,Boat-F1-2100-Hingham-BF2H-B-Sunday-Summer-25,Boat-F1-2150-Long-BF2H-B-Sunday-Summer-25
 Boat-Long,Boat-Long,4,,,,,,Boat-F1-0540-Hingham-BF2H-A-Weekday-Fall-25,Boat-F1-0630-Long-BF2H-A-Weekday-Fall-25
 Boat-Long,Boat-Long,4,,,,,,Boat-F1-0730-Hull-BF2H-A-Weekday-Fall-25,Boat-F1-0800-Long-BF2H-A-Weekday-Fall-25
 Boat-Long,Boat-Long,4,,,,,,Boat-F1-0840-Hull-BF2H-A-Weekday-Fall-25,Boat-F1-0910-Long-BF2H-A-Weekday-Fall-25
@@ -8138,6 +8111,36 @@ Boat-Long,Boat-Long,4,,,,,,Boat-F1-1715-Hingham-BF2H-B-Friday-LateNight-Fall-25,
 Boat-Long,Boat-Long,4,,,,,,Boat-F1-1900-Hingham-BF2H-B-Friday-LateNight-Fall-25,Boat-F1-1940-Long-BF2H-B-Friday-LateNight-Fall-25
 Boat-Long,Boat-Long,4,,,,,,Boat-F1-2040-Hingham-BF2H-B-Friday-LateNight-Fall-25,Boat-F1-2120-Long-BF2H-B-Friday-LateNight-Fall-25
 Boat-Long,Boat-Long,4,,,,,,Boat-F1-2215-Hingham-BF2H-B-Friday-LateNight-Fall-25,Boat-F1-2300-Long-BF2H-B-Friday-LateNight-Fall-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-0800-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-0900-Long-BF2H-A-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1000-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-1100-Long-BF2H-A-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1200-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-1300-Long-BF2H-A-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1400-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-1500-Long-BF2H-A-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1600-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-1725-Long-BF2H-A-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1800-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-1900-Long-BF2H-A-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-2000-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-2045-Long-BF2H-A-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-2130-Hingham-BF2H-A-Saturday-Summer-25,Boat-F1-2215-Long-BF2H-A-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-0900-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-1000-Long-BF2H-B-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1100-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-1200-Long-BF2H-B-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1300-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-1400-Long-BF2H-B-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1500-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-1600-Long-BF2H-B-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1700-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-1800-Long-BF2H-B-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1900-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-1945-Long-BF2H-B-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-2100-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-2150-Long-BF2H-B-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-2230-Hingham-BF2H-B-Saturday-Summer-25,Boat-F1-2310-Long-BF2H-B-Saturday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-0800-Hingham-BF2H-A-Sunday-Summer-25,Boat-F1-0900-Long-BF2H-A-Sunday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1000-Hingham-BF2H-A-Sunday-Summer-25,Boat-F1-1100-Long-BF2H-A-Sunday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1200-Hingham-BF2H-A-Sunday-Summer-25,Boat-F1-1300-Long-BF2H-A-Sunday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1400-Hingham-BF2H-A-Sunday-Summer-25,Boat-F1-1500-Long-BF2H-A-Sunday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1600-Hingham-BF2H-A-Sunday-Summer-25,Boat-F1-1725-Long-BF2H-A-Sunday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1800-Hingham-BF2H-A-Sunday-Summer-25,Boat-F1-1900-Long-BF2H-A-Sunday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-2000-Hingham-BF2H-A-Sunday-Summer-25,Boat-F1-2045-Long-BF2H-A-Sunday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-0900-Hingham-BF2H-B-Sunday-Summer-25,Boat-F1-1000-Long-BF2H-B-Sunday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1100-Hingham-BF2H-B-Sunday-Summer-25,Boat-F1-1200-Long-BF2H-B-Sunday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1300-Hingham-BF2H-B-Sunday-Summer-25,Boat-F1-1400-Long-BF2H-B-Sunday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1500-Hingham-BF2H-B-Sunday-Summer-25,Boat-F1-1600-Long-BF2H-B-Sunday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1700-Hingham-BF2H-B-Sunday-Summer-25,Boat-F1-1800-Long-BF2H-B-Sunday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-1900-Hingham-BF2H-B-Sunday-Summer-25,Boat-F1-1945-Long-BF2H-B-Sunday-Summer-25
+Boat-Long,Boat-Long,4,,,,,,Boat-F1-2100-Hingham-BF2H-B-Sunday-Summer-25,Boat-F1-2150-Long-BF2H-B-Sunday-Summer-25
 Boat-Rowes,Boat-Rowes,4,,,,,,Boat-F1-0600-Hingham-BF1-A-Weekday-Fall-25,Boat-F1-0645-Rowes-BF1-A-Weekday-Fall-25
 Boat-Rowes,Boat-Rowes,4,,,,,,Boat-F1-0745-Hingham-BF1-A-Weekday-Fall-25,Boat-F1-0830-Rowes-BF1-A-Weekday-Fall-25
 Boat-Rowes,Boat-Rowes,4,,,,,,Boat-F1-0915-Hingham-BF1-A-Weekday-Fall-25,Boat-F1-1720-Rowes-BF1-A-Weekday-Fall-25

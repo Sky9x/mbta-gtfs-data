@@ -246,8 +246,6 @@ facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_na
 780,780,1,elevator,place-WML-0442,"Platform to buses, Union Station","Worcester Elevator 780 (Platform to buses, Union Station)",,42.2609140,-71.7949640,1
 781,781,1,elevator,place-WML-0442,Platform to pedestrian bridge,Worcester Elevator 781 (Platform to pedestrian bridge),,42.2617530,-71.7920920,1
 782,782,1,elevator,place-WML-0442,Parking lot to pedestrian bridge ,Worcester Elevator 782 (Parking lot to pedestrian bridge ),,42.2620220,-71.7922330,1
-800,800,1,elevator,place-ogmnl,"Busway, Commuter Rail, parking lot to lobby","Oak Grove Elevator 800 (Busway, Commuter Rail, parking lot to lobby)",,42.4370180,-71.0707110,1
-801,801,1,elevator,place-ogmnl,Orange Line platform to paid lobby,Oak Grove Elevator 801 (Orange Line platform to paid lobby),,42.4370240,-71.0709570,1
 802,802,1,elevator,place-state,"Oak Grove platform to Forest Hills, Wonderland platforms","State Elevator 802 (Oak Grove platform to Forest Hills, Wonderland platforms)",,,,1
 803,803,1,elevator,place-state,"Forest Hills platform to Washington Street, Milk Street","State Elevator 803 (Forest Hills platform to Washington Street, Milk Street)",,,,1
 804,804,1,elevator,place-pktrm,"Government Center & North lobby to Tremont Street, Winter Street","Park Street Elevator 804 (Government Center & North lobby to Tremont Street, Winter Street)",,,,1
@@ -649,19 +647,19 @@ ev-nqncy-garage-hancock,,6,electric-car-chargers,place-nqncy,Hancock Street EV C
 ev-qamnl-garage,,6,electric-car-chargers,place-qamnl,EV Chargers,Quincy Adams Garage EV Chargers,,,,0
 ev-wondl-garage,,6,electric-car-chargers,place-wondl,EV Chargers,Wonderland Garage EV Chargers,,,,0
 ev-woodl-garage,,6,electric-car-chargers,place-woodl,EV Chargers,Woodland Garage EV Chargers,,,,0
-fake_36ef_bfa5_401,,1,elevator,place-WML-0442,Lobby to platform,Worcester Elevator (Lobby to platform),,,,1
-fake_3b81_7260_398,,1,elevator,place-NEC-1659,Lobby and platform to garage,Wickford Junction Elevator (Lobby and platform to garage),,,,1
-fake_3b81_7260_399,,1,elevator,place-NEC-1659,Lobby and platform to garage,Wickford Junction Elevator (Lobby and platform to garage),,,,1
-fake_3b81_c387_400,,1,elevator,place-NEC-1659,North end of platform to garage,Wickford Junction Elevator (North end of platform to garage),,,,1
-fake_5a7e_af2a_395,,1,elevator,place-NEC-2173,Lobby to pedestrian bridge,Route 128 Elevator (Lobby to pedestrian bridge),,,,1
-fake_7a57_3d92_396,,1,elevator,place-NEC-1768,Walkway to platform,TF Green Airport Elevator (Walkway to platform),,,,1
-fake_7a57_3d92_397,,1,elevator,place-NEC-1768,Walkway to platform,TF Green Airport Elevator (Walkway to platform),,,,1
-fake_99c7_af2a_392,,1,elevator,place-NHRML-0254,Lobby to pedestrian bridge,Lowell Elevator (Lobby to pedestrian bridge),,,,1
-fake_99c7_c4e9_391,,1,elevator,place-NHRML-0254,Platform 1 to pedestrian bridge,Lowell Elevator (Platform 1 to pedestrian bridge),,,,1
-fake_b748_c4e7_402,,1,elevator,place-NEC-1891,"Track 1 (outbound platform) to Pine St, Barton St","Pawtucket/Central Falls Elevator (Track 1 (outbound platform) to Pine St, Barton St)",,41.8788300,-71.3920940,1
-fake_b748_c4e7_403,,1,elevator,place-NEC-1891,"Track 1 (outbound platform) to Pine St, Barton St","Pawtucket/Central Falls Elevator (Track 1 (outbound platform) to Pine St, Barton St)",,41.8788660,-71.3920310,1
-fake_c2ed_07bd_393,,1,elevator,place-NEC-1851,Lobby to tracks 1 and 2,Providence Elevator (Lobby to tracks 1 and 2),,,,1
-fake_c2ed_e7ea_394,,1,elevator,place-NEC-1851,Lobby to tracks 3 and 5,Providence Elevator (Lobby to tracks 3 and 5),,,,1
+fake_36ef_bfa5_399,,1,elevator,place-WML-0442,Lobby to platform,Worcester Elevator (Lobby to platform),,,,1
+fake_3b81_7260_396,,1,elevator,place-NEC-1659,Lobby and platform to garage,Wickford Junction Elevator (Lobby and platform to garage),,,,1
+fake_3b81_7260_397,,1,elevator,place-NEC-1659,Lobby and platform to garage,Wickford Junction Elevator (Lobby and platform to garage),,,,1
+fake_3b81_c387_398,,1,elevator,place-NEC-1659,North end of platform to garage,Wickford Junction Elevator (North end of platform to garage),,,,1
+fake_5a7e_af2a_393,,1,elevator,place-NEC-2173,Lobby to pedestrian bridge,Route 128 Elevator (Lobby to pedestrian bridge),,,,1
+fake_7a57_3d92_394,,1,elevator,place-NEC-1768,Walkway to platform,TF Green Airport Elevator (Walkway to platform),,,,1
+fake_7a57_3d92_395,,1,elevator,place-NEC-1768,Walkway to platform,TF Green Airport Elevator (Walkway to platform),,,,1
+fake_99c7_af2a_390,,1,elevator,place-NHRML-0254,Lobby to pedestrian bridge,Lowell Elevator (Lobby to pedestrian bridge),,,,1
+fake_99c7_c4e9_389,,1,elevator,place-NHRML-0254,Platform 1 to pedestrian bridge,Lowell Elevator (Platform 1 to pedestrian bridge),,,,1
+fake_b748_c4e7_400,,1,elevator,place-NEC-1891,"Track 1 (outbound platform) to Pine St, Barton St","Pawtucket/Central Falls Elevator (Track 1 (outbound platform) to Pine St, Barton St)",,41.8788300,-71.3920940,1
+fake_b748_c4e7_401,,1,elevator,place-NEC-1891,"Track 1 (outbound platform) to Pine St, Barton St","Pawtucket/Central Falls Elevator (Track 1 (outbound platform) to Pine St, Barton St)",,41.8788660,-71.3920310,1
+fake_c2ed_07bd_391,,1,elevator,place-NEC-1851,Lobby to tracks 1 and 2,Providence Elevator (Lobby to tracks 1 and 2),,,,1
+fake_c2ed_e7ea_392,,1,elevator,place-NEC-1851,Lobby to tracks 3 and 5,Providence Elevator (Lobby to tracks 3 and 5),,,,1
 fvm-201001,,4,fare-vending-machine,place-aqucl,Fare vending machine 201001,Aquarium fare vending machine 201001,,,,0
 fvm-201002,,4,fare-vending-machine,place-aqucl,Fare vending machine 201002,Aquarium fare vending machine 201002,,,,0
 fvm-201003,,4,fare-vending-machine,place-aqucl,Fare vending machine 201003,Aquarium fare vending machine 201003,,,,0
