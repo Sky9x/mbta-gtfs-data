@@ -6406,7 +6406,7 @@ stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_
 8973,8973,River St opp Vallaro Rd,,,,42.243300,-71.140102,LocalBus,,https://www.mbta.com/stops/8973,,0,,1,Boston,River Street,Vallaro Road,3
 8975,8975,River St @ Solaris Rd,,,,42.243093,-71.143229,LocalBus,,https://www.mbta.com/stops/8975,,0,,1,Boston,River Street,Ernest Avenue,3
 8993,8993,Brookline Ave opp Newbury St,,,,42.348062,-71.097773,LocalBus,,https://www.mbta.com/stops/8993,,0,,1,Boston,Brookline Avenue,Newbury Street,3
-900,900,Water St @ Watertown Yard,,,,42.363628,-71.185536,LocalBus,"20 Watertown St, Watertown, MA 02472",https://www.mbta.com/stops/900,,0,,1,Watertown,Water Street,Technology Way,3
+900,900,Technology Way @ Watertown Yard,,,,42.363394,-71.185809,LocalBus,"20 Watertown St, Watertown, MA 02472",https://www.mbta.com/stops/900,,0,,1,Watertown,Galen Street,Technology Way,3
 9000,9000,Sylvan St @ Kimball St,,,,42.439874,-71.054012,LocalBus,,https://www.mbta.com/stops/9000,,0,,1,Malden,Sylvan Street,Kimball Street,3
 9001,9001,Sylvan St @ Blantyre Rd,,,,42.439418,-71.051859,LocalBus,,https://www.mbta.com/stops/9001,,0,,1,Malden,Sylvan Street,Gibson Street,3
 9002,9002,Sylvan St @ Gilbert St,,,,42.439347,-71.050522,LocalBus,,https://www.mbta.com/stops/9002,,0,,1,Malden,Sylvan Street,Gilbert Street,3
@@ -7489,8 +7489,8 @@ place-WML-0364,,Grafton,,,,42.246600,-71.685325,CR-zone-8,"1 Pine St, North Graf
 WML-0364,,Grafton,Grafton - Commuter Rail,,Commuter Rail,42.246600,-71.685325,CR-zone-8,,https://www.mbta.com/stops/place-WML-0364,,0,place-WML-0364,1,Grafton,,,2
 WML-0364-01,,Grafton,Grafton - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.246600,-71.685325,CR-zone-8,,https://www.mbta.com/stops/place-WML-0364,,0,place-WML-0364,1,Grafton,,,2
 WML-0364-02,,Grafton,Grafton - Commuter Rail - Track 2 (Boston),2,Track 2 (Boston),42.246600,-71.685325,CR-zone-8,,https://www.mbta.com/stops/place-WML-0364,,0,place-WML-0364,1,Grafton,,,2
-place-WML-0442,,Worcester,,,,42.261835,-71.791806,CR-zone-8,"2 Washington Sq, Worcester, MA 01608",https://www.mbta.com/stops/place-WML-0442,,1,,1,Worcester,,,
-WML-0442-CS,,Worcester,Worcester - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.261835,-71.791806,CR-zone-8,,https://www.mbta.com/stops/place-WML-0442,,0,place-WML-0442,1,Worcester,,,2
+place-WML-0442,,Worcester,,,,42.261291,-71.794927,CR-zone-8,"2 Washington Sq, Worcester, MA 01608",https://www.mbta.com/stops/place-WML-0442,,1,,1,Worcester,,,
+WML-0442-CS,,Worcester,Worcester - Commuter Rail - Track 1 (All Trains),1,Track 1 (All Trains),42.261056,-71.794428,CR-zone-8,,https://www.mbta.com/stops/place-WML-0442,,0,place-WML-0442,1,Worcester,,,2
 place-WR-0062,,Wyoming Hill,,,,42.451731,-71.069379,CR-zone-1,"40 West Wyoming Ave, Melrose, MA 02176",https://www.mbta.com/stops/place-WR-0062,,1,,2,Melrose,,,
 WR-0062,,Wyoming Hill,Wyoming Hill - Commuter Rail,,Commuter Rail,42.451731,-71.069379,CR-zone-1,,https://www.mbta.com/stops/place-WR-0062,,0,place-WR-0062,2,Melrose,,,2
 WR-0062-01,,Wyoming Hill,Wyoming Hill - Commuter Rail - Track 1 (Outbound),1,Track 1 (Outbound),42.451731,-71.069379,CR-zone-1,,https://www.mbta.com/stops/place-WR-0062,,0,place-WR-0062,2,Melrose,,,2
@@ -8470,7 +8470,11 @@ place-engav,,Englewood Avenue,,,,42.336971,-71.145660,,"Beacon St and Englewood 
 place-esomr,,East Somerville,,,,42.379467,-71.086625,,"134 Washington St, Somerville, MA 02143",https://www.mbta.com/stops/place-esomr,,1,,1,Somerville,,,
 70513,70513,East Somerville,East Somerville - Green Line - (E) Medford/Tufts,,Medford/Tufts,42.379881,-71.087032,RapidTransit,,https://www.mbta.com/stops/place-esomr,level_1_platform,0,place-esomr,1,Somerville,,,0
 70514,70514,East Somerville,East Somerville - Green Line - Copley & West,,Copley & West,42.379624,-71.086829,RapidTransit,,https://www.mbta.com/stops/place-esomr,level_1_platform,0,place-esomr,1,Somerville,,,0
+door-esomr-innerbelt,,Inner Belt Rd,Inner Belt Rd,,,42.379946,-71.087006,,,,level_1_ground,2,place-esomr,1,Somerville,,,
 door-esomr-washington,,Washington St,Washington St,,,42.379391,-71.086636,,,,level_1_ground,2,place-esomr,1,Somerville,,,
+node-esomr-innercross-entrance,,East Somerville,East Somerville - Entrance/exit end of Inner Belt Road crossing,,,42.380209,-71.087312,,,,level_1_ground,3,place-esomr,1,Somerville,,,
+node-esomr-innercross-platform,,East Somerville,East Somerville - Platform end of Inner Belt Road crossing,,,42.380164,-71.087392,,,,level_1_ground,3,place-esomr,1,Somerville,,,
+node-esomr-washcross-platform,,East Somerville,East Somerville - Platform end of Washington Street crossing,,,42.379441,-71.086584,,,,level_1_ground,3,place-esomr,1,Somerville,,,
 place-estav,,Eastern Avenue,,,,42.388374,-71.023859,,,https://www.mbta.com/stops/place-estav,,1,,1,Chelsea,,,
 74636,74636,Eastern Avenue,Eastern Avenue - Silver Line - SL3 South Station,,South Station,42.388403,-71.024090,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-estav,level_ground,0,place-estav,1,Chelsea,Chelsea Busway,Central Avenue,3
 74637,74637,Eastern Avenue,Eastern Avenue - Silver Line - SL3 Chelsea,,Chelsea,42.388476,-71.023829,SLWaterfrontNonLogan,,https://www.mbta.com/stops/place-estav,level_ground,0,place-estav,1,Chelsea,Chelsea Busway,Central Avenue,3
@@ -8728,7 +8732,8 @@ node-hymnl-ebstairs-lobby,,Hynes Convention Center,Hynes Convention Center - Top
 node-hymnl-ebstairs-platform,,Hynes Convention Center,Hynes Convention Center - Bottom of stairs for Park Street & North,,,,,,,,level_-2_platform,3,place-hymnl,1,Boston,,,
 node-hymnl-farepaid,,Hynes Convention Center,Hynes Convention Center - Paid side of fare gates,,,,,,,,level_-1_lobby,3,place-hymnl,1,Boston,,,
 node-hymnl-fareunpaid,,Hynes Convention Center,Hynes Convention Center - Unpaid side of fare gates,,,,,,,,level_-1_lobby,3,place-hymnl,1,Boston,,,
-node-hymnl-massentrance,,Hynes Convention Center,Hynes Convention Center - Bottom of stairs for Massachusetts Avenue,,,,,,,,level_-1_lobby,3,place-hymnl,1,Boston,,,
+node-hymnl-massentrance-lobby,,Hynes Convention Center,Hynes Convention Center - Bottom of stairs for Massachusetts Avenue,,,,,,,,level_-1_lobby,3,place-hymnl,1,Boston,,,
+node-hymnl-massentrance-street,,Hynes Convention Center,Hynes Convention Center - Top of stairs for Massachusetts Avenue,,,,,,,,level_in_street,3,place-hymnl,1,Boston,,,
 node-hymnl-newbury-farepaid,,Hynes Convention Center,Hynes Convention Center - Top of stairs for Newbury Street exit,,,,,,,,level_in_street,3,place-hymnl,1,Boston,,,
 node-hymnl-newbury-fareunpaid,,Hynes Convention Center,Hynes Convention Center - Unpaid side of exit-only gate,,,,,,,,level_in_street,3,place-hymnl,1,Boston,,,
 node-hymnl-newburyexit,,Hynes Convention Center,Hynes Convention Center - Bottom of stairs for Newbury Street exit,,,,,,,,level_-1_lobby,3,place-hymnl,1,Boston,,,
