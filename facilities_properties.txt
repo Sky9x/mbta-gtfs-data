@@ -17606,7 +17606,7 @@ bike-lech-northfirst,secured,2
 bike-lech-northstorage,capacity,6
 bike-lech-northstorage,enclosed,2
 bike-lech-northstorage,secured,2
-bike-lech-obrieneb,capacity,8
+bike-lech-obrieneb,capacity,16
 bike-lech-obrieneb,enclosed,2
 bike-lech-obrieneb,secured,2
 bike-lech-obrienwb,capacity,8
@@ -22298,20 +22298,19 @@ park-NEC-1919,weekday-typical-utilization,579
 park-NEC-1969,attended,2
 park-NEC-1969,capacity,780
 park-NEC-1969,capacity-accessible,16
-park-NEC-1969,contact,SP Plus Corporation
+park-NEC-1969,contact,sbanach@metropolis.io or cbosse@metropolis.io
 park-NEC-1969,contact-phone,401-274-5586
-park-NEC-1969,contact-url,http://www.gatra.org/index.php/special-services/parking-passes/
+park-NEC-1969,contact-url,https://www.gatra.org/attleboro-commuter-parking-lot/
 park-NEC-1969,enclosed,2
-park-NEC-1969,fee-daily,$5
-park-NEC-1969,fee-monthly,$90
+park-NEC-1969,fee-daily,$5.00 plus fees and taxes per vehicle per day. A violation for non payment of daily parking will result in an additional $48.00 fee.
+park-NEC-1969,fee-monthly,"$90 plus fees per month per vehicle. Available at the Attleboro MBTA train station.  To register online for your Attleboro parking pass, go to go to App.metropolis.io"
 park-NEC-1969,municipality,Attleboro
-park-NEC-1969,note,"Greater Attleboro/Taunton RTA is responsible for parking maintenance, payments, and snow removal."
+park-NEC-1969,note,"Daily and Multi-Day Payment is done through the App.Metropolis.io If using the parking lot off Riverfront Drive your vehicle is captured on entry and exit. Once payment is linked, you will be charged on vehicle exit. If parking in the Mill St Parking lot, you will need to scan a QR code in the lot to start your session."
 park-NEC-1969,operator,Greater Attleboro/Taunton Regional Transit Authority
 park-NEC-1969,overnight-allowed,yes-snow-unknown
 park-NEC-1969,owner,Local transit authority
-park-NEC-1969,payment-app,Parkmobile
-park-NEC-1969,payment-app-id,881
-park-NEC-1969,payment-app-url,https://parkmobile.io/
+park-NEC-1969,payment-app,Metropolis
+park-NEC-1969,payment-app-url,https://app.metropolis.io/sign-in
 park-NEC-1969,payment-form-accepted,mobile-app
 park-NEC-2040,attended,2
 park-NEC-2040,capacity,806
@@ -24595,12 +24594,6 @@ retailsale-302112,dispenses,fare-media
 retailsale-302112,enclosed,1
 retailsale-302112,payment-form-accepted,cash
 retailsale-302112,payment-form-accepted,credit-debit-card
-retailsale-302113,address,"707 Shirley Street, Winthrop, MA 02152"
-retailsale-302113,contact-phone,617-207-9092
-retailsale-302113,dispenses,fare-media
-retailsale-302113,enclosed,1
-retailsale-302113,payment-form-accepted,cash
-retailsale-302113,payment-form-accepted,credit-debit-card
 subplat-DB-0095-2,excludes-stop,FB-0095-04
 subplat-DB-0095-2,excludes-stop,FB-0095-05
 subplat-DB-0095-2,excludes-stop,NEC-2192-03
